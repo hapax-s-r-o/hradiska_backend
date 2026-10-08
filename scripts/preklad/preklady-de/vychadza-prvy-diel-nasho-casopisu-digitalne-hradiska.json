@@ -1,0 +1,100 @@
+{
+ "slug": "vychadza-prvy-diel-nasho-casopisu-digitalne-hradiska",
+ "data": {
+  "title": "Der erste Band unserer Zeitschrift DIGITÁLNE HRADISKÁ erscheint!",
+  "slug": "erster-band-zeitschrift-digitalne-hradiska",
+  "excerpt": "Dwarf Digital Archeology bringt in Zusammenarbeit mit dem Portal Hradiska.sk den ersten Band unserer Zeitschrift zum Thema Archäologie, Burgwälle, 3D-Visualisierungen und moderne Technologien heraus. Neben eigenen Artikeln haben wir auch mehrere Fachleute um populärwissenschaftliche Beiträge gebeten; einige der eingesandten Texte enthalten sogar bisher unveröffentlichte Informationen. Die gesamte Zeitschrift lässt sich kostenlos als PDF herunterladen.",
+  "metaTitle": "Erster Band der Zeitschrift Digitálne Hradiská",
+  "metaDescription": "Der erste Band der Zeitschrift Digitálne Hradiská von Dwarf Digital Archeology und Hradiska.sk über Archäologie, Burgwälle und 3D-Visualisierungen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5082,
+    "alt": "Die erste Ausgabe der Zeitschrift digitálne Hradiská zum Thema keltische Flachlandsiedlungen auf einem Holztisch"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology bringt in Zusammenarbeit mit dem Portal Hradiska.sk eine bisher ungesehene Neuheit heraus – den ersten Band unserer Zeitschrift zum Thema Archäologie, Burgwälle, 3D-Visualisierungen und Möglichkeiten der Nutzung moderner Technologien in diesem Bereich. Neben unseren eigenen Artikeln haben wir auch mehrere Fachleute mit der Bitte angesprochen, populärwissenschaftliche Artikel zu schreiben, und wir freuen uns sehr, dass mehrere von ihnen auf diese Möglichkeit positiv reagiert und uns hochwertige und bereichernde Artikel geschickt haben, die sogar bisher unveröffentlichte Informationen enthalten.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir glauben, dass dieser unser Pilotband der Zeitschrift möglichst viele Freunde unserer Geschichte ansprechen wird, und das wird uns Kraft und Lust geben, auch weiterhin in dieser Richtung fortzufahren. Wenn wir sehen, dass die elektronische Zeitschrift Erfolg hat, wird es angebracht sein, über die Möglichkeiten einer gedruckten Ausgabe nachzudenken. Alles andere Wichtige hat schon Igor Bazovský geschrieben, daher wünsche ich angenehme Lektüre."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der erste Band unserer Zeitschrift DIGITÁLNE HRADISKÁ erscheint!",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die gesamte Zeitschrift können Sie unter diesem Link kostenlos im PDF-Format herunterladen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.academia.edu/35344555/digit%C3%A1lne_HRADISK%C3%81_1_2017",
+        "children": [
+         {
+          "type": "text",
+          "text": "Zeitschrift DIGITÁLNE HRADISKÁ"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "\n \n \n \n \n ... wer unsere Tätigkeit jedoch freiwillig unterstützen möchte, kann das über dieses Konto tun:\n \n SK5083300000002300322086"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

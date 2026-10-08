@@ -1,0 +1,209 @@
+{
+ "slug": "informacna-tabula-marikova-simunky",
+ "data": {
+  "title": "Informationstafel am Burgwall Šimunky in Dolná Mariková",
+  "slug": "informationstafel-dolna-marikova-simunky",
+  "excerpt": "Am Sonntag, dem 24. 3. 2013, organisierte der Verein Hradiská zusammen mit der Ortsgruppe der Matica slovenská Dolná Mariková und mit finanzieller Unterstützung der Gemeinde Dolná Mariková die Aufstellung einer Informationstafel beim slawischen Burgwall in der Lage Šimunky.",
+  "metaTitle": "Informationstafel am Burgwall Šimunky (Dolná Mariková)",
+  "metaDescription": "Aufstellung einer Informationstafel beim slawischen Burgwall Šimunky in Dolná Mariková (2013) – mit der Matica slovenská und dem Entdecker G. Zemančík.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Aufstellung einer Informationstafel beim Burgwall Šimunky (Dolná Mariková)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "24. 3. 2013 (Verein Hradiská + Ortsgruppe der Matica slovenská)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2013",
+    "title": "Erste Informationstafel des Vereins",
+    "description": "Außerhalb des Burgwallareals aufgestellt; mit Teilnahme des Entdeckers G. Zemančík.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5587,
+    "caption": "Das schwere Material hinaufzutragen war nicht einfach, zum Glück kamen wir mit dem Auto recht weit",
+    "alt": "Das schwere Material hinaufzutragen war nicht einfach, zum Glück kamen wir mit dem Auto recht weit"
+   },
+   {
+    "mediaId": 5589,
+    "caption": "Der Hauptträger",
+    "alt": "Der Hauptträger"
+   },
+   {
+    "mediaId": 5591,
+    "caption": "Der erste Spatenstich",
+    "alt": "Der erste Spatenstich"
+   },
+   {
+    "mediaId": 5600,
+    "caption": "Nach gut geleisteter Arbeit warten wir auf die Živánska",
+    "alt": "Nach gut geleisteter Arbeit warten wir auf die Živánska"
+   },
+   {
+    "mediaId": 5604,
+    "caption": "Die Enthüllung der Tafel",
+    "alt": "Die Enthüllung der Tafel"
+   },
+   {
+    "mediaId": 5605,
+    "caption": "Der Wein Nitrianske knieža",
+    "alt": "Der Wein Nitrianske knieža"
+   },
+   {
+    "mediaId": 5607,
+    "caption": "Und hier ist die Tafel",
+    "alt": "Und hier ist die Tafel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Sonntag, dem 24. 3. 2013, organisierte der "
+       },
+       {
+        "type": "link",
+        "url": "http://hradiska333.blogspot.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Verein Hradiská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " zusammen mit der Ortsgruppe der Matica slovenská Dolná Mariková und mit finanzieller Unterstützung der Gemeinde Dolná Mariková die Aufstellung einer Informationstafel beim slawischen Burgwall in der Lage "
+       },
+       {
+        "type": "link",
+        "url": "/blog/dolna-marikova-simunky",
+        "children": [
+         {
+          "type": "text",
+          "text": "Šimunky"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tafel haben wir außerhalb des Burgwallareals aufgestellt, sodass wir in keiner Weise in das Gebiet der archäologischen Fundstelle eingegriffen haben. Sie befindet sich innerhalb der Ruhezone, die in der Vergangenheit der Touristenverein in Dolná Mariková angelegt hat. Von nun an kann jeder Besucher dieses außergewöhnlichen Ortes, an dem vor 1000 Jahren unsere slawischen Vorfahren lebten, grundlegende Informationen über den Burgwall erfahren, sich an den Abbildungen der Funde erfreuen, die auf dem Burgwall entdeckt wurden, und ebenso erfahren, wie der Burgwall in der Zeit Großmährens ausgesehen haben könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu unserer großen Freude nahm auch der Entdecker des Burgwalls, Herr Gašpar Zemančík, unsere Einladung an, der gemeinsam mit dem Archäologen Jozef Moravčík und mit Štefan Meliš in der Vergangenheit auf dem Burgwall eine Menge außergewöhnlicher Funde gemacht hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das schwere Material hinaufzutragen war nicht einfach, zum Glück kamen wir mit dem Auto recht weit",
+    "alt": "Das schwere Material hinaufzutragen war nicht einfach, zum Glück kamen wir mit dem Auto recht weit",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tafel enthüllte feierlich Čendo Žrec. Getauft haben wir sie symbolisch – mit dem Wein Nitrianske knieža…\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawischen Götter bescherten uns ein herrliches Wetter. Begeisterung und gute Laune haben wir mitgebracht, und wahrlich, wer gekommen war, hat es sicher nicht bedauert.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir danken allen, die an diesem unserem ersten Projekt teilgenommen haben, für die selbstlose Hilfe, dem Grundstückseigentümer für sein Entgegenkommen und dem Bürgermeister von Dolná Mariková für die finanzielle Unterstützung der Tafel.\n \n Wir freuen uns auf die nächste Tafel, die wir auf dem Burgwall Pružina – Mesciská und Hatné – Hrádok aufstellen möchten. Wer bereit ist, unseren Verein zu unterstützen, "
+       },
+       {
+        "type": "link",
+        "url": "http://hradiska333.blogspot.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier sind die nötigen Angaben"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

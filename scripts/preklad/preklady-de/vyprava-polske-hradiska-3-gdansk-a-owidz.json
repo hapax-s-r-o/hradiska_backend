@@ -1,0 +1,143 @@
+{
+ "slug": "vyprava-polske-hradiska-3-gdansk-a-owidz",
+ "data": {
+  "title": "Expedition Polnische Burgwälle 3 – Gdansk und Owidz",
+  "slug": "expedition-polnische-burgwaelle-3-gdansk-owidz",
+  "excerpt": "Der letzte Tag unserer Expedition gehörte der Hafenstadt Gdansk (Danzig) und dem slawischen Burgwall Owidz.",
+  "metaTitle": "Polnische Burgwälle 3 – Gdansk und der Burgwall Owidz",
+  "metaDescription": "Der letzte Tag der Reise des Vereins Hradiská 2022: die Altstadt von Gdansk, die Ostseeküste und der rekonstruierte slawische Burgwall Owidz.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "Reisebericht — Polnische Burgwälle 2022, Tag 3 (Gdansk, Burgwall Owidz)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6091,
+    "alt": "Luftbild des hölzernen Freilichtmuseums mit Palisade, Turm und Häusern mit Strohdächern im Herbst"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der letzte Tag unserer Expedition gehörte der Hafenstadt Gdansk (Danzig) und dem slawischen Burgwall Owidz. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "GDANSK"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach Gdansk fuhren wir vor allem deshalb, weil wir uns die polnische Ostseeküste ansehen und in der Altstadt von Gdansk essen wollten, und nebenbei hatten wir vor, das dortige archäologische Museum zu besuchen. Dieses hatten wir leider nicht das Glück zu sehen, weil es gerade umgebaut und daher geschlossen war. Umso mehr überraschte uns aber die Altstadt von Gdansk. Die unglaubliche Atmosphäre, die allgegenwärtige Geschichte, die schönen Gebäude, die alten Schiffe, der Bernstein und die Nähe des Meeres machen aus Gdansk eine großartige Stadt für mindestens ein verlängertes Wochenende. Es war uns richtig leid, dass wir sie wegen der weiteren Programmpunkte nach kurzer Zeit verlassen mussten.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für eine Weile fuhren wir an die Ostseeküste, an den dortigen Strand, und genossen das kalte Meer, den Sand und die ganze nordische Atmosphäre am Meer. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Expedition Polnische Burgwälle 3 – Gdansk und Owidz",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "OWIDZ"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vom Strand mussten wir recht unwillig ins Auto umsteigen, wenn wir noch am selben Tag die letzte, aber umso wichtigere Station erreichen wollten – den Burgwall Owidz. Dieser slawische Burgwall liegt auf dem Gipfel eines Moränenhügels, in einer Biegung des Flusses Wierzyca. Er wurde im 10. Jahrhundert errichtet und bestand bis ins 12. Jahrhundert. Die Reste der Festung nutzten die schwedischen Angreifer im 17. Jahrhundert als Militärlager. Auf dem Burgwall wurden zahlreiche Artefakte aus der slawischen Zeit des Frühmittelalters gefunden. Außer vielen Keramikscherben, Münzen und Amuletten fand sich hier ein Hundekopf, der beim Eingang eines der Häuser eingegraben war. Karolina Czonstke, eine der Mitleiterinnen der archäologischen Arbeiten, erklärte, dass der Kopf dieses Hundes geopfert und unter der Tür begraben worden war. „Dieses Ritual sollte die Sicherheit und das Wohlergehen der Hausbewohner gewährleisten und die Gunst der Hausgeister gewinnen“, sagte Czonstke. Die Forscher behaupten, die Siedlung sei dank ihrer guten Lage reich und bedeutend gewesen. Der Burgwall lag an einem Handelsweg, der nach Gdansk führte, der Hafenstadt an der Küste der Ostsee.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Expedition Polnische Burgwälle 3 – Gdansk und Owidz",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall in Owidz wurde im Jahr 2012 teilweise rekonstruiert und ist heute ein pulsierender touristischer Ort. Wir waren wirklich davon fasziniert, dass die Befestigung des Burgwalls auf dem gesamten Umfang rekonstruiert ist. Ebenso sind mehrere frühmittelalterliche Häuser und heidnische Götzen rekonstruiert. Auch dank der Art, wie der Burgwall rekonstruiert ist, finden hier regelmäßig interessante Living-History-Veranstaltungen zum Mittelalter statt. Wir haben ihn wirklich nach Herzenslust genossen und waren bis zur „Sperrstunde“ dort. Es folgte ein sehr schmackhaftes Abendessen unterhalb des Burgwalls und dann die gerade Linie nach Hause. \n"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

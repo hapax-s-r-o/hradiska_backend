@@ -616,6 +616,24 @@ v básni je v poriadku, hoci web inak vyká.
 | náučná mapa | die Lehrkarte | |
 | oddychová zóna | die Ruhezone | |
 
+| Zbručský idol | das **Idol von Zbruč** | |
+| poloostrovné hradisko | der Halbinsel-Burgwall | |
+| priezor (v palisáde) | der Sehschlitz | |
+| cimbúrie | die Zinnen | |
+| tesárska technika | die Zimmermannstechnik | |
+| povrchový zber | die **Oberflächenaufsammlung** | |
+| kresadlo | das Schlagfeuerzeug | |
+| totálka (geodetická) | die Totalstation | |
+| rozšírená realita | die **erweiterte Realität** | *Augmented Reality* pri prvom výskyte |
+| občianske združenie | der **Bürgerverein** | ďalej v texte len *der Verein* |
+| detektorovanie | das **Sondengehen** | |
+| priestupok | die Ordnungswidrigkeit | |
+| orgány činné v trestnom konaní | die Strafverfolgungsbehörden | |
+| drevozemné opevnenie | die Holz-Erde-Befestigung | |
+| spoluzostavovateľ | der Mitherausgeber | |
+| na dobierku | per Nachnahme | |
+| náklad (knihy) | die Auflage | |
+
 **Slovné hračky a názvy, ktoré sa neglosujú.** Keď by vysvetľujúca glosa
 vynútila zakázaný tvar — napríklad doslovný preklad názvu *Tajné dejiny
 Slovenska, Slovenov a Sloveniek* by si vyžiadal *Slowenen* (§11.9) — názov

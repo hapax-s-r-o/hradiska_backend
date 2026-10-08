@@ -1,0 +1,76 @@
+{
+ "slug": "voz-z-obdobia-eneolitu",
+ "data": {
+  "title": "Ein Wagen aus dem Äneolithikum – 3D-Rekonstruktion der Badener Kultur",
+  "slug": "wagen-aus-dem-aeneolithikum-badener-kultur",
+  "excerpt": "Dwarf Digital Archeology hat in Zusammenarbeit mit Nikolla Hamašová versucht, das mögliche Aussehen eines Wagens aus der Zeit der Badener Kultur (3500–2800/2600 v. Chr. – Äneolithikum) zu rekonstruieren, und zwar auf der Grundlage originaler Belege und tönerner Wagenmodelle aus dieser Zeit. Die Träger dieser Kultur gelten im Gebiet der heutigen Slowakei zugleich als die ersten Erbauer befestigter Siedlungen.",
+  "metaTitle": "Wagen aus dem Äneolithikum – 3D-Rekonstruktion",
+  "metaDescription": "Rekonstruktion der möglichen Gestalt eines Wagens der Badener Kultur (3500–2800/2600 v. Chr.) nach originalen Belegen und tönernen Wagenmodellen.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "3D-Rekonstruktion eines Wagens der Badener Kultur (Äneolithikum)",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung",
+    "value": "3500–2800/2600 v. Chr.",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology hat in Zusammenarbeit mit "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/nikollh1",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nikolla Hamašová"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " versucht, das mögliche Aussehen eines Wagens aus der Zeit der Badener Kultur (3500–2800/2600 v. Chr. – Äneolithikum) zu rekonstruieren, und zwar auf der Grundlage der Verbindung originaler Belege mit tönernen Wagenmodellen, die aus dieser Zeit stammen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Badener Kultur war auch in der Slowakei verbreitet, und ihre Träger gelten im Gebiet der heutigen Slowakei zugleich als die ersten Erbauer befestigter Siedlungen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "rH4FHpnNuVE",
+    "url": "https://www.youtube.com/embed/rH4FHpnNuVE",
+    "caption": ""
+   }
+  ]
+ }
+}

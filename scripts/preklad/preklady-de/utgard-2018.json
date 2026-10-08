@@ -1,0 +1,43 @@
+{
+ "slug": "utgard-2018",
+ "data": {
+  "title": "Utgard 2018 – ein Festival des Frühmittelalters",
+  "slug": "utgard-2018-fruehmittelalter-festival",
+  "excerpt": "Zu den Hauptattraktionen des Utgard 2018 gehörte zweifellos die große Schlacht aller männlichen Teilnehmer dieses hochwertigen Festivals des Frühmittelalters. Wir zeigen Ihnen einen der Zusammenstöße dieser grimmigen Schlacht.",
+  "metaTitle": "Utgard 2018 – Festival des Frühmittelalters",
+  "metaDescription": "Vom Festival des Frühmittelalters Utgard 2018, dessen Hauptattraktion die große Schlacht aller männlichen Teilnehmer war – mit Video eines Zusammenstoßes.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5087,
+    "caption": "Bei einer der besten Veranstaltungen zum Frühmittelalter fehlten natürlich auch die Burgwälle nicht. Hier im Gespräch mit Dr. Ján Steinhubel und Dr. Rastislav Kožiak",
+    "alt": "Bei einer der besten Veranstaltungen zum Frühmittelalter fehlten natürlich auch die Burgwälle nicht. Hier im Gespräch mit Dr. Ján Steinhubel und Dr. Rastislav Kožiak"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den Hauptattraktionen des Utgard 2018 gehörte zweifellos die große Schlacht aller männlichen Teilnehmer dieses hochwertigen Festivals des Frühmittelalters. Wir zeigen Ihnen einen der Zusammenstöße dieser grimmigen Schlacht.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "w3Ta7Ou8FKA",
+    "url": "https://www.youtube.com/embed/w3Ta7Ou8FKA",
+    "caption": ""
+   }
+  ]
+ }
+}

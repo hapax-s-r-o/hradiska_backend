@@ -1,0 +1,548 @@
+{
+ "slug": "zakladne-zasady-obcianskeho-zdruzenia-hradiska",
+ "data": {
+  "title": "Grundsätze des Bürgervereins Hradiská",
+  "slug": "grundsaetze-des-buergervereins-hradiska",
+  "excerpt": "Der Bürgerverein Hradiská ist vor allem eine Gemeinschaft von Freiwilligen mit Interesse an Geschichte, Archäologie und dem Schutz des Kulturerbes. Priorität hat nicht das Sondengehen als solches, sondern verantwortungsvolle Facharbeit für die Erkenntnis und den Schutz historischer Fundstellen. Diese Grundsätze legen fest, wie der Verein mit Archäologen zusammenarbeitet, welche Bedingungen die Mitgliedschaft hat und warum die Suche „auf eigene Faust“ zum Ausschluss führt.",
+  "metaTitle": "Grundsätze des Bürgervereins Hradiská",
+  "metaDescription": "Der Bürgerverein Hradiská ist eine Gemeinschaft von Freiwilligen: Priorität hat nicht das Sondengehen, sondern verantwortungsvolle Facharbeit.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5008,
+    "alt": "Das Logo Slovanské hradiská mit einem hölzernen Wachturm und einer Palisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bürgerverein Hradiská (im Folgenden nur „der Verein“) ist vor allem eine Gemeinschaft von Freiwilligen mit Interesse an Geschichte, Archäologie und dem Schutz des Kulturerbes. Unsere Priorität ist nicht das Sondengehen als solches, sondern systematische, verantwortungsvolle und fachliche Arbeit zugunsten der Erkenntnis und des Schutzes historischer Fundstellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Grundsätze des Bürgervereins Hradiská",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Auftrag und Ziele des Vereins"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Grundlegendes Ziel des Vereins ist es, im Einklang mit der Satzung des Vereins Kenntnisse und Informationen über die Burgwälle in der Slowakei zu sammeln, sie zu veröffentlichen und so die Informiertheit der Öffentlichkeit, die Entwicklung des Tourismus zu den Burgwallfundstellen und auch dessen Lenkung zu fördern und gleichzeitig den Interessierten in anschaulicher Form eine ungemein reiche Periode unserer Nationalgeschichte näherzubringen – das Frühmittelalter, insbesondere die Zeit Großmährens. Ziel des Vereins ist es außerdem, die älteste Geschichte der Slowakei kennenzulernen, mit Blick auf die Burganlagen der Slawen, der Kelten und der älteren Kulturen, die in der Vergangenheit das Gebiet der Slowakei bewohnten. Der Verein unterstützt daher finanziell die Autoren populärwissenschaftlicher Artikel über die Burgwälle in der Slowakei."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Im Einklang mit dem grundlegenden Ziel richtet sich der Verein auf die Wiederentdeckung der alten Burgwälle in der Slowakei in den Augen der Öffentlichkeit. Zu diesem Zweck arbeitet der Verein mit dem Webportal www.hradiska.sk zusammen. Der Verein sorgt weiterhin im Rahmen seiner finanziellen Möglichkeiten für die Herstellung von Informationstafeln über die einzelnen Burgwälle in der Slowakei und für deren Aufstellung im Gelände, wo solche Informationen fehlen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Der Verein sorgt auch für die finanzielle und mediale Unterstützung künstlerischer Tätigkeit (bildliche, audiovisuelle und andere Werke), deren Gegenstand die Burgwälle in der Slowakei sowie die Geschichte der Slawen und der Kelten im Gebiet der heutigen Slowakei sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Ein weiteres Ziel ist es, Einzelpersonen mit Interesse an der ältesten Geschichte der Slowakei zusammenzuführen und ihre schöpferische Tätigkeit in den unter Punkt 3 skizzierten Bereichen zu aktivieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Nicht zuletzt ist es auch Ziel, mit kulturellen und gegebenenfalls anderen Behörden und Organisationen sowie mit Bürgervereinen auf dem Gebiet der Geschichte und des Glaubens der Slawen und der Kelten zusammenzuarbeiten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Der Verein Hradiská arbeitet außerdem mit der Fach- und der Laienöffentlichkeit bei der Erfüllung der Ziele des Bürgervereins zusammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Zu den Tätigkeiten des Vereins gehört auch die Teilnahme an offiziellen archäologischen Ausgrabungen unter Einsatz von Metalldetektoren. Das Sondengehen ist nur eine der möglichen Formen der Zusammenarbeit und findet immer ausschließlich im Rahmen der gesetzlichen Regeln, der Methodik und konkreter Genehmigungen statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Zusammenarbeit mit Archäologen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zusammenarbeit im Bereich der Feldforschung findet ausschließlich statt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "unter der Leitung berechtigter Archäologen,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "auf der Grundlage ordnungsgemäßer Genehmigungen,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "nach einer streng festgelegten Methodik."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Verbot des Sondengehens ohne Zustimmung und Wissen eines Archäologen"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "I. Der Bürgerverein Hradiská ist keine Plattform für die Schirmherrschaft über individuelles Suchen und auch nicht für die Legalisierung privater Aktivitäten im Gelände ohne Genehmigung (im Folgenden nur Suche „auf eigene Faust“)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "II. Das Mitglied des Vereins nimmt zur Kenntnis, dass das Aufsuchen archäologischer Funde ohne Genehmigung des zuständigen Denkmalamtes eine illegale Tätigkeit ist und dass es sich damit einer Ordnungswidrigkeit im Bereich des Schutzes des archäologischen Erbes oder der Straftat der Beschädigung und Entwertung des archäologischen Erbes nach § 249 des Strafgesetzbuches schuldig machen kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "III. Das Mitglied des Vereins sichert zu, dass es nicht auf eigene Faust mit dem Metalldetektor suchen wird, ohne Wissen der Archäologen und der übrigen Mitglieder des Vereins."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "IV. Verstößt ein Mitglied gegen die oben angeführte Regel, wird es deswegen aus dem Verein ausgeschlossen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "V. Der Verein übernimmt für niemanden, der ohne Genehmigung eines Archäologen bzw. des zuständigen Denkmalamtes mit dem Metalldetektor sucht, Schutz oder Gewähr. Die Mitgliedschaft im Verein ist in keinem Fall ein mildernder Umstand, wenn gegen diese Regel bzw. wenn gegen das Gesetz verstoßen wird. Im Gegenteil, der Verein wird in einem solchen Fall den Strafverfolgungsbehörden bei der Untersuchung des ehemaligen Vereinsmitglieds volle Mitwirkung leisten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Bedingungen der Mitgliedschaft"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mitgliedschaft im Verein ist keine Formalität. Sie erfordert:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "ernsthaftes Interesse an Geschichte und Denkmalschutz,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "die Bereitschaft, sich an vielfältiger freiwilliger Tätigkeit zu beteiligen, nicht nur am Sondengehen,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "die Achtung der gesetzlichen und ethischen Regeln,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "eine nachweisbare und langfristige Zusammenarbeit mit dem Verein."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ist der Interessent in erster Linie Sondengänger, ist die grundlegende Bedingung einer weiteren Zusammenarbeit:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "die Bereinigung aller illegal gefundenen archäologischen Gegenstände durch ihre ordnungsgemäße Übergabe an berechtigte Archäologen,"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "die Verpflichtung, keine individuelle Suche auf eigene Faust durchzuführen."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Verschwiegenheit"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Informationen über Fundstellen und Ausgrabungen, die wir im Verein erfahren, gelten als geheim, solange sich die Mitglieder in der Gruppe nicht darauf verständigen (meist nach Beratung mit den Archäologen), dass die Information veröffentlicht werden darf. Die Mitglieder werden daher insbesondere in den sozialen Netzwerken keine Informationen über laufende Ausgrabungen veröffentlichen. Ebenso gilt die Regel, dass Funde aus Ausgrabungen, die für die Mitglieder des Vereins zugänglich sind, ohne Genehmigung der Archäologen und ohne vorherige Absprache mit den Archäologen nirgends öffentlich publiziert und nicht außerhalb des Vereins weitergegeben werden dürfen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Kapazitäten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Derzeit hat der Verein keine freien Kapazitäten für eine systematische Einarbeitung neuer Mitglieder und für die Gewährleistung ihrer Tätigkeit. Eine Zusammenarbeit ist vor allem durch die allmähliche Beteiligung an konkreten Aktivitäten und Ausgrabungen möglich, bei denen wir uns persönlich kennenlernen und die Möglichkeiten eines weiteren Wirkens beurteilen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Alternativen für Interessenten am Sondengehen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn jemanden ausschließlich das Sondengehen interessiert, empfehlen wir, sich direkt an das zuständige Kreisdenkmalamt zu wenden und sich über die Möglichkeiten legaler Freiwilligenarbeit im Rahmen offizieller Projekte zu informieren. Unser Anspruch ist es, eine Gemeinschaft von Menschen aufzubauen, die den Wert des archäologischen Erbes begreifen, ihm mit Respekt begegnen und bereit sind, ihre Zeit und ihre Energie in sinnvolle freiwillige Arbeit zu investieren – nicht nur in das Suchen von Funden, sondern in deren Schutz, Erforschung und Präsentation für die Öffentlichkeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "8. Sondengehen mit uns ohne Mitgliedschaft im Verein Hradiská"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie ausschließlich am Sondengehen mit uns bei archäologischen Ausgrabungen interessiert sind, aber kein Mitglied des Vereins Hradiská sind, können Sie sich unter der E-Mail-Adresse hradiska333@gmail.com als Interessent für eine Mithilfe bei Ausgrabungen melden; in diesem Fall teilen wir Ihnen in manchen Fällen (nach vorheriger Absprache mit dem Archäologen) den Termin und die Fundstelle der durchgeführten Ausgrabung sowie die Kontaktdaten des Organisators mit. Für Helfer, die keine Mitglieder des Vereins sind, übernimmt der Verein keinerlei Verantwortung."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

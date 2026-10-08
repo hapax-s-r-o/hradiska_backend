@@ -1,0 +1,54 @@
+{
+ "slug": "velkomoravske-hradiska",
+ "data": {
+  "title": "Veľkomoravské hradiská – ein neues Buch über die großmährischen Burgwälle",
+  "slug": "velkomoravske-hradiska-buch-dajama",
+  "excerpt": "In diesem Monat erschien im Verlag Dajama ein neues, außerordentlich interessantes Buch – Veľkomoravské hradiská. Am Inhalt war auch unsere Seite www.hradiska.sk beteiligt. Es lohnt sich wirklich sehr, zögern Sie also nicht.",
+  "metaTitle": "Veľkomoravské hradiská – neues Buch (Dajama)",
+  "metaDescription": "Das neue Buch Veľkomoravské hradiská aus dem Verlag Dajama über großmährische Burgwälle, an dessen Inhalt auch die Seite Hradiska.sk beteiligt war.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Monat erschien im Verlag Dajama ein neues, außerordentlich interessantes Buch – Veľkomoravské hradiská. Am Inhalt war auch unsere Seite www.hradiska.sk beteiligt. Es lohnt sich wirklich sehr, zögern Sie also nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie finden es HIER: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.dajamabooks.sk/index.aspx?PageType=1&Kod=396&Kateg=1",
+        "children": [
+         {
+          "type": "text",
+          "text": "VEĽKOMORAVSKÉ HRADISKÁ"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
