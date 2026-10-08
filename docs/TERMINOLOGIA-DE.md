@@ -41,7 +41,9 @@ Rozsah rokov a storočí s pomlčkou bez medzier: *833–907*, *8.–9. Jahrhund
 **Čísla a miery. Roky, počty, rozmery a nadmorské výšky sa NEPREPOČÍTAVAJÚ
 ani nezaokrúhľujú.**
 Desatinná čiarka ostáva: `1,5 km` → *1,5 km*.
-Tisíce bodkou: `35 000` → *35.000*.
+Tisíce bodkou **až od piatich cifier**: `35 000` → *35.000*, ale
+`2 000 rokov` → *2000 Jahre* (štvorciferné číslo sa v nemčine nerozdeľuje).
+Letopočty sa nerozdeľujú nikdy: *1663*, *um 833*.
 `m n. m.` → **m ü. M.** (*über Meer*); nemecké *m ü. NN* sa viaže na nemecký
 výškový systém, pri slovenských kótach by bolo vecne nesprávne.
 `ha` → *ha*, `m²` → *m²*. Rozsah: `12 – 14 ha` → *12–14 ha*.
@@ -598,6 +600,15 @@ v básni je v poriadku, hoci web inak vyká.
 | nížinná osada | die Flachlandsiedlung | |
 | Spišský hrad | die **Zipser Burg** | exonym pri prvom výskyte |
 | Trenčianske múzeum | das Trenčiner Museum | |
+
+| dieres | die Diere (pl. Dieren) | |
+| penteconter | die **Pentekontere** | |
+| monoxyl | das Monoxylon (Einbaum) | |
+| taran (lode) | der **Rammsporn** | zbraň: *Rammbock* |
+| aténsky námorný spolok | der **Attische Seebund** | |
+| kosoštvorec (ornament) | die Raute | |
+| triskelion | die **Triskele** | |
+| Taranisovo koleso | das Rad des Taranis | |
 
 **Odkaz s jazykovou glosou.** Keď slovenský text odkazuje na nemecký zdroj
 s poznámkou „(nem.)", je tá poznámka v nemeckom preklade bezpredmetná —

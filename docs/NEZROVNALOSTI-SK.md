@@ -613,3 +613,6 @@ preložený, rovnako ako anglická.
 
 **danuvina-alacris-opat-na-vodach-dunaja**
 : blok 4 označuje Vetera I (13/12 p. n. l. – 70) ako „mladšie" a Vetera II (71 – 3. stor.) ako „staršie" — zámena
+
+**mozete-nam-dat-2-z-dane**
+: posledná veta nemá koncovú bodku ani sloveso za číslom účtu
