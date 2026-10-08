@@ -590,6 +590,20 @@ v básni je v poriadku, hoci web inak vyká.
 | Jihomoravský kraj | die **Region Südmähren** | |
 | Orava (región) | die **Arwa** | glosa pri prvom výskyte |
 
+| puklica | der Zierbuckel | |
+| okuliarovitá spona | brillenförmige Spiralfibel | |
+| zliatok (bronzu) | der Bronzegusskuchen | |
+| dohľadávačka (detektor) | der Pinpointer | |
+| „farba" (slang detektoristov) | das Buntmetall | |
+| nížinná osada | die Flachlandsiedlung | |
+| Spišský hrad | die **Zipser Burg** | exonym pri prvom výskyte |
+| Trenčianske múzeum | das Trenčiner Museum | |
+
+**Odkaz s jazykovou glosou.** Keď slovenský text odkazuje na nemecký zdroj
+s poznámkou „(nem.)", je tá poznámka v nemeckom preklade bezpredmetná —
+odkaz sa presunie na názov diela a glosa odpadne. Počet odkazov ani cieľové
+adresy sa tým meniť nesmú.
+
 **Hradiská viacerých kultúr v jednej vete.** Keď veta hovorí naraz o slovanských
 aj keltských či pravekých lokalitách, nedá sa použiť *Burgwall* (slovanský) ani
 *befestigte Höhensiedlung* (praveká) — spoločný tvar je **Burganlagen**.

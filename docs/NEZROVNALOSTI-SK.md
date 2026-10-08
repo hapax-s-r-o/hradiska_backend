@@ -610,3 +610,6 @@ preložený, rovnako ako anglická.
 
 **hladanie-bez-hranic-cesko-slovensky-dialog-archeologov-a-detektoristov**
 : bloky 2–4 sú po česky (prevzatý text AÚ AV ČR)
+
+**danuvina-alacris-opat-na-vodach-dunaja**
+: blok 4 označuje Vetera I (13/12 p. n. l. – 70) ako „mladšie" a Vetera II (71 – 3. stor.) ako „staršie" — zámena
