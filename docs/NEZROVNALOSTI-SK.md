@@ -607,3 +607,6 @@ preložený, rovnako ako anglická.
 
 **vitazstvo**
 : v treťom citáte je preklep „Najpr" (správne „Najprv")
+
+**hladanie-bez-hranic-cesko-slovensky-dialog-archeologov-a-detektoristov**
+: bloky 2–4 sú po česky (prevzatý text AÚ AV ČR)

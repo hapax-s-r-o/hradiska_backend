@@ -584,6 +584,16 @@ v básni je v poriadku, hoci web inak vyká.
 | brigáda (dobrovoľnícka) | der **Arbeitseinsatz** | nie *Brigade* |
 | náletové dreviny | wild aufgewachsene Gehölze | |
 
+| keška, geokeška | der **Geocache** | úkryt: *das Versteck* |
+| archeoskanzen | das **archäologische Freilichtmuseum** | |
+| ročník (akcie) | die **Auflage** | nie *Jahrgang* pri podujatí |
+| Jihomoravský kraj | die **Region Südmähren** | |
+| Orava (región) | die **Arwa** | glosa pri prvom výskyte |
+
+**Hradiská viacerých kultúr v jednej vete.** Keď veta hovorí naraz o slovanských
+aj keltských či pravekých lokalitách, nedá sa použiť *Burgwall* (slovanský) ani
+*befestigte Höhensiedlung* (praveká) — spoločný tvar je **Burganlagen**.
+
 **„Drevozemný val" × „drevozemná hradba".** Keď autor píše *val* (násyp), je to
 **ein Wall aus Holz und Erde** — nie *Holz-Erde-Mauer*, tá je konštrukcia
 hradby, a *Holz-Erde-Wall* slovník zakazuje ako neexistujúci tvar. Keď autor
