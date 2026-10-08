@@ -622,3 +622,12 @@ preložený, rovnako ako anglická.
 
 **sutaz-o-mapu-velkej-moravy**
 : blok 0 nemá koncovú bodku (veta končí odkazom „Slovia")
+
+**odhalovanie-tajomstiev-antickeho-rima-na-strednom-dunaji**
+: blok 22 je nedokončená veta („mohol slúžiť nielen na presun…" bez pokračovania)
+
+**plavba-rimskou-lodou-po-dunaji-2-diel**
+: blok 11 má ten istý odstavec dvakrát; „tábor palanquinov" je zmätok z maďarského palánk (= palisáda); pri Intercise je „predhradie 176 × asi 200 m" zrejme samotná pevnosť; Intercisa nebola sídlom légie, ale pomocnej posádky
+
+**putovanie-za-rimskymi-pamiatkami-v-afrike**
+: interval 825 – 814/813 pred Kr. je datovanie ZALOŽENIA Kartága, nie jeho existencie; veta o Pupput je logicky poprekrúcaná; „Tento rok na jeseň budú voľby" nemá v archívnom článku rok

@@ -634,6 +634,30 @@ v básni je v poriadku, hoci web inak vyká.
 | na dobierku | per Nachnahme | |
 | náklad (knihy) | die Auflage | |
 
+| detektorizmus (nelegálny) | die **(illegale) Sondengängerei** | |
+| kultová hora | der Kultberg | |
+| archeopark | der **Archäopark** | |
+| kastel / légiový tábor | das **Kastell** / das **Legionslager** | |
+| palisádový tábor | das Palisadenlager | maď. *palánk* = palisáda |
+| trávniková tehla | der Rasenziegel | |
+| predmostie | der Brückenkopf | |
+| vicus militaris | das „Lagerdorf" | |
+| Pohanská brána (Carnuntum) | das **Heidentor** | |
+| Podunajská rovina × nížina | die Donauebene × das Kleine Ungarische Tiefland | treba rozlíšiť |
+| rieka Litava | die **Leitha** | |
+| vápencom vykladaná keramika | mit Kalk inkrustierte Keramik | |
+| náhodný nález | der **Zufallsfund** | |
+| Pamiatkový úrad SR | das Denkmalamt | krajský: *Kreisdenkmalamt* |
+| archeologický objekt (sídliskový) | der **Befund** | nie *Objekt* |
+| ZŠ s MŠ | die Grundschule mit Kindergarten | |
+| UKF v Nitre | die Konstantin-der-Philosoph-Universität in Nitra | |
+| SNM | das Slowakische Nationalmuseum (SNM) | pri prvom výskyte rozpísať |
+| „Zost." v bibliografii | „Hrsg." | |
+| púnsky votívny nápis | die punische Votivinschrift | |
+| sufet | der Sufet | |
+| Blatenské kniežatstvo | das Fürstentum von Mosaburg (Blatnohrad) | |
+| lusoria (hliadkovací čln) | das Patrouillenboot vom Typ lusoria | |
+
 **Slovné hračky a názvy, ktoré sa neglosujú.** Keď by vysvetľujúca glosa
 vynútila zakázaný tvar — napríklad doslovný preklad názvu *Tajné dejiny
 Slovenska, Slovenov a Sloveniek* by si vyžiadal *Slowenen* (§11.9) — názov
