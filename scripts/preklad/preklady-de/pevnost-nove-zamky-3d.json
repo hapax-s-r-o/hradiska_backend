@@ -1,0 +1,120 @@
+{
+ "slug": "pevnost-nove-zamky-3d",
+ "data": {
+  "title": "Die Festung Nové Zámky – eine 3D-Rekonstruktion",
+  "slug": "festung-nove-zamky-3d-rekonstruktion",
+  "excerpt": "Vor tausend Jahren hat uns Gott gemahnt, als man das sechshundertdreiundsechzigste schrieb. Es kam der Türke, der Tatar, der grausame Feind, und lagerte sein Heer vor Nové Zámky.",
+  "metaTitle": "Die Festung Nové Zámky – eine 3D-Rekonstruktion",
+  "metaDescription": "Eine 3D-Rekonstruktion der Festung Nové Zámky, die 1545 zum Schutz vor den Türken entstand und 1663 trotz zäher Verteidigung dem türkischen Heer erlag.",
+  "keyFacts": [
+   {
+    "label": "Gründung",
+    "value": "1545, auf Beschluss des Graner Erzbischofs Pavol Várday",
+    "icon": "calendar"
+   },
+   {
+    "label": "Lage",
+    "value": "Am linken Ufer der Neutra",
+    "icon": "map"
+   },
+   {
+    "label": "Zweck",
+    "value": "Teil des ungarischen Verteidigungssystems von Burgen und Festungen gegen die Türken",
+    "icon": "shield"
+   },
+   {
+    "label": "Untergang",
+    "value": "1663 – trotz zäher Verteidigung vom türkischen Heer erobert",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1545",
+    "title": "Entstehung der ersten Festung",
+    "description": "Die erste Festung von Nové Zámky entstand auf Beschluss des Graner Erzbischofs Pavol Várday zum Schutz der Güter, am linken Ufer der Neutra.",
+    "type": "founding"
+   },
+   {
+    "year": "1663",
+    "title": "Eroberung der Festung durch das türkische Heer",
+    "description": "Die neue Festung widerstand trotz zäher Verteidigung der Übermacht des türkischen Heeres nicht.",
+    "type": "battle"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.poem",
+    "text": "Vor tausend Jahren hat uns Gott gemahnt,\nals man das sechshundertdreiundsechzigste schrieb.\nEs kam der Türke, der Tatar, der grausame Feind,\nund lagerte sein Heer vor Nové Zámky.\n\nAls wir den Herrn Gott nicht fürchten wollten,\nden Nächsten wie uns selbst von Herzen lieben,\nnach seinen Geboten hier wandeln,\nsein heiliges Wort mit Füßen treten,\n\nin unserer lieben Heimat sicher wohnend,\nkeines unserer Unglücke gedenkend,\nan fleischlichen Lüsten Gefallen findend,\nnur dem Geiz und dem Hochmut folgend.",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "-I6TidJRdQk",
+    "url": "https://www.youtube.com/embed/-I6TidJRdQk",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Festung von Nové Zámky entstand auf Beschluss des Erzbischofs von Gran (Esztergom), Pavol Várday, zum Schutz der Güter am linken Ufer der Neutra im Jahr 1545. Sie gehörte zum ungarischen Verteidigungssystem von Burgen und Festungen, die zum Schutz vor den Türken errichtet worden waren. Nach ihrer Zerstörung wurde eine neue Festung erbaut, die jedoch trotz zäher Verteidigung der Übermacht des türkischen Heeres im Jahr 1663 nicht widerstand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Igor Furugláš, Mitglied und Mitarbeiter unseres Vereins, hat sich entschlossen, diese bedeutende alte Festung, deren Fall für das Königreich Ungarn eine vieljährige Unterwerfung unter die Türken bedeutete, mithilfe einer 3D-Visualisierung wieder zum Leben zu erwecken. Wir haben versucht, die heute bekannten erhaltenen Parameter der Befestigung und ihrer inneren Bebauung einzuhalten. Die Beschreibungen zum Video hat für uns der Schauspieler und Direktor des Theaters "
+       },
+       {
+        "type": "link",
+        "url": "http://divadlopodbalkonom.sk/category/predstavenia/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Divadlo pod balkónom"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", Ján Harry Haruštiak, gesprochen, wofür ihm großer Dank gebührt. Urteilen Sie selbst, ob uns die Rekonstruktion gelungen ist..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

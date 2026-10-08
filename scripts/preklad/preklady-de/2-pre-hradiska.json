@@ -1,0 +1,57 @@
+{
+ "slug": "2-pre-hradiska",
+ "data": {
+  "title": "2 % der Steuer für Hradiská – Ergebnisse des Jahres 2016",
+  "slug": "zwei-prozent-der-steuer-fuer-hradiska-2016",
+  "excerpt": "Wenn Sie sich noch nicht entschieden haben, wem Sie 2 % Ihrer Steuer zuwenden, stellen wir Ihnen die Ergebnisse unserer Tätigkeit im Jahr 2016 vor. Alle Funde stammen aus offiziellen archäologischen Ausgrabungen, bei denen wir mitgeholfen haben. Wir haben einen Sammelband über Burgwälle herausgegeben und weitere Informationstafeln vorbereitet; außerdem widmen wir uns nun hochwertigen 3D-Rekonstruktionen.",
+  "metaTitle": "2 % der Steuer für Hradiská – Ergebnisse 2016",
+  "metaDescription": "Ergebnisse der Tätigkeit des Vereins Hradiská im Jahr 2016 – Mithilfe bei offiziellen archäologischen Ausgrabungen, ein Sammelband und neue Informationstafeln.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie sich noch nicht entschieden haben, wem Sie 2 % Ihrer Steuer zuwenden, bieten wir Ihnen die Ergebnisse unserer Tätigkeit im Jahr 2016 an. Alle Funde stammen aus offiziellen archäologischen Ausgrabungen, bei denen wir mitgeholfen haben. Wir haben einen Sammelband über Burgwälle herausgegeben und weitere Informationstafeln vorbereitet. Wir haben auch begonnen, uns hochwertigen 3D-Rekonstruktionen von Burgwällen und Bauten zu widmen. Darüber hinaus sind auf der Website natürlich neue Burgwälle hinzugekommen. Wir widmen uns auch der Rettung und dem Schutz der Burgwälle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://drive.google.com/open?id=0Bz79Vf5Wo5JwUzlHdE1LVFdVZEU",
+        "children": [
+         {
+          "type": "text",
+          "text": "Das Formular für die Zuwendung von 2 % können Sie hier herunterladen."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "HzdB-CxSyV8",
+    "url": "https://www.youtube.com/embed/HzdB-CxSyV8",
+    "caption": ""
+   }
+  ]
+ }
+}

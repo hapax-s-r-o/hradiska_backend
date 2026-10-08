@@ -1,0 +1,85 @@
+{
+ "slug": "pribinova-druzina",
+ "data": {
+  "title": "Pribinas Gefolgschaft – die Namen der Adligen des 9. Jahrhunderts",
+  "slug": "pribinas-gefolgschaft-namen-der-adligen",
+  "excerpt": "Die Conversio Bagoariorum et Carantanorum (Die Bekehrung der Bayern und Karantanen) bringt neben einer Fülle anderer außergewöhnlicher Nachrichten auch eine für uns besonders interessante Angabe: die Namen der Angehörigen von Pribinas Gefolgschaft – und damit wahrscheinlich die Namen der Adligen aus dem Gebiet der heutigen Slowakei im ersten Drittel des 9. Jahrhunderts, die zusammen mit Pribina Nitrava nach deren militärischer Besetzung durch Mojmír verlassen mussten.",
+  "metaTitle": "Pribinas Gefolgschaft – Namen der Adligen des 9. Jahrhunderts",
+  "metaDescription": "Die Conversio Bagoariorum et Carantanorum nennt die Namen von Pribinas Gefolgschaft – Adligen, die Nitrava nach der Besetzung durch Mojmír verließen.",
+  "keyFacts": [
+   {
+    "label": "Quelle",
+    "value": "Conversio Bagoariorum et Carantanorum (Die Bekehrung der Bayern und Karantanen)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Ereignis",
+    "value": "Weihe der Kirche auf Pribinas Burgwall an der Sala",
+    "icon": "building"
+   },
+   {
+    "label": "Datierung",
+    "value": "Jahr 850",
+    "icon": "calendar"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Die Namen von 15 Mitgliedern der Gefolgschaft Pribinas – wahrscheinlich Adlige aus dem Gebiet der heutigen Slowakei im ersten Drittel des 9. Jahrhunderts",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1. Drittel des 9. Jahrhunderts",
+    "title": "Pribina verlässt Nitrava",
+    "description": "Pribina und seine Gefolgschaft mussten Nitrava nach deren militärischer Besetzung durch Mojmír verlassen.",
+    "type": "event"
+   },
+   {
+    "year": "850",
+    "title": "Weihe der Kirche an der Sala",
+    "description": "Erzbischof Liupram weihte auf Pribinas Burgwall an der Sala in Anwesenheit von Pribinas Gefolgschaft eine Kirche zu Ehren der heiligen Gottesmutter Maria.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Conversio Bagoariorum et Carantanorum (Die Bekehrung der Bayern und Karantanen) bringt uns neben einer Fülle anderer außergewöhnlicher Nachrichten auch eine für uns besonders interessante Angabe – die Namen der Angehörigen von Pribinas Gefolgschaft und damit wahrscheinlich die Namen der Adligen aus dem Gebiet der heutigen Slowakei im ersten Drittel des 9. Jahrhunderts, die zusammen mit Pribina Nitrava nach deren militärischer Besetzung durch Mojmír verlassen mussten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Welche Namen trugen also diese Adligen? Lesen Sie:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Als sich jedoch inzwischen eine Gelegenheit bot, erhielt Pribina damals auf Bitten der Getreuen des genannten Königs einen Teil Niederpannoniens an dem Fluss, der Sala genannt wird, zu Lehen. Daraufhin ließ er sich dort nieder und begann, in einem sumpfigen Hain am Ufer der Sala einen Burgwall zu errichten. Von allen Seiten sammelte er Menschen und vermehrte die Zahl seiner Untertanen. Ihm (Pribina) hatte einst Erzbischof Adalram auf seinem eigenen Besitz jenseits der Donau eine Kirche an dem Ort geweiht, der Nitrava genannt wird. Nachdem er also den genannten Burgwall erbaut hatte, ließ er darin zuerst eine Kirche errichten, die im Jahr 850 Erzbischof Liupram zu Ehren der heiligen Gottesmutter Maria weihte, als er in dieser Gegend eifrig sein priesterliches Amt ausübte. Bei der Weihe waren anwesend: Kocel, Unzat, Chotemír, Ľutemír, Skrben, Siliz, Vlkina, Vitemír, Trebic, Prisnec, Zemin, Žeška, Grimišin, Gojmír, Žitislav (in der lateinischen Fassung Chezil, Unzat, Chotemir, Liutemir, Zcurben, Siliz, Wlkina, Witemir, Trebiz, Brisnuz, Zuemir, Zeska, Crimisin, Goimer, Zistilo), Amalrich, Altwart, Wilhelm, Fridepercht, Scroť, Gunther, ein anderer Gunther, Arfrid, Nidrich, Isanpero, Rato, Deotrich, ein anderer Deotrich, Madalprecht, Engilhast, Waltker und Deotpald. Die anwesenden Adligen sahen und hörten die Verhandlung zwischen Liupram und Pribina an dem Tag, an dem die Kirche geweiht wurde, d. h. am neunten Tag vor den Kalenden des Februar.",
+    "author": "Conversio Bagoariorum et Carantanorum",
+    "source": "Die Bekehrung der Bayern und Karantanen (9. Jahrhundert)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "dolne-vestenice-kresba-slovanskeho-hradiska",
+ "data": {
+  "title": "Dolné Vestenice – Zeichnung eines slawischen Burgwalls",
+  "slug": "dolne-vestenice-zeichnung-slawischer-burgwall",
+  "excerpt": "Tomáš Humaj hat uns ein schönes Weihnachtsgeschenk gemacht: seine Vorstellung vom Aussehen des slawischen Burgwalls in Dolné Vestenice, der erst vor wenigen Jahren entdeckt und erst jetzt publiziert wurde. Von hier stammen viele schöne großmährische Funde, in einem Felsüberhang unterhalb der Anlage kamen Reste einer Schmiedewerkstatt zum Vorschein. Der tafelförmige Berg machte eine mächtige Wallbefestigung fast überall entbehrlich – nur im Norden sichert ein Wall den leichteren Zugang.",
+  "metaTitle": "Dolné Vestenice – Zeichnung eines slawischen Burgwalls",
+  "metaDescription": "Künstlerische Vorstellung des slawischen Burgwalls in Dolné Vestenice von Tomáš Humaj, wo zahlreiche schöne großmährische Funde zum Vorschein kamen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Dolné Vestenice",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "Großmähren (slawischer Burgwall)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Funde",
+    "value": "Reste einer Schmiedewerkstatt in einem Felsüberhang unterhalb des Burgwalls",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6331,
+    "alt": "Federzeichnung eines langgezogenen Burgwalls mit Palisade, Tor und Häusern auf dem Bergrücken"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tomáš Humaj hat uns ein schönes Weihnachtsgeschenk gemacht – er hat seine Vorstellung vom Aussehen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/dolne-vestenice-slovanske-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "des slawischen Burgwalls in Dolné Vestenice"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " gezeichnet, der erst vor wenigen Jahren entdeckt und erst jetzt publiziert wurde. Auf diesem Burgwall wurde eine große Menge schöner Funde aus der Zeit Großmährens entdeckt. Im Felsen unterhalb des Burgwalls befindet sich ein Felsüberhang, in dem Reste einer Schmiedewerkstatt zum Vorschein kamen. Der Burgwall liegt auf einem im wahrsten Sinne des Wortes tafelförmigen Berg, sodass hier keine mächtige Wallbefestigung errichtet werden musste und auf dem größten Teil des Umfangs eine hölzerne Palisade ausreichte. Nur im nördlichen Teil, wo der Zugang leichter war, ist ein mächtiger Wall angelegt. Bei ihm befand sich offenbar auch das Eingangstor. Jedem empfehle ich wärmstens einen Besuch dieses außergewöhnlichen Ortes …"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

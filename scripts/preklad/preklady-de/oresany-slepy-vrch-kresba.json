@@ -1,0 +1,70 @@
+{
+ "slug": "oresany-slepy-vrch-kresba",
+ "data": {
+  "title": "Orešany – Slepý vrch: Zeichnung der ältesten keltischen Höhensiedlung",
+  "slug": "oresany-slepy-vrch-keltische-hoehensiedlung-zeichnung",
+  "excerpt": "Unser Mitarbeiter Haden Sutton hat für uns eine Zeichnung der ältesten keltischen befestigten Höhensiedlung in der Slowakei angefertigt – Slepý vrch an der Grenze der Gemarkungen von Horné und Dolné Orešany. Die vor allem von Siedlungsterrassen gebildete Innenfläche war intensiv bewohnt; davon zeugen noch heute zahlreiche Scherben keltischer Keramik.",
+  "metaTitle": "Orešany – Slepý vrch, älteste keltische Höhensiedlung",
+  "metaDescription": "Eine Zeichnung von Haden Sutton zeigt Slepý vrch bei Orešany – die älteste keltische befestigte Höhensiedlung in der Slowakei, mit Palisaden und Terrassen.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Orešany – Slepý vrch",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Haden Sutton",
+    "icon": "users"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "älteste keltische Höhensiedlung in der Slowakei",
+    "icon": "star"
+   },
+   {
+    "label": "Lage",
+    "value": "an der Grenze der Gemarkungen von Horné und Dolné Orešany",
+    "icon": "map"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6332,
+    "alt": "Bleistiftzeichnung: eine ovale Höhensiedlung mit zwei Palisadenlinien und Hütten auf einer Anhöhe"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Haden Sutton hat für uns eine Zeichnung der ältesten keltischen befestigten Höhensiedlung in der Slowakei angefertigt – Slepý vrch. Die Höhensiedlung liegt an der Grenze der Gemarkungen der Gemeinden Horné und Dolné Orešany. Die Innenfläche der Höhensiedlung, die vor allem von Siedlungsterrassen gebildet wird, war intensiv bewohnt. Davon zeugen noch heute die zahlreich vorkommenden Scherben keltischer Keramik, die auf den künstlich angelegten Terrassen rund um den Hügel verstreut sind, auf denen ursprünglich die Behausungen standen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Zeichnung wird Teil der Informationstafel, die unser Verein Hradiská auf der Höhensiedlung in Orešany anbringen wird. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

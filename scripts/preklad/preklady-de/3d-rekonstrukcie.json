@@ -1,0 +1,94 @@
+{
+ "slug": "3d-rekonstrukcie",
+ "data": {
+  "title": "3D-Rekonstruktionen von Burgwällen und vom Leben in der Urgeschichte",
+  "slug": "3d-rekonstruktionen-von-burgwaellen",
+  "excerpt": "In der Slowakei fehlt es derzeit sehr an hochwertigen archäologischen Visualisierungen, Rekonstruktionen und ideellen Rekonstruktionen. Unsere Seite versucht diesen Zustand zumindest teilweise zu verbessern und bringt gelegentlich Zeichnungen und 3D-Visualisierungen von Burgwällen und vom Leben im Frühmittelalter oder in der Urgeschichte. Im Januar 2017 entstand dazu, auch in Zusammenarbeit mit unserem Bürgerverein Hradiská, das Projekt Dwarf digital archeology.",
+  "metaTitle": "3D-Rekonstruktionen von Burgwällen und der Urgeschichte",
+  "metaDescription": "Hochwertige archäologische Visualisierungen und 3D-Rekonstruktionen von Burgwällen und vom Leben im Frühmittelalter und in der Urgeschichte.",
+  "keyFacts": [
+   {
+    "label": "Projekt",
+    "value": "Dwarf digital archeology – Zusammenarbeit mit dem Bürgerverein Hradiská",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Januar 2017",
+    "title": "Entstehung des Projekts Dwarf digital archeology",
+    "description": "In Zusammenarbeit mit dem Bürgerverein Hradiská entstand ein Projekt, das auf hochwertigere 3D-Visualisierungen in der Archäologie ausgerichtet ist, in Zusammenarbeit mit mehreren Archäologen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6328,
+    "alt": "3D-Rekonstruktion eines runden slawischen Burgwalls mit hölzerner Palisade und Wällen, Blick aus der Vogelperspektive"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Slowakei empfinden wir derzeit einen großen Mangel an hochwertigen archäologischen Visualisierungen, Rekonstruktionen und ideellen Rekonstruktionen. Diesen unerfreulichen Zustand versucht unsere Seite teilweise zu verbessern; sie bringt gelegentlich verschiedene Zeichnungen und 3D-Visualisierungen von Burgwällen und vom Leben im Frühmittelalter oder in der Urgeschichte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Januar 2017 entstand, teilweise auch in Zusammenarbeit mit unserem Bürgerverein Hradiská, ein neues Projekt mit dem Namen Dwarf digital archeology, das sich zum Ziel gesetzt hat, die Qualität der 3D-Visualisierungen in der Archäologie auf ein höheres Niveau zu bringen; zu diesem Zweck wurde eine Zusammenarbeit mit mehreren Archäologen angeknüpft."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Seite des Projekts können Sie sich hier ansehen: "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=ts",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf digital archeology"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Vorschau einiger in Arbeit befindlicher Modelle:"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

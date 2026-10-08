@@ -1,0 +1,173 @@
+{
+ "slug": "divin-3d",
+ "data": {
+  "title": "Divín 3D – eine gotische Burg über dem Weg zu den Bergwerken",
+  "slug": "burg-divin-3d-rekonstruktion",
+  "excerpt": "Die Burg Divín ist heute eine Ruine, doch an der Wende vom 12. zum 13. Jahrhundert wurde sie zum Schutz des Weges in das mittelslowakische Bergbaugebiet errichtet; erstmals erwähnt wird sie im Jahr 1329. Von 1575 bis 1593 hielten sie die Türken besetzt, 1683 setzten kaiserliche Truppen die Burg in Brand. Unsere 3D-Rekonstruktion zeigt sie zu Beginn des 17. Jahrhunderts, in der Zeit ihrer größten Blüte unter dem Geschlecht der Balaša.",
+  "metaTitle": "Divín 3D – gotische Burg über dem Weg zu den Bergwerken",
+  "metaDescription": "3D-Rekonstruktion der gotischen Burg Divín, die seit der Wende vom 12. zum 13. Jahrhundert den Weg in das Bergbaugebiet der Mittelslowakei schützte.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Divín (Bezirk Lučenec)",
+    "icon": "map"
+   },
+   {
+    "label": "Entstehung der Burg",
+    "value": "Wende vom 12. zum 13. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "1329",
+    "icon": "scroll"
+   },
+   {
+    "label": "Bautyp",
+    "value": "gotische Burg, später Renaissance-Herrenhaus",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Wende vom 12. zum 13. Jahrhundert",
+    "title": "Entstehung der Burg Divín",
+    "description": "Die Burg wurde zum Schutz des Weges in das mittelslowakische Bergbaugebiet errichtet, wahrscheinlich von einem Angehörigen des Geschlechts der Losonci aus Lučenec.",
+    "type": "event"
+   },
+   {
+    "year": "1329",
+    "title": "Erste schriftliche Erwähnung",
+    "description": "Die älteste belegte schriftliche Erwähnung der Burg Divín.",
+    "type": "event"
+   },
+   {
+    "year": "1469",
+    "title": "Schenkung der Burg an Michal Orság",
+    "description": "Nach einer erfolglosen Verschwörung gegen den König schenkte Matthias Corvinus die Burg an Michal Orság.",
+    "type": "event"
+   },
+   {
+    "year": "1559",
+    "title": "Bau einer neuen Vorburg",
+    "description": "Unter den Balaša wurde eine neue Vorburg mit einer Bastion und zwei Eckbasteien errichtet.",
+    "type": "event"
+   },
+   {
+    "year": "1575–1593",
+    "title": "Besetzung durch die Türken",
+    "description": "Die Türken eroberten die Burg nach langer Belagerung und hielten sie bis zum Jahr 1593 besetzt, als sie das königliche Heer gemeinsam mit Bálint Balaša zurückeroberte.",
+    "type": "event"
+   },
+   {
+    "year": "1683",
+    "title": "Eroberung und Brandschatzung der Burg",
+    "description": "Die kaiserlichen Truppen eroberten die Burg und setzten sie wegen der Raubzüge ihres Besitzers Imrich Balaša in Brand.",
+    "type": "event"
+   },
+   {
+    "year": "Anfang des 17. Jahrhunderts",
+    "title": "Zeit der größten Blüte",
+    "description": "Die in der 3D-Rekonstruktion dargestellte Zeit, als die Burg dem Geschlecht der Balaša gehörte.",
+    "type": "event"
+   },
+   {
+    "year": "zweite Hälfte des 17. Jahrhunderts",
+    "title": "Bau des Renaissance-Herrenhauses",
+    "description": "In der Mitte der Gemeinde Divín, unterhalb des Burgbergs, ließ Imrich III. Balaša ein Renaissance-Herrenhaus errichten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4554,
+    "alt": "3D-Rekonstruktion einer Steinburg auf einem Hügel im Nebel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg Divín ist die Ruine einer gotischen Burg, deren Überreste in der Gemeinde Divín liegen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg wurde an der Wende vom 12. zum 13. Jahrhundert zum Schutz des Weges in das mittelslowakische Bergbaugebiet errichtet. Die erste schriftliche Erwähnung stammt aus dem Jahr 1329. Erbaut hat sie wahrscheinlich ein Angehöriger des Geschlechts der Losonci aus Lučenec, doch nach einer erfolglosen Verschwörung gegen den König, an der sich auch Žigmund und Štefan aus Lučenec beteiligten, schenkte Matthias Corvinus die Burg im Jahr 1469 Michal Orság. Kurz danach besaß sie bereits Ján Nádašdy Ongor, und nach seinem Tod bemächtigte sich Žigmund Balaša der Burg mit Gewalt. Unter den Balaša wurde im Jahr 1559 eine neue Vorburg mit modernen Verteidigungselementen errichtet, nämlich einer Bastion und zwei Eckbasteien. Doch auch diese Maßnahmen verhinderten nicht, dass die Burg im Jahr 1575 nach langer Belagerung und Bedrohung von den Türken erobert wurde, die sie bis zum Jahr 1593 besetzt hielten, als sie das königliche Heer gemeinsam mit Bálint Balaša zurückeroberte. Zum Verhängnis wurden der Burg die Raubzüge ihres Besitzers Imrich Balaša: Im Jahr 1683 wurde sie von den kaiserlichen Truppen erobert und in Brand gesetzt. Die Burg hat das Mauerwerk und die Disposition einer mittelalterlichen Burg bewahrt. Sie wird schrittweise durch archäologische Ausgrabungen freigelegt und konserviert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Divín 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir stellen Ihnen eine idealisierte 3D-Rekonstruktion der Burg Divín aus der Zeit ihrer größten Blüte zu Beginn des 17. Jahrhunderts vor, als sie dem Geschlecht der Balaša gehörte. Diese Rekonstruktion haben wir gemeinsam mit der 3D-Rekonstruktion des Zichy-Herrenhauses aus einer späteren Zeit erstellt, die Sie weiter unten finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "f817RDwdLeg",
+    "url": "https://www.youtube.com/embed/f817RDwdLeg",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Mitte der Gemeinde Divín, direkt unterhalb des Burgbergs von Divín, steht ein Renaissance-Herrenhaus, das Imrich III. Balaša in der zweiten Hälfte des 17. Jahrhunderts erbauen ließ. Das Herrenhaus wurde zum nationalen Kulturdenkmal erklärt. Es ist von einer Festungsmauer mit vier mächtigen Bastionen umgeben. Es stellt eine markante architektonische Dominante der Gemeinde dar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

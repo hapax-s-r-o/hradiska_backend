@@ -1,0 +1,98 @@
+{
+ "slug": "keltska-osada-3d",
+ "data": {
+  "title": "Keltische Siedlung 3D – ein Dorf aus der Südslowakei",
+  "slug": "keltische-siedlung-3d-visualisierung",
+  "excerpt": "Unsere neue 3D-Visualisierung zeigt eine idealisierte Vorstellung einer keltischen Siedlung aus dem Gebiet der Südslowakei. Die Kelten nutzten neben größeren Blockbauten eingetiefte Grubenhäuser, die jenen der späteren Slawen ähnelten, jedoch größer waren. Häuser mit einem Verputz aus Lehmbewurf konnten gefärbte Wände haben, sogar mit gemalter Verzierung; dazu kommen typische keltische Keramik, Waffen und ein Webstuhl. Fachlich berieten uns die Archäologen Radovan Čambal und Branislav Kovár.",
+  "metaTitle": "Keltische Siedlung 3D – ein Dorf aus der Südslowakei",
+  "metaDescription": "3D-Visualisierung einer idealisierten keltischen Siedlung aus der Südslowakei – mit Blockbauten und eingetieften Grubenhäusern mit Lehmbewurf.",
+  "keyFacts": [
+   {
+    "label": "Kultur",
+    "value": "keltisch (Latènezeit)",
+    "icon": "users"
+   },
+   {
+    "label": "Lage",
+    "value": "Südslowakei",
+    "icon": "map"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "etwa vor 2000 Jahren",
+    "icon": "calendar"
+   },
+   {
+    "label": "Fachliche Zusammenarbeit",
+    "value": "Radovan Čambal, Branislav Kovár",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor etwa 2000 Jahren",
+    "title": "Keltische Siedlung in der Südslowakei",
+    "description": "Die Visualisierung zeigt die idealisierte Gestalt einer 2000 Jahre alten keltischen Siedlung.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6318,
+    "alt": "3D-Rekonstruktion eines Hauses mit strohgedecktem Satteldach und rot gemaltem Giebel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir stellen Ihnen unsere neue 3D-Visualisierung vor. Dieses Mal handelt es sich um eine idealisierte Vorstellung einer keltischen Siedlung aus dem Gebiet der Südslowakei. Die Kelten nutzten neben größeren Blockbauten ähnliche eingetiefte Grubenhäuser, wie wir sie später bei den Slawen kennen, sie waren jedoch größer und unterschieden sich in einigen Details. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Häuser mit einem „Verputz“ aus Lehmbewurf konnten gefärbte Wände haben, sogar mit gemalter Verzierung. Wir haben auch typische keltische Keramik, Waffen und einen Webstuhl verwendet. Ein Spaziergang durch ein 2000 Jahre altes keltisches Dorf hat eine einzigartige Atmosphäre. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "xvJt3ZmRpCM",
+    "url": "https://www.youtube.com/embed/xvJt3ZmRpCM",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die fachliche Hilfe danken wir den Archäologen Radovan Čambal und Branislav Kovár.\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

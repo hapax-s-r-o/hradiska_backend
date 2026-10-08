@@ -1,0 +1,120 @@
+{
+ "slug": "nitrianska-blatnica-rotunda-3d",
+ "data": {
+  "title": "Nitrianska Blatnica – die Rotunde des hl. Georg in 3D",
+  "slug": "nitrianska-blatnica-rotunde-des-hl-georg-3d",
+  "excerpt": "In 6 km Entfernung östlich des Gehöfts in Ducové, bereits auf der zum Neutratal gewandten Seite des Marhát-Massivs, in der Waldzone in einer Höhe von 450 m ü. M. und knapp 5 km von Nitrianska Blatnica entfernt, steht das Kirchlein des hl. Georg, ein traditioneller Pilgerort – im Volksmund „Blatnický Ďurko“. Nach den neuesten Untersuchungen könnte die Rotunde noch in der Zeit des Großmährischen Reiches errichtet worden sein.",
+  "metaTitle": "Nitrianska Blatnica – die Rotunde des hl. Georg in 3D",
+  "metaDescription": "Eine 3D-Rekonstruktion der Rotunde des hl. Georg im Marhát-Massiv, bekannt als Blatnický Ďurko – möglicherweise noch ein Bau aus der Zeit Großmährens.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Kirchlein des hl. Georg, ca. 5 km von Nitrianska Blatnica (Marhát-Massiv)",
+    "icon": "building"
+   },
+   {
+    "label": "Datierung",
+    "value": "9. bis Anfang 10. Jahrhundert (Zeit Großmährens)",
+    "icon": "calendar"
+   },
+   {
+    "label": "3D-Visualisierung",
+    "value": "Dwarf digital archeology in Zusammenarbeit mit hradiska.sk",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. – Anf. 10. Jh.",
+    "title": "Vermutete Errichtung der Rotunde",
+    "description": "Nach den neuesten Untersuchungen von Jozef Dorica könnte die Rotunde noch in der Zeit des Großmährischen Reiches errichtet worden sein.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4558,
+    "alt": "Gemalte Rekonstruktion einer weißen Rotunde mit rundem Kirchenschiff und Apsis in der Landschaft"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In 6 km Entfernung östlich des Gehöfts in Ducové, bereits auf der zum Neutratal gewandten Seite des Marhát-Massivs, in der Waldzone in einer Höhe von 450 m ü. M., knapp 5 km von Nitrianska Blatnica entfernt, steht das Kirchlein des hl. Georg, ein traditioneller Pilgerort der Bewohner der umliegenden Teile des Waagtals und des Neutratals. Es trägt auch die inoffizielle Bezeichnung „Blatnický Ďurko“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die neuesten Untersuchungen vor allem von Jozef Dorica andeuten, die in den letzten Jahren durchgeführt wurden, wurde die Rotunde in vorromanischer Zeit errichtet, was zusammen mit ihrer Lage im Areal eines Adelsgehöfts dafür spricht, dass die Rotunde noch in der Zeit des Großmährischen Reiches, im 9. bzw. zu Beginn des 10. Jahrhunderts, errichtet worden sein könnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "1j0X6f0ekS4",
+    "url": "https://www.youtube.com/embed/1j0X6f0ekS4",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf digital archeology hat in Zusammenarbeit mit www.hradiska.sk versucht, eine Visualisierung des möglichen Aussehens der Rotunde in der Zeit Großmährens zu schaffen. Als Grundlage für die Einrichtung des Innenraums dienten uns Fotografien der Sankt Prokulus Kirche aus dem 8./9. Jahrhundert, die bis heute im italienischen Naturns steht und in der der ursprüngliche Altar und sogar ein Teil der Ausschmückung erhalten geblieben sind. Als Vorlage für das Kreuz und den Kelch, die auf dem Altar stehen, haben wir uns von Abbildungen aus dem sogenannten "
+       },
+       {
+        "type": "link",
+        "url": "http://digital.wlb-stuttgart.de/sammlungen/sammlungsliste/werksansicht/?no_cache=1&tx_dlf%5Bid%5D=1343&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=1&cHash=9ae1462941d5c039f9a4e6c1f37a591a",
+        "children": [
+         {
+          "type": "text",
+          "text": "Stuttgarter Psalter"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " inspirieren lassen, in dem interessante Details aus dem Leben im Frühmittelalter dargestellt sind. Für die Bereitstellung einiger Materialien gebührt der Dank den Archäologen Hana Chorvátová und Miloš Bernart. Die weitere Umgebung der Rotunde ist nur annähernd nach Höhenlinien modelliert, nicht jedoch genau, da uns keine LiDAR-Aufnahmen dieser Fundstelle zur Verfügung standen. Teil der Visualisierung ist auch eine annähernde Darstellung des späteren barocken Umbaus der Rotunde. Hier haben wir uns jedoch nicht auf Details konzentriert, da der barocke Umbau recht gut bekannt ist. Musik – Gregorian Chant – Deus, Deus Meus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitrianska Blatnica – Rotunde 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

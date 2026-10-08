@@ -1,0 +1,120 @@
+{
+ "slug": "hatne-skala-a-hradok",
+ "data": {
+  "title": "Hatné – Skala und Hrádok: eine romantische Zeichnung zweier kleiner Burgen",
+  "slug": "hatne-skala-und-hradok-zeichnung",
+  "excerpt": "Unser Mitarbeiter Tomáš Humaj hat eine leicht romantische Vorstellung der beiden kleinen Burgen in der Gemeinde Hatné gezeichnet – teils nach dem heutigen Zustand, teils nach einer Sage, die bereits am Ende des 19. Jahrhunderts aufgezeichnet wurde und die Štefan Janšák in den 30er Jahren des 20. Jahrhunderts erneut erwähnt: Die beiden Burgen seien durch eine Brücke aus Leder verbunden gewesen. Aussehen, Ausstattung und Bewaffnung der Gefolgschaft gehören in das 9. Jahrhundert.",
+  "metaTitle": "Hatné – Skala und Hrádok, Zeichnung zweier kleiner Burgen",
+  "metaDescription": "Leicht romantische Zeichnung der beiden kleinen Burgen in Hatné von Tomáš Humaj – gestützt auf den heutigen Zustand und eine Sage aus dem 19. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Autor der Zeichnung",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "Dargestellte Burgen",
+    "value": "Beide kleinen Burgen in der Gemeinde Hatné (Skala und Hrádok)",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitstellung der Ausrüstung der Gefolgschaft",
+    "value": "9. Jahrhundert (Großmähren)",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 19. Jahrhunderts",
+    "title": "Aufzeichnung der Sage",
+    "description": "Die Sage von der Brücke aus Leder, die die beiden kleinen Burgen verband, wurde erstmals aufgezeichnet.",
+    "type": "event"
+   },
+   {
+    "year": "30er Jahre des 20. Jahrhunderts",
+    "title": "Štefan Janšák erwähnt die Sage",
+    "description": "Štefan Janšák erwähnt in seinem Werk erneut die Sage von der Brücke aus Leder zwischen den beiden kleinen Burgen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4310,
+    "caption": "Die Zeichnung trägt den Titel „Rückkehr des örtlichen Adligen aus dem Kampf“.",
+    "alt": "Die Zeichnung trägt den Titel „Rückkehr des örtlichen Adligen aus dem Kampf“."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Tomáš Humaj hat eine neue großartige Zeichnung eines Burgwalls geschaffen. Dieses Mal haben wir der Fantasie ein wenig die Zügel gelassen und eine leicht romantische Vorstellung der beiden "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hatne",
+        "children": [
+         {
+          "type": "text",
+          "text": "kleinen Burgen in der Gemeinde Hatné"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " gezeichnet, die sich teils auf den heutigen Zustand und teils auf eine erhaltene Sage stützt. Nach dieser Sage, die bereits am Ende des 19. Jahrhunderts aufgezeichnet wurde und die Štefan Janšák in den 30er Jahren des 20. Jahrhunderts erneut erwähnt, waren die beiden kleinen Burgen durch eine Brücke aus Leder verbunden. In Wirklichkeit ist archäologisch bisher nicht bestätigt, dass die beiden Burgen gleichzeitig besiedelt waren, geschweige denn die Existenz einer Brücke aus Leder – aber was wäre, wenn …"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wall der kleinen Burg auf der Skala war wohl etwas niedriger als auf dem Bild, und die Signaltürmchen sind archäologisch bisher nicht bestätigt. Die übrigen Teile der Zeichnung gehen jedoch von unseren verfügbaren Kenntnissen über die Form und den Grundriss der beiden Burgwälle in der Vergangenheit, über die Art des Hausbaus und über die Konstruktion hölzerner Palisaden in der Zeit Großmährens aus. Auch das Aussehen, die Ausstattung und die Bewaffnung der Gefolgschaft lassen sich in das 9. Jahrhundert einordnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Zeichnung trägt den Titel „Rückkehr des örtlichen Adligen aus dem Kampf“.",
+    "alt": "Die Zeichnung trägt den Titel „Rückkehr des örtlichen Adligen aus dem Kampf“.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vielen Dank für diese großartige Leistung. Das Bild wird Teil einer Informationstafel, die unser Bürgerverein Hradiská künftig beim Burgwall in Hatné aufstellen wird."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

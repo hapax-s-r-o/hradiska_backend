@@ -1,0 +1,101 @@
+{
+ "slug": "bohatstvo-slovenov-slavic-wealth",
+ "data": {
+  "title": "Der Reichtum der Slawen – Schätze der großmährischen Burgwälle",
+  "slug": "reichtum-der-slawen-grossmaehrische-schaetze",
+  "excerpt": "Eine Bilderschau zur Goldschmiedekunst und zum Schmuck der slawischen Bevölkerung Großmährens aus dem 7. bis 10. Jahrhundert. Die meisten Stücke stammen von Burgwällen in Mähren und in der Slowakei, vor allem der Goldschmuck aus Mikulčice.",
+  "metaTitle": "Der Reichtum der Slawen – großmährische Schätze",
+  "metaDescription": "Bilderschau zum Entwicklungsstand und Reichtum der slawischen Vorfahren — Goldschmuck aus Mikulčice und Funde von Burgwällen in Mähren und der Slowakei.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Der Gold- und Schmuckreichtum der slawischen Bevölkerung Großmährens",
+    "icon": "crown"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "7.–10. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Gebiet",
+    "value": "Burgwälle in Mähren und in der Slowakei, vor allem Mikulčice",
+    "icon": "map"
+   },
+   {
+    "label": "Quelle der Fotografien",
+    "value": "Ján Dekan (1979), Dvořák – Stopy dávnej minulosti 3, Kouřil & Poláček (2013)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7.–10. Jahrhundert",
+    "title": "Die Zeit Großmährens",
+    "description": "Der abgebildete Schmuck und die goldenen Artefakte stammen aus dieser Zeit, überwiegend aus dem Gebiet des heutigen Tschechien und der Slowakei.",
+    "type": "event"
+   },
+   {
+    "year": "1979",
+    "title": "Erscheinen des Buches Veľká Morava, Doba a umenie",
+    "description": "Ján Dekan gab im Verlag Tatran in Bratislava die Publikation heraus, aus der die meisten Fotografien dieser Galerie stammen (Foto: Alexander Paul).",
+    "type": "event"
+   },
+   {
+    "year": "2013",
+    "title": "Publikation über das Gold von Mikulčice",
+    "description": "Pavel Kouřil und Lumír Poláček veröffentlichten den Artikel Goldfunde von Mikulčice – Probleme und Perspektiven, der den Goldschmuck aus Mikulčice dokumentiert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3810,
+    "caption": "(Stopy dávnej minulosti 3)",
+    "alt": "(Stopy dávnej minulosti 3)"
+   },
+   {
+    "mediaId": 3811,
+    "caption": "(Stopy dávnej minulosti 3)",
+    "alt": "(Stopy dávnej minulosti 3)"
+   },
+   {
+    "mediaId": 3809,
+    "caption": "Goldschmuck und ein Solidus aus Mikulčice",
+    "alt": "Goldschmuck und ein Solidus aus Mikulčice"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die meisten dieser großartigen Zeugnisse für den hohen Entwicklungsstand und den Reichtum unserer slawischen Vorfahren stammen von Burgwällen in Mähren und in der Slowakei. Die Mehrzahl der Fotografien stammt aus dem Buch Ján Dekan: Veľká Morava, Doba a umenie, Bratislava 1979, Tatran (Foto: Alexander Paul), einige sind von Dvořák aus Stopy dávnej minulosti 3. Der Goldschmuck aus Mikulčice wurde in dem Artikel Pavel Kouřil und Lumír Poláček: Goldfunde von Mikulčice – Probleme und Perspektiven, 2013, publiziert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle diese schönen Artefakte stammen aus dem Gebiet Großmährens und datieren vom 7. bis zum 10. Jahrhundert (überwiegend aus dem heutigen Tschechien und der Slowakei); sie bezeugen den hohen Entwicklungsstand der slawischen Bevölkerung der alten Burgwälle und Siedlungen.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

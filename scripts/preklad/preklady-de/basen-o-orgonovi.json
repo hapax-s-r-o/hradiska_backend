@@ -1,0 +1,81 @@
+{
+ "slug": "basen-o-orgonovi",
+ "data": {
+  "title": "Das Gedicht von Orgoň – der letzte slawische Druide",
+  "slug": "gedicht-von-orgon-letzter-slawischer-druide",
+  "excerpt": "Ein Gedicht von Lucia J. über Orgoň den Alten, den letzten slawischen Druiden, der das Kreuz nicht annahm. Als das Heer mit dem Kreuz seinen Tempel in Trümmer legt, verflucht er den Gott Parom; dieser streckt ihn mit dem Donner nieder, und seine Seele stöhnt seither gefangen in einem Stein mit seltsamen Runen auf der Orgoňova Kýčera.",
+  "metaTitle": "Das Gedicht von Orgoň – der letzte slawische Druide",
+  "metaDescription": "Ein Gedicht von Lucia J. über Orgoň den Alten, den letzten slawischen Druiden, der das Kreuz nicht annahm und den Donnergott Parom verfluchte.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Lucia J.",
+    "icon": "users"
+   },
+   {
+    "label": "Form",
+    "value": "Gedicht",
+    "icon": "book"
+   },
+   {
+    "label": "Figur",
+    "value": "Orgoň der Alte, slawischer Druide, der Letzte, der das Kreuz nicht annahm",
+    "icon": "star"
+   },
+   {
+    "label": "Ort",
+    "value": "Orgoňova Kýčera",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ankunft des Heeres",
+    "title": "Kreuz oder Tod",
+    "description": "In die Gegend zieht ein Heer mit dem Kreuz und zwingt die Bewohner, dem alten Glauben abzuschwören; das Kreuz nehmen alle an außer Orgoň dem Alten, der gut verborgen bleibt.",
+    "type": "event"
+   },
+   {
+    "year": "Der Fluch",
+    "title": "Orgoňs Fluch",
+    "description": "Orgoň, der slawische Druide, schlägt mit der Hand aufs Holz wie ein Hammer auf den Keil und verflucht den Gott Parom dafür, dass er den Untergang seines Tempels zugelassen hat.",
+    "type": "event"
+   },
+   {
+    "year": "Der Donnerschlag",
+    "title": "Verschwinden und Gefangenschaft der Seele",
+    "description": "Der erzürnte Donnergott Parom schlägt mit dem Donner zu; von Orgoň bleibt keine Spur, und seine Seele bleibt in einem Stein mit seltsamen Runen auf der Orgoňova kýčera gefangen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "Gemälde eines bärtigen Mannes in Tunika und Mantel, der in einem Wald auf einem Felsblock mit eingeritzten Zeichen neben einem steinernen Idol sitzt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.poem",
+    "text": "Aber schön ist es,\ndas slawische Volk,\ndas die Natur anruft,\ndas unter der Tatra wohnt.\n\nDoch plötzlich, aus der Ferne,\nda naht ein Heer herbei,\naus ihren Augen sprüht Angst,\nmit dem Gott am Kreuz dabei.\n\n„Nun denn, Mädchen, nimm das Kreuz,\nsonst zahlst du teuer dafür!\nWirf den Götzen in den Wald!“\n\nUnd das Mädchen nickt,\nes bangt um sein Leben.\n\nAlle nahmen das Kreuz,\nrafften ihre Habe,\nstiegen hinab ins Tal\nund zogen aus dem Wald.\n\nAlle bis auf einen,\nden gut verborgenen,\nOrgoň den Alten.\n\n„Parom, du himmlischer Gott,\nwarum hast du es zugelassen?\nDein Tempel wurde zu Schutt.\nWarum hast du uns verlassen?“\n\nEr schlug mit der Hand aufs Holz,\nwie ein Hammer auf den Keil.\n„Ich, Orgoň, slawischer Druide,\nich verfluche dich, Parom!“\n\nUnd kaum war es gesagt,\nda schlug der Donner in ihn ein\nDa war er wahrlich erzürnt,\nder Gott des Donners, Parom.\n\nKeine Spur von ihm –\nnicht von Gewand, nicht von Riemen.\nOrgoňs Seele –\nim Gefängnis, im Stein.\n\nIm Gefängnis im Stein\nseine Seele klagt,\nmit seltsamen Runen,\ndie niemand bezwingen mag.\n\nEin ungewöhnlicher Stein,\nder gewöhnlich aussieht,\nmit seltsamen Runen,\nOrgoňova kýčera.",
+    "title": "Das Gedicht von Orgoň",
+    "author": "Lucia J.",
+    "source": null
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Gedicht von Orgoň",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

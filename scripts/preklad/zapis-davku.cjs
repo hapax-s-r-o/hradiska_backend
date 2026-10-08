@@ -24,13 +24,16 @@ const { resolve, basename } = require('node:path');
 const { createStrapi } = require('@strapi/strapi');
 
 const KOREN = resolve(__dirname, '..', '..');
-const PREKLADY = resolve(__dirname, 'preklady');
 const UID = 'api::blog-post.blog-post';
 
 const arg = (m, d = null) => (process.argv.find((a) => a.startsWith(m))?.slice(m.length)) ?? d;
 const ZAPIS = process.argv.includes('--zapis');
 /* Cieľový jazyk; predvolená angličtina kvôli doterajšiemu spúšťaniu. */
 const JAZYK = arg('--jazyk=', 'en');
+/* Priečinok so vstupnými súbormi. Angličtina má `preklady`, každý ďalší jazyk
+   vlastný `preklady-<jazyk>` — inak by sa dávka pre jeden jazyk pokúsila
+   zapísať aj súbory druhého. */
+const PREKLADY = resolve(__dirname, JAZYK === 'en' ? 'preklady' : `preklady-${JAZYK}`);
 const ZNOVA = process.argv.includes('--znova');
 const LEN = (arg('--len=') || '').split(',').map((s) => s.trim()).filter(Boolean);
 

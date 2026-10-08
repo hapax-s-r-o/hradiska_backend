@@ -1,0 +1,138 @@
+{
+ "slug": "klapy-udica-kresba-hradiska-z-obdobia-puchovskej-kultury",
+ "data": {
+  "title": "Klapy (Udiča) – Zeichnung einer befestigten Höhensiedlung der Púchov-Kultur",
+  "slug": "klapy-udica-zeichnung-puchov-kultur",
+  "excerpt": "Die befestigte Höhensiedlung Klapy in der Katastralgemeinde Udiča gehört zu einem Typ, der in den Gebirgsgegenden der Nordslowakei häufig ist: ein größerer Hügel mit steilem Hang, einem unauffälligen Wall und dahinter einem dichten Netz kleiner Siedlungsterrassen. Begründet hat ihn das Volk der Lausitzer Kultur, später siedelte hier die Púchov-Kultur – in Klapy sehr reich, wie die Luxusgegenstände zeigen. Nika (Art by Vesna) hat die Anlage nach Luftbildern und einem LiDAR-Modell gezeichnet.",
+  "metaTitle": "Klapy (Udiča) – Zeichnung einer Höhensiedlung der Púchov-Kultur",
+  "metaDescription": "Zeichnung der befestigten Höhensiedlung Klapy bei Udiča aus der Zeit der Púchov-Kultur – ein steiler Hügel mit Wall und dichtem Netz von Siedlungsterrassen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Klapy (Udiča)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustratorin",
+    "value": "Nika (Art by Vesna)",
+    "icon": "users"
+   },
+   {
+    "label": "Besiedlungsphasen",
+    "value": "Lausitzer Kultur, Púchov-Kultur (Latènezeit und römische Kaiserzeit)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Grundlage der Zeichnung",
+    "value": "Luftbilder und ein LiDAR-3D-Modell (Ing. Tibor Lieskovský)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätbronzezeit – Hallstattzeit",
+    "title": "Beginn des Baus dieses Befestigungstyps",
+    "description": "Diese Art des Baus von Befestigungen und Höhensiedlungen mit einem dichten Netz von Siedlungsterrassen begann in den Gebirgsgegenden der Slowakei das Volk der Lausitzer Kultur anzuwenden.",
+    "type": "era"
+   },
+   {
+    "year": "Latènezeit – römische Kaiserzeit",
+    "title": "Besiedlung durch das Volk der Púchov-Kultur",
+    "description": "Klapy gehörte zu den Höhensiedlungen, die auch in dieser späteren Zeit reich besiedelt waren, wovon die dort gefundenen Luxusgegenstände zeugen.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4268,
+    "alt": "Zeichnung der Höhensiedlung Klapy auf einem Hügel mit Palisadenlinien, in der Ecke ein keltisches Pferdchen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über "
+       },
+       {
+        "type": "link",
+        "url": "/blog/klapy-keltske-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "die befestigte Höhensiedlung Klapy"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", die zur Katastralgemeinde Udiča gehört, haben wir in der Vergangenheit bereits geschrieben. Ebenso haben wir über mehrere weitere Höhensiedlungen geschrieben, die eine sehr ähnliche Art der Bebauung und der Anordnung der Häuser aufweisen. Es handelt sich um die Besiedlung größerer Hügel mit einem relativ steilen Hang, an dem sich ein unauffälliger Wall befindet und dahinter ein recht dichtes Netz kleiner Siedlungsterrassen, auf denen wahrscheinlich die Häuser und Wirtschaftsbauten der Bewohner standen. Aus unserer Erfahrung von den Ausgrabungen, an denen wir in letzter Zeit teilgenommen haben, ergibt sich ganz deutlich, dass diese Art des Baus von Befestigungen und Höhensiedlungen in den Gebirgsgegenden der Slowakei zuerst das Volk der Lausitzer Kultur anzuwenden begann, irgendwann an der Wende von der Spätbronzezeit zur Hallstattzeit. Die meisten von ihnen wurden dann in späteren Perioden auch vom Volk der Púchov-Kultur besiedelt (Latènezeit und römische Kaiserzeit), wobei einige in dieser späteren Zeit nur in geringerem Maße und von einer weniger reichen Bevölkerung besiedelt waren, manche jedoch, zu denen auch Klapy gehört, auch in der Zeit der Púchov-Kultur sehr reich waren, wovon die Luxusgegenstände zeugen, die dort gefunden wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Art der Besiedlung finden wir häufig in den Gebirgsgegenden der Nordslowakei. Bisher gibt es jedoch nur ein Minimum an Darstellungen davon, wie eine solche Höhensiedlung im Altertum ausgesehen haben könnte. Die meisten gewöhnlichen Geschichtsinteressierten können sich daher nur schwer vorstellen, wie eine solche Höhensiedlung ursprünglich ausgesehen haben mag. Deshalb freuen wir uns sehr, dass unser Mitglied "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/profile.php?id=100080242262501",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nika (Art by Vesna"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "), die sehr schön zeichnen kann, es sich vorgenommen hat, eine solche Höhensiedlung – konkret eben Klapy – so zu zeichnen, dass sie unserer Vorstellung von ihrem ursprünglichen Aussehen möglichst nahekommt. Als Grundlage haben wir neben den Luftbildern, die wir in der Vergangenheit angefertigt haben, auch eigene Kenntnisse vom Ort verwendet, vor allem aber hat uns das LiDAR-"
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-klapy-a-okolie-013d95e76765461790f04f8b6632e969?fbclid=IwAR0lW0d42oZ8zwWBbWN6RGbyVBZ_eVhcPzkUIm96BF5yBIEtzK28WtfOVkg",
+        "children": [
+         {
+          "type": "text",
+          "text": "Modell der Höhensiedlung, das uns Ing. Tibor Lieskovský zur Verfügung gestellt hat"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", sehr geholfen. Das Bild hält sowohl den Verlauf der vermuteten Befestigung als auch das mögliche Aussehen der Gebäude auf den einzelnen Terrassen fest. Im Vordergrund befinden sich Öfen zum Brennen von Keramik, wobei wir vom Fund solcher Öfen im nicht weit entfernten Nosice ausgegangen sind. Unterhalb der Höhensiedlung lagen Siedlungen aus der Zeit der Púchov-Kultur, wo mit guten Gründen angenommen werden kann, dass sich dort eben auch solche Produktionsareale mit Öfen und anderen Einrichtungen befanden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klapy (Udiča) – Zeichnung einer befestigten Höhensiedlung der Púchov-Kultur",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

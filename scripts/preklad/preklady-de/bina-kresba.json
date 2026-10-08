@@ -1,0 +1,97 @@
+{
+ "slug": "bina-kresba",
+ "data": {
+  "title": "Bíňa – Zeichnung eines riesigen Burgwalls mit drei Wallringen",
+  "slug": "bina-zeichnung-des-burgwalls",
+  "excerpt": "Wir stellen eine weitere Zeichnung eines Burgwalls vor: diesmal den riesigen Burgwall Bíňa mit mehr als 100 Hektar, den bis zu drei Ringe mächtiger Wallschüttungen umgaben. Der äußere und der mittlere Wall sind in der Gemeinde auch heute gut sichtbar. Zur Zeit Großmährens lebte hier die Elite; der äußere Wall könnte erst später entstanden sein, in der Zeit der Kämpfe des künftigen ungarischen Königs Stephan I. mit seinem Gegner Koppány. Gezeichnet hat die Anlage unser Mitarbeiter Tomáš Humaj.",
+  "metaTitle": "Bíňa – Zeichnung eines Burgwalls mit drei Wallringen",
+  "metaDescription": "Zeichnung des riesigen Burgwalls Bíňa (über 100 ha) mit drei Ringen mächtiger Wälle, wo zur Zeit Großmährens die Elite lebte. Autor: Tomáš Humaj.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "mehr als 100 Hektar",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "drei Ringe mächtiger Wallschüttungen",
+    "icon": "shield"
+   },
+   {
+    "label": "Zeit der Besiedlung durch die Elite",
+    "value": "Zeit Großmährens",
+    "icon": "crown"
+   },
+   {
+    "label": "Autor der Zeichnung",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Großmähren",
+    "title": "Besiedlung des Burgwalls durch die Elite",
+    "description": "Auf dem Burgwall lebte zur Zeit Großmährens die Elite.",
+    "type": "event"
+   },
+   {
+    "year": "Regierungszeit Stephans I.",
+    "title": "Mögliche Errichtung des äußeren Walls",
+    "description": "Es ist nicht ausgeschlossen, dass der äußere Wall erst später errichtet wurde, in der Zeit der Kämpfe des künftigen ungarischen Königs Stephan I. mit seinem Gegner Koppány.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6327,
+    "alt": "Bleistiftzeichnung: ein Burgwall mit drei Walllinien mit Palisade und Toren"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich freue mich sehr, dass wir eine weitere Zeichnung eines Burgwalls vorstellen können; diesmal handelt es sich um den riesigen (mehr als 100 Hektar großen) "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bina",
+        "children": [
+         {
+          "type": "text",
+          "text": "Burgwall Bíňa"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", den bis zu drei Ringe mächtiger Wallschüttungen umgaben. Der äußere und der mittlere Wall sind in der Gemeinde auch heute gut sichtbar. Auf dem Burgwall lebte zur Zeit Großmährens die Elite, und es ist nicht ausgeschlossen, dass der äußere Wall erst später errichtet wurde – in der Zeit der Kämpfe des künftigen ungarischen Königs Stephan I. mit seinem Gegner Koppány. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier ist also unsere künstlerische Vorstellung vom möglichen Aussehen des Burgwalls, deren Autor erneut unser Mitarbeiter Tomáš Humaj ist. Was die Innenbebauung betrifft, haben wir den Grundsatz gewählt, dass „weniger manchmal mehr ist“. Der Raum hinter dem äußeren Wall war offenbar nicht bebaut und konnte daher als Sammelplatz des Heeres dienen (was auch für das Heer Vajks wirklich passend gewesen wäre), andererseits lässt sich eine Bebauung mit prächtigeren Häusern in der inneren Befestigung – der Hauptburg – vermuten. Die zur Gran hin gelegene Seite bildete ein steiler Abbruch, wo es nicht nötig war, Wälle zu errichten, sondern eine einfache Palisade genügte. Am Flussufer haben wir uns erlaubt, einen einfachen Anlegesteg und eine kleine Fischersiedlung zu errichten. Wir hoffen, dass Ihnen die Zeichnung gefällt, und ich danke Tomáš für seine Geduld und die hochwertig geleistete Arbeit."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

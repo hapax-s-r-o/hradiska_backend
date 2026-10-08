@@ -1,0 +1,46 @@
+{
+ "slug": "slovanka-devuska",
+ "data": {
+  "title": "Slovanka (Devuška) – ein slawisches Grubenhaus in Blockbauweise",
+  "slug": "slovanka-devuska-slawisches-grubenhaus-blockbau",
+  "excerpt": "Die wunderschöne Zeichnung „Slovanka“ hat für uns Peter Bros geschaffen. Es handelt sich um ein slawisches eingetieftes Grubenhaus in Blockbauweise, dessen Vorbild ein Rekonstruktionsbau aus dem 9. Jahrhundert (Großmähren) auf dem Burgwall in Bojná war. Die meisten Slawen lebten in unbefestigten Siedlungen – einen Teil einer solchen Siedlung sehen wir auf diesem Bild.",
+  "metaTitle": "Slovanka – slawisches Grubenhaus in Blockbauweise",
+  "metaDescription": "Die Zeichnung „Slovanka“ von Peter Bros zeigt ein slawisches Grubenhaus in Blockbauweise nach einem Rekonstruktionsbau des 9. Jahrhunderts aus Bojná.",
+  "keyFacts": [
+   {
+    "label": "Autor der Zeichnung",
+    "value": "Peter Bros",
+    "icon": "users"
+   },
+   {
+    "label": "Vorbild des Bauwerks",
+    "value": "Rekonstruktionsbau in Blockbauweise aus dem 9. Jahrhundert auf dem Burgwall in Bojná",
+    "icon": "building"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6325,
+    "alt": "Gemälde einer Slawin in einem weißen bestickten Gewand mit einer Schale vor einem eingetieften Blockhaus"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wunderschöne Zeichnung „Slovanka“ hat für uns unser Mitarbeiter Peter Bros geschaffen. Es handelt sich um ein slawisches eingetieftes Grubenhaus in Blockbauweise, dessen Vorbild ein Rekonstruktionsbau in Blockbauweise aus dem 9. Jahrhundert (Großmähren) war, der auf dem Burgwall in Bojná errichtet wurde. Die meisten Slawen lebten in unbefestigten Siedlungen. Einen Teil einer von ihnen sehen wir gerade auf diesem Bild. Wir danken."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

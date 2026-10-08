@@ -1,0 +1,203 @@
+{
+ "slug": "devin-velkomoravsky-palac-s-kostolom-3d",
+ "data": {
+  "title": "Devín – großmährischer Palast mit Kirche in 3D",
+  "slug": "devin-grossmaehrischer-palast-mit-kirche-3d",
+  "excerpt": "Dwarf digital archeology und Hradiska.sk haben in enger Zusammenarbeit mit dem Archäologen Július Vavák einen Versuch der 3D-Rekonstruktion eines gemauerten Baus aus der Zeit Großmährens gewagt, der auf der Burg Devín (Theben) entdeckt wurde. Bekannte Rekonstruktionen zeigen ihn nur als Kirche mit drei Apsiden; der Grundriss mit mehreren Trennwänden legt aber einen Bau mit zwei Zwecken nahe — Kirche und Palast. Vielleicht weilte hier Fürst Rastislav während der Belagerung von Devín im Jahr 864.",
+  "metaTitle": "Devín – großmährischer Palast mit Kirche (3D)",
+  "metaDescription": "3D-Rekonstruktion eines möglichen gemauerten großmährischen Baus — eines Palastes mit Kirche auf Devín aus dem 9. Jahrhundert, mit J. Vavák.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Devín (Burg)",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "9. Jahrhundert (Großmähren)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Maße des Kirchenschiffs",
+    "value": "540 × 1.135 cm",
+    "icon": "building"
+   },
+   {
+    "label": "Archäologische Zusammenarbeit",
+    "value": "Július Vavák, Museum der Kleinen Karpaten in Pezinok",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "850–863/870",
+    "title": "Datierung des Baus",
+    "description": "Nach den neuesten Quellen wurde die Kirche bzw. der Palast in diesem Zeitraum errichtet; üblicherweise wird der Bau in die Regierungszeit Rastislavs datiert.",
+    "type": "event"
+   },
+   {
+    "year": "864",
+    "title": "Belagerung von Devín durch das fränkische Heer",
+    "description": "Vielleicht weilte genau in diesem Palast Fürst Rastislav während der Belagerung von Devín durch das fränkische Heer.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4551,
+    "alt": "3D-Rekonstruktion eines großmährischen Palastes mit Kirche mit runder Apsis im abendlichen Licht"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf digital archeology und Hradiska.sk haben diesmal in enger Zusammenarbeit mit dem Archäologen Július Vavák (Museum der Kleinen Karpaten in Pezinok, dem hiermit großer Dank für die wertvolle fachliche Hilfe während der gesamten Rekonstruktion gebührt) einen Versuch der 3D-Rekonstruktion des möglichen Aussehens eines gemauerten Baus aus der Zeit Großmährens (9. Jahrhundert) geschaffen, der auf der Burg "
+       },
+       {
+        "type": "link",
+        "url": "/blog/devin",
+        "children": [
+         {
+          "type": "text",
+          "text": "(dem einstigen Burgwall) Devín (Theben)."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Öffentlichkeit sind einige Rekonstruktionen bekannt, doch stellen diese den Bau nur als eine Kirche mit drei Apsiden dar. Sein freigelegter Grundriss mit mehreren Trennwänden legt jedoch nahe, dass es sich in Wirklichkeit um einen Bau handeln konnte, der zwei Zwecken diente. Ein Teil des Baus konnte als Kirche dienen und ein weiterer Teil als Palast, der für Wohn- und Repräsentationszwecke bestimmt war. Wir haben daher versucht, die mögliche Gestalt genau dieser Raumlösung des Baus zu rekonstruieren. Vielleicht weilte genau in ihm Fürst Rastislav während der Belagerung von Devín durch das fränkische Heer im Jahr 864."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín – großmährischer Palast mit Kirche 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "2k746VUhfU4",
+    "url": "https://www.youtube.com/embed/2k746VUhfU4",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Seite www.apsida.sk ist zu dem Bau die folgende Beschreibung angeführt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Das rechteckige Kirchenschiff, durch zwei Trennwände in zwei schmale Räume an den Rändern und einen großen in der Mitte geteilt, hat die Maße 540 cm x 1.135 cm; daran schließt sich von der Ostseite ein rechteckiger Raum an, der mit drei kreuzförmig angeordneten Apsiden endet, die einen Durchmesser von 330 cm haben. Die Breite der Fundamente beträgt 60–75 cm.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirche wurde irgendwann in der zweiten Hälfte des 9. Jahrhunderts unter Verwendung römischen Baumaterials errichtet. Üblicherweise wird sie in die Regierungszeit Rastislavs datiert, nach den neuesten Quellen in den Zeitraum der Jahre 850–863/870. Angesichts des aus vier Räumen gebildeten Grundrisses, einschließlich des dreiapsidialen Ostschlusses, ist bis heute nicht völlig klar, um welchen Bau es sich hier handelt. Über den sakralen Zweck bestehen keine Zweifel, nach verschiedenen Fachleuten konnte es sich jedoch um eine Kirche handeln, um eine dreiapsidiale Kapelle, die an einen (bischöflichen) Wohnpalast angeschlossen war; einige Autoren sprechen auch von einem sogenannten Triklinium – einem Audienzsaal eines kirchlichen Würdenträgers.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín – großmährischer Palast mit Kirche 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Erbauer der kleinen Kirche ließen sich allem Anschein nach von spätantiken Kirchen ähnlicher Disposition im Gebiet Dalmatiens inspirieren; dem Gotteshaus von Devín stehen vor allem die Bauten in Sutivan, Pridraga bzw. Bilice nahe.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Verwendete Tonspur: Altkirchenslawisches Vaterunser, Schola Sanctorum, Priesterseminar des Bischofs Ján Vojtaššák in Spišská Kapitula – Spišské Podhradie ( "
+       },
+       {
+        "type": "link",
+        "url": "https://www.youtube.com/watch?v=aBofiUZzUHc",
+        "children": [
+         {
+          "type": "text",
+          "text": "Video"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ) "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

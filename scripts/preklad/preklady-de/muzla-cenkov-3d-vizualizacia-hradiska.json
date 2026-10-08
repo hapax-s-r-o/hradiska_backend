@@ -1,0 +1,161 @@
+{
+ "slug": "muzla-cenkov-3d-vizualizacia-hradiska",
+ "data": {
+  "title": "Mužla-Čenkov – eine 3D-Visualisierung des Burgwalls an der Donau",
+  "slug": "muzla-cenkov-3d-visualisierung-des-burgwalls",
+  "excerpt": "Auf der Fundstelle Mužla-Čenkov erstreckte sich im 9. und 10. Jahrhundert ein slawischer Burgwall, dessen Teile heute in der Lage Vilmakert liegen. Er gehört zu den Burgwällen mit überwiegender Wach- und Militärfunktion und liegt direkt am Donauufer an der heutigen Grenze zu Ungarn. Wegen der günstigen Lage war die Stelle schon in der Urgeschichte besiedelt, ihre größte Bedeutung erlangte sie jedoch zur Zeit Großmährens.",
+  "metaTitle": "Mužla-Čenkov – 3D-Visualisierung des Burgwalls an der Donau",
+  "metaDescription": "Eine 3D-Visualisierung des slawischen Wachburgwalls Mužla-Čenkov aus dem 9.–10. Jahrhundert direkt am Donauufer, schon in der Urgeschichte besiedelt.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Mužla-Čenkov, Lage Vilmakert",
+    "icon": "map"
+   },
+   {
+    "label": "Besiedlungszeit",
+    "value": "9.–10. Jahrhundert (größte Bedeutung zur Zeit Großmährens)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Funktion des Burgwalls",
+    "value": "Wach- und Militärfunktion",
+    "icon": "shield"
+   },
+   {
+    "label": "Mitarbeit an der Rekonstruktion",
+    "value": "Igor Furugláš (Dwarf Art) und Dr. Milan Hanuliak",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawischer Burgwall in Mužla-Čenkov",
+    "description": "Auf der Fundstelle Mužla-Čenkov erstreckte sich ein slawischer Burgwall mit überwiegender Wach- und Militärfunktion.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Fundstelle Mužla-Čenkov erstreckte sich im 9. und 10. Jahrhundert ein slawischer Burgwall, dessen Teile heute in der Lage Vilmakert liegen. Er lässt sich zu den Burgwällen mit überwiegender Wach- und Militärfunktion zählen. Die Fundstelle liegt direkt am Donauufer an der heutigen Grenze zu Ungarn. Wegen der günstigen Lage war sie schon in der Urgeschichte besiedelt, ihre größte Bedeutung erlangte sie jedoch in der Zeit des Bestehens Großmährens."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Achtung, "
+       },
+       {
+        "type": "link",
+        "url": "/blog/muzla-cenkov-nova-rekonstrukcia",
+        "children": [
+         {
+          "type": "text",
+          "text": "DIE NEUE REKONSTRUKTION DES BURGWALLS IST HIER"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zusammenarbeit mit Igor Furugláš (Dwarf Art) haben wir versucht, das annähernde Aussehen des Burgwalls in der Zeit seiner Blüte zu schaffen. Als Grundlage dienten uns zwei Monografien der Archäologen, die den Burgwall untersucht haben. Es handelt sich um die Bücher Hanuliak, Šalkovský, Kuzma: Mužla-Čenkov I. Osídlenie z 9. – 12. st., Nitra 1993, und Hanuliak, Kuzma: Mužla-Čenkov II: osídlenie z 9. – 13. storočia, Nitra 2015. Einige Schlüsselteile der Rekonstruktion haben wir direkt mit Dr. Milan Hanuliak besprochen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Visualisierung versucht, eine annähernde Vorstellung vom Aussehen des slawischen Burgwalls in Mužla zu vermitteln. Der Verlauf der Befestigung, ihr Aufbau sowie die Bebauung mit Häusern gehen recht genau aus den Unterlagen der Archäologen hervor, die uns zur Verfügung standen. Neben den Wohnhäusern befanden sich auf dem Burgwall natürlich unzählige verschiedene Wirtschaftsgebäude, Vorratsgruben, Abfallgruben und allerlei Gegenstände des täglichen Gebrauchs und Unordnung, die die alltägliche Realität des Burgwalls ausmachten. Diese zu modellieren lag nicht mehr in unseren Kräften und war auch nicht das Ziel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In jedem Fall haben Sie wenigstens diese unvollkommene virtuelle Möglichkeit, auf einem 1200 Jahre alten Burgwall unserer Vorfahren spazieren zu gehen und seine Atmosphäre zu genießen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Igor gebührt enormer Dank für seine Geduld und die gut geleistete Arbeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "l6LqWu4IdaU",
+    "url": "https://www.youtube.com/embed/l6LqWu4IdaU",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "ENGLISH VERSION:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Hp2TvM20s5I",
+    "url": "https://www.youtube.com/embed/Hp2TvM20s5I",
+    "caption": ""
+   }
+  ]
+ }
+}

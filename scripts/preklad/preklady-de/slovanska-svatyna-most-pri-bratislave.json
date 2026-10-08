@@ -1,0 +1,111 @@
+{
+ "slug": "slovanska-svatyna-most-pri-bratislave",
+ "data": {
+  "title": "Das slawische Heiligtum von Most pri Bratislave – zwei Zeichnungen",
+  "slug": "slawisches-heiligtum-most-pri-bratislave-zeichnungen",
+  "excerpt": "Haden Sutton hat für uns zwei originale Zeichnungen des slawischen Heiligtums geschaffen, das in Most pri Bratislave entdeckt wurde. Es ist das bisher einzige archäologisch nachgewiesene slawische heidnische Heiligtum im Gebiet der heutigen Slowakei und wird in das 8. Jahrhundert datiert – in die Zeit, in der sich das Christentum in diesem Gebiet erst auszubreiten begann.",
+  "metaTitle": "Slawisches Heiligtum Most pri Bratislave – Zeichnungen",
+  "metaDescription": "Zwei originale Zeichnungen von Haden Sutton zeigen das in Most pri Bratislave entdeckte slawische heidnische Heiligtum aus dem 8. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Most pri Bratislave",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "8. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "8. Jahrhundert",
+    "title": "Slawisches heidnisches Heiligtum",
+    "description": "Das bisher einzige archäologisch nachgewiesene slawische heidnische Heiligtum im Gebiet der heutigen Slowakei, aus der Zeit des Beginns der Ausbreitung des Christentums.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6323,
+    "alt": "Zeichnung einer Zeremonie unter einem hölzernen Unterstand bei einem geschnitzten Götzen, im Hintergrund das Heiligtum mit einer Umzäunung"
+   },
+   {
+    "mediaId": 4595,
+    "caption": "Die Slawen kommen zum Heiligtum ...",
+    "alt": "Die Slawen kommen zum Heiligtum ..."
+   },
+   {
+    "mediaId": 4596,
+    "caption": "Das Heiligtum und der heidnische Priester ...",
+    "alt": "Das Heiligtum und der heidnische Priester ..."
+   },
+   {
+    "mediaId": 4597,
+    "caption": "Zum Vergleich – Rekonstruktion des möglichen Aussehens des Heiligtums von V. Turčan mit den markierten Stellen unserer Zeichnungen:",
+    "alt": "Zum Vergleich – Rekonstruktion des möglichen Aussehens des Heiligtums von V. Turčan mit den markierten Stellen unserer Zeichnungen:"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir freuen uns sehr, dass wir unseren Lesern zwei weitere originale Zeichnungen aus dem Leben unserer Vorfahren, der Slawen, bringen können. Dieses Mal hat sie für uns unser Mitarbeiter Haden Sutton gezeichnet, der die nicht leichte Aufgabe übernommen hat – das slawische Heiligtum zu zeichnen, das in "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "Most pri Bratislave"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " entdeckt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es handelt sich um das bisher einzige archäologisch nachgewiesene slawische heidnische Heiligtum im Gebiet der heutigen Slowakei. Wir datieren es in das 8. Jahrhundert, das heißt in die Zeit des Beginns der Ausbreitung des Christentums in diesem Gebiet, als unser Volk noch eigene heidnische Götter verehrte. Haden hat den Plan und die Rekonstruktionszeichnung des Heiligtums eingehend studiert und nach ihnen versucht, zwei Zeichnungen des Heiligtums aus der Sicht seiner Besucher zu schaffen, die gekommen waren, um sich vor den slawischen Göttern zu verneigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir danken"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

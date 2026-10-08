@@ -1,0 +1,93 @@
+{
+ "slug": "nosice-hradisko-3d",
+ "data": {
+  "title": "Nosice – eine befestigte Höhensiedlung der Púchov-Kultur in 3D",
+  "slug": "nosice-befestigte-hoehensiedlung-der-puchov-kultur-3d",
+  "excerpt": "Heute hat uns Naj mit seinem Versuch einer 3D-Visualisierung der befestigten Höhensiedlung der Púchov-Kultur in Nosice angenehm überrascht. Im Grundriss ging er von der Zeichnung von Martin Olšovský aus, die im Buch Po stopách predkov bearbeitet ist und derzeit als der genaueste Plan gelten kann. Das kurze Video vermittelt eine recht gute Vorstellung vom annähernden Aussehen der Befestigung vor 2000 Jahren.",
+  "metaTitle": "Nosice – 3D-Visualisierung einer Höhensiedlung der Púchov-Kultur",
+  "metaDescription": "Eine 3D-Visualisierung der befestigten Höhensiedlung der Púchov-Kultur in Nosice, erstellt nach dem derzeit genauesten Plan von Martin Olšovský.",
+  "keyFacts": [
+   {
+    "label": "Kultur",
+    "value": "Púchov-Kultur",
+    "icon": "users"
+   },
+   {
+    "label": "Dargestellter Zeitabschnitt",
+    "value": "Befestigung der Höhensiedlung vor etwa 2000 Jahren",
+    "icon": "calendar"
+   },
+   {
+    "label": "Grundlage der Visualisierung",
+    "value": "Grundriss nach der Zeichnung von Martin Olšovský (Buch Po stopách predkov)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor ca. 2000 Jahren",
+    "title": "Befestigung der Höhensiedlung der Púchov-Kultur",
+    "description": "Die 3D-Visualisierung zeigt das annähernde Aussehen der Befestigung der Höhensiedlung in Nosice von vor etwa 2000 Jahren.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6326,
+    "alt": "3D-Modell einer Höhensiedlung mit terrassenförmigen Wällen, Palisade und Wachturm auf einem Berg"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute hat uns Naj angenehm überrascht mit seinem Versuch einer 3D-Visualisierung "
+       },
+       {
+        "type": "link",
+        "url": "/blog/nosice-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "der befestigten Höhensiedlung der Púchov-Kultur in Nosice."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Im Grundriss ging er von der Zeichnung von Martin Olšovský aus, die im Buch Po stopách predkov bearbeitet ist, wobei anzumerken ist, dass sein Plan derzeit als der genaueste gelten kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem kurzen Video lässt sich eine recht gute Vorstellung vom annähernden Aussehen der Befestigung der Höhensiedlung vor 2000 Jahren gewinnen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Ifb28OllFLA",
+    "url": "https://www.youtube.com/embed/Ifb28OllFLA",
+    "caption": ""
+   }
+  ]
+ }
+}

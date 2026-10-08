@@ -1,0 +1,156 @@
+{
+ "slug": "hrad-hricov-3d",
+ "data": {
+  "title": "Burg Hričov 3D – eine Rekonstruktion auf fast uneinnehmbarem Fels",
+  "slug": "burg-hricov-3d-rekonstruktion",
+  "excerpt": "Die Ruine der Burg Hričov erhebt sich auf einem markanten Felsen, einem Ausläufer der Súľov-Felsen, der eine fast uneinnehmbare Lage bildet und sogar von der Autobahn aus zu sehen ist. Schon das Volk der Púchov-Kultur und später die Slawen siedelten hier; die Steinburg entstand wohl im 13. Jahrhundert, erstmals erwähnt wird sie im Jahr 1265. Das endgültige Ende brachten ihr die Soldaten Stephan Bocskais. Unsere 3D-Rekonstruktion entstand in Zusammenarbeit mit Mária Takáčová.",
+  "metaTitle": "Burg Hričov – 3D-Rekonstruktion auf uneinnehmbarem Fels",
+  "metaDescription": "3D-Rekonstruktion der Burg Hričov auf einem Felsen der Súľov-Felsen – einer fast uneinnehmbaren Lage, geschützt von hohen und steilen Felswänden.",
+  "keyFacts": [
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "1265 (Schenkungsurkunde Bélas IV.; sie verweist auch auf das Jahr 1254)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Entstehung der Steinburg",
+    "value": "wohl 13. Jahrhundert, an der Stelle einer älteren hölzernen Burganlage",
+    "icon": "building"
+   },
+   {
+    "label": "Ältere Besiedlung des Felsens",
+    "value": "Púchov-Kultur, später die Slawen",
+    "icon": "users"
+   },
+   {
+    "label": "Lage",
+    "value": "Felsen, Ausläufer der Súľov-Felsen, bei Považská Bystrica und Žilina",
+    "icon": "mountain"
+   },
+   {
+    "label": "Untergang der Burg",
+    "value": "von den Soldaten Stephan Bocskais ausgeraubt und zerstört",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "13. Jahrhundert",
+    "title": "Entstehung der Steinburg",
+    "description": "An der Stelle einer früheren hölzernen Burganlage entstand wohl eine Steinburg, wahrscheinlich noch vor dem Tatareneinfall der Jahre 1241/1242.",
+    "type": "event"
+   },
+   {
+    "year": "1265",
+    "title": "Schenkungsurkunde Bélas IV.",
+    "description": "König Béla IV. schenkte die Burg Mikuláš, dem Sohn Pauls aus dem Geschlecht Bejč; die Urkunde verweist auch auf das Jahr 1254.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 14. Jahrhunderts",
+    "title": "Umbau der Burg durch den König",
+    "description": "Der König ließ die ursprüngliche Burg grundlegend umbauen – an den Palast auf dem höchsten Teil des Felsens wurde eine Vorburg mit einer Bastei angebaut.",
+    "type": "event"
+   },
+   {
+    "year": "17. Jahrhundert",
+    "title": "Verfall der Burg und Verlegung des Herrschaftszentrums nach Bytča",
+    "description": "Die Burg wurde Besitz der Thurzó und begann zu verfallen, das Zentrum der Herrschaft wurde nach Bytča verlegt. Die Soldaten Stephan Bocskais raubten die Burg schließlich aus und zerstörten sie.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4311,
+    "alt": "3D-Rekonstruktion einer Steinburg auf einem Felsen, im Vordergrund Fichten"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ruine der Burg Hričov erhebt sich auf einem markanten Felsen, der auch von der Autobahn aus zu sehen ist, die von Považská Bystrica nach Žilina (Sillein) führt. Der Burgfelsen ist einer der Ausläufer der Súľov-Felsen und bildete dabei eine fast uneinnehmbare Lage, die zum großen Teil von hohen und steilen Felswänden geschützt war, die für Angreifer ein schwer lösbares Problem darstellten. Der Name Hričov ist vom Wort Grič abgeleitet (es bedeutet Hügel, Fels, felsig). Dieselbe Bedeutung hat das Wort grič auch im Serbokroatischen. In der Slowakei kommt dieses Wort seit den ältesten Zeiten vor. Als Ortsname wurde es bei der ersten schriftlichen Erwähnung in der Form „castrum Hrichov“ verwendet (1265, bzw. diese Urkunde verweist auf das Jahr 1254). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "damT-x6BvdU",
+    "url": "https://www.youtube.com/embed/damT-x6BvdU",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgfelsen war bereits in der Zeit der Púchov-Kultur und später offenbar auch von den Slawen besiedelt, wovon vor allem Keramikfunde aus den genannten Perioden zeugen. Die Steinburg an der Stelle einer früheren, wohl hölzernen Burganlage entstand vermutlich im 13. Jahrhundert, wobei die Historiker annehmen, dass sie als eine der wenigen ungarischen Burgen noch vor dem Tatareneinfall der Jahre 1241/1242 errichtet wurde. Aus dem Jahr 1265 ist bereits die oben erwähnte Schenkungsurkunde Bélas IV. überliefert, mit der er die Burg Mikuláš, dem Sohn Pauls aus dem Geschlecht Bejč, schenkte. Später erwarben die Balaša die Burg, unter deren Besitz sie in die Gewalt von Matúš Čák von Trenčín (Trentschin) geriet. Nach dem Tod von Matúš kehrte die Burg für kurze Zeit an das Geschlecht der Balaša zurück, um dann in der zweiten Hälfte des 14. Jahrhunderts erneut in den Besitz des Königs zu gelangen."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser ließ die ursprüngliche Burg grundlegend umbauen: An den Palast, der sich auf dem höchsten Teil des Felsens erhebt, wurde eine Vorburg mit einer Bastei angebaut. König Sigismund von Luxemburg schenkte die Burg seiner Gemahlin Barbara, die sie instand setzen ließ. Anschließend fiel sie jedoch in die Hände des hussitischen Hauptmanns Mikuláš Švidrigal. Später wurde die Burg zurückerobert, und in der Folgezeit schenkte König Matthias Corvinus sie Blažej Podmanický. Sein Nachkomme, der bekannte Raubritter Rafael Podmanický, führte um die Burg bewaffnete Kämpfe, aber auch einen „Kampf“ auf rechtlichem Feld, was schließlich dazu führte, dass es ihm gelang, anhand von Archivurkunden nachzuweisen, dass die Burg dem Geschlecht der Podmanický gehört."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Offenbar in dieser Zeit wurden im Bereich der Vorburg Palastbauten errichtet, und es entstand auch ein schmaler, in den Fels gehauener und mit einem Turm abgeschlossener Korridor, der einen guten Schutz des Zugangswegs zur Burg darstellte. Nach der genannten Bebauung der ursprünglichen Vorburg entstand eine neue Vorburg, und zwar auf der ebenen Fläche vor dem Tor. Diese war offenbar von einer hölzernen Palisade geschützt. Die genannte Periode stellt die Zeit der größten Blüte der Burg dar. Später, im 17. Jahrhundert, als die Burg in den Besitz der Thurzó überging, begann sie allmählich zu verfallen, und das Zentrum der Herrschaft wurde nach Bytča verlegt. Das endgültige Ende der Burg verursachten die Soldaten Stephan Bocskais, die die Burg ausraubten und zerstörten."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den vorgelegten Versuch einer Visualisierung haben wir in Zusammenarbeit mit Mária Takáčová, einer Studentin der UKF in Nitra (Neutra), umgesetzt. Leider stand uns kein LiDAR zur Verfügung, betrachten Sie das Geländemodell daher als Annäherung. Der Bau selbst entspricht dem Grundriss der Burg, und die Details sind nach den archäologischen Erkenntnissen aus der Ausgrabung der Burg ausgearbeitet."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Burg Hričov 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

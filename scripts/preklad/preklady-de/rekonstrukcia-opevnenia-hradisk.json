@@ -1,0 +1,192 @@
+{
+ "slug": "rekonstrukcia-opevnenia-hradisk",
+ "data": {
+  "title": "Die Rekonstruktion der Befestigung slawischer Burgwälle",
+  "slug": "rekonstruktion-der-befestigung-slawischer-burgwaelle",
+  "excerpt": "„Die meisten ihrer Burgen bauen die Slawen auf folgende Weise …“ – so beschrieb Ibrahim Ibn Jakob im 10. Jahrhundert den Bau slawischer Burgen. Wir zeigen eine der möglichen Varianten: eine Holz-Erde-Mauer in Kastenkonstruktion aus Eichenbalken, mit einer Steinfront und einer Palisade auf der Krone – und erklären, warum von ihr heute nur ein einfacher Erdwall übrig geblieben ist.",
+  "metaTitle": "Rekonstruktion der Befestigung slawischer Burgwälle",
+  "metaDescription": "Wie die Mauern und Wälle slawischer Burgwälle aussahen: eine Rekonstruktion der Kastenkonstruktion nach der Beschreibung Ibrahim Ibn Jakobs.",
+  "keyFacts": [
+   {
+    "label": "Konstruktionstyp",
+    "value": "Kastenkonstruktion aus Eichenbalken mit Erde und Steinen",
+    "icon": "shield"
+   },
+   {
+    "label": "Zeitgenössische Quelle",
+    "value": "Ibrahim Ibn Jakob, 10. Jahrhundert",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zusammenarbeit an der Visualisierung",
+    "value": "Dwarf digital archeology und Hradiska.sk",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Bau von Burgwällen während der Kriege mit dem Frankenreich",
+    "description": "Der Bau von Burgwällen ist archäologisch vor allem im Laufe des 9. Jahrhunderts belegt, als unsere Vorfahren oft gegen das Frankenreich, aber auch gegeneinander kämpften.",
+    "type": "event"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Ibrahim Ibn Jakob beschreibt den Bau slawischer Burgen",
+    "description": "Der arabische Reisende beschrieb die Art und Weise, in der die Slawen ihre Burgen errichteten.",
+    "type": "event"
+   },
+   {
+    "year": "Beginn des 10. Jahrhunderts",
+    "title": "Untergang der Burgwälle nach den Angriffen der Altungarn",
+    "description": "Nach dem Tod König Svatopluks begannen die Stämme der Altungarn das Gebiet Großmährens anzugreifen; archäologisch belegte Brände zerstörten mehrere bedeutende Burgwälle, zum Beispiel Mikulčice in Mähren oder Bojná in der Slowakei.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4573,
+    "alt": "3D-Rekonstruktion einer Mauer mit steinerner Frontwand, Holzpfosten und Tordurchfahrt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Die meisten ihrer Burgen bauen die Slawen auf folgende Weise: Sie suchen sich Wiesen, die reich an Wasser und Gebüsch sind, und zeichnen darauf einen runden oder viereckigen Platz ab, je nachdem, welche Form und Größe die Burg haben soll. Dann graben sie ringsherum und schütten die Erde auf, die sie mit Brettern und Pfählen festigen. So schaffen sie Wälle, die sie weiterbauen, bis sie die gewünschte Höhe haben. Dann messen sie für die Burg auf der günstigen Seite ein Tor ab und errichten dazu eine Brücke. Über sie betreten sie die Burg.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ibrahim Ibn Jakob, 10. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen und vor ihnen die Kelten, die Menschen der Lausitzer Kultur und andere, ältere Völker verwendeten für den Bau von Befestigungen keine mit Mörtel verbundenen Steine. Daher errichteten sie zu ihrer Verteidigung Befestigungen, deren Konstruktion aus hölzernen Balken bestand, die auf verschiedene Weise miteinander verbunden waren und zwischen die die Erbauer Erde und Steine schütteten. Manchmal schützten sie den vorderen, dem Feind zugewandten Teil durch eine kleine Steinmauer (Steinfront), die aus trocken gesetzten Steinen bestand und sich an die hölzerne Konstruktion der Mauer stützte. Auf der Krone einer so errichteten Mauer befand sich gewöhnlich noch eine hölzerne Palisade. Die auf der Mauer stehenden Verteidiger hatten so gegenüber dem Feind einen Höhenvorteil, und ihr Körper war unmittelbar durch die hölzerne Palisade geschützt. Diesen Typ von Mauern übernahm auch der frühungarische Staat, und er wurde bis zum Tatareneinfall verwendet, als sich dieser Befestigungstyp als unzureichend erwies, da die Tataren Holz-Erde-Mauern wirksam zu zerstören wussten. Nach ihrem Einfall begann König Béla IV. daher den Bau steinerner Burgen massiv zu fördern, was den Niedergang des Baus von Holz-Erde-Befestigungen bedeutete.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "F5muAXrw47A",
+    "url": "https://www.youtube.com/embed/F5muAXrw47A",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burgwälle spielten in der Geschichte Großmährens eine bedeutende Rolle. Die Fuldaer Annalen schreiben zum Beispiel über die Festung Devín (Theben), in der Rastislav gegen den fränkischen König Ludwig kämpfte. Sie beschreiben auch die unaussprechliche Festung Rastislavs (wohl den Burgwall Mikulčice) und weitere befestigte Orte, die den Franken und anderen Angreifern mehr als eine Sorgenfalte ins Gesicht trieben. Der Bau von Burgwällen ist auch archäologisch vor allem im Laufe des 9. Jahrhunderts belegt, als unsere Vorfahren oft gegen das Frankenreich, aber auch gegeneinander kämpften. Zu Beginn des 10. Jahrhunderts, nach dem Tod König Svatopluks, begannen die Stämme der Altungarn das Gebiet Großmährens anzugreifen; einige Schlüsselzentren Großmährens eroberten sie allmählich, andere gewannen sie auf der Grundlage einer Vereinbarung mit den örtlichen Adligen, die sich ihnen anschlossen, und Großmähren zerfiel als zentralisierter Staat. Zu Beginn des 10. Jahrhunderts finden wir daher auch archäologische Belege für mächtige Brände, die einige bedeutende Burgwälle zerstörten, wie zum Beispiel Mikulčice in Mähren oder Bojná in der Slowakei.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Burgwälle hatte verschiedene technische Detaillösungen. Wir haben versucht, Ihnen eine der möglichen Lösungen der Bauweise und der Konstruktion der Befestigung näherzubringen – die Kastenkonstruktion. Feste Eichenbalken, vertikal aufgestellt und tief in der Erde verankert, wurden durch waagerechte Balken verbunden, wodurch eine hölzerne Verschalung entstand. In den so entstandenen Raum (die Kammer) schütteten unsere Vorfahren allmählich Erde und Steine. Die hölzerne Konstruktion hielt die Erde dann in der gewünschten Form. Auf die Krone der so entstandenen Mauer setzten sie eine Palisade, und zwar so, dass sie den ganzen Körper des auf der Mauer stehenden Verteidigers schützte, gleichzeitig aber Lücken hatte, damit der Verteidiger im Bedarfsfall hinter der Palisade wirksam mit dem Bogen schießen, Speere werfen oder den Feind, dem es gelungen wäre, bis auf die Mauer zu klettern, unmittelbar niederhauen konnte.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schwachstelle der Holz-Erde-Burgwälle war immer ihre hölzerne Konstruktion. Daher nutzten die Slawen und die älteren Völker die Möglichkeit einer kleinen Steinmauer, die sich an die hölzerne Mauer stützte, wodurch sie die Möglichkeit der Angreifer, die Mauer in Brand zu setzen, erheblich einschränkten.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dennoch erlag ein Teil der Burgwälle schließlich dem Angriff und wurde durch Feuer zerstört. Nach einer solchen Zerstörung des Burgwalls, als die hölzernen Teile der Mauer verbrannt waren, hielt nichts mehr die Mauer in ihrer ursprünglichen Form. Der irdene Teil der Mauer und die Steinfront verwitterten daher nach dem Untergang des Burgwalls allmählich und verloren ihre ursprüngliche Gestalt und Form. Schließlich blieb daher von der Holz-Erde-Mauer, deren Konturen ursprünglich durch die hölzerne und die steinerne Konstruktion festgelegt waren, nur ein einfacher Erdwall, unten breiter und nach oben sich verjüngend. Solche Wälle finden wir dann heute an den Überresten alter Burgwälle. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Dwarf digital archeology und Hradiska.sk haben gemeinsam eine Rekonstruktion einer von mehreren möglichen Varianten der Konstruktion eines Burgwalls versucht. Im Video wird auch kurz erklärt, wie aus einer solchen Mauer nach vielen Jahrhunderten die heute sichtbaren Wälle entstanden sind.   ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rekonstruktion der Befestigung von Burgwällen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

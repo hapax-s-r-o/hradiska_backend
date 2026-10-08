@@ -1,0 +1,244 @@
+{
+ "slug": "dolne-vestenice-slovanske-hradisko",
+ "data": {
+  "title": "Dolné Vestenice – ein neu entdeckter slawischer Burgwall",
+  "slug": "dolne-vestenice-slawischer-burgwall",
+  "excerpt": "Vor einigen Jahren entdeckten Archäologen in der Gemeinde Dolné Vestenice einen bis dahin unbekannten slawischen Burgwall. Anschließend führte hier das Archäologische Institut der Slowakischen Akademie der Wissenschaften unter der Leitung von Karol Pieta eine Ausgrabung durch, an der sich auch der Verein Hradiská beteiligte. Der Burgwall liegt in schwer zugänglichem Gelände an der Grenze zwischen Dolné Vestenice und Uhrovské Podhradie über dem Tal der Hradištnica.",
+  "metaTitle": "Dolné Vestenice – neu entdeckter slawischer Burgwall",
+  "metaDescription": "Ein bis vor kurzem unbekannter slawischer Burgwall über dem Tal der Hradištnica, untersucht von Karol Pieta (AÚ SAV) mit dem Verein Hradiská.",
+  "keyFacts": [
+   {
+    "label": "Fläche und Form",
+    "value": "etwa 0,5 ha, längliche Form, die Lage erinnert an einen Tafelberg",
+    "icon": "mountain"
+   },
+   {
+    "label": "Lage",
+    "value": "an der Grenze zwischen Dolné Vestenice und Uhrovské Podhradie, über dem Tal der Hradištnica",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "mächtiger Wall auf der Nordseite (mit dem ursprünglichen Zugang), sonst eine Holzpalisade",
+    "icon": "shield"
+   },
+   {
+    "label": "Handwerkliche Produktion",
+    "value": "belegte Produktion von Schmuckherstellern, Metallgießern und Schmieden, einschließlich axtförmiger Eisenbarren",
+    "icon": "custom"
+   },
+   {
+    "label": "Bedeutende Funde",
+    "value": "Hakensporen, Fragmente eines Kettenhemdes, Bleibarren, Fragment eines Bleikreuzes, Pfeilspitzen",
+    "icon": "star"
+   },
+   {
+    "label": "Archäologische Ausgrabung",
+    "value": "durchgeführt vom Archäologischen Institut SAV unter der Leitung von Karol Pieta, unter Mitwirkung des Vereins Hradiská",
+    "icon": "book"
+   },
+   {
+    "label": "Funde in der Umgebung",
+    "value": "am Fuß des Burgwalls und in der weiteren Umgebung wurden mehrere Einzelfunde sowie Hortfunde von Eisenbarren und Werkzeugen entdeckt",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Mittellatènezeit",
+    "title": "Älteste belegte Besiedlung",
+    "description": "Die älteste Besiedlung des Burgwalls ist für die Mittellatènezeit belegt.",
+    "type": "era"
+   },
+   {
+    "year": "Völkerwanderungszeit",
+    "title": "Besiedlung in der Völkerwanderungszeit",
+    "description": "Der Burgwall war auch in der Völkerwanderungszeit besiedelt.",
+    "type": "era"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Höhepunkt der Besiedlung in großmährischer Zeit",
+    "description": "Der größte und wichtigste Fundkomplex stammt aus dem Frühmittelalter, aus dem 9.–10. Jahrhundert, also aus der Zeit, in der Großmähren bestand.",
+    "type": "era"
+   },
+   {
+    "year": "Wende vom 9. zum 10. Jahrhundert",
+    "title": "Untergang des Burgwalls",
+    "description": "Die Befundsituation (Keramik, Metallgegenstände) deutet auf einen Untergang des Burgwalls an der Wende vom 9. zum 10. Jahrhundert hin.",
+    "type": "destruction"
+   },
+   {
+    "year": "letzte Jahre",
+    "title": "Entdeckung des Burgwalls durch Archäologen",
+    "description": "Archäologen entdeckten in der Gemeinde Dolné Vestenice einen bis dahin unbekannten slawischen Burgwall; es folgte eine Ausgrabung des Archäologischen Instituts SAV unter der Leitung von Karol Pieta unter Mitwirkung des Vereins Hradiská.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6405,
+    "alt": "Rekonstruktion des Burgwalls mit Palisade auf einem Hügel über einem Bach, im Hintergrund bewaldete Berge"
+   },
+   {
+    "mediaId": 3192,
+    "caption": "LiDAR-Aufnahme des Burgwalls (aus dem Buch Bojná 2)",
+    "alt": "LiDAR-Aufnahme des Burgwalls (aus dem Buch Bojná 2)"
+   },
+   {
+    "mediaId": 3195,
+    "caption": "Blick auf den mächtigen Wall des Burgwalls, der sich auf der Nordseite befindet",
+    "alt": "Blick auf den mächtigen Wall des Burgwalls, der sich auf der Nordseite befindet"
+   },
+   {
+    "mediaId": 3197,
+    "caption": "Blick auf die Befestigung des Burgwalls und einen Teil der Innenfläche. Autor Tomáš Kytka",
+    "alt": "Blick auf die Befestigung des Burgwalls und einen Teil der Innenfläche. Autor Tomáš Kytka"
+   },
+   {
+    "mediaId": 3198,
+    "caption": "Die Innenfläche des Burgwalls",
+    "alt": "Die Innenfläche des Burgwalls"
+   },
+   {
+    "mediaId": 3199,
+    "caption": "Eine slawische Scherbe",
+    "alt": "Eine slawische Scherbe"
+   },
+   {
+    "mediaId": 3200,
+    "alt": "Zeichnungstafel der Funde: Spitzen, Messer, Beschläge, ein Spinnwirtel und ein Gefäß mit Maßstab"
+   },
+   {
+    "mediaId": 3201,
+    "caption": "Funde aus Vestenice",
+    "alt": "Funde aus Vestenice"
+   },
+   {
+    "mediaId": 3202,
+    "caption": "Luftbild des Burgwalls",
+    "alt": "Luftbild des Burgwalls"
+   },
+   {
+    "mediaId": 3203,
+    "caption": "Der Rand des Burgwalls",
+    "alt": "Der Rand des Burgwalls"
+   },
+   {
+    "mediaId": 3204,
+    "caption": "Blick vom Burgwall ins Tal",
+    "alt": "Blick vom Burgwall ins Tal"
+   },
+   {
+    "mediaId": 3205,
+    "caption": "Der Wall von der Innenseite, rechts offenbar der ursprüngliche Zugang",
+    "alt": "Der Wall von der Innenseite, rechts offenbar der ursprüngliche Zugang"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Aufnahme des Burgwalls (aus dem Buch Bojná 2)",
+    "alt": "LiDAR-Aufnahme des Burgwalls (aus dem Buch Bojná 2)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor einigen Jahren entdeckten Archäologen in der Gemeinde Dolné Vestenice einen bis dahin unbekannten slawischen Burgwall. Anschließend führte hier das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) unter der Leitung von Karol Pieta eine Ausgrabung durch, an der sich auch der Verein Hradiská beteiligte. Der Burgwall liegt in schwer zugänglichem Gelände an der Grenze zwischen Dolné Vestenice und Uhrovské Podhradie über dem Tal der Hradištnica."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er hat eine längliche Form und nimmt eine Fläche von etwa 0,5 ha ein. Seine älteste Besiedlung ist für die Mittellatènezeit und für die Völkerwanderungszeit belegt. Der größte und wichtigste Fundkomplex stammt jedoch aus dem Frühmittelalter, aus dem 9.–10. Jahrhundert, das heißt aus der Zeit, in der Großmähren bestand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hänge des Burgwalls sind sehr steil, und die ganze Lage wirkt beinahe wie ein Tafelberg. Ein bequemer Zugang war nur teilweise von Norden her möglich, wo unsere Vorfahren einen mächtigen Wall errichteten. In diesen Teilen befand sich offenbar auch der ursprüngliche Zugang zum Burgwall. In den übrigen Teilen des Burgwalls genügte als Befestigung eine bloße Holzpalisade."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Matej Ruttkay führt im Buch Bojná 2 an, dass hier Spuren einer örtlichen Produktion verschiedener Handwerker — von Schmuckherstellern, Metallgießern, Schmieden und dergleichen — festgestellt wurden. Belegt wird dies vor allem durch die große Zahl von Halbfabrikaten. Karol Pieta ergänzt dazu, dass hier im Rahmen eines intensiven Schmiedehandwerks zum Beispiel die Herstellung axtförmiger Eisenbarren nachgewiesen ist. Zu den auffälligsten Funden aus dem Bereich des Burgwalls gehören Hakensporen, Fragmente eines Kettenhemdes, Bleibarren und Modelle von Ohrringen, ein Fragment eines Bleikreuzes, eiserne Sporen mit langem gegliedertem Stachel und Pfeilspitzen. Neben den Metallgegenständen wurden eine große Menge typisch slawischer Keramik mit Wellenbandverzierung und Teile steinerner Drehmühlen gefunden. Die Situation könnte auf einen Untergang des Burgwalls an der Wende vom 9. zum 10. Jahrhundert hindeuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den mächtigen Wall des Burgwalls, der sich auf der Nordseite befindet",
+    "alt": "Blick auf den mächtigen Wall des Burgwalls, der sich auf der Nordseite befindet",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Fuß des Burgwalls und auch in der weiteren Umgebung wurden mehrere Einzelfunde sowie Hortfunde von Eisenbarren und Werkzeugen entdeckt. Ähnlich wie im Raum von Bojná konzentriert sich die Besiedlung auch hier auf Höhenlagen, in denen die relativ hoch gelegenen Bergrücken als Verkehrslinien genutzt wurden. Es scheint, dass die Ursache für die Besetzung der Höhenlagen in der Region Nitra, ähnlich wie in anderen historischen Abschnitten, in der unruhigen Zeit und in der Notwendigkeit lag, die Gemeinschaften vor plötzlichen Überfällen zu sichern, vielleicht in Verbindung mit der Kontrolle strategischer Gebirgsübergänge und mit der Nutzung des örtlichen Erzreichtums sowie weiterer natürlicher Ressourcen, die im Gebiet der oberen Neutra auch archäologisch belegt ist.\nOrgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

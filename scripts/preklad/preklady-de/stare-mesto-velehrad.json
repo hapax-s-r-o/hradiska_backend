@@ -1,0 +1,370 @@
+{
+ "slug": "stare-mesto-velehrad",
+ "data": {
+  "title": "Staré Město – Velehrad, Rastislavs alte Stadt von 871",
+  "slug": "stare-mesto-velehrad-grossmaehrisches-zentrum",
+  "excerpt": "Staré Město bei Uherské Hradiště trägt seinen Namen von den ältesten Zeiten bis heute. Die Fuldaer Annalen erwähnen zum Jahr 871 Rastislavs „alte stadt“, und für dieselbe Gegend ist ab 1131 der Name Velehrad bezeugt. Archäologisch sind hier zwei mährische Kirchen, etwa 10.000 Gräber, ein 2 km langer Wall um eine Fläche von 250 ha und zahlreiche Handwerkswerkstätten nachgewiesen.",
+  "metaTitle": "Staré Město – Velehrad, Rastislavs alte Stadt von 871",
+  "metaDescription": "Staré Město bei Uherské Hradiště — Rastislavs „alte Stadt“ aus dem Eintrag der Fuldaer Annalen von 871 und ein Machtzentrum Großmährens.",
+  "keyFacts": [
+   {
+    "label": "Zeitstellung",
+    "value": "Spätestens ab dem 7. Jahrhundert, Höhepunkt im 9. Jahrhundert (altes Mähren)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Lage",
+    "value": "Staré Město bei Uherské Hradiště, Ufer der March, Zentrum der Mährischen Slowakei",
+    "icon": "map"
+   },
+   {
+    "label": "Namen des Ortes",
+    "value": "Staré Město = Velehrad (schriftlich „Veligrad“, 1131)",
+    "icon": "flag"
+   },
+   {
+    "label": "Schlüsselfiguren",
+    "value": "Svatopluk, Karlmann, Method, Přemysl Otakar II.",
+    "icon": "crown"
+   },
+   {
+    "label": "Hauptquellen",
+    "value": "Fuldaer Annalen (871), Urkunde aus dem Jahr 1131",
+    "icon": "scroll"
+   },
+   {
+    "label": "Literatur",
+    "value": "V. Hrubý, „Antiqua civitas – Veligrad“, Ochrana pamiatok 8 (1972)",
+    "icon": "book"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall 2 km, Graben ca. 5 m breit / 2,3 m tief, Fläche 250 ha",
+    "icon": "shield"
+   },
+   {
+    "label": "Gräberfelder",
+    "value": "Etwa 10.000 Gräber auf mehreren Gräberfeldern",
+    "icon": "users"
+   },
+   {
+    "label": "Sakralbauten",
+    "value": "Zwei mährische Kirchen, Rotunde des hl. Michael (9. Jh.), hl. Klemens, hl. Vitus",
+    "icon": "building"
+   },
+   {
+    "label": "Handwerk",
+    "value": "Schmuck-, Schmiede-, Metallgießer-, Steinmetz- und Keramikwerkstätten",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7. Jahrhundert",
+    "title": "Entstehung des Siedlungszentrums",
+    "description": "Ein Siedlungszentrum bestand hier spätestens seit dem 7. Jahrhundert.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Höhepunkt von Staré Město – Velehrad",
+    "description": "Im 9. Jahrhundert war Staré Město – Velehrad ein großes Produktions-, Handels- und Kulturzentrum des alten Mähren.",
+    "type": "era"
+   },
+   {
+    "year": "871",
+    "title": "Eintrag in den Fuldaer Annalen",
+    "description": "Bemerkung über Svatopluk, der sich anschickte, Karlmann zu täuschen und dessen Heer zu vernichten.",
+    "type": "event"
+   },
+   {
+    "year": "bis zum Ende des 9. Jahrhunderts",
+    "title": "Errichtung des Wehrwalls",
+    "description": "Die Stadt wurde von Nordwesten durch einen 2 km langen Wall mit Wassergraben umgeben, der eine Fläche von bis zu 250 ha umschloss.",
+    "type": "construction"
+   },
+   {
+    "year": "11.–12. Jahrhundert",
+    "title": "Belege für eine ununterbrochene Besiedlung",
+    "description": "Einzelne Gräber unter der Kirche des hl. Michael belegen eine durchgehende Besiedlung bis heute.",
+    "type": "event"
+   },
+   {
+    "year": "1131",
+    "title": "Erste schriftliche Aufzeichnung des Namens „Veligrad“",
+    "description": "Der älteste schriftliche Beleg des Ortsnamens in der Form „Veligrad“.",
+    "type": "event"
+   },
+   {
+    "year": "1257",
+    "title": "Gründung von Uherské Hradiště",
+    "description": "Der böhmische König Přemysl Otakar II. gründete gegenüber von Staré Město eine Stadt mit dem Namen „Nové Mesto“ / „Nový Velehrad“ (das heutige Uherské Hradiště).",
+    "type": "founding"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Gründung des Zisterzienserklosters",
+    "description": "Auf Velehrader Grundbesitz wurde ein Zisterzienserkloster gegründet; um dieses herum entstand das Dorf Velehrad. Der Text nennt nur das Jahrhundert, nicht das genaue Jahr.",
+    "type": "founding"
+   },
+   {
+    "year": "ab dem 14. Jahrhundert",
+    "title": "Velehrad in historischen Dokumenten",
+    "description": "Die Dokumente führen Method als „Erzbischof von Velehrad“ und Velehrad als Hauptstadt des Mährischen Königreichs an.",
+    "type": "event"
+   },
+   {
+    "year": "18. Jahrhundert",
+    "title": "Untergang der Kirche des hl. Vitus",
+    "description": "Die Kirche des hl. Vitus in der Lage „Na kostelíku“ ging unter, von ihr blieb fast nichts übrig.",
+    "type": "destruction"
+   },
+   {
+    "year": "1936",
+    "title": "Fund beim Aushub eines Kanals",
+    "description": "Beim Aushub eines Bewässerungskanals zwischen Staré Město und Uherské Hradiště wurden Behausungen und bearbeitete Sandsteine entdeckt (möglicherweise die Kirche des hl. Klemens).",
+    "type": "discovery"
+   },
+   {
+    "year": "1950er Jahre",
+    "title": "Beginn der intensiven Forschung",
+    "description": "Ab den 1950er Jahren begann eine intensivere archäologische Erforschung des Ortes.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3075,
+    "caption": "Archäologisches Freilichtmuseum Modrá — in der Nähe von Uherské Hradiště",
+    "alt": "Archäologisches Freilichtmuseum Modrá — in der Nähe von Uherské Hradiště"
+   },
+   {
+    "mediaId": 3076,
+    "caption": "Das Eingangstor zum Burgwall",
+    "alt": "Das Eingangstor zum Burgwall"
+   },
+   {
+    "mediaId": 3077,
+    "caption": "Blick auf die slawischen Behausungen",
+    "alt": "Blick auf die slawischen Behausungen"
+   },
+   {
+    "mediaId": 3078,
+    "caption": "Der Fürstenpalast",
+    "alt": "Der Fürstenpalast"
+   },
+   {
+    "mediaId": 3079,
+    "caption": "König Svatopluk auf dem Thron",
+    "alt": "König Svatopluk auf dem Thron"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Staré Město trägt diesen Namen von den ältesten Zeiten bis heute. In den Fuldaer Annalen (Annales Fuldenses) findet sich zum Jahr 871 die Bemerkung, dass „svatopluk in rastislavs alte stadt zog …“, als er sich anschickte, Karlmann zu täuschen und dessen Heer zu vernichten. Einige Historiker bezweifeln, dass es sich dabei unmittelbar um den Namen der Stadt handelt, und behaupten, es sei eine allgemeine Bezeichnung für irgendeine alte Stadt in Mähren. In den originalen lateinischen Texten dieser Zeit werden die Anfangsbuchstaben von Städte-, Länder- und Flussnamen, aber auch von Personennamen klein geschrieben, weshalb dieser Eintrag für sich genommen tatsächlich nicht mit voller Sicherheit sagt, ob es um den Eigennamen der Stadt geht oder nur um die Feststellung, dass Rastislavs Sitz alt war. Doch auch einige andere Urkunden späterer Jahrhunderte bezeichnen diesen Ort (also das heutige Staré Město) als „alte stadt“, und dieser Name hat sich bis heute erhalten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Archäologisches Freilichtmuseum Modrá — in der Nähe von Uherské Hradiště",
+    "alt": "Archäologisches Freilichtmuseum Modrá — in der Nähe von Uherské Hradiště",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Gebiet dieser Stadt wurden umfangreiche archäologische Funde aus der Zeit des alten Mähren entdeckt, sodass es keinen Grund gibt, die Verwendung des Namens „Staré Město“ bereits in den ältesten Zeiten zu bezweifeln. Es hat sich uns jedoch noch ein weiterer Name für dieses Gebiet erhalten: „Velehrad“. Obwohl die erste schriftliche Aufzeichnung dieses Namens erst aus dem Jahr 1131 stammt, und zwar wörtlich in der Form „Veligrad“, ist klar, dass dieser Name viel älter sein muss, nämlich bereits aus der Zeit des alten Mähren im 9. Jahrhundert. Als der böhmische König Přemysl Otakar II. im Jahr 1257 das heutige Uherské Hradiště gründete, das am anderen Ufer der March gegenüber von Staré Město liegt, erhielt diese neu gegründete Stadt den Namen „Nové Mesto“ (Neue Stadt) oder auch „Nový Velehrad“, um sich so vom benachbarten Staré Město beziehungsweise vom „alten“ Velehrad zu unterscheiden. Mit dem Namen Velehrad begann man im 13. Jahrhundert jedoch auch ein nicht weit entferntes Dorf nordwestlich von Uherské Hradiště zu bezeichnen, denn hier wurde im 13. Jahrhundert auf Velehrader Grundbesitz ein Zisterzienserkloster gegründet. Im 13. Jahrhundert gab es hier also bereits drei nahe beieinander liegende Orte mit dem Namen „Velehrad“: Staré Město hieß Velehrad, das benachbarte Nové Mesto hieß Nový Velehrad, und das nahe gelegene Dorf, das um das Kloster herum entstand, begann ebenfalls Velehrad genannt zu werden. Später setzte sich jedoch der Name „Staré Město“ durch und der Name Velehrad verschwand; die benachbarte neu gegründete Stadt mit den Namen „Nové Mesto“ oder „Nový Velehrad“ begann anders zu heißen: „Hradiště“ (und noch später wurde sie Uherské Hradiště genannt), und die Namen „Nové Mesto“ und „Nový Velehrad“ verschwanden. Bis heute erhalten hat sich jedoch der Name Velehrad für das erwähnte nahe gelegene Dorf mit dem Kloster. Mit dem ursprünglichen Namen Velehrad wurde also wahrscheinlich dieses ganze Gebiet bezeichnet, das heute das Zentrum der Mährischen Slowakei (Slovácko) bildet (siehe Abb.). Hier hatten wahrscheinlich die mährischen Herrscher und hohe kirchliche Würdenträger ihren Sitz. Aus verschiedenen historischen Dokumenten ab dem 14. Jahrhundert sind nämlich Angaben erhalten, dass Method „Erzbischof von Velehrad“ war und dass Velehrad die Hauptstadt des Mährischen Königreichs war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Eingangstor zum Burgwall",
+    "alt": "Das Eingangstor zum Burgwall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Archäologie hat bestätigt, dass dieses Gebiet sehr alt ist und dass unsere Vorfahren hier auf einem hohen kulturellen Niveau lebten. In den letzten 150 Jahren fanden sich an vielen Stellen von Staré Město Körpergräber, in denen sich viel Gold-, Silber- und Bronzeschmuck, eiserne Waffen, Schwerter, Äxte, Lanzen, Messer und typische altslawische Keramik aus gebranntem Ton befanden. Auf dem Gebiet von Staré Město wurden bisher drei Depots axtförmiger Eisenbarren mit 23 Stücken sowie über 40 axtförmige Eisenbarren als Einzelfunde ausgegraben. Meist stammten diese Funde aus der 2. Hälfte des 9. und der 1. Hälfte des 10. Jahrhunderts. Vor allem aber ab den 1950er Jahren begann eine intensivere archäologische Forschung, die neue Erkenntnisse über dieses Gebiet brachte. Es wurden hier viele Behausungen und Produktionsanlagen landwirtschaftlichen und handwerklichen Charakters freigelegt. Freigelegt wurden etwa 10.000 Gräber auf mehreren Gräberfeldern! Entdeckt wurden die Fundamente zweier mährischer christlicher Kirchen mit Gräberfeldern, alles aus der Zeit des alten Mähren. In der Umgebung der ersten Kirche fanden sich etwa 2.000 Gräber mit 5.000 Gegenständen, in der Umgebung der zweiten 56 Gräber mit reichen Funden von Gold- und Silberschmuck. Auf diesem Gräberfeld um die zweite Kirche wurden also Menschen aus den höheren Gesellschaftsschichten bestattet. Die erste kleine Kirche stammte noch aus der Zeit vor der kyrillo-methodianischen Epoche, die zweite wurde erst nach der Ankunft von Konstantin-Kyrill und Method im alten Mähren erbaut. In den Gräbern um die erste Kirche fanden sich 104 auf der Töpferscheibe hergestellte Gefäße mit waagerechten Rillen oder Wellenlinien im oberen Teil des Gefäßes, verschiedene Metallgeräte und Waffen, bronzene, silberne, vergoldete und goldene Gombíks (kugelförmige Knopfanhänger), prunkvoller Schmuck, in den Frauengräbern mehr als 100 goldene, silberne und bronzene Ohrringe verschiedener Formen, goldene und silberne Fingerringe sowie Halsketten mit buntfarbigen Perlen aus Glas und Bronze mit goldenen, silbernen und bronzenen Anhängern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "puxkL2UjAyY",
+    "url": "https://www.youtube.com/embed/puxkL2UjAyY",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter dem Pflaster der heutigen Kirche des hl. Michael, die auf dem heutigen Friedhof von Staré Město steht, wurden die Fundamente einer mährischen Rotunde aus dem 9. Jahrhundert entdeckt, die sicherlich demselben Heiligen geweiht war. Die heutige Kirche des hl. Michael steht teilweise auf den Fundamenten dieser Rotunde; für ihren Bau wurde sicherlich auch das eingestürzte Baumaterial der ursprünglichen Rotunde verwendet. Die einzelnen Gräber, die hier noch gefunden werden konnten, stammen aus dem 11.–12. Jahrhundert, was bedeutet, dass dieser Ort nicht unterging, sondern ununterbrochen bis heute besiedelt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kirchen aus der Zeit des alten Mähren standen wahrscheinlich noch an zwei weiteren Stellen. Als man im Jahr 1936 an der Straße von Staré Město nach Uherské Hradiště einen Bewässerungskanal aushob, stieß man hier auf viele Behausungen und auf eigenartige, von Hand bearbeitete Sandsteine. Diesem Fund wurde keine weitere Aufmerksamkeit geschenkt, doch könnte es sich um die Kirche des hl. Klemens handeln, von der im historischen Material erwähnt wird, dass sie irgendwo in dieser Gegend stand. Die zweite Kirche, die des hl. Vitus in der Lage „Na kostelíku“, ging im 18. Jahrhundert unter, und von ihr blieb fast nichts übrig. Ihr Ursprung könnte bis in die Zeit des alten Mähren zurückreichen, auch wenn sich das bisher nicht bestätigt hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die slawischen Behausungen",
+    "alt": "Blick auf die slawischen Behausungen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die besiedelte Fläche von Staré Město – Velehrad war in der Zeit des alten Mähren enorm. Bis zum Ende des 9. Jahrhunderts war diese Stadt an der Nordwestseite von einem starken Wehrwall mit einem Wassergraben umgeben. Dieser Wehrwall war schließlich 2 km lang und umschloss eine Siedlungsfläche von bis zu 250 ha (das heißt 2,5 km²). Die Hälfte der Strecke des Wehrwalls bildete eine erhöhte, 7,5 m breite Aufschüttung, in die zwei Reihen dicht aneinander gerammter mächtiger Baumstämme eingesetzt waren. Die Baumstämme waren bis zu 40 cm dick und 1 m tief in den Boden eingesetzt. Der Raum zwischen den beiden Stammreihen war mit Lehm und Schotter verfüllt. Vor dem Wall wurde an der Außenseite zusätzlich ein Wassergraben von fast 5 Metern Breite und 2,3 m Tiefe angelegt. Die ganze Südseite von Velehrad war durch die March und das umliegende sumpfige Gelände geschützt (siehe Abb.)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Staré Město – Velehrad war eine entwickelte mittelalterliche Stadt. Besonders das handwerkliche Gewerbe stand auf hohem Niveau. Hier befanden sich Werkstätten zur Verarbeitung von Geweih und Knochen, Werkstätten zur Herstellung von Schmuck, Steinmetz-, Schmiede-, Metallgießer- und Keramikwerkstätten, in denen auch feine gelbe Keramik antiker Form hergestellt wurde. Es wurden hier Reste von Rennöfen und Schmelzöfen mit Schmiedefeuern sowie die Fundamente einer Windmühle zum Mahlen von Getreide entdeckt. In vielen Schmelzöfen wurde nicht Roherz, sondern bereits fertiges Metall geschmolzen, und es wurde nachgewiesen, dass aus diesen Öfen auch der Schmuck und die Zier-Gombíks aus den Gräbern stammen. Der hochwertig bearbeitete Goldschmuck wurde in den spezialisierten Werkstätten von Velehrad hergestellt, da hier Tropfen geschmolzenen Goldes gefunden wurden. Es wurden auch viele eiserne Gegenstände des häuslichen Bedarfs hergestellt, und es wurden hier zudem Zinn und Kupfer geschmolzen und vergossen, wodurch weiße Bronze entstand, aus der verschiedene Nutz- und Ziergegenstände gefertigt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Fürstenpalast",
+    "alt": "Der Fürstenpalast",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Entwickelt war auch die Landwirtschaft, was viele Funde von Getreidegruben, Speichern und verschiedenen landwirtschaftlichen Geräten bezeugen. Die Hälfte der gefundenen Tierknochen stammte aus der Haltung von Hausschweinen; weiter wurden Schafe, Rinder, Ziegen und Geflügel, vor allem Gänse, gehalten. Üblich war der Fischfang. Nur 8 % der Tierknochen stammten von der Jagd auf Wildtiere; wir sehen also, dass unsere Vorfahren ihre pflanzliche und tierische Nahrung zielgerichtet sicherten, durch den Anbau von Kulturpflanzen oder durch die Haltung von Haus- und Nutztieren. Über weitere archäologische Funde in Staré Město samt deren Abbildungen finden Sie Näheres im Artikel von Vilém Hrubý „Antiqua civitas – Veligrad“ in dem Buch „Ochrana pamiatok 8“, das das Slowakische Institut für Denkmalpflege und Naturschutz im Jahr 1972 in Bratislava (Pressburg) herausgegeben hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es wird angenommen, dass dieses Siedlungszentrum hier bereits spätestens seit dem 7. Jahrhundert bestand, vor allem aber im 9. Jahrhundert war Staré Město – Velehrad ein großes Produktions-, Handels- und Kulturzentrum des alten Mähren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "König Svatopluk auf dem Thron",
+    "alt": "König Svatopluk auf dem Thron",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

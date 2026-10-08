@@ -1,0 +1,94 @@
+{
+ "slug": "divinka-velky-vrch-v-dobe-latenskej-kresba",
+ "data": {
+  "title": "Divinka – Veľký Vrch in der Latènezeit (Zeichnung)",
+  "slug": "divinka-velky-vrch-latenezeit-zeichnung",
+  "excerpt": "Divinka – Veľký Vrch, eine der größten befestigten Höhensiedlungen der Slowakei, war schon in der Bronzezeit vom Volk der Lausitzer Kultur und anschließend von der Púchov-Kultur besiedelt; als Letzte erneuerten die Anlage die Slawen. Unser Mitarbeiter Naj hat das mögliche Aussehen der Höhensiedlung in jener Zeit dargestellt, als auf ihr das Volk der Púchov-Kultur lebte – zunächst in Ansichten aus größerer Entfernung. Es ist unsere Vorstellung, keine wissenschaftliche Rekonstruktion.",
+  "metaTitle": "Divinka – Veľký Vrch in der Latènezeit (Zeichnung)",
+  "metaDescription": "Künstlerische Ansichten einer der größten befestigten Höhensiedlungen der Slowakei, Divinka – Veľký Vrch, in der Latènezeit zur Zeit der Púchov-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Divinka – Veľký Vrch",
+    "icon": "mountain"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "Latènezeit (Volk der Púchov-Kultur)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Naj",
+    "icon": "users"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2870,
+    "caption": "Vermutetes Aussehen der befestigten Höhensiedlung in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj",
+    "alt": "Vermutetes Aussehen der befestigten Höhensiedlung in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der größten befestigten Höhensiedlungen der Slowakei, "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hradisko-velky-vrch-divinka",
+        "children": [
+         {
+          "type": "text",
+          "text": "Divinka – Veľký Vrch"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", war bereits in der Bronzezeit vom Volk der Lausitzer Kultur und anschließend vom Volk der Púchov-Kultur besiedelt. Als Letzte erneuerten die Anlage die Slawen, die Vorfahren der heutigen Slowaken. Unser Mitarbeiter Naj hat sich an die schwierige Aufgabe gemacht, das mögliche Aussehen der Höhensiedlung in jener Zeit darzustellen, als auf ihr die Kelten, genauer gesagt das Volk der Púchov-Kultur, lebten. Ein 3D-Modell einer so großen und stark gegliederten Anlage zu erstellen ist sehr schwierig und stellt hohe Anforderungen an die Grafik und die Leistung des Computers. Der Vorteil der Modellierung in 3D ist jedoch, dass sich nach ihrer Fertigstellung praktisch jede beliebige Ansicht der Höhensiedlung erzeugen lässt. Zu Beginn stellen wir einige Ansichten der Höhensiedlung aus größerer Entfernung vor, nach einiger Zeit werden wir auch Detailansichten bringen. Wir weisen erneut darauf hin, dass es sich um unsere Vorstellung vom Aussehen der Höhensiedlung handelt und nicht um eine wissenschaftliche Rekonstruktion, auch wenn wir einige Details mit einem Archäologen abgestimmt haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Divinka – Veľký Vrch in der Latènezeit (Zeichnung)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Einige neuere, detailliertere Ansichten:\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

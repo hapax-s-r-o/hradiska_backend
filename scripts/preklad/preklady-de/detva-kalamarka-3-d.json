@@ -1,0 +1,121 @@
+{
+ "slug": "detva-kalamarka-3-d",
+ "data": {
+  "title": "Detva – Kalamárka 3D: Visualisierung eines slawischen Burgwalls",
+  "slug": "detva-kalamarka-3d-visualisierung",
+  "excerpt": "Im Mai sprach uns der 3D-Grafiker Matej Haulík mit dem Projekt einer 3D-Visualisierung des möglichen Aussehens des slawischen Burgwalls Detva – Kalamárka an. Das Modell des Geländes beruht auf einem LiDAR-Modell von Tibor Lieskovský, fachlich beraten hat Dr. Peter Šalkovský, der auf dem Burgwall eine Ausgrabung durchgeführt hat. Der Burgwall steht auf einem hohen Felsen; eine feste Holz-Erde-Mauer mit Tor war nur auf der besser zugänglichen Südostseite nötig.",
+  "metaTitle": "Detva-Kalamárka 3D – Visualisierung eines Burgwalls",
+  "metaDescription": "3D-Visualisierung des möglichen Aussehens des slawischen Burgwalls Detva-Kalamárka vom Grafiker Matej Haulík, mit einem Reliefmodell von T. Lieskovský.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Detva – Kalamárka",
+    "icon": "map"
+   },
+   {
+    "label": "Autor der 3D-Visualisierung",
+    "value": "Matej Haulík",
+    "icon": "users"
+   },
+   {
+    "label": "Fachliche Konsultation",
+    "value": "Dr. Peter Šalkovský (Archäologisches Institut der SAV)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4580,
+    "alt": "3D-Rekonstruktion eines Tores mit Turm, Steinmauer und Palisade auf einem felsigen Bergrücken"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Mai sprach uns der geschickte 3D-Grafiker Matej Haulík mit dem Projekt einer 3D-Visualisierung des möglichen Aussehens des slawischen Burgwalls "
+       },
+       {
+        "type": "link",
+        "url": "/blog/detva-kalamarka",
+        "children": [
+         {
+          "type": "text",
+          "text": "Detva – Kalamárka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " an. Vieles hatte er sich bereits angelesen, bei einigen Details haben wir beraten, ich habe Dr. Tibor Lieskovský um Hilfe mit dem 3D-Modell des Reliefs gebeten, und ebenso haben wir Herrn Dr. Peter Šalkovský vom Archäologischen Institut der SAV um Konsultationen gebeten, der auf dem Burgwall eine Ausgrabung durchgeführt hat. Allen Beteiligten gilt unser Dank, und es freut mich sehr, dass ich in dieser Form einen weiteren slawischen Burgwall in 3D vorstellen kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was das Modell des Hügels selbst betrifft, sind wir, wie ich schon angedeutet habe, von einem LiDAR-Modell ausgegangen, das uns Tibor Lieskovský zur Verfügung gestellt hat, was sehr geholfen hat. Auf dem größten Teil des Umfangs des Burgwalls hat sich keine Holz-Erde-Mauer erhalten, weil sie auch keinen logischen Sinn gehabt hätte, da der Burgwall auf einem hohen Felsen mit senkrechten Klippen steht. Besser zugänglich war er nur von Südosten. Genau dort errichteten die Slawen eine feste Holz-Erde-Mauer und ein Tor. Entlang des Umfangs der übrigen Teile des Burgwalls lässt sich höchstens eine Umzäunung aus Gründen der Sicherheit für Menschen und Tiere annehmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Detva – Kalamárka 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Innenbebauung bilden typische kleine slawische Blockbauten, einer von ihnen hat größere Ausmaße, da wir in ihm die Wohnstätte des Burgherrn vermuten. Außerdem befinden sich auf dem Burgwall auch Wirtschaftsbauten. Dr. Šalkovský hat uns darauf hingewiesen, dass die Ausgrabung keine so dichte Bebauung nachgewiesen hat, wie wir sie modelliert haben, doch bei ebenerdigen, nicht in den Boden eingetieften Bauten ist das manchmal schwer nachweisbar. Der hölzerne Götze ist eine Fantasie des Autors, wir haben ihn archäologisch nicht belegt, aber ich denke, dass er den Burgwall interessant belebt hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

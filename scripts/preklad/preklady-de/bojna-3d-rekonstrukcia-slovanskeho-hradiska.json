@@ -1,0 +1,177 @@
+{
+ "slug": "bojna-3d-rekonstrukcia-slovanskeho-hradiska",
+ "data": {
+  "title": "Bojná – 3D-Rekonstruktion des bekanntesten slawischen Burgwalls",
+  "slug": "bojna-3d-rekonstruktion-des-slawischen-burgwalls",
+  "excerpt": "Bojná ist zweifellos der bekannteste slawische Burgwall in der Slowakei: die älteste Glocke Mitteleuropas, vergoldete Plaketten von einem tragbaren Altar und ein hervorragend erhaltener Helm aus dem 9. Jahrhundert stammen von hier. Gemeinsam mit Igor von Dwarf Digital und mit Alexander Filip haben wir eine möglichst präzise 3D-Visualisierung des Burgwalls geschaffen, abgestimmt mit dem Archäologen Zbigniew Robak vom Archäologischen Institut der SAV.",
+  "metaTitle": "Bojná – 3D-Rekonstruktion eines slawischen Burgwalls",
+  "metaDescription": "3D-Rekonstruktion von Bojná — des bekanntesten slawischen Burgwalls mit der ältesten Glocke Mitteleuropas und einem Helm aus dem 9. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Bojná",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "9. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Autoren der 3D-Visualisierung",
+    "value": "Dwarf Digital (Igor) und Alexander Filip",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Blütezeit des Burgwalls Bojná",
+    "description": "Im Fürstentum Neutra herrschte König Svatopluk, unsere Vorfahren hatten ein starkes Heer und mächtige Burgwälle, während aus anderen Teilen Europas eine neue Religion zu uns vordrang.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4541,
+    "alt": "3D-Rekonstruktion des Tores eines slawischen Burgwalls mit Turm, Palisade und einem Krieger mit Schild"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bojná ist zweifellos der bekannteste slawische Burgwall in der Slowakei. Mit außergewöhnlichen Funden wie der ältesten Glocke Mitteleuropas, den vergoldeten Plaketten von einem tragbaren Altar oder dem hervorragend erhaltenen Helm aus dem 9. Jahrhundert hat er alle bis dahin bekannten Burgwälle im Gebiet der heutigen Slowakei vom Sockel gestoßen, sei es Pobedim, Ducové oder unzählige weitere."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Gedanken, eine 3D-Visualisierung davon zu schaffen, haben wir schon länger gespielt. Als uns im Frühjahr der Bürgermeister von Bojná, Herr Jozef Stankovský, mit der schüchternen Frage ansprach, ob wir es nicht versuchen würden, habe ich keine Sekunde gezögert. Und ich muss sagen, dass dasselbe auch für Igor ("
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf Digital"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ") gilt. Die Entscheidung, dass wir es machen, fiel sehr schnell."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "RuzF8DTGhSo",
+    "url": "https://www.youtube.com/embed/RuzF8DTGhSo",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von Anfang an haben wir uns zum Ziel gesetzt, eine möglichst präzise 3D-Visualisierung eines slawischen Burgwalls zu schaffen, die zugleich eine Augenweide ist, die auch Laien das Aussehen des Burgwalls im 9. Jahrhundert möglichst gut zeigen kann, die sich aber gleichzeitig möglichst treu an die archäologischen Grundlagen hält. Den Grundriss des Burgwalls sowie die genauen Stellen, an denen Wohnhäuser, die Befestigung oder das Tor dokumentiert wurden, haben wir mit Zbigniew Robak, dem Mitarbeiter des Archäologischen Instituts der SAV, abgestimmt, damit sie möglichst getreu sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná – 3D-Rekonstruktion des slawischen Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da wir dem Burgwall Leben einhauchen wollten, damit er nicht nur eine Geisterstadt wäre, haben wir in Zusammenarbeit mit Alexander Filip originelle Figuren der Bewohner des Burgwalls geschaffen, wobei uns Gruppen zur Wiederbelebung der slawischen Geschichte wie Slavibor oder Veľkomoravania als Modelle dienten, und unsere Freunde haben sie durch ihre Synchronstimmen zum Leben gebracht. Das Begleitwort zum Video hat für uns Herr Ján Haruštiak eingesprochen, der Direktor des Theaters "
+       },
+       {
+        "type": "link",
+        "url": "http://divadlopodbalkonom.sk/kontakt/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Divadlo pod Balkónom"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aus Banská Bystrica."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "All das hat Igor zu einem funktionierenden Cocktail gemischt, der ein wahrhaft großartiges visuelles und klangliches Erlebnis darstellt. Versetzen Sie sich also gemeinsam mit uns in das 9. Jahrhundert, als in Großmähren König Svatopluk herrschte, unsere Vorfahren ein starkes Heer und mächtige Burgwälle hatten und aus anderen Teilen Europas eine neue Religion zu uns vorzudringen begann, die die alten Götter allmählich zu verdrängen anfing..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

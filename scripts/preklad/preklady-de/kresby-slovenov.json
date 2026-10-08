@@ -1,0 +1,45 @@
+{
+ "slug": "kresby-slovenov",
+ "data": {
+  "title": "Zeichnungen der Slawen – das Frühmittelalter in Bildern",
+  "slug": "zeichnungen-der-slawen-fruehmittelalter",
+  "excerpt": "Bilder, die die Slawen in der Zeit des Frühmittelalters darstellen, sind rar – umso erfreulicher ist jeder neue Versuch, besonders wenn er auch künstlerisch hochwertig ist. Nach der Siegesszene von Tomáš hat nun unser Mitarbeiter E. M. diese Slawen für uns gezeichnet; in naher Zukunft können wir uns auf weitere großartige Zeichnungen von ihm freuen.",
+  "metaTitle": "Zeichnungen der Slawen – das Frühmittelalter in Bildern",
+  "metaDescription": "Neue künstlerische Zeichnungen stellen die Slawen, die Vorfahren der heutigen Slowaken, im Frühmittelalter dar – solche Darstellungen sind äußerst selten.",
+  "keyFacts": [
+   {
+    "label": "Autor der Zeichnung",
+    "value": "E. M.",
+    "icon": "users"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6334,
+    "alt": "Skizze dreier slawischer Krieger mit Axt, Lanze und Messer"
+   },
+   {
+    "mediaId": 3231,
+    "alt": "Kopfzeile der Website Slovanské hradiská mit Logo und der Adresse hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bilder, die die Slawen, die Vorfahren der heutigen Slowaken, in der Zeit des Frühmittelalters darstellen, sind rar wie Safran, daher ist jeder neue Versuch ihrer Darstellung erfreulich. Umso erfreulicher ist es, wenn die Zeichnungen auch künstlerisch hochwertig sind. Und das ist nicht nur bei der vorangehenden Siegesszene von Tomáš der Fall, sondern auch bei unserem Mitarbeiter E. M., der diese Slawen für uns gezeichnet hat; in naher Zukunft können wir uns auf weitere großartige Zeichnungen von ihm freuen. Danke."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

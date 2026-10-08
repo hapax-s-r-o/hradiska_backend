@@ -1,0 +1,82 @@
+{
+ "slug": "muzla-cenkov-nizinne-hradisko-na-brehu-dunaja",
+ "data": {
+  "title": "Mužla-Čenkov – eine Niederungsburg am Ufer der Donau",
+  "slug": "muzla-cenkov-niederungsburg-am-donauufer",
+  "excerpt": "Dank unserem tatkräftigen Mitarbeiter Tomáš Humaj bringen wir Ihnen eine weitere Zeichnung eines großmährischen Burgwalls. Diesmal handelt es sich um die Niederungsburg Mužla-Čenkov am Ufer der Donau. Den Wall bildete eine Holz-Erde-Konstruktion mit einer Steinfront aus Bruchstein, auf seiner Krone stand ohne Zweifel eine hölzerne Palisade. Archäologisch nicht belegt ist bislang nur das Rundheiligtum in der Mitte des Burgwalls.",
+  "metaTitle": "Mužla-Čenkov – Zeichnung einer Niederungsburg an der Donau",
+  "metaDescription": "Die Zeichnung von Tomáš Humaj zeigt die großmährische Niederungsburg Mužla-Čenkov: Wall mit Steinfront, Palisade und ein hypothetisches Rundheiligtum.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "Zeichnung der großmährischen Niederungsburg Mužla-Čenkov (T. Humaj)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5477,
+    "alt": "Federzeichnung einer Niederungsburg mit Tor, Brücke über den Graben und Bebauung im Inneren"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank unserem tatkräftigen Mitarbeiter Tomáš Humaj bringen wir Ihnen eine weitere Zeichnung eines großmährischen Burgwalls. Diesmal handelt es sich um "
+       },
+       {
+        "type": "link",
+        "url": "/blog/muzla-cenkov",
+        "children": [
+         {
+          "type": "text",
+          "text": "die Niederungsburg Mužla - Čenkov am Ufer der Donau"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Erneut ist anzumerken, dass es sich nicht um eine genaue archäologische Rekonstruktion handelt; wir verfügen jedoch über eine ausführliche Publikation zur Ausgrabung dieses Burgwalls und haben uns daher bemüht, uns so weit wie möglich an die Realität zu halten, besonders was die Befestigung, das Tor und die Bebauung betrifft. Den Wall bildete eine Holz-Erde-Konstruktion mit einer Steinfront aus Bruchstein. Auf der Krone des Walls stand ohne Zweifel eine hölzerne Palisade. Auf der zur Donau hin anliegenden Seite befand sich ein mehrere Meter hoher Abbruch, deshalb genügte es hier, nur eine hölzerne Palisade zu errichten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Archäologisch bislang nicht belegt ist nur das Rundheiligtum in der Mitte des Burgwalls. Hier haben wir der Fantasie ein wenig die Zügel gelassen, und zwar angesichts der Annahmen der Archäologen, dass auf dem Burgwall Heiden lebten ... "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla - Čenkov – Niederungsburg am Ufer der Donau",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

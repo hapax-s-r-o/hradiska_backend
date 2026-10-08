@@ -1,0 +1,134 @@
+{
+ "slug": "pobedim-3d",
+ "data": {
+  "title": "Pobedim in 3D – Rekonstruktion eines zerstörten Burgwalls",
+  "slug": "pobedim-3d-rekonstruktion-slawischer-burgwall",
+  "excerpt": "Unser Mitarbeiter Naj legt einen weiteren Versuch einer Rekonstruktion vor: den bekannten slawischen Burgwall Pobedim – Hradištia, der wohl im Laufe des 9., eventuell des 10. Jahrhunderts durch einen militärischen Angriff zerstört wurde. Gerade deshalb hat sich dort eine Menge interessanter Funde erhalten, die in den 1970er Jahren unter der Leitung von Darina Bialeková entdeckt wurden.",
+  "metaTitle": "Pobedim 3D – Rekonstruktion des slawischen Burgwalls",
+  "metaDescription": "Eine 3D-Rekonstruktion des slawischen Burgwalls Pobedim – Hradištia, der im 9. oder 10. Jahrhundert durch einen militärischen Angriff zerstört wurde.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Pobedim – Hradištia (slawischer Burgwall)",
+    "icon": "building"
+   },
+   {
+    "label": "Untergang des Burgwalls",
+    "value": "9., eventuell 10. Jahrhundert (militärischer Angriff)",
+    "icon": "sword"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "1970er Jahre, unter der Leitung von Darina Bialeková",
+    "icon": "scroll"
+   },
+   {
+    "label": "3D-Visualisierung",
+    "value": "Naj",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Untergang des Burgwalls",
+    "description": "Der Burgwall wurde wohl im Laufe des 9., eventuell des 10. Jahrhunderts durch einen militärischen Angriff zerstört.",
+    "type": "event"
+   },
+   {
+    "year": "1970er Jahre",
+    "title": "Archäologische Ausgrabung",
+    "description": "Auf dem Burgwall hat sich eine Menge interessanter Funde erhalten, die während der Ausgrabung unter der Leitung von Darina Bialeková entdeckt wurden.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4567,
+    "alt": "Dreidimensionale Karte des Waagtals mit dem markierten Burgwall im Sumpfgebiet und den umliegenden Fundstellen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Naj kommt mit einem weiteren Versuch einer Rekonstruktion eines Burgwalls. Es handelt sich um den bekannten slawischen Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/pobedim",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pobedim – Hradištia."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall wurde wohl im Laufe des 9., eventuell des 10. Jahrhunderts durch einen militärischen Angriff zerstört. Aus diesem Grund hat sich auf dem Burgwall eine Menge interessanter Funde erhalten, die während der Ausgrabung in den 1970er Jahren unter der Leitung der bedeutenden slowakischen Archäologin Darina Bialeková entdeckt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Autor geht bei der Visualisierung von einem veröffentlichten Plan der Befestigung aus, nach dem sich der Burgwall in 2 Teile gliederte – Hradištia und Podhradištia. Die innere Bebauung des Burgwalls auf der Visualisierung ist eine freie Vorstellung des Autors und nicht durch archäologische Ausgrabungen belegt. Vielleicht verfügen die Archäologen über einen Plan der Bebauung des Burgwalls, der jedoch nicht veröffentlicht wurde. Hätten wir ihn, so wäre es möglich, die Visualisierung entsprechend anzupassen, damit sie der Wirklichkeit noch mehr entspricht.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Autor danken wir und freuen uns auf weitere Visualisierungen von Burgwällen..."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

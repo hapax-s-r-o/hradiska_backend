@@ -1,0 +1,89 @@
+{
+ "slug": "prosne-zlaty-kon-kresba-a-lacka",
+ "data": {
+  "title": "Prosné – Zlatý kôň: eine Zeichnung von A. Lacko",
+  "slug": "prosne-zlaty-kon-zeichnung-von-a-lacko",
+  "excerpt": "Antonín Lacko hat für uns die keltische Höhenburg Zlatý kôň der Púchov-Kultur gezeichnet, deren Überreste über der Gemeinde Prosné zu sehen sind. Im rechten Teil der Zeichnung ist eine Holz-Erde-Mauer mit einer Holzpalisade zu sehen, links genügte dank des steilen Hanges ein hölzerner Zaun. Die Anlage diente offenbar als Fliehburg für die Bewohner der umliegenden Siedlungen.",
+  "metaTitle": "Prosné – Zlatý kôň, eine Zeichnung von A. Lacko",
+  "metaDescription": "Antonín Lackos künstlerische Visualisierung der keltischen Höhenburg Zlatý kôň (Púchov-Kultur) über Prosné – Holz-Erde-Mauer mit Holzpalisade.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Prosné – Zlatý kôň",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Antonín Lacko",
+    "icon": "users"
+   },
+   {
+    "label": "Kultur",
+    "value": "keltisch (Púchov-Kultur)",
+    "icon": "shield"
+   },
+   {
+    "label": "Art der Anlage",
+    "value": "Fliehburg (kleine Höhenburg)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6330,
+    "alt": "Federzeichnung einer Höhenburg mit Holzpalisade und Blockhäusern zwischen Fichten"
+   },
+   {
+    "mediaId": 3647,
+    "caption": "A. Lacko",
+    "alt": "A. Lacko"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Antonín Lacko hat für unsere Seite diese künstlerische Visualisierung der keltischen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/prosne-zlaty-kon",
+        "children": [
+         {
+          "type": "text",
+          "text": "Höhenburg Zlatý kôň (Púchov-Kultur)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " angefertigt, deren Überreste über der Gemeinde Prosné zu sehen sind. Im rechten Teil der Zeichnung ist zu sehen, dass die Menschen der Púchov-Kultur hier eine Holz-Erde-Mauer mit einer Holzpalisade errichteten; im linken Teil genügte es dank des steilen Hanges, nur einen hölzernen Zaun zu setzen, und es war nicht nötig, einen Wall zu bauen. Die Höhenburg diente offenbar als Fliehburg für die Bewohner der umliegenden Siedlungen in Zeiten der Bedrohung durch die Germanen oder andere Feinde. Die Höhenburg hatte eine schmale, längliche Form und folgte dem Bergrücken. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Autor, der beim Malen sogar sein Leben riskierte (er wurde von einem Wildschwein angegriffen – offenbar dem Wächter der Höhenburg), danken wir.\n \n Und als Besonderheit noch dieselbe Zeichnung mit einem Nachteffekt...\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

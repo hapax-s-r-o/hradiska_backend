@@ -1,0 +1,128 @@
+{
+ "slug": "nitra-v-9-storoci",
+ "data": {
+  "title": "Nitra (Neutra) im 9. Jahrhundert – eine Zeichnung des zentralen Burgwalls",
+  "slug": "nitra-im-9-jahrhundert-zentraler-burgwall",
+  "excerpt": "Unser Mitarbeiter Tomáš Humaj hat für uns eine Vorstellung vom vermuteten Aussehen des Burgwalls in Nitra (Neutra) auf dem Burgberg gezeichnet, wo im 9. Jahrhundert mit größter Wahrscheinlichkeit der zentrale Burgwall des Fürstentums Neutra stand. Die Zeichnung erfasst nur die Befestigung des Burgbergs selbst und umfasst weder die vermutete Befestigung des Suburbiums noch die umliegenden Burgwälle.",
+  "metaTitle": "Nitra im 9. Jahrhundert – der zentrale Burgwall des Fürstentums",
+  "metaDescription": "Die Zeichnung von Tomáš Humaj zeigt den Burgwall auf dem Burgberg von Nitra im 9. Jahrhundert – das Zentrum des Fürstentums Neutra mit Hauptburg und Vorburg.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5714,
+    "alt": "Zeichnung eines zweiteiligen Burgwalls mit Hauptburg auf dem Sporn und ausgedehnter Vorburg"
+   },
+   {
+    "mediaId": 5719,
+    "caption": "Grundriss des Burgwalls nach Dr. Bednár",
+    "alt": "Grundriss des Burgwalls nach Dr. Bednár"
+   },
+   {
+    "mediaId": 5727,
+    "caption": "Schnitt durch die großmährische Mauer nach dem Archäologischen Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV)",
+    "alt": "Schnitt durch die großmährische Mauer nach dem Archäologischen Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Tomáš Humaj hat für uns eine Vorstellung vom vermuteten Aussehen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/nitra",
+        "children": [
+         {
+          "type": "text",
+          "text": "des Burgwalls in Nitra (Neutra)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf dem Burgberg gezeichnet, wo im 9. Jahrhundert mit größter Wahrscheinlichkeit der zentrale Burgwall des Fürstentums Neutra stand. Die Zeichnung erfasst nur die Befestigung des Burgbergs selbst und umfasst weder die vermutete Befestigung des Suburbiums noch die umliegenden Burgwälle. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Zeichnen gingen wir von den bisher bekannten Grundrissen der Archäologen aus, die den vermuteten Verlauf der Befestigung des Burgbergs erfassen, von den Rekonstruktionen der untersuchten Teile des großmährischen Walls, dessen Reste an einigen Stellen erhalten geblieben sind (die Steinfront), von Luftaufnahmen des Burgbergs und von erhaltenen Kupferstichen aus dem späteren Mittelalter. Wir haben den vermuteten Zugang zum Burgwall im westlichen Teil des Burgbergs beibehalten und die Geländekonfiguration sowie die heutige Fortifikation auf der Hauptburg der Burg respektiert, denn unserer Meinung nach ist es angesichts des Geländes höchst wahrscheinlich, dass auch in der Zeit des Fürstentums Neutra an diesen Stellen eine Mauer errichtet war, die den höchsten Teil des Burgwalls (die Hauptburg) von der Vorburg trennte. Auf der Hauptburg des Burgwalls vermuten die Archäologen einen steinernen Palastbau und selbstverständlich auch eine gemauerte Kirche. Darüber hinaus lassen sich im Areal der Hauptburg mehrere weitere repräsentative Bauten vermuten, da hier wohl die nächsten Familienangehörigen des Fürsten und vielleicht auch andere bedeutende Würdenträger der weltlichen oder kirchlichen Macht lebten. Daher sind die Bauten auf der Hauptburg für jene Zeit sehr groß und prunkvoll. In die Vorburg haben wir mehrere kleinere Blockhäuser gesetzt, in denen Handwerker, Händler und Mitglieder der Gefolgschaft leben konnten. Eine zu dichte Bebauung der Vorburg haben wir nicht gewählt, denn auch aus den ältesten Darstellungen der Burg scheint hervorzugehen, dass hier nicht allzu viele Bauten standen – wohl aus Verteidigungsgründen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitra im 9. Jahrhundert",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist darauf hinzuweisen, dass es sich wohl überhaupt um den ersten Versuch handelt, den zentralen Burgwall von Nitra zu zeichnen, und dass es unsere Laienzeichnung ist. Wenn wir in etwas Fehler gemacht haben, waren sie unabsichtlich, doch nehmen wir konstruktive Kritik gerne an. Vielleicht wird auf ihrer Grundlage und auf der Grundlage dieses unseres ersten Werks jemand anderes versuchen, eine genauere Zeichnung zu schaffen, die wir ebenfalls sehr gerne veröffentlichen werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der Darstellung der Burg selbst bemühen wir uns, auch eine umfassendere Ansicht des Zentrums von Nitra in der Zeit des 9. Jahrhunderts zu schaffen, auf der das befestigte Suburbium und die umliegenden Burgwälle erfasst wären. Hoffen wir, dass auch diese Zeichnung gelingt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Autor gebührt erneut großer Dank."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

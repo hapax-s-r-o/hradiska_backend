@@ -1,0 +1,232 @@
+{
+ "slug": "liptovsky-hrad",
+ "data": {
+  "title": "Liptovský hrad – eine 3D-Visualisierung der untergegangenen Burg über Kaľameny",
+  "slug": "liptovsky-hrad-3d-visualisierung-der-burg",
+  "excerpt": "Wir stellen Ihnen eine weitere außergewöhnliche visuelle Rekonstruktion vor: Dwarf Digital hat gemeinsam mit hradiskami.sk die untergegangene Burg Liptovský hrad visualisiert. Die 3D-Visualisierung entstand nach der Rekonstruktion von Peter Gutek (2006). Die Burg lag in der extremen Höhe von 1000 m ü. M. auf dem Berg Hrad in den Chočské vrchy, gab der ganzen Region Liptau ihren Namen und wurde 1474 bis auf die Grundmauern abgetragen.",
+  "metaTitle": "Liptovský hrad – 3D-Visualisierung der untergegangenen Burg",
+  "metaDescription": "Die 3D-Visualisierung der untergegangenen Burg Liptovský hrad nach der Rekonstruktion von Peter Gutek, umgesetzt von Dwarf Digital und Hradiska.sk.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Berg Hrad in den Chočské vrchy, oberhalb des Dorfes Kaľameny",
+    "icon": "map"
+   },
+   {
+    "label": "Meereshöhe",
+    "value": "1000 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Entstehung der Burg",
+    "value": "zweites Viertel des 13. Jahrhunderts",
+    "icon": "calendar"
+   },
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "1262",
+    "icon": "scroll"
+   },
+   {
+    "label": "Untergang der Burg",
+    "value": "15. Jahrhundert (1474 bis auf die Grundmauern abgetragen)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1262",
+    "title": "Erste schriftliche Erwähnung",
+    "description": "Die älteste belegte schriftliche Erwähnung von Liptovský hrad.",
+    "type": "event"
+   },
+   {
+    "year": "1313–1337",
+    "title": "Die Besitzer Matúš Čák und Magister Dončo",
+    "description": "Die Burg gehörte wahrscheinlich Matúš Čák, später dem königlichen Gespan von Zvolen, Magister Dončo.",
+    "type": "event"
+   },
+   {
+    "year": "um 1340",
+    "title": "Zerfall des Komitats Zvolen",
+    "description": "Das Komitat Zvolen zerfiel in kleinere Komitate und Liptovský hrad wurde zur Komitatsburg der Liptau.",
+    "type": "event"
+   },
+   {
+    "year": "1397",
+    "title": "Besetzung der Burg durch mährische Truppen",
+    "description": "Die Truppen des mährischen Markgrafen Prokop und des Oppelner Herzogs Wladislaus, Anhänger des böhmischen Königs Wenzel IV., besetzten die Burg.",
+    "type": "event"
+   },
+   {
+    "year": "1406",
+    "title": "Mikuláš Gara erhält die Burg",
+    "description": "Mikuláš Gara erhielt die Burg und die Würde des Gespans der Liptau.",
+    "type": "event"
+   },
+   {
+    "year": "1441",
+    "title": "Besetzung durch die Hussiten",
+    "description": "Die Burg wurde wahrscheinlich von den Hussiten besetzt.",
+    "type": "event"
+   },
+   {
+    "year": "1445–1447",
+    "title": "Die Räuberei des Ladislav Rikolfi",
+    "description": "Rikolfi wurde der Räuberei beschuldigt und eingekerkert; der König begnadigte ihn später unter der Bedingung, dass er die Burg abbreche, die ein Zentrum von Raubzügen war.",
+    "type": "event"
+   },
+   {
+    "year": "1453",
+    "title": "Die Burg als wüster Platz",
+    "description": "Eine Urkunde aus diesem Jahr führt die Burg nur noch als wüsten Platz an.",
+    "type": "event"
+   },
+   {
+    "year": "1459",
+    "title": "Besitz des Peter Komorovský",
+    "description": "König Matthias Corvinus schenkte die Liptauer Burgen und die Burg Orava an Peter Komorovský, den er zum Gespan der Liptau und der Arwa ernannte.",
+    "type": "event"
+   },
+   {
+    "year": "1474",
+    "title": "Abtragung der Burg",
+    "description": "Nach dem Frieden von Spišská Nová Ves entzog Matthias Corvinus Komorovský die Güter und ließ die Gebäude und auch die Mauern von Liptovský hrad bis auf die Grundmauern abtragen.",
+    "type": "event"
+   },
+   {
+    "year": "1975–1987",
+    "title": "Archäologische Ausgrabung",
+    "description": "Es fand eine archäologische Ausgrabung statt und die freigelegten Gebäudefundamente wurden konserviert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4555,
+    "alt": "3D-Rekonstruktion einer steinernen Burg auf einem steil abfallenden Berg und eines hölzernen Wachturms mit Palisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir stellen Ihnen eine weitere außergewöhnliche visuelle Rekonstruktion vor. Diesmal hat sich "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=ts",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf Digital"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " gemeinsam mit "
+       },
+       {
+        "type": "link",
+        "url": "http://hradiskami.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hradiskami.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " an die Visualisierung der untergegangenen Burg Liptovský hrad gemacht. Die 3D-Visualisierung entstand nach der Rekonstruktion von Peter Gutek (2006), dem großer Dank für die geduldigen Anmerkungen während der Modellierung der Burg gebührt. Für die archäologischen Unterlagen danken wir Martin Furman. Verwendete Literatur: Miroslav Slámka u. a.: Kamenní strážcovia II. Bratislava: Slovenský skauting, 2011."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die Seite "
+       },
+       {
+        "type": "link",
+        "url": "http://liptov.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "LIPTOV.SK"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " anführt, gab Liptovský hrad, auch Burg Liptov, Liptovský starý hrad, Veľký hrad liptovský oder Sielnický hrad genannt, der ganzen Region ihren Namen. Seinen Namen verdankt er wahrscheinlich dem ursprünglichen Besitzer Ľuboto – Ľubtov hrad; durch die Magyarisierung wandelte er sich zu Ľubtov und später zu Liptov."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "G6PC5Mr0SX0",
+    "url": "https://www.youtube.com/embed/G6PC5Mr0SX0",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Die konservierten Fundamente der Burg, die in einer extremen Lage auf dem Berg namens Hrad in den Chočské vrchy in einer Höhe von 1000 m liegt, sind zugänglich. Ihre Ruinen belegen den Grundriss und die Funktionen eines feudalen Sitzes, der im 15. Jahrhundert zerstört und verlassen wurde. Die Burg entstand im zweiten Viertel des 13. Jahrhunderts. Die erste schriftliche Erwähnung von ihr stammt aus dem Jahr 1262. Ursprünglich war sie königlich und sollte die Grenzen des Landes schützen. Anfangs hatte hier der Stellvertreter des Gespans von Zvolen seinen Sitz. Zu Beginn des 14. Jahrhunderts gehörte sie wahrscheinlich Matúš Čák, in den Jahren 1313–1337 dem königlichen Gespan von Zvolen, Magister Dončo. Um das Jahr 1340 zerfiel das Komitat Zvolen in kleinere Komitate, die ihre Burgen als Verwaltungszentren hatten. Komitatsburg der Liptau wurde Liptovský hrad, der ab 1396 auch mit dem Beiwort Groß angeführt wird (Magnum castrum, Magnum castrum Liptovience). Im Jahr 1397 besetzten die Truppen des mährischen Markgrafen Prokop und des Oppelner Herzogs Wladislaus, Anhänger des böhmischen Königs Wenzel IV., die Burg. Im Jahr 1399 hebt König Sigismund die Verdienste der Adligen bei der Verteidigung der Burg hervor und belohnt sie mit Donationen in der Liptau und im Bergbaugebiet. So erhielt 1406 Mikuláš Gara die Burg und die Würde des Gespans der Liptau. Die Burg wurde im Jahr 1441 wahrscheinlich von den Hussiten besetzt. Darauf lässt sich aus der Donation des Königs von 1440 und 1441 an Ladislav Rikolfi aus Šarišská Kamenica schließen, in der die Bedingung stand, dass der neue Besitzer die Burg instand setzen lasse. Rikolfi wurde im Jahr 1445 der Räuberei beschuldigt und eingekerkert. Im Jahr 1447 begnadigte ihn der König mit der Auflage, dass er die Burg, die ein Zentrum von Raubzügen war, abbreche. Eine Urkunde von 1453 führt nur noch einen wüsten Platz an. Im folgenden Jahr 1454 schenkte Johann Hunyadi der Familie Pongrác Güter in der Liptau. Neben Likava und Liptovský Hrádok auch Liptovský hrad mit der Forderung nach seiner Instandsetzung. Im Jahr 1459 schenkte König Matthias Corvinus alle drei Liptauer Burgen und die Burg Orava an Peter Komorský, den er zum Gespan der Liptau und der Arwa ernannte. Komorovský schloss sich jedoch dem widerspenstigen Adel an, der mit den polnischen Königen sympathisierte. Matthias Corvinus entzog Komorovský nach dem Abschluss des Friedens von Spišská Nová Ves im Jahr 1474 mit dem polnischen König Wladislaw Jagiello die Güter und ließ die Gebäude und Mauern von Liptovský hrad bis auf die Grundmauern abtragen. Über fünfhundert Jahre lang überwuchs dichter Waldbestand die Fundamente der Burg, nur das Geländerelief und der Rest einer einzigen Mauer bezeichneten die Stelle, an der die Burg stand. In den Jahren 1975 bis 1987 fand eine archäologische Ausgrabung statt und die freigelegten Gebäudefundamente wurden konserviert. Zu den Ruinen von Liptovský hrad gelangt man auf einem markierten Weg vom Dorf Kaľameny. Die archäologische Freilichtausstellung auf der Burg Liptov oberhalb des Dorfes Kaľameny ist eine Außenstelle des Liptauer Museums in Ružomberok. Der Öffentlichkeit zugänglich sind die Überreste der freigelegten Architektur nach bau- und konservatorischen Maßnahmen auf der Grundlage der archäologischen Ausgrabung. Der Eintritt in das Burgareal ist frei.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Liptovský hrad",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

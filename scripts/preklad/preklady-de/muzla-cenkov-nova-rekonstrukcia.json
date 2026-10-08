@@ -1,0 +1,159 @@
+{
+ "slug": "muzla-cenkov-nova-rekonstrukcia",
+ "data": {
+  "title": "Mužla-Čenkov – eine neue Rekonstruktion des Burgwalls",
+  "slug": "muzla-cenkov-neue-rekonstruktion-des-burgwalls",
+  "excerpt": "Auf der Fundstelle Mužla-Čenkov erstreckte sich im 9. und 10. Jahrhundert ein slawischer Burgwall, dessen Teile heute in der Lage Vilmakert liegen. Er gehört zu den Burgwällen mit überwiegender Wach- und Militärfunktion und liegt direkt am Donauufer an der heutigen Grenze zu Ungarn. Nach einem Jahr haben Hradiská.sk und Dwarf digital archeology die ursprüngliche Visualisierung grundlegend verbessert – samt virtuellem Rundgang über den Burgwall gegen Ende des 9. Jahrhunderts.",
+  "metaTitle": "Mužla-Čenkov – neue Rekonstruktion des Burgwalls",
+  "metaDescription": "Die neue Rekonstruktion des slawischen Wachburgwalls Mužla-Čenkov aus dem 9.–10. Jahrhundert direkt am Donauufer an der heutigen Grenze zu Ungarn.",
+  "keyFacts": [
+   {
+    "label": "Besiedlungszeit",
+    "value": "9.–10. Jahrhundert (größte Bedeutung zur Zeit Großmährens)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Lage",
+    "value": "Mužla-Čenkov, Lage Vilmakert, Donauufer an der Grenze zu Ungarn",
+    "icon": "map"
+   },
+   {
+    "label": "Funktion des Burgwalls",
+    "value": "Wach- und Militärfunktion",
+    "icon": "shield"
+   },
+   {
+    "label": "Mitarbeit an der Visualisierung",
+    "value": "Hradiská.sk und Dwarf digital archeology",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Bestehen des slawischen Burgwalls",
+    "description": "In der Lage Vilmakert bei Mužla-Čenkov erstreckte sich ein slawischer Burgwall mit überwiegender Wach- und Militärfunktion.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 9. Jahrhunderts",
+    "title": "Der in der Visualisierung dargestellte Zeitabschnitt",
+    "description": "Die neue Visualisierung versucht, eine annähernde Vorstellung vom Aussehen des slawischen Burgwalls in Mužla irgendwann gegen Ende des 9. Jahrhunderts zu vermitteln.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4556,
+    "alt": "3D-Rekonstruktion einer Mauer mit steinerner Frontwand und eines Grabens, im Hintergrund eine Siedlung am Fluss"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Fundstelle Mužla-Čenkov erstreckte sich im 9. und 10. Jahrhundert ein slawischer Burgwall, dessen Teile heute in der Lage Vilmakert liegen. Er lässt sich zu den Burgwällen mit überwiegender Wach- und Militärfunktion zählen. Die Fundstelle liegt direkt am Donauufer an der heutigen Grenze zu Ungarn. Wegen der günstigen Lage war sie schon in der Urgeschichte besiedelt, ihre größte Bedeutung erlangte sie jedoch in der Zeit des Bestehens Großmährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hradiská.sk hat in Zusammenarbeit mit Dwarf digital archeology bereits vor einem Jahr versucht, "
+       },
+       {
+        "type": "link",
+        "url": "/blog/muzla-cenkov-3d-vizualizacia-hradiska",
+        "children": [
+         {
+          "type": "text",
+          "text": "das annähernde Aussehen des Burgwalls"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " in der Zeit seiner Blüte zu schaffen. Als Grundlage dienten uns zwei Monografien der Archäologen, die den Burgwall untersucht haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "oDujLc1u4-w",
+    "url": "https://www.youtube.com/embed/oDujLc1u4-w",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Laufe des Jahres sind die Technik, die Software, vor allem aber die Erfahrungen von Dwarf auf dem Gebiet der 3D-Visualisierungen so weit fortgeschritten, dass wir uns für eine grundlegende Verbesserung der ursprünglichen Visualisierung entschieden haben. Wie im vorangegangenen Fall bemühen wir uns, eine annähernde Vorstellung vom Aussehen des slawischen Burgwalls in Mužla irgendwann gegen Ende des 9. Jahrhunderts zu vermitteln."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neben dem Video haben Sie auch die Möglichkeit, einen virtuellen Rundgang über den Burgwall zu nutzen, bei dem Sie selbst auswählen, welchen Teil des Burgwalls Sie besuchen möchten: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.dwarfdigital.cz/muzla/",
+        "children": [
+         {
+          "type": "text",
+          "text": "VIRTUELLER RUNDGANG"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Verlauf der Befestigung, ihr Aufbau sowie die Bebauung mit Häusern gehen recht genau aus den Unterlagen der Archäologen hervor, die uns zur Verfügung standen. Neben den Wohnhäusern befanden sich auf dem Burgwall natürlich unzählige verschiedene Wirtschaftsgebäude, Vorratsgruben, Abfallgruben und allerlei Gegenstände des täglichen Gebrauchs und Unordnung, die die alltägliche Realität des Burgwalls ausmachten. Einen Teil dieser zusätzlichen Objekte haben wir nachmodelliert, aber auch so kann es sich natürlich nicht um eine genaue Rekonstruktion alles dessen handeln, was auf dem Burgwall vorhanden war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla - Čenkov – neue Rekonstruktion",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

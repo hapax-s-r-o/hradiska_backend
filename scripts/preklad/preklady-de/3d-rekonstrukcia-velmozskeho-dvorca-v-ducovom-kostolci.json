@@ -1,0 +1,85 @@
+{
+ "slug": "3d-rekonstrukcia-velmozskeho-dvorca-v-ducovom-kostolci",
+ "data": {
+  "title": "3D-Rekonstruktion des Herrenhofs in Ducové (Kostolec)",
+  "slug": "3d-rekonstruktion-des-herrenhofs-in-ducove-kostolec",
+  "excerpt": "Ein Projekt, das in der Slowakei ohne Beispiel ist: eine sehr hochwertig ausgearbeitete 3D-Rekonstruktion des Burgwalls in Ducové. Die Autoren sind die Architekten Viktória Kyjovská und Štefan Šuster, entstanden ist das Projekt in Zusammenarbeit mit Prof. Ruttkay, der auf dem Burgwall die Ausgrabungen durchgeführt hat. Man kann direkt durch den gesamten Herrenhof in der Zeit vor 1000 Jahren spazieren — das Projekt hat daher nicht nur visuellen, sondern auch wissenschaftlichen Wert.",
+  "metaTitle": "3D-Rekonstruktion des Herrenhofs in Ducové (Kostolec)",
+  "metaDescription": "Die Architekten V. Kyjovská und Š. Šuster schufen in Zusammenarbeit mit Prof. Ruttkay eine begehbare 3D-Rekonstruktion des Herrenhofs in Ducové.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5487,
+    "caption": "Bronzezeit",
+    "alt": "Bronzezeit"
+   },
+   {
+    "mediaId": 5488,
+    "caption": "Großmähren",
+    "alt": "Großmähren"
+   },
+   {
+    "mediaId": 5489,
+    "caption": "Großmähren",
+    "alt": "Großmähren"
+   },
+   {
+    "mediaId": 5490,
+    "caption": "Bratríci (15. Jahrhundert)",
+    "alt": "Bratríci (15. Jahrhundert)"
+   },
+   {
+    "mediaId": 5491,
+    "caption": "Friedhof (Neuzeit)",
+    "alt": "Friedhof (Neuzeit)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich möchte die Leser auf ein großartiges Projekt aufmerksam machen, das in der Slowakei ohne Beispiel ist — eine sehr hochwertig ausgearbeitete 3D-Rekonstruktion des Burgwalls in Ducové. Die Autoren sind die Architekten Viktória Kyjovská und Štefan Šuster, wobei das Projekt in Zusammenarbeit mit Prof. Ruttkay entstanden ist, der auf dem Burgwall die Ausgrabungen durchgeführt hat. Das Projekt hat also nicht nur einen hohen visuellen Wert – Sie können direkt durch den gesamten Herrenhof in der Zeit vor 1000 Jahren spazieren –, sondern auch einen wissenschaftlichen Wert. Frau Kyjovská hat für unsere Seite einige Bilder aus diesem Projekt zur Verfügung gestellt. Allen empfehle ich jedoch, direkt die Seite "
+       },
+       {
+        "type": "link",
+        "url": "http://www.kostolec-ducove.eu/",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.kostolec-ducove.eu/"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " zu besuchen, wo die kompletten Rekonstruktionen und Videos zu finden sind. Unterstützen Sie die Autorin auch, indem Sie den Fragebogen ausfüllen. Es bleibt mir zu glauben, dass wir eine derart hochwertige Rekonstruktion weiterer Burgwälle in der Slowakei bald erleben werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

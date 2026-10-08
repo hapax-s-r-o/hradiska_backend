@@ -1,0 +1,95 @@
+{
+ "slug": "mohyla-z-doby-bronzovej-v-palarikove-3d",
+ "data": {
+  "title": "Palárikovo – ein bronzezeitliches Hügelgrab in 3D",
+  "slug": "palarikovo-bronzezeitliches-huegelgrab-3d",
+  "excerpt": "Nach dem slawischen Heiligtum in Most pri Bratislave stellen wir Ihnen eine weitere einzigartige 3D-Visualisierung aus der Werkstatt unseres Mitarbeiters Igor Furugláš vor: das Hügelgrab von Palárikovo. Auf seinem Grund lag ein reiches Kriegergrab der jüngeren Bronzezeit, in dem jedoch kein Toter lag – es handelt sich um ein Kenotaph, ein symbolisches Grab für einen Menschen, der weit entfernt auf einem Kriegszug gestorben war.",
+  "metaTitle": "Palárikovo – ein bronzezeitliches Hügelgrab in 3D",
+  "metaDescription": "Eine 3D-Visualisierung des bronzezeitlichen Hügelgrabes von Palárikovo, das der Archäologe Jozef Paulík vor der Einplanierung untersuchte. Von Igor Furugláš.",
+  "keyFacts": [
+   {
+    "label": "Zeitstellung",
+    "value": "jüngere Bronzezeit",
+    "icon": "calendar"
+   },
+   {
+    "label": "Fundort",
+    "value": "Palárikovo, Südslowakei",
+    "icon": "map"
+   },
+   {
+    "label": "Grabtyp",
+    "value": "Kenotaph (symbolisches Grab eines Kriegers)",
+    "icon": "shield"
+   },
+   {
+    "label": "Archäologische Ausgrabung",
+    "value": "Jozef Paulík",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Kenotaph eines Kriegers im Hügelgrab",
+    "description": "Der Archäologe Jozef Paulík untersuchte das Hügelgrab in Palárikovo und entdeckte auf seinem Grund ein reiches Kriegergrab, in dem jedoch kein Toter lag — es handelte sich um ein symbolisches Grab (Kenotaph) für jemanden, der weit entfernt auf einem Kriegszug gestorben war.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem slawischen Heiligtum in Most pri Bratislave stellen wir Ihnen eine weitere einzigartige 3D-Visualisierung aus der Werkstatt unseres Mitarbeiters Igor Furugláš vor. Das Hügelgrab von Palárikovo."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Pavel Dvořák sagt darüber:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als der Archäologe Jozef Paulík das Hügelgrab in Palárikovo in der Südslowakei untersuchte, das im Rahmen von Meliorationen dem Boden gleichgemacht werden sollte, stellte er eine unglaublich sonderbare Sache fest. Auf dem Grund des Hügelgrabes lag ein reiches Kriegergrab aus der Zeit der jüngeren Bronzezeit; dem Krieger hatte man zwar das Hügelgrab errichtet, doch lag er nicht im Grab. Es handelt sich um ein sogenanntes Kenotaph, ein symbolisches Grab, das man einem Menschen errichtete, der zum Beispiel irgendwo weit entfernt auf einem Kriegszug gestorben war. Man glaubte, dass die Toten ohne Grab Schaden anrichten, deshalb stellte man für sie ein Kenotaph her und lud sie ein, einzutreten.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "dswsbEtcyts",
+    "url": "https://www.youtube.com/embed/dswsbEtcyts",
+    "caption": ""
+   }
+  ]
+ }
+}

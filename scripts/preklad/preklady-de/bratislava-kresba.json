@@ -1,0 +1,65 @@
+{
+ "slug": "bratislava-kresba",
+ "data": {
+  "title": "Bratislava (Pressburg) – Zeichnung des großmährischen Burgwalls Breslava",
+  "slug": "bratislava-zeichnung-des-burgwalls-breslava",
+  "excerpt": "Unsere Mitarbeiter Adam und Iveta haben eine künstlerische Vorstellung des Burgwalls Breslava (Breslauaspurch, Pressburg, Bratislava) zur Zeit Großmährens gezeichnet. Der Burgwall stand an der Stelle, an der sich heute die Burg erhebt: links die Fundamente eines bedeutenderen weltlichen Gebäudes, vielleicht des Palastes eines Adligen, rechts die großmährische Basilika. Die Wehrmauer hatte eine Holz-Erde-Konstruktion, eine Steinfront und eine Palisade auf der Wallkrone.",
+  "metaTitle": "Bratislava – Zeichnung des Burgwalls Breslava",
+  "metaDescription": "Künstlerische Vorstellung des Burgwalls Breslava (Pressburg) zur Zeit Großmährens an der Stelle der heutigen Burg, wo ein Palast eines Adligen stand.",
+  "keyFacts": [
+   {
+    "label": "Autoren der Zeichnung",
+    "value": "Adam und Iveta",
+    "icon": "users"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "Großmähren",
+    "icon": "calendar"
+   },
+   {
+    "label": "Entdeckte Fundamente",
+    "value": "Ein weltliches Gebäude (vielleicht der Palast eines Adligen) und eine Basilika",
+    "icon": "building"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6324,
+    "alt": "Farbige Zeichnung eines befestigten Burgwalls auf einem Hügel mit Innenbebauung und Suburbium"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Mitarbeiter Adam und Iveta haben für uns eine künstlerische Vorstellung des Burgwalls "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bratislava",
+        "children": [
+         {
+          "type": "text",
+          "text": "Breslava (Breslauaspurch, Pressburg, Bratislava)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " zur Zeit Großmährens gezeichnet. Der Burgwall stand an der Stelle, an der sich heute die Burg erhebt. Im linken Teil, wo die Anhöhe ist, wurden die Fundamente eines bedeutenderen weltlichen Gebäudes (vielleicht des Palastes eines Adligen) gefunden, und im rechten sehen wir die großmährische Basilika, deren Fundamente auf der Burg zugänglich sind. Die Wehrmauer hatte eine Holz-Erde-Konstruktion, eine vorgeblendete Steinfront und eine Palisade auf der Wallkrone. Unterhalb der Burg wurde ebenfalls eine slawische Besiedlung nachgewiesen. Am Ufer der Donau stand offenbar eine Zollstation. Wir danken."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

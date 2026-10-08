@@ -523,6 +523,32 @@ v básni je v poriadku, hoci web inak vyká.
 | Bratríci | **Bratríci** | nemecká literatúra nemá jednotný tvar |
 | Kopáň (vodca) | **Koppány** | ustálený maďarský tvar |
 
+| župan / župa / župný hrad | der **Gespan** / das **Komitat** / die Komitatsburg | uhorské reálie 13.–15. stor. |
+| zbojstvo (šľachtica) | die Räuberei | |
+| Považie / Ponitrie | das **Waagtal** / das **Neutratal** | údolia, nie rieky |
+| kenotaf | das Kenotaph | |
+| meliorácie | Meliorationen | |
+| zrubový dom | das **Blockhaus** | konštrukcia: *Blockbauweise* |
+| medirytina | der Kupferstich | |
+| kaštieľ | das **Herrenhaus** | renesančný: *Renaissance-Herrenhaus* |
+| nárožná bašta | die Eckbastei | |
+| skalný previs | der Felsüberhang | |
+| vladyka | der (örtliche) Adlige | |
+| povesť | die **Sage** | nie *Legende* (tá je hagiografická) |
+| mazanica | der Lehmbewurf | |
+| tkáčsky stav | der Webstuhl | |
+| sídlisková terasa | die Siedlungsterrasse | |
+| pec na výpal keramiky | der Keramikbrennofen | |
+| lúpežný rytier | der Raubritter | |
+| Matúš Čák Trenčiansky | Matúš Čák von Trenčín (Trentschin) | |
+| Štefan Bočkaj | Stephan Bocskai | |
+| Žilina | Sillein | exonym pri prvom výskyte |
+
+**Pravopis v preložených citátoch.** Citát sa prekladá verne, ale píše sa
+podľa nemeckého pravopisu — podstatné mená veľkým aj vnútri citátu
+(*Rastislavs „alte Stadt"*). Vernosť je o obsahu a registri, nie o tom, že
+sa prevezme slovenské písanie malých písmen.
+
 **Vysvetľujúca glosa v zátvorke.** Dáva sa LEN tam, kde by nemecký čitateľ
 termínu inak nerozumel: *Gombík (kugelförmiger Knopfanhänger)*, *Slovácko
 (die Mährische Slowakei)*, *Nové mesto (Neue Stadt)*. Pri termínoch, ktoré sú
