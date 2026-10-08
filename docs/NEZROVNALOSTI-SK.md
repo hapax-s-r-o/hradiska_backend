@@ -637,3 +637,9 @@ preložený, rovnako ako anglická.
 
 **vyprava-polske-hradiska-2-biskupin-wenecja-wiszogrod-gora-zamkowa**
 : „13 dlhých domov usporiadaných v radoch pozdĺž 11 ulíc" — Biskupin má okolo 105 domov v 13 radoch; veta „s pravidelnou vnútornou radovou zástavbou ľudom" je neúplná
+
+**informacna-tabula-hatne**
+: perex píše „Hatňanská skala" malým, telo aj metaTitle „Hatňanská Skala"
+
+**informacna-tabula-hradisko-maly-manin**
+: timeline má year „—"; článok hovorí len „tento víkend", bez roku

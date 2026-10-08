@@ -669,6 +669,11 @@ v básni je v poriadku, hoci web inak vyká.
 | oživená história (podujatie) | Living-History-Veranstaltung | |
 | budovatelia hradísk (eneolit) | Erbauer befestigter Siedlungen | badenské lokality sú aj nížinné |
 
+| chránená krajinná oblasť (CHKO) | das **Landschaftsschutzgebiet** (CHKO) | |
+| Považské múzeum v Žiline | das Považské-Museum in Žilina | |
+| marikovská dolina | das Tal von Mariková | |
+| živá história (podujatie) | **Living History** | ustálené aj v nemčine |
+
 **Názvy kníh a časopisov združenia** sa NEPREKLADAJÚ — *Veľkomoravské
 hradiská*, *Digitálne hradiská*, *Oživená archeológia*. Pri prvom výskyte sa
 smie pridať glosa v zátvorke, ale názov ostáva slovenský; je to meno diela,
