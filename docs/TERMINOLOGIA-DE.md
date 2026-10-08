@@ -556,6 +556,35 @@ v básni je v poriadku, hoci web inak vyká.
 | loretánska kaplnka | die Loretokapelle | |
 | prútený plot | der Flechtzaun | |
 
+| veľmožská mohyla | der **Fürstengrabhügel** | |
+| pohrebný voz | der Leichenwagen | |
+| meč s jazykovitou rukoväťou | Schwert mit Zungengriff | |
+| amforovitá zásobnica | amphorenartiges Vorratsgefäß | |
+| vytepávaná misa | getriebene Schale | |
+| horákovská kultúra | die **Horákov-Kultur** | |
+| podolská kultúra | die **Podolí-Kultur** | |
+| strednodunajské popolnicové polia | mitteldanubische Urnenfelder | |
+| ražeň | der Bratspieß | |
+| kováčska dielňa | die Schmiedewerkstatt | |
+| varta | der Wachposten | |
+| refugiálna funkcia | Funktion einer Fliehburg | |
+| ozbrojená zložka | die bewaffnete Besatzung | |
+| Reginova kronika | die **Chronik des Regino** | |
+| Pečenehovia | die **Petschenegen** | |
+| záhradkár | der Kleingärtner | |
+| ortofotomapa | die Orthofotokarte | |
+| Zvolen | **Altsohl** | exonym pri prvom výskyte |
+| Brno | **Brünn** | |
+
+**„Drevozemný val" × „drevozemná hradba".** Keď autor píše *val* (násyp), je to
+**ein Wall aus Holz und Erde** — nie *Holz-Erde-Mauer*, tá je konštrukcia
+hradby, a *Holz-Erde-Wall* slovník zakazuje ako neexistujúci tvar. Keď autor
+píše *hradba*, platí §11.2 a prekladá sa *Holz-Erde-Mauer*.
+
+**Dobové citáty × autorský text.** V citáte z prameňa ostáva znenie prameňa
+(*die Ungarn* vo Fuldských análoch), v autorskom texte platí §4 (*die
+Altungarn*). Nezjednocuje sa to naprieč článkom.
+
 **Pravopis v preložených citátoch.** Citát sa prekladá verne, ale píše sa
 podľa nemeckého pravopisu — podstatné mená veľkým aj vnútri citátu
 (*Rastislavs „alte Stadt"*). Vernosť je o obsahu a registri, nie o tom, že

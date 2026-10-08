@@ -601,3 +601,9 @@ Na konci prvého odstavca ostalo „
 ### bohatstvo-slovenov-slavic-wealth — druhý blok je po anglicky
 V slovenskej verzii je druhý blok anglický (kurzívou). Nemecká verzia ho má
 preložený, rovnako ako anglická.
+
+**velmozska-mohyla-holasky-2**
+: posledná veta má zdvojené „čo súviselo … čo súviselo"
+
+**vitazstvo**
+: v treťom citáte je preklep „Najpr" (správne „Najprv")
