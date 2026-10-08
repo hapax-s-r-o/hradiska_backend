@@ -576,6 +576,14 @@ v básni je v poriadku, hoci web inak vyká.
 | Zvolen | **Altsohl** | exonym pri prvom výskyte |
 | Brno | **Brünn** | |
 
+| amnestia na nálezy | die **Fundamnestie** | |
+| nálezné | der **Finderlohn** | |
+| držiteľ × vlastník | Besitzer × Eigentümer | právny rozdiel treba udržať |
+| detektorista | der **Sondengänger** | zavedený nemecký tvar |
+| vykrádač hradísk | der **Raubgräber** | |
+| brigáda (dobrovoľnícka) | der **Arbeitseinsatz** | nie *Brigade* |
+| náletové dreviny | wild aufgewachsene Gehölze | |
+
 **„Drevozemný val" × „drevozemná hradba".** Keď autor píše *val* (násyp), je to
 **ein Wall aus Holz und Erde** — nie *Holz-Erde-Mauer*, tá je konštrukcia
 hradby, a *Holz-Erde-Wall* slovník zakazuje ako neexistujúci tvar. Keď autor
