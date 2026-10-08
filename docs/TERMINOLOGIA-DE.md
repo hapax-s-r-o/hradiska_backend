@@ -460,6 +460,34 @@ je konkrétne skúmanie (aj laboratórne). „Výskum hradiska v roku 1967" →
 
 ---
 
+## 11f. Doplnené pri prvej dávke (Pribinova družina, Báseň o Orgoňovi, 2 % pre Hradiská)
+
+| slovensky | nemecky | prečo |
+|---|---|---|
+| Conversio Bagoariorum et Carantanorum | *Die Bekehrung der Bayern und Karantanen* | pre 9. storočie **Karantanen**, nie *Kärntner* — tí sú dnešní obyvatelia Korutánska |
+| Dolná Panónia | **Niederpannonien** | |
+| dať do léna | **zu Lehen erhalten / geben** | |
+| februárové kalendy | **die Kalenden des Februar** | dobový tvar, nemodernizuje sa |
+| rieka Sála (prameň) | **die Sala** | moderná *Zala* by bola anachronizmus |
+| veľmož | **der Adlige** | §7 ponúka aj *Großer*, ale „die Großen" je v nemčine dvojznačné |
+| slovenskí veľmoži/kniežatá (9. stor.) | **Adlige aus dem Gebiet der heutigen Slowakei** | §11.9 — *slowakische Adlige* je pri 9. storočí anachronizmus |
+| naši veľmoži (odkaz v nadpise) | **diese Adligen** | *unsere Adligen* prečíta nemecký čitateľ ako nemeckých |
+| zborník | **der Sammelband** | konferenčný: *Tagungsband* |
+| modla | **der Götze** | §8 „idol"; *Götzenbild* je opisnejšie |
+| 2 % | **2 %** s medzerou | nemecký úzus; slovenský originál píše „2%" |
+| 3D rekonštrukcia | **3D-Rekonstruktion** | nemčina spojovník vyžaduje |
+
+**Básne a verše.** Počet strof a veršov sa drží jeden k jednému. Rým sa udrží
+tam, kde nestojí proti vecnej presnosti; kde by sa musel doplniť obsah,
+prednosť má verš, inverzia a vetná melódia — nikdy sa z básne nesmie stať
+súvislý odsek. Striedanie časov originálu ostáva. Tykanie v priamej reči
+v básni je v poriadku, hoci web inak vyká.
+
+**Rod autorky.** `Autor` → **Autorin**, keď je autorkou žena; nemčina rod
+rozlišuje a slovenský label to nepovie.
+
+---
+
 ## 12. Falošní priatelia — zoznam na kontrolu
 
 | pozor | prečo |

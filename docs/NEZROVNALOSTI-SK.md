@@ -576,3 +576,17 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 
 **liptovsky-hrad**
 : odkaz v tele vedie na `http://hradiskami.sk/` — tá doména neexistuje (nepripojí sa). Správne je `hradiska.sk`; v angličtine opravené, v slovenčine ostáva.
+
+## Nájdené pri nemeckom preklade
+
+### pribinova-druzina — citát z Conversio má chyby z OCR
+V slovenskom citáte: „vyjednávame" namiesto „vyjednávanie"; chýbajú čiarky
+v zozname mien („Fridepercht Scroť Gunther") aj pred vedľajšími vetami;
+„Scroť" namiesto latinského „Scrot"; v slove „oko­lo" je zabudnutý mäkký
+spojovník (U+00AD). Do nemčiny sa chyby nepreniesli, slovenský originál ich
+má stále.
+
+### 2-pre-hradiska — migračný zvyšok v prvom odstavci
+Na konci prvého odstavca ostalo „
+ 
+ " z migrácie.
