@@ -631,3 +631,9 @@ preložený, rovnako ako anglická.
 
 **putovanie-za-rimskymi-pamiatkami-v-afrike**
 : interval 825 – 814/813 pred Kr. je datovanie ZALOŽENIA Kartága, nie jeho existencie; veta o Pupput je logicky poprekrúcaná; „Tento rok na jeseň budú voľby" nemá v archívnom článku rok
+
+**vyprava-k-vikingom-2013-1-cast**
+: vo verši z runového kameňa je zvyšok šablóny: „HIDDEN VIE, ŽE NAJVäČŠIE SKUTKY TREBA NASLEDOVAŤ" (aj s malým ä); „Ale je Stones" je skomolené Ales stenar; „v okolí sa až začiatkom 17. stor. začali rozrastať mohyly"
+
+**vyprava-polske-hradiska-2-biskupin-wenecja-wiszogrod-gora-zamkowa**
+: „13 dlhých domov usporiadaných v radoch pozdĺž 11 ulíc" — Biskupin má okolo 105 domov v 13 radoch; veta „s pravidelnou vnútornou radovou zástavbou ľudom" je neúplná

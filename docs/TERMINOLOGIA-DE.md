@@ -658,6 +658,22 @@ v básni je v poriadku, hoci web inak vyká.
 | Blatenské kniežatstvo | das Fürstentum von Mosaburg (Blatnohrad) | |
 | lusoria (hliadkovací čln) | das Patrouillenboot vom Typ lusoria | |
 
+| Slávnikovci | die **Slavnikiden** | |
+| Veleti / Lutici | die **Wilzen / Liutizen** | |
+| Obodriti | die **Abodriten** | |
+| Lužickí Srbi | die **Sorben** | |
+| Sprevania / Havolania | die **Sprewanen** / die **Heveller** | |
+| 2. torunský mier | der Zweite Frieden von Thorn (Toruń) | |
+| Gniezno | Gnesen | exonym pri prvom výskyte |
+| Bydgoszcz | Bromberg | |
+| oživená história (podujatie) | Living-History-Veranstaltung | |
+| budovatelia hradísk (eneolit) | Erbauer befestigter Siedlungen | badenské lokality sú aj nížinné |
+
+**Názvy kníh a časopisov združenia** sa NEPREKLADAJÚ — *Veľkomoravské
+hradiská*, *Digitálne hradiská*, *Oživená archeológia*. Pri prvom výskyte sa
+smie pridať glosa v zátvorke, ale názov ostáva slovenský; je to meno diela,
+nie opis.
+
 **Slovné hračky a názvy, ktoré sa neglosujú.** Keď by vysvetľujúca glosa
 vynútila zakázaný tvar — napríklad doslovný preklad názvu *Tajné dejiny
 Slovenska, Slovenov a Sloveniek* by si vyžiadal *Slowenen* (§11.9) — názov
