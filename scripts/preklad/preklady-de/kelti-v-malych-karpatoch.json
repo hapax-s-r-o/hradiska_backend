@@ -1,0 +1,58 @@
+{
+ "slug": "kelti-v-malych-karpatoch",
+ "data": {
+  "title": "Die Kelten in den Kleinen Karpaten – ein Vortrag von Radoslav Čambal",
+  "slug": "kelten-in-den-kleinen-karpaten-vortrag",
+  "excerpt": "Das Slowakische Nationalmuseum in Bratislava hat gemeinsam mit unserem Verein Hradiská einen interessanten Vortrag des Archäologen Mgr. Radoslav Čambal mit dem Titel „Die Kelten in den Kleinen Karpaten“ veranstaltet. Er fand am Freitag, dem 28. 7. 2017, um 17.00 Uhr in Dolné Orešany statt, und die Teilnahme war wirklich hoch.",
+  "metaTitle": "Die Kelten in den Kleinen Karpaten – Vortrag Čambal",
+  "metaDescription": "Vortrag des Archäologen Radoslav Čambal über die Kelten in den Kleinen Karpaten, veranstaltet im Juli 2017 in Dolné Orešany.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Slowakische Nationalmuseum in Bratislava (Pressburg) hat in Zusammenarbeit mit unserem Verein Hradiská einen interessanten Vortrag des Archäologen Mgr. Radoslav Čambal mit dem Titel „Die Kelten in den Kleinen Karpaten“ veranstaltet. Er fand am Freitag, dem 28. 7. 2017, um 17.00 Uhr in Dolné Orešany statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie auf den Fotografien zu sehen ist, war die Teilnahme wirklich hoch. Dank gilt allen, die gekommen sind. Ein großes Stück Arbeit für den Verein hat "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/lukas.ilavsky.5?fref=mentions",
+        "children": [
+         {
+          "type": "text",
+          "text": "Lukáš Ilavský"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " geleistet, ohne den die Veranstaltung nicht zustande gekommen wäre. Dank gebührt auch der Frau Bürgermeisterin von Dolné Orešany für die Bereitstellung der Räumlichkeiten sowie für ihr Entgegenkommen und die Zusammenarbeit. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

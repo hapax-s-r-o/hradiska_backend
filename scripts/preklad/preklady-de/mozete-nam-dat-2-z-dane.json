@@ -1,0 +1,113 @@
+{
+ "slug": "mozete-nam-dat-2-z-dane",
+ "data": {
+  "title": "Sie können uns 2 % Ihrer Steuer zuwenden",
+  "slug": "zwei-prozent-der-steuer-fuer-den-verein-hradiska-2014",
+  "excerpt": "Der Verein Hradiská bewirbt sich im Jahr 2014 um Ihre 2 % der Steuer. In unserer Diskussion auf Facebook ist die Idee aufgekommen, einen Sammelband mit Fachbeiträgen von Archäologen zu den slawischen Burgwällen herauszugeben; auch den Informationstafeln auf den Burgwällen wollen wir uns weiter widmen.",
+  "metaTitle": "Sie können uns 2 % Ihrer Steuer zuwenden (2014)",
+  "metaDescription": "Der Verein Hradiská bewirbt sich 2014 um Ihre 2 % der Steuer – für Informationstafeln auf Burgwällen und einen geplanten Sammelband über slawische Burgwälle.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5016,
+    "caption": "Hatné – Text",
+    "alt": "Hatné – Text"
+   },
+   {
+    "mediaId": 5017,
+    "caption": "Modra – Text",
+    "alt": "Modra – Text"
+   },
+   {
+    "mediaId": 5018,
+    "caption": "Pružina – Text",
+    "alt": "Pružina – Text"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Verein Hradiská bewirbt sich im Jahr 2014 um Ihre 2 % der Steuer.\n \n Wenn Sie Lust haben, uns zu unterstützen, können Sie dieses Formular verwenden: "
+       },
+       {
+        "type": "link",
+        "url": "https://docs.google.com/file/d/0B7aL89THoGosYmhoaVViSDBqQkk/edit",
+        "children": [
+         {
+          "type": "text",
+          "text": "Formular für die 2 %"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/groups/118846781525141/585576114852203/?notif_t=like",
+        "children": [
+         {
+          "type": "text",
+          "text": "In unserer Diskussion (Facebook)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ist die Idee aufgekommen, dass wir einen Sammelband bzw. eine Monografie mit Fachbeiträgen von Archäologen zum Thema der slawischen Burgwälle und der Geschichte der Slawen herausgeben könnten. Wenn es uns gelingt, eine ausreichende Geldsumme zu sammeln, bleibt dieses Vorhaben nicht nur eine Überlegung und wir werden es wirklich umsetzen können.\n \n Auch im Jahr 2014 werden wir uns den Informationstafeln auf den Burgwällen widmen. Hier sind unsere früheren Tafeln aus dem Jahr 2013:\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenso kann jeder, der uns eine Geldspende senden möchte, einen beliebigen Betrag überweisen; Kontonummer: "
+       },
+       {
+        "type": "text",
+        "text": "2300322086/8330",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "WIR DANKEN IHNEN !!!"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

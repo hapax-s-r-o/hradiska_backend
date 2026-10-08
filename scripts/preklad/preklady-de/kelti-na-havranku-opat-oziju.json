@@ -1,0 +1,72 @@
+{
+ "slug": "kelti-na-havranku-opat-oziju",
+ "data": {
+  "title": "Die Kelten erwachen auf dem Havránok wieder zum Leben (13. 7. 2013)",
+  "slug": "kelten-erwachen-wieder-auf-dem-havranok",
+  "excerpt": "Am 13. 7. 2013 wird jeder Wanderer, der das archäologische Freilichtmuseum auf der keltischen Höhensiedlung Havránok besucht, um mehr als 2000 Jahre zurückversetzt – in die Zeit, in der im Gebiet der heutigen Slowakei Kelten, Germanen und Römer unterwegs waren. Bei der Veranstaltung „Živý starovek“ (Lebendige Antike) sehen Sie, wie sie lebten, wie sie sich kleideten, was sie aßen und wie sie kämpften.",
+  "metaTitle": "Die Kelten erwachen auf dem Havránok wieder zum Leben",
+  "metaDescription": "Veranstaltung im archäologischen Freilichtmuseum auf der keltischen Höhensiedlung Havránok – eine Reise in die Zeit der Kelten, Germanen und Römer.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 13. 7. 2013 wird im archäologischen Freilichtmuseum auf der "
+       },
+       {
+        "type": "link",
+        "url": "/blog/havranok-liptovska-mara",
+        "children": [
+         {
+          "type": "text",
+          "text": "keltischen Höhensiedlung Havránok"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " jeder Wanderer, der hierher kommt, um mehr als 2000 Jahre zurückversetzt – in die Zeit, in der sich im Gebiet der heutigen Slowakei die antiken Völker der Kelten, Germanen und Römer und gelegentlich auch nomadische Horden aus dem Osten herumtrieben. Sie haben die Möglichkeit, ihnen allen bei der großartigen Veranstaltung mit dem Namen „Živý starovek“ (Lebendige Antike) persönlich zu begegnen. Sie werden sehen, wie sie lebten, wie sie sich kleideten, was sie aßen, wie sie kämpften und welche Kulte sie verehrten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Veranstaltung findet jedes Jahr statt, organisiert wird sie von der Gruppe Vae Victis, und ihre Qualität verbessert sich beständig. Ihre Teilnahme haben auch Gruppen aus dem Ausland bestätigt, und glauben Sie uns, wir haben uns wirklich auf etwas zu freuen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Also, alle an der Antike Interessierten: Wir treffen uns auf dem Havránok. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "slovansky-velmozsky-dvorec",
+ "data": {
+  "title": "Ein slawischer Herrenhof – Zeichnung eines befestigten Sitzes",
+  "slug": "slawischer-herrenhof-zeichnung",
+  "excerpt": "Unser Mitarbeiter Tomáš Humaj hat für unsere Seite eine sehr schöne und zugleich realistische Vorstellung eines befestigten slawischen Herrenhofs gezeichnet. Es handelt sich um keine konkrete kleine Burg, doch das Aussehen der Befestigung, die Palisade und die Bebauung sind sehr realistisch und bringen uns das Leben unserer Vorfahren in der Zeit des 9./10. Jahrhunderts wieder näher.",
+  "metaTitle": "Slawischer Herrenhof – Zeichnung eines befestigten Sitzes",
+  "metaDescription": "Realistische Zeichnung eines befestigten slawischen Herrenhofs von Tomáš Humaj: Palisade und Bebauung im Leben der Vorfahren im 9./10. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Autor der Zeichnung",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "9./10. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6322,
+    "alt": "Zeichnung eines Herrenhofs mit Palisade, Blockhäusern und einem Wachturm"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Tomáš Humaj hat für unsere Seite eine sehr schöne und zugleich realistische Vorstellung eines befestigten slawischen Herrenhofs gezeichnet. Es handelt sich um keine konkrete kleine Burg, doch das Aussehen der Befestigung, die Palisade und die Bebauung sind sehr realistisch und bringen uns das Leben unserer Vorfahren in der Zeit des 9./10. Jahrhunderts wieder näher."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

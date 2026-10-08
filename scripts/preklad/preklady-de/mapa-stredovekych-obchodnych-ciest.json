@@ -1,0 +1,51 @@
+{
+ "slug": "mapa-stredovekych-obchodnych-ciest",
+ "data": {
+  "title": "Eine Karte der mittelalterlichen Handelswege",
+  "slug": "karte-mittelalterlicher-handelswege-11-12-jahrhundert",
+  "excerpt": "Martin Janmansson hat auf der Seite Merchant Machine wahrscheinlich die detaillierteste online verfügbare Karte der mittelalterlichen Handelswege in Europa, Asien und Afrika im 11. und 12. Jahrhundert veröffentlicht. Sie umfasst größere und kleinere Orte, Haupt- und Nebenwege, Seerouten, Kanäle und Straßen – nur die Ortsnamen sind darin recht inkonsistent.",
+  "metaTitle": "Karte der mittelalterlichen Handelswege (11.–12. Jh.)",
+  "metaDescription": "Wahrscheinlich die detaillierteste Online-Karte der mittelalterlichen Handelswege Europas, Asiens und Afrikas im 11. und 12. Jahrhundert von Martin Janmansson.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Martin Janmansson hat eine interessante Karte erstellt und auf der Seite "
+       },
+       {
+        "type": "link",
+        "url": "https://merchantmachine.co.uk/medieval-trade-routes/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Merchant Machine"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " veröffentlicht. Es ist wahrscheinlich die detaillierteste Karte der mittelalterlichen Handelswege in Europa, Asien und Afrika im 11. und 12. Jahrhundert, die online verfügbar ist. Sie umfasst größere und kleinere Orte, Haupt- und Nebenwege, Seerouten, Kanäle und Straßen. Schade ist, dass darin recht inkonsistente Ortsnamen verwendet werden, manchmal in der heutigen Form, manchmal in der spätmittelalterlichen und so weiter. Ich denke aber, dass sie eine genauere Betrachtung wert ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "blogger",
+    "embedId": null,
+    "url": "https://easyzoom.com/embed/ec482e04c2b240d4969c14156bb6836f",
+    "caption": "Interaktive Karte der mittelalterlichen Handelswege (EasyZoom)"
+   }
+  ]
+ }
+}

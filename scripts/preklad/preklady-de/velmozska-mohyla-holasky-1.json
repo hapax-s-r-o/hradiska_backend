@@ -1,0 +1,130 @@
+{
+ "slug": "velmozska-mohyla-holasky-1",
+ "data": {
+  "title": "Holásky 1 – ein zweigeschossiger Fürstengrabhügel bei Brno",
+  "slug": "fuerstengrabhuegel-holasky-1-zweigeschossig",
+  "excerpt": "Vor wenigen Tagen haben wir Ihnen das hallstattzeitliche Hügelgrab aus Brno-Holásky vorgestellt – das sogenannte Hügelgrab Nummer 2. Noch interessanter ist jedoch das Hügelgrab Nummer 1: Es hatte zwei Geschosse und enthielt die Bestattung eines Kriegers mit Schwert, Lanze und Pferdegeschirr, dazu das Skelett eines Mädchens mit einem goldenen und einem bronzenen Schläfenring.",
+  "metaTitle": "Fürstengrabhügel Holásky 1 – zweigeschossiges Hügelgrab",
+  "metaDescription": "Der hallstattzeitliche Fürstengrabhügel Holásky 1 bei Brno mit zwei Geschossen und der Bestattung eines Kriegers nach seiner reichen Grabausstattung.",
+  "keyFacts": [
+   {
+    "label": "Grabtyp",
+    "value": "Bestattung eines Kriegers auf einem hölzernen Leichenwagen",
+    "icon": "sword"
+   },
+   {
+    "label": "Ausstattung",
+    "value": "Eisernes Schwert mit Zungengriff, Lanze, Pferdegeschirr",
+    "icon": "shield"
+   },
+   {
+    "label": "Funde",
+    "value": "Amphorenartige Vorratsgefäße, gemalte Amphoren, zwei getriebene Bronzeschalen, Bernsteinperlen",
+    "icon": "star"
+   },
+   {
+    "label": "Zweite Bestattung",
+    "value": "Skelett eines Mädchens mit einem goldenen Ohrring/Schläfenring und einem bronzenen Gegenstück",
+    "icon": "users"
+   },
+   {
+    "label": "Konstruktion des Hügelgrabes",
+    "value": "Zwei Geschosse (zwei Ebenen der Grabkammer)",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattzeit",
+    "title": "Entstehung des Hügelgrabes",
+    "description": "Das Hügelgrab stammt aus der Hallstattzeit, ebenso wie das benachbarte Hügelgrab Nr. 2 in der Fundstelle Brno-Holásky.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4607,
+    "alt": "3D-Rekonstruktion des Inneren eines Kammergrabes mit gemalten Wänden, Gefäßen und einem Wagen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor wenigen Tagen haben wir Ihnen das hallstattzeitliche Hügelgrab aus Brno-Holásky (Brünn) vorgestellt. Es handelte sich um das sogenannte "
+       },
+       {
+        "type": "link",
+        "url": "/blog/velmozska-mohyla-holasky-2",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hügelgrab Nummer 2"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Noch interessanter ist jedoch dieses Hügelgrab – Nummer 1. Es hatte nämlich 2 Geschosse. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Hügelgrab enthielt die Bestattung eines Kriegers, was anhand der Grabausstattung zu schließen ist. Die Überreste des Bestatteten haben sich im feuchten Boden nicht erhalten, und die Lage des Verstorbenen erschließen wir nur aus der Platzierung der Waffen. An seiner rechten Hand lagen ein eisernes Schwert mit Zungengriff und eine Lanze. Die Archäologen nehmen an, dass der Bestattete auf einem hölzernen Leichenwagen lag. Im südlichen Teil des Grabes an der Kammerwand waren Überreste von Pferdegeschirren, Zierstücke und Bernsteinperlen niedergelegt. In der nordwestlichen Ecke der Kammer befand sich eine Gruppe amphorenartiger Vorratsgefäße und Amphoren mit gemalter Verzierung sowie zwei getriebene Bronzeschalen. In der Mitte der Kammer lag das Skelett eines Mädchens, das auf der rechten Seite des Kopfes einen goldenen Schläfenring und auf der linken einen bronzenen hatte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Fürstengrabhügel Holásky 1",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "hnC1EgjhuF0",
+    "url": "https://www.youtube.com/embed/hnC1EgjhuF0",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Autor der Visualisierung ist wieder Dwarf digital archeology mit der fachlichen Hilfe von Martin Golec und Zuzana Mírová. Und natürlich ... hradiská.sk. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

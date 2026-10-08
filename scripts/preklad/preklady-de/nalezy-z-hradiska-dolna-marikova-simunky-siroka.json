@@ -1,0 +1,129 @@
+{
+ "slug": "nalezy-z-hradiska-dolna-marikova-simunky-siroka",
+ "data": {
+  "title": "Funde vom Burgwall Dolná Mariková – Šimunky (Široká)",
+  "slug": "funde-vom-burgwall-dolna-marikova-simunky-siroka",
+  "excerpt": "Im Jahr 2000 führte Jozef Moravčík auf dem Burgwall Šimunky – Široká bei Dolná Mariková eine Oberflächenprospektion durch, die vor allem die Metallgegenstände vor Sondengängern retten sollte. Gerettet wurde eine große Menge einzigartiger Funde aus der Zeit der Púchov-Kultur, vor allem aber aus großmährischer Zeit und aus dem Mittelalter. Wir zeigen sie hier erstmals in Fotografien.",
+  "metaTitle": "Funde vom Burgwall Dolná Mariková – Šimunky (Široká)",
+  "metaDescription": "Erstmals veröffentlichte Fotos der Funde aus der Oberflächenprospektion von J. Moravčík (2000): Púchov-Kultur, großmährische Zeit und Mittelalter.",
+  "keyFacts": [
+   {
+    "label": "Prospektion",
+    "value": "2000, J. Moravčík — Oberflächenprospektion, Rettung von Metallgegenständen",
+    "icon": "star"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "Púchov-Kultur, Großmähren, Mittelalter",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2000",
+    "title": "Oberflächenprospektion",
+    "description": "Rettung einzigartiger Funde vor Sondengängern.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5529,
+    "caption": "Großmähren – Beschlag eines Pferdehalfters und ein Sporn",
+    "alt": "Großmähren – Beschlag eines Pferdehalfters und ein Sporn"
+   },
+   {
+    "mediaId": 5530,
+    "caption": "Großmähren – Teile eines Pfluges",
+    "alt": "Großmähren – Teile eines Pfluges"
+   },
+   {
+    "mediaId": 5531,
+    "caption": "Großmähren – Sporen",
+    "alt": "Großmähren – Sporen"
+   },
+   {
+    "mediaId": 5532,
+    "caption": "Slawische Scherben",
+    "alt": "Slawische Scherben"
+   },
+   {
+    "mediaId": 5533,
+    "caption": "Großmähren – Messer, Pfeilspitzen und ein Teil des Pferdegeschirrs",
+    "alt": "Großmähren – Messer, Pfeilspitzen und ein Teil des Pferdegeschirrs"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2000 wurde auf dem Burgwall in Dolná Mariková in der Lage Šimunky – Široká unter der Leitung von Mgr. Jozef Moravčík eine archäologische Oberflächenprospektion durchgeführt, die vor allem auf die Rettung der auf dem Burgwall liegenden Metallgegenstände gerichtet war. Dank dieses Eingriffs gelang es, eine große Menge einzigartiger archäologischer Funde aus der Zeit der Púchov-Kultur, vor allem aber aus großmährischer Zeit und aus dem Mittelalter vor den Sondengängern zu retten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung eines Teilnehmers der Prospektion und des Autors der Fotografien bringen wir Ihnen als Erste in der Slowakei Fotografien dieser großartigen Funde, die bisher in der Fachliteratur nicht veröffentlicht wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fotografien der Funde sind der folgenden Dokumentensammlung entnommen: OLŠOVSKÝ, M. – MELIŠ, Š. – MORAVČÍK, J.: Po stopách predkov. Archeológia stredného Považia od praveku po stredovek. Súbor dokumentov a fotografií. Im Selbstverlag herausgegeben von Martin Olšovský, 2008, Auflage 4 Stück."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Großmähren – Beschlag eines Pferdehalfters und ein Sporn",
+    "alt": "Großmähren – Beschlag eines Pferdehalfters und ein Sporn",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ohne eine fachliche Beschreibung ist der Aussagewert der Funde nur teilweise gegeben, daher bleibt uns zu hoffen, dass es möglichst bald zu einer fachlichen Veröffentlichung der Funde kommt."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

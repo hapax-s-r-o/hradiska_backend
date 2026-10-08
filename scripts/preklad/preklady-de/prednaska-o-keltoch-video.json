@@ -1,0 +1,80 @@
+{
+ "slug": "prednaska-o-keltoch-video",
+ "data": {
+  "title": "Vortrag über die Kelten in der Südwestslowakei – Video",
+  "slug": "vortrag-ueber-die-kelten-in-der-suedwestslowakei-video",
+  "excerpt": "Am 5. 10. 2017 haben wir gemeinsam mit Dwarf Digital Archeology und dem Slowakischen Nationalmuseum einen Vortrag von Radoslav Čambal und Marek Budaj zum Thema „Die Kelten in der Südwestslowakei“ organisiert. Den gesamten Vortrag haben wir live übertragen; in Tvrdošovce waren zudem eine Ausstellung über die Kelten und Funde aus keltischer Zeit zu sehen.",
+  "metaTitle": "Vortrag über die Kelten in der Südwestslowakei (Video)",
+  "metaDescription": "Aufzeichnung des live übertragenen Vortrags von R. Čambal und M. Budaj vom Slowakischen Nationalmuseum über die Kelten in der Südwestslowakei, 5. 10. 2017.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5074,
+    "alt": "Plakat des Vortrags Kelti na juhozápade Slovenska mit einer keltischen Münze und dem Hinweis auf die Live-Übertragung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 5. 10. 2017 haben wir gemeinsam mit Dwarf Digital Archeology und dem SNM einen Vortrag der Mitarbeiter des Slowakischen Nationalmuseums Radoslav Čambal und Marek Budaj zum Thema „Kelti na juhozápadnom Slovensku“ (Die Kelten in der Südwestslowakei) organisiert. Den gesamten Vortrag haben wir live übertragen, und Sie können ihn auch als Aufzeichnung unter"
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/videos/1976870849255078/",
+        "children": [
+         {
+          "type": "text",
+          "text": "diesem Link"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ansehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Mittwoch, dem 5. 10. 2017, konnten Sie in Tvrdošovce neben dem Vortrag über die Kelten, den wir online übertrugen, auch die Ausstellung mit dem Titel „Podivuhodný keltský ľud“ (Das wundersame keltische Volk) sehen, die uns die Konstantin-der-Philosoph-Universität in Nitra (Neutra) leihweise überließ. Die Besucher konnten sich auch mehrere ausgeliehene Funde aus keltischer Zeit ansehen und die im Großformat gedruckten Visualisierungen einer keltischen Siedlung von Dwarf Digital genießen. Natürlich bestand auch die Möglichkeit, persönlich mit den Archäologen Radoslav Čambal, Igor Bazovský und Martin Furman sowie mit dem Numismatiker Marek Budaj zu sprechen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vortrag über die Kelten – Video",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

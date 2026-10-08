@@ -1,0 +1,73 @@
+{
+ "slug": "drevenik-z-vtacej-perspektivy",
+ "data": {
+  "title": "Dreveník aus der Vogelperspektive – Luftaufnahmen des Burgwalls",
+  "slug": "drevenik-aus-der-vogelperspektive",
+  "excerpt": "Wir haben Aufnahmen des slawischen Burgwalls Dreveník aus der Vogelperspektive erhalten und teilen sie gern mit Ihnen. Es ist unverständlich, dass einem so ausgedehnten Burgwall in der Fachliteratur fast keine Aufmerksamkeit gewidmet wird und dass alle Ausgrabungen ihn umgehen.",
+  "metaTitle": "Dreveník aus der Luft – Luftaufnahmen des Burgwalls",
+  "metaDescription": "Luftaufnahmen des ausgedehnten slawischen Burgwalls Dreveník, dem die Fachliteratur trotz seiner Größe erstaunlich wenig Aufmerksamkeit widmet.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "Luftaufnahmen des slawischen Burgwalls Dreveník",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5447,
+    "caption": "Der Burgwall wird von einem ausgedehnten Hochplateau gebildet",
+    "alt": "Der Burgwall wird von einem ausgedehnten Hochplateau gebildet"
+   },
+   {
+    "mediaId": 5448,
+    "caption": "Dreveník, dahinter die Ostrá hora und dahinter die Burg Spišský hrad (Zipser Burg)",
+    "alt": "Dreveník, dahinter die Ostrá hora und dahinter die Burg Spišský hrad (Zipser Burg)"
+   },
+   {
+    "mediaId": 5449,
+    "caption": "Ostrá Hora (Burgwall, etwa 9.–10. Jahrhundert). Pramene k dejinám… z konca 5. až 13. stor., S. 246. F. Javorský, Kronika mesta Spišské Podhradie slovom i obrazom (Chronik der Stadt Spišské Podhradie in Wort und Bild). Spišské Podhradie 1999, S. 10.",
+    "alt": "Ostrá Hora (Burgwall, etwa 9.–10. Jahrhundert). F. Javorský, Kronika mesta Spišské Podhradie slovom i obrazom. Spišské Podhradie 1999, S. 10."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir haben Aufnahmen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu",
+        "children": [
+         {
+          "type": "text",
+          "text": "des slawischen Burgwalls Dreveník"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aus der Vogelperspektive erhalten. Gern teilen wir sie mit Ihnen. Es ist unverständlich, dass einem so ausgedehnten Burgwall in der Fachliteratur fast keine Aufmerksamkeit gewidmet wird und alle Ausgrabungen ihn umgehen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "7cJT2cMQUls",
+    "url": "https://www.youtube.com/embed/7cJT2cMQUls",
+    "caption": ""
+   }
+  ]
+ }
+}

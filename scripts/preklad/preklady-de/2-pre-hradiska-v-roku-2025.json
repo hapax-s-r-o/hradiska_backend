@@ -1,0 +1,55 @@
+{
+ "slug": "2-pre-hradiska-v-roku-2025",
+ "data": {
+  "title": "2 % der Steuer für Hradiská im Jahr 2025",
+  "slug": "zwei-prozent-der-steuer-fuer-hradiska-2025",
+  "excerpt": "Auch in diesem Jahr bewerben wir uns um Ihre 2 %, und deshalb werden wir Ihnen, falls Sie noch nicht entschieden sind, für Ihre Hilfe sehr dankbar sein… Das Formular können Sie hier herunterladen: Formular für die 2 %",
+  "metaTitle": "2 % der Steuer für Hradiská im Jahr 2025",
+  "metaDescription": "Auch 2025 bewirbt sich der Verein Hradiská um Ihre 2 % der Steuer – das Formular können Sie herunterladen und den Schutz der Burgwälle unterstützen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schenken Sie uns 2 %\n"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch in diesem Jahr bewerben wir uns um Ihre 2 %, und deshalb werden wir Ihnen, falls Sie noch nicht entschieden sind, für Ihre Hilfe sehr dankbar sein… Das Formular können Sie hier herunterladen: "
+       },
+       {
+        "type": "link",
+        "url": "https://drive.google.com/file/d/1e56fo5eRxTsMJmvHdT8QLpJpL0ldl1VA/view?usp=sharing",
+        "children": [
+         {
+          "type": "text",
+          "text": "Formular für die 2 %"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

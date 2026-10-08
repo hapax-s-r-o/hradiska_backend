@@ -1,0 +1,62 @@
+{
+ "slug": "casopis-o-hradiskach-v-tlacenej-podobe",
+ "data": {
+  "title": "Die Zeitschrift Digitálne HRADISKÁ in gedruckter Form?",
+  "slug": "zeitschrift-digitalne-hradiska-gedruckte-ausgabe",
+  "excerpt": "Wir erwägen, die Zeitschrift Digitálne HRADISKÁ drucken zu lassen und zu verkaufen; bisher ist sie nur als PDF aus dem Internet herunterzuladen. Den gesamten Druck müssten wir aus unseren eigenen begrenzten Mitteln finanzieren, deshalb fragen wir in einer Umfrage, ob Sie an einer gedruckten Fassung Interesse hätten. Von der Auflage hängt auch der Preis ab: bei 300 Stück müsste ein Heft zwischen 4 und 5 Euro kosten, bei 1000 Stück könnten es etwa 2,50 Euro sein.",
+  "metaTitle": "Zeitschrift Digitálne HRADISKÁ in gedruckter Form?",
+  "metaDescription": "Wir erwägen, die Zeitschrift Digitálne HRADISKÁ zu drucken und zu verkaufen. Bisher ist sie nur als PDF aus dem Internet herunterzuladen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5080,
+    "alt": "Umschlag und aufgeschlagene Doppelseite der Zeitschrift Digitálne Hradiská zum Thema keltische Flachlandsiedlungen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Liebe Freunde, wir erwägen die Möglichkeit, die Zeitschrift Digitálne HRADISKÁ drucken zu lassen und zu verkaufen; derzeit kann sie im PDF-Format aus dem Internet heruntergeladen werden. Da wir den gesamten Druck jedoch ausschließlich aus unseren eigenen begrenzten Mitteln finanzieren müssten, können wir nicht riskieren, dass uns der Verkauf der Zeitschrift einen übermäßigen Verlust verursacht, der die Tätigkeit des Vereins gefährden würde.\n \n Aus dem Preisangebot der Druckerei geht hervor, dass ein Heft bei einer Auflage von z. B. 300 Stück zwischen 4 und 5 Euro kosten müsste. Andernfalls wären wir tief im Verlust. Würden jedoch z. B. 1000 Stück gedruckt, könnte der Preis bei etwa 2,50 Euro liegen. Die Frage ist allerdings, ob Sie an einer gedruckten Fassung überhaupt Interesse hätten. In dieser wären natürlich die gelegentlichen Tippfehler korrigiert, die in der PDF-Fassung vorkommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier, in der linken oberen Ecke, finden Sie eine Umfrage, in der wir fragen, ob Sie die Zeitschrift kaufen würden, wenn sie in gedruckter Form erschiene. Bitte markieren Sie darin die entsprechende Möglichkeit; danach haben wir eine grundlegende Vorstellung davon, ob es sinnvoll ist, sich mit dem Druck der Zeitschrift zu befassen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zeitschrift über Burgwälle in gedruckter Form",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

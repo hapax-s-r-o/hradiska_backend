@@ -1,0 +1,344 @@
+{
+ "slug": "historicky-festival-pozvanka-lh-2014",
+ "data": {
+  "title": "Historisches Festival – Einladung zur dritten Auflage (Mai 2014)",
+  "slug": "historisches-festival-einladung-mai-2014",
+  "excerpt": "Verehrte Liebhaber der Geschichte, des Fechtens und des Handwerks, wir erlauben uns, Sie herzlich zur Teilnahme an der dritten Auflage unseres historischen Festivals einzuladen. Am Wochenende des 3. und 4. Mai 2014 erwarten Sie harte Duelle, exotische Tänze, musikalische Auftritte, Vorträge und eine einzigartige Feuershow.",
+  "metaTitle": "Historisches Festival – Einladung (Mai 2014)",
+  "metaDescription": "Einladung zur dritten Auflage des historischen Festivals mit harten Duellen, Tänzen, Musik und einer einzigartigen Feuershow am 3. und 4. Mai.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Verehrte Liebhaber der Geschichte, des Fechtens und des Handwerks, wir erlauben uns, Sie herzlich zur Teilnahme an der dritten Auflage unseres historischen Festivals einzuladen.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Jahr können Sie sich auf heftige und wirklich harte Duelle, exotische Tänze, musikalische Auftritte und eine einzigartige Feuershow freuen."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Wochenende des 3. und 4. Mai 2014 stellen sich auf unserem Areal folgende Gruppen vor:"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Kampf und Fechten:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Klub středověkého kontaktního boje"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Memento Mori"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nos Omnis"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nuntius Regis"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Roma Victor Legio XIII Gemina Augusta"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Ruská systema"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vae Victis"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Velkomoravané"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Zlínská šermířská společnost"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Falknerei-Vorführung:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "SOFH"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Tänze:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Angel’s Tribe"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Musik:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Marna to snaha"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Žiarislav mit Band"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Feuershow dargeboten von:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Boca Fuego"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vorträge:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Samstag: PhDr. Jiří Starý, Ph.D."
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sonntag: Jiří Jilík"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Veranstaltung beginnt:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "am Samstag um 9:00 Uhr und dauert bis in die dunklen Nachtstunden"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "am Sonntag von 9:00 bis 16:00 Uhr"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eintritt vor Ort:",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Normalpreis 80 Kč, ermäßigt 40 Kč (Kinder von 6–15 Jahren, Schwerbehinderte)"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

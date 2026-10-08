@@ -1,0 +1,37 @@
+{
+ "slug": "bojna-zivot-slovanov-na-hradisku-v-zime",
+ "data": {
+  "title": "Bojná – das Leben der Slawen auf dem Burgwall im Winter",
+  "slug": "bojna-leben-der-slawen-auf-dem-burgwall-im-winter",
+  "excerpt": "Die Jungs von der Gruppe Herjan haben das Leben auf dem verschneiten und gefrorenen Burgwall in Bojná am eigenen Leib ausprobiert.",
+  "metaTitle": "Bojná – das Leben der Slawen im Winter",
+  "metaDescription": "Die Jungs von der Gruppe Herjan haben das Leben auf dem verschneiten und gefrorenen Burgwall in Bojná am eigenen Leib ausprobiert – zu sehen im Video.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Jungs von der Gruppe Herjan haben das Leben auf dem verschneiten und gefrorenen Burgwall in Bojná am eigenen Leib ausprobiert.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "xPgGB7pPZbY",
+    "url": "https://www.youtube.com/embed/xPgGB7pPZbY",
+    "caption": ""
+   }
+  ]
+ }
+}

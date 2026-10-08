@@ -19,7 +19,7 @@
    },
    {
     "label": "Maße des Kirchenschiffs",
-    "value": "540 × 1.135 cm",
+    "value": "540 × 1135 cm",
     "icon": "building"
    },
    {
@@ -130,7 +130,7 @@
       "children": [
        {
         "type": "text",
-        "text": "„Das rechteckige Kirchenschiff, durch zwei Trennwände in zwei schmale Räume an den Rändern und einen großen in der Mitte geteilt, hat die Maße 540 cm x 1.135 cm; daran schließt sich von der Ostseite ein rechteckiger Raum an, der mit drei kreuzförmig angeordneten Apsiden endet, die einen Durchmesser von 330 cm haben. Die Breite der Fundamente beträgt 60–75 cm.",
+        "text": "„Das rechteckige Kirchenschiff, durch zwei Trennwände in zwei schmale Räume an den Rändern und einen großen in der Mitte geteilt, hat die Maße 540 cm x 1135 cm; daran schließt sich von der Ostseite ein rechteckiger Raum an, der mit drei kreuzförmig angeordneten Apsiden endet, die einen Durchmesser von 330 cm haben. Die Breite der Fundamente beträgt 60–75 cm.",
         "italic": true
        }
       ]

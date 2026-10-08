@@ -1,0 +1,372 @@
+{
+ "slug": "vyskum-na-hradisku-simunky-v-dolnej-marikovej",
+ "data": {
+  "title": "Ausgrabung auf dem Burgwall Šimunky in Dolná Mariková",
+  "slug": "ausgrabung-burgwall-simunky-dolna-marikova",
+  "excerpt": "An einem Wochenende im Mai 2016 führte der Verein Hradiská gemeinsam mit dem Trenčiner Museum in Trenčín (Trentschin) eine archäologische Ausgrabung in Dolná Mariková auf dem Felsen Široká, im Teil Šimunky, durch – dort lag in der Zeit Großmährens eine bedeutende Befestigung unserer slawischen Vorfahren. Zu den Funden gehören zwei großmährische Hacken, ein ausgezeichnet erhaltener Haustürschlüssel, Messer, Pfeilspitzen und dickwandige Keramik der Púchov-Kultur.",
+  "metaTitle": "Ausgrabung auf dem Burgwall Šimunky (Dolná Mariková)",
+  "metaDescription": "Ausgrabung des Vereins Hradiská und des Trenčiner Museums auf dem Felsen Široká–Šimunky (2016): zwei großmährische Hacken, ein Schlüssel, Messer, Keramik.",
+  "keyFacts": [
+   {
+    "label": "Ausgrabung",
+    "value": "7.–8. Mai 2016, Verein Hradiská + Trenčiner Museum (P. Schreiber)",
+    "icon": "star"
+   },
+   {
+    "label": "Funde",
+    "value": "2 großmährische Hacken, Schlüssel, Messer, Sporn, Púchov-Keramik",
+    "icon": "star"
+   },
+   {
+    "label": "Besiedlung",
+    "value": "Púchov-Kultur und vor allem Großmähren (9./10. Jahrhundert)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Zeitenwende",
+    "title": "Púchov-Kultur",
+    "description": "Dickwandige Keramik mit keltischer Verzierung.",
+    "type": "event"
+   },
+   {
+    "year": "9./10. Jh.",
+    "title": "Großmährische Besiedlung",
+    "description": "Intensivste Phase; Hacken, Schlüssel, Messer.",
+    "type": "event"
+   },
+   {
+    "year": "2016",
+    "title": "Archäologische Ausgrabung",
+    "description": "Schnitt 1 × 2 m + punktuelle Sondagen; Rettung der Metallfunde.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5925,
+    "caption": "Šimunky – Blick auf den Burgwall",
+    "alt": "Šimunky – Blick auf den Burgwall"
+   },
+   {
+    "mediaId": 5926,
+    "caption": "Die gereinigte Hauptburg wartet auf die Forscher",
+    "alt": "Die gereinigte Hauptburg wartet auf die Forscher"
+   },
+   {
+    "mediaId": 5927,
+    "caption": "Der Sonnengeist erhebt sich, das nächtliche Leben verstummt, der Arbeitstag der Zwerge beginnt mit dem Morgengrauen",
+    "alt": "Der Sonnengeist erhebt sich, das nächtliche Leben verstummt, der Arbeitstag der Zwerge beginnt mit dem Morgengrauen"
+   },
+   {
+    "mediaId": 5928,
+    "caption": "Das Putzen der Mikrosondagen zu den Detektorfunden",
+    "alt": "Das Putzen der Mikrosondagen zu den Detektorfunden"
+   },
+   {
+    "mediaId": 5929,
+    "caption": "Den Wettbewerb um die am schönsten geputzte Sondage gewann konkurrenzlos das Team Lukáš Ilavský und Patrik Pohanka",
+    "alt": "Den Wettbewerb um die am schönsten geputzte Sondage gewann konkurrenzlos das Team Lukáš Ilavský und Patrik Pohanka"
+   },
+   {
+    "mediaId": 5931,
+    "caption": "Herr Ladislav Janech grub den großen Schnitt",
+    "alt": "Herr Ladislav Janech grub den großen Schnitt"
+   },
+   {
+    "mediaId": 5932,
+    "caption": "Der 88-jährige Štefan Meliš gräbt. Links von ihm Herr Gašpar Zemančík",
+    "alt": "Der 88-jährige Štefan Meliš gräbt. Links von ihm Herr Gašpar Zemančík"
+   },
+   {
+    "mediaId": 5934,
+    "caption": "Štefan Meliš gibt ein Interview",
+    "alt": "Štefan Meliš gibt ein Interview"
+   },
+   {
+    "mediaId": 5935,
+    "caption": "Das Gulasch zum Mittagessen brachte uns Herr Bürgermeister Peter Šujak, und Verpflegung brachte auch der Pfarrer von Dolná Mariková",
+    "alt": "Das Gulasch zum Mittagessen brachte uns Herr Bürgermeister Peter Šujak, und Verpflegung brachte auch der Pfarrer von Dolná Mariková"
+   },
+   {
+    "mediaId": 5936,
+    "caption": "Die geodätische Einmessung der Sondagen übernahmen Profis",
+    "alt": "Die geodätische Einmessung der Sondagen übernahmen Profis"
+   },
+   {
+    "mediaId": 5938,
+    "caption": "Die Totalstation",
+    "alt": "Die Totalstation"
+   },
+   {
+    "mediaId": 5939,
+    "caption": "Die Malocher",
+    "alt": "Die Malocher"
+   },
+   {
+    "mediaId": 5940,
+    "caption": "Noro Kubiš dachte kurz nach … und die Botschaft für künftige Archäologen war auf der Welt",
+    "alt": "Noro Kubiš dachte kurz nach … und die Botschaft für künftige Archäologen war auf der Welt"
+   },
+   {
+    "mediaId": 5941,
+    "caption": "In diesen Tagen fand hier die Ausgrabung der Fundstelle statt Durchgeführt haben sie hier – wie denn sonst – echte Kapazitäten Beim Graben hatte man Glück, mein Lieber, wahrhaftig Verliere nicht den Glauben, ich rate dir – Grabe noch tiefer, mach das Loch tiefer Sei kein geiziger Raffer, Gib den wertvollen Fund ab, Gott helfe dir dabei, Denk dabei an uns …",
+    "alt": "In diesen Tagen fand hier die Ausgrabung der Fundstelle statt Durchgeführt haben sie hier – wie denn sonst – echte Kapazitäten Beim Graben hatte man Glück, mein Lieber, wahrhaftig Verliere nicht den Glauben, ich rate dir – Grabe noch tiefer …"
+   },
+   {
+    "mediaId": 5942,
+    "caption": "Ein schönes Eisenmesser",
+    "alt": "Ein schönes Eisenmesser"
+   },
+   {
+    "mediaId": 5943,
+    "caption": "Eine kleine Sichel bzw. ein Erntemesser",
+    "alt": "Eine kleine Sichel bzw. ein Erntemesser"
+   },
+   {
+    "mediaId": 5944,
+    "caption": "Ein slawischer Haustürschlüssel",
+    "alt": "Ein slawischer Haustürschlüssel"
+   },
+   {
+    "mediaId": 5945,
+    "caption": "Hier ist anschaulich dargestellt, wie so ein Schlüssel funktionierte – er zog den Riegel der Tür",
+    "alt": "Hier ist anschaulich dargestellt, wie so ein Schlüssel funktionierte – er zog den Riegel der Tür"
+   },
+   {
+    "mediaId": 5946,
+    "caption": "Eine slawische Hacke",
+    "alt": "Eine slawische Hacke"
+   },
+   {
+    "mediaId": 5947,
+    "caption": "Der untere Teil eines großen Gefäßes der Púchov-Kultur aus dem Schnitt",
+    "alt": "Der untere Teil eines großen Gefäßes der Púchov-Kultur aus dem Schnitt"
+   },
+   {
+    "mediaId": 5948,
+    "caption": "Eine Pfeilspitze mit ungewöhnlicher asymmetrischer Form",
+    "alt": "Eine Pfeilspitze mit ungewöhnlicher asymmetrischer Form"
+   },
+   {
+    "mediaId": 5950,
+    "caption": "Ein Teil der Mannschaft vom Samstag",
+    "alt": "Ein Teil der Mannschaft vom Samstag"
+   },
+   {
+    "mediaId": 5951,
+    "caption": "Die Mannschaft vom Sonntag",
+    "alt": "Die Mannschaft vom Sonntag"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Wochenende führte unser Bürgerverein Hradiská in Zusammenarbeit mit dem Trenčiner Museum in Trenčín (Trentschin) eine archäologische Ausgrabung in Dolná Mariková auf dem Felsen Široká, im Teil Šimunky, durch, wo sich in der Zeit Großmährens eine bedeutende Befestigung unserer slawischen Vorfahren befand. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ende der 90er Jahre entdeckte Herr Gašpar Zemančík auf Šimunky die ersten Funde aus der Zeit Großmährens. Anschließend fand auf der Befestigung die erste Oberflächenaufsammlung des Archäologischen Zirkels aus Považská Bystrica unter der Leitung des Archäologen Jozef Moravčík statt, bei der eine große Menge einzigartiger Funde gerettet wurde. Seit dieser Zeit fand auf der Befestigung jedoch keine archäologische Ausgrabung mehr statt, und die Fundstelle war von Überfällen der Raubgräber mit Metalldetektoren betroffen. Unser Ziel war es daher, eine Ausgrabung im Bereich der Befestigung zu organisieren, die auf die Rettung der Metallfunde und auf die Dokumentation des Lebens auf dem Burgwall in der Zeit des Frühmittelalters, gegebenenfalls aber auch älterer Perioden ausgerichtet war, die auf der Befestigung bislang nur durch eine kleine Menge von Funden nachgewiesen waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Šimunky – Blick auf den Burgwall",
+    "alt": "Šimunky – Blick auf den Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Um die Zusammenarbeit baten wir das Trenčiner Museum in Trenčín, dessen Direktor Peter Martinisko uns voll entgegenkam und den die Idee einer Zusammenarbeit des Museums mit unserem Verein begeisterte. Der Archäologe des Museums, Mgr. Peter Schreiber, befasst sich unter anderem mit der Erforschung der Besiedlung des nordwestlichen Waagtals und besonders des Gebietes der Bezirke Púchov und Považská Bystrica, und daher war auch er der Idee, eine Ausgrabung auf dem Burgwall in Dolná Mariková durchzuführen, sehr zugetan. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste Schritt, den wir unternahmen, war die Reinigung des Burgwalls von wild aufgewachsenen Gehölzen und dichtem Strauchbewuchs. Die Fläche des Burgwalls war nämlich vor einem Jahr noch fast undurchdringlich. Der Verein widmete der Reinigung ein Wochenende. Eines unserer Mitglieder hatte jedoch schon vorher einen großen Teil gereinigt. Anschließend erhielten wir allmählich die Zustimmungen der Eigentümer der Grundstücke, auf denen sich der Burgwall ausbreitete. Zu jeder Ausgrabung muss nämlich der Eigentümer des Grundstücks seine Zustimmung geben. Das Trenčiner Museum erarbeitete das Projekt der Ausgrabung, und dieses genehmigte uns das Kreisdenkmalamt in Trenčín und legte die genauen Bedingungen der Ausgrabung fest. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die gereinigte Hauptburg wartet auf die Forscher",
+    "alt": "Die gereinigte Hauptburg wartet auf die Forscher",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nachdem wir alle notwendigen Formalitäten und Vorbereitungen gemeistert hatten, warteten wir nur noch auf ein Wochenende mit geeignetem Wetter, das auch zeitlich den meisten von uns passen würde. Nach mehreren Verschiebungen der Ausgrabung (aus objektiven Gründen) kam dann der Tag X (bzw. die zwei Tage X), und zwar das Wochenende des 7. – 8. Mai 2016, an dem die Ausgrabung beginnen konnte. Es zeigte sich, dass das die richtige Wahl war, denn das Wetter war für die Ausgrabung geradezu ideal. Die Einladung zur Ausgrabung nahmen außer den Mitgliedern unseres Vereins auch die ehemaligen Mitglieder des archäologischen Zirkels an, die Herren Štefan Meliš (mit seinen 88 Jahren eine lebende Legende), der Entdecker des Burgwalls Gašpar Zemančík und Herr Ladislav Janech. \n   \n In 2 Tagen hoben wir einen Schnitt mit den Maßen 1 × 2 Meter aus, und darüber hinaus wurde jeder mit Metalldetektoren gefundene Metallfund mit einer kleinen Sondage mit den Maßen 40 × 40 cm dokumentiert. Die so angelegten Sondagen wurden anschließend von geschickten Geodäten der Firma "
+       },
+       {
+        "type": "link",
+        "url": "http://www.topolcany.iden.sk/zoznam/geotop-ondruska-bohumil-ing/",
+        "children": [
+         {
+          "type": "text",
+          "text": "GEOTOP ONDRUŠKA"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " professionell eingemessen, die uns außerordentlich entgegenkamen, geduldig auf das Ausheben aller Sondagen warteten und sie mit professioneller Genauigkeit einmaßen. Dafür gebührt ihnen ein riesiger Dank. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Sonnengeist erhebt sich, das nächtliche Leben verstummt, der Arbeitstag der Zwerge beginnt mit dem Morgengrauen",
+    "alt": "Der Sonnengeist erhebt sich, das nächtliche Leben verstummt, der Arbeitstag der Zwerge beginnt mit dem Morgengrauen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und wie ist also das Ergebnis? Was haben wir gefunden? Ich denke, mit dem Ergebnis können wir alle über die Maßen zufrieden sein. Offenbar waren dank des erwähnten dichten Bewuchses, der auf dem Burgwall in den vergangenen Jahren war, einige Teile des Burgwalls nicht so von den Überfällen der Raubgräber ausgeplündert, wie wir befürchtet hatten. Wir fanden mehrere frühmittelalterliche Messer, Pfeilspitzen, Beschläge, Attaschen von Eimern und weitere kleinere Metallfunde. Aus unserer Sicht waren die großartigsten Funde zwei Hacken aus der Zeit Großmährens, von denen eine in so gutem Zustand erhalten ist, dass man mit ihr auch heute problemlos auf dem Feld graben könnte. Ein weiterer buchstäblicher Spitzenfund, von denen ich auch an anderen Orten in der Slowakei nicht viele dokumentiert habe, ist ein ausgezeichnet erhaltener Haustürschlüssel, ebenfalls wahrscheinlich aus der Zeit Großmährens. Erwähnen will ich auch ein Fragment eines Reitersporns. Von den Funden, die wir in die Zeit der Zeitenwende (Púchov-Kultur) einordnen, kann ich eine Menge dickwandiger Keramik mit typisch keltischer Verzierung und einen Feuerstein nennen, der als Teil eines Schlagfeuerzeugs gedient haben könnte. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Putzen der Mikrosondagen zu den Detektorfunden",
+    "alt": "Das Putzen der Mikrosondagen zu den Detektorfunden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Ausgrabung wies nach, dass Šimunky mindestens in der Zeit der Púchov-Kultur besiedelt war und dass die Besiedlung durch unsere Vorfahren, die Slawen, in der Zeit des 9./10. Jahrhunderts am intensivsten war. Es gelang uns, eine Menge an Metallfunden zu retten, die früher oder später zur Trophäe oder auch nur zum Handelsartikel für die Raubgräber geworden wären. Die Geschichte der Slowakei und besonders die von Dolná Mariková haben wir so um neue Erkenntnisse über die Bedeutung der Besiedlung in der Zeit Großmährens und der Zeitenwende bereichert. Die Fläche des Burgwalls haben wir mit einer größeren Anzahl von Detektoren so intensiv abgesucht, dass sie für die Raubgräber nicht mehr interessant sein wird.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gleichzeitig zeigte sich, dass die intensive Zusammenarbeit zwischen uns als Amateurbegeisterten und dem Trenčiner Museum in Trenčín sowohl aus wissenschaftlicher als auch aus Laiensicht sehr gute Ergebnisse bringen kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allen Beteiligten danken wir für die Hilfe, und besonders denjenigen, die von größeren Entfernungen zur Ausgrabung gekommen sind. Vor allem Dank an die Leitung des Trenčiner Museums in Trenčín für ihr Entgegenkommen. Wir danken auch Herrn Bürgermeister Ing. Peter Šujak für die Zusammenarbeit bei der Organisation der Ausgrabung sowie den Eigentümern der Grundstücke, Frau Š. Martausová-Trúchla und den Herren Bakala und F. Martaus, dafür, dass sie uns entgegengekommen sind und die Wichtigkeit der Ausgrabung verstanden haben. \n \n Zum Schluss eine überraschende Sache. In unserer Diskussionsgruppe auf Facebook habe ich angekündigt, dass wir am Wochenende eine archäologische Ausgrabung machen werden und wer einen Detektor hat, uns helfen kommen kann. Es kam niemand.\n \n Orgoň.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Den Wettbewerb um die am schönsten geputzte Sondage gewann konkurrenzlos das Team Lukáš Ilavský und Patrik Pohanka",
+    "alt": "Den Wettbewerb um die am schönsten geputzte Sondage gewann konkurrenzlos das Team Lukáš Ilavský und Patrik Pohanka",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

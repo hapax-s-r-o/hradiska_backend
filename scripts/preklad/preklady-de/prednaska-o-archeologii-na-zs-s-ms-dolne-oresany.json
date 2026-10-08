@@ -1,0 +1,91 @@
+{
+ "slug": "prednaska-o-archeologii-na-zs-s-ms-dolne-oresany",
+ "data": {
+  "title": "Vortrag über Archäologie an der Grundschule mit Kindergarten in Dolné Orešany",
+  "slug": "vortrag-ueber-archaeologie-grundschule-dolne-oresany",
+  "excerpt": "Die Aufklärungsarbeit halte ich für einen wichtigen Teil der Denkmalpflege und der Archäologie. Einen Vortrag nur für Kinder hatte ich bis vor kurzem jedoch noch nicht gehalten – umso mehr freute mich die Einladung an die Grundschule mit Kindergarten in Dolné Orešany, wo zu den Schülern auch die Kinder aus dem Kindergarten dazukamen.",
+  "metaTitle": "Vortrag über Archäologie für Kinder in Dolné Orešany",
+  "metaDescription": "Ein Vortrag über Archäologie, für Kinder an der Grundschule mit Kindergarten in Dolné Orešany vorbereitet – Aufklärung als Teil der Denkmalpflege.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5112,
+    "alt": "Der Vortragende vor einer Gruppe von Kindern, die auf dem Rasen am Schulhof sitzen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Aufklärungsarbeit halte ich für einen wichtigen Teil der denkmalpflegerischen Arbeit und der Archäologie. Ich widme mich ihr intensiv, und die positiven Ergebnisse ermutigen mich zu weiterer solcher Arbeit. Ich bin auch sehr froh, wenn sich immer mehr Archäologen daran beteiligen. Einen Vortrag nur für Kinder hatte ich bis vor kurzem allerdings noch nicht gehalten, und so freute es mich sehr, endlich auf Einladung eine Grundschule besuchen zu können. Man hatte mich informiert, dass alle Jahrgänge kommen würden, also bereitete ich meine Ausführungen für eine breite Altersgruppe vor. Schließlich hatte die Mehrheit der Schüler der Unterstufe jedoch ein anderes Programm, dafür „vertraten“ sie die Kinder aus dem Kindergarten, die das Programm durch den Zaun hinweg so interessierte, dass ihre Erzieherinnen sie zu den Zuhörern dazunahmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Vortrag habe ich gemeinsam mit Lukáš, einem Mitglied des Vereins Hradiská, organisiert. Der Platz, an dem wir uns ausbreiteten, war ideal, denn von dort hatte man Aussicht auf mehrere Befestigungen. Der Vortrag war in Kapitel gegliedert: „Was ist Archäologie“, „Was ist archäologisches Erbe“ und „Was sind Denkmäler“. Die Kinder erfuhren so, was der Begriff Archäologie bedeutet, was wir untersuchen, welchen Nutzen die Archäologie für uns hat, welche Methoden, Verfahren, Werkzeuge und Geräte wir verwenden, was archäologische Funde, Befunde und Fundstellen sind, was bei einem Fund zu tun ist, welche Webseiten und Gruppen zur Archäologie es im Internet gibt, wo sie die Denkmalpfleger finden, welche beweglichen und unbeweglichen Denkmäler es in ihrer Gemeinde und in der nahen Stadt gibt und Ähnliches. Die bedeutenden archäologischen Fundstellen in der Gemarkung der Gemeinde stellte Lukáš vor und erklärte, warum man sie schützen muss. Zum Abschluss konnten sich die Kinder Publikationen über Archäologie sowie Fotografien und Zeichnungen von Funden ansehen, die in ihrer Gemarkung entdeckt worden waren, Funde aus verschiedenen Zeiten und Materialien in die Hand nehmen, Informationsblätter mitnehmen und die bei Ausgrabungen verwendeten Werkzeuge und Geräte ausprobieren, auch die modernsten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vortrag über Archäologie an der Grundschule mit Kindergarten in Dolné Orešany",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie meinen, dass auch die Grundschule, die Sie besucht haben oder die Ihre Kinder besucht haben oder besuchen, Interesse an einem solchen Vortrag hätte, informieren Sie sie über uns. Melden sie sich mit Interesse, halte ich den Vortrag bei Ihnen entweder selbst, oder — wenn es eine weiter entfernte Region ist — ein Kollege."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "M. Sládok (Archäologe des Kreisdenkmalamtes Trnava)"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "slug": "zlaty-kon-kresba-p-brosa",
+ "data": {
+  "title": "Zlatý kôň – eine kleine Höhenburg der Púchov-Kultur in der Zeichnung von P. Bros",
+  "slug": "zlaty-kon-puchov-kultur-zeichnung-bros",
+  "excerpt": "Peter Bros hat diese künstlerische Visualisierung der keltischen kleinen Höhenburg Zlatý kôň gezeichnet, deren Überreste oberhalb der Gemeinde Prosné zu sehen sind. Im hinteren Teil errichteten die Leute der Púchov-Kultur einen Wall aus Holz und Erde mit einer Holzpalisade; im vorderen genügte dank des steilen Hanges ein hölzerner Zaun. Die Anlage diente offenbar als Fliehburg für die Bewohner der umliegenden Siedlungen.",
+  "metaTitle": "Zlatý kôň – Zeichnung der kleinen Höhenburg (P. Bros)",
+  "metaDescription": "Künstlerische Visualisierung der keltischen kleinen Höhenburg Zlatý kôň der Púchov-Kultur oberhalb von Prosné – Wall aus Holz und Erde mit Palisade.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Prosné – Zlatý kôň",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Peter Bros",
+    "icon": "users"
+   },
+   {
+    "label": "Grundlage",
+    "value": "Skizze der Fundstelle von Štefan Meliš",
+    "icon": "scroll"
+   },
+   {
+    "label": "Objekttyp",
+    "value": "Fliehburg (kleine Höhenburg)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3648,
+    "caption": "P.Bros",
+    "alt": "P.Bros"
+   },
+   {
+    "mediaId": 4309,
+    "caption": "Zeichnung der Fundstelle von Štefan Meliš",
+    "alt": "Zeichnung der Fundstelle von Štefan Meliš"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Peter Bros hat diese künstlerische Visualisierung der keltischen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/prosne-zlaty-kon",
+        "children": [
+         {
+          "type": "text",
+          "text": "kleinen Höhenburg Zlatý kôň der Púchov-Kultur"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " gezeichnet, deren Überreste oberhalb der Gemeinde Prosné zu sehen sind. Im hinteren Teil der kleinen Höhenburg ist zu sehen, dass die Leute der Púchov-Kultur hier einen Wall aus Holz und Erde mit einer Holzpalisade errichteten; im vorderen Teil genügte es dank des steilen Hanges, lediglich einen hölzernen Zaun zu setzen, und es war nicht nötig, einen Wall zu bauen. Die kleine Höhenburg diente offenbar als Fliehburg für die Bewohner der umliegenden Siedlungen in Zeiten der Bedrohung durch die Germanen oder andere Feinde. Die kleine Höhenburg hatte eine schmale, längliche Form und folgte dem Bergrücken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Peter hat die kleine Höhenburg aus größerer Entfernung gezeichnet als Antonín Lacko, damit sich die Menschen eine bessere Vorstellung von dem möglichen Gesamtaussehen der Anlage machen können. Wenn es sich um eine Fliehburg handelte, muss man mit der Möglichkeit rechnen, dass die Qualität der Befestigung nicht jenes Niveau erreichte, das wir z. B. von bedeutenderen Oppida kennen. Zwischen den einzelnen in den Boden gesetzten Pfosten befanden sich nicht unbedingt immer und nicht auf dem ganzen Umfang der kleinen Höhenburg dicke Balken oder Bohlen, sondern es ist auch ein Geflecht aus Ästen oder dünneren Bäumen anzunehmen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zlatý kôň – Zeichnung von P. Bros",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

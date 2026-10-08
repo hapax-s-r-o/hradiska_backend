@@ -1,0 +1,58 @@
+{
+ "slug": "2-pre-oz-hradiska",
+ "data": {
+  "title": "2 % der Steuer für den Verein Hradiská",
+  "slug": "zwei-prozent-fuer-den-verein-hradiska",
+  "excerpt": "Bis Ende April besteht noch die Möglichkeit, dem Verein Hradiská 2 % Ihrer Steuer zuzuwenden. Die Mittel aus den vorherigen 2 % flossen im Jahr 2018 in die Herstellung von Informationstafeln, in Honorare für Videos in Zusammenarbeit mit Dwarf Digital, in einen Teil der Kosten für die Vorbereitung des Buches Skryté poklady und in Technik für archäologische Prospektion. In diesem Jahr soll das Geld vor allem der Herausgabe des neuen Sammelbandes Hradiská – Svedkovia dávnych čias 2 helfen.",
+  "metaTitle": "2 % der Steuer für den Verein Hradiská",
+  "metaDescription": "Bis Ende April können Sie dem Verein Hradiská 2 % Ihrer Steuer zuwenden – die Mittel des Vorjahres flossen in Informationstafeln, Videos und Technik.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bis Ende April besteht noch die Möglichkeit, unserem Verein 2 % Ihrer Steuer zuzuwenden. Das Geld aus den vorherigen 2 % haben wir im Jahr 2018 für mehrere wichtige Tätigkeiten verwendet, zum Beispiel für die Kosten bei der Herstellung von Informationstafeln, für Honorare im Zusammenhang mit einigen Videos, die in Zusammenarbeit mit Dwarf Digital entstanden sind (gesprochener Kommentar), für einen Teil der Kosten im Zusammenhang mit der Vorbereitung des Buches Skryté poklady oder für den Kauf von Technik für archäologische Prospektion.\n \n In diesem Jahr helfen uns Ihre 2 % sehr bei der Herausgabe des neuen Sammelbandes Hradiská – Svedkovia dávnych čias 2. Wer uns 2 % zuwendet, der möge mir das bei der Bestellung des Sammelbandes mitteilen und erhält den Sammelband kostenlos."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Formular für die Zuwendung der 2 % können Sie "
+       },
+       {
+        "type": "link",
+        "url": "https://drive.google.com/file/d/1yZO5ZrSOKtuJfgTYoq8T8LHTrNME1bsI/view",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " herunterladen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

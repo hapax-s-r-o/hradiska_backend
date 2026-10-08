@@ -1,0 +1,122 @@
+{
+ "slug": "na-slovensku-objavili-novy-keltsky-symbol",
+ "data": {
+  "title": "In der Slowakei wurde ein neues keltisches Symbol entdeckt",
+  "slug": "neues-keltisches-symbol-tvrdosovce-furiorix",
+  "excerpt": "Als keltische Symbole gelten meist die Triskele, das Rad des Taranis oder das keltische Kreuz. Die 2018 in Tvrdošovce gefundene, mehr als 2000 Jahre alte Tonfigur „Furiorix“ trägt jedoch direkt auf der Brust ein bisher unbekanntes Zeichen: eine plastische Raute in einem Kreis, zu der es nach Radoslav Čambal vom Slowakischen Nationalmuseum bislang keine Analogien in der ostkeltischen Welt gibt.",
+  "metaTitle": "Neues keltisches Symbol aus Tvrdošovce entdeckt",
+  "metaDescription": "Die über 2000 Jahre alte Tonfigur „Furiorix“ aus Tvrdošovce trägt ein bislang unbekanntes keltisches Symbol – eine Raute im Kreis ohne Analogien.",
+  "keyFacts": [
+   {
+    "label": "Fund",
+    "value": "keltische Tonfigur „Furiorix“ (Tvrdošovce, über 2000 Jahre alt)",
+    "icon": "star"
+   },
+   {
+    "label": "Symbol",
+    "value": "plastische Raute in einem Kreis — bislang unbekannt in der ostkeltischen Welt",
+    "icon": "star"
+   },
+   {
+    "label": "Fachmann",
+    "value": "Radoslav Čambal (SNM)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5517,
+    "alt": "Rotes kreisförmiges Symbol mit einer Raute und einer Sonnenscheibe auf schwarzem Grund"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als keltische Symbole gelten meist vor allem die Triskelen mit ihren mehreren Varianten, das bekannte Rad des Taranis oder das keltische Kreuz. Im Jahr 2018 gelang jedoch in der Slowakei (in Tvrdošovce) der einzigartige Fund einer keltischen Tonfigur, die mehr als 2000 Jahre alt ist, den Namen „Furiorix“ erhielt und direkt auf der Brust ein bisher unbekanntes, offenbar keltisches Symbol trägt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe des Slowakischen Nationalmuseums (SNM) Radoslav Čambal führt zu dem Symbol an, dass es eine regelmäßige plastische Raute darstellt, die in einem durch eine Rille gebildeten Kreis liegt. In der Mitte der Raute und an jeder ihrer Seiten befinden sich plastische konzentrische Ringe. Über der oberen Spitze der Raute liegt ein halbmondförmiger Bogen, dessen nach unten gerichtete Enden mit Kügelchen abschließen. Es handelt sich um einen derzeit absolut einzigartigen Fund, der momentan keine Analogien in der ostkeltischen Welt hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über dieses Symbol und über weitere einzigartige Funde können Sie in dem Buch "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Skryté poklady"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " lesen, das unter dieser Adresse noch erhältlich ist: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/about/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.skrytepoklady.sk/about"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "In der Slowakei wurde ein neues keltisches Symbol entdeckt",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "slug": "slovanska-svatyna-v-moste-pri-bratislave-3d",
+ "data": {
+  "title": "Das slawische Heiligtum von Most pri Bratislave in 3D",
+  "slug": "most-pri-bratislave-slawisches-heiligtum-3d",
+  "excerpt": "Igor Furugláš hat für unsere Seite eine 3D-Visualisierung des möglichen Aussehens des heidnischen Heiligtums geschaffen, das in Most pri Bratislave entdeckt wurde. Grundlage waren vor allem die Aufsätze des Archäologen Vladimír Turčan, der das Heiligtum untersucht hat. Anders als die exakte Rekonstruktion zeigt das Modell um das Heiligtum einen leichten Flechtzaun, der die heilige Welt symbolisch von der profanen trennt – archäologisch belegt ist er hier allerdings nicht.",
+  "metaTitle": "Slawisches Heiligtum in Most pri Bratislave – 3D",
+  "metaDescription": "3D-Visualisierung des möglichen Aussehens des heidnischen Heiligtums von Most pri Bratislave, geschaffen von Igor Furugláš nach Arbeiten von Vladimír Turčan.",
+  "keyFacts": [
+   {
+    "label": "Schöpfer der 3D-Visualisierung",
+    "value": "Igor Furugláš",
+    "icon": "users"
+   },
+   {
+    "label": "Lage",
+    "value": "Most pri Bratislave",
+    "icon": "map"
+   },
+   {
+    "label": "Fachliche Grundlage",
+    "value": "Ausgrabung des Archäologen Vladimír Turčan",
+    "icon": "book"
+   },
+   {
+    "label": "Umzäunung",
+    "value": "Nach der Rekonstruktion umgab das Heiligtum ein leichter Flechtzaun, archäologisch ist er jedoch nicht belegt",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor etwa 1300 Jahren",
+    "title": "Verehrung der slawischen Götter",
+    "description": "Im Heiligtum verehrten unsere slawischen Vorfahren die altehrwürdigen slawischen Götter.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4317,
+    "caption": "Das Heiligtum in geheimnisvollem Dunst...",
+    "alt": "Das Heiligtum in geheimnisvollem Dunst..."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir präsentieren Ihnen eine 3D-Visualisierung des möglichen Aussehens "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "des heidnischen Heiligtums, das in Most pri Bratislave entdeckt wurde."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Sein Schöpfer ist unser Mitarbeiter Igor Furugláš, der dieses Modell für unsere Seite erstellt hat. Dafür gebührt ihm großer Dank."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir sind von den uns zugänglichen Unterlagen ausgegangen, vor allem von den Aufsätzen des Archäologen Vladimír Turčan, der das Heiligtum untersucht hat. Im Unterschied zur exakten Rekonstruktion sind wir der Ansicht, dass das Heiligtum mindestens mit einem leichten Flechtzaun umgeben sein sollte, der so die heilige Welt symbolisch von der profanen getrennt hätte. Eine Umzäunung von Heiligtümern ist auch bei anderen Fundstellen dokumentiert, und daher nehmen wir an, dass es in Most ähnlich gewesen sein konnte. Dieses Element war allerdings archäologisch nicht belegt, was jedoch verständlich ist, wenn der Zaun nicht massiv war und nur eine einfachere Konstruktion hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Spazieren Sie durch das heidnische Heiligtum unserer slawischen Vorfahren, die darin vor 1300 Jahren die altehrwürdigen slawischen Götter verehrten..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Heiligtum in geheimnisvollem Dunst...",
+    "alt": "Das Heiligtum in geheimnisvollem Dunst...",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": ""
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "4eLfXhhNGOs",
+    "url": "https://www.youtube.com/embed/4eLfXhhNGOs",
+    "caption": ""
+   }
+  ]
+ }
+}

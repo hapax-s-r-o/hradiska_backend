@@ -616,3 +616,9 @@ preložený, rovnako ako anglická.
 
 **mozete-nam-dat-2-z-dane**
 : posledná veta nemá koncovú bodku ani sloveso za číslom účtu
+
+**ukradli-mec-z-puchovskej-skaly**
+: názov združenia raz „MŔTVA KOSŤ", raz „mŕtva kosť", raz „Mŕtva kosť"; na jednom mieste je „MŘTVA" s českým ř
+
+**sutaz-o-mapu-velkej-moravy**
+: blok 0 nemá koncovú bodku (veta končí odkazom „Slovia")

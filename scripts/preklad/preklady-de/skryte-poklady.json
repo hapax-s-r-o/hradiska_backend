@@ -1,0 +1,44 @@
+{
+ "slug": "skryte-poklady",
+ "data": {
+  "title": "Skryté poklady (Verborgene Schätze) – ein Buch über die Funde aus Tvrdošovce",
+  "slug": "skryte-poklady-buch-ueber-die-funde-aus-tvrdosovce",
+  "excerpt": "Der Verein Hradiská hat an der Entstehung und Herausgabe eines neuen Buches über die jüngsten archäologischen Funde in der ausgedehnten Siedlung in Tvrdošovce mitgewirkt; an deren Ausgrabung haben sich auch Mitglieder des Vereins beteiligt. Das Buch enthält unzählige professionelle Farbfotografien von Funden aus der Zeit der Kelten und Germanen, aber auch aus anderen Perioden, von denen mehrere in der Slowakei ohne Parallele sind. Es erschien nur in einer begrenzten Stückzahl.",
+  "metaTitle": "Skryté poklady – ein Buch über die Funde aus Tvrdošovce",
+  "metaDescription": "Ein neues Buch über die jüngsten archäologischen Funde aus der Siedlung in Tvrdošovce, mit Farbfotografien von Funden der Kelten und Germanen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Verein Hradiská hat an der Entstehung und Herausgabe eines neuen Buches über die jüngsten archäologischen Funde in der ausgedehnten Siedlung in der Gemeinde Tvrdošovce mitgewirkt; an deren Ausgrabung haben sich auch Mitglieder unseres Vereins beteiligt. Das Buch enthält unzählige professionelle Farbfotografien von Funden aus der Zeit der Kelten und Germanen, aber auch aus anderen Perioden, von denen mehrere in der Slowakei ohne Parallele sind. Es erschien nur in einer begrenzten Stückzahl, und deshalb empfehle ich jedem, der dieses außergewöhnliche Buch erwerben möchte, möglichst bald unser "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/about/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Bestellformular"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aufzurufen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

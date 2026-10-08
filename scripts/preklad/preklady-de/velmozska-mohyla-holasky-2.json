@@ -1,0 +1,113 @@
+{
+ "slug": "velmozska-mohyla-holasky-2",
+ "data": {
+  "title": "Holásky 2 – ein Fürstengrabhügel der Horákov-Kultur",
+  "slug": "fuerstengrabhuegel-holasky-2-horakov-kultur",
+  "excerpt": "Holásky bei Brno wurde durch die Entdeckung großer Fürstengrabhügel der Horákov-Kultur aus der Hallstattzeit berühmt. Unsere 3D-Rekonstruktion zeigt die eichene Grabkammer des Hügelgrabes Nummer 2 mit der Bestattung eines Kriegers: zwei eiserne Lanzen, getriebene Bronzeschalen und drei einzigartige eiserne Bratspieße, die offenbar auf etruskische Einflüsse hinweisen.",
+  "metaTitle": "Fürstengrabhügel Holásky 2 – hallstattzeitliches Kriegergrab",
+  "metaDescription": "3D-Rekonstruktion eines Fürstengrabhügels der Horákov-Kultur aus Brno-Holásky: eichene Grabkammer von ~5 × 5 m mit einer hallstattzeitlichen Kriegerbestattung.",
+  "keyFacts": [
+   {
+    "label": "Kultur",
+    "value": "Horákov-Kultur (Hallstattzeit), Brno-Tuřany",
+    "icon": "star"
+   },
+   {
+    "label": "Grabkammer",
+    "value": "aus Eichenholz, ~5 × 5 m; Bestattung eines Kriegers",
+    "icon": "star"
+   },
+   {
+    "label": "3D",
+    "value": "Dwarf Digital + M. Golec, Z. Mírová",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende 8. – Anf. 4. Jh. v. Chr.",
+    "title": "Horákov-Kultur",
+    "description": "Setzt die Podolí-Kultur fort; Fürstengrabhügel.",
+    "type": "event"
+   },
+   {
+    "year": "1925",
+    "title": "Entdeckung der Hügelgräber",
+    "description": "L. Červinka erkannte ein urgeschichtliches Hügelgrab (Holásky).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5758,
+    "alt": "3D-Rekonstruktion des Inneren eines Hügelgrabes mit Grabausstattung, Gefäßen und Lanzen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Holásky ist eine ehemalige Gemeinde, heute ein Stadtteil von Brno (Brünn) – Tuřany, die durch die Entdeckung großer Fürstengrabhügel der sogenannten Horákov-Kultur aus der Hallstattzeit berühmt wurde. Diese Kultur stellt eine kontinuierliche Entwicklung vom Ende der Bronzezeit über die Hallstattzeit bis zum Beginn der Latènezeit dar (zeitlich handelt es sich um das Ende des 8. bis zum Beginn des 4. Jahrhunderts v. Chr.). Die Kultur erkennen wir im Gebiet Südmährens, wo sie als direkte Fortsetzerin der Podolí-Kultur gilt (Spätbronzezeit, Teil des Kulturkreises der mitteldanubischen Urnenfelder). Die Grabkomplexe aus Brno-Holásky sind einzigartig und zählen durch ihren Reichtum zu den Grabkomplexen der höchsten Gesellschaftsschicht der erwähnten Horákov-Kultur. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "ArTReRiHWn0",
+    "url": "https://www.youtube.com/embed/ArTReRiHWn0",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle selbst liegt auf ehemaligen Feldern in der sogenannten „Krumlová čtvrť“. Die Fürstengrabhügel aus der Hallstattzeit wurden hier in den 1920er Jahren entdeckt. Das erste Hügelgrab erschien auf dem Feld als großer, aus Schwarzerde bestehender Hügel, von dem die Einwohner der Gemeinde fälschlich annahmen, er stamme aus der Zeit der Napoleonischen Kriege. Der Archäologe Ladislav Červinka wurde im Jahr 1925 auf die Stelle aufmerksam gemacht. Nach der Besichtigung des Objektes erkannte er darin ein urgeschichtliches Hügelgrab, das, wie er in der Folge feststellte, nicht allein stand. In seiner Umgebung entdeckte er noch zwei weitere. Obwohl die Hügelgräber durch das Pflügen beschädigt waren, erreichte die Aufschüttung des ersten von ihnen in den 1920er Jahren eine Breite von bis zu 70 Metern. Ursprünglich waren die Hügelgräber wahrscheinlich höher und weniger in die Breite gezogen. Nach diesen ersten Feststellungen begann die Ausgrabung, und in ihrem Verlauf wurden in 2 Hügelgräbern 2 Grabkammern aus Eichenholz mit den Maßen 5,25 × 5,30 m und 5 × 5 m entdeckt. Das dritte Hügelgrab wurde erst einige Jahre später untersucht. \n \n Gemeinsam mit Dwarf Digital Archeology und mit der tatkräftigen Hilfe des Archäologen Martin Golec und der Archäologiestudentin Zuzana Mírová haben wir versucht, das mögliche Aussehen des Hügelgrabes Nummer 2 zu rekonstruieren. Die Kammer dieses Hügelgrabes war in der Achse Nord–Süd orientiert und hatte ähnliche Maße wie das erste Hügelgrab. Sie war von ihm etwa 25 Meter entfernt. Zur Zeit der Ausgrabung war das Hügelgrab etwa 1 Meter hoch und die Grabkammer 1 Meter unter das Geländeniveau eingetieft. An der Westwand der Kammer lag das Skelett eines Mannes. Nach der Grabausstattung handelte es sich um einen Krieger. Sein Kopf war nach Norden gerichtet; erhalten hat sich der Schädel, über dem 4 bronzene Ringe angeordnet waren. An seiner rechten Seite lagen 2 eiserne Lanzen, an der linken Seite zwei getriebene Bronzeschalen mit perlartig gebuckeltem Rand. Hinter ihnen drei einzigartige eiserne Bratspieße, die offenbar auf etruskische Einflüsse in der Horákov-Kultur hinweisen. In der südöstlichen Ecke befanden sich keramische Gefäße und eine bronzene Schöpfkelle. \n \n Nach Analogien aus anderen Fürstengräbern der Hallstattzeit nehmen wir an, dass der Tote wohl auf einem hölzernen Lager lag und in der Grabkammer auch eine größere Menge an Vorräten und Speisen hatte, was offenbar mit den Vorstellungen über ein Totenmahl der Verstorbenen im Jenseits zusammenhing, was mit dem festen Glauben an ein Leben nach dem Tod zusammenhing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Fürstengrabhügel Holásky 2",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň "
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

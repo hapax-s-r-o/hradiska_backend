@@ -1,0 +1,50 @@
+{
+ "slug": "darujte-nam-2-z-dane-2016",
+ "data": {
+  "title": "Widmen Sie dem Verein Hradiská 2 % Ihrer Steuer (2016)",
+  "slug": "spenden-sie-zwei-prozent-der-steuer-2016",
+  "excerpt": "Unser Verein Hradiská bewirbt sich in diesem Jahr um 2 % Ihrer Steuer. Im vergangenen Jahr entstanden daraus die Informationstafeln auf dem Burgwall Slepý vrch bei Orešany, ein gesäuberter Burgwall und ein gesäubertes Hügelgräberfeld sowie ein hochwertiger Sammelband; außerdem haben wir Archäologen bei Ausgrabungen geholfen. In diesem Jahr wollen wir weitere Informationstafeln herstellen und uns stärker auf die Hilfe bei Ausgrabungen konzentrieren, wofür wir Ausrüstung anschaffen müssen.",
+  "metaTitle": "Widmen Sie dem Verein Hradiská 2 % Ihrer Steuer (2016)",
+  "metaDescription": "Der Verein Hradiská bewirbt sich um 2 % Ihrer Steuer. Im Vorjahr entstanden daraus Informationstafeln, ein gesäuberter Burgwall und ein Sammelband.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Verein Hradiská bewirbt sich in diesem Jahr um 2 % Ihrer Steuer. Im vergangenen Jahr haben wir damit Informationstafeln auf dem Burgwall Slepý vrch bei Orešany hergestellt, 1 Burgwall und 1 Hügelgräberfeld gesäubert, Archäologen bei Ausgrabungen geholfen, vor allem aber einen hochwertigen Sammelband herausgegeben, was finanziell überhaupt nicht einfach war. In diesem Jahr werden wir mit der Herstellung von Informationstafeln fortfahren und uns stärker auf die Hilfe für Archäologen bei Ausgrabungen konzentrieren. Dafür wird es nötig sein, verschiedene Ausrüstung anzuschaffen. Wenn Sie uns unterstützen, wird Ihr Geld in eine gute Sache investiert. Vielen Dank!!!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://ulozto.sk/xs47s1u4/tlacivo-2-percenta-dane-2016-pdf",
+        "children": [
+         {
+          "type": "text",
+          "text": "Das Formular für die Zuwendung von 2 % können Sie hier herunterladen: Formular 2 %"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

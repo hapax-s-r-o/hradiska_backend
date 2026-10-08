@@ -1,0 +1,65 @@
+{
+ "slug": "oblik-vyskum-kultovej-hory",
+ "data": {
+  "title": "Oblík – die Erforschung eines Kultbergs",
+  "slug": "oblik-erforschung-eines-kultbergs",
+  "excerpt": "In diesem Gespräch widmet sich der Podcast „Pár praslenov“ gemeinsam mit den Archäologen Mgr. Erika Makarová, PhD., und Mgr. Peter Bisták der einzigartigen archäologischen Fundstelle Oblík in der Ostslowakei. Vorgestellt werden Lage und Charakter der Fundstelle, ihre Bedeutung im Kontext der urgeschichtlichen Besiedlung der Region und die Ergebnisse der bisherigen Ausgrabungen.",
+  "metaTitle": "Oblík – Erforschung eines Kultbergs im Osten",
+  "metaDescription": "Gespräch über die einzigartige Fundstelle Oblík in der Ostslowakei: Kultberg, urgeschichtliche Besiedlung und Ergebnisse der archäologischen Ausgrabungen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "ugv3kPA1AcU",
+    "url": "https://www.youtube.com/embed/ugv3kPA1AcU",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Gespräch widmet sich der Podcast „Pár praslenov“ gemeinsam mit den Archäologen Mgr. Erika Makarová, PhD., und Mgr. Peter Bisták der einzigartigen archäologischen Fundstelle Oblík in der Ostslowakei. Vorgestellt werden Lage und Charakter der Fundstelle, ihre Bedeutung im Kontext der urgeschichtlichen Besiedlung der Region und die Ergebnisse der bisherigen archäologischen Ausgrabungen. Wir sprechen über die entdeckten Funde, ihre Datierung und darüber, was sie uns über das Leben der einstigen Gemeinschaften verraten, die diesen Raum bewohnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir erfahren auch von den weiteren Zusammenhängen der Besiedlung der Ostslowakei in der Urgeschichte, von den Verkehrswegen, den Kontakten zwischen den einzelnen Kulturen und von der strategischen Bedeutung der Fundstelle in der Landschaft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An dieser Ausgrabung war unser Verein Hradiská gemeinsam mit den Kollegen des Vereins Archeo Moravia aktiv beteiligt."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

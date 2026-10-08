@@ -1,0 +1,138 @@
+{
+ "slug": "ukradli-mec-z-puchovskej-skaly",
+ "data": {
+  "title": "Das Schwert von der Púchovská skala wurde gestohlen!",
+  "slug": "schwertdiebstahl-auf-der-puchovska-skala",
+  "excerpt": "Knapp zwei Monate hielt das eiserne keltische Schwert auf der Púchovská skala durch. Wenige Tage vor dem Heiligen Abend entwendete es ein unbekannter Täter – er sägte die Replik mühsam aus ihrer Halterung im Felsen heraus. Geschmiedet hatte sie der Kunstschmied Pavol Rác; sie sollte Teil der Ruhezone sein, die der Bürgerverein MŔTVA KOSŤ auf dem Felsen schon im fünften Jahr aufbaut.",
+  "metaTitle": "Schwert von der Púchovská skala gestohlen",
+  "metaDescription": "Die Replik eines keltischen Schwerts der Púchov-Kultur vom Kunstschmied Pavol Rác wurde kurz vor Weihnachten von der Púchovská skala gestohlen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5081,
+    "alt": "Ein keltisches Eisenschwert mit Griff, auf einem Steinblock liegend"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Knapp zwei Monate hielt das eiserne keltische Schwert auf der Púchovská skala durch. Wenige Tage vor dem Heiligen Abend entwendete es ein unbekannter Täter. Die Replik des keltischen Schwerts, das die Menschen der Púchov-Kultur herstellten und benutzten – sie hatten ihren Sitz auch auf der Púchovská skala –, schmiedete der Kunstschmied Pavol Rác. Das Schwert sollte Teil der Ruhezone sein, die der Bürgerverein MŔTVA KOSŤ schon im fünften Jahr aufbaut."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mitglieder des Vereins setzten das Schwert gemeinsam mit dem Schmied Rác Ende Oktober auf einem Felsstück ein. Der Gegenstand war so befestigt, dass man ihn nicht leicht stehlen konnte. Den Augen der Touristen, die die Púchovská skala besuchen, diente das Schwert jedoch nicht lange. Der erfindungsreiche unbekannte Täter kam in der Vorweihnachtszeit an den Ort und sägte das Schwert, mit Technik ausgerüstet, mühsam aus der Halterung im Felsen heraus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mehrere Stunden schwerer Arbeit in der Schmiedewerkstatt waren für den Autor der Replik vergeblich. Die Initiative von Rác und den Mitgliedern von MŔTVA KOSŤ, den Menschen uneigennützig eine Freude zu machen, war umsonst. Die Púchovská skala als bedeutender historischer Ort, der nicht nur in die Regionalgeschichte eingegangen ist, verlor damit ihre wohl größte Attraktion. Und das alles nur wegen der nichtigen Habgier eines Diebes, der die meisterhafte Schmiedearbeit nur für sich allein haben wollte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schwert von der Púchovská skala wurde gestohlen!",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem Schwert hat MŔTVA KOSŤ in diesem Jahr in der Ruhezone auf der Púchovská skala auch neue Bänke, einen Tisch, einen Fahrradständer und Abfallkörbe aufgestellt. Damit ist glücklicherweise nichts passiert. Die Aktivisten von Mŕtva kosť haben in Zusammenarbeit mit dem Verein Puchovo dedičstvo auch die Informationswebsite "
+       },
+       {
+        "type": "link",
+        "url": "http://puchovskaskala.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "puchovskaskala.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " geschaffen, die Interessierten übersichtlich umfassende Informationen über den Felsen und die sog. Púchov-Kultur bietet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Projekt des Aufbaus der Ruhezone will Mŕtva kosť im nächsten Jahr endgültig abschließen. Anlässlich der Frühlings-Tagundnachtgleiche wird die Púchovská skala wieder Schauplatz der internationalen Veranstaltung Keltský telegraf (Keltischer Telegraf) sein, die der Verein regelmäßig organisiert. Leider wohl schon ohne das Schwert, das zumindest symbolisch auf die Kelten verwies."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie irgendwelche Kenntnisse über den Diebstahl des Schwerts haben, schreiben Sie an die Mailadresse des Vereins: info@mrtvakost.sk oder gegebenenfalls an unsere Adresse bei Hradiská: orgon333@gmail.com"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

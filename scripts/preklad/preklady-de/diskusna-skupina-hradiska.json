@@ -1,0 +1,50 @@
+{
+ "slug": "diskusna-skupina-hradiska",
+ "data": {
+  "title": "Die Diskussionsgruppe Hradiská",
+  "slug": "diskussionsgruppe-hradiska",
+  "excerpt": "Unsere Diskussionsgruppe über die Burgwälle der Slawen, der Kelten und anderer Kulturen hat bereits fast 1250 Mitglieder. Wenn Sie aktuelle Informationen zu Themen unserer fernen Geschichte erfahren möchten, treten Sie uns bei. Die Adresse der Gruppe finden Sie im Beitrag.",
+  "metaTitle": "Die Diskussionsgruppe Hradiská",
+  "metaDescription": "Eine Diskussionsgruppe über die Burgwälle der Slawen, der Kelten und anderer Kulturen mit fast 1250 Mitgliedern – treten Sie den Gesprächen bei.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Diskussionsgruppe über die Burgwälle der Slawen, der Kelten und anderer Kulturen hat bereits fast 1250 Mitglieder. Wenn Sie aktuelle Informationen zu Themen unserer fernen Geschichte erfahren möchten, treten Sie uns bei. Die Diskussionsgruppe finden Sie unter dieser Adresse:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/groups/118846781525141/730961070313706/?notif_t=like",
+        "children": [
+         {
+          "type": "text",
+          "text": "HRADISKÁ – DISKUSIA"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

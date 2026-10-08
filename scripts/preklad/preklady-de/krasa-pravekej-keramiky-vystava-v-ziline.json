@@ -1,0 +1,59 @@
+{
+ "slug": "krasa-pravekej-keramiky-vystava-v-ziline",
+ "data": {
+  "title": "Die Schönheit urgeschichtlicher Keramik – eine Ausstellung in Žilina",
+  "slug": "schoenheit-urgeschichtlicher-keramik-ausstellung-zilina",
+  "excerpt": "Im Dachgeschoss des Turms der Burg Budatín zeigt das Považské múzeum in Žilina (Sillein) eine Ausstellung über urgeschichtliche Keramik. Sie stellt die Gefäßtypen der Lausitzer Kultur aus der Bronzezeit und der älteren Eisenzeit vor, die jüngere und späte Eisenzeit vertritt die Keramik der Púchov-Kultur. Beide Kulturen sind in der Nordwestslowakei dominant vertreten.",
+  "metaTitle": "Schönheit urgeschichtlicher Keramik – Ausstellung in Žilina",
+  "metaDescription": "Das Považské múzeum in Žilina zeigt im Turm der Burg Budatín Keramik der Lausitzer und der Púchov-Kultur – von der Bronzezeit bis in die späte Eisenzeit.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Dachgeschoss des Turms der Burg Budatín hat das Považské múzeum in Žilina (Sillein) eine Ausstellung mit dem Titel "
+       },
+       {
+        "type": "text",
+        "text": "Krása pravekej keramiky",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (Die Schönheit urgeschichtlicher Keramik) vorbereitet. Sie macht die Besucher mit den verschiedenen Gefäßtypen bekannt, die die Menschen der Lausitzer Kultur in der Bronzezeit und in der älteren Eisenzeit verwendeten. Die jüngere und die späte Eisenzeit werden durch die Keramik der Menschen der Púchov-Kultur vertreten. Beide Kulturen sind im Gebiet der Nordwestslowakei dominant vertreten. Es überwiegt von Hand und ohne Verwendung der Töpferscheibe gefertigte Keramik, die mit verschiedenen Zierelementen verziert ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://pmza.sk/krasa-pravekej-keramiky/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Mehr über die Ausstellung erfahren Sie HIER"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

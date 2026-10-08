@@ -1,0 +1,92 @@
+{
+ "slug": "podpalili-archologicky-skanzen",
+ "data": {
+  "title": "Brandstiftung im archäologischen Freilichtmuseum in Prestavlky",
+  "slug": "brandstiftung-im-freilichtmuseum-prestavlky",
+  "excerpt": "Die menschliche Dummheit kennt keine Grenzen. In der Gemeinde Prestavlky bauen Geschichtsbegeisterte ohne Unterstützung des Staates, aus eigener Initiative und ohne Anspruch auf Entlohnung ein slawisches archäologisches Freilichtmuseum auf. Als sie am 28. 3. 2014 die Saison eröffnen wollten, erwartete sie ein Schock: Ein unbekannter Täter hatte eines der Holzgebäude in Brand gesetzt.",
+  "metaTitle": "Brandstiftung im Freilichtmuseum in Prestavlky",
+  "metaDescription": "Ein unbekannter Täter setzte das slawische Freilichtmuseum in Prestavlky in Brand, das Geschichtsbegeisterte ohne staatliche Unterstützung aufbauen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die menschliche Dummheit kennt keine Grenzen. Zuletzt erleben wir das in der Gemeinde Prestavlky, wo Geschichtsbegeisterte ohne Unterstützung des Staates, ohne verschiedene Gelder aus der EU oder von anderen Institutionen, aus eigener Initiative und ohne Anspruch auf irgendeine Entlohnung ein slawisches archäologisches Freilichtmuseum aufbauen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 28. 3. 2014, als sie die Saison eröffnen wollten, erwartete sie bei der Ankunft im Freilichtmuseum ein Schock. Ein unbekannter Täter hatte ihnen eines der Holzgebäude und einen großen Teil des vorbereiteten Materials angezündet. Er beschädigte ihnen auch die übrigen Teile des Freilichtmuseums.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Traurigste an allem ist aber die Reaktion und die Haltung einiger Einheimischer, die sich in einem Satz zusammenfassen ließe: „Das haben sie sich selbst zuzuschreiben, sie sollen sich hier nichts ausdenken und keine Dummheiten bauen.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "SCHANDE ÜBER SIE!!!!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den ganzen Artikel über die Brandstiftung im Freilichtmuseum können Sie hier lesen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

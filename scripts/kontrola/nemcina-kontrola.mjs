@@ -61,8 +61,13 @@ const ZAKAZANE = [
 /* Anglický zápis čísel: desatinná bodka a tisícová čiarka. Nemčina má opak.
    Vynechávajú sa roky (1 234 by bolo zle, ale 1234 je rok) a verzie. */
 const CISLA = [
-  [/\b\d+\.\d+\s?(km|m|ha|kg|%)/g, 'desatinná bodka → v nemčine čiarka'],
+  /* Desatinná BODKA (1.5 km). Pozor na nemecký tisícový oddeľovač `1.500` —
+     ten má za bodkou práve tri cifry, desatinné miesto jednu či dve. */
+  [/\b\d+\.\d{1,2}\s?(km|m|ha|kg|%)(?!\d)/g, 'desatinná bodka → v nemčine čiarka'],
   [/\b\d{1,3}(,\d{3})+\b/g, 'tisícová čiarka → v nemčine bodka'],
+  /* Štvorciferné číslo s oddeľovačom (1.500) — nemčina ho nerozdeľuje,
+     oddeľovač sa píše až od piatich cifier. */
+  [/(?<!\d)[1-9]\.\d{3}(?!\d)/g, 'štvorciferné číslo s oddeľovačom → bez neho'],
 ];
 
 const textClanku = (clanok) => {
@@ -70,6 +75,12 @@ const textClanku = (clanok) => {
   const prejdi = (n) => {
     if (Array.isArray(n)) return n.forEach(prejdi);
     if (!n || typeof n !== 'object') return;
+    /* BIBLIOGRAFIA SA NEPREKLADÁ (§14), takže anglické názvy diel a adresy
+       v nej nie sú chyba — do jazykovej kontroly nepatria. Rovnako odkazy:
+       `https://…/history-of-the-hellenic-navy/` obsahuje „the" a nie je to
+       angličtina v texte. */
+    if (n.__component === 'content.sources') return;
+    if (typeof n.url === 'string') return;
     if (typeof n.text === 'string') von.push(n.text);
     for (const v of Object.values(n)) prejdi(v);
   };

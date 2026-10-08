@@ -1,0 +1,98 @@
+{
+ "slug": "svaty-jur-nestich-3d",
+ "data": {
+  "title": "Svätý Jur – Neštich in 3D, ein mächtiger slawischer Burgwall",
+  "slug": "svaty-jur-nestich-slawischer-burgwall-3d",
+  "excerpt": "Der Burgwall Neštich in Svätý Jur gehört zu den bedeutendsten und mächtigsten slawischen Burgwällen in der Slowakei. Unser Mitarbeiter Jakub Španiel hat eine sehr eindrucksvolle Visualisierung des möglichen Aussehens des Burgwalls am Ende des 9. Jahrhunderts geschaffen. Für die Unterlagen zum 3D-LiDAR, die eine unschätzbare Hilfe sind, danken wir Tibor Lieskovský.",
+  "metaTitle": "Svätý Jur – Neštich in 3D: mächtiger slawischer Burgwall",
+  "metaDescription": "Eindrucksvolle 3D-Visualisierung des Burgwalls Neštich, eines der mächtigsten slawischen Burgwälle der Slowakei, am Ende des 9. Jahrhunderts.",
+  "keyFacts": [
+   {
+    "label": "Schöpfer der Visualisierung",
+    "value": "Jakub Španiel (jakubspaniel.eu)",
+    "icon": "users"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "Ende des 9. Jahrhunderts",
+    "icon": "calendar"
+   },
+   {
+    "label": "Grundlagen",
+    "value": "3D-LiDAR, bereitgestellt von Tibor Lieskovský",
+    "icon": "scroll"
+   },
+   {
+    "label": "Lage",
+    "value": "Svätý Jur – Neštich",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 9. Jahrhunderts",
+    "title": "Dargestelltes Aussehen des Burgwalls",
+    "description": "Die Visualisierung zeigt das mögliche Aussehen des Burgwalls am Ende des 9. Jahrhunderts.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6319,
+    "alt": "Rekonstruktion eines langgestreckten Burgwalls mit zwei Höfen und einer Mauer, Blick aus der Vogelperspektive"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hradisko-svaty-jur-nestich",
+        "children": [
+         {
+          "type": "text",
+          "text": "Neštich in Svätý Jur"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Sankt Georgen) gehört zu den bedeutendsten und mächtigsten slawischen Burgwällen in der Slowakei. Unser Mitarbeiter Jakub Španiel ( "
+       },
+       {
+        "type": "link",
+        "url": "http://www.jakubspaniel.eu",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.jakubspaniel.eu"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ) hat eine sehr eindrucksvolle Visualisierung des möglichen Aussehens des Burgwalls am Ende des 9. Jahrhunderts geschaffen. Für die Unterlagen zum 3D-LiDAR, die eine unschätzbare Hilfe sind, danken wir Tibor Lieskovský."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "G3XV7sUC2MQ",
+    "url": "https://www.youtube.com/embed/G3XV7sUC2MQ",
+    "caption": null
+   }
+  ]
+ }
+}

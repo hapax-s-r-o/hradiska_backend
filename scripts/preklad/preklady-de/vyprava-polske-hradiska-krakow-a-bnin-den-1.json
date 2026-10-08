@@ -1,0 +1,198 @@
+{
+ "slug": "vyprava-polske-hradiska-krakow-a-bnin-den-1",
+ "data": {
+  "title": "Expedition zu den polnischen Burgwällen – Krakov (Krakau) und Bnin, Tag 1",
+  "slug": "expedition-polnische-burgwaelle-krakau-und-bnin-tag-1",
+  "excerpt": "Im Oktober 2022 machten sich neun Mitglieder des Vereins Hradiská zu einer Expedition zu den Burgwällen Polens und zu seiner ältesten Geschichte auf. Hauptziel waren die archäologischen Freilichtmuseen, die in Polen auf hervorragendem Niveau sind. Der erste Tag führte in das archäologische Museum in Krakov (Krakau) – wo das berühmte Idol von Zbruč allerdings gerade nicht zu sehen war – und weiter zum Halbinsel-Burgwall Bnin.",
+  "metaTitle": "Polnische Burgwälle: Krakau und Bnin (Tag 1)",
+  "metaDescription": "Erster Tag der Expedition von neun Mitgliedern des Vereins Hradiská nach Polen (2022): das archäologische Museum in Krakau und der Burgwall Bnin.",
+  "keyFacts": [
+   {
+    "label": "Art",
+    "value": "Reisebericht — Polnische Burgwälle 2022, Tag 1 (Krakov, Bnin)",
+    "icon": "star"
+   },
+   {
+    "label": "Teilnehmer",
+    "value": "9 Mitglieder des Vereins Hradiská",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6117,
+    "alt": "Eine Gruppe von Menschen am Strand bei der Aufschrift HRADISKÁ, über dem Foto das Logo Slovanské hradiská"
+   },
+   {
+    "mediaId": 6118,
+    "caption": "Krakov im Frühmittelalter",
+    "alt": "Krakov im Frühmittelalter"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Oktober 2022 machten wir uns, neun Mitglieder des Vereins Hradiská, zu einer Expedition zu den Burgwällen in Polen und zu seiner ältesten Geschichte auf. Unser Hauptziel waren die archäologischen Freilichtmuseen, die die Polen auf hervorragendem Niveau haben, und im Rahmen der Fahrten besuchten wir auch einige interessante, nicht rekonstruierte Burgwälle, die auf unserem Weg lagen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die Fahrt nutzten wir ein geliehenes rotes „Rotkäppchen“ – einen Opel Vivaro, der seine besten Jahre zwar schon hinter sich hatte, dafür aber recht bequeme Sitze und einen großen Gepäckraum besaß. Trotz des anfänglichen leichten Misstrauens verstanden wir uns mit ihm am Ende ganz gut, und er begleitete uns zuverlässig auf der ganzen langen Expedition."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hauptpunkt des ersten Expeditionstages war das archäologische Museum in Krakov (Krakau), in dem sich der bekannteste „slawische“ Götze, das sogenannte "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zbrucsky-idol",
+        "children": [
+         {
+          "type": "text",
+          "text": "Idol von Zbruč"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", befinden soll. Die Stadt Krakov hat ein sehr schön rekonstruiertes Zentrum, was viele von Ihnen sicher wissen. Seine breiten Straßen erinnern ein wenig an Paris und andere interessante westeuropäische Städte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Expedition zu den polnischen Burgwällen – Krakov und Bnin (Tag 1)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://ma.krakow.pl/en/main-page/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Das Archäologische Museum in Krakov"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ist wirklich sehr umfangreich und reich, mit einer Menge an Exponaten. Sie finden hier wunderschöne Funde vom Paläolithikum bis zum Mittelalter, wobei die recht umfangreiche Ausstellung aus der Zeit des alten Ägypten und aus Südamerika überraschte. Die einzige wirkliche Enttäuschung war die Feststellung, dass sich das Idol von Zbruč, auf das wir uns sehr gefreut hatten, derzeit außerhalb des Museums befindet und Forschungs- und Restaurierungsarbeiten daran laufen. Aber auch ohne es kann ich das Museum jedem wärmstens empfehlen, den Archäologie und Geschichte interessieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Museumsbesuch und dem Mittagessen wartete auf uns eine unangenehme Überraschung in Form eines Bußgeldes fürs Parken. In Krakov ist die Parkraumpolitik für ausländische Touristen ähnlich „freundlich“ wie in Bratislava (Pressburg). Es ist ein ziemlich großes Chaos, denn in einigen Stadtteilen gibt es zwar Parkplätze samt Parkautomaten, oft ist jedoch unklar, wo man gegen Bezahlung parken darf und wo nicht. Und so parkten wir, zahlten brav die Parkgebühr am Automaten, und nach unserer Rückkehr wartete auf uns die Stadtpolizei mit der Parkkralle, und schon waren wir um 200 Złoty leichter, denn an dieser Stelle dürfen angeblich nur Besitzer besonderer Karten für Langzeitparken gegen Bezahlung parken. Aber wenigstens war es aufregend. Die Lust auf weitere Forschungen haben sie uns jedoch nicht verdorben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Krakov im Frühmittelalter",
+    "alt": "Krakov im Frühmittelalter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem Stadtzentrum besuchten wir natürlich auch die Burg Wawel. In den Katakomben der Kathedrale, die auf ihrem Areal steht, sind einige polnische Könige und bedeutende spätere Persönlichkeiten der polnischen Geschichte bestattet. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Besuch von Krakov hatten wir die Fahrt nach Biskupin geplant, wo die Übernachtung auf uns wartete. Unterwegs lagen jedoch mehrere slawische Burgwälle. Von ihnen besuchten wir den sehr schönen Halbinsel-Burgwall Bnin. Die in den Bnińskie-See hineinragende Halbinsel war in drei Phasen in der Urgeschichte und im Mittelalter besiedelt. An der Wende von der Bronzezeit zur älteren Eisenzeit nutzte das Volk der Lausitzer Kultur diese zur Verteidigung günstige Lage; es siedelte im südlichen Teil (der damals eine Insel vor der Küste war). Das zweite Mal, als die Lage intensiv besiedelt war, waren es die 40er Jahre des 9. Jahrhunderts, als hier eine stark befestigte frühpiastische Festung errichtet wurde. Diese wurde (mit einer Unterbrechung von 160 Jahren) bis in die Anfänge des 13. Jahrhunderts genutzt. Wie auf den Fotos von der archäologischen Ausgrabung zu sehen ist, besaß der Burgwall die typische Rostkonstruktion, und in seinem unteren Teil wurden sogenannte Haken verwendet, was ein typisches Element der polnischen Burgwälle ist. In der Mitte des 13. Jahrhunderts wurde auf der Basis eines antiken Hügelgrabes ein Wohnbau für die Kastellane errichtet. Bnin wurde in den Jahren 1386–1395 eine Stadturkunde auf der Grundlage des Magdeburger Rechts verliehen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Expedition zu den polnischen Burgwällen – Krakov und Bnin (Tag 1)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

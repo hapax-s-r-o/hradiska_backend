@@ -1,0 +1,475 @@
+{
+ "slug": "bronzovy-poklad-z-hradiska-na-strednom-povazi",
+ "data": {
+  "title": "Ein Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+  "slug": "bronzehortfund-befestigte-hoehensiedlung-mittleres-waagtal",
+  "excerpt": "Im Herbst 2021 überprüften Mitglieder des Vereins Hradiská einen LiDAR-Hinweis auf eine bisher unbekannte befestigte Höhensiedlung in der Region Trenčín. Bei der Ausgrabung mit dem Archäologen des Trenčiner Museums kam ein Hortfund von 12 Bronzeschmuckstücken der Lausitzer Kultur aus dem 12.–11. Jahrhundert v. Chr. zum Vorschein – die vollständige Schmuckausstattung einer Frauentracht. Die Autoren schildern den Fundtag und die Rettung als Musterbeispiel der Zusammenarbeit.",
+  "metaTitle": "Bronzehortfund der Lausitzer Kultur aus dem mittleren Waagtal",
+  "metaDescription": "Hortfund von 12 Bronzeschmuckstücken der Lausitzer Kultur (12.–11. Jh. v. Chr.) von einer per LiDAR entdeckten Höhensiedlung im mittleren Waagtal.",
+  "keyFacts": [
+   {
+    "label": "Hortfund",
+    "value": "12 Bronzeschmuckstücke (Schildfibel, Halsringe, Armringe, Stirnband)",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung",
+    "value": "jüngere Bronzezeit (12.–11. Jh. v. Chr.), Lausitzer Kultur",
+    "icon": "star"
+   },
+   {
+    "label": "Entdeckung",
+    "value": "Herbst 2021, neu entdeckte Höhensiedlung im Waagtal (LiDAR)",
+    "icon": "star"
+   },
+   {
+    "label": "Rettung",
+    "value": "Trenčiner Museum (J. Malec) + Verein Hradiská + Denkmalamt der SR",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "12.–11. Jh. v. Chr.",
+    "title": "Niederlegung des Hortfundes",
+    "description": "Vollständige Schmuckausstattung einer Frauentracht, Lausitzer Kultur.",
+    "type": "event"
+   },
+   {
+    "year": "Herbst 2021",
+    "title": "Entdeckung und Rettungsgrabung",
+    "description": "Der Verein Hradiská überprüfte einen LiDAR-Hinweis; der Hortfund wurde im Block geborgen und konserviert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6064,
+    "alt": "Ein Bronzearmring mit Ritzverzierung und eine Spiralscheibe im Lehm unmittelbar nach dem Auffinden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So wie die gesamte Gesellschaft geteilt ist, hat auch die Fachöffentlichkeit unterschiedliche Ansichten über den Einsatz des Metalldetektors beim Aufspüren archäologischer Funde, dem nicht selten auch das Niveau der Diskussion entspricht. Nach der tiefen Überzeugung aller Autoren dieses Artikels ist es jedoch die Pflicht aller vernünftigen Akteure im Bereich des Schutzes und der Rettung unseres gemeinsamen Kulturerbes, nach möglichen Wegen der Zusammenarbeit der verschiedenen Beteiligten zu suchen, deren Ausgangspositionen – seien wir ehrlich – einander oft widersprechen. Wir gehen also freiwillig in die Löwengrube und tragen unsere Haut zu Markte, im Glauben daran, dass wir eine auf ihre Weise pionierhafte Art der Rettung der bedrohten Vergangenheit vorstellen, die auf Vertrauen, Kompetenz und strikter Beachtung des rechtlichen und ethischen Rahmens beruht. Möge dieser Artikel ein kultivierter Beitrag zur nicht abreißenden Diskussion sein und eine Veranschaulichung dessen, was sich erreichen lässt, wenn vernünftige und rationale Menschen zusammentreffen, die dasselbe Ziel verbindet, auch wenn der richtige Weg zum Ziel stets dornig ist. Wir glauben, dass dem Verständnis unserer Botschaft auch eine gewisse Heterogenität des Textes nicht im Wege stehen wird, die wir mit Rücksicht auf den nichtakademischen Charakter der Zeitschrift gewählt haben, in der unser Artikel veröffentlicht ist.\n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Herbst 2021 machten sich einige Mitglieder des Vereins Hradiská auf, um einem Hinweis auf eine mögliche befestigte Höhensiedlung in der Region Trenčín (Trentschin) nachzugehen. Anzeichen von Wallbefestigungen waren auf dem flugzeuggestützten Laserscanning („LiDAR“) der Slowakei zu erkennen, doch war eine Anlage an dieser Fundstelle bisher nirgends publiziert worden, sodass sie annahmen, die Fundstelle könnte Potenzial für künftige Forschungen haben. Andererseits bestand jedoch die Annahme, dass sie auch durch illegale Sucher bedroht sein könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erlauben Sie uns, Ihnen den folgenden Text aus der authentischen Sicht eines der Vereinsmitglieder voranzustellen:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nachdem wir einen recht hohen, steilen Berg hinaufgeklettert waren und eine wunderbar flache Gipfelplattform mit einem Randwall gesehen hatten, jubelte unser Herz, und es war sofort klar, dass es sich wirklich um eine befestigte Höhensiedlung handelt. Das Fehlen zahlreicher Scherben deutete darauf hin, dass es wohl keine Anlage der Púchov-Kultur ist, die meist mit Keramik „übersät“ zu sein pflegt. Angesichts der Nähe slawischer Fundstellen tippten wir eher auf die Slawen und andere Zeitabschnitte. Zudem bestätigten wir unterhalb der Anlage auf der gegenüberliegenden Seite die Anzeichen aus dem LiDAR, dass sich dort weitere Wälle befinden, die an die Anlage selbst anschließen, die damit eine Art Zitadelle eines recht ausgedehnten Befestigungssystems bildet. Auf dem Gipfel der Anlage waren Gruben zu sehen, die auch aus der illegalen Tätigkeit von Detektorsuchern stammen konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Fund meldeten wir sofort dem Archäologen des Trenčiner Museums und hofften, dass es gelingen würde, möglichst bald eine Rettungsgrabung zu erwirken. In der Slowakei ist die Gesetzgebung zu archäologischen Ausgrabungen recht streng, und auch die Archäologen selbst dürfen an einer Fundstelle ohne die entsprechenden Genehmigungen, vor allem des Kreisdenkmalamtes, keine Ausgrabungen durchführen. In solchen Fällen dürfen Amateurvereine wie wir keinesfalls ohne einen lizenzierten Archäologen graben. Glücklicherweise dauerte es nicht lange, und der Archäologe Juraj Malec kontaktierte uns mit der Nachricht, dass die entsprechende Genehmigung erwirkt ist und wir zur Ausgrabung „unserer“ neuen Höhensiedlung gehen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erträumte Hortfund"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach kurzer Zeit kam also jener Novembermorgen, an dem wir voller Erwartung mit Rucksäcken auf dem Rücken und in guter Stimmung hinauf zur neuen Höhensiedlung stapften. Nach der Ankunft an der Fundstelle packten wir unser „Gerät“ aus, nahmen den Bodenabgleich vor und begannen ungeduldig, mit den Detektoren über die Fundstelle zu laufen. Nicht jedoch Peťo. Auf dem Weg zur Höhensiedlung hatte er uns erzählt, dass er in der Nacht geträumt habe, er habe einen Hortfund gefunden. Und davon, wie alle davon begeistert waren, weil er „bronzezeitlich“ war. Nur beschreiben konnte er ihn uns nicht genau. So amüsierten wir uns darüber und wünschten ihm, es möge sich auch erfüllen. Da wussten wir noch nicht, dass das Schicksal so schön mit uns spielen und der Traum Wirklichkeit werden würde. Peťo zog langsam seinen Equinox aus dem Rucksack und stellte ihn ein. Ich baute neben ihm meinen Deus zusammen und begann, über die Höhensiedlung zu streifen. Noch während ich einstellte, sagt Peťo zu mir: „Hier habe ich gleich ein Signal.“ Ich darauf: „Klar, Peťo, probiere es doch.“ Das Signal war zunächst interessant, auch wenn es keine klare Sache war. So etwas Unbestimmtes zwischen größerem Eisen und Buntmetall, was sich oft als „Schrott“ erweist, zugleich aber ein Signal, das man nicht einfach liegen lassen kann und das man schlicht ausgraben muss. Eine ID um 20 und ein recht schönes Signal. Auch wenn es das erste Signal ist – und die gehen nur selten auf. Wir übrigen entfernten uns allmählich vom Ausgangspunkt und damit auch von Peťo, der dort sein Signal ausgrub, und bei uns tauchten allmählich die ersten interessanten Kleinigkeiten auf. Bronzegusskuchen, ein kleiner Bronzebarren und eine Nadel in Form eines Bischofsstabes, die darauf hindeuteten, dass es hier wohl nicht nur um die Slawen geht, auf die wir getippt hatten, sondern dass sich uns hier auch die späte Bronzezeit abzeichnet. Und Peťo immer noch an seiner Anfangsstelle, auf den Knien, legte langsam die oberen Erdschichten frei, wobei der Pinpointer noch nicht den Hauch eines Signals meldete. Doch je tiefer er kam, desto deutlicher meldete ihm die Spule des Equinox, dass es wohl nicht nach dem großen Eisen aussieht, sondern nach tief liegendem Buntmetall. Inzwischen war ich außer Sichtweite von Peťo gekommen und erfasste zuerst eine typische slawische Pfeilspitze mit Tülle und zwei großen Flügeln und dann ein tiefes Eisensignal, das ich zu graben begann. Ich ging immer tiefer, bis ich auf massive beidseitige spitze „Fortsätze“ stieß, so typisch für slawische Bartäxte oder Hacken. Ich freute mich riesig, dass ich vielleicht auf eine Bartaxt gestoßen war, und schrie vor Begeisterung auf. Nach ein paar Sekunden hörte ich jedoch einen anderen Begeisterungsschrei. Er kam aus der Richtung, in der Peťo grub. Gleich darauf erklangen auch weitere Schreie der anderen, die um ihn herum waren. Ich ließ also meine vermeintliche Bartaxt liegen und lief hin, um zu sehen, was dieser Peťo dort hat. Um ihn stand schon ein Häufchen Kumpel und debattierte aufgeregt. Was haben wir da, Jungs? Etwa irgendein Grünzeug? Ich trat an eine schon recht große, etwa 45 cm tiefe Grube, und mir war sofort klar, dass dies für uns ein historisches Ereignis ist. Am Boden der Grube ragten offensichtlich zwei tordierte bronzene Halsringe heraus, und in ihrer Mitte begann sich eine typische Spiralzierde der späten Bronzezeit abzuzeichnen. Ein klarer bronzezeitlicher Hortfund! Infarktzustände! Der Archäologe völlig außer sich, wir noch mehr. Den Hortfund legten dann Peťo und der Archäologe gemeinsam frei. Sie taten es sehr geduldig und langsam. Natürlich wurde ein recht großer Schnitt angelegt und schichtweise vorgegangen. Allmählich erschienen vor uns verzierte bronzene Armringe, weitere Halsringe mehrerer Typen, eine brillenförmige Spiralfibel, eine große, wunderschön verzierte Schildfibel und weitere Stücke. Da offensichtlich war, dass es sich um einen großen Schmuckhortfund der späten Bronzezeit handelt, entschied der Archäologe schließlich, dass es am geeignetsten sei, den ganzen Hortfund in einem großen Block zu entnehmen und diesen mitzunehmen. Seine vollständige Freilegung erfolgte anschließend im Labor, wo dem Fachauge auch etwaige organische Reste nicht entgehen. Der gesamte Prozess der Rettung des Schatzes dauerte praktisch bis zum Abend, an dessen Ende wir einen großen und schweren Erdblock hatten, in dem sich unser Hortfund verbarg. Der stolze Finder trug ihn dann verpackt und im Schein des Mondes bis zu den Autos. Nach der Heimkehr konnten wir alle noch lange nicht einschlafen. Und meine „Bartaxt“? Letztlich entpuppte sie sich „nur“ als eine schöne großmährische Hacke, und in ihrer Umgebung fanden sich noch ein paar weitere Pfeilspitzen und ein schönes Silberstück. Alle diese Funde zogen jedoch ehrfürchtig ihren Hut vor dem größten Knaller des Tages und auch des Jahres – Peťos Schatz an Frauenschmuck der späteren Bronzezeit, der ursprünglich wohl einer bedeutenden Lausitzer Adligen gehörte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein urgeschichtlicher Schatz aus dem mittleren Waagtal (Hortfund von Bronzegegenständen aus einer befestigten Höhensiedlung der Lausitzer Kultur)",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der fachgerechten Reinigung wurde festgestellt, dass der Bronzehortfund die vollständige Schmuckausstattung einer Frauentracht enthielt. Unter den 12 gewonnenen Gegenständen dominierte eine wunderschön verzierte massive Schildfibel, in die weitere Schmuckstücke eingehängt waren, und zwar 2 tordierte Halsringe, 2 Armringe und ein mehrteiliges Stirnband. Der Hortfund enthielt außerdem zwei Schläfenringe, einen brillenförmigen Anhänger, einen großen Zierbuckel, einen kleinen Zierbuckel und einen weiteren Halsring. Die Funde können wir mit Sicherheit in die jüngere Bronzezeit bzw. in das 12.–11. Jahrhundert v. Chr. datieren und den Trägern der Lausitzer Kultur zuschreiben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fund des Bronzehortes und die Art seiner Gewinnung in Form einer archäologischen Ausgrabung im Rahmen präventiver Maßnahmen zur Sicherung des Schutzes und der Rettung archäologischer Funde ist eine einzigartige Kombination der Nutzung einer Gelegenheit, unser gemeinsames Kulturerbe tatsächlich zu schützen. Der Fund konnte dank der präventiven, auf die Rettung archäologischer Funde ausgerichteten Aktivitäten des Trenčiner Museums in Trenčín in Zusammenarbeit mit Freiwilligen des Vereins Hradiská und in Koordination mit dem Denkmalamt der Slowakischen Republik entdeckt werden. Die Bedeutung des Fundes liegt dabei nicht nur in seinem fachlichen Wert als materielles Dokument der urgeschichtlichen Besiedlung des Waagtals. Im Gegenteil, die gesamte Genese der Rettung, die außergewöhnliche Zusammenarbeit, die Konservierung und die Präsentation des Fundes sind ein solches Beispiel einer Success Story, das in der slowakischen Archäologie in letzter Zeit ohne Parallele ist. Wir meinen, dass die Geschichte der Rettung des urgeschichtlichen Schatzes aus den Karpaten dank der Bereitschaft und des Engagements aller Beteiligten als ausgezeichnetes Beispiel dafür dienen kann, wie sich die Dinge machen lassen, wenn wir alle an einem Strang ziehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Rettung des Fundes ist damit ein Musterbeispiel für die wirksame Zusammenarbeit von Akteuren aus verschiedenen Sphären des Kulturerbes, die jedoch dasselbe Ziel verbindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Überregionale Bedeutung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hortfund aus dem mittleren Waagtal ist nicht nur eine zufällige Ansammlung von Bronzegegenständen, sondern ein geschlossener Fundkomplex, der fachgerecht geborgen wurde; der gesamte Vorgang wurde ordnungsgemäß dokumentiert und wird daher eine Quelle vieler neuer Informationen sein. Dem Hortfund wurde dank der Fachlichkeit des Vorgehens eine Art „Geburtsurkunde“ ausgestellt. Im Unterschied zur überwiegenden Mehrheit anderer Bronzehortfunde, die entweder aus illegalen Grabungen stammen oder ohne die Anwesenheit eines Archäologen gefunden wurden, nicht selten noch im 19. Jahrhundert, wurden im Fall des Hortfundes aus dem mittleren Waagtal die Fundumstände fachgerecht dokumentiert, was sicher einen positiven Einfluss auf den Grad der Gewissheit seiner chronologischen Einordnung, seiner Einbettung in den Kontext der Besiedlung des Waagtals in der Bronzezeit und damit auch seiner endgültigen Interpretation haben wird. Diese Aspekte machen ihn zu einem Hortfund von außerordentlichem fachlichem Wert, dessen Bedeutung nach ordentlicher fachlicher Bearbeitung und Publikation die regionalen Grenzen des Waagtals bzw. der Nordwestslowakei überschreiten wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zusammenarbeit der relevanten Akteure"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fund ist das Ergebnis einer Symbiose und eines außergewöhnlichen Einvernehmens zwischen Staat, Selbstverwaltung und dem dritten Sektor. Die öffentliche Sphäre vertreten zwei Institutionen, die den Schutz des Kulturerbes sozusagen in ihrer Arbeitsbeschreibung haben. Den Staat vertritt das Denkmalamt der Slowakischen Republik (bzw. das Kreisdenkmalamt Trenčín), mit dem das gesamte Projekt laufend abgestimmt wurde und ohne dessen Zustimmung die Rettung des Fundes nicht möglich gewesen wäre. Aus fachlicher Sicht übernahm die Rettung des Hortfundes das Trenčiner Museum in Trenčín, das dank seines Archäologen, Mgr. Juraj Malec, PhD., seine Feldaktivitäten bedeutend auch über seine traditionelle Region hinaus ausgeweitet hat. Allein hätte sich der Archäologe auf dem weitläufigen Fundplatz jedoch kaum helfen können. Seine personellen Kapazitäten stellte daher traditionell und bereitwillig der Verein Hradiská zur Verfügung. Dank der Hilfe der Vereinsmitglieder im Gelände, die die Anweisungen des Museumsarchäologen beachteten, wurde der Fund nicht nur entdeckt, sondern auch fachgerecht mit den Methoden der archäologischen Ausgrabung als präventive Maßnahme im Rahmen der Sicherung des Schutzes und der Rettung archäologischer Funde geborgen und so für die kommenden Generationen gerettet. Die Zusammenarbeit und die gegenseitige Koordination der Schritte haben damit den Charakter einer unkonventionellen, umso mehr jedoch wünschenswerten Lösung der aktuellen ungünstigen Situation beim Schutz des archäologischen Kulturerbes, die in dieser Sache paradoxerweise mit der Veröffentlichung von Daten (LiDAR) für die Allgemeinheit zusammenhängt. Der Fund selbst ist dabei das Ergebnis nur einer von mehreren Feldaktivitäten, deren Ziel die Rettung des bedrohten archäologischen Erbes im Waagtal ist. Diese Aktivitäten führt das Trenčiner Museum in Trenčín in Zusammenarbeit mit Freiwilligen über den Rahmen seiner grundlegenden fachlichen Tätigkeiten hinaus durch, nicht selten außerhalb der üblichen Arbeitszeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unverzügliche Reaktion auf eine mögliche Bedrohung der Fundstelle als Paradigmenwechsel bei der Rettung bedrohter Teile des archäologischen Kulturerbes",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die unmittelbare Aktion wurde dank des aufmerksamen Auges eines Fachmanns ausgelöst, der auf den neu zugänglich gemachten LiDAR-Aufnahmen aus dem Waagtal die Existenz einer bisher unbekannten, in recht exponierter Lage befindlichen befestigten Höhensiedlung erfasste. Mehrere Gruben im Bereich der Anlage deuteten darauf hin, dass die Lage Gegenstand des Interesses illegaler Sucher sein könnte. Das Trenčiner Museum in Trenčín ging die Feldaktivitäten daher vor allem unter dem Gesichtspunkt der Notwendigkeit einer unverzüglichen Reaktion auf die mögliche Bedrohung dieser Fundstelle an. Zugleich war es jedoch nötig, ein Vorgehen zu wählen, das mit dem Gesetz und den internationalen Verpflichtungen der Slowakischen Republik im Einklang steht. Dank des Entgegenkommens der staatlichen Behörde und der Bereitschaft der Freiwilligen gelang es sehr schnell, eine Lösung zu finden, die sowohl die hohen fachlichen Anforderungen als auch die Rechtmäßigkeit des Vorgehens erfüllt, wobei die Rettung des Fundes in strikter Übereinstimmung mit dem Denkmalschutzgesetz erfolgte. Das genannte Vorgehen ist damit gleichzeitig ein Beitrag des Trenčiner Museums in Trenčín zur Diskussion über die Philosophie des Zugangs zum Schutz des archäologischen Kulturerbes bzw. zur Rettung seiner bedrohten Teile."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Rettung, Konservierung, Präsentation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fund wurde nicht nur fachgerecht geborgen, sondern erhielt in kurzer Zeit auch die gebührende fachliche Aufmerksamkeit in Form einer Konservierung. Die Konservierung erfolgte in Zusammenarbeit mit Spezialisten der Masaryk-Universität in Brno (Brünn) und der Comenius-Universität in Bratislava (Pressburg); den Kollegen beider Institutionen gilt unser Dank für ihr Engagement und ihre Hilfe. Die Konservierung begann noch in den Räumen des Trenčiner Museums in Trenčín, wo der Fund, der hierher in einem Lehmblock gebracht worden war, allmählich und sehr schonend präpariert wurde, nahezu unter Laborbedingungen. Natürlich wurde (und wird laufend) der gesamte Prozess – mit starker Betonung des interdisziplinären Zugangs – ordnungsgemäß dokumentiert. Nach Abschluss der Konservierung werden die Gegenstände auf der Grundlage der Zusammenarbeit mit dem Denkmalamt der Slowakischen Republik im Trenčiner Museum in Trenčín präsentiert. Der Hortfund wird sowohl in Fachzeitschriften als auch in populärwissenschaftlicher Literatur publiziert. Angesichts des außergewöhnlichen Interesses der Öffentlichkeit rechnen wir auch mit einer speziellen kuratorischen Führung. Die informelle Bildung der Öffentlichkeit halten wir für einen besonders nutzbringenden Aspekt unserer Arbeit, der sich – wie wir hoffen – mit der Zeit in einem gesteigerten Interesse an Fragen des Schutzes archäologischer Denkmäler und Funde niederschlagen wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzehortfund von einer befestigten Höhensiedlung im mittleren Waagtal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Medial attraktive Präsentation des öffentlichen Interesses"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die gesamte Genese der Rettung des Hortfundes kann als Musterbeispiel dafür dienen, welche Werkzeuge im Kampf gegen illegale Raubgräberaktivitäten eingesetzt werden können. Neben der strengen gesetzlichen Regelung, die alle Akteure für eine prinzipiell richtige Ausgestaltung des rechtlichen Rahmens halten, und anderen repressiven Werkzeugen ist es nötig, auch über „weiche“ Werkzeuge in Form von Bildung, Aufklärung und Medienarbeit zu verfügen. Besonders der Laienöffentlichkeit muss man zeigen, dass das archäologische Kulturerbe tatsächlich jeden Tag bedroht ist. Auf der medialen Ebene wurde daher wiederholt das öffentliche Interesse am Schutz des archäologischen Kulturerbes dargestellt. Mit Rücksicht auf das Publikum, das in diesem Fall die Laienöffentlichkeit ist, wurde als Bezugspunkt der diametrale Unterschied gewählt zwischen dem Fall, dass ein bedeutender Fund fachgerecht geborgen, dokumentiert, behandelt und in einer öffentlich zugänglichen Museumssammlung präsentiert wird, und dem Fall, dass er ohne auch nur grundlegende Dokumentation von einer urgeschichtlichen Fundstelle gestohlen wird und anschließend in privaten Sammlungen verschwindet, im schlimmeren Fall auch im Ausland. Diese Aktivitäten wird das Trenčiner Museum in Trenčín auch später fortsetzen, in der Zeit nach der fachlichen Konservierung des Fundes, und wir werden jedem bereitwillig unsere Mitwirkung gewähren, der sich an der Präsentation einer solchen Good Practice beteiligen möchte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tomáš Michalík – Juraj Malec – Peter Jenčík \n"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

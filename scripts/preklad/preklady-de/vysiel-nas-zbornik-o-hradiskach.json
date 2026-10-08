@@ -1,0 +1,83 @@
+{
+ "slug": "vysiel-nas-zbornik-o-hradiskach",
+ "data": {
+  "title": "Unser Sammelband über die Burgwälle ist erschienen!!!",
+  "slug": "unser-sammelband-ueber-die-burgwaelle-ist-erschienen",
+  "excerpt": "Der Sammelband Hradiská – Svedkovia dávnych čias (Burgwälle – Zeugen längst vergangener Zeiten) ist Ende Dezember in einer Auflage von 500 Stück erschienen, und es sind nur noch etwa 250 Stück übrig. Die Artikel stammen von renommierten Archäologen, und das Werk hat außerdem zwei Rezensenten, was sein wissenschaftliches Niveau erhöht. Bestellt werden kann es per E-Mail zum Preis von 15 Euro.",
+  "metaTitle": "Sammelband Hradiská – Svedkovia dávnych čias erschienen",
+  "metaDescription": "Der Sammelband Hradiská – Svedkovia dávnych čias erschien in einer Auflage von 500 Stück. Die Artikel schrieben renommierte Archäologen, dazu zwei Rezensenten.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Sammelband „Hradiská – Svedkovia dávnych čias“ (Burgwälle – Zeugen längst vergangener Zeiten) ist auf der Welt. Er ist Ende Dezember in einer Auflage von 500 Stück erschienen, und wir haben davon bereits nur noch etwa 250 Stück. Wie dem beigefügten Inhaltsverzeichnis zu entnehmen ist, sind die Autoren der Artikel renommierte Archäologen, wobei der Sammelband auch 2 Rezensenten hat, was sein wissenschaftliches Niveau erhöht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer an diesem Werk Interesse hat, soll nicht zögern und es möglichst bald unter folgender Adresse bestellen: "
+       },
+       {
+        "type": "text",
+        "text": "zbornik.hradiska@gmail.com",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Sein Preis beträgt "
+       },
+       {
+        "type": "text",
+        "text": "15 Euro",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Mit dem Kauf des Sammelbandes unterstützen Sie uns bei unserer weiteren Tätigkeit in der Zukunft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.academia.edu/35501046/Hradisk%C3%A1_-_Svedkovia_d%C3%A1vnych_%C4%8Dias_-_full",
+        "children": [
+         {
+          "type": "text",
+          "text": "SMB"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

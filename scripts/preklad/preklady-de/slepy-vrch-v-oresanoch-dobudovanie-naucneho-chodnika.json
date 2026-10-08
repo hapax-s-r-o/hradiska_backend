@@ -1,0 +1,77 @@
+{
+ "slug": "slepy-vrch-v-oresanoch-dobudovanie-naucneho-chodnika",
+ "data": {
+  "title": "Slepý vrch bei Dolné Orešany – Fertigstellung des Lehrpfads",
+  "slug": "slepy-vrch-oresany-fertigstellung-des-lehrpfads",
+  "excerpt": "Am 24. 7. 2016 hat Lukáš Ilavský, Mitglied unseres Bürgervereins Hradiská, in Zusammenarbeit mit Matúš Sládok vom Kreisdenkmalamt Trnava und weiteren Freiwilligen in Dolné Orešany den Lehrpfad zur keltischen befestigten Höhensiedlung Slepý vrch fertiggestellt. Wegweiser führen die Besucher nun vom Ortszentrum direkt zur 2500 Jahre alten Höhensiedlung; die Hälfte der hölzernen Tafeln stammt von unserem Mitglied Patrik Pohanka.",
+  "metaTitle": "Slepý vrch – Fertigstellung des Lehrpfads in Orešany",
+  "metaDescription": "Der Verein Hradiská stellte 2016 den Lehrpfad mit Wegweisern fertig, der von Dolné Orešany zur 2500 Jahre alten keltischen Höhensiedlung Slepý vrch führt.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Fertigstellung des Lehrpfads zur keltischen Höhensiedlung Slepý vrch",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "24. 7. 2016 (L. Ilavský, Kreisdenkmalamt Trnava)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2016",
+    "title": "Lehrpfad Slepý vrch",
+    "description": "Wegweiser und hölzerne Tafeln (P. Pohanka, L. Ilavský).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 24. 7. 2016 hat Lukáš Ilavský, Mitglied unseres Bürgervereins Hradiská, in Zusammenarbeit mit Matúš Sládok (Kreisdenkmalamt Trnava) und weiteren Freiwilligen in der Gemeinde Dolné Orešany den Lehrpfad zur keltischen befestigten Höhensiedlung Slepý vrch fertiggestellt. Auf der Strecke des Pfades brachten sie Wegweiser an, die Interessierte vom Ortszentrum direkt zur Höhensiedlung führen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Autor der Hälfte der schönen hölzernen Tafeln ist unser Mitglied Patrik Pohanka. Den zweiten Teil schuf Lukáš Ilavský nach seiner Vorlage. Wir glauben, dass nun jeder Wanderer die 2500 Jahre alte keltische Höhensiedlung Slepý vrch ohne Probleme findet.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Autor der Fotografien: Matúš Sládok"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "velkomoravsky-kovac-z-vrsatca",
+ "data": {
+  "title": "Ein großmährischer Schmied aus Vršatec – Zeichnung von Tomáš Humaj",
+  "slug": "grossmaehrischer-schmied-aus-vrsatec-zeichnung",
+  "excerpt": "Der Fund einer Schmiedewerkstatt aus der Zeit Großmährens, die in Vršatec in der Nähe der Burg entdeckt wurde, hat den Autor immer fasziniert. Tomáš Humaj hat diesen Schmied für uns bei der Arbeit gezeichnet – so, dass seine Kleidung und die Gegenstände in der Werkstatt den großmährischen Funden aus dem Gebiet der heutigen Slowakei möglichst genau entsprechen.",
+  "metaTitle": "Großmährischer Schmied aus Vršatec – Zeichnung",
+  "metaDescription": "Zeichnung eines großmährischen Schmieds bei der Arbeit von Tomáš Humaj, angeregt vom Fund einer Schmiedewerkstatt aus der Zeit Großmährens bei Vršatec.",
+  "keyFacts": [
+   {
+    "label": "Autor der Zeichnung",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "Fund",
+    "value": "Schmiedewerkstatt aus der Zeit Großmährens in Vršatec",
+    "icon": "map"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6321,
+    "alt": "Zeichnung eines Schmieds in der Werkstatt mit einem Hammer am Ofen, ringsum Waffen und Werkzeuge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fund "
+       },
+       {
+        "type": "link",
+        "url": "/blog/vrsatecky-kovac-z-cias-velkej-moravy",
+        "children": [
+         {
+          "type": "text",
+          "text": "einer Schmiedewerkstatt aus der Zeit Großmährens"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", die in Vršatec in der Nähe der Burg entdeckt wurde, hat mich immer fasziniert. Deshalb hat es mich ungemein gefreut, als sich Tomáš Humaj daranmachte, diesen Schmied bei der Arbeit für uns zu zeichnen. Hier ist das Ergebnis."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tomáš hat sich bemüht, ihn so zu zeichnen, dass das Bild (die Kleidung des Schmieds und die Gegenstände in der Werkstatt) den großmährischen Funden aus dem Gebiet der heutigen Slowakei möglichst genau entspricht. Dem Autor danken wir für diese großartige Zeichnung."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

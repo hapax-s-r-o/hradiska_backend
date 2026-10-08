@@ -1,0 +1,419 @@
+{
+ "slug": "ohlasit-archeologicky-nalez-sa-oplati-patri-vam-nalezne",
+ "data": {
+  "title": "Einen archäologischen Fund zu melden lohnt sich! Ihnen steht der Finderlohn zu.",
+  "slug": "archaeologischen-fund-melden-finderlohn",
+  "excerpt": "Jeder archäologische Fund ist als Teil des Kulturerbes Eigentum der Slowakischen Republik. Wer einen Zufallsfund ordnungsgemäß meldet, hat jedoch Anspruch auf einen Finderlohn von bis zu 100 % des Fundwertes – wer ihn verschweigt, riskiert eine Geldbuße oder eine Freiheitsstrafe. Der Text erklärt, was ein archäologischer Fund ist, wie und wem er zu melden ist und wann der Anspruch auf den Finderlohn entsteht.",
+  "metaTitle": "Archäologischen Fund melden – Ihnen steht Finderlohn zu",
+  "metaDescription": "Archäologische Funde sind Eigentum der Slowakei, für die ordnungsgemäße Meldung steht dem Finder jedoch ein Finderlohn von bis zu 100 % des Fundwertes zu.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5059,
+    "caption": "Der Hausbesitzer in Kostolné Kračany (Bezirk Dunajská Streda) fand 2016 auf seinem Grundstück beim Ausheben einer Grube für ein Schwimmbecken ganze 312 Silbermünzen. Ihm steht eine Belohnung von bis zu 100 Prozent ihres Wertes zu. Da es sich um gut erhaltene Münzen handelt und der ganze Schatz über 4,5 kg wiegt, kann die Endsumme sehr interessant sein! (Foto: P. Grznár)",
+    "alt": "Der Hausbesitzer in Kostolné Kračany (Bezirk Dunajská Streda) fand 2016 auf seinem Grundstück beim Ausheben einer Grube für ein Schwimmbecken ganze 312 Silbermünzen. Ihm steht eine Belohnung von bis zu 100 Prozent ihres Wertes zu. Da es sich um gut erhalt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jeder archäologische Fund ist als Teil des Kulturerbes Eigentum der Slowakischen Republik. Das staatliche Eigentum an archäologischen Funden gilt in den meisten Staaten der Welt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nicht nur Archäologen, sondern auch „gewöhnliche“ Bürger finden bei Bau- und landwirtschaftlichen Arbeiten oder bei einem Ausflug in die Natur zufällig „Scherben“ unserer Vorfahren. Leider werden viele Funde absichtlich verschwiegen, wodurch sich der Finder – neben der Verarmung des Kulturerbes und der Begehung einer Übertretung (Geldbuße bis 400.000 €) oder einer Straftat (bis zu 10 Jahren Haft) – auch um den Anspruch auf den Finderlohn bringt, der im Grunde eine Belohnung für Ehrlichkeit und richtiges Vorgehen ist. Ein Zufallsfund kann selbstverständlich nicht durch gezieltes Suchen mit dem Metalldetektor gemacht werden. \n \n Einen Finderlohn von bis zu 100 % des Fundwertes gewährt das Denkmalamt seit dem 1. 6. 2009. Bis dahin gab es einen Finderlohn von 100 % nur bei Funden aus Edelmetallen oder aus anderen wertvollen Materialien, in den übrigen Fällen betrug der Finderlohn eine Summe, die 20 % des Fundwertes entsprach. Interessehalber: in Tschechien beträgt der Finderlohn max. 10 % (max. 100 % des Materialwertes bei Edelmetallen), in Italien max. 25 %, in Rumänien max. 45 % und in Spanien 50 % des Fundwertes. Einen Finderlohn von mehr als 100 % gibt es in Norwegen, Schweden und Finnland. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was ist ein archäologischer Fund? ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Der Hausbesitzer in Kostolné Kračany (Bezirk Dunajská Streda) fand 2016 auf seinem Grundstück beim Ausheben einer Grube für ein Schwimmbecken ganze 312 Silbermünzen. Ihm steht eine Belohnung von bis zu 100 Prozent ihres Wertes zu. Da es sich um gut erhaltene Münzen handelt und der ganze Schatz über 4,5 kg wiegt, kann die Endsumme sehr interessant sein! (Foto: P. Grznár)",
+    "alt": "Der Hausbesitzer in Kostolné Kračany (Bezirk Dunajská Streda) fand 2016 auf seinem Grundstück beim Ausheben einer Grube für ein Schwimmbecken ganze 312 Silbermünzen. Ihm steht eine Belohnung von bis zu 100 Prozent ihres Wertes zu. Da es sich um gut erhalt"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jeder Staat hat seine eigene Definition des Fundes. Die slowakische gesetzliche Definition lautet folgendermaßen: „Ein archäologischer Fund ist eine bewegliche Sache, die ein Zeugnis über das Leben des Menschen und über seine Tätigkeit von den ältesten Zeiten bis zum Jahr 1918 ist und in der Regel in der Erde, auf ihrer Oberfläche oder unter Wasser gefunden wurde oder sich dort befindet. Ein archäologischer Fund ist auch eine Waffe, Munition, Schießbedarf, ein Uniformteil, militärische Ausrüstung oder sonstiges militärisches Material, das in der Erde, auf ihrer Oberfläche oder unter Wasser gefunden wurde und aus der Zeit vor dem Jahr 1946 stammt.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Fund ist also ein weggeworfenes, verlorenes, verlassenes oder verborgenes Artefakt, das (vor allem) vor dem Jahr 1919 in die Erde gelangte, bei militärischen Artefakten vor dem Jahr 1946. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde sind auch menschliche Skelettreste außerhalb funktionierender Friedhöfe. Immer noch kommt es vor, dass zu Skelettresten nur die Polizei gerufen wird, die, auch wenn sie an Ort und Stelle feststellt, dass die Reste vor dem Jahr 1919 bzw. 1946 in die Erde gelangten, dies dem KPÚ nicht meldet. Die Polizei kennt die archäologischen Methoden der Dokumentation und Untersuchung des Fundortes nicht, und so verlieren wir unnötig wichtige Informationen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie und wem ist ein archäologischer Fund zu melden? ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen Zufallsfund müssen Sie spätestens am zweiten Arbeitstag unmittelbar oder über die Gemeinde dem zuständigen KPÚ melden. Die Meldung des Fundes über die Gemeinde empfehle ich nicht, da viele Gemeinden nicht wissen, wie nach der Meldung des Fundes richtig weiter zu verfahren ist. Ideal ist es, das zuständige KPÚ per E-Mail (Kontakte) und gleichzeitig telefonisch (Kontakte) zu kontaktieren. Die Kreisarchäologen verbringen viel Zeit außerhalb des Büros; wenn Sie sie also nicht erreichen, rufen Sie die Poststelle (Kontakte) an, die Ihnen deren Mobiltelefonnummer gibt oder Sie zurückruft, sobald es möglich ist. Außerdem müssen Sie den Fund unverändert lassen, bis er vom Kreisdenkmalamt (KPÚ) oder einer von ihm beauftragten Person (einem Archäologen mit der Berechtigung, archäologische Ausgrabungen durchzuführen) in Augenschein genommen wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es kann Ihnen passieren, dass Sie Funde (im Grunde Keramikscherben) an einer dem Archäologen bekannten Fundstelle finden und der Archäologe Ihnen nach der Meldung sagt, es gebe keinen Grund, sie aufzunehmen. Solange die Fundstelle nicht von Zerstörung bedroht ist (z. B. durch Bautätigkeit) oder Sie die Funde nicht in einem gestörten archäologischen Befund gefunden haben, besteht aus fachlicher Sicht ohne ordentliche Ausgrabung kein Grund, alle Scherben von der Oberfläche der Fundstelle einzusammeln, denn diese gelangen (z. B. durch das Pflügen) jedes Jahr an die Oberfläche. Die Plünderer von Fundstellen interessieren Keramikscherben meist nicht, da sie bis auf Ausnahmen nicht zu Geld zu machen sind. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde von Waffen, Munition und Schießbedarf aus den Weltkriegen müssen, auch wenn sie archäologische Funde sind, der Polizei gemeldet werden. Diese teilt dann dem KPÚ und dem PÚ Ort, Art und Kaliber eines solchen Fundes mit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wann entsteht der Anspruch auf den Finderlohn? ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach Erfüllung der genannten Bedingungen (Zufälligkeit des Fundes, seine Meldung innerhalb der festgelegten Frist und das Belassen an der Fundstelle) haben Sie Anspruch auf den Finderlohn, der Ihnen – wenn Sie ihn beantragen – nach der Erstellung des Berichts über den zufälligen archäologischen Fund und eines Sachverständigengutachtens ausgezahlt wird. Wenn Sie das richtige Vorgehen nicht kannten und die Meldefrist nicht eingehalten oder den Fund nicht an der Fundstelle belassen haben, melden Sie ihn trotzdem ohne Zögern (auch nach Jahren). Für einen solchen geringfügigen Gesetzesverstoß wurde noch niemand bestraft, und es liegt auch nicht im öffentlichen Interesse. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist auch zu betonen, dass die meisten Funde einen sehr geringen Wert haben (z. B. die meisten Scherben und Münzen). So haben etwa die Silbermünzen aus dem in Bratislava (Pressburg) – Devínska Nová Ves gefundenen Schatz einen durchschnittlichen Wert von etwa 3 € pro Stück. Den großen Wert dieses Schatzes (30.000 €) ergab die sehr große Zahl der Münzen (10.268). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum ist es nötig, den archäologischen Fund an der Fundstelle zu belassen? ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das ist wichtig, um die Fundumstände zu überprüfen, den Fundort zu dokumentieren und gegebenenfalls den Fund nachzuuntersuchen. Zum Beispiel wurden nach der Übergabe von 1732 Münzen aus dem Schatz in Šurany an der Fundstelle nachträglich noch 24 Münzen aufgespürt, und in Kostolné Kračany fanden sich nach der Übergabe von 312 Münzen und einigen Scherben des Gefäßes, in dem der Schatz niedergelegt war, an der Fundstelle und in der Erde aus dem Aushub des Fundortes noch 18 weitere Münzen und weitere Scherben des Gefäßes. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie befürchten, dass der Fund bis zur Ankunft des Archäologen beschädigt, zerstört oder entwendet werden könnte, informieren Sie ihn darüber und machen Sie eine Foto- oder Videodokumentation des Fundes an der Fundstelle, zusammen mit nachträglich identifizierbaren Punkten in der Umgebung (z. B. Haus, Baum, Fels). Wenn es nötig ist, bewachen Sie den Fund bis zur Ankunft des Archäologen. Der Finder hat Anspruch auf Erstattung der Ausgaben, die mit der Meldung und dem Schutz (der Bewachung) des Fundes verbunden sind. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was geschieht, wenn Sie einen archäologischen Fund einem Museum / einem archäologischen Institut melden oder übergeben? ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da die Denkmalämter in der Slowakei erst seit dem Jahr 2002 bestehen, übergeben viele Menschen ihre Funde noch immer intuitiv den Museen und dem Archäologischen Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV); diese dürfen jedoch keinen Finderlohn auszahlen, haben keine Kompetenz, einen Fund auf einer Baustelle zu untersuchen, wenn der Grundstückseigentümer oder der Bauherr es nicht wünscht, und in vielen Museen arbeitet kein Archäologe bzw. kein Archäologe mit der Berechtigung, archäologische Ausgrabungen durchzuführen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Museen und das Archäologische Institut der SAV sind verpflichtet, nach der Meldung oder der Annahme eines Zufallsfundes das zuständige KPÚ zu informieren, meist tun sie es jedoch nicht; dadurch erfährt das KPÚ z. B. nichts von einer neuen archäologischen Fundstelle, der es bei einer Bedrohung durch Bautätigkeit erhöhte Aufmerksamkeit widmen würde (es würde dort z. B. eine archäologische Rettungsgrabung anordnen). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die meisten Funde, die nach der Meldung in das Denkmalamt gelangen, werden nach einiger Zeit an Museen übertragen; das KPÚ/PÚ ist also nur eine „verwaltungstechnische“ Zwischenstation vor der endgültigen Hinterlegung bzw. Ausstellung des Artefakts im Museum. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Meldung der Verheimlichung eines archäologischen Fundes ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie von der absichtlichen Verheimlichung eines Fundes wissen, den der Finder nicht abgeben will, oder von der Zerstörung eines Fundes, dann melden Sie es bitte dem Denkmalamt, der Staatsanwaltschaft oder der Polizei, am besten zwei dieser Behörden gleichzeitig, damit die Kontrolle über die Prüfung Ihres Hinweises gewährleistet ist. Nachträglich lässt sich der Fund oder zumindest ein Teil davon vielleicht noch retten oder es lassen sich Informationen gewinnen, die beim Schutz des archäologischen Erbes helfen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Brauchen Sie einen Rat oder möchten Sie etwas fragen? Schreiben Sie uns (info@kpt.sk oder orgon333@gmail.com )."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Auswahl von Funden, für die ein Finderlohn ausgezahlt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fundjahr",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Gemeinde",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Fund",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Finderlohn in €",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "     2009   Šurany   Schatz von 1756 Kupfermünzen aus den Jahren 1704 -1707, wohl in einem Keramikgefäß   6928     2010   Lúčnica nad Žitavou   steinerne neolithische Axt, Ofen aus dem Mittelalter, Fundkomplex aus dem 18. -19. Jahrhundert   252     2011   Bratislava   Schatz von 10268 Silbermünzen aus dem 15. – 17. Jahrhundert in einem Keramikgefäß   30.000     2012   Levice   gläsernes Apothekengefäß mit einer Gold- und einer Silbermünze, einer Urkunde und einem Kalender aus der 2. Hälfte des 19. Jahrhunderts   740     2013   Kaloša   Depotfund von 2 Bronzeschwertern und 5 Fragmenten von Bronzeschwertern   3450     2014   Banská Štiavnica (Schemnitz)   bronzenes Bergbauwerkzeug aus etwa dem 15. Jahrhundert   65     2015   Pukanec   Schatz von 519 Silbermünzen aus den Jahren 1430 –1437   500     2015   Sabinov   Säbel aus dem Jahr 1765   800    "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

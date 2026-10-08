@@ -1,0 +1,174 @@
+{
+ "slug": "surany-v-16-storoci-3d",
+ "data": {
+  "title": "Šurany im 16. Jahrhundert in 3D",
+  "slug": "surany-im-16-jahrhundert-3d-rekonstruktion",
+  "excerpt": "Erstmals werden Šurany in einer Urkunde des ungarischen Herrschers Béla II. vom 3. September 1138 als „villa Suran“ erwähnt. Bereits in der zweiten Hälfte des 14. Jahrhunderts bestand hier die Burg von Šurany, zu der 12 Dörfer und Siedlungen gehörten. Zur Nacht der Museen 2017 haben Dwarf digital archeology und hradiska.sk mit dem Stadtmuseum Šurany eine 3D-Visualisierung der Stadt und der angrenzenden Burg in ihrer Blütezeit im 16. Jahrhundert geschaffen.",
+  "metaTitle": "Šurany im 16. Jahrhundert – 3D-Rekonstruktion",
+  "metaDescription": "3D-Rekonstruktion von Šurany und seiner Burg im 16. Jahrhundert; der Ort wird erstmals im Jahr 1138 als „villa Suran“ in einer Urkunde erwähnt.",
+  "keyFacts": [
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "3. September 1138 (Urkunde Bélas II., „villa Suran“)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Dargestellte Zeit",
+    "value": "16. Jahrhundert, Zeit der Blüte der Stadt und der Burg",
+    "icon": "calendar"
+   },
+   {
+    "label": "Persönlichkeiten der Burg",
+    "value": "Hauptmann Tomáš Bosniak und seine Tochter Žofia",
+    "icon": "crown"
+   },
+   {
+    "label": "Grundlagen der Visualisierung",
+    "value": "RNDr. Miroslav Eliáš und die 1. militärische Landesaufnahme Ungarns",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1138",
+    "title": "Erste schriftliche Erwähnung von Šurany",
+    "description": "Šurany werden erstmals in einer Urkunde des ungarischen Herrschers Béla II. vom 3. September 1138 als „villa Suran“ erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "14. Jahrhundert",
+    "title": "Entstehung der Burg von Šurany",
+    "description": "In der zweiten Hälfte des 14. Jahrhunderts bestand hier bereits die Burg von Šurany, und zu ihr gehörten 12 Dörfer und Siedlungen.",
+    "type": "event"
+   },
+   {
+    "year": "1663–1684",
+    "title": "Besetzung durch die Türken",
+    "description": "Die Burg war von den Türken besetzt.",
+    "type": "event"
+   },
+   {
+    "year": "28. April 1644",
+    "title": "Tod von Žofia Bosniaková",
+    "description": "Die Tochter des Hauptmanns Tomáš Bosniak starb; ihr unversehrter Leichnam ruhte später in der Loretokapelle in Teplička nad Váhom.",
+    "type": "event"
+   },
+   {
+    "year": "1725",
+    "title": "Abriss der Burg",
+    "description": "Die Burg wurde zum größeren Teil abgerissen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4603,
+    "alt": "3D-Rekonstruktion eines Städtchens mit verputzten Häusern mit Strohdächern, im Hintergrund eine Kirche"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die "
+       },
+       {
+        "type": "link",
+        "url": "http://www.surany.sk/mesto/historia",
+        "children": [
+         {
+          "type": "text",
+          "text": "Seite der Stadt Šurany"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " anführt, werden Šurany erstmals in einer Urkunde des ungarischen Herrschers Béla II. vom 3. September 1138 als „villa Suran“ erwähnt. Bereits in der zweiten Hälfte des 14. Jahrhunderts bestand hier die Burg von Šurany, und zu ihr gehörten 12 Dörfer und Siedlungen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1663–1684 war sie von den Türken besetzt, und im Jahr 1725 wurde sie zum größeren Teil abgerissen. Zu den bedeutenden Persönlichkeiten dieser Burg gehören der Burghauptmann Baron Tomáš Bosniak und seine Tochter Žofia. Ihr unversehrter Leichnam (sie starb am 28. April 1644) ruhte – bis zu seiner Zerstörung durch einen Psychopathen – in der Loretokapelle in Teplička nad Váhom unweit von Strečno, wo sie mit ihrem Mann Fraňo Wesselényi lebte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "lYHjBSLqUFQ",
+    "url": "https://www.youtube.com/embed/lYHjBSLqUFQ",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=nf",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf digital archeology"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und hradiska.sk haben anlässlich der Veranstaltung Nacht der Museen, die am 20. 5. 2017 stattfand, in Zusammenarbeit mit dem Stadtmuseum Šurany versucht, eine 3D-Visualisierung des möglichen Aussehens der Stadt Šurany und der an sie angrenzenden Burg in der Zeit ihrer Blüte im 16. Jahrhundert zu erstellen. Bei der Erstellung des Modells sind wir von den Unterlagen von RNDr. Miroslav Eliáš ausgegangen (Eliáš, Miroslav. Pamätný spis k dejinám Šurianskeho hradu. - 1. vyd. - Šurany: Mestské kultúrne stredisko, 2006) und haben die Details mit ihm abgestimmt. Eine ebenso wichtige Grundlage war die 1. militärische Landesaufnahme Ungarns, auf der die Verbauung der Stadt im 18. Jahrhundert noch gut sichtbar ist und auf der auch die Ruine (Rudera) der damals bereits untergegangenen Burg eingezeichnet ist. In der zweiten militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts wurde diese Ruine schon nicht mehr erfasst, und das, obwohl diese Landesaufnahme allgemein viel präziser ist als die erste. Daher ist es wahrscheinlich, dass die Burg in dieser Zeit schon nicht einmal mehr Anzeichen einer klar sichtbaren Ruine aufwies. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Šurany im 16. Jahrhundert in 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

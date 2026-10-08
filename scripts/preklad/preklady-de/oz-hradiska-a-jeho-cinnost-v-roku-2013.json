@@ -1,0 +1,96 @@
+{
+ "slug": "oz-hradiska-a-jeho-cinnost-v-roku-2013",
+ "data": {
+  "title": "Der Verein Hradiská und seine Tätigkeit im Jahr 2013",
+  "slug": "verein-hradiska-und-seine-taetigkeit-2013",
+  "excerpt": "Auf dem Webportal HISTORYWEB ist ein Artikel erschienen, in dem die Tätigkeit unseres Bürgervereins Hradiská im Jahr 2013 kurz zusammengefasst ist. Dazu finden Sie die Artikel und Fotoreportagen über unsere Informationstafeln aus diesem Jahr sowie die Bitte um Ihre 2 % der Einkommensteuer.",
+  "metaTitle": "Der Verein Hradiská und seine Tätigkeit im Jahr 2013",
+  "metaDescription": "Zusammenfassung der Tätigkeit des Bürgervereins Hradiská im Jahr 2013 – Informationstafeln, Fotoreportagen und Aufklärungsarbeit zu den Burgwällen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5034,
+    "caption": "Mariková – Text",
+    "alt": "Mariková – Text"
+   },
+   {
+    "mediaId": 5018,
+    "caption": "Pružina – Text",
+    "alt": "Pružina – Text"
+   },
+   {
+    "mediaId": 5017,
+    "caption": "Modra – Text",
+    "alt": "Modra – Text"
+   },
+   {
+    "mediaId": 5016,
+    "caption": "Hatné – Text",
+    "alt": "Hatné – Text"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem hochwertigen Webportal HISTORYWEB können Sie einen Artikel lesen, in dem die Tätigkeit unseres Bürgervereins Hradiská im Jahr 2013 kurz zusammengefasst ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Artikel finden Sie unter dieser Adresse: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.historyweb.sk/clanky/detail/slovenske-hradiska#.UtEG12TuLKI",
+        "children": [
+         {
+          "type": "text",
+          "text": "Slowakische Burgwälle"
+         }
+        ],
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ausführlicher können Sie die einzelnen Artikel und Fotoreportagen über unsere im Jahr 2013 entstandenen Tafeln lesen, wenn Sie auf den Text unter den abgebildeten Tafeln klicken:\n \n Es ist noch hinzuzufügen, dass sich unser Bürgerverein Hradiská in diesem Jahr um Ihre 2 % der Einkommensteuer bewirbt. Das Geld wird einerseits für weitere Informationstafeln verwendet, andererseits für die Bezahlung hochwertiger Texte von Fachleuten – Archäologen und Historikern – und für hochwertige Zeichnungen; und wenn es gelingt, eine größere Summe zu beschaffen, können wir auch über bedeutendere und anspruchsvollere Projekte nachdenken. In nächster Zeit wird es möglich sein, unser Formular für die 2 % herunterzuladen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

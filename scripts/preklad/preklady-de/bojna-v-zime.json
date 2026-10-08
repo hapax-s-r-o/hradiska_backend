@@ -1,0 +1,30 @@
+{
+ "slug": "bojna-v-zime",
+ "data": {
+  "title": "Bojná im Winter – der Burgwall im Schnee",
+  "slug": "bojna-im-winter-burgwall-im-schnee",
+  "excerpt": "Der Winter ist langsam in Gang gekommen, und unser Mitarbeiter Naj hat diese 2 Bilder des winterlichen Bojná geschickt. Ich hoffe, sie haben Sie so erfreut wie mich.",
+  "metaTitle": "Bojná im Winter – der Burgwall im Schnee",
+  "metaDescription": "Der Winter ist in Gang gekommen: Unser Mitarbeiter Naj hat zwei Bilder des winterlichen Bojná geschickt – ein winterlicher Blick auf den Burgwall im Schnee.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Winter ist bei uns langsam in Gang gekommen, und unser Mitarbeiter Naj hat diese 2 Bilder des winterlichen Bojná geschickt. Ich hoffe, sie haben Sie so erfreut wie mich.\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

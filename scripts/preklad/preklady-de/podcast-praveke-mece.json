@@ -1,0 +1,78 @@
+{
+ "slug": "podcast-praveke-mece",
+ "data": {
+  "title": "Podcast – Urgeschichtliche und mittelalterliche Schwerter",
+  "slug": "podcast-urgeschichtliche-und-mittelalterliche-schwerter",
+  "excerpt": "Die zweite Folge des Podcasts von Dwarf Digital, die diesmal speziell der Herstellung urgeschichtlicher und mittelalterlicher Schwerter gewidmet ist.",
+  "metaTitle": "Podcast – Urgeschichtliche und mittelalterliche Schwerter",
+  "metaDescription": "Die zweite Folge des Podcasts Historický trpaslík von Dwarf Digital über die Herstellung urgeschichtlicher und mittelalterlicher Schwerter.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zweite Folge des Podcasts von Dwarf Digital, die diesmal speziell der Herstellung urgeschichtlicher und mittelalterlicher Schwerter gewidmet ist.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch von diesem Schwert war die Rede."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " · "
+       },
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067/historicky-trpaslik-02-rober-moc-o-meci",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík 02, Robert Môc - O meči"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

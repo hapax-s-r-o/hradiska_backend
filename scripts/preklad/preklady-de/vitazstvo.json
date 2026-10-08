@@ -1,0 +1,86 @@
+{
+ "slug": "vitazstvo",
+ "data": {
+  "title": "Sieg – eine Zeichnung und zeitgenössische Nachrichten vom Jahr 889",
+  "slug": "sieg-zeichnung-altungarn-889",
+  "excerpt": "Am Anfang des 10. Jahrhunderts hatten unsere Vorfahren es nicht leicht: Machtkämpfe der Söhne Svatopluks, die Franken und dazu ein neuer Feind – die nomadischen Altungarn. Zeitgenössische Quellen berichten, wie die Petschenegen sie aus ihren skythischen Wohnsitzen vertrieben und wie sie begannen, in die Gebiete der Karantanen, Mährer und Bulgaren einzufallen. Die Zeichnung von Tomáš Humaj hält einen der hellereren Augenblicke fest.",
+  "metaTitle": "Sieg – Zeichnung und Quellen zum Einfall der Altungarn 889",
+  "metaDescription": "Zeichnung mit zeitgenössischen Zitaten zur Ankunft der Ungarn 889: wie die Petschenegen sie vertrieben und wie die Überfälle auf die Mährer begannen.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "Zeichnung + zeitgenössische Zitate zum Einfall der Altungarn (889)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5569,
+    "caption": "„Jahr 902. Die Ungarn fielen in das Gebiet der Mährer ein. Im Kampf wurden sie jedoch besiegt und ergriffen die Flucht.“ Fuldaer Annalen, 10. Jahrhundert",
+    "alt": "„Jahr 902. Die Ungarn fielen in das Gebiet der Mährer ein. Im Kampf wurden sie jedoch besiegt und ergriffen die Flucht.“ Fuldaer Annalen, 10. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Im Jahre 889 der Fleischwerdung des Herrn zog das Volk der Ungarn aus, das wildeste und grausamer als alle Unholde, in den vergangenen Jahrhunderten deshalb unbekannt, weil es nirgends genannt wurde, irgendwo aus den skythischen Königreichen und Sümpfen, die der Don mit seinem Lauf ins Unendliche ausbreitet.",
+    "author": null,
+    "source": "Chronik des Regino (zum Jahr 889)"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Von dort also wurde das erwähnte Volk aus seinen eigenen Wohnsitzen von den Nachbarvölkern vertrieben, die Petschenegen heißen, denn diese übertrafen es an Zahl wie an Tapferkeit, und das Heimatland reichte, wie wir bereits gesagt haben, für das ungeheure Wachstum der Bevölkerung zum Wohnen nicht aus. Und so brechen die Ungarn, nachdem sie von diesen mit Gewalt vertrieben worden waren, nach dem Abschied von der Heimat auf, um neue Länder zu suchen, die sie bewohnen könnten, und um sich dort Wohnsitze errichten zu können.",
+    "author": null,
+    "source": "Chronik des Regino (zum Jahr 889)"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Zuerst irren sie durch die Einöden der Pannonier und Awaren und suchen ihren täglichen Unterhalt aus Jagd und Fischfang. Später fallen sie mit häufigen feindlichen Überfällen in die Gebiete der Karantanen, Mährer und Bulgaren ein; nur wenige Menschen töten sie mit dem Schwert, viele Tausende jedoch mit Pfeilen, die sie mit solcher Kunst aus Bögen aus Horn abschießen, dass man ihren Treffern nur mit Mühe ausweichen kann.",
+    "author": null,
+    "source": "Chronik des Regino (zum Jahr 889)"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Jahr 902. Die Ungarn fielen in das Gebiet der Mährer ein. Im Kampf wurden sie jedoch besiegt und ergriffen die Flucht.",
+    "author": null,
+    "source": "Fuldaer Annalen, 10. Jahrhundert"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Vorfahren hatten es am Anfang des 10. Jahrhunderts nicht leicht. Die Machtkämpfe der Söhne Svatopluks, die Franken, die sich bemühten, das Gebiet Großmährens erneut zu unterwerfen, und dazu ein neuer Feind – die nomadischen Altungarn. Mit König Svatopluk hatten sie zwar Frieden geschlossen, dieser verlor jedoch nach seinem Tod seine Geltung. Die Slawen führten mit den Altungarn viele Kämpfe, manche siegreich, manche endeten leider mit einer Niederlage."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Szene, die unser Mitarbeiter Tomáš Humaj für uns gezeichnet hat, gehört zu den hellereren Augenblicken (aus der Sicht der Slawen). Die Zeichnung trägt den Namen „SIEG“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

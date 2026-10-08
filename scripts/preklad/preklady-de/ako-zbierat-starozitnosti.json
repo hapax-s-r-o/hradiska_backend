@@ -1,0 +1,30 @@
+{
+ "slug": "ako-zbierat-starozitnosti",
+ "data": {
+  "title": "Wie man Altertümer sammelt – die Broschüre von Andrej Kmeť aus dem Jahr 1904",
+  "slug": "wie-man-altertuemer-sammelt-kmet-1904",
+  "excerpt": "Eine schmale, dafür aber umso interessantere Broschüre: Ihr Autor ist der legendäre slowakische Archäologe Andrej Kmeť; sie erschien im Jahr 1904 und war für die breite Öffentlichkeit bestimmt, der sie eine Anleitung gab, wie man sich beim Fund archäologischer Artefakte verhalten soll. Viele von Kmeťs Ratschlägen und Erläuterungen sind auch heute noch aktuell. Den Beitrag bringen wir im ursprünglichen Wortlaut.",
+  "metaTitle": "Wie man Altertümer sammelt – Kmeť 1904",
+  "metaDescription": "Die schmale Broschüre des Archäologen Andrej Kmeť aus dem Jahr 1904 mit einer Anleitung, wie man sich beim Fund archäologischer Artefakte verhalten soll.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In meine Hände gelangte diese schmale, dafür aber umso interessantere Broschüre. Ihr Autor ist der legendäre slowakische Archäologe Andrej Kmeť; sie erschien im Jahr 1904 und war für die breite Öffentlichkeit bestimmt, der sie eine Anleitung gab, wie man sich beim Fund archäologischer Artefakte verhalten soll. Viele von Kmeťs Ratschlägen und Erläuterungen sind auch heute noch aktuell, und die Broschüre sollten alle lesen, die zufällig oder absichtlich archäologische Funde entdecken. Den Beitrag bringen wir im ursprünglichen Wortlaut."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

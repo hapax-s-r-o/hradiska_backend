@@ -1,0 +1,479 @@
+{
+ "slug": "hladajte-na-hradiskach-poklady",
+ "data": {
+  "title": "Suchen Sie auf den Burgwällen nach Schätzen – legal, mit Geocaching",
+  "slug": "schatzsuche-auf-burgwaellen-geocaching",
+  "excerpt": "Bei der Schatzsuche auf Burgwällen denken die meisten Menschen an Plünderer mit Metalldetektoren. Es geht aber auch legal und dabei sehr abenteuerlich: Mit einem Handy oder einem GPS-Gerät finden Sie beim Geocaching versteckte Döschen, in denen neben kleinen „Schätzen“ oft auch wertvolle Informationen über den jeweiligen Burgwall stecken. Hier ist unsere Liste der interessantesten Caches auf slowakischen Burgwällen.",
+  "metaTitle": "Schatzsuche auf Burgwällen – legal, mit Geocaching",
+  "metaDescription": "Auf slowakischen Burgwällen lässt sich auch legal nach Schätzen suchen – mit Handy oder GPS-Gerät. Dazu eine Liste der interessantesten Geocaches.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5063,
+    "alt": "Ein Geocache-Versteck in Form eines Baumstumpfes, verborgen im Moos unter Nadeln"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Schatzsuche auf Burgwällen denken die meisten Menschen an Plünderer, die mit Metalldetektoren unser Kulturerbe ausrauben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kaum jemand weiß jedoch, dass sich auf den slowakischen Burgwällen auch auf legalem und dabei sehr abenteuerlichem Weg nach Schätzen suchen lässt. Es genügt, ein Handy oder ein GPS-Gerät bei sich zu haben und auf der Website des Geocachings ("
+       },
+       {
+        "type": "link",
+        "url": "http://www.geocaching.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.geocaching.com"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ") registriert zu sein; nach den Koordinaten und der Beschreibung auf dieser Seite können Sie dann versteckte Caches entdecken. Es handelt sich meist um Döschen mit unterschiedlichem Inhalt. Auf diese Weise können Sie den Besuch der Burgwälle nicht nur sich selbst angenehmer machen, sondern auch Ihren Sprösslingen, die von den Überresten einer Holz-Erde-Befestigung irgendwo tief in den Wäldern manchmal nicht allzu begeistert sind. Außer verschiedenen kleinen „Schätzen“, die sich in den Caches finden lassen, entdecken Sie hier oft auch wertvolle Informationen über den jeweiligen Burgwall. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zusammenarbeit mit mehreren erfahrenen Cachern bringen wir Ihnen daher eine Liste der interessantesten Caches, die auf unseren Burgwällen bereits angelegt sind und auf ihre Entdeckung warten. Wenn Sie beim Geocaching Neulinge sind, lesen Sie vor der ersten Schatzjagd diese "
+       },
+       {
+        "type": "link",
+        "url": "https://ceskygeocaching.wordpress.com/pruvodce-zacatecnika/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Regeln, die eingehalten werden müssen."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Suchen Sie auf den Burgwällen nach Schätzen!!!",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "AUF DIESEN BURGWÄLLEN SIND SCHÄTZE VERSTECKT:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "ARWA (ORAVA):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC541P1_oravske-hradiska-trniny?guid=f478ba5a-ed66-4774-818d-ded21dff30cf",
+        "children": [
+         {
+          "type": "text",
+          "text": "Trniny (Orava)"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC54G3Z_oravske-hradiska-ostra-a-tupa-skala?guid=d0895792-c0b2-4fc1-9305-9ca20a21589d",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vyšný Kubín – Tupá und Ostrá skala"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC54KNP_oravske-hradiska-hradok?guid=1c277dcc-42b9-4a88-ae49-1cbb869d9577",
+        "children": [
+         {
+          "type": "text",
+          "text": "Istebné – Hrádok"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC595QN_oravske-hradiska-ziar?guid=5b1d94c3-e996-4c99-bf70-8e80b8602dea",
+        "children": [
+         {
+          "type": "text",
+          "text": "Žiar"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC5KJRY_oravske-hradiska-najkrajsi-hrad?guid=2f16939a-9608-4aea-899b-54cff0d47c75",
+        "children": [
+         {
+          "type": "text",
+          "text": "Oravský hrad"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6VW8P_praveka-osada-mokry-kut?guid=c47ef36f-0524-477a-a059-fba81f5d7b99",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vyšný Kubín – urgeschichtliche Siedlung Mokrý kút"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Nordwestliches Waagtal:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6PG8T_simunky",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dolná Mariková – Šimunky"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6TA9C_hatnanske-hradiska-hradek",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hatné – Hrádek"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6TA9N_hatnanske-hradiska-skala",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hatné – Skala"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6GW90_prosne-zlaty-kon",
+        "children": [
+         {
+          "type": "text",
+          "text": "Prosné – Zlatý kôň"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6T58M_hradisko-mesciska",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pružina – Mesciská"
+         }
+        ]
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC66D2Y_hradisko-nosice",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nosice – Hradisko"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "Liptau (Liptov):",
+        "bold": true
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC15KK2_havranok",
+        "children": [
+         {
+          "type": "text",
+          "text": "Havránok – Liptovská Mara"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "Südwestslowakei:",
+        "bold": true
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6Z25M_prichod-slovanov?guid=8e0e4d03-ebf5-4914-8f1b-a4d615b97f38",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hrnčiarovce nad Parnou – Die Ankunft der Slawen"
+         }
+        ]
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC60GTX_kde-sa-ukryvali-modrania?guid=a54e7662-9648-4530-bddd-7898d63ea0f3",
+        "children": [
+         {
+          "type": "text",
+          "text": "Modra – Zámčisko"
+         }
+        ]
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC5VYHF_hradisko-v-bolerazi?guid=c3f8e499-3aec-40e2-a62e-17a2256129d1",
+        "children": [
+         {
+          "type": "text",
+          "text": "Die Burganlage in Boleráz"
+         }
+        ]
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC53FEK_velkomoravske-hradisko-majcichov-valy?guid=5dd9913e-057f-435f-8f39-3d2dae40300a",
+        "children": [
+         {
+          "type": "text",
+          "text": "Majcichov"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "Mittelslowakei:",
+        "bold": true
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC4WRJX_zamcisko-nb?guid=5d5eef5b-868c-4ead-b9ea-4b7ae6174d4c",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nová Baňa – Zámčisko"
+         }
+        ]
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC6T2J9_brana-na-hradisku%E2%80%9D",
+        "children": [
+         {
+          "type": "text",
+          "text": "Ponická Huta"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "Ostslowakei:",
+        "bold": true
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC134KW_klastorisko?guid=ca52d4d3-7384-4782-81f1-5c3bdf9a2f06",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kláštorisko"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "\n \n Wenn Sie einen Tipp für weitere Caches haben, schreiben Sie ihn bitte hierher oder senden Sie ihn mir per E-Mail an die Adresse orgon333@gmail.com  "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "hladanie-bez-hranic-cesko-slovensky-dialog-archeologov-a-detektoristov",
+ "data": {
+  "title": "Suche ohne Grenzen? Ein tschechisch-slowakischer Dialog zwischen Archäologen und Sondengängern",
+  "slug": "suche-ohne-grenzen-archaeologen-und-sondengaenger",
+  "excerpt": "Der Verein Hradiská hat sich gemeinsam mit dem Archäologischen Institut in Brno, dem Denkmalschutzamt der Slowakischen Republik und dem Verein Archeo Moravia an einem sehr interessanten Projekt beteiligt. Sein erstes Ergebnis ist diese Diskussion zwischen Archäologen und Laien zum Thema der gegenseitigen Zusammenarbeit beim Suchen mit dem Metalldetektor. Wir sind auf Ihre Reaktionen gespannt.",
+  "metaTitle": "Suche ohne Grenzen – Archäologen und Sondengänger",
+  "metaDescription": "Ein tschechisch-slowakischer Dialog zwischen Archäologen und Sondengängern über die Zusammenarbeit beim Suchen mit dem Metalldetektor.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Verein Hradiská hat sich gemeinsam mit dem Archäologischen Institut in Brno (Brünn), dem Denkmalschutzamt der Slowakischen Republik und dem Verein Archeo Moravia an einem sehr interessanten Projekt beteiligt, dessen erstes Ergebnis diese Diskussion zwischen Archäologen und Laien zum Thema der gegenseitigen Zusammenarbeit ist. Wir sind auf Ihre Reaktionen gespannt. Für ihre entgegenkommende Haltung danken wir Balázs Komoróczy, Peter Bisták, Jiří Ráčil und Tomáš Merta."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "G2ywrFLlys8",
+    "url": "https://www.youtube.com/embed/G2ywrFLlys8",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Archäologie, Metalldetektoren und der Schutz archäologischer Funde gehören zu den Themen, die in ganz Europa starke Emotionen hervorrufen. Die Herangehensweisen an die Suche mit dem Metalldetektor unterscheiden sich in den einzelnen Ländern deutlich – ebenso wie die Meinungen der Fach- und der Laienöffentlichkeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Archäologische Institut der Akademie der Wissenschaften der Tschechischen Republik in Brno und die Region Südmähren entwickeln seit dem Jahr 2018 das Programm „Mit gemeinsamen Kräften zur Erkenntnis des gemeinsamen archäologischen Erbes der Region Südmähren“, das die Bedingungen für eine legale, fachlich geführte und verantwortungsvolle Zusammenarbeit mit der Öffentlichkeit bei der Suche nach Metallgegenständen schafft. Ein bedeutender Partner ist auch der Verein Archeo Moravia, der Freiwillige vereint, die sich aktiv an der Rettung archäologischer Funde beteiligen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Diskussionstreffen von Vertretern der Fachinstitutionen und der mitwirkenden Vereine aus der Tschechischen Republik und der Slowakei bot einen offenen Erfahrungsaustausch, die Benennung der Vorteile wie auch der Grenzen der verschiedenen Herangehensweisen sowie einen breiteren Blick auf die Möglichkeiten bürgerschaftlicher Mitarbeit in der Archäologie. Die Diskussion fand im Rahmen des Projekts „Integriertes Modell der Bürgerwissenschaft in der Archäologie: fachliche Zusammenarbeit, Anwendung und Transfer von Erkenntnissen in der Region Südmähren“ statt, das im Jahr 2025 vom Programm Regionale Zusammenarbeit der Akademie der Wissenschaften der Tschechischen Republik gefördert wurde."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "tak-nam-zas-zamlciavaju-dejiny",
+ "data": {
+  "title": "Da verschweigt man uns wieder die Geschichte … – ein Buch von Oskar Cvengrosch in der Kritik",
+  "slug": "verschwiegene-geschichte-cvengrosch-in-der-kritik",
+  "excerpt": "Vor einiger Zeit erschien in den slowakischen Buchhandlungen das Buch „Tajné dejiny Slovenska, Slovenov a Sloveniek“ von Oskar Cvengrosch, das die Aufmerksamkeit vieler an unserer Geschichte Interessierter erregte. Nach einer Stunde flüchtigen Durchblätterns habe ich es entsetzt ins Regal zurückgestellt – am liebsten hätte ich es in die Fantasy-Abteilung gestellt. Da ich kein Historiker bin, verweise ich auf die Rezension von Archäologen und Historikern, die das ganze Buch gelesen haben.",
+  "metaTitle": "Verschweigt man uns wieder die Geschichte? – eine Rezension",
+  "metaDescription": "Ein kritischer Blick auf das Buch „Tajné dejiny Slovenska, Slovenov a Sloveniek“ von Oskar Cvengrosch und sein Verhältnis zur wirklichen Geschichte.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5045,
+    "alt": "Buchumschlag von „Tajné dejiny Slovenska, Slovenov a Sloveniek“ mit einer Burg und einer Kampfszene"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor einiger Zeit erschien in den Regalen der slowakischen Buchhandlungen ein Buch mit dem Titel "
+       },
+       {
+        "type": "text",
+        "text": "Tajné dejiny Slovenska, Slovenov a Sloveniek ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "vom Autor Oskar Cvengrosch, das die Aufmerksamkeit einer großen Zahl von an unserer Geschichte Interessierten erregte. Nach dem „flüchtigen“ Durchblättern, das etwa eine Stunde dauerte, habe ich es entsetzt ins Regal zurückgestellt, hatte aber Lust, es in die Abteilung für Fantasy-Literatur zu stellen. Das kann der Autor nicht ernst meinen!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da ich jedoch weder Historiker noch Archäologe bin, erlaube ich mir nicht, eine Rezension über das Buch zu schreiben. Umso mehr hat es mich heute gefreut, als ich auf den Seiten des Portals HISTORYWEB, mit dem wir schon länger zusammenarbeiten, eine Rezension von Fachleuten (Archäologen und Historikern) entdeckte, die das Buch ganz gelesen haben, wofür ihnen mein aufrichtiges Mitgefühl gebührt. Vielleicht erspart Ihnen diese Rezension unnötig hinausgeworfenes, schwer verdientes Geld .... "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wie ist das Buch Tajné dejiny Slovenska, Slovenov a Sloveniek? Als ich mit der Arbeit an dieser Rezension begann, wusste ich, ehrlich gesagt, nicht, worauf ich mich einlasse und wo ich enden werde. Noch voller Optimismus wandte ich mich vor der eigentlichen Lektüre an den Autor, er möge mir seine biografischen Daten zusenden, denn im Buch sind keine zu finden, und es wäre angebracht zu wissen, wessen Buch ich rezensieren will. Es kam eine einzeilige Antwort, dass der Autor ein etwas älterer Prešover als ich sei, mit technischer Ausbildung. Später stellte ich fest, dass die letzten zwei Worte dieser Antwort ein recht weiter Begriff sind.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Das Fehlen jeglicher Angaben über den Autor hat seinen Sinn. Es geht nicht darum, dass er sich geheimnisvoll geben würde. Aber wenn die Araber aus diesem Buch erfahren, dass Alah/ch eigentlich ein Walache ist und dass auch die Araber Slawen sind, werden sie gegen ihn sicher eine Fatwa wegen Beleidigung des Glaubens verhängen. Eine etwas unoriginelle Art, berühmt zu werden.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Das Buch habe ich sehr aufmerksam gelesen, ich machte mir Notizen und unterstrich ganze Passagen des Textes. Nach der Lektüre habe ich noch einen Monat darüber nachgedacht, was ich schreiben werde, und habe auch mehrmals verlegen angefangen.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://historyweb.dennikn.sk/clanky/detail/tak-nam-zas-zamlciavaju-dejiny#.VRmCI5OsUvJ",
+        "children": [
+         {
+          "type": "text",
+          "text": "Die Fortsetzung des Artikels lesen Sie unter dieser Adresse: HISTORYWEB"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bitte glauben Sie nicht jeden Unsinn nur deshalb, weil er ein positives Bild von den Slawen erzeugt. Wenn dieses Bild keine reale Grundlage hat, belügen wir uns selbst. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Da verschweigt man uns wieder die Geschichte …",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Motto unserer Seite lautet: "
+       },
+       {
+        "type": "text",
+        "text": "„Seien wir stolz auf unsere Geschichte. Wir haben viele Gründe dazu“",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Vielleicht ist es Zeit, dieses unser Motto leicht um einen Zusatz zu ergänzen: "
+       },
+       {
+        "type": "text",
+        "text": "„Und wir müssen sie uns nicht erfinden“ ",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Unbescheiden meine ich, dass unser Portal www.hradiska.sk sich bemüht, recht viel für die Wiederentdeckung und Popularisierung unserer ruhmreichen slawischen Geschichte zu tun. Und dabei kommen wir auch ohne unsinnige Fantasmagorien aus. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}

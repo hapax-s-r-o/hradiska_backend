@@ -1,0 +1,99 @@
+{
+ "slug": "anketa-2014-maj",
+ "data": {
+  "title": "UMFRAGE: Würde eine archäologische Amnestie helfen?",
+  "slug": "umfrage-archaeologische-amnestie-mai-2014",
+  "excerpt": "Gelegentlich tauchen Meinungen auf, es würde vielleicht helfen, wenn der Staat für eine bestimmte Zeit, etwa für 3 Monate, eine Art archäologische Amnestie ausrufen würde – eine Entsprechung der bekannten Waffenamnestie –, in deren Rahmen Menschen straffrei archäologische Funde abgeben könnten, die sie aus verschiedenen Gründen zu Hause versteckt haben. Über den Sinn und die Form einer solchen Amnestie läuft auf unserer Seite eine anonyme Umfrage.",
+  "metaTitle": "Umfrage: Würde eine archäologische Amnestie helfen?",
+  "metaDescription": "Würde eine zeitlich begrenzte archäologische Amnestie helfen, damit Menschen Funde straffrei abgeben können? Dazu läuft auf unserer Seite eine Umfrage.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gelegentlich tauchen Meinungen auf, es würde vielleicht helfen, wenn der Staat für eine bestimmte Zeit, etwa für 3 Monate, eine Art "
+       },
+       {
+        "type": "text",
+        "text": "archäologische Amnestie",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ausrufen würde (eine Entsprechung der bekannten Waffenamnestie), in deren Rahmen es ermöglicht würde, "
+       },
+       {
+        "type": "text",
+        "text": "dass Menschen straffrei archäologische Funde abgeben",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die sie aus verschiedenen Gründen zu Hause versteckt haben (sie haben sie zufällig im Wald gefunden, zufällig bei Bauarbeiten, auf dem Dachboden aus dem Nachlass der Eltern oder absichtlich als Sondengänger). Auf diese Weise ließen sich manche Funde dokumentieren und retten, die heute nur deshalb vor den Augen der Fachleute verborgen sind, weil ihre Besitzer fürchten, für deren Abgabe belangt zu werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es gibt allerdings unterschiedliche Meinungen dazu, ob eine solche Amnestie einen Sinn hätte, und auch dazu, welche Form sie haben sollte, d. h. ob sich an ihr auch "
+       },
+       {
+        "type": "text",
+        "text": "Menschen beteiligen könnten, die ihre Funde behalten wollen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", aber bereit wären, sie zum Zweck wissenschaftlicher Untersuchung zu verleihen, oder nur Menschen, die die Funde anschließend "
+       },
+       {
+        "type": "text",
+        "text": "dem Museum überlassen würden",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich habe mich entschlossen, eine kleine ANONYME Umfrage zu erstellen, mit der wir gern herausfinden würden, ob bei den betroffenen Menschen Interesse an einer solchen Amnestie bestünde, und wenn ja, welche Form sie haben sollte. Die Umfrage finden Sie auf unserer Seite in der linken Spalte. "
+       },
+       {
+        "type": "text",
+        "text": "Wenn Sie zu Hause Funde haben, ob zufällig gefunden oder absichtlich, etwa mit dem Detektor",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", würde mich Ihre Meinung zu diesem Thema interessieren. Stimmen Sie ab, es ist anonym."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

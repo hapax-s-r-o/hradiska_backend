@@ -1,0 +1,48 @@
+{
+ "slug": "surany-3d-v-noci-muzei",
+ "data": {
+  "title": "Šurany in 3D – eine Animation der Burg zur Nacht der Museen",
+  "slug": "surany-3d-animation-nacht-der-museen",
+  "excerpt": "Schon diesen Samstag stellen wir in Šurany im Museum anlässlich der Nacht der Museen die komplette 3D-Animation von Šurany und der Burg von Šurany vor, so wie sie im 15. Jahrhundert aussahen. Das Video ist über 8 Minuten lang und ist bisher unsere hochwertigste Animation. Wer es nicht weit hat, sollte sich das nicht entgehen lassen!",
+  "metaTitle": "Šurany in 3D – Animation zur Nacht der Museen",
+  "metaDescription": "Komplette 3D-Animation von Šurany und der Burg von Šurany im 15. Jahrhundert, über 8 Minuten lang, vorgestellt zur Nacht der Museen im Museum.",
+  "keyFacts": [
+   {
+    "label": "Dargestellte Zeit",
+    "value": "Šurany und die Burg von Šurany im 15. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "15. Jahrhundert",
+    "title": "Das Aussehen von Šurany und der Burg von Šurany",
+    "description": "Die im Museum von Šurany während der Nacht der Museen vorgestellte 3D-Animation zeigt, wie Šurany und die Burg von Šurany im 15. Jahrhundert ausgesehen haben könnten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6333,
+    "alt": "3D-Rekonstruktion einer Wasserburg mit Brücke und einer Siedlung im Feuchtgebiet"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon diesen Samstag stellen wir in Šurany im Museum anlässlich der Nacht der Museen die komplette 3D-Animation von Šurany und der Burg von Šurany vor, so wie sie im 15. Jahrhundert aussahen. Das Video ist über 8 Minuten lang. Es ist bisher unsere hochwertigste Animation. Wer es nicht weit hat: Lassen Sie es sich nicht entgehen!"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

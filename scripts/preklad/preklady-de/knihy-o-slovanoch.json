@@ -1,0 +1,492 @@
+{
+ "slug": "knihy-o-slovanoch",
+ "data": {
+  "title": "Bücher über die Slawen – was sich zu lesen lohnt",
+  "slug": "buecher-ueber-die-slawen-lesetipps",
+  "excerpt": "Gute Bücher über die Slawen sind auf dem slowakischen Buchmarkt schwer zu finden, dafür gibt es reichlich Schund, der sich als „wahre Geschichte der Slawen“ ausgibt. Wir haben daher einige grundlegende Tipps für populärwissenschaftliche Bücher zusammengestellt, die eine Lektüre wert sind – viele davon sind nur noch antiquarisch oder in Bibliotheken zu bekommen.",
+  "metaTitle": "Bücher über die Slawen – Lesetipps",
+  "metaDescription": "Welche Bücher über die Slawen wirklich einen Informationswert haben und wie man gute Literatur von pseudohistorischen „wahren Geschichten“ unterscheidet.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5089,
+    "alt": "Einband des Buches Nitrianske kniežatstvo von Ján Steinhübel mit einer Kampfszene aus einer Handschrift"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Oft fragen mich Leser, ob ich ihnen nicht Bücher über die Slawen empfehlen könnte, die von guter Qualität sind und einen Informationswert haben. Man muss zugeben, dass es auf dem slowakischen Buchmarkt wirklich ein Problem ist, gute Bücher über die Slawen zu entdecken. Auf der anderen Seite finden wir recht viel Schund, der sich als „wahre Geschichte der Slawen“ ausgibt, inhaltlich aber von Geschichte und Archäologie weit entfernt ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir haben daher versucht, den Lesern wenigstens einige grundlegende Tipps für Bücher über die Slawen zu geben, die eine Lektüre wert sind. Leider sind viele von ihnen nicht mehr im Handel, sie lassen sich aber antiquarisch oder in Bibliotheken beschaffen. Wir haben selbstverständlich nur populärwissenschaftliche Bücher ausgewählt, keine Fachpublikationen. Eine Liste von Fachpublikationen zur Archäologie finden Sie zum Beispiel "
+       },
+       {
+        "type": "link",
+        "url": "http://archeol.sav.sk/index.php/sk/publikacie/edicie-vydavane-ausav/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=243174",
+          "children": [
+           {
+            "type": "text",
+            "text": "Steinhübel: Nitrianske kniežatstvo"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=222691",
+          "children": [
+           {
+            "type": "text",
+            "text": "Magdaléna Beranová: Slované"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=257590",
+          "children": [
+           {
+            "type": "text",
+            "text": "Macháček a kol.: Pád Veľkej Moravy"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/slovensko-v-dobe-velkomoravskej-280301",
+          "children": [
+           {
+            "type": "text",
+            "text": "Ratkoš: Slovensko v dobe veľkomoravskej"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://libri.cz/mytologie-a-religionistika/461-encyklopedie-slovanskych-bohu-a-mytu-martin-profant-nada-profantova-9788072772193.html",
+          "children": [
+           {
+            "type": "text",
+            "text": "Profantová: Encyklopedie slovanských bohů a mýtů"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/velka-morava-doba-a-umenie-294809",
+          "children": [
+           {
+            "type": "text",
+            "text": "Veľká Morava: doba a umenie"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=158893",
+          "children": [
+           {
+            "type": "text",
+            "text": "Dvořák: Stopy dávnej minulosti 3"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/velka-morava-a-pocatky-krestanstvi-327491",
+          "children": [
+           {
+            "type": "text",
+            "text": "Kouřil: Velká Morava a počátky křesťanství"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "http://www.postscriptum.sk/nase-tituly/historia/svaetopluk-v-europskom-pisomnictve",
+          "children": [
+           {
+            "type": "text",
+            "text": "Homza: Svätopluk v európskom písomníctve"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "http://www.dajamabooks.sk/index.aspx?PageType=1&Kod=396&Kateg=1",
+          "children": [
+           {
+            "type": "text",
+            "text": "Turčan: Veľkomoravské hradiská"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=141522",
+          "children": [
+           {
+            "type": "text",
+            "text": "Marsina: Metodov boj"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "http://www.antikvariatik.sk/?podstranka=kniha&id_knihy=44733#index_obsah_vnutri_kniha_obrazky",
+          "children": [
+           {
+            "type": "text",
+            "text": "Ratkoš: Pramene k dejinám Veľkej Moravy"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/slovane-doteky-predku-308699",
+          "children": [
+           {
+            "type": "text",
+            "text": "Galuška: Slované – doteky předků"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=41874",
+          "children": [
+           {
+            "type": "text",
+            "text": "Lutovský: Encyklopedie slovanské archeologie v Čechách, na Moravě a ve Slezsku"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.martinus.sk/?uItem=94801",
+          "children": [
+           {
+            "type": "text",
+            "text": "Třeštík: Vznik Velké Moravy"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://biblio.hiu.cas.cz/documents/358623?locale=en",
+          "children": [
+           {
+            "type": "text",
+            "text": "Miroslav Lysý: Moravania, Mojmírovci a Franská ríša"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/osudy-starych-slovanov-146878",
+          "children": [
+           {
+            "type": "text",
+            "text": "Štefanovičová: Osudy starých Slovanov"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.vydavatel.sk/kniha/na-pisme-zostalo",
+          "children": [
+           {
+            "type": "text",
+            "text": "Na písme zostalo - Dokumenty z Veľkej Moravy"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.artforum.sk/katalog/12619/neslovane-o-pocatcich-slovanu",
+          "children": [
+           {
+            "type": "text",
+            "text": "Neslované o počátcích Slovanů"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "http://forumhistoriae.sk/documents/10180/91007/bystricky-peter.pdf",
+          "children": [
+           {
+            "type": "text",
+            "text": "Bystrický: Sťahovanie národov"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.pantarhei.sk/knihy/odborna-a-popularno-naucna-literatura/historia-vojnova-literatura/slovenske-a-ceske-dejiny/slovensko-ocami-cudzincov.html",
+          "children": [
+           {
+            "type": "text",
+            "text": "Slovensko očami cudzincov"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.pantarhei.sk/knihy/odborna-a-popularno-naucna-literatura/historia-vojnova-literatura/historia-ostatne/stehovani-narodu-a-vychod-evropy.html",
+          "children": [
+           {
+            "type": "text",
+            "text": "Bednaříková: Stěhování národů a východ Evropy"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://munishop.muni.cz/obchod/knihy/ceske-zeme-od-prichodu-slovanu-po-velkou-moravu-i-00007017277",
+          "children": [
+           {
+            "type": "text",
+            "text": "Měřínský: České země od příchodu Slovanů po Velkou Moravu"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.pantarhei.sk/knihy/odborna-a-popularno-naucna-literatura/historia-vojnova-literatura/slovenske-a-ceske-dejiny/pramene-o-zivote-svatych-cyrila-a-metoda-a-ich-ucenikov.html",
+          "children": [
+           {
+            "type": "text",
+            "text": "Škoviera: Pramene o živote svätých Cyrila a Metoda a ich učeníkov"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/arabske-spravy-o-slovanoch-9-12-storocie-183659",
+          "children": [
+           {
+            "type": "text",
+            "text": "Paulíny: Arabské správy o Slovanoch: 9.–12. storočie"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "https://www.databazeknih.cz/knihy/slovensko-v-dobach-stredovekych-24526",
+          "children": [
+           {
+            "type": "text",
+            "text": "Kučera: Slovensko v dobách stredovekých"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "link",
+          "url": "http://www.history.sav.sk/eknihy/Jan-Steinhubel-Kapitoly-z-najstarsich-ceskych-dejin-531-1004.pdf",
+          "children": [
+           {
+            "type": "text",
+            "text": "Steinhübel: Kapitoly z najstarších českých dejín 531 – 1004"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bücher über die Slawen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -610,6 +610,18 @@ v básni je v poriadku, hoci web inak vyká.
 | triskelion | die **Triskele** | |
 | Taranisovo koleso | das Rad des Taranis | |
 
+| Slovansko-árijské védy | die **Slawisch-Arischen Veden** | pseudohistorický text, nie prameň |
+| vedomectvo | das Vedomectvo (der slawischen Wissenslehre) | glosa pri prvom výskyte |
+| hlaholika | die **Glagoliza** | |
+| náučná mapa | die Lehrkarte | |
+| oddychová zóna | die Ruhezone | |
+
+**Slovné hračky a názvy, ktoré sa neglosujú.** Keď by vysvetľujúca glosa
+vynútila zakázaný tvar — napríklad doslovný preklad názvu *Tajné dejiny
+Slovenska, Slovenov a Sloveniek* by si vyžiadal *Slowenen* (§11.9) — názov
+ostáva vlastným menom bez glosy. Naopak slovná hračka, ktorá sa bez
+vysvetlenia stratí (*návisť* × *nenávisť*), glosu dostane.
+
 **Odkaz s jazykovou glosou.** Keď slovenský text odkazuje na nemecký zdroj
 s poznámkou „(nem.)", je tá poznámka v nemeckom preklade bezpredmetná —
 odkaz sa presunie na názov diela a glosa odpadne. Počet odkazov ani cieľové

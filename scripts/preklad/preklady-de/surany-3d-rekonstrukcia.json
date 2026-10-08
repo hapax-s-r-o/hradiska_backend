@@ -1,0 +1,249 @@
+{
+ "slug": "surany-3d-rekonstrukcia",
+ "data": {
+  "title": "Šurany – 3D-Rekonstruktion der verschwundenen Burg",
+  "slug": "surany-burg-3d-rekonstruktion",
+  "excerpt": "Wir haben für Sie eine ideelle Rekonstruktion der Burg Šurany aus der Zeit der Türkenkriege vorbereitet. Die Burg steht heute leider nicht mehr. Sie stand im heutigen Šurany, an der Stelle namens Podzámeček, und war von zwei Armen der Neutra umgeben, die man bei Bedarf mit Stauwehren überflutete. Ihre berühmteste Zeit erlebte sie in den Türkenkriegen, als Tomáš Bosniak ihr Besitzer und Hauptmann war.",
+  "metaTitle": "Šurany – 3D-Rekonstruktion der verschwundenen Burg",
+  "metaDescription": "Ideelle 3D-Rekonstruktion der Burg Šurany aus der Zeit der Türkenkriege: Sie stand einst an der Stelle namens Podzámeček und ist heute verschwunden.",
+  "keyFacts": [
+   {
+    "label": "Ort",
+    "value": "Šurany, Lage Podzámeček",
+    "icon": "map"
+   },
+   {
+    "label": "Bauzeit",
+    "value": "1382–1403",
+    "icon": "calendar"
+   },
+   {
+    "label": "Berühmteste Zeit",
+    "value": "Türkenkriege, Hauptmann Tomáš Bosniak",
+    "icon": "sword"
+   },
+   {
+    "label": "Schutz der Burg",
+    "value": "Umschließung durch die Neutra, Überflutung der Flussarme mit Stauwehren",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1382–1403",
+    "title": "Errichtung der Burg",
+    "description": "Die Burg von Šurany wurde wohl in diesen Jahren erbaut.",
+    "type": "event"
+   },
+   {
+    "year": "1403",
+    "title": "Erste Erwähnung als Burg des Woiwoden Ctibor",
+    "description": "Die Burg wird in diesem Jahr bereits als Burg des Woiwoden Ctibor erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1580",
+    "title": "Geburt von Tomáš Bosniak",
+    "description": "Geboren wurde der Hauptmann und Besitzer der Burg Tomáš Bosniak, der sich als erfolgreicher Kämpfer gegen die Türken berühmt machte.",
+    "type": "event"
+   },
+   {
+    "year": "19. 12. 1634",
+    "title": "Tod von Tomáš Bosniak",
+    "description": "Der Hauptmann der Burg Tomáš Bosniak starb.",
+    "type": "event"
+   },
+   {
+    "year": "10. 10. 1663",
+    "title": "Eroberung der Burg durch die Türken",
+    "description": "Die Türken eroberten die Burg von Šurany und hielten sie bis Oktober 1684 in ihrer Gewalt.",
+    "type": "event"
+   },
+   {
+    "year": "14. 9. 1710",
+    "title": "Eroberung der Burg durch die kaiserlichen Truppen",
+    "description": "Nach der Eroberung durch die kaiserlichen Truppen kümmerte sich niemand mehr um die beschädigte Burg, und die Ruinen blieben ohne Besitzer.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4248,
+    "alt": "3D-Rekonstruktion eines gemauerten Herrenhauses mit Bastei und Torturm"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir haben für Sie eine ideelle Rekonstruktion der Burg Šurany aus der Zeit der Türkenkriege vorbereitet. Die Burg steht heute leider nicht mehr."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Portal "
+       },
+       {
+        "type": "link",
+        "url": "http://hrady.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hrady.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " wird zu der Burg angeführt, dass sie sich im heutigen Šurany befand, an der Stelle namens Podzámeček. Noch im Jahr 1889, als Michal Matunák über diese Burg schrieb, waren an ihrer Stelle Ruinen sichtbar. Heute würden Sie sie schon vergeblich suchen."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Umfang der Burg war von der Neutra umgeben – von zwei Flussarmen. Die Burg von Šurany hatte einen rhomboiden Grundriss. Zwei Hauptarme und mehrere weitere Arme der Neutra boten ihr einen zuverlässigen Schutz. Die einzelnen Arme wurden je nach Bedarf mit Stauwehren überflutet, gegebenenfalls wurden auch Felder und Wiesen überflutet, wodurch möglichen Angreifern die Belagerung der Burg erschwert wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hrady.sk führen weiter an, dass die Burg wohl in den Jahren 1382 bis 1403 erbaut wurde. Im Jahr 1403 wird sie bereits als Burg des Woiwoden Ctibor erwähnt. In den folgenden Jahren war die Burg ein Zentrum reichen Lebens. Ihre berühmteste Zeit kam jedoch in den Zeiten der Türkenkriege. Eine bedeutende Gestalt war ihr Besitzer und Hauptmann Tomáš Bosniak. Er wurde etwa im Jahr 1580 geboren und starb am 19. 12. 1634; im Laufe seines Lebens wurde er als erfolgreicher Kämpfer gegen die Türken berühmt. Seine Tochter Žofia Bosniaková heiratete den Palatin Wesselényi, starb auf der Burg "
+       },
+       {
+        "type": "link",
+        "url": "http://www.hrady.sk/strecno/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Strečno"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und ihr Leichnam blieb in mumifizierter Gestalt bis zum Jahr 2009 erhalten, als er aus unbegreiflichen Gründen "
+       },
+       {
+        "type": "link",
+        "url": "https://nasazilina.sme.sk/c/4374437/podpalac-znicil-vzacnu-mumiu-zofie-bosniakovej.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "von einem Brandstifter zerstört wurde."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Šurany – 3D-Rekonstruktion",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "HpF2qTdq1js",
+    "url": "https://www.youtube.com/embed/HpF2qTdq1js",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Türken eroberten die Burg von Šurany wahrscheinlich am 10. 10. 1663 und hielten sie bis Oktober 1684 in ihrer Gewalt. Ende des 17. und Anfang des 18. Jahrhunderts war sie in den Händen von Franz II. Rákóczi. Dessen Ständeaufstand verursachte auch den Untergang der Burg. Nach ihrer Eroberung durch die kaiserlichen Truppen am 14. 9. 1710 kümmerte sich niemand mehr um die beschädigte Burg. Die Ruinen der Burg blieben ohne Besitzer."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem 3D-Video haben wir auch eine virtuelle Besichtigung der Burg vorbereitet. Es genügt, auf den Link unten zu klicken, und Sie können selbst wählen, in welchen Teil des Burgareals Sie sich begeben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://bit.ly/surany",
+        "children": [
+         {
+          "type": "text",
+          "text": "HIER KLICKEN FÜR DIE VIRTUELLE BESICHTIGUNG DER BURG ŠURANY"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Quelle zum Text: www.hrady.sk"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Erstellung des Modells sind wir von den Unterlagen von RNDr. Miroslav Eliáš ausgegangen (Eliáš, Miroslav. Pamätný spis k dejinám Šurianskeho hradu. - 1. vyd. - Šurany : Mestské kultúrne stredisko, 2006) und von seinem Modell der Burg, das sich im Stadtmuseum Šurany befindet. Mit wertvollem fachlichem Rat hat zu unserer Arbeit auch Ing. Peter Gutek beigetragen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

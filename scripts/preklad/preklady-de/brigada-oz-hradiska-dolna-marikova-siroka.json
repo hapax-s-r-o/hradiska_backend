@@ -1,0 +1,103 @@
+{
+ "slug": "brigada-oz-hradiska-dolna-marikova-siroka",
+ "data": {
+  "title": "Arbeitseinsatz des Vereins Hradiská (Dolná Mariková-Široká)",
+  "slug": "arbeitseinsatz-verein-hradiska-dolna-marikova-siroka",
+  "excerpt": "Am 7. 3. 2015 unternahm unser Verein Hradiská einen Arbeitseinsatz: die Säuberung der Hauptburg der kleinen Höhenburg der Badener Kultur, der Púchov-Kultur und der Slawen in Dolná Mariková (Lage Široká – Šimunky). Freiwillige befreiten fast die gesamte Hauptburg von wild aufgewachsenen Gehölzen, Gebüsch und Dornen, sodass die schönen Aussichten wieder zu genießen sind. Zum Schutz vor Raubgräbern wurden abschließend Schritte zur Dokumentation der illegalen Tätigkeit unternommen.",
+  "metaTitle": "Arbeitseinsatz des Vereins Hradiská – Dolná Mariková",
+  "metaDescription": "Arbeitseinsatz des Vereins Hradiská im Jahr 2015: Freiwillige befreiten die Hauptburg der kleinen Höhenburg in Dolná Mariková von wilden Gehölzen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5042,
+    "caption": "Čendo führt einen alten slawischen Brauch vor – den Tanz mit der Motorsäge",
+    "alt": "Čendo führt einen alten slawischen Brauch vor – den Tanz mit der Motorsäge"
+   },
+   {
+    "mediaId": 5281,
+    "caption": "Der Gulasch war ausgezeichnet (Urheber Radovan S. – links auf dem Foto)",
+    "alt": "Der Gulasch war ausgezeichnet (Urheber Radovan S. – links auf dem Foto)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 7. 3. 2015 unternahm unser Verein Hradiská einen Arbeitseinsatz – die Säuberung der Hauptburg der kleinen Höhenburg der Badener Kultur, der Púchov-Kultur und der Slawen in Dolná Mariková (Lage Široká – Šimunky). Daran nahm ein großer Teil unseres Vereins teil, aber auch weitere Freiwillige. Wir haben die kleine Höhenburg von einer großen Menge wild aufgewachsener Gehölze befreit, die nicht nur die Aussicht, sondern praktisch auch die Bewegung auf der Burg unmöglich machten. Das Wetter bescherte uns einen angenehmen Tag, und die ganztägige Arbeit verlief dank der guten Stimmung in entspannter Atmosphäre. Auch ein ausgezeichneter Gulasch fehlte nicht. Fast die gesamte Hauptburg haben wir von Gebüsch, Dornen und wild aufgewachsenen Gehölzen befreit. Erst jetzt können Sie die schönen Aussichten und die Atmosphäre dieses großartigen Ortes in vollem Maße genießen. Zum Schutz der kleinen Höhenburg vor Raubgräbern haben wir abschließend Schritte zur Dokumentation der illegalen Tätigkeit unternommen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Video können Sie sehen, in welchem Zustand die Hauptburg vor unserem Arbeitseinsatz war.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Čendo führt einen alten slawischen Brauch vor – den Tanz mit der Motorsäge",
+    "alt": "Čendo führt einen alten slawischen Brauch vor – den Tanz mit der Motorsäge",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "E2DS91BRkCg",
+    "url": "https://www.youtube.com/embed/E2DS91BRkCg",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf den folgenden Fotografien ist der heutige Zustand zu sehen.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allen Beteiligten gebührt Dank für die enorme Hilfe. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

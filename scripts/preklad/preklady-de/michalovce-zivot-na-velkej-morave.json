@@ -1,0 +1,106 @@
+{
+ "slug": "michalovce-zivot-na-velkej-morave",
+ "data": {
+  "title": "Michalovce – Leben in Großmähren",
+  "slug": "michalovce-leben-in-grossmaehren-veranstaltung",
+  "excerpt": "Das Zemplínske múzeum in Michalovce lud am 28. 6. 2014 zur Veranstaltung „Život na Veľkej Morave“ (Leben in Großmähren). Neben dem 2013 errichteten rekonstruierten slawischen Grubenhaus konnten die Besucher für ein paar Stunden am eigenen Leib erproben, wie im 9. Jahrhundert gelebt wurde: Krieger, Handwerker, Musiker, Bogenschießen und frische Brotfladen aus selbst gemahlenem Getreide.",
+  "metaTitle": "Michalovce – Leben in Großmähren (Veranstaltung 2014)",
+  "metaDescription": "Veranstaltung des Zemplínske múzeum in Michalovce 2014 – ein rekonstruiertes slawisches Grubenhaus und das Leben in Großmähren zum Anfassen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5040,
+    "alt": "Plakat des Festivals Život na Veľkej Morave mit der silbernen Plakette eines Reiters"
+   },
+   {
+    "mediaId": 5143,
+    "caption": "Die Rotunde von Michalovce",
+    "alt": "Die Rotunde von Michalovce"
+   },
+   {
+    "mediaId": 5146,
+    "caption": "Der führende slowakische Schmuckkünstler Pavol Francúz mit seinem Sortiment – Repliken großmährischen Schmucks",
+    "alt": "Der führende slowakische Schmuckkünstler Pavol Francúz mit seinem Sortiment – Repliken großmährischen Schmucks"
+   },
+   {
+    "mediaId": 5328,
+    "caption": "Typische slawische Scherben",
+    "alt": "Typische slawische Scherben"
+   },
+   {
+    "mediaId": 5329,
+    "caption": "Hersteller von Lederrüstungen",
+    "alt": "Hersteller von Lederrüstungen"
+   },
+   {
+    "mediaId": 5370,
+    "caption": "Slawische Drehmühle vom Burgwall Brekov",
+    "alt": "Slawische Drehmühle vom Burgwall Brekov"
+   },
+   {
+    "mediaId": 5376,
+    "caption": "Küche …",
+    "alt": "Küche …"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zemplínske múzeum in Michalovce organisierte am Samstag, dem 28. 6. 2014, eine sehr interessante Veranstaltung mit dem Titel „Život na Veľkej Morave“ (Leben in Großmähren). Auf dem Museumsgelände konnten die Besucher so neben dem rekonstruierten slawischen Grubenhaus, das im Jahr 2013 errichtet wurde, wenigstens für ein paar Stunden buchstäblich am eigenen Leib erproben, wie unsere slawischen Vorfahren in der Zeit Großmährens lebten. Zu Beginn fand in der Rotunde von Michalovce eine heilige Messe mit Elementen der altkirchenslawischen Liturgie statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank der Mitwirkenden, deren Kern die Gruppe Siváci aus Košice (Kaschau) bildete, wobei mehrere auch aus entfernten Winkeln der Slowakei kamen, konnten wir slawische Krieger, schöne slawische Mädchen, gefährliche Nomaden mit Bögen, einen heidnischen Priester, aber auch mehrere Handwerker und Musiker treffen. Wir sahen, wie im 9. Jahrhundert Getreide gemahlen wurde und wie daraus schmackhafte Brotfladen hergestellt wurden, und wir konnten sie auch probieren. Die Besucher konnten das Bogenschießen und die Keramikherstellung ausprobieren, und für die Kinder war auch eine Menge verlockender Attraktionen vorbereitet. Die Krieger führten uns Kampfvorführungen aus der slawischen Zeit und Szenen aus dem Alltag vor. Auch ein Falkner zeigte seine Kunst. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Michalovce – Leben in Großmähren",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen Ihnen eine kurze Fotoreportage von dieser Veranstaltung und glauben, dass wir uns hier im nächsten Jahr wieder treffen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

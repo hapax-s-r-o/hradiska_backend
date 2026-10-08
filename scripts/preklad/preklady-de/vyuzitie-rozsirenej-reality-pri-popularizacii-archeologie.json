@@ -1,0 +1,83 @@
+{
+ "slug": "vyuzitie-rozsirenej-reality-pri-popularizacii-archeologie",
+ "data": {
+  "title": "Erweiterte Realität in der Popularisierung der Archäologie",
+  "slug": "erweiterte-realitaet-popularisierung-der-archaeologie",
+  "excerpt": "Dwarf digital archaeology arbeitet gemeinsam mit unserem Portal hradiska.sk an einem neuen Projekt: an den Möglichkeiten der sogenannten erweiterten Realität (Augmented Reality) bei der Popularisierung der Archäologie. Fachleute kennen die Technologie seit einiger Zeit, der breiten Öffentlichkeit begegnet sie dagegen kaum – und auch in manchen kleineren Museen und Denkmälern weiß man wenig über ihre Möglichkeiten. Wir zeigen an einem Beispiel, wie und wo überall sie sich einsetzen lässt.",
+  "metaTitle": "Erweiterte Realität und Popularisierung der Archäologie",
+  "metaDescription": "Dwarf digital archaeology und hradiska.sk prüfen, wie erweiterte Realität (Augmented Reality) Archäologie und Burgwälle der Öffentlichkeit näherbringt.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5078,
+    "alt": "Eine Hand hält ein Tablet mit erweiterter Realität über ein Faltblatt mit der Zeichnung einer Burg"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf digital archaeology arbeitet in Zusammenarbeit mit unserem Portal hradiska.sk an einem neuen Projekt – an den Möglichkeiten der Nutzung der sogenannten „erweiterten Realität“ bei der Popularisierung der Archäologie. Die Technologie der „erweiterten Realität“ (Augmented Reality) ist schon einige Zeit auf der Welt, viele Fachleute kennen sie. Uns geht es aber auch um die Laienöffentlichkeit! Da die Menschen dieser Technologie im nichtwissenschaftlichen Bereich nicht sehr häufig begegnen, zeigen wir Ihnen ein Beispiel dafür, wie und wo überall man sie nutzen kann. Wir meinen, dass man auch in manchen kleineren Museen und Denkmälern von ihren Möglichkeiten nicht viel weiß. Es wäre aber schön, wenn diese Technologie Inhalt mancher Projekte, Publikationen, Lehrpfade wäre …"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nehmen wir das Beispiel, das uns eingefallen ist: In eine Anwendung für erweiterte Realität können wir eine Datenbank mehrerer Bilder laden, und nachdem sie von der Anwendung erfasst und erkannt worden sind, wird Ihnen die erweiterte Realität auf der Grundlage der Erfassung aus jeder beliebigen veröffentlichten Form angezeigt, sei es ein Faltblatt, ein Buch, eine Tafel usw. Ein Burggrundriss zum Beispiel ändert sich in den Publikationen mehr oder weniger nicht, und die Anwendung erkennt die Bilder auch dann, wenn sie in einer etwas anderen Form vorliegen (mit Höhenlinien, ohne und Ähnliches). So müssen wir keine eigenen Auslösebilder erstellen, und die erweiterte Realität wird auf alles reagieren, was sie erkennt – also, wie man sagt, Opensource."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Nutzung der „erweiterten Realität“ bei der Popularisierung der Archäologie",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "6A_grDf3gLM",
+    "url": "https://www.youtube.com/embed/6A_grDf3gLM",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In unserer in Vorbereitung befindlichen Zeitschrift bereiten wir für Sie eine Artikelserie über interessante Technologien und ihre Nutzung im Bereich der Archäologie und der Geschichte vor."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

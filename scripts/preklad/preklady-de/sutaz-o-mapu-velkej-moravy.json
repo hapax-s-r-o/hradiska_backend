@@ -1,0 +1,172 @@
+{
+ "slug": "sutaz-o-mapu-velkej-moravy",
+ "data": {
+  "title": "Wettbewerb um eine Karte Großmährens",
+  "slug": "wettbewerb-um-eine-karte-grossmaehrens",
+  "excerpt": "In Zusammenarbeit mit der Firma Slovia haben wir für Sie einen Wettbewerb vorbereitet: Senden Sie uns Fotografien eines der Burgwälle, die auf unserer Seite beschrieben sind und zu denen wir noch keine Fotografien haben. Ihre Bilder veröffentlichen wir auf der Seite und in der Facebook-Diskussion; auf der Grundlage der Abstimmung der Leser erhält der Autor der besten Fotografien eine hochwertig gestaltete Karte Großmährens oder eine Karte des Reiches des Samo.",
+  "metaTitle": "Wettbewerb um eine Karte Großmährens",
+  "metaDescription": "Wettbewerb mit der Firma Slovia: Senden Sie uns Fotografien von Burgwällen und gewinnen Sie eine Karte Großmährens oder des Reiches des Samo.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5012,
+    "alt": "Lehrkarte Großmährens mit Grenzen, Siedlungen und Zeichnungen von Figuren und Funden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zusammenarbeit mit der Firma "
+       },
+       {
+        "type": "link",
+        "url": "http://www.slovia.sk/produkty.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Slovia"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " haben wir für Sie einen interessanten Wettbewerb vorbereitet, mit dem Sie sich einerseits an der Bereicherung unserer Seite beteiligen und zugleich einen wertvollen Preis gewinnen können – eine hochwertig gestaltete Karte Großmährens, auf der viele bekannte Burgwälle eingezeichnet sind, oder eine Karte des Reiches des Samo von der Firma "
+       },
+       {
+        "type": "link",
+        "url": "http://www.slovia.sk/produkty.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Slovia"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Wettbewerb kann sich jeder beteiligen. Es genügt, dass Sie uns "
+       },
+       {
+        "type": "text",
+        "text": "Fotografien eines der Burgwälle schicken",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die auf unserer Seite "
+       },
+       {
+        "type": "link",
+        "url": "/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.hradiska.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " beschrieben sind und "
+       },
+       {
+        "type": "text",
+        "text": "zu denen wir noch keine Fotografien haben.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Es sind immer noch recht viele; aufs Geratewohl kann ich Skalka nad Váhom, Krivín, Kusín, Tomášovce, Mužla und viele weitere Burgwälle nennen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihre Fotografien werden dann auf unserer Seite und in der Facebook-Diskussion veröffentlicht. Anschließend wählen wir auf der Grundlage der Abstimmung der Leser den Autor der besten Fotografien aus, der die erwähnte Karte Großmährens erhält. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fotos können Sie an die Adresse "
+       },
+       {
+        "type": "link",
+        "url": "mailto:orgon333@gmail.com",
+        "children": [
+         {
+          "type": "text",
+          "text": "orgon333@gmail.com"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " senden; anschließend werden sie auf dieser Seite und auf Facebook veröffentlicht.\n \n "
+       },
+       {
+        "type": "link",
+        "url": "http://www.slovia.sk/produkty.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Den Preis für den Wettbewerb hat uns die Firma Slovia zur Verfügung gestellt."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Wettbewerb um eine Karte Großmährens",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

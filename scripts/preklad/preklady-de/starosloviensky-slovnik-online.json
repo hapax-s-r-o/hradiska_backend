@@ -1,0 +1,58 @@
+{
+ "slug": "starosloviensky-slovnik-online",
+ "data": {
+  "title": "Altkirchenslawisches Wörterbuch online",
+  "slug": "altkirchenslawisches-woerterbuch-online",
+  "excerpt": "Die kyrillo-methodianische Mission übersetzte für die Bedürfnisse Großmährens religiöse und juristische Bücher. Wie übertrug sie die griechischen und lateinischen Texte ins Altkirchenslawische?",
+  "metaTitle": "Altkirchenslawisches Wörterbuch online",
+  "metaDescription": "Wie die kyrillo-methodianische Mission griechische und lateinische Texte ins Altkirchenslawische übertrug – und ein Online-Wörterbuch für Interessierte.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kyrillo-methodianische Mission übersetzte für die Bedürfnisse Großmährens religiöse und juristische Bücher. Wie übertrug sie die griechischen und lateinischen Texte ins Altkirchenslawische?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das hat sich unsere Mitarbeiterin Stanislava angesehen, die sich mit der Glagoliza und dem Altkirchenslawischen schon lange beschäftigt. Auf der Seite, die Sie unter "
+       },
+       {
+        "type": "link",
+        "url": "https://staroslovienskyjazyk.blogspot.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "diesem Link"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " finden, hat sie knapp und übersichtlich die interessantesten altkirchenslawischen Wörter zusammengestellt, die einen Bezug zu den Burgwällen und zum Leben der Slawen auf ihnen haben. Es sind zahlreiche Wörter, die mit Kampf, Burg, Opfer, Geld, Schifffahrt, Begräbnis oder Bauwerken zusammenhängen. Lesen Sie also, wie die einzelnen Wörter im 10. und 11. Jahrhundert klangen. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

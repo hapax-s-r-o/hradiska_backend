@@ -1,0 +1,110 @@
+{
+ "slug": "stanovisko-k-takzvanym-slovansko-arijskym-vedam",
+ "data": {
+  "title": "Stellungnahme zu den sogenannten „Slawisch-Arischen Veden“",
+  "slug": "stellungnahme-zu-den-slawisch-arischen-veden",
+  "excerpt": "Die Seuche namens Slawisch-Arische Veden nehmen wir schon länger zur Kenntnis – ihre Theorien sind so dumm, dass ich mich nie dazu überwinden konnte, etwas Sinnvolles darüber zu schreiben. Umso mehr hat es mich gefreut, dass Žiarislav eine klare und kompromisslose Stellungnahme veröffentlicht hat, die knapp und verständlich erklärt, worin die Gefahr dieser neuzeitlichen dummen Ideologie besteht, die die Geschichte der Slawen buchstäblich sabotiert und diskreditiert.",
+  "metaTitle": "Stellungnahme zu den „Slawisch-Arischen Veden“",
+  "metaDescription": "Warum die sogenannten Slawisch-Arischen Veden pseudohistorischer Unsinn sind – eine kritische Stellungnahme zu dieser Mystifikation der Geschichte.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5088,
+    "alt": "Fantasiegemälde von Flugmaschinen über einer slawischen Landschaft mit Gestalten in historischer Kleidung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Seuche namens Slawisch-Arische Veden nehmen wir schon länger zur Kenntnis. Ihre Theorien sind so dumm, dass ich mich nie dazu überwinden konnte, etwas Sinnvolles darüber zu schreiben. Das würde nämlich voraussetzen, dass ich eine recht beträchtliche Zeit mit dem Studium des Unsinns verbringe, den sie verkünden, und meine Zeit ist dafür zu kostbar. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Umso mehr hat es mich gefreut, dass sich Žiarislav dieser undankbaren Aufgabe angenommen hat; er hat heute auf seiner Seite eine klare und kompromisslose Stellungnahme zu den sog. „Slawisch-Arischen Veden“ veröffentlicht. Da ich mich mit den meisten seiner in dieser Stellungnahme geäußerten Standpunkte identifiziere, halte ich es für notwendig, auch unsere Leser auf seinen Artikel hinzuweisen, in dem er den Lesern knapp und verständlich erklärt, worin die Gefahr dieser neuzeitlichen dummen Ideologie besteht, die die Geschichte der Slawen und die Menschen, die sich ihr widmen wollen, buchstäblich sabotiert und diskreditiert. Lassen wir also Žiarislav selbst sprechen: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Stellungnahme zu den sogenannten „Slawisch-Arischen Veden“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Erklärung zu den ‚slawisch-arischen Veden‘. (Klicken Sie unten den Artikel an.) Damit klar ist, wer wer ist. Jemand sagte – Ihnen geht es doch um dasselbe. Aber das ist nicht wahr. Wir haben weder gemeinsame Mittel noch gemeinsame Ziele. Hinter dem Slawentum verbirgt sich heute schon sonst wer. Viele missbrauchen es, sie missbrauchen das nationale Empfinden und entehren so die echte slawische Geistigkeit. Das Wesen des Vedomectvo (der slawischen Wissenslehre) ist die Erkenntnis, also das Bewusstsein, das gute Sehen – ‚návisť‘ (das Gegenteil von ‚nenávisť‘, Hass). Und umgekehrt kann es nicht sein. Mag sein, dass wir ein paar Freunde verlieren, wenn wir die Dinge klar und wahrheitsgemäß aussprechen – aber waren es dann wirklich unsere Freunde? Wir gewinnen mehr. Wir werden der Wahrheit näher sein und unsere Freundschaften werden echter sein. Wenn wir Achtung pflegen wollen, müssen wir auch die Ehre bewahren. Und über die Dinge rein und klar sprechen, so wie wir sie sehen. So sei es."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit einer großen Dosis Hass, Überlegenheitsdünkel und vor allem mit spekulativer Deutung, mit Erfindungen und dem Verdrehen von Tatsachen ist es den Gruppen, die die sog. ‚slawisch-arischen Veden‘ verbreiten, in den slawischen Ländern gelungen, die ursprünglichen slawischen Kulturströmungen, die weniger Bewanderte nicht von ihnen unterscheiden können, teilweise zu diskreditieren.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.rodnacesta.sk/vyhlasenie-ziarislava-k-teoriam-takzvanych-slovansko-arijskych-vied?fbclid=IwAR2URoNulRVryb4kLYiB78iVrF3DiyOZYPQnhcwnpiskqMXaNQUpAFdlo-o",
+        "children": [
+         {
+          "type": "text",
+          "text": "DEN GANZEN ARTIKEL KÖNNEN SIE HIER LESEN"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

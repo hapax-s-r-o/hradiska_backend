@@ -1,0 +1,47 @@
+{
+ "slug": "t-humaj-slovania-prepadli-fransku-jednotku",
+ "data": {
+  "title": "T. Humaj: Slawen überfallen eine fränkische Einheit",
+  "slug": "slawen-ueberfallen-fraenkische-einheit-zeichnung",
+  "excerpt": "Hinterhalte im Dickicht, in Engpässen und auf felsigen Bergen, plötzliche Überfälle, das Atmen unter Wasser durch hohle Schilfrohre, zwei kurze Speere, hölzerne Bogen und mit Gift bestrichene Pfeile: So schildert die Kampfweise der Slawen der (Pseudo-)Maurikios (587–602). Wie ein solcher Überfall ausgesehen haben konnte, hat unser Mitarbeiter Tomáš Humaj für unsere Seite gezeichnet – auch wenn die Szene offenbar aus dem 9. Jahrhundert stammt.",
+  "metaTitle": "Slawen überfallen eine fränkische Einheit – Zeichnung",
+  "metaDescription": "Zeichnung von T. Humaj zur slawischen Kampfweise bei (Pseudo-)Maurikios: Hinterhalte im Dickicht, Atmen unter Wasser, Speere und Giftpfeile.",
+  "keyFacts": [
+   {
+    "label": "Art",
+    "value": "Zeichnung (Tomáš Humaj) — slawischer Überfall auf eine fränkische Einheit",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5552,
+    "alt": "Zeichnung eines Überfalls: Reiter und Fußkämpfer im Kampf in einem Getreidefeld"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Und weil sie ein räuberisches Leben führen, bereiten sie (die Slawen) die Angriffe auf ihre Feinde gern im Dickicht, in Engpässen und auf felsigen Bergen vor. Gern bedienen sie sich der Hinterhalte, plötzlicher Überfälle und auch der Plünderungen… Den Aufenthalt im Wasser ertragen sie vollkommen, so dass oft einige von ihnen, wenn sie von irgendeiner Gefahr überrascht wurden, tief ins Wasser tauchen und im Munde lange Schilfrohre halten, die zu diesem Zweck zugerichtet, auf ihrer ganzen Länge hohl sind und bis an die Wasseroberfläche reichen. Und auf dem Rücken in der Tiefe liegend, atmen sie durch diese und halten es so mehrere Stunden aus, ohne bei irgendjemandem Verdacht zu erregen… Als Waffe trägt jeder zwei kurze Speere, einige auch schöne Schilde… Sie gebrauchen auch hölzerne Bogen und kurze, mit Gift bestrichene Pfeile… Weil sie (über sich) keine Herrschaft dulden und einander hassen, kennen sie keine Schlachtordnung und lieben es nicht, in geschlossenen Abteilungen zu kämpfen oder sich in kahlem und flachem Gelände zu zeigen. Und geschieht es, dass sie sich in den Kampf zu begeben wagen, so rücken sie mit Geschrei ein wenig vor, und wenn die Gegner vor ihrem Geschrei zurückweichen, stürmen sie heftig auf sie los; wenn aber nicht, weichen sie nach hinten zurück…",
+    "author": null,
+    "source": "(Pseudo-)Maurikios (587–602)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie konnte ein solcher Überfall ausgesehen haben? Eine solche Szene hat (auch wenn offenbar aus dem 9. Jahrhundert) unser Mitarbeiter Tomáš Humaj für unsere Seite geschaffen. Was sagen Sie dazu?"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

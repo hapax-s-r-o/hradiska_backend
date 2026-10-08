@@ -1,0 +1,86 @@
+{
+ "slug": "spisske-tomasovce-kresba-vesna",
+ "data": {
+  "title": "Spišské Tomášovce – eine Zeichnung des Burgwalls von Vesna",
+  "slug": "spisske-tomasovce-burgwall-zeichnung-vesna",
+  "excerpt": "Der Burgwall Spišské Tomášovce kann als der bedeutendste slawische Burgwall in der Ostslowakei gelten. Im September 2023 wandte sich der Archäologe Matúš Hudák an uns mit der Bitte, eine Zeichnung dieses Burgwalls für ein geplantes Buch über die Geschichte der Zips zur Verfügung zu stellen. Unser Mitglied Vesna machte sich mit Freude an diese Aufgabe, und das Ergebnis ist diese schöne neue Zeichnung des Burgwalls auf unserer Seite.",
+  "metaTitle": "Spišské Tomášovce – Zeichnung des Burgwalls (Vesna)",
+  "metaDescription": "Zeichnung des bedeutendsten slawischen Burgwalls der Ostslowakei, Spišské Tomášovce, entstanden 2023 für ein Buch über die Geschichte der Zips.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Spišské Tomášovce",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustratorin",
+    "value": "Vesna",
+    "icon": "users"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "der bedeutendste slawische Burgwall in der Ostslowakei",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2023",
+    "title": "Entstehung einer neuen Zeichnung des Burgwalls",
+    "description": "Der Archäologe Matúš Hudák wandte sich im September 2023 an den Verein Hradiská mit der Bitte um eine Zeichnung des Burgwalls für ein geplantes Buch über die Geschichte der Zips. Die Zeichnung schuf unser Mitglied Vesna.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6329,
+    "alt": "Zeichnung eines Burgwalls auf einer Anhöhe, darüber Zeichnungen eines Gefäßes, eines Beschlags und eines Armrings"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/spisske-tomasovce",
+        "children": [
+         {
+          "type": "text",
+          "text": "Spišské Tomášovce"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " kann als der bedeutendste slawische Burgwall in der Ostslowakei gelten. Im September 2023 wandte sich der Archäologe Matúš Hudák an uns mit der Bitte, ob wir nicht eine Zeichnung dieses Burgwalls für ein geplantes Buch über die Geschichte der Zips zur Verfügung stellen könnten. Unser Mitglied Vesna machte sich mit Freude an diese Aufgabe, und das Ergebnis ist diese schöne neue Zeichnung des Burgwalls auf unserer Seite."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

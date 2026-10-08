@@ -1,0 +1,58 @@
+{
+ "slug": "kniha-ozivena-archeologia",
+ "data": {
+  "title": "Das Buch „Oživená archeológia“ (Wiederbelebte Archäologie) – unsere Visualisierungen in Farbe",
+  "slug": "buch-ozivena-archeologia-visualisierungen",
+  "excerpt": "Dwarf Digital Archeology gibt in Zusammenarbeit mit hradiska.sk eine außergewöhnliche, vollfarbige gedruckte Publikation mit unseren interessantesten Visualisierungen heraus. Der Preis beträgt 15 Euro, die Zahl der Exemplare ist auf 100 Stück begrenzt. Bestellen können Sie das Buch über die Seite www.ozivena-archeologia.sk.",
+  "metaTitle": "Buch „Oživená archeológia“ – unsere Visualisierungen",
+  "metaDescription": "Die vollfarbige Publikation „Oživená archeológia“ mit unseren interessantesten Visualisierungen – 15 Euro, auf 100 Exemplare begrenzt.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology gibt in Zusammenarbeit mit hradiska.sk eine außergewöhnliche, vollfarbige gedruckte Publikation mit unseren interessantesten Visualisierungen heraus. Der Preis beträgt 15 Euro, die Zahl der Exemplare ist auf 100 Stück begrenzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf den Seiten "
+       },
+       {
+        "type": "link",
+        "url": "http://www.ozivena-archeologia.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.ozivena-archeologia.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " können Sie Informationen über unsere neueste Publikation lesen; außerdem eröffnen wir die Möglichkeit, sie zu bestellen. Nach dem Eingang der Bestellung bearbeiten wir sie, senden Ihnen eine E-Mail mit Informationen und anschließend das Buch per Post.\n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

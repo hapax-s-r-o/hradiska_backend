@@ -1,0 +1,83 @@
+{
+ "slug": "2-z-vasich-dani-nam-velmi-pomozu",
+ "data": {
+  "title": "2 % Ihrer Steuer helfen uns sehr",
+  "slug": "zwei-prozent-ihrer-steuer-helfen-uns-sehr",
+  "excerpt": "Auch in diesem Jahr bewirbt sich unser Verein Hradiská um 2 % Ihrer Steuer. Im Jahr 2025 haben wir unter anderem Informationstafeln am 5. slawischen Hügelgräberfeld Veľké Hoste erstellt und einen erheblichen Teil unserer Tätigkeit der Mithilfe bei archäologischen Ausgrabungen in der Slowakei gewidmet, bei denen eine große Menge von Funden gerettet werden konnte. Im Jahr 2026 beginnen die Arbeiten am Sammelband über Burgwälle 3.",
+  "metaTitle": "2 % Ihrer Steuer helfen uns sehr",
+  "metaDescription": "Der Verein Hradiská bewirbt sich um 2 % Ihrer Steuer: 2025 entstanden Informationstafeln am Hügelgräberfeld Veľké Hoste, dazu Hilfe bei Ausgrabungen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch in diesem Jahr bewirbt sich unser Verein Hradiská um 2 % Ihrer Steuer. Im Jahr 2025 haben wir neben anderen Aktivitäten Informationstafeln am 5. slawischen Hügelgräberfeld Veľké Hoste erstellt. Ebenso haben wir einen erheblichen Teil unserer Aktivitäten der Mithilfe bei archäologischen Ausgrabungen in der Slowakei gewidmet, bei denen es uns gelungen ist, eine große Menge archäologischer Funde zu retten; einige von ihnen schreiben die Geschichte der Region buchstäblich um. Einen Teil davon können wir noch nicht veröffentlichen, aber Sie werden davon unter den Ersten erfahren. Ebenso beginnen wir im Jahr 2026 mit den Arbeiten am Sammelband über Burgwälle 3."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn also jemand bereit wäre, uns 2 % seiner Einkommensteuer zuzuwenden, kann er hier das Formular herunterladen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir danken Ihnen.  \n  \n "
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch in diesem Jahr bewerben wir uns um Ihre 2 %, und wenn Sie noch nicht entschieden sind, wären wir Ihnen für Ihre Hilfe sehr dankbar.\n \n Das Formular für das Jahr 2025 können Sie "
+       },
+       {
+        "type": "link",
+        "url": "https://drive.google.com/file/d/1BeHiPN2m74aC8tPZe7fU3hqe9s0DPAfM/view?usp=sharing",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier herunterladen: Formular für die 2 %"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

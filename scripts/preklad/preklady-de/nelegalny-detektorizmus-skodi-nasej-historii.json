@@ -1,0 +1,192 @@
+{
+ "slug": "nelegalny-detektorizmus-skodi-nasej-historii",
+ "data": {
+  "title": "Illegale Schatzsuche mit dem Metalldetektor schadet unserer Geschichte",
+  "slug": "illegale-sondengaengerei-schadet-der-geschichte",
+  "excerpt": "Sondengänger bestehlen das eigene Land jedes Jahr um Tausende archäologische Denkmäler: Sie verkaufen sie an Händler im Ausland, lagern sie unsachgemäß zu Hause und zerstören dabei Hunderte von Fundstellen. Das Aufspüren archäologischer Denkmäler mit dem Metalldetektor ist nach dem Strafgesetzbuch eine Straftat.",
+  "metaTitle": "Illegale Sondengängerei schadet unserer Geschichte",
+  "metaDescription": "Illegale Sondengänger entreißen dem Land jedes Jahr Tausende archäologische Denkmäler, verkaufen sie ins Ausland und machen die Forschung unmöglich.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4679,
+    "alt": "Verbotszeichen mit der durchgestrichenen Figur eines Suchers mit Metalldetektor"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sondengänger bestehlen ihr eigenes Land und seine Bürger jedes Jahr um TAUSENDE archäologische Denkmäler, die sie:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "auf Internetseiten verkaufen, vor allem an Händler im Ausland"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "aus eigensüchtigen Gründen unsachgemäß zu Hause aufbewahren und damit deren fachliche Untersuchung, Dokumentation und Zugänglichmachung für die Öffentlichkeit verhindern"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "entwerten, wenn sie für sie keinen finanziellen oder sonstigen Wert haben"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sondengänger sind keine Archäologen!!!",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "-für den Archäologen ist nicht der Fund selbst so wichtig wie der Kontext, in dem sich das Denkmal befindet; durch die Ausräumung berauben wir uns wichtiger Informationen und Erkenntnisse"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "-Sondengänger zerstören jedes Jahr Hunderte von Fundstellen, machen damit die Arbeit und die Forschung an der archäologischen Fundstelle unmöglich und zerstören so die Geschichte des betreffenden Gebietes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "-gerade in Ihrer Gemeinde oder in ihrer Umgebung plündern diese Geschichtsdiebe vielleicht Denkmäler, die unter anderen Umständen Ihr Dorf oder Ihre Stadt berühmt gemacht hätten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Illegale Sondengängerei schadet unserer Geschichte"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "-Denkmälern, die seit Tausenden von Jahren in der Erde verborgen sind, geht es unter der Erde am besten, und sie halten dort auch bis zur Ankunft des Archäologen aus, der am besten weiß, wie mit ihnen umzugehen ist, wie sie zu untersuchen und zu publizieren sind"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "-jeder Fund ist einem Archäologen oder gegebenenfalls einer archäologischen Institution zu übergeben\n \n"
+       },
+       {
+        "type": "text",
+        "text": "Nach § 249 Absatz 1 des Strafgesetzbuches ist das Aufspüren archäologischer Denkmäler mit dem Metalldetektor sowie der Besitz archäologischer Denkmäler eine Straftat, für die eine Freiheitsstrafe von 1 bis 5 Jahren droht. ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kontakte zu den Archäologen der Kreisdenkmalämter"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

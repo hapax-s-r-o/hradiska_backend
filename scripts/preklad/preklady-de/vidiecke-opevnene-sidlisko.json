@@ -1,0 +1,60 @@
+{
+ "slug": "vidiecke-opevnene-sidlisko",
+ "data": {
+  "title": "Eine befestigte ländliche Siedlung – der Alltag auf einem Burgwall",
+  "slug": "befestigte-laendliche-siedlung-zeichnung",
+  "excerpt": "Peter Bros hat einen weiteren Blick in das Leben unserer slawischen Vorfahren gezeichnet. Dargestellt ist kein konkreter Burgwall, doch seine Anordnung ist in den gebirgigen Teilen der Slowakei nichts Außergewöhnliches: der einfach befestigte untere Teil für die gewöhnliche Bevölkerung, der obere für die bewaffnete Besatzung, die hier Wache hielt und im Fall einer Bedrohung eine Fliehburg bot. Die Zeichnung zeigt den Alltag des 8.–11. Jahrhunderts.",
+  "metaTitle": "Befestigte ländliche Siedlung – Leben auf einem Burgwall",
+  "metaDescription": "Zeichnung des Alltags in einer befestigten ländlichen slawischen Siedlung in den gebirgigen Teilen der Slowakei im 8.–11. Jahrhundert von Peter Bros.",
+  "keyFacts": [
+   {
+    "label": "Zeitraum",
+    "value": "8.–11. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Siedlungstyp",
+    "value": "befestigte ländliche Siedlung",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6320,
+    "alt": "Zeichnung einer befestigten ländlichen Siedlung mit Blockhäusern, einem Wachturm und Tieren"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Peter Bros hat einen weiteren interessanten Blick in das Leben unserer slawischen Vorfahren gezeichnet. Dargestellt ist kein konkreter Burgwall, aber seine Anordnung ist in den gebirgigen Teilen der Slowakei nichts Außergewöhnliches. Die Zeichnung zeigt das alltägliche Leben auf einem Burgwall in der Zeit des 8.–11. Jahrhunderts. Im unteren Teil ist die gewöhnliche Bevölkerung versammelt, und er ist verhältnismäßig einfach befestigt; der obere Teil diente der bewaffneten Besatzung und erfüllte gleichzeitig die Aufgabe eines Wachpostens und im Fall einer Bedrohung auch die Funktion einer Fliehburg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vielen Dank."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

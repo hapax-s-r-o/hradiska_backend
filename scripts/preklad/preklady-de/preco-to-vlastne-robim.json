@@ -1,0 +1,76 @@
+{
+ "slug": "preco-to-vlastne-robim",
+ "data": {
+  "title": "Warum mache ich das eigentlich? – über das Projekt Hradiská",
+  "slug": "warum-ich-das-eigentlich-mache-projekt-hradiska",
+  "excerpt": "Einleitende Worte zum Projekt: Diese Seite ist vor allem den alten slawischen Burgwällen auf dem Gebiet der Slowakei gewidmet, sie geht aber auch slawischen Burgwällen in anderen Staaten und den Anlagen anderer Kulturen nicht aus dem Weg – vor allem der Kelten und der Lausitzer Kultur. Ziel ist es, zu jedem Burgwall möglichst umfassende Informationen zusammenzutragen.",
+  "metaTitle": "Warum mache ich das eigentlich? – Projekt Hradiská",
+  "metaDescription": "Einleitende Worte zum Projekt über die slawischen Burgwälle der Slowakei und des Auslands sowie über Anlagen der Kelten und der Lausitzer Kultur.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5008,
+    "alt": "Logo von Slovanské hradiská mit hölzernem Wachturm und Palisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Seite wird vor allem den alten slawischen Burgwällen auf dem Gebiet der Slowakei gewidmet sein, wir werden aber auch slawischen Burgwällen in anderen Staaten oder den Anlagen anderer Kulturen nicht ausweichen, vor allem der Kelten oder der Lausitzer Kultur.\n  Ich bin kein Berufshistoriker, interessiere mich aber neben anderen Pflichten schon lange für die Geschichte der Slawen, deshalb bitte ich um Nachsicht.  Ich habe festgestellt, dass es keine Seite gibt, die sich den alten Burgwällen so widmen würde, wie es z. B. bei Burgen und Schlössern der Fall ist. Informationen zu den einzelnen Burgwällen lassen sich zwar finden, aber das ist recht mühsam und zeitaufwendig. Mein Vorhaben ist es, eine Seite zu schaffen, auf der möglichst viele slawische Burgwälle versammelt sind, und zu jedem Burgwall möchte ich möglichst umfassende Informationen zusammentragen, die heute zur Verfügung stehen. Es wird um die heute bekannte Geschichte des Burgwalls gehen, um Funde, Zeichnungen, Rekonstruktionen, Fotografien usw. Am liebsten würde ich an die absolute Grundlage herankommen – also an die konkreten Arbeiten der Archäologen, die die Burgwälle in der Vergangenheit untersucht haben. Das ist aber der Idealzustand, den ich erreichen möchte, und mir ist klar, dass sich ein solches Ziel nicht in 1–2 Monaten erreichen lässt, sondern dass es eine langfristige Sache ist.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für den Anfang werfe ich hier ein paar Burgwälle hinein, zu denen ich bisher gekommen bin, und nach und nach kommen weitere Burgwälle und genauere Informationen zu den bereits bestehenden hinzu.  Viele Artikel, die Sie hier lesen werden, sind von anderen Autoren übernommen oder stammen von anderen Seiten, auf denen die Informationen über die Burgwälle verstreut sind; in solchen Fällen wird selbstverständlich immer die Quelle angegeben.  Falls ein Autor nicht wünscht, dass sein Artikel auf dieser Seite erscheint, werde ich das natürlich akzeptieren und ihn löschen, aber ich hoffe, dass ich solche Probleme nicht lösen muss und dass die Leute verstehen, dass es hier um einen gemeinnützigen Blog geht, der in guter Absicht die Öffentlichkeit informieren und das Interesse an unserer gemeinsamen glanzvollen Geschichte wecken will.  Wenn auch Archäologen und Historiker auf diese Seite stoßen und etwas ergänzen oder berichtigen wollen, lasse ich mich sehr gern belehren.  \n  "
+       },
+       {
+        "type": "text",
+        "text": "Warum gerade slawische Burgwälle?",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "  \n  Die slawischen Burgwälle sind nicht nur ein Symbol der großen Baukunst unserer slawischen Vorfahren, die vor mehr als 1000 Jahren mächtige Befestigungen zu errichten vermochten, vor denen nicht selten auch die größten Heere ihrer Zeit kapitulierten, sondern sie sind auch ein lebendiger Beweis ihrer Unabhängigkeit, ihrer Entwicklungshöhe, ihres Stolzes, ihres Reichtums und ihrer politischen Macht. Auf den Burgwällen lebten unsere Adligen mit ihren Familien, die Gefolgschaft, aber auch kunstfertige Handwerker – Schmiede und Schmuckhandwerker, deren Erzeugnisse wir dank der Archäologie noch heute bewundern können –, Händler, Geistliche und andere bedeutende Bewohner. Neben den Gebäuden der einfachen Bevölkerung finden wir auf den Burgwällen repräsentative Wohnbauten des Adels, die ersten christlichen Kirchen oder heidnische Heiligtümer.  \n  Ziel der Seite ist es auch, den Lesern in ansprechender Form eine ungemein interessante Epoche unserer Nationalgeschichte näherzubringen – das Frühmittelalter, vor allem die Zeit Großmährens. Seien wir stolz auf unsere Geschichte. Wir haben viele Gründe dafür.\n\nKONTAKT ZU MIR: "
+       },
+       {
+        "type": "text",
+        "text": "ORGON333@GMAIL.COM",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Warum mache ich das eigentlich?",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

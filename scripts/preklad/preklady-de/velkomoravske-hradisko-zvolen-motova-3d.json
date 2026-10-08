@@ -1,0 +1,222 @@
+{
+ "slug": "velkomoravske-hradisko-zvolen-motova-3d",
+ "data": {
+  "title": "Zvolen-Môťová – der großmährische Burgwall Priekopa in 3D",
+  "slug": "zvolen-motova-burgwall-priekopa-3d",
+  "excerpt": "Auf einem Bergsporn über dem Zusammenfluss von Slatina und Neresnica im heutigen Zvolen erhob sich der großmährische Burgwall Priekopa – eines der lokalen Verwaltungszentren Großmährens. Noch in den 1950er Jahren war er gut erhalten; nach 1968 wurde er parzelliert und 19 Kleingärtnern übergeben, die ihn verwüsteten. Gemeinsam mit Dwarf digital archeology und der Archäologin Marta Mácelová haben wir seine ursprüngliche Gestalt als 3D-Rekonstruktion wiederhergestellt.",
+  "metaTitle": "Zvolen-Môťová (Priekopa) – großmährischer Burgwall in 3D",
+  "metaDescription": "3D-Visualisierung des großmährischen Spornburgwalls Priekopa über dem Zusammenfluss von Slatina und Neresnica in Zvolen – ein lokales Verwaltungszentrum.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Zvolen, Stadtteil Môťová, über dem Zusammenfluss von Slatina und Neresnica",
+    "icon": "map"
+   },
+   {
+    "label": "Typ des Burgwalls",
+    "value": "Spornburg, lokales Verwaltungszentrum Großmährens",
+    "icon": "building"
+   },
+   {
+    "label": "Spätere Entwicklung",
+    "value": "Die Funktion übernahmen Pustý hrad und später das Schloss Zvolen",
+    "icon": "crown"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "Archäologische Ausgrabung von Dr. Marta Mácelová (Anfang der 1990er Jahre)",
+    "icon": "scroll"
+   },
+   {
+    "label": "3D-Rekonstruktion",
+    "value": "In Zusammenarbeit mit Dwarf digital archeology, fachliche Beratung Marta Mácelová",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1930er Jahre",
+    "title": "Vermessung des Burgwalls",
+    "description": "Den Burgwall vermaß Štefan Janšák.",
+    "type": "discovery"
+   },
+   {
+    "year": "1950er Jahre",
+    "title": "Burgwall noch gut erhalten",
+    "description": "Trotz der Beschädigung durch eine Roma-Siedlung an seinem Rand war der Burgwall noch gut erhalten.",
+    "type": "event"
+   },
+   {
+    "year": "nach 1968",
+    "title": "Parzellierung des Burgwalls",
+    "description": "Der Burgwall wurde durch Entscheidung der damals Mächtigen parzelliert und 19 Kleingärtnern zur Nutzung übergeben, die ihn durch die Nichtbeachtung der Grundsätze der Denkmalpflege verwüsteten.",
+    "type": "destruction"
+   },
+   {
+    "year": "Anfang der 1990er Jahre",
+    "title": "Archäologische Ausgrabung",
+    "description": "Dr. Marta Mácelová führte auf dem Grundstück eines der Kleingärtner eine archäologische Ausgrabung durch; von dort stammt die Mehrzahl der bekannten Funde.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4627,
+    "alt": "3D-Rekonstruktion des Burgwalls mit einer Stein-Holz-Mauer und Blockhäusern über dem See"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der auf einem Bergsporn gelegene "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zvolen-motova-hradok-priekopa",
+        "children": [
+         {
+          "type": "text",
+          "text": "großmährische Burgwall Priekopa"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " erhob sich majestätisch im heutigen Zvolen (Altsohl) über dem Zusammenfluss der Flüsschen Slatina und Neresnica, im Stadtteil Môťová. Den Burgwall zählen wir zu den lokalen Verwaltungszentren, d. h. zu den bedeutenderen Burgwällen Großmährens. Im Laufe des Mittelalters verlor er seine Bedeutung, und seine Funktion übernahmen die Burg Pustý hrad und später das Schloss Zvolen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den 1930er Jahren vermaß Štefan Janšák den Burgwall, und noch in den 1950er Jahren war der Burgwall gut erhalten, auch wenn ihn eine Roma-Siedlung an seinem Rand zu beschädigen begann. Nach dem Jahr 1968 wurde jedoch durch Entscheidung der damals Mächtigen der gesamte Burgwall parzelliert und 19 Kleingärtnern zur Nutzung übergeben. Die Kleingärtner verwüsteten den Burgwall durch die Nichtbeachtung der Grundsätze der Denkmalpflege vollständig und beraubten damit die folgenden Generationen sehr wertvoller Informationen und Funde, die sich auf dem Burgwall befanden. Eine Ausnahme bildet ein einziger von ihnen, der Frau Dr. Mácelová Anfang der 1990er Jahre bereitwillig eine archäologische Ausgrabung auf seinem Grundstück ermöglichte; die Mehrzahl der bekannten Funde stammt gerade aus dieser Ausgrabung. Die Übrigen waren jedoch nicht so entgegenkommend. Unseren Informationen zufolge ließ einer der Kleingärtner, der den Randbereich des Burgwalls nutzte, auf dem mit größter Wahrscheinlichkeit das prächtige Gebäude des örtlichen Adligen stand, sogar den Boden mit den Resten von Steinen und Material des Objektes bis in eine Tiefe von 100–120 cm entfernen (abtransportieren) und schüttete dort andere Erde auf, womit er das gesamte Objekt vernichtete. So schätzen manche Slowaken unsere Geschichte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der großmährische Burgwall Zvolen-Môťová in 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "gg8E7-5ltl8",
+    "url": "https://www.youtube.com/embed/gg8E7-5ltl8",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenwärtig ist der Burgwall in keiner Weise gekennzeichnet; die Informationstafel, die sich am Eingangstor befindet, dient vielen Dingen, nur nicht der Information über den Burgwall. Der Burgwall ist umzäunt, das Tor geschlossen, und Zugang zu ihm haben nur die Kleingärtner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dies ist einer der Gründe, weshalb wir uns gemeinsam mit "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf digital archeology"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " entschlossen haben, die ursprüngliche Gestalt des Burgwalls in großmährischer Zeit zu rekonstruieren. Für den fachlichen Rat danken wir der Archäologin Marta Mácelová, die den Burgwall untersucht hat und die uns wertvolle Informationen über die Befestigung, das Tor und die Innenbebauung des Burgwalls zur Verfügung gestellt hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer den heutigen Zustand der Fundstelle kennt, wird vielleicht überrascht sein, dass der Sporn in unserer Visualisierung von beiden Seiten von einem Fluss umflossen wird, da heute nur die Neresnica an der Westseite des Sporns verläuft. Dieser Zustand ist jedoch durch die Verlegung des Flussbetts der Slatina verursacht, zu der es erst im 20. Jahrhundert kam. Ursprünglich schlang sich die Slatina um den östlichen Teil des Sporns, was nicht nur auf der Zweiten Militärischen Aufnahme, sondern auch auf einer Orthofotokarte aus den 1950er Jahren deutlich zu erkennen ist. Der östliche Hang des Burgwalls war steil und mündete direkt in das Flussbett der Slatina, und deshalb benötigte diese Seite des Burgwalls keine ausgeprägte Befestigung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir hoffen, dass Ihnen die Visualisierung des ältesten Zvolen gefallen wird."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einige Ansichten, die nicht in das Video gepasst haben:"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

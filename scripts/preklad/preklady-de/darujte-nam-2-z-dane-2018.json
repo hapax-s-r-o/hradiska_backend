@@ -1,0 +1,58 @@
+{
+ "slug": "darujte-nam-2-z-dane-2018",
+ "data": {
+  "title": "Widmen Sie dem Verein Hradiská 2 % Ihrer Steuer (2018)",
+  "slug": "spenden-sie-zwei-prozent-der-steuer-2018",
+  "excerpt": "Auch im Jahr 2018 bewirbt sich der Verein Hradiská um 2 % Ihrer Steuern. Im vergangenen Jahr haben wir mit diesem Geld die nötige Technik gekauft – Metalldetektoren, eine Drohne und Ähnliches –, die wir bei Ausgrabungen mit Archäologen nutzen. Aus diesem Geld finanzieren wir auch unsere Aktionen, zum Beispiel die Herstellung und Aufstellung von Informationstafeln. Für dieses Jahr planen wir den neuen Sammelband Hradiská – svedkovia dávnych čias und auch andere Publikationen.",
+  "metaTitle": "Widmen Sie dem Verein Hradiská 2 % Ihrer Steuer (2018)",
+  "metaDescription": "Auch 2018 bewirbt sich der Verein Hradiská um 2 % der Steuer. Im Vorjahr kaufte er davon Metalldetektoren, eine Drohne und weitere Technik.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch im Jahr 2018 bewerben wir uns um 2 % Ihrer Steuern. Im vergangenen Jahr haben wir mit diesem Geld die nötige Technik gekauft (Metalldetektoren, eine Drohne und Ähnliches), die wir bei Ausgrabungen mit Archäologen nutzen, denen wir auf diese Weise helfen. Aus diesem Geld finanzieren wir auch unsere Aktionen, zum Beispiel die Herstellung und Aufstellung von Informationstafeln. In diesem Jahr planen wir die Vorbereitung und Herausgabe des neuen Sammelbandes Hradiská – svedkovia dávnych čias (Burgwälle – Zeugen längst vergangener Zeiten) und auch andere Publikationen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir danken Ihnen für jeden Euro.\n \n Das Formular für die Zuwendung von 2 % können Sie unter "
+       },
+       {
+        "type": "link",
+        "url": "https://drive.google.com/file/d/1wAQioH7ddWvWqaK0-GIxKMzmYamNofT1/view?usp=sharing",
+        "children": [
+         {
+          "type": "text",
+          "text": "diesem Link"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " herunterladen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

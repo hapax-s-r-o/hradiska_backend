@@ -1,0 +1,118 @@
+{
+ "slug": "interaktivna-mapa-hradisk",
+ "data": {
+  "title": "Eine interaktive Karte der Burganlagen in der Slowakei",
+  "slug": "interaktive-karte-der-burganlagen-slowakei",
+  "excerpt": "In Zusammenarbeit mit der außergewöhnlichen Website www.podmevon.sk stellen wir Ihnen unser neuestes gemeinsames Projekt vor: eine interaktive Karte der Slowakei, auf der Sie viele bekannte Burganlagen der Slawen, der Kelten und anderer Kulturen eingezeichnet finden. Den meisten davon sind ein Bild und ein Link zu unserem Artikel über die Anlage zugeordnet. Die Karte finden Sie von jetzt an immer im unteren Teil unserer Seite.",
+  "metaTitle": "Interaktive Karte der Burganlagen in der Slowakei",
+  "metaDescription": "Eine interaktive Karte der Slowakei mit eingezeichneten Burganlagen der Slawen, Kelten und anderer Kulturen, entstanden gemeinsam mit podmevon.sk.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5015,
+    "alt": "Screenshot einer Karte der Slowakei mit einem markierten Kreis um einen ausgewählten Ort"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zusammenarbeit mit der außergewöhnlichen Website "
+       },
+       {
+        "type": "link",
+        "url": "http://www.podmevon.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.podmevon.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bringen wir Ihnen unser neuestes gemeinsames Projekt – eine interaktive Karte der Slowakei, auf der Sie viele bekannte Burganlagen der Slawen, der Kelten und anderer Kulturen eingezeichnet finden. Die Karte mit den eingezeichneten Burganlagen finden Sie von jetzt an immer im unteren Teil unserer Seite. Die Karte lässt sich selbstverständlich heran- und herauszoomen, sie kann auch in den Modus der Satellitenkarte und in den Modus der touristischen Karte der Slowakei umgeschaltet werden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den meisten Burganlagen sind ein Bild der Anlage und ein Link auf den Artikel über diese Anlage zugeordnet, den wir auf unserer Seite www.hradiska.sk haben. Nach einem Klick auf das grüne Symbol der Burganlage öffnet sich eine „Sprechblase“, in der Sie das genannte Bild der Anlage und die Schaltfläche „mehr Informationen“ finden, und genau diese Schaltfläche leitet Sie auf unsere Seite weiter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich empfehle außerdem, den Server "
+       },
+       {
+        "type": "link",
+        "url": "http://www.podmevon.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.podmevon.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " direkt zu besuchen – nicht nur bei der Suche nach Burganlagen, sondern auch nach einer Vielzahl anderer Denkmäler und touristischer Attraktionen, von denen Sie auf der Karte Hunderte finden; die einzelnen Einträge lassen sich dabei elegant filtern, sodass die Karte nur jene Art von Denkmal anzeigt, die Sie auswählen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Eine interaktive Karte der Burganlagen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen direkten Link auf die Seite www.podmevon.sk finden Sie von jetzt an auch in der Seitenleiste unserer Website."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

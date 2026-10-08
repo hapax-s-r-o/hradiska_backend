@@ -1,0 +1,30 @@
+{
+ "slug": "kelti-v-tvrdosovciach",
+ "data": {
+  "title": "Die Kelten in Tvrdošovce – ein Vortrag mit unseren Visualisierungen",
+  "slug": "kelten-in-tvrdosovce-vortrag",
+  "excerpt": "Wir laden Sie zu einem Vortrag über die Kelten ein, der mit unseren Visualisierungen verbunden ist.",
+  "metaTitle": "Die Kelten in Tvrdošovce – Vortrag mit Visualisierungen",
+  "metaDescription": "Einladung zu einem Vortrag über die Kelten in Tvrdošovce, verbunden mit unseren 3D-Visualisierungen keltischer Siedlungen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir laden Sie zu einem Vortrag über die Kelten ein, der mit unseren Visualisierungen verbunden ist.\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
