@@ -544,6 +544,18 @@ v básni je v poriadku, hoci web inak vyká.
 | Štefan Bočkaj | Stephan Bocskai | |
 | Žilina | Sillein | exonym pri prvom výskyte |
 
+| stavidlo | das **Stauwehr** | *Schleuse* je plavebná komora |
+| 1./2. uhorské vojenské mapovanie | die **1./2. militärische Landesaufnahme (Ungarns)** | ustálený nemecký názov |
+| Noc múzeí | die Nacht der Museen | |
+| Svätý Jur | **Sankt Georgen** | exonym pri prvom výskyte |
+| protiturecké vojny | die **Türkenkriege** | bojovník: *Kämpfer gegen die Türken* |
+| bašta | die Bastei | |
+| vojvoda (Ctibor) | der **Woiwode** | |
+| František Rákoci II. | **Franz II. Rákóczi** | |
+| (Pseudo-)Maurikios | (Pseudo-)Maurikios | |
+| loretánska kaplnka | die Loretokapelle | |
+| prútený plot | der Flechtzaun | |
+
 **Pravopis v preložených citátoch.** Citát sa prekladá verne, ale píše sa
 podľa nemeckého pravopisu — podstatné mená veľkým aj vnútri citátu
 (*Rastislavs „alte Stadt"*). Vernosť je o obsahu a registri, nie o tom, že
