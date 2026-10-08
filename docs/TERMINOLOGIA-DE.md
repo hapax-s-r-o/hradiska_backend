@@ -502,6 +502,27 @@ v básni je v poriadku, hoci web inak vyká.
 | stolová hora | Tafelberg | |
 | polotovar | Halbfabrikat | |
 
+| keltské hradisko (nie oppidum) | keltische befestigte Höhensiedlung | §11.1 rieši len pravek a oppidá |
+| lengyelská kultúra | die **Lengyel-Kultur** | |
+| rondel | das **Rondell** | nemecká literatúra aj *Kreisgrabenanlage* |
+| Uhorsko | das **Königreich Ungarn** | nie samotné *Ungarn* |
+| Ostrihom | **Gran** (Esztergom) | nemecký exonym je zavedený |
+| Považie | das **Waagtal** | |
+| hrádok (praveký, púchovský) | die kleine Höhenburg | stredoveký s násypom ostáva *Motte* |
+| tatársky vpád | der **Tatareneinfall** | |
+| ranouhorský štát | der frühungarische Staat | |
+| zrubová polozemnica | eingetieftes Grubenhaus in **Blockbauweise** | |
+| žrec | der **heidnische Priester** | *Opferpriester* len tam, kde text hovorí o obete |
+| komposesorát | das **Komposessorat** | |
+| krajský pamiatkový úrad | das **Kreisdenkmalamt** | |
+| veľmožský dvorec | der **Herrenhof** | §5 *Gehöft* je pri Ducovom pod úroveň |
+| podhradie | das **Suburbium** | odlišné od predhradia (*Vorburg*) |
+| mýtna stanica | die Zollstation | |
+| staroslovienčina | **altkirchenslawisch** | |
+| triklínium | das Triklinium | |
+| Bratríci | **Bratríci** | nemecká literatúra nemá jednotný tvar |
+| Kopáň (vodca) | **Koppány** | ustálený maďarský tvar |
+
 **Vysvetľujúca glosa v zátvorke.** Dáva sa LEN tam, kde by nemecký čitateľ
 termínu inak nerozumel: *Gombík (kugelförmiger Knopfanhänger)*, *Slovácko
 (die Mährische Slowakei)*, *Nové mesto (Neue Stadt)*. Pri termínoch, ktoré sú
