@@ -590,3 +590,14 @@ má stále.
 Na konci prvého odstavca ostalo „
  
  " z migrácie.
+
+### stare-mesto-velehrad — tri veci na posúdenie
+1. „Veterný mlyn" v 9. storočí (blok 10) je anachronizmus — do nemčiny
+   preložené verne (*Windmühle*), rozhodne autor.
+2. V zozname zbraní (blok 4) je „kópie" — podľa kontextu má byť „kopije";
+   v nemčine *Lanzen*.
+3. Článok mieša „Staré Město" (názov) a „Staré Mesto" (telo).
+
+### bohatstvo-slovenov-slavic-wealth — druhý blok je po anglicky
+V slovenskej verzii je druhý blok anglický (kurzívou). Nemecká verzia ho má
+preložený, rovnako ako anglická.

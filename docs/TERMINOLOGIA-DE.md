@@ -483,6 +483,36 @@ prednosť má verš, inverzia a vetná melódia — nikdy sa z básne nesmie sta
 súvislý odsek. Striedanie časov originálu ostáva. Tykanie v priamej reči
 v básni je v poriadku, hoci web inak vyká.
 
+| stará Morava (nie Veľká) | *das alte Mähren*, *altmährisch* | autor rozlišuje, nemčina musí tiež |
+| obranný val | **Wehrwall** | odlíšenie od obyčajného násypu *Wall* |
+| staroslovenská keramika | **altslawische Keramik** | §11.9 — nikdy *altslowakisch* |
+| Slovácko | **die Mährische Slowakei (Slovácko)** | ustálené nemecké pomenovanie regiónu |
+| cyrilometodské obdobie | **die kyrillo-methodianische Epoche** | |
+| Moravské kráľovstvo | das Mährische Königreich | |
+| kostol sv. Michala | die Kirche des hl. Michael | svätci v nemeckom tvare |
+| ostroha s háčikmi | **Hakensporen** | nedvojzmyselné proti *Bergsporn* |
+| stredná doba laténska | **die Mittellatènezeit** | |
+| olovený ingot | **Bleibarren** | nie *Ingot* |
+| krúžková zbroj (zlomky) | Fragmente eines Kettenhemdes | |
+| depot hrivien | **Hortfund von Eisenbarren** | |
+| OZ Hradiská | der Verein Hradiská | |
+| AÚ SAV | das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) | pri prvom výskyte rozpísať |
+| Nitriansko | die Region Nitra | |
+| horná Nitra (oblasť) | das Gebiet der oberen Neutra | rieka je *die Neutra* |
+| stolová hora | Tafelberg | |
+| polotovar | Halbfabrikat | |
+
+**Vysvetľujúca glosa v zátvorke.** Dáva sa LEN tam, kde by nemecký čitateľ
+termínu inak nerozumel: *Gombík (kugelförmiger Knopfanhänger)*, *Slovácko
+(die Mährische Slowakei)*, *Nové mesto (Neue Stadt)*. Pri termínoch, ktoré sú
+samy priehľadné — *axtförmiger Eisenbarren*, *Holz-Erde-Mauer* — sa glosa
+NEPÍŠE; bolo by to dopĺňanie textu podľa §14. Glosa sa píše raz, pri prvom
+výskyte v článku.
+
+**Autorský hlas.** „Naši predkovia" ostáva *unsere Vorfahren* — je to hlas
+autora a nemecký čitateľ ho tak prečíta. Zakázané ostáva iba „naše územie"
+(§0), ktoré má byť *das Gebiet der heutigen Slowakei*.
+
 **Rod autorky.** `Autor` → **Autorin**, keď je autorkou žena; nemčina rod
 rozlišuje a slovenský label to nepovie.
 
