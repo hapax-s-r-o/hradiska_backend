@@ -31,6 +31,9 @@ const KOREN = resolve(__dirname, '..', '..');
 const arg = (m, d = null) => (process.argv.find((a) => a.startsWith(m))?.slice(m.length)) ?? d;
 const ZAPIS = process.argv.includes('--zapis');
 const SUBOR = arg('--subor=');
+/* Cieľový jazyk. Predvolená angličtina, aby staršie spúšťanie bez prepínača
+   robilo presne to, čo robilo doteraz. */
+const JAZYK = arg('--jazyk=', 'en');
 if (!SUBOR) { console.error('chýba --subor=<cesta k JSON s prekladom>'); process.exit(1); }
 
 const POLIA = ['title', 'slug', 'excerpt', 'metaTitle', 'metaDescription', 'blocks', 'keyFacts', 'timeline', 'quotes',
@@ -130,8 +133,8 @@ async function main() {
     /* DVA KROKY, NIE JEDEN. `update({ status: 'published' })` zapísal anglický
        text do PUBLIKOVANEJ SLOVENSKEJ verzie — overené na kópii. Najprv sa teda
        upraví anglický koncept a až potom sa publikuje výslovne pre jazyk `en`. */
-    await app.documents(UID).update({ documentId, locale: 'en', data: { ...zdielane, ...data } });
-    await app.documents(UID).publish({ documentId, locale: 'en' });
+    await app.documents(UID).update({ documentId, locale: JAZYK, data: { ...zdielane, ...data } });
+    await app.documents(UID).publish({ documentId, locale: JAZYK });
 
     /* Vrátenie slovenského konceptu do pôvodného stavu. */
     const naZapis = (k) => ({
@@ -155,7 +158,7 @@ async function main() {
     await app.documents(UID).update({ documentId, locale: 'sk', data: naZapis(skKoncept) });
 
     /* 1 · anglická verzia existuje a sedí */
-    const en = await app.documents(UID).findOne({ documentId, locale: 'en', status: 'published',
+    const en = await app.documents(UID).findOne({ documentId, locale: JAZYK, status: 'published',
       populate: POPULATE });
     const spocitaj = (bloky) => (bloky || []).reduce((a, b) => {
       a.medii += (b.image ? 1 : 0) + (b.images || []).length + (b.secondImage ? 1 : 0);

@@ -29,6 +29,8 @@ const UID = 'api::blog-post.blog-post';
 
 const arg = (m, d = null) => (process.argv.find((a) => a.startsWith(m))?.slice(m.length)) ?? d;
 const ZAPIS = process.argv.includes('--zapis');
+/* Cieľový jazyk; predvolená angličtina kvôli doterajšiemu spúšťaniu. */
+const JAZYK = arg('--jazyk=', 'en');
 const ZNOVA = process.argv.includes('--znova');
 const LEN = (arg('--len=') || '').split(',').map((s) => s.trim()).filter(Boolean);
 
@@ -79,7 +81,7 @@ async function main() {
   try {
     /* Anglické slugy, ktoré už v databáze sú — nový preklad nesmie prepísať
        cudzí článok. */
-    const anglicke = await app.documents(UID).findMany({ locale: 'en', fields: ['slug'], limit: 1000 });
+    const anglicke = await app.documents(UID).findMany({ locale: JAZYK, fields: ['slug'], limit: 1000 });
     const obsadene = new Map(anglicke.map((a) => [a.slug, a.documentId]));
 
     for (const subor of front) {
@@ -156,8 +158,8 @@ async function main() {
       };
 
       try {
-        await app.documents(UID).update({ documentId, locale: 'en', data: { ...zdielane, ...data, blocks: bloky } });
-        await app.documents(UID).publish({ documentId, locale: 'en' });
+        await app.documents(UID).update({ documentId, locale: JAZYK, data: { ...zdielane, ...data, blocks: bloky } });
+        await app.documents(UID).publish({ documentId, locale: JAZYK });
 
         /* Vrátenie slovenského konceptu — zakladanie jazykovej verzie ho
            v Strapi 5 prepíše. */
@@ -181,7 +183,7 @@ async function main() {
         });
         if (skKoncept) await app.documents(UID).update({ documentId, locale: 'sk', data: naZapis(skKoncept) });
 
-        const en = await app.documents(UID).findOne({ documentId, locale: 'en', status: 'published', populate: POPULATE });
+        const en = await app.documents(UID).findOne({ documentId, locale: JAZYK, status: 'published', populate: POPULATE });
         const poSk = await app.documents(UID).findOne({ documentId, locale: 'sk', status: 'published', populate: POPULATE });
         const obrSk = skBloky.filter((b) => b.image).length;
         const obrEn = (en.blocks || []).filter((b) => b.image).length;
