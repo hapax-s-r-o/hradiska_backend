@@ -1,0 +1,1218 @@
+{
+ "slug": "bina",
+ "data": {
+  "title": "Bíňa – eine der größten Erdbefestigungen im Karpatenbecken",
+  "slug": "bina-erdbefestigung-im-karpatenbecken",
+  "excerpt": "In der Gemeinde Bíňa im Süden der Slowakei haben sich die Reste einer mächtigen Erdbefestigung erhalten: mit 107,58 ha der größte zusammenhängende befestigte Raum der Slowakei und einer der größten im Karpatenbecken. Drei Wallringe von insgesamt 5100 m Länge umschließen eine Terrasse über der Gran. Hier wurde auch das reichste großmährische Adelsgrab der Slowakei gefunden — die Datierung der Wälle ist jedoch bis heute umstritten, zwischen dem 9. Jahrhundert und der Zeit des Aufstands Koppánys.",
+  "metaTitle": "Bíňa – eine der größten Erdbefestigungen im Karpatenbecken",
+  "metaDescription": "Die mächtige Erdbefestigung in Bíňa im Süden der Slowakei gehört zu den größten im Karpatenbecken — drei Wallringe auf einer Terrasse bis 17 m über der Gran.",
+  "keyFacts": [
+   {
+    "label": "Gesamtfläche der Befestigung",
+    "value": "107,58 ha — der größte zusammenhängende befestigte Raum der Slowakei, einer der größten im Karpatenbecken",
+    "icon": "mountain"
+   },
+   {
+    "label": "Wälle",
+    "value": "Drei Ringe, Gesamtlänge 5100 m; Höhe 4–9,40 m, Breite an der Basis 16–24 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Graben",
+    "value": "Tiefe bis 11,5 m zwischen Wallkrone und Grabensohle",
+    "icon": "mountain"
+   },
+   {
+    "label": "Erdvolumen",
+    "value": "Ca. 253.000 m³ — der Bau dauerte bei 500 Arbeitern etwa 6 Monate",
+    "icon": "building"
+   },
+   {
+    "label": "Grab einer adligen Frau (1983)",
+    "value": "Das reichste großmährische Adelsgrab der Slowakei — 14 silberne Ohrringe, Fingerringe, Gombíks, 2 Messerchen",
+    "icon": "star"
+   },
+   {
+    "label": "Forschung",
+    "value": "Š. Janšák (1930er Jahre), Archäologen der 1960er Jahre, B. Chropovský, K. Pieta — Datierung umstritten zwischen dem 9. und dem Ende des 10. Jahrhunderts",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätestens Mitte des 9. Jahrhunderts",
+    "title": "Hütte mit dem Hortfund von Eisenbarren",
+    "description": "Eine Hütte mit Keramikfunden und unfertigen Mühlsteinen, datiert spätestens in die Mitte des 9. Jahrhunderts.",
+    "type": "discovery"
+   },
+   {
+    "year": "Zweite Hälfte des 9. Jahrhunderts",
+    "title": "Grab mit einem großmährischen Topf",
+    "description": "Das Grab über der Hütte enthielt einen charakteristischen großmährischen Topf; bestätigt wird das auch durch den Fund einer glasartigen Perle im Nachbargrab.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Nach der modernen Archäologie: Entstehung der Befestigung",
+    "description": "Die neuesten exakten Datierungsmethoden (2009 auch von K. Pieta bestätigt) verschoben die Errichtung der Befestigung in die Zeit Großmährens.",
+    "type": "construction"
+   },
+   {
+    "year": "Mitte des 10. Jahrhunderts",
+    "title": "Spätestmöglicher Zeitpunkt der Niederlegung des Hortfundes",
+    "description": "Hortfunde axtförmiger Eisenbarren treten am häufigsten im 9. Jahrhundert auf, vereinzelt noch in der ersten Hälfte des 10. Jahrhunderts.",
+    "type": "event"
+   },
+   {
+    "year": "997–998",
+    "title": "Alternative Theorie: der Aufstand Koppánys",
+    "description": "Die ältere Theorie (Habovštiak, 1960er Jahre) datiert die Befestigung in die Zeit des Aufstands Koppánys gegen Stephan I. — heute eine überholte Ansicht.",
+    "type": "event"
+   },
+   {
+    "year": "1001",
+    "title": "Stiftungsurkunde der Abtei Pannonhalma",
+    "description": "Sie belegt den historischen Fakt der Niederlage Koppánys — König Stephan I. beschenkte das Kloster nach dem Sieg mit Besitzungen.",
+    "type": "event"
+   },
+   {
+    "year": "Anfang der zweiten Hälfte des 12. Jahrhunderts",
+    "title": "Obere Grenze der Datierung des Walls",
+    "description": "Objekte und Gräber, die nach der Errichtung des Walls in seinen Körper eingebaut wurden, sind in diese Zeit datiert.",
+    "type": "event"
+   },
+   {
+    "year": "1135",
+    "title": "Die Urkunde von Bzovík",
+    "description": "Sie erwähnt, dass König Stephan I. einen Teil von Bíňa dem Sohn Hunts, Bin, schenkte, nach dem die Gemeinde ihren Namen erhielt.",
+    "type": "event"
+   },
+   {
+    "year": "1960er Jahre",
+    "title": "Archäologische Ausgrabung (Habovštiak)",
+    "description": "Die Ausgrabung entdeckte in den Wall eingetiefte Gräber und kam zu dem Schluss, dass der Wall jüngeren Ursprungs ist (nachgroßmährische Zeit).",
+    "type": "discovery"
+   },
+   {
+    "year": "1983",
+    "title": "Entdeckung des Grabes einer adligen Frau",
+    "description": "Das reichste großmährische Adelsgrab der Slowakei — eine Frau im Alter von 17 bis 24 Jahren.",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Weitere archäologische Ausgrabung",
+    "description": "Entdeckt wurden weitere mittelalterliche Gräber, die in den Wallkörper eingetieft waren.",
+    "type": "discovery"
+   },
+   {
+    "year": "27. 10. 2009",
+    "title": "Vortrag von K. Pieta",
+    "description": "PhDr. Karol Pieta bestätigte in der Vedecká cukráreň die großmährische Datierung der Befestigung auf der Grundlage der neuesten Methoden.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemeinde Bíňa im Süden der Slowakei befinden sich die Reste einer mächtigen Erdbefestigung, einer der größten im Karpatenbecken. Die Einzigartigkeit und Imposanz dieses Burgwalls zog schon seit langem die Aufmerksamkeit von historischen Geographen, von Historikern und nicht zuletzt auch von Archäologen auf sich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die geographische Lage der Fundstelle"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Bíňa auf der 1. militärischen Landesaufnahme 1764 — zu sehen ist, wo der äußere Wall an den mittleren anschloss",
+    "alt": "Bíňa auf der 1. militärischen Landesaufnahme 1764 — zu sehen ist, wo der äußere Wall an den mittleren anschloss"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Platz für den Bau der weitläufigen Befestigung in Bíňa wählten ihre Erbauer sehr durchdacht aus. Nirgends im Tal der Gran gibt es nämlich einen so von Natur aus günstigen Ort, der durch die Anlage von Wallringen einen Raum von solchem Ausmaß ergeben hätte, wie wir ihn gerade hier finden. Dieser Geländevorteil liegt nicht nur in der Erhebung der Terrasse selbst, die bei der Kirche von Bíňa eine Höhe von bis zu 17 m über dem Wasserspiegel der Gran erreicht und nirgends unter 10 m sinkt, sondern auch darin, dass ein großer Teil des so erhöhten Geländes von Natur aus geschützt ist — auf der Ostseite entlang der ganzen Länge des befestigten Raums durch die Gran und durch das steile, stellenweise sogar senkrechte Flussufer. Die künstliche Befestigung in Bíňa wurde so angelegt, dass sie diese von der Natur gegebene und vorteilhafte Sicherheit möglichst gut ausnutzte und angemessen erhöhte. Den Verlauf des gesamten künstlichen Festungssystems legten sie so fest, dass die einzelnen Wallgürtel immer passend an natürliche Geländeformen anschlossen, die so einen Teil des Befestigungssystems bildeten. Ein großer Vorteil für die Erbauer war auch, dass der Lehm in Bíňa sehr bindig ist und den Bau ziemlich hoher Erdaufschüttungen erlaubte, ohne dass diese innen oder außen durch irgendeine Konstruktion verstärkt werden mussten, die den Wallkörper zusammengehalten hätte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Beschreibung der Reste des Burgwalls von Bíňa",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Bíňa auf der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts. Die Wälle sind deutlich zu sehen",
+    "alt": "Bíňa auf der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts. Die Wälle sind deutlich zu sehen"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gesamtfläche, die die Wälle umschließen, beträgt über 107 ha und die Gesamtlänge aller drei Wallringe 5100 m. Es handelt sich also um eine Fläche, die keiner der bisher bekannten Burgwälle wirtschaftlich-administrativen oder militärisch-defensiven Charakters aus der so genannten Burgwallzeit in der Slowakei, in Tschechien oder in den nächsten Nachbarstaaten besitzt. Die Besiedlung der befestigten Fläche konzentriert sich nur auf die erhöhten Teile der Gran-Terrasse, zwischen dem Westufer der Gran und dem ehemaligen inneren Wall. Nur im nördlichen Teil, in der Umgebung des ehemaligen Herrenhauses, greift die Besiedlung auch in Bereiche außerhalb des inneren Walls über, also an Stellen, die schon in der Urgeschichte häufig besiedelt waren und an die auch die spätere mittelalterliche und neuzeitliche Besiedlung gebunden war. Diese Fläche, die üblicherweise für eine dauerhaftere Besiedlung genutzt wurde, ist nur ein kleiner Teil, etwa ein Fünftel der Gesamtfläche des befestigten Raums. Der Raum zwischen dem äußeren und dem inneren Wall, der die übrige, etwa viermal größere Fläche darstellt, zeigt nämlich keine Spuren einer dauerhafteren Besiedlung, weder aus der Zeit nahe der Errichtung der Wälle noch aus den späteren Jahrhunderten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der äußere Wall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wälle des Burgwalls von Bíňa untersuchte und hervorragend beschrieb schon in den 1930er Jahren – wer sonst als Štefan Janšák. Im gesamten südlichen und südwestlichen Teil wurde dieser Wall teilweise am Nordufer einer Rinne angelegt, die die Erbauer zur Erhöhung der Sicherheit der Befestigung und auch zur Arbeitsersparnis nutzten. Die Rinne berührte den Wall an seinem äußeren Fuß und trug mit ihrer natürlichen Tiefe — 4 bis 6 m — erheblich zur Unzugänglichkeit des Walls bei. An der Stelle, wo einst der Wall stand, ist heute ein natürlicher sanfter Hang geblieben, der zum Bächlein abfällt. Am Nordufer des Bächleins führt, senkrecht zum Hang, von Westen nach Osten eine enge Gasse zur Gran. In einem Abschnitt durchschneidet die Landstraße von Bíňa nach Kamenín und Štúrovo den Wall. Das recht tiefe Bett des Bächleins überspannt hier eine Brücke. Deshalb fehlt der Wall in diesem Teil völlig. Der Wall ist abgeflacht, an der Südseite teilweise der Länge nach aufgegraben und an der Nordseite in die benachbarten Gärten und Häuser hinein verschoben. In einem kurzen Abschnitt hat er bis heute noch eine Überhöhung über den angrenzenden Gärten bewahrt. An der Südseite fällt der Wall in die natürliche Rinne ab, und die Wallkrone erhebt sich über der Sohle der Rinne bis zu einer Höhe von 6,40 m. An mehreren Stellen ist der Wall bereits völlig abgegraben und sein Material abtransportiert. An seiner Stelle stehen vereinzelt kleine Häuser. In einem Teil des Walls entstand eine große Lehmgrube, die noch in den 1970er Jahren genutzt wurde. Im Abschnitt zwischen dem 620. und dem 700. Meter gab es noch im Jahr 1934, also zur Zeit der Erarbeitung von Janšáks Beschreibung der Wälle von Bíňa, einen 80 m langen erhaltenen Wallabschnitt, doch der fehlt heute ebenfalls. Der ursprüngliche Wall verlief im Abschnitt zwischen dem 800. und dem 1100. Meter bereits außerhalb der heutigen Gemeinde und lag in völlig flachem Gelände. An der Südwestseite zieht sich nach außen hin entlang des Walls ein Graben, aus dem das Material für den Bau des Walls entnommen wurde. An mehreren weiteren Stellen ist der Wall von Durchbrüchen durchschnitten, die in der Neuzeit entstanden. Man kann jedoch auch auf Abschnitte treffen, die sehr gut erhalten geblieben sind, sodass sie eine ausreichende Untersuchung ermöglichen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9.–11. Jahrhundert, Autor T. Humaj. Weitere Fotos finden Sie HIER",
+    "alt": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9.–11. Jahrhundert, Autor T. Humaj. Weitere Fotos finden Sie HIER"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der mittlere Wall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser Wall wurde teilweise entlang einer natürlichen Rinne angelegt. Sein südlicher Hang ist fast auf der ganzen Länge erhalten. Auch auf einem Teil dieses Walls stehen Häuser und Gärten. Weiter ist der Wall von der Staatsstraße unterbrochen. An manchen Stellen ist der Wall völlig abgetragen, das Bett der Rinne zugeschüttet, und an ihrer Stelle stehen die Gebäude der örtlichen Schule. In ihrer Umgebung, nördlich der Straße, ist eine kleinere, 1–2 m hohe Stufe zu erkennen, die hier die einzige Spur der einstigen Befestigung ist. In den folgenden Abschnitten ist an manchen Stellen der ehemalige Graben des inneren Walls erkennbar. Am 1250. Meter ist eine schwache Biegung des Wallrestes nach Osten zu sehen, mit der der mittlere Wall wohl an den äußeren Wall anschloss."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der innere Wall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einer Entfernung von 100 m vom Punkt 0 beim mittleren Wall nach Norden hin befindet sich wieder ein natürlicher Einschnitt in die Gran-Terrasse, der mit einer recht tiefen, aber trockenen Rinne in die Gran mündet. Am Nordufer dieser Rinne stand einst der innere Wall der Befestigung, und am Punkt 0 schloss er an die Gran an. Im weiteren Abschnitt, an der Stelle, wo die Staatsstraße in einer sanften Biegung den vermuteten Wall durchschneidet, und in deren Umgebung, auf einem breiteren, bisher unbebauten Raum, der hier eine Art Dorfanger bildet, ist das Gelände so eingeebnet und umgestaltet, dass alle Spuren und Andeutungen des Walls und des Grabens völlig verschwunden sind. Nordwestlich der Staatsstraße, wo das Gelände bebaut oder zu Gärten umgestaltet ist, gibt es ebenfalls keine Spuren des Walls. Nur im Abschnitt vom 240. bis zum 330. Meter sind Andeutungen einer flachen und breiten Vertiefung zu sehen, die sich dann weiter nördlich im Abschnitt zwischen dem 620. und dem 720. Meter deutlicher zeigt, wo ihre Sohle und ihre steilen Hänge nahezu im ursprünglichen Zustand erhalten sind. Wir können sie mit Sicherheit als den ehemaligen Graben des inneren Walls identifizieren, der östlich von ihr lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Ein Schnitt durch den Wall, auf dem gut zu sehen ist, wo die Palisade eingesetzt war",
+    "alt": "Ein Schnitt durch den Wall, auf dem gut zu sehen ist, wo die Palisade eingesetzt war"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Beschreibung der Wälle und aus den Zeichnungen ihrer Situation im Gelände lässt sich herauslesen, dass die Erbauer bei ihrem Bau einem bestimmten Prinzip folgten: mit dem dreifachen Wallring wollten sie den am höchsten gelegenen Teil der Terrasse in der Umgebung der Kirche schützen. Obwohl die übrige Fläche der Terrasse fast eben ist, errichteten sie keine drei vollkommen parallelen halbellipsenförmigen Wälle, sondern nutzten die Geländekonfiguration — einerseits um die Unzugänglichkeit der Wälle zu erhöhen und so den Zugang in den befestigten Raum unmöglich zu machen beziehungsweise möglichst zu erschweren, andererseits um die Arbeit wirtschaftlicher zu gestalten. Das geschah dadurch, dass die Wälle über den natürlichen Rinnen geführt wurden. Deshalb ist der Abstand des südlichen Endes des äußeren Walls vom südlichen Ende des mittleren Walls groß, während zwischen den beiden südlichen Enden des mittleren und des inneren Walls nur 100 m liegen. Der mittlere Wall schließt im Norden nicht — wie die beiden anderen Wälle — an die Gran-Terrasse an, sondern nur an den äußeren Wall, denn hier konnten das Bächlein und die angrenzenden Sümpfe nördlich des Walls genutzt werden. Beide Wälle haben in den besser erhaltenen Partien erhebliche Ausmaße. Am Fuß bewegt sich ihre Breite um 22–28 m und ihre Höhe um 8–9 m. An zwei Stellen bilden die Wälle eine Art Sättel, und zwar zwischen dem 1420. und dem 1600. Meter beim äußeren und zwischen dem 900. und dem 1000. Meter beim mittleren Wall. Interessant ist, dass auch der Graben an diesen Stellen erheblich flacher ist, beim äußeren Wall sogar fehlt. In dieser Richtung konnte ein Nebenzugang in das Innere des befestigten Raums liegen, auch wenn die Haupttore in Übereinstimmung mit der Richtung des Hauptverkehrswegs im Tal der Gran liegen mussten, der hier von Süden nach Norden etwa an denselben Stellen verläuft, denen auch die heutige Staatsstraße folgt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Schnitt durch den Wall nach Š. Janšák",
+    "alt": "Schnitt durch den Wall nach Š. Janšák"
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Die Rotunde in Bíňa",
+    "alt": "Die Rotunde in Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche des befestigten Raums zwischen der Gran und dem äußeren Wall beträgt nach der Berechnung von Š. Janšák 107,58 ha, davon das Areal zwischen dem mittleren und dem äußeren Wall etwa 65 ha und die Fläche zwischen der Gran-Terrasse und dem mittleren Wall 42,58 ha. Die vom inneren Wall und vom Ufer der Gran umschlossene Fläche konnte etwa 15,60 ha betragen. Die Kubatur der Erde, die beim Bau der Wälle in ihren Körper aufgeschüttet werden musste, beträgt ca. 253.000 m³. Diese Arbeit dauerte bei 500 Arbeitern mit einer Tagesleistung von 3 m³ etwa 6 Monate. Mit seiner Fläche ist es der größte zusammenhängende befestigte Raum in der Slowakei und einer der größten im ganzen Karpatenbecken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der gesamte innere Wall ist schon seit fast 100 Jahren abgetragen und abtransportiert, deshalb lässt sich sein Verhältnis zur älteren Siedlungsschicht nicht beurteilen. In der Umgebung der neueren Durchstiche durch die beiden anderen Wälle konnten unter ihren Aufschüttungen keine Kulturreste festgestellt werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Wälle"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung von Bíňa stellt unter den übrigen slawischen Burgwällen im Gebiet der heutigen Slowakei eine außergewöhnliche Erscheinung dar, denn keiner der Wälle enthält eine innere Verstärkung oder eine andere (für andere Burgwälle typische) Konstruktion, die den Wallkörper zusammenhielt. Der Wallkörper wurde hier aus braungelbem Löss aufgeschüttet, der mit mehr oder weniger grauem humosem Lehm vermischt war. Schichten relativ reinen und sterilen Lösses wechselten sich unregelmäßig mit schräg gelagerten dünneren und dickeren Schichten aufgeschütteten Humus ab. Andererseits ist anzuführen, dass der Lehm in Bíňa so hochwertig und kompakt ist, dass er die relativ steilen Hänge der Wälle bis heute halten konnte. Auf der Wallkrone war wahrscheinlich eine hölzerne Palisade angebracht, deren Spuren auf den Schnitten durch den Wall aus neueren Ausgrabungen deutlich zu sehen sind. Das Fehlen eines für großmährische Burgwälle typischen Elements – jeglicher Wallkonstruktion – führte die Archäologen in den 1960er Jahren (zusammen mit anderen Indizien) sogar zu dem Schluss, dass der Burgwall von Bíňa erst nach dem Fall Großmährens errichtet wurde und dass es sich nicht um einen typischen slawischen Burgwall handelt, sondern um eine Festung, die König Stephan zur Zeit seines Krieges gegen Koppány erbauen ließ. Zugleich räumt er jedoch an anderer Stelle ein, dass der Wall nach der Mitte des 9. Jahrhunderts entstanden sein könnte, was noch in den Rahmen der Blütezeit des Großmährischen Reiches passen würde. Auch die neuesten Untersuchungen am Burgwall verschoben die Datierung der Befestigung von Bíňa in die großmährische Zeit (9. Jahrhundert). Einer der bedeutendsten slowakischen Archäologen, PhDr. Karol Pieta, DrSc., führte zum Beispiel in der "
+       },
+       {
+        "type": "link",
+        "url": "https://www.vedatechnika.sk/SK/VedaASpolocnost/NCPVaT/video/Stranky/2009-KarolPieta.aspx",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vedecká cukráreň"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Wissenschaftscafé) am 27. 10. 2009 eindeutig an, dass die neuesten exakten Datierungsmethoden die Errichtung der Befestigung von Bíňa in die Zeit der Existenz Großmährens verschoben haben (siehe ca. Minute 46–48). Die Erkenntnisse und Schlussfolgerungen über die Möglichkeiten der Datierung des Verteidigungssystems von Bíňa wurden nur am nördlichen Teil des äußeren Walls und an einem Teil des mittleren Walls gewonnen. Der innere Wall ließ sich nicht genauer datieren, aber es ist wohl logisch anzunehmen, dass dieser Wall nicht jünger ist als die beiden anderen Wälle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In allen erhaltenen Abschnitten sind die Wälle durch die auffallende Mächtigkeit der Aufschüttung charakterisiert, die eine Höhe von 4–9,40 m und an der Basis eine Breite von 16–24 m erreicht. Die Ausmaße des Walls ändern sich nur danach, wo und an welcher Stelle er errichtet ist, d. h. die Höhe der künstlichen Aufschüttung ist geringer, wenn sie am Rand einer natürlichen Geländestufe aufgeschüttet wurde, und größer, wenn sie in der Ebene angelegt wurde. Andere Unterschiede in Form und Aussehen der Wälle sind nur eine Folge jüngerer Eingriffe. Ebenso charakterisiert ein mächtiger Graben an der Außenseite der Wälle die Reste der gesamten Befestigung von Bíňa. Seine Größe passte sich ebenfalls der Geländekonfiguration an. Nach den erhaltenen Resten des Grabens beim ehemaligen inneren Wall, der heute bereits völlig abgetragen ist, lässt sich schließen, dass auch dieser Wall etwa dasselbe Profil und Aussehen hatte wie die erhaltenen Teile des mittleren und des äußeren Walls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu dem Graben, der sich vor dem Wall befindet, wurde festgestellt, dass die ursprüngliche Grabensohle noch um 280 cm tiefer lag als das heutige Niveau seiner Sohle, die auch heute gegenüber dem umliegenden Gelände eine erhebliche Tiefe hat — 4 m. Ein solcher Höhenunterschied zwischen der heutigen Wallkrone und dem festgestellten Grabenboden beträgt 11,5 m. In der Zeit kurz nach der Errichtung der Wälle muss dieser Unterschied erheblich größer gewesen sein, denn auch die ursprüngliche Höhe des Walls war größer, mindestens um 2 m. Die Hänge des Grabens liefen zur Sohle hin zusammen und gingen in eine leicht gerundete, relativ schmale Sohle über."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Ausgrabung der Befestigung von Bíňa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einigen Teilen des Walls wurden schon bei der Ausgrabung in den 1960er Jahren, aber auch im Jahr 2008 Gräber entdeckt, die im Laufe des Mittelalters in den Wallkörper eingetieft worden waren. Weiter wurden im Areal des Burgwalls die Reste mehrerer Hütten — eingetiefter Grubenhäuser — entdeckt, die in die Zeit Großmährens datiert werden. In einer von ihnen haben sich stellenweise Reste der ursprünglichen Wände aus geglättetem und erhärtetem Löss erhalten. Entlang der einzelnen Wände haben sich auch deutliche Spuren von Pfosten in Form kleinerer kreisförmiger Gruben erhalten; in einer von ihnen — in der südwestlichen Ecke der Hütte — blieben auch Reste verkohlten Holzes des Pfostens erhalten. Im oberen Teil der Verfüllung der Hütte wurden 27 Steinfragmente gefunden. An mehreren von ihnen sind Spuren einer Bearbeitung zu Mühlsteinen zu erkennen, die jedoch nicht fertiggestellt wurden, weil bei der Arbeit der Stein entweder zerbrach oder das Werkstück anderweitig misslang und seine Bearbeitung nicht weiter fortgesetzt wurde. Demnach scheint es, dass in der Nähe der Hütte ein Hersteller von Mühlsteinen arbeitete, der die misslungenen und beschädigten beziehungsweise zerbrochenen Mühlsteine in die Hütte warf, die damals schon verlassen war. Der Fund ist ein deutlicher Beleg für eine spezialisierte Herstellung von Mühlsteinen an dieser Fundstelle in großmährischer Zeit. In der Hütte wurden viele Keramikscherben entdeckt. Weiter wurde der Rest eines einfachen Keramikbrennofens entdeckt. In ihm wurden auch die Gefäße gebrannt, von denen die gefundenen Scherben stammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Direkt unter der Krone der Wallaufschüttung stieß man auf eine schalenförmige Vertiefung — ein Objekt mit einem Durchmesser von 155 cm, das 26 cm tief reichte. Am ehesten handelte es sich hier um ein Produktionsobjekt, in dem mit starker Hitze gearbeitet wurde. Davon zeugen die stark durchgebrannten Wände des Objekts. Nicht weit von diesem Objekt wurde eine Getreidegrube festgestellt, in der auffällige Fragmente von Töpfen mit Wellenbandverzierung gefunden wurden. Ein weiteres Objekt ist der Teil einer Hütte – eines eingetieften Grubenhauses –, in dem Reste einer Feuerstelle festgestellt wurden. Die beschriebenen Objekte waren von der Wallaufschüttung überdeckt. Auf der Grundlage dieser Feststellungen kamen die Archäologen in den 1960er Jahren zu dem Schluss, dass der Wall relativ jüngeren Ursprungs ist als die Hinterlassenschaften, die unter ihm gefunden wurden. Die obere Grenze der Datierung des Walls bilden wiederum Objekte und Gräber, die offensichtlich nach seiner Errichtung in den Wallkörper eingebaut wurden und die in den Anfang der zweiten Hälfte des 12. Jahrhunderts datiert werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die interessantesten Funde aus dem Burgwall von Bíňa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Areal des Burgwalls wurden also Hinterlassenschaften aus der großmährischen Zeit, aus der Völkerwanderungszeit, aus der Zeit der römischen Provinzen, aus der Latènezeit und aus dem Neolithikum dokumentiert. Die angedeutete großmährische Zeit verraten durch ihren Charakter schon auf den ersten Blick die Siedlungsobjekte — Hütten und mit der Besiedlung zusammenhängende Objekte (Getreidegrube u. ä.). Bei den Siedlungsobjekten handelte es sich um quadratische, in die Erde eingetiefte Behausungen mit einer Feuerstelle oder einem Kamin in einer der Ecken. Solche Behausungen sind für die großmährische Zeit typisch und charakteristisch in einem weiten von den Slawen bewohnten Gebiet, besonders im Flachland. Eines der Objekte — eine Hütte — hatte an der südöstlichen Ecke eine Nische, die nach Süden aus ihrem wahrscheinlich quadratischen Umriss hervorragte. Nach den stark durchgebrannten Innenwänden kann es sich hier nur um einen Ofen handeln, der ziemlich groß war und daher nicht nur zum Heizen des Wohnraums, sondern auch zum Brotbacken dienen konnte. In keinem Fall wurden in den Objekten Gegenstände gefunden, die ihre Bewohner dort zurückgelassen hätten, weil sie die Behausung etwa infolge einer Katastrophe plötzlich verlassen mussten. Alle Behausungen wurden, so scheint es, absichtlich verlassen, und deshalb fand sich in ihnen nichts von der ursprünglichen Einrichtung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle wurde eine Menge Scherben gefunden, meist von topfförmigen, vereinzelt auch von flaschenförmigen Gefäßen mit einfachem gerundetem oder senkrecht abgeschnittenem Rand, der an der Innenseite manchmal eine feine Rille bildet. Die Scherben von den Wänden und Böden der Gefäße verraten eine Herstellung in Nachdrehtechnik, also auf der handbetriebenen Töpferscheibe. Ihre Verzierung bildete meist ein einfaches oder mehrfaches eingeritztes Wellenband, kombiniert mit dichten Bändern umlaufender Rillen, oder eine flach eingeritzte umlaufende Spirale."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hortfund von Eisenbarren",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der nordwestlichen Ecke einer der großmährischen Hütten wurde über einem Grab, das unter ihrem Fußboden ausgehoben worden war, ein Hortfund von Eisenbarren gefunden. Dieser Hortfund ist ein erheblich zuverlässigeres Datierungsmittel als die Keramik. Hortfunde axtförmiger Eisenbarren treten im Gebiet der heutigen Slowakei am häufigsten im 9. Jahrhundert auf und kommen nur vereinzelt noch in der ersten Hälfte des 10. Jahrhunderts vor. Die Mitte des 10. Jahrhunderts kann man also als spätestmöglichen Zeitpunkt ansehen, zu dem der Hortfund von Bíňa in die Erde gelangen konnte. Einige Zeit vor der Verbergung des Hortfundes wurde an derselben Stelle ein Grab ausgehoben, das den Fußboden und einen Teil des Kamins in der Hütte beschädigte. Da das Grab sehr flach unter dem Niveau des Fußbodens festgestellt wurde, ist anzunehmen, dass es zu einer Zeit ausgehoben wurde, als der eingetiefte Raum der Hütte zumindest teilweise schon verfüllt war. Deshalb müssen die Hütte und auch die Keramikfragmente, die sekundär in sie gelangten, mindestens 5–10 Jahre älter sein als das Grab. Auch dieses lässt sich schon an sich, unabhängig davon, dass sich über ihm der Hortfund von Eisenbarren befand, spätestens in die zweite Hälfte des 9. Jahrhunderts datieren, denn in ihm wurde ein charakteristischer großmährischer Topf gefunden. Eine solche Datierung bestätigt auch der Fund einer glasartigen Perle in einem der Nachbargräber, die zum selben Zeithorizont gehören wie das Grab in der Hütte; solche Perlen kamen nämlich bisher nur auf Gräberfeldern aus großmährischer und älterer Zeit vor. Aus dem Angeführten folgt klar, dass die Hütte samt den Keramikfunden und den Fragmenten unfertiger Mühlsteine in ihrer Verfüllung spätestens in die Mitte des 9. Jahrhunderts datiert werden kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Grab der Gattin eines slawischen Adligen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von allen großmährischen Adelsgräbern, die im Gebiet der Slowakischen Republik gefunden wurden, befindet sich das reichste gerade in Bíňa. Entdeckt wurde es im Jahr 1983. Es handelt sich um ein Grab, in dem eine Frau im Alter von 17 bis 24 Jahren bestattet war. Es enthielt 14 silberne Ohrringe, einen silbernen und einen bronzenen Fingerring sowie vier silberne getriebene Gombíks (kugelförmige Knopfanhänger). Dieses außergewöhnlich reiche Inventar ergänzten zwei eiserne Messerchen. Den Schmuck, der in diesem Grab gefunden wurde, trugen Angehörige der reichsten Adelsgeschlechter, wie wir sie aus den großmährischen Zentren in Mikulčice oder in Staré Město bei Uherské Hradiště kennen. Es ist möglich, dass die bestattete Frau einem adligen Geschlecht aus Nitra (Neutra) oder aus Mähren angehörte und nach Bíňa heiratete. Die Tatsache, dass hier ein hinreichend würdiges Umfeld für das Leben einer so reichen Dame bestand, deutet auf die Stellung Bíňas im 9. Jahrhundert als Sitz der slawischen Elite hin, die das untere Grantal beherrschte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In großmährischer Zeit bestand in Bíňa also eine sehr große und wichtige Besiedlung (in einer der zehn bisher freigelegten Hütten stieß man auch auf deutliche Belege für eine örtliche Herstellung von Mühlsteinen). Aus der Zeit nach dem Untergang des Großmährischen Reiches stellen wir hier weder archäologische noch historische Belege für ein Bedürfnis fest, das eine so mächtige und weitläufige Befestigung erzwungen hätte. Spuren einer Besiedlung aus dieser Zeit gibt es hier zwar, etwa an denselben Stellen, an die auch die ältere Besiedlung gebunden war, aber sie weisen bisher nicht auf eine besondere Stellung Bíňas in dieser Zeit hin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie oben schon erwähnt, kamen die Archäologen in den 1960er Jahren zu dem Schluss, dass die Befestigung von Bíňa nicht den Charakter eines üblichen Burgwalls mit einer wichtigen wirtschaftlich-administrativen und zentralen Stellung für eine bestimmte Territorialeinheit hatte, wie die bekannten großmährischen und jüngeren Burgwälle im Gebiet der heutigen Slowakei, in Mähren, in Böhmen, in Polen, in der UdSSR und in Deutschland. Sie folgerten, dass es sich hier eher um eine Befestigung handelte, deren Errichtung ein plötzliches und vorübergehendes Bedürfnis verlangte, das nicht an die vorangehende Bedeutung der Fundstelle anknüpfte und das auch die weitere Entwicklung ihrer Besiedlung nicht wesentlich beeinflusste."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der Ansichten lautet, dass die Befestigung von Bíňa zur Zeit des Vordringens der altungarischen Nomaden- und Kriegerstämme in das Innere des heutigen Gebiets der Slowakei entstand, was etwa in die ersten Jahrzehnte des 10. Jahrhunderts fällt. Diesen Versuch unternahm schon Š. Janšák, wobei er sich vor allem auf die Nachricht des Anonymus stützte, nach der die Altungarn bei einer gewissen Erdburg namens Varod haltmachten, als sie das Grantal hinauf in das Gebiet der heutigen Slowakei vordrangen. Auch B. Chropovský neigt in seiner Studie über die slawischen Burgwälle in der Slowakei den älteren Ansichten zu, dass der Burgwall von Bíňa noch vor der Ankunft der Altungarn errichtet wurde, und stützt sich dabei auf die Tatsache, dass in Bíňa schon in großmährischer Zeit ein bedeutendes Siedlungszentrum bestand. Wie jedoch oben schon erwähnt, hat sich die moderne Archäologie dem Schluss zugeneigt, dass die mächtige Befestigung des Burgwalls von Bíňa großmährischen Ursprungs ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Errichtete Stephan I. die Befestigung gemeinsam mit Hunt und Poznan?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vertreter der älteren, heute bereits überholten Ansicht ist die Theorie, dass die Befestigung von Bíňa erst zur Zeit des Aufstands Koppánys gegen Stephan am Ende des 10. Jahrhunderts entstand, wobei diese Ansicht Habovštiak in den 1960er Jahren ausführlich darlegte. Der Interessantheit halber bringe ich auch diese Ansicht. Ich muss jedoch anmerken, dass auch Habovštiak selbst darauf hinwies, dass eine solche Erklärung nicht endgültig ist und dass weitere Untersuchungen nötig sein werden, um ihre Glaubwürdigkeit zu überprüfen.\n \n "
+       },
+       {
+        "type": "text",
+        "text": "Auf den Zusammenhang der Befestigung von Bíňa mit diesem Ereignis weist mittelbar auch eine ältere Überlieferung hin, die noch Matej Bel aufzeichnete, der jedoch die Glaubwürdigkeit dieser Überlieferung gleichsam selbst schwächen wollte und einen gewissen Zweifel an ihrer Wahrheit äußerte. Dieser Zweifel ist wirklich angebracht, denn nach dem Verlauf der Ereignisse in der Zeit des Aufstands Koppánys ist es nicht wahrscheinlich, dass sich Koppány damals in der Slowakei aufhalten konnte; seine Domäne war das Gebiet am Nordufer des Plattensees in der Umgebung von Veszprém, und er selbst hatte seinen Sitz in Somogyvár. Wenn wir also die genannte Überlieferung weiterhin als eine Art Quelle für die Erklärung der Funktion des Burgwalls von Bíňa ansehen wollen, können wir sie höchstens so verstehen, dass sie nur die Zeit der Entstehung der Befestigung verrät und andeutet; was jedoch ihren Urheber betrifft, ist hier eher mit Stephan I. beziehungsweise mit seinen Anhängern zu rechnen und nicht mit Koppány.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Annahme findet eine Stütze in den mittelalterlichen ungarischen Chroniken des 13.–15. Jahrhunderts, die, wenn sie den Krieg Stephans I. gegen den Woiwoden von Somogy, Koppány, beschreiben, wörtlich anführen: „Als Stephan das Heer versammelt hatte, brach er gegen seinen Feind auf und wurde am Fluss Gran mit dem Schwert umgürtet. Dort bestimmte er zu seinen Leibwächtern zwei Adlige (slawischer Herkunft, Anm. Orgoň), Hunt und Poznan.“ Ebenso sagen die mittelalterlichen ungarischen Chronisten, wenn sie das Geschlecht der Hunt und Poznan beschreiben: „Es kamen auch Hunt und Poznaň, die den hl. Stephan nach deutschem Brauch im Fluss Gran mit dem Schwert umgürteten.“ Aus dem Angeführten ist klar zu ersehen, dass sich König Stephan I. zur Zeit des Aufstands Koppánys irgendwo oberhalb der Donau am Ufer der Gran aufhielt, sicher jedoch nicht weit von Gran (Esztergom), das sein Geburtsort und sein Sitz war. Freilich ist es fraglich, inwieweit man den Angaben der mittelalterlichen Chroniken hier glauben kann und inwieweit man das Lager Stephans gerade nach Bíňa lokalisieren kann. Der Aufstand Koppánys und seine erfolgreiche Niederschlagung durch die Heere und Anhänger König Stephans I. in den Jahren 997–998 ist ein historischer Fakt, belegt vor allem in der Stiftungsurkunde der Abtei Pannonhalma aus dem Jahr 1001. Mit ihr beschenkte König Stephan I. das Kloster Pannonhalma mit weitläufigen Besitzungen, größtenteils in dem Gebiet, das vorher sein Gegner Koppány besetzt hatte, um das vor dessen Niederlage gegebene Versprechen zu erfüllen. Die Erwähnung des Chronisten jedoch, dass König Stephan I. vor dem Kampf mit Koppány am Fluss Gran zum Zeichen der Anerkennung seiner Mündigkeit mit dem Schwert umgürtet wurde, ist nicht mehr so eindeutig, dass wir sie ohne weitere Untersuchung so erklären könnten, dass dies gerade in Bíňa geschah.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es gibt jedoch weitere Argumente zur Stützung einer solchen Möglichkeit, besonders wenn wir die Gesamtsituation aus einem weiteren Blickwinkel beurteilen. In der Anfangsphase des Aufstands konnte sich König Stephan I. seiner moralischen und zahlenmäßigen Übermacht und des künftigen Sieges über Koppány nicht völlig sicher sein, wie davon schließlich auch sein Versprechen zeugt, dass er, wenn er über ihn siege, in Pannonhalma ein Kloster errichten und es reich mit Besitzungen beschenken werde — ein Versprechen, das er später auch erfüllte. Koppány hatte nämlich viele Anhänger auf seiner Seite. Er versammelte um sich jene Angehörigen des altungarischen Stammesverbandes, denen die Bestrebungen und Pläne König Stephans I. nicht gefielen, mit der nomadischen Lebensweise zu brechen, sich dem Christentum und überhaupt der westlichen Zivilisation zuzuwenden, sowie sein Bemühen um den Aufbau eines festen Feudalstaates. Es handelte sich also um Anhänger des alten hirten-nomadischen freien Lebens, mit denen auch die späteren ungarischen Könige noch lange Schwierigkeiten hatten. Deshalb ist es möglich und verständlich, dass Stephan I. in diesen für ihn recht unsicheren Zeiten die Stütze der einheimischen slawischen Adelsgeschlechter — der Hunt und der Poznan sowie einiger fremder Krieger (Vencellín) — nutzte und ein großes befestigtes Erdlager errichten ließ, das dazu diente, eine größere Zahl von Kriegern samt deren Bewaffnung und Ausrüstung an einem Ort zu versammeln (bei den damaligen nachrichtendienstlichen und organisatorischen Möglichkeiten ist das völlig verständlich) und das zugleich eine geeignete und sichere Zuflucht gewesen wäre, falls sich die Übermacht des Feindes zeitweise gezeigt hätte.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Grund für die Versammlung des Heeres gerade oberhalb der Donau war vielleicht auch das Bestreben Stephans I., dass seine Anhänger durch diesen Fluss von den südlichen Gebieten des Landes getrennt wären, wo sich der Einfluss Koppánys und die Sympathien für ihn relativ schnell ausgebreitet hatten. Die Errichtung eines solchen Lagers gerade in Bíňa konnte aus mehreren Gesichtspunkten vorteilhaft sein. Es handelte sich um einen Ort, der die Möglichkeit eines plötzlichen Überfalls aus dem Süden ausschloss (ein gutes natürliches Hindernis bildete hier die Donau) und zugleich nahe Esztergom lag, sodass bei guter Sicht mit Hilfe von Signalen die Verbindung mit ihm aufrechterhalten werden konnte. Schließlich war dieser Ort auch durch seine natürliche Lage vorteilhaft und für die Errichtung eines befestigten Militärlagers geeignet (drei natürliche Rinnen an der Südseite der Gemeinde, eine über das umliegende Gelände dominierende Lage). Die Gliederung der befestigten Fläche durch drei halbkreisförmige Ringe von Wallaufschüttungen in drei Teile lässt sich einerseits mit der Forderung einer vollkommeneren Verteidigung, andererseits mit der Notwendigkeit erklären, Befehlshaber, einfache Krieger, Pferde und Vieh samt Proviant und Kampftechnik getrennt zu lagern. Habovštiak führt weiter an, dass die Errichtung der Befestigung auch in den technischen Möglichkeiten des Heeres Stephans lag, wobei sie bei etwa 1000 Arbeitern und einer Leistung von etwa 3 m³ Erde pro Person und Arbeitstag in etwa drei Monaten fertig sein konnte, was schließlich keine so lange Zeit ist, dass wir die Entstehung der hiesigen Befestigung — besonders in einer Zeit der Bedrohung — nicht annehmen könnten.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei dieser Gelegenheit ist jedoch über das Problem des Bauens von Erdbefestigungen bei den Altungarn überhaupt nachzudenken. Über die Altungarn wissen wir nach Leo dem Weisen, dass der Bau von Erdbefestigungen und anderen dauerhafteren Befestigungen bei ihnen nicht üblich war. Das verlangte auch ihre Kampfweise nicht, die Leo der Weise als Kampf durch plötzlichen Überfall ohne eine regelmäßige Ordnung und Aufstellung charakterisiert. Diese Tatsache zeigt sich deutlich auch in der Archäologie, die bisher keine Burg und keinen Burgwall kennt, die von Angehörigen des altungarischen Stammesverbandes während ihrer Besetzung des Donauraums und ihrer Kriegszüge nach Westen errichtet worden wären. Der Bau von Befestigungen erfolgte also offenbar mit Hilfe der einheimischen Bevölkerung, von der die Altungarn auch einige Techniken des Bauens solcher Objekte übernehmen konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was die Zeit betrifft, in die auch die Errichtung der Befestigung von Bíňa durch Stephan I. gelegt wurde, d. h. das Ende des 10. Jahrhunderts, haben wir in der Slowakei bisher keine Belege für ähnliche Bauten. Diese Tatsache ist wiederum eines der Argumente gegen die Datierung der Befestigung von Bíňa in die Zeit nach dem Fall Großmährens. Ein weiteres Argument kann auch die Frage sein, ob Stephan sein sicher sehr zahlreiches Heer wirklich mit einer so weitläufigen und aufwendigen Befestigung schützen musste."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Bíňa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erwähnenswert ist noch ein Fakt, der mit dem zusammenhängen kann, was die genannten narrativen Quellen andeuten. Es ist die Tatsache, dass König Stephan I. einen Teil von Bíňa dem Sohn Hunts, Bin, schenkte, nach dem die Gemeinde auch ihren Namen erhielt. Wir erfahren davon in der Urkunde von Bzovík aus dem Jahr 1135. Diese Beschenkung des Sohnes Hunts mit einem Teil von Bíňa kann in einem gewissen Sinne auch mit dem Bestreben Stephans I. zusammenhängen, sich dem Geschlecht der Hunt für die geleistete Hilfe gerade mit diesem Gebiet zu bedanken, das besiedelt war und mit dem sich mehr als mit anderen seine Dankbarkeit gegenüber dem Geschlecht der Hunt verband.\n \n Fotos vom 26. 10. 2013:\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 2806,
+    "caption": "Bíňa auf der 1. militärischen Landesaufnahme 1764 — zu sehen ist, wo der äußere Wall an den mittleren anschloss",
+    "alt": "Bíňa auf der 1. militärischen Landesaufnahme 1764 — zu sehen ist, wo der äußere Wall an den mittleren anschloss"
+   },
+   {
+    "mediaId": 2807,
+    "caption": "Bíňa auf der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts. Die Wälle sind deutlich zu sehen",
+    "alt": "Bíňa auf der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts. Die Wälle sind deutlich zu sehen"
+   },
+   {
+    "mediaId": 2808,
+    "caption": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9.–11. Jahrhundert, Autor T. Humaj. Weitere Fotos finden Sie HIER",
+    "alt": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9.–11. Jahrhundert, Autor T. Humaj. Weitere Fotos finden Sie HIER"
+   },
+   {
+    "mediaId": 2809,
+    "caption": "Ein Schnitt durch den Wall, auf dem gut zu sehen ist, wo die Palisade eingesetzt war",
+    "alt": "Ein Schnitt durch den Wall, auf dem gut zu sehen ist, wo die Palisade eingesetzt war"
+   },
+   {
+    "mediaId": 2810,
+    "caption": "Schnitt durch den Wall nach Š. Janšák",
+    "alt": "Schnitt durch den Wall nach Š. Janšák"
+   },
+   {
+    "mediaId": 2811,
+    "caption": "Die Rotunde in Bíňa",
+    "alt": "Die Rotunde in Bíňa"
+   },
+   {
+    "mediaId": 2822,
+    "caption": "Die Rotunde und die Kirche lagen im inneren Ring der Befestigung",
+    "alt": "Die Rotunde und die Kirche lagen im inneren Ring der Befestigung"
+   },
+   {
+    "mediaId": 2825,
+    "caption": "wenige Meter hinter der Kirche stürzte der Hang in der Vergangenheit in die Gran, ähnlich wie das Kliff von Arkona ins Meer",
+    "alt": "wenige Meter hinter der Kirche stürzte der Hang in der Vergangenheit in die Gran, ähnlich wie das Kliff von Arkona ins Meer"
+   },
+   {
+    "mediaId": 2827,
+    "caption": "der Burgwall ragt einige Meter über den Wasserspiegel der Gran",
+    "alt": "der Burgwall ragt einige Meter über den Wasserspiegel der Gran"
+   },
+   {
+    "mediaId": 2836,
+    "caption": "Der äußere Wall mit dem Graben",
+    "alt": "Der äußere Wall mit dem Graben"
+   },
+   {
+    "mediaId": 2837,
+    "caption": "im Vergleich mit einer menschlichen Gestalt tritt die Mächtigkeit des Walls hervor",
+    "alt": "im Vergleich mit einer menschlichen Gestalt tritt die Mächtigkeit des Walls hervor"
+   },
+   {
+    "mediaId": 2838,
+    "caption": "Blick von der Wallkrone in den Graben",
+    "alt": "Blick von der Wallkrone in den Graben"
+   },
+   {
+    "mediaId": 2840,
+    "caption": "auf der Wallkrone",
+    "alt": "auf der Wallkrone"
+   },
+   {
+    "mediaId": 2841,
+    "caption": "hier ist zu sehen, wie der Wall sich in der Ferne nach links wendet",
+    "alt": "hier ist zu sehen, wie der Wall sich in der Ferne nach links wendet"
+   },
+   {
+    "mediaId": 2843,
+    "caption": "in diesem Abschnitt ist der Wall durch den Bau der Eisenbahn unterbrochen",
+    "alt": "in diesem Abschnitt ist der Wall durch den Bau der Eisenbahn unterbrochen"
+   },
+   {
+    "mediaId": 2844,
+    "caption": "Blick in das Innere des Burgwallareals - im Hintergrund ist ein Teil des mittleren Walls zu sehen",
+    "alt": "Blick in das Innere des Burgwallareals - im Hintergrund ist ein Teil des mittleren Walls zu sehen"
+   },
+   {
+    "mediaId": 2845,
+    "caption": "die Schienen verlaufen direkt durch den Graben",
+    "alt": "die Schienen verlaufen direkt durch den Graben"
+   },
+   {
+    "mediaId": 2855,
+    "caption": "in einem Teil des Grabens wurde ein Kreuzweg errichtet",
+    "alt": "in einem Teil des Grabens wurde ein Kreuzweg errichtet"
+   },
+   {
+    "mediaId": 483,
+    "alt": "Ein Feld mit dem durch rote Pfeile markierten Verlauf des Walls"
+   },
+   {
+    "mediaId": 484,
+    "alt": "Das Profil des Walls im Schnitt mit den Erdschichten"
+   },
+   {
+    "mediaId": 485,
+    "alt": "Zeichnungen von Keramikfragmenten und einer Perle aus dem Grab mit Maßstab"
+   },
+   {
+    "mediaId": 486,
+    "alt": "Profil des Schnitts mit Erdschichten und Messlatte"
+   },
+   {
+    "mediaId": 487,
+    "alt": "Ein freigelegtes rechteckiges Objekt im Schnitt"
+   },
+   {
+    "mediaId": 488,
+    "alt": "Vier bronzene Ohrringe aus dem slawischen Grab unter dem Wall"
+   },
+   {
+    "mediaId": 489,
+    "alt": "Ein bronzener Ohrring mit Anhänger in Detailaufnahme"
+   },
+   {
+    "mediaId": 2812,
+    "alt": "Luftbild der Gemeinde mit Feldern und der Linie des Walls"
+   },
+   {
+    "mediaId": 2813,
+    "alt": "Eine historische Schwarz-Weiß-Luftaufnahme mit den Linien der Befestigung"
+   },
+   {
+    "mediaId": 2814,
+    "alt": "Der grasbewachsene Wall des Burgwalls über dem Feld im Sommer"
+   },
+   {
+    "mediaId": 2815,
+    "alt": "Axtförmige Eisenbarren in einer Museumsvitrine"
+   },
+   {
+    "mediaId": 2816,
+    "alt": "Schwarz-Weiß-Fotografien eines Grabes mit Skelett und einer freigelegten Hütte im Schnitt"
+   },
+   {
+    "mediaId": 2817,
+    "alt": "Zwei silberne Gombíks aus Bíňa auf weißem Hintergrund"
+   },
+   {
+    "mediaId": 2818,
+    "alt": "Ein silberner Fingerring aus dem Frauengrab in Bíňa"
+   },
+   {
+    "mediaId": 2819,
+    "alt": "Zeichnungen großmährischer Ohrringe mit Granulation und Maßstab"
+   },
+   {
+    "mediaId": 2820,
+    "alt": "Zeichnungen reich verzierter Ohrringe und eines Halsrings"
+   },
+   {
+    "mediaId": 2821,
+    "alt": "Die zweitürmige Kirche in Bíňa über dem Grün"
+   },
+   {
+    "mediaId": 2823,
+    "alt": "Die Fassade der zweitürmigen Kirche mit der Uhr"
+   },
+   {
+    "mediaId": 2824,
+    "alt": "Die runde weiße Rotunde mit kuppelförmigem Dach"
+   },
+   {
+    "mediaId": 2828,
+    "alt": "Der grasbewachsene Hang des Walls am Rand des Obstgartens"
+   },
+   {
+    "mediaId": 2829,
+    "alt": "Die Rasenfläche zwischen der Kirche und der Rotunde"
+   },
+   {
+    "mediaId": 2830,
+    "alt": "Die Rotunde mit dunkler Kuppel zwischen Thujen"
+   },
+   {
+    "mediaId": 2831,
+    "alt": "Der grasbewachsene Wall des Burgwalls mit Büschen im Herbst"
+   },
+   {
+    "mediaId": 2832,
+    "alt": "Die Rotunde neben der Seitenwand der Kirche"
+   },
+   {
+    "mediaId": 2833,
+    "alt": "Der überwachsene Wall unterhalb der Kirche"
+   },
+   {
+    "mediaId": 2834,
+    "alt": "Eine barocke Säule mit Statue vor der Kirche und der Rotunde"
+   },
+   {
+    "mediaId": 2835,
+    "alt": "Der Weg zur Kirche und zur Rotunde in Bíňa"
+   },
+   {
+    "mediaId": 2839,
+    "alt": "Der überwachsene Wall des Burgwalls mit Büschen und Bäumen"
+   },
+   {
+    "mediaId": 2842,
+    "alt": "Der Wall des Burgwalls mit trockenem Gras über dem Feld"
+   },
+   {
+    "mediaId": 2846,
+    "alt": "Der mächtige Wall des Burgwalls mit trockenem Gras im Herbst"
+   },
+   {
+    "mediaId": 2847,
+    "alt": "Die Krone des Walls mit Blick auf die Felder"
+   },
+   {
+    "mediaId": 2848,
+    "alt": "Die Eisenbahnstrecke, die den Wall des Burgwalls durchschneidet"
+   },
+   {
+    "mediaId": 2849,
+    "alt": "Der Wall des Burgwalls auf beiden Seiten der Bahnstrecke im Gegenlicht"
+   },
+   {
+    "mediaId": 2850,
+    "alt": "Die Eisenbahnstrecke zwischen den Wallkörpern"
+   },
+   {
+    "mediaId": 2851,
+    "alt": "Der überwachsene Wall des Burgwalls im blattlosen Bestand"
+   },
+   {
+    "mediaId": 2852,
+    "alt": "Der Wall des Burgwalls mit trockenem Gras zwischen Bäumen"
+   },
+   {
+    "mediaId": 2853,
+    "alt": "Grüner Unterwuchs auf dem Wall des Burgwalls im Herbst"
+   },
+   {
+    "mediaId": 2854,
+    "alt": "Der steile, mit Schotter bedeckte Hang des Walls an der Bahnstrecke"
+   },
+   {
+    "mediaId": 2856,
+    "alt": "Ein herbstlicher Park mit langen Baumschatten bei der Rotunde"
+   },
+   {
+    "mediaId": 6377,
+    "alt": "Rekonstruktion des weitläufigen Burgwalls mit drei Palisadengürteln und Grubenhäusern über dem Fluss, Blick aus der Höhe"
+   }
+  ]
+ }
+}

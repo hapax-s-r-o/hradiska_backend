@@ -1,0 +1,291 @@
+{
+ "slug": "drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu",
+ "data": {
+  "title": "Dreveník – ein slawischer Burgwall im Schatten der Zipser Burg",
+  "slug": "drevenik-burgwall-im-schatten-der-zipser-burg",
+  "excerpt": "Im Hornád-Becken, südöstlich von Spišské Podhradie (Kirchdrauf), liegt die größte Travertinkuppe der Slowakei – ein einzigartiges Naturgebilde mit einer Felsenstadt von mindestens mitteleuropäischer Bedeutung. Die Gipfelplattform wurde in fast allen historischen Epochen zu Verteidigungszwecken genutzt; die ausgeprägtesten Bauaktivitäten stammen aus dem 9.–11. Jahrhundert, als dort ein slawischer Burgwall stand und die weitläufige Plattform der slawischen Bevölkerung als Fliehburg diente.",
+  "metaTitle": "Dreveník – slawischer Burgwall auf der größten Travertinkuppe",
+  "metaDescription": "Slawischer Burgwall des 9.–11. Jahrhunderts auf dem Dreveník, der größten Travertinkuppe der Slowakei mit Felsenstadt, nahe der Zipser Burg.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "icon": "map",
+    "value": "Hornád-Becken, südöstlich von Spišské Podhradie (Kirchdrauf)"
+   },
+   {
+    "label": "Höhe über dem Meer",
+    "icon": "mountain",
+    "value": "560–570 m ü. M."
+   },
+   {
+    "label": "Art des Naturgebildes",
+    "icon": "mountain",
+    "value": "Die größte Travertinkuppe der Slowakei, eine Felsenstadt"
+   },
+   {
+    "label": "Zeit der Hauptbesiedlung des Burgwalls",
+    "icon": "calendar",
+    "value": "9.–11. Jahrhundert"
+   },
+   {
+    "label": "Befestigung",
+    "icon": "shield",
+    "value": "Erdwall im Nordosten, 60 m lang, stellenweise bis zu 2 m hoch"
+   },
+   {
+    "label": "Forscher",
+    "icon": "book",
+    "value": "J. Neustupný (1932), V. Budinský-Krička, V. Furmánek, M. Slivka"
+   },
+   {
+    "label": "Autor des Artikels",
+    "icon": "custom",
+    "value": "Dominik Sabol"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Paläolithikum",
+    "type": "discovery",
+    "title": "Älteste Besiedlung",
+    "description": "Die älteste Besiedlung der Fundstelle stammt bereits aus dem Paläolithikum und ist durch Funde von Homo neandertalensis belegt."
+   },
+   {
+    "year": "Neolithikum",
+    "type": "event",
+    "title": "Besiedlung durch die Bükk-Kultur",
+    "description": "Eine weitere Besiedlung stammt aus dem Neolithikum und wird mit der Bükk-Kultur verbunden."
+   },
+   {
+    "year": "Äneolithikum",
+    "type": "founding",
+    "title": "Die erste Befestigung",
+    "description": "Im Äneolithikum entstand dort die erste Befestigung, die mit der Badener Kultur verbunden ist; an sie schlossen dann weitere Kulturen der Bronze- und der Eisenzeit an."
+   },
+   {
+    "year": "9.–11. Jahrhundert",
+    "type": "construction",
+    "title": "Slawischer Burgwall und Fliehburg",
+    "description": "Die ausgeprägtesten Bauaktivitäten und die ausgeprägteste Besiedlung stammen aus dem 9.–11. Jahrhundert, als dort ein slawischer Burgwall stand und die weitläufige Plattform als Fliehburg für die ortsansässige slawische Bevölkerung genutzt wurde, die sich dort Behausungen und auch Verteidigungsanlagen errichtete. Nach den hölzernen Befestigungs- und Wohnkonstruktionen erhielt das Gebiet den Namen Dreveník."
+   },
+   {
+    "year": "871–894",
+    "type": "event",
+    "title": "Einbindung in das Verteidigungssystem Großmährens",
+    "description": "Die erste Einbindung des Burgwalls bzw. der Fliehburg in ein organisiertes Verteidigungssystem lässt sich für die Regierungszeit Svatopluks annehmen, als sich Großmähren bis an den Mittellauf des Hornád ausdehnte."
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "type": "event",
+    "title": "Unruhige Zeit zwischen dem Untergang Großmährens und dem Anschluss an Ungarn",
+    "description": "Die Zeit zwischen dem Untergang Großmährens und dem Anschluss dieses Gebietes an das Königreich Ungarn war erneut instabil und unruhig, wovon die am häufigsten vertretenen Funde eben aus dem 10.–11. Jahrhundert zeugen."
+   },
+   {
+    "year": "12. Jahrhundert",
+    "type": "destruction",
+    "title": "Untergang des Burgwalls",
+    "description": "Mit der Entstehung des Komitatssystems und anderer Verwaltungszentren, vor allem aber mit der Beruhigung der politischen Lage geht der Burgwall im Laufe des 12. Jahrhunderts unter."
+   },
+   {
+    "year": "13. Jahrhundert",
+    "type": "event",
+    "title": "Erneute Nutzung während des Tatareneinfalls",
+    "description": "Erneut genutzt werden konnte er jedoch während des Tatareneinfalls, wovon auch Funde aus dem 13. Jahrhundert Zeugnis geben."
+   },
+   {
+    "year": "1932",
+    "type": "discovery",
+    "title": "Ausgrabung von J. Neustupný",
+    "description": "Ausgrabungen an der Fundstelle führte schon J. Neustupný im Jahr 1932 durch, später V. Budinský-Krička, V. Furmánek oder M. Slivka."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6441,
+    "alt": "Luftbild der Travertinfelsen des Dreveník, im Hintergrund die Zipser Burg"
+   },
+   {
+    "mediaId": 2760,
+    "caption": "Auf der oberen Fotografie ist der Verlauf des Befestigungswalls hervorgehoben",
+    "alt": "Auf der oberen Fotografie ist der Verlauf des Befestigungswalls hervorgehoben"
+   },
+   {
+    "mediaId": 2761,
+    "caption": "Kleiner Plan des Burgwalls",
+    "alt": "Kleiner Plan des Burgwalls"
+   },
+   {
+    "mediaId": 2762,
+    "caption": "Der Wall",
+    "alt": "Der Wall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir stellen einen weiteren interessanten slawischen Burgwall aus der Ostslowakei vor.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "7cJT2cMQUls",
+    "url": "https://www.youtube.com/embed/7cJT2cMQUls",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Hornád-Becken, südöstlich der Stadt Spišské Podhradie (Kirchdrauf), liegt die größte Travertinkuppe der Slowakei, ein einzigartiges Naturgebilde mit einer Felsenstadt von mindestens mitteleuropäischer Bedeutung. Die Gipfelplattform stellte eine außergewöhnliche Lage dar, die in fast allen historischen Epochen zu Verteidigungszwecken genutzt wurde. Die ausgeprägtesten Bauaktivitäten stammen aus dem 9.–11. Jahrhundert, als dort ein slawischer Burgwall stand; nach den hölzernen Befestigungs- und Wohnkonstruktionen erhielt das Gebiet den Namen Dreveník (von slowakisch drevo, „Holz“).",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf der oberen Fotografie ist der Verlauf des Befestigungswalls hervorgehoben",
+    "alt": "Auf der oberen Fotografie ist der Verlauf des Befestigungswalls hervorgehoben",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Seit dem Ende des Tertiärs gelangt durch tektonische Störungen Wasser, das mit Calciumhydrogencarbonat angereichert ist, an die von Konglomeraten oder Tonsteinen überdeckten Kalke. Durch dessen Sedimentation lagerten sich aus warmen Mineralquellen unter dem Zusammenwirken von Druck, Temperatur und Klima Travertinschichten in charakteristischen Kuppen ab. Gegenüber den übrigen Kuppen (Pažica oder Sivá Brada) wurde der Dreveník stärker mechanisch zerrüttet, wodurch Felstürme, Höhlen, Klüfte und Ähnliches entstanden. Die Ränder des Dreveník bilden daher steile, meist senkrechte, bis zu 60 m hohe Wände. Der Gipfel der Kuppe wurde dabei eingeebnet, was einen geradezu vollkommenen Raum für einen Zufluchtsort bzw. für den Bau von Verteidigungsanlagen ergibt. Von diesem unbezwingbaren Ort mit erheblichem Höhenunterschied gegenüber der Umgebung bot sich auch ein ausgezeichneter Rundblick über das ganze Becken. Selbst wenn der Feind die weitläufige Gipfelplattform mit ihrem vollkommenen Potenzial für den Bau von Wohnstrukturen erobert hätte, bestand noch die Ausweichmöglichkeit, sich in den Höhlensystemen zu verbergen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kleiner Plan des Burgwalls",
+    "alt": "Kleiner Plan des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist daher keine Überraschung, dass die älteste Besiedlung bereits aus dem Paläolithikum (Funde von "
+       },
+       {
+        "type": "text",
+        "text": "Homo neanderthalensis",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") oder aus dem Neolithikum (Bükk-Kultur) stammt. Die erste Befestigung entstand dort im Äneolithikum (Badener Kultur); an sie schlossen dann weitere Kulturen der Bronzezeit und sicher auch der Eisenzeit an. Die ausgeprägteste Besiedlung stammt aus dem 9.–11. Jahrhundert, als die weitläufige Plattform als Fliehburg genutzt wurde. Die Zeit des Frühmittelalters war verhältnismäßig unruhig, und oft drohte Gefahr. Deshalb war der Dreveník ein sehr geeigneter Zufluchtsort für die ortsansässige slawische Bevölkerung, die auf der Plattform Behausungen und später auch Verteidigungsanlagen errichtete. Die erste Einbindung des Burgwalls bzw. der Fliehburg in ein organisiertes Verteidigungssystem lässt sich für die Regierungszeit Svatopluks (871–894) annehmen, als sich Großmähren bis an den Mittellauf des Hornád ausdehnte. Die Zeit zwischen dem Untergang Großmährens und dem Anschluss dieses Gebietes an das Königreich Ungarn war erneut instabil und unruhig, wovon die am häufigsten vertretenen Funde eben aus dem 10.–11. Jahrhundert zeugen. Mit der Entstehung des Komitatssystems und anderer Verwaltungszentren, vor allem aber mit der Beruhigung der politischen Lage geht der Burgwall im Laufe des 12. Jahrhunderts unter. Erneut genutzt werden konnte er jedoch während des Tatareneinfalls, wovon auch Funde aus dem 13. Jahrhundert Zeugnis geben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Einige Fotografien von Svätoháj rodnej viery:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Heutiger Zustand der Fundstelle",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Wall",
+    "alt": "Der Wall",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenwärtig liegt die Fundstelle des Hauptburgwalls im Gemeindegebiet von Spišské Podhradie, an der Grenze des Gemeindegebietes von Žehra. Es handelt sich um einen südwestlichen Ausläufer des zentralen Teils des Dreveník (560–570 m ü. M.), wo die Fundstelle von Felsabstürzen und im Nordosten von einer erhaltenen mächtigen Wallaufschüttung begrenzt wird. Der Erd- und Steinwall ist in Richtung NW–SSO angelegt, seine Länge beträgt 60 m und die Höhe stellenweise auch 2 m. In den letzten tausend Jahren wurde er auf natürliche Weise erheblich zerstört, weshalb seine ursprüngliche Höhe mindestens doppelt so groß war wie die heutige. Von der Fundstelle stammen verschiedene Funde, die von der Funktion des Burgwalls im 9.–11. Jahrhundert zeugen. Ausgrabungen führte dort schon J. Neustupný im Jahr 1932 durch, später V. Budinský-Krička, V. Furmánek oder M. Slivka."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

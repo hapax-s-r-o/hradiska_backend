@@ -1,0 +1,153 @@
+{
+ "slug": "informacna-tabula-modra-zamcisko",
+ "data": {
+  "title": "Informationstafel auf dem Burgwall Zámčisko über Modra",
+  "slug": "informationstafel-modra-zamcisko",
+  "excerpt": "Am 20. 10. 2013 versammelten wir uns auf dem Burgwall Zámčisko über Modra, um dort gemeinsam unsere neue Informationstafel zu enthüllen. Unser heidnischer Priester hatte offenbar am Tag zuvor anspruchsvolle Opferriten vollzogen, denn die Götter bescherten uns unglaublich schönes Herbstwetter.",
+  "metaTitle": "Informationstafel auf dem Burgwall Zámčisko über Modra",
+  "metaDescription": "Enthüllung der Informationstafel auf dem Burgwall Zámčisko über Modra (2013) mit der Stadt Modra; den Text beriet Dr. Zdenko Farkaš.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Informationstafel auf dem Burgwall Zámčisko über Modra",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "20. 10. 2013 (Verein Hradiská + Stadt Modra)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2013",
+    "title": "Tafel Modra – Zámčisko",
+    "description": "In Zusammenarbeit mit der Stadt Modra und dem Selbstverwaltungsbezirk Bratislava; den Text beriet Z. Farkaš.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5570,
+    "caption": "Die Tafel stellten Mitarbeiter der Stadt Modra auf",
+    "alt": "Die Tafel stellten Mitarbeiter der Stadt Modra auf"
+   },
+   {
+    "mediaId": 5572,
+    "caption": "die Tafel wartet auf ihre Enthüllung…",
+    "alt": "die Tafel wartet auf ihre Enthüllung…"
+   },
+   {
+    "mediaId": 5576,
+    "caption": "Zámčisko hat von nun an eine neue Informationstafel",
+    "alt": "Zámčisko hat von nun an eine neue Informationstafel"
+   },
+   {
+    "mediaId": 5577,
+    "caption": "Čendo Žrec steht am Rand des Burgwalls, in der Hand ein Trinkhorn voll Opfermet, und bittet die slawischen Götter um den Schutz unserer neuen Tafel",
+    "alt": "Čendo Žrec steht am Rand des Burgwalls, in der Hand ein Trinkhorn voll Opfermet, und bittet die slawischen Götter um den Schutz unserer neuen Tafel"
+   },
+   {
+    "mediaId": 5580,
+    "caption": "außer dem Met durfte auch eine Flasche guten Modraner Weins nicht fehlen…",
+    "alt": "außer dem Met durfte auch eine Flasche guten Modraner Weins nicht fehlen…"
+   },
+   {
+    "mediaId": 5583,
+    "caption": "unser Verein absolvierte selbstverständlich auch eine „fachliche“ Besichtigung des Burgwalls – auf dem Foto an der Stelle, wo sich wahrscheinlich das Tor befand",
+    "alt": "unser Verein absolvierte selbstverständlich auch eine „fachliche“ Besichtigung des Burgwalls – auf dem Foto an der Stelle, wo sich wahrscheinlich das Tor befand"
+   },
+   {
+    "mediaId": 5584,
+    "caption": "die ersten Touristen…",
+    "alt": "die ersten Touristen…"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 20. 10. 2013 versammelten wir uns auf dem Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zamcisko-modra",
+        "children": [
+         {
+          "type": "text",
+          "text": "Zámčisko"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " über Modra, um dort gemeinsam unsere neue Informationstafel zu enthüllen. Unser heidnischer Priester hatte offenbar am Tag zuvor anspruchsvolle Opferriten vollzogen, denn die Götter bescherten uns unglaublich schönes Herbstwetter.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere neue Informationstafel haben wir dieses Mal in Zusammenarbeit mit der Stadt Modra geschaffen, die gemeinsam mit dem Selbstverwaltungsbezirk Bratislava (Pressburg) nicht nur die Tafel finanzierte, sondern auch die Herstellung und Aufstellung der massiven Holzkonstruktion der Tafel übernahm, wodurch wir uns allein auf die Gestaltung des Informationspaneels selbst konzentrieren konnten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Text der Tafel haben wir mit Dr. Zdenko Farkaš beraten, der in der Vergangenheit auf dem Burgwall Ausgrabungen durchgeführt hat. Zugleich stellte er uns für die Tafel auch Abbildungen der Funde in guter Auflösung zur Verfügung. Die Abbildung des Burgwalls – ein Detail der Befestigung – zeichnete für uns der akademische Maler Tomáš Polonský. Alles Übrige schufen die Mitglieder unseres Vereins Hradiská. Die Tafel haben wir enthüllt und mit echtem altslawischem Met aus einem slawischen Trinkhorn „getauft“. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Tafel stellten Mitarbeiter der Stadt Modra auf",
+    "alt": "Die Tafel stellten Mitarbeiter der Stadt Modra auf",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir glauben, dass die Tafel zu einer besseren Information der Touristen beiträgt, die diesen magischen Ort besuchen, und dass sie nicht dem Vandalismus zum Opfer fällt. Wir danken der Stadt Modra, besonders der Frau Bürgermeisterin und den Mitarbeitern des Stadtamtes, für das Entgegenkommen und die Hilfe bei diesem Projekt. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,598 @@
+{
+ "slug": "vysny-kubin-ostra-skala",
+ "data": {
+  "title": "Ostrá skala über Vyšný Kubín – eine keltische und slawische Burganlage in der Arwa",
+  "slug": "ostra-skala-vysny-kubin-keltische-slawische-burganlage",
+  "excerpt": "Die Ostrá skala nördlich von Vyšný Kubín war eine der bedeutendsten Burganlagen der Arwa (Orava): von Süden durch 50 bis 70 m hohe Felswände geschützt, unmittelbar neben der Tupá skala. In der Mittellatènezeit errichtete hier das Volk der Púchov-Kultur eine feste kleine Höhenburg mit Steinmauer und Palisade, im 9. Jahrhundert erneuerten die Slawen die Befestigung und gliederten die Fläche in drei Höfe. Der Burgwall bestand bis in das 12. Jahrhundert — als es die Burg Orava noch nicht gab.",
+  "metaTitle": "Ostrá skala – keltische und slawische Burganlage der Arwa",
+  "metaDescription": "Die Ostrá skala über Vyšný Kubín, geschützt von 50–70 m hohen Felswänden, war eine keltische und später slawische Burganlage in der Arwa (Orava).",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Nördlich von Vyšný Kubín, unmittelbar bei der benachbarten Burganlage Tupá skala; von Süden durch 50 – 70 m hohe Felswände geschützt",
+    "icon": "mountain"
+   },
+   {
+    "label": "Drei Höfe",
+    "value": "Der untere (hinter dem Tor), der mittlere (die meisten Funde) und der höchste (Wall mit hölzerner Kastenkonstruktion)",
+    "icon": "building"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Eine über 2 m hohe Steinmauer mit hölzerner Palisade, zusammen mit dem Mauerwerk über 3 m hoch; der slawische Wall in Form eines unsymmetrischen Hufeisens mit einer Fläche von 2500 m²",
+    "icon": "shield"
+   },
+   {
+    "label": "Hallenbau",
+    "value": "Ein langer Bau mit einem von Mittelpfosten gestützten Dach in der höchsten Lage, mit Blockwänden und einem Schilfdach",
+    "icon": "building"
+   },
+   {
+    "label": "Bedeutende Funde",
+    "value": "Ein bronzener Waagebalken, drei goldene Statere (2. Jahrhundert v. Chr.), latènezeitliche Fibeln, ein Knochenkamm aus der mittleren römischen Kaiserzeit",
+    "icon": "star"
+   },
+   {
+    "label": "Fläche des slawischen Burgwalls",
+    "value": "Drei Höfe mit einer Fläche von etwa 1,5 – 2 ha",
+    "icon": "shield"
+   },
+   {
+    "label": "Quelle",
+    "value": "Bearbeitet von Orgoň, nach Pavol Čaplovič",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende der Hallstattzeit",
+    "title": "Untergang der Höhensiedlung auf der Tupá skala",
+    "description": "Die Lausitzer Besiedlung und ihre Höhensiedlung auf der benachbarten Tupá skala wurden zerstört.",
+    "type": "destruction"
+   },
+   {
+    "year": "Mittellatènezeit",
+    "title": "Die Kelten nehmen die Ostrá skala ein",
+    "description": "Das Volk der Púchov-Kultur (Verschmelzung der Lausitzer Bevölkerung mit den Kelten) errichtete auf der Ostrá skala eine feste kleine Höhenburg, umgeben von einer Siedlung an ihrem Fuß.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Jahrhundert v. Chr.",
+    "title": "Goldene Statere",
+    "description": "Drei goldene Statere (Nachahmungen der Philippeier), die im 19. Jahrhundert an der Fundstelle gefunden wurden und die Entwicklung der Siedlungsagglomeration in der Mittellatènezeit belegen.",
+    "type": "event"
+   },
+   {
+    "year": "70 ± 55 n. Chr.",
+    "title": "Erster Katastrophentermin (C14)",
+    "description": "Die Radiokarbonanalyse der Rostkonstruktion des oberen Walls — die Zerstörung ist auch auf den benachbarten Trniny erfasst.",
+    "type": "destruction"
+   },
+   {
+    "year": "35 ± 40 n. Chr.",
+    "title": "Zweite datierte Zerstörungsphase",
+    "description": "Karbonisierte Balken von Befunden auf dem mittleren Hof, die mit einer Planierschicht überschüttet waren.",
+    "type": "destruction"
+   },
+   {
+    "year": "173 – 180 n. Chr.",
+    "title": "Abzug der Kotiner nach Pannonien",
+    "description": "Die Probe aus dem oberen Wall (220 ± 45 n. Chr.) entspricht annähernd der Zeit der Markomannenkriege und der Umsiedlung der Kotiner zusammen mit den Markomannen und Quaden — ein Teil der Quaden blieb im Gebiet der heutigen Slowakei.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Die Slawen erneuern den Burgwall",
+    "description": "Die Slawen entdeckten die strategische Lage der Ostrá skala, erneuerten die Befestigungen und errichteten neue Wohnbauten; sie nutzten dabei die Reste der älteren latènezeitlichen Fortifikation.",
+    "type": "founding"
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Eingetieftes Wohnhaus mit Ofen",
+    "description": "Eine Kulturschicht mit weiteren Siedlungsbefunden und Feuerstellen; Funde von Sporen, Sensen, Eimerbeschlägen, Messern, Äxten und Rasiermessern.",
+    "type": "construction"
+   },
+   {
+    "year": "zweite Hälfte des 9. – 10. Jahrhundert",
+    "title": "Kontinuität der Besiedlung",
+    "description": "Nachgewiesene Kontinuität zwischen beiden Hauptzeithorizonten der Nutzung der Fundstelle.",
+    "type": "event"
+   },
+   {
+    "year": "10. – 12./13. Jahrhundert",
+    "title": "Jüngere Besiedlung in Blockbauweise",
+    "description": "Behausungen in Blockbauweise (verkohlte Balkenreste); der Burgwall bestand bis in das 12. Jahrhundert fort, wahrscheinlich auch in den Anfängen des ungarischen Staates als Verwaltungssitz.",
+    "type": "event"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Eingliederung der Arwa in den ungarischen Staat",
+    "description": "Die Arwa wurde ein Teil des ungarischen frühfeudalen Staates; die Burg Orava existierte zu dieser Zeit noch nicht.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 652,
+    "caption": "Foto: Tomáš Demian",
+    "alt": "Foto: Tomáš Demian"
+   },
+   {
+    "mediaId": 654,
+    "caption": "Tupá und Ostrá skala (Foto: T. Demian)",
+    "alt": "Tupá und Ostrá skala (Foto: T. Demian)"
+   },
+   {
+    "mediaId": 657,
+    "caption": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren",
+    "alt": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren"
+   },
+   {
+    "mediaId": 658,
+    "caption": "Tupá und Ostrá skala auf der Orthofotokarte aus den 1950er Jahren",
+    "alt": "Tupá und Ostrá skala auf der Orthofotokarte aus den 1950er Jahren"
+   },
+   {
+    "mediaId": 659,
+    "caption": "Abb. 90–91. Ostrá skala über Vyšný Kubín — annähernde Rekonstruktion der hallstatt-latènezeitlichen Befestigung und grafische Rekonstruktion der Befestigung der römischen Kaiserzeit (nach A. Habovštiak)",
+    "alt": "Abb. 90–91. Ostrá skala über Vyšný Kubín — annähernde Rekonstruktion der hallstatt-latènezeitlichen Befestigung und grafische Rekonstruktion der Befestigung der römischen Kaiserzeit (nach A. Habovštiak)"
+   },
+   {
+    "mediaId": 662,
+    "caption": "Abb. 100. Ostrá skala über Vyšný Kubín — slawische befestigte Siedlung. Blick von Westen auf den Gipfel der Ostrá skala — der obere Hof mit der Einfriedung und den festgestellten Siedlungsbefunden aus dem 12. – 13. Jahrhundert (Rekonstruktionsversuch)",
+    "alt": "Abb. 100. Ostrá skala über Vyšný Kubín — slawische befestigte Siedlung. Blick von Westen auf den Gipfel der Ostrá skala — der obere Hof mit der Einfriedung und den festgestellten Siedlungsbefunden aus dem 12. – 13. Jahrhundert (Rekonstruktionsversuch)"
+   },
+   {
+    "mediaId": 663,
+    "caption": "Abb. 95. Ostrá skala über Vyšný Kubín — großmährische eiserne Sporen",
+    "alt": "Abb. 95. Ostrá skala über Vyšný Kubín — großmährische eiserne Sporen"
+   },
+   {
+    "mediaId": 664,
+    "caption": "Abb. 96. Ostrá skala über Vyšný Kubín — Fragmente von Wirtschaftsgeräten: 1 – Axt – Dechsel, 2 – Beil, 3 – Getreidesichel, 4 – Hängebeschlag eines Eimers",
+    "alt": "Abb. 96. Ostrá skala über Vyšný Kubín — Fragmente von Wirtschaftsgeräten: 1 – Axt – Dechsel, 2 – Beil, 3 – Getreidesichel, 4 – Hängebeschlag eines Eimers"
+   },
+   {
+    "mediaId": 665,
+    "caption": "Abb. 97. Ostrá skala über Vyšný Kubín — slawische Siedlung — grafische Rekonstruktionen: 1 – Messerscheide mit Zierbeschlag, 2 – Messerscheide mit Blechbeschlag, 3 – eisernes Rasiermesser",
+    "alt": "Abb. 97. Ostrá skala über Vyšný Kubín — slawische Siedlung — grafische Rekonstruktionen: 1 – Messerscheide mit Zierbeschlag, 2 – Messerscheide mit Blechbeschlag, 3 – eisernes Rasiermesser"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine bedeutende keltische und später slawische Burganlage im Gebiet der Arwa (Orava) war die Ostrá skala, die sich nördlich von Vyšný Kubín befindet. Sie liegt in unmittelbarer Nähe einer anderen bedeutenden Burganlage – der Tupá skala, die vor allem durch die Besiedlung aus der Zeit der Lausitzer Kultur bekannt ist. Von der Südseite ist die Anlage durch 50 bis 70 m hohe Felswände geschützt, während die Nordseite eine mildere Neigung hat, die in der Urgeschichte für den Zugangsweg genutzt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kelten auf der Ostrá skala"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die vorangehende Lausitzer Besiedlung und ihre bedeutende Höhensiedlung auf der Tupá skala wurden irgendwann am Ende der Hallstattzeit zerstört, und in der Mittellatènezeit nahmen die Kelten die Ostrá skala ein (bzw. genauer das Volk der Púchov-Kultur, das durch das Verschmelzen der ursprünglichen Lausitzer Bevölkerung mit den Kelten entstand), die auf ihr eine feste kleine Höhenburg errichteten. Ihre Siedlung erstreckte sich dann um den Fuß der Ostrá skala. Das steile Gelände der Siedlung entsprach den Anforderungen voll und verstärkte die Unzugänglichkeit durch die zusätzlich errichteten Fortifikationen noch weiter. Die Siedlung in der Umgebung der Ostrá skala versorgte die kleine Höhenburg mit Wasser, Lebensmitteln und Arbeit, und auf der anderen Seite konnte die Bevölkerung in Zeiten der Gefahr hinter die Mauern der Befestigung gelangen und hier Zuflucht vor den Feinden finden. Die Verteidigungsanlagen waren auch auf der Ostrá skala von einer ausreichenden Zahl fähiger Verteidiger abhängig, boten jedoch keinen Schutz mehr für das Vieh, das am Fuß des Berges oder in den Wäldern bleiben musste. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die genannte Siedlung erstreckt sich in der Lage Chmelínce mit einer Trinkwasserquelle, in den Lagen Za lúky und Železný laz mit einer weiteren Quelle, im Medziskalie (zwischen der Ostrá und der Tupá skala) und teilweise auch in der Lage Janovie lazy mit einer weiteren Quelle ständigen Wassers. In den Siedlungen fanden sich Keramikfragmente der Hallstatt- und der Púchov-Kultur. Metallene, knöcherne und andere Werkzeuge fehlen. Die einzige Drehmühle mit Mittelloch verweist auf latènezeitlichen Ursprung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto: Tomáš Demian",
+    "alt": "Foto: Tomáš Demian",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Zugang zur Ostrá skala führte aus dem Bereich des Medziskalie von Westen am Nordhang über einen Weg (heute ein Pfad), wobei man in der Mitte seiner Länge, an der Geländekante, ursprünglich durch ein befestigtes Tor ging. Auf diesen geschützten Eingang in die Siedlung weist ein aufgeschütteter Stein hin, vielleicht auch ein natürlich gewachsener Untergrund auf der unteren (nördlichen) Seite, an den der untere Erdwall anschließt. Von der oberen Seite des hölzernen Tores verlief parallel unterhalb der Steinmauer ein deutlicherer, noch heute erkennbarer Pfad, vielleicht eine Berme mit Brustwehr zum Schutz des Tores. Hinter dem Tor lag der untere Hof mit einem verhältnismäßig nach Norden geneigten Gelände und dem weiterführenden Weg (Pfad)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Zugang zum mittleren Hof ermöglichte von der östlichen Seite ein zweites Tor hinter dem erhöhten, kreisförmigen Abschluss des Wallmauerwerks und der Palisade. Durch die Errichtung des Wall- und Palisadenmauerwerks auf eine Höhe von 3,5 m wurde von der oberen Seite auch durch Planieren eine Einebnung des Geländes entlang der ganzen Palisade bis zur westlichen Aussicht erreicht. Dieser Bereich wurde in der Funktion des mittleren Hofes für die verschiedensten Zwecke genutzt, weshalb hier auch die meisten Funde vorkamen. Sie lagen meist unter der oberen slawischen Schicht, an einigen Stellen reichten sie aber auch bis in die höchste Ebene. Danach schließen wir, dass der Hof nicht immer eben war und die Umschichtung der Schichten von den Erdverlagerungen in den jeweiligen Zeiten abhing. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vyšný Kubín – Ostrá skala",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das verhältnismäßig steile, nach Norden geneigte Gelände war zunächst in drei Teile geteilt. Der erste von ihnen konnte gegenüber der Umgebung von einem kleineren Erdwall mit einer hölzernen Palisade umgeben sein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite Bereich war vom vorherigen durch eine mehr als 2 m hohe Steinmauer abgegrenzt, von der sich der überwiegende Teil bis heute erhalten hat, mit den Pfostengruben der ursprünglichen gedeckten hölzernen Palisade. Vor der Mauer lag ein mit Stein ausgelegter Pfad, vielleicht für den Nahkampf. Der untere Teil der hölzernen Blockpalisade war ebenfalls mit Steinmauerwerk verkleidet, wahrscheinlich gegen Feuer, sodass das durchgehende Steinmauerwerk auf diese Weise mehr als 3 m Höhe erreichte und fertige Burgmauern bildete. Heute ist der obere Teil des Mauerwerks bis zu seinem Fundament abgerutscht und das übrige Mauerwerk meist an der ursprünglichen Stelle, überwiegend mit Erde überschüttet. Dieser Zustand konnte infolge umfangreicherer slawischer Umgestaltungen entstehen, bei denen ein erheblicher Teil der Erde vom Hof abgeräumt wurde, samt zahlreichem Scherben- und Metallmaterial der Púchov-Kultur, das heute das Steinmauerwerk auf seiner ganzen Länge bedeckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Tupá und Ostrá skala (Foto: T. Demian)",
+    "alt": "Tupá und Ostrá skala (Foto: T. Demian)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erst der dritte, höchste Teil war von einem hohen Erdwall mit hölzerner Kastenkonstruktion umgeben. Die Siedlungsbefunde lagen in zwei höhenmäßig unterschiedlichen Reihen in Richtung N – S nach Art einer Galerie. Die obere Reihe erreichte die höchste Lage der Ostrá skala, und ihr Fundament war sorgfältig nivelliert. Außer der deutlichen Eintiefung in das abschüssige Gelände gaben die ursprüngliche Nivellierung auch zahlreiche Scherben an, die in einer Ebene lagen, wie auf dem Boden dieses Baus. Es handelt sich um Scherben nicht graphitierter, kammstrichverzierter Gefäße, nur in geringem Maße fanden sich glatte Scherben hallstattzeitlichen Charakters. In der Mitte des Baus standen massive Pfosten, von denen im Untergrund ausgehobene Gruben zurückblieben. Es scheint, dass es sich um einen langen Bau mit einem von Mittelpfosten gestützten Dach handelt, das mindestens von der östlichen Seite bis zum Boden reichte. Es kann sich also um die sogenannte Hallenform des Baus mit Feuerstellen auf einem erhöhten Unterbau, mit Blockwänden und einem Schilfdach handeln."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vyšný Kubín – Ostrá skala",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zweite Baureihe lag etwas tiefer im steilen Gelände, dessen Nivellierung ebenfalls Scherben angaben, die nötige Spannweite wurde aber durch das Einsetzen von Stützpfosten erreicht, von denen sich ebenfalls Pfostengruben erhalten haben. Insgesamt bestand der Gipfel der Ostrá skala nur aus den zwei festgestellten Reihen von Siedlungsbauten, außer verschiedenen Unterständen für Pferde, Hunde und sonstigen Bestand, umgeben von einem gemeinsamen hohen Erdwall und einer mit Steinen verkleideten hölzernen Palisade."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den interessanten Funden ist vor allem ein bronzener Waagebalken zum Wiegen von Edelmetallen zu nennen, der aus dem mittleren Hof stammt und am häufigsten beim Abmessen des Münzschrötlings verwendet wurde. Zu nennen sind auch drei Goldmünzen – Statere, die hier im 19. Jahrhundert gefunden wurden. Ihre Datierung fällt in das 2. Jahrhundert v. Chr., also in die Mittellatènezeit, als sich nach der hallstattzeitlichen Besiedlung der Tupá skala die Siedlungsagglomeration um die Ostrá skala zu entwickeln begann. Beide Statere MT sind sehr fortgeschrittene Nachahmungen der goldenen Philippeier. Zur Veranschaulichung lässt sich anführen, dass ein goldener Stater den Wert von 20 Drachmen hatte. Es fanden sich hier auch latènezeitliche Fibeln. Die Keramik vertreten Krüge und Amphoren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vyšný Kubín – Ostrá skala",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Reste von Holz und Holzkonstruktionen ermöglichten auch eine Datierung im Rahmen der absoluten Chronologie, durch die Analyse des Kohlenstoffs C14. Die Radiokarbonanalyse der Rostkonstruktion des oberen Walls lässt einen ersten Katastrophentermin (Trniny, Ostrá skala) um das Jahr 70 ± 55 n. Chr. zu. Die zweite Probe stammt aus dem Bereich des mittleren Hofes, wo karbonisierte Balken aus der Zerstörung von Befunden gefunden wurden, die mit einer Planierschicht überschüttet waren, und sie datieren diese Phase um das Jahr 35 ± 40 n. Chr."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während auf den Trniny das Leben nach der Zeitenwende aufhörte, ging es auf der Ostrá skala weiter. Das zeigt sich an der weiteren Entwicklung der Keramik mit merklich abweichender Form der Verzierung der fassförmigen Töpfe. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere Probe aus der Holzschicht des oberen Walls gibt den Termin 220 ± 45 n. Chr. an, was annähernd der Zeit des Abzugs der Kotiner nach Pannonien (173 – 180 n. Chr.) im Zusammenhang mit den Markomannenkriegen gegen die Römer entspricht. Mit den Markomannen und Quaden wurden angeblich auch die Kotiner umgesiedelt, ein Teil der Quaden blieb jedoch, wie andere Quellen zeigen, im Gebiet der heutigen Slowakei. Auf der Ostrá skala war der ganze Nordhang zwischen dem oberen und dem mittleren Wall besiedelt. Im Bereich des Sattels wurden Pfostengruben festgestellt, die einem mit Steinen gepflasterten Pfad folgen, sowie verschiedene Geländeveränderungen mit Scherben handgeformter und kammstrichverzierter Keramik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kelten (Vae Victis)",
+    "alt": "Kelten (Vae Victis)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Rand des mittleren Hofes, entlang der Steinmauer, fand sich auch feine latènezeitliche bemalte Keramik. Die jüngere Periode der römischen Kaiserzeit signalisieren auch auf der Ostrá skala eiserne Fibeln mit rinnenförmigem Nadelhalter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein bedeutender Fund aus der jüngeren römischen Kaiserzeit ist ein Knochenkamm aus dem mittleren Hof, der aus zwei halbkreisförmigen Knochenplättchen zusammengesetzt ist, die um den Rand mit einem Leitermuster und am unteren geraden Teil mit einer doppelten Wellenlinie mit Mäander verziert sind. Ähnlich und sehr eindrucksvoll ist auch die Verkleidung des Zahnteils verziert, die eine eiserne Nietung zusammenhielt. Von der Ostrá skala stammt weiter ein laibförmiger Ring aus dunkelgrünem Glas, wohl Bestandteil eines Brettspiels."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Hallstattzeit konnte die Ostrá skala ein wirtschaftliches Hilfsobjekt sein, aber erst in der Mittellatènezeit wurde sie zu einem Zentrum und allmählich zur bekanntesten Siedlung der Púchov-Kultur in der Arwa in der Latènezeit und der römischen Kaiserzeit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Tupá und Ostrá skala auf der Orthofotokarte aus den 1950er Jahren",
+    "alt": "Tupá und Ostrá skala auf der Orthofotokarte aus den 1950er Jahren",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen auf der Ostrá skala"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ostrá skala als vorteilhafte strategische Lage für die Errichtung einer Befestigung entdeckten im 9. Jahrhundert n. Chr. erneut unsere Vorfahren, die Slawen, die auf dem Burgwall die Befestigungen wieder erneuerten und neue Wohnbauten errichteten. Das slawische Befestigungssystem am Ende des 8. und im 9. Jahrhundert nutzte die Reste der Fortifikationen aus den vorangehenden Perioden. Ebenso knüpfte man an die ältere Gestaltung des Innenraums der Anlage an, als durch eine Palisadeneinfriedung die befestigte Siedlung in drei Höfe mit einer Fläche von etwa 1,5–2 ha geteilt wurde. Der Wall, der im Grundriss die Form eines unsymmetrischen Hufeisens hat, schützte die höchste Siedlungsfläche mit einer Fläche von 2500 m². Der Wall hat seinen Ursprung in der Latènezeit, wobei die Slawen ihn aufschütteten und eine hölzerne Einfriedung in ihn einsetzten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Wende vom 8. zum 9. Jahrhundert stammen eine Kulturschicht, ein eingetieftes Wohnhaus mit Ofen und weitere Siedlungsbefunde mit Feuerstellen. Von den Funden sind drei Sporen, Sensen, Eimerbeschläge, Messer, Äxte, Rasiermesser und Waffen zu nennen. Aus der jüngeren Periode, die zeitlich in das 10. Jahrhundert bis an die Wende des 12./13. Jahrhunderts eingeordnet wird, wurden im Grundriss Behausungen in Blockbauweise erkannt (verkohlte Reste hölzerner Balken). Die befestigte Siedlung erfüllte wahrscheinlich im ersten Zeithorizont eine zentrale Verwaltungsfunktion in der Region. Auf der Grundlage der lange laufenden Neubewertung der Befundsituation (eiserne Gegenstände – Waffen, Pferdegeschirr) ist die Kontinuität der Besiedlung von der zweiten Hälfte des 9. bis in das 10. Jahrhundert bereits nachgewiesen. Es handelte sich um die Zeit zwischen beiden wichtigsten Wendepunkten der frühmittelalterlichen Nutzung dieser Fundstelle. Sie erreicht jedoch nicht eine solche Intensität wie in den beiden dominanten Zeitabschnitten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vyšný Kubín – Ostrá skala",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall waren wahrscheinlich auch die Organe der regionalen Verwaltung konzentriert. Die Arwa wurde erst irgendwann in der Periode des 11. Jahrhunderts in den ungarischen frühfeudalen Staat eingegliedert. Angesichts dessen, dass der Burgwall in Vyšný Kubín bis in das 12. Jahrhundert fortbestand, nehmen wir an, dass er in einer bestimmten Form auch in den Anfängen des ungarischen Staates als Verwaltungssitz fortbestand, da die Burg Orava (Arwaburg) noch nicht existierte."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss bringen wir als Bonus einige einzigartige alte Fotografien, auf denen die Ostrá skala festgehalten ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

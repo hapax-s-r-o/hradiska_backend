@@ -1,0 +1,270 @@
+{
+ "slug": "sucany-skala",
+ "data": {
+  "title": "Sučany – Skala, eine Burganlage auf einem 40 m hohen Felsen",
+  "slug": "sucany-skala-burganlage-auf-dem-felsen",
+  "excerpt": "Mitten in Sučany erhebt sich ein 40 m hoher Felsen namens Skala, der letzte Ausläufer der Fatra. Nahezu senkrechte Wände und eine 8 m hohe natürliche Stufe machten ihn zu einer natürlichen Burg, die der Mensch nur noch mit drei Wällen von 94, 88 und 108 m Länge ergänzen musste. Das hufeisenförmige Plateau von 4350 m² bewohnten das Volk der Púchov-Kultur und später die Slawen; Štefan Janšák beschrieb den Platz 1930 als ersten.",
+  "metaTitle": "Sučany – Skala, Burganlage auf einem 40 m hohen Felsen",
+  "metaDescription": "Auf dem 40 m hohen Felsen Skala in Sučany, dem letzten Ausläufer der Fatra, entstand auf einem geradezu idealen Bergsporn eine Burganlage mit drei Wällen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die Burganlage Skala befindet sich in der Gemeinde Sučany auf einem 40 m hohen Felsen, dem letzten Ausläufer des Bergrückens Bukovina (Kote 538) im Fatra-Gebirge.",
+    "icon": "map"
+   },
+   {
+    "label": "Natürliche Verteidigung",
+    "value": "Die Skala war vom Bergrücken durch eine 8 m hohe natürliche Stufe getrennt; im Süden und Westen begrenzen sie nahezu senkrechte, überhängende Felswände, im Norden ein Hang mit einer Neigung von 45 Grad.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Drei Wälle der Burganlage",
+    "value": "Die Burganlage schützten drei Wälle: der umlaufende Wall k–b–z–i–l mit einer Länge von 94 m, der Wall m–o–c–s–n mit 88 m Länge und der äußere, nahezu halbkreisförmige Wall o–p–d–r–s mit 108 m Länge.",
+    "icon": "shield"
+   },
+   {
+    "label": "Höhe der Wälle",
+    "value": "Der Wall m–o–c–s–n erreicht zur Burganlage hin eine Höhe von 8 m, in die Gegenrichtung 4 m; der höchste Punkt des Walls o–p–d–r–s erhebt sich 6 m über dem Boden des anliegenden Grabens.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Burganlage",
+    "value": "Das bewohnte Plateau der Burganlage hatte eine Fläche von 4350 m² und die Form eines Hufeisens.",
+    "icon": "map"
+   },
+   {
+    "label": "Archäologische Funde",
+    "value": "Slawische Scherben mit Wellenbandverzierung, scheibengedrehte Scherben der Púchov-Kultur, Lehmbewurf, eine Tonperle, zwei bronzene Fibeln aus dem 1. Jahrhundert n. Chr. und Reste eingetiefter Grubenhäuser mit Pfostenkonstruktion.",
+    "icon": "star"
+   },
+   {
+    "label": "Münzen und Prägung",
+    "value": "Zu den Funden gehören zwei gefälschte Münzen aus dem 14. Jahrhundert, ein kupfernes Plättchen, das vielleicht zur falschmünzerischen Prägung vorbereitet war, eine Münze der Kotiner und mehrere römische Münzen.",
+    "icon": "custom"
+   },
+   {
+    "label": "Forscher",
+    "value": "Die Burganlage untersuchten Štefan Janšák (1930), Igor Hrubec (Ausgrabungen in den 1950er und 1960er Jahren, Publikation SA 1961) und A. Petrovský-Šichman (VZP 1964).",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1. Jahrhundert n. Chr.",
+    "title": "Besiedlung in der römischen Kaiserzeit",
+    "description": "Auf der Burganlage fanden sich zwei bronzene Fibeln, die in das 1. Jahrhundert n. Chr. datiert werden, was eine Besiedlung des Plateaus auch in dieser Zeit belegt.",
+    "type": "era"
+   },
+   {
+    "year": "Zeit der Púchov-Kultur",
+    "title": "Besiedlung während der Púchov-Kultur",
+    "description": "Reste eingetiefter Grubenhäuser mit Pfostenkonstruktion und eine Menge Scherben der Púchov-Kultur belegen die Besiedlung der Burganlage in dieser Zeit.",
+    "type": "era"
+   },
+   {
+    "year": "14. Jahrhundert",
+    "title": "Gefälschte Münzen und Prägung",
+    "description": "Auf der Burganlage fanden sich zwei Münzen aus dem 14. Jahrhundert, die Janšák als Fälschungen bezeichnete, sowie ein kreisförmiges Kupferplättchen, das vielleicht zur falschmünzerischen Prägung vorbereitet war.",
+    "type": "event"
+   },
+   {
+    "year": "1930",
+    "title": "Erste Untersuchung und Beschreibung der Burganlage (Janšák)",
+    "description": "Die Burganlage untersuchte und veröffentlichte als Erster Štefan Janšák, der anführte, dass es keine vollkommenere natürliche Burg geben konnte als eben die Skala.",
+    "type": "discovery"
+   },
+   {
+    "year": "1950er und 1960er Jahre",
+    "title": "Archäologische Ausgrabungen von Igor Hrubec",
+    "description": "Igor Hrubec führte in Sučany archäologische Ausgrabungen durch, bei denen er feststellte, dass die Besiedlung der Burganlage stets mit einer Siedlung zusammenhing, die sich nördlich von ihr in Richtung zur Waag befand.",
+    "type": "discovery"
+   },
+   {
+    "year": "1961",
+    "title": "Publikation der Untersuchung in Slovenská archeológia",
+    "description": "Igor Hrubec publizierte die Ergebnisse der Untersuchung der Burganlage in der Zeitschrift Slovenská archeológia (Band 9, S. 209–215).",
+    "type": "discovery"
+   },
+   {
+    "year": "1964",
+    "title": "Fund und Publikation von A. Petrovský-Šichman",
+    "description": "A. Petrovský-Šichman gelang es, einige slawische Scherben mit Wellenbandverzierung von der Burganlage zu erfassen und zu veröffentlichen (VZP 1964).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6432,
+    "alt": "Federzeichnung eines felsigen Berges mit Nadelbäumen und einem Gebirgszug im Hintergrund"
+   },
+   {
+    "mediaId": 2626,
+    "caption": "Plan der Burganlage (Š. Janšák)",
+    "alt": "Plan der Burganlage (Š. Janšák)"
+   },
+   {
+    "mediaId": 2627,
+    "caption": "So sah die Burganlage im Jahr 1930 aus, als Janšák sie zeichnete",
+    "alt": "So sah die Burganlage im Jahr 1930 aus, als Janšák sie zeichnete"
+   },
+   {
+    "mediaId": 2628,
+    "caption": "… und so sieht sie heute aus",
+    "alt": "… und so sieht sie heute aus"
+   },
+   {
+    "mediaId": 2629,
+    "caption": "Doppelfotografie „damals und heute“ (Autor: Naj). Zur Vollkommenheit fehlt noch eine dritte Ansicht – der Zustand vor 2000 Jahren.",
+    "alt": "Doppelfotografie „damals und heute“ (Autor: Naj). Zur Vollkommenheit fehlt noch eine dritte Ansicht – der Zustand vor 2000 Jahren."
+   },
+   {
+    "mediaId": 2630,
+    "caption": "Slawische Scherbe und Tonperle, die Janšák fand",
+    "alt": "Slawische Scherbe und Tonperle, die Janšák fand"
+   },
+   {
+    "mediaId": 2631,
+    "caption": "Slawische Scherbe (Šichman)",
+    "alt": "Slawische Scherbe (Šichman)"
+   },
+   {
+    "mediaId": 2632,
+    "caption": "Funde aus der Siedlung unterhalb der Burganlage (1961)",
+    "alt": "Funde aus der Siedlung unterhalb der Burganlage (1961)"
+   },
+   {
+    "mediaId": 2635,
+    "caption": "Auf der Burganlage befindet sich diese Erhebung",
+    "alt": "Auf der Burganlage befindet sich diese Erhebung"
+   },
+   {
+    "mediaId": 2636,
+    "caption": "Der Wall",
+    "alt": "Der Wall"
+   },
+   {
+    "mediaId": 2639,
+    "caption": "Die Innenfläche der Burganlage",
+    "alt": "Die Innenfläche der Burganlage"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemeinde Sučany erhebt sich ein 40 m hoher Felsen namens Skala, der sowohl in geographischer und geologischer als auch in historischer Hinsicht interessant ist. Es ist der letzte Ausläufer des vielfach und abwechslungsreich gegliederten Fatra-Gebirges, genauer gesagt seines niedrigen Bergrückens Bukovina (Kote 538), der sich von Sučany und dem Bach Štiavnička in Richtung Martin hinzieht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan der Burganlage (Š. Janšák)",
+    "alt": "Plan der Burganlage (Š. Janšák)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die „Skala“ bildet ein ideales Terrain für die Anlage eines Burgwalls auf einem Bergsporn. Die natürliche Lage bietet solche Vorteile, dass der erste Bewohner keinerlei künstliche Befestigung benötigte, denn die Skala war vom Bergrücken durch eine 8 m hohe natürliche Stufe getrennt. Im Süden und Westen ist das Plateau von nahezu senkrechten, ja sogar überhängenden Felswänden begrenzt, im Norden von einem Hang mit einer Neigung von 45 Grad. Janšák, der die Burganlage als Erster untersuchte und im Jahr 1930 veröffentlichte, führt an, dass es keine vollkommenere natürliche Burg geben konnte als eben die Skala. Der Zugang zu ihr war nur über den Bergrücken möglich. Die Verbindung zum nächstgelegenen Fließwasser sowie den Abstieg in die Ebene, von der die Burganlage wirtschaftlich abhängig war, besorgte ein Weg, der noch in den 1930er Jahren erhalten war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "So sah die Burganlage im Jahr 1930 aus, als Janšák sie zeichnete",
+    "alt": "So sah die Burganlage im Jahr 1930 aus, als Janšák sie zeichnete",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die künstlichen Befestigungen, die durch zweckmäßige Anlage und Anordnung die natürliche Sicherheit erhöhen, machen diese Burganlage in Zeiten, in denen die Belagerungstechnik sehr unvollkommen war, nahezu uneinnehmbar. Der umlaufende Wall k–b–z–i–l zieht sich im Bogen auf einer Länge von 94 m am Rand des Plateaus dort hin, wo kein Felsen ist. Heute ist er bereits erheblich verflacht, kaum 0,30–0,40 m hoch; in der Partie e–j ist er völlig zerfallen und den Hang hinabgerutscht. Viel ausgeprägter und besser erhalten ist der zweite Wall m–o–c–s–n, der im Punkt m auf der Kote 423 an den Felsen anschließt, von dort im Bogen bis auf die Höhe 432 ansteigt und in nordwestlicher Richtung wieder bis auf die Kote 422 im Punkt n abfällt, bei einer Gesamtlänge von 88 m. Schließlich gibt es den äußeren, nahezu halbkreisförmigen Wall o–p–d–r–s, der auf der Kote 428 im Punkt o beginnt, auf die Höhe 434 ansteigt und wieder abfällt, bis auf die Höhenlinie 424 im Punkt s. Seine Länge erreicht 108 m. Die Höhe des Walls m–o–c–s–n erreicht zur Burganlage hin 8 m (zwischen dem Punkt y und der Kote 432), in die Gegenrichtung 4 m. Der höchste Punkt des Walls o–p–d–r–s, nämlich die Kote 434, erhebt sich 6 m über dem Boden des anliegenden Grabens. Das Material, aus dem die Wälle errichtet sind, wurde an Ort und Stelle gewonnen, und zwar durch das Ausheben tiefer Gräben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das einst bewohnte Plateau der Burganlage mit einer Fläche von 4350 m² hat die Form eines Hufeisens und ist gleichzeitig ihr einziger Hof. Die Räume zwischen den Wällen m–c–h, o–d–s und dem Felsmassiv sind wegen ihrer geringen Fläche und der zu großen Höhenunterschiede der einzelnen Teile zum Bewohnen nicht geeignet. Dafür ersetzte das Gipfelplateau auf dem Felsen durch seine Qualität etwaige Mängel in der Fläche. Es ist eine schräge, gleichmäßig von Osten nach Westen abfallende kleine Ebene mit einem kleinen kegelförmigen Vorsprung auf der südöstlichen Seite. Janšák führt an, dass dieser Vorsprung als heidnischer Opferplatz gedient haben könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "… und so sieht sie heute aus",
+    "alt": "… und so sieht sie heute aus",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Janšák fand auf der Burganlage mehrere slawische Scherben mit Wellenbandverzierung, scheibengedrehte Scherben der Púchov-Kultur, Lehmbewurf und auch eine rot gefärbte Tonperle. Ein interessanter Fund waren zwei Münzen aus dem 14. Jahrhundert, die Janšák als Fälschungen bezeichnete, und außerdem ein kreisförmiges Kupferplättchen, das zur (vielleicht falschmünzerischen) Prägung vorbereitet war. Igor Hrubec, der in den 1950er und 1960er Jahren in Sučany archäologische Ausgrabungen durchführte (SA 1961), führt an, dass die Besiedlung der Burganlage stets mit einer Siedlung zusammenhing, die sich nördlich von ihr in Richtung zur Waag befand. Außer vielen Scherben der Púchov-Kultur fand er auch slawische Scherben. Ebenso gelang es A. Petrovský-Šichman, einige slawische Scherben mit Wellenbandverzierung zu erfassen und zu veröffentlichen (VZP 1964). Hrubec erwähnt auch die Funde einer Münze der Kotiner und mehrerer römischer Münzen von der Fundstelle. Er fand ebenfalls zwei bronzene Fibeln, die in das 1. Jahrhundert n. Chr. datiert werden, und Reste von eingetieften Grubenhäusern mit Pfostenkonstruktion, die ebenfalls in die Zeit der Púchov-Kultur datiert werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

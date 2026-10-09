@@ -1,0 +1,453 @@
+{
+ "slug": "klucov",
+ "data": {
+  "title": "Klučov – einer der ältesten slawischen Burgwälle Böhmens (CZ)",
+  "slug": "klucov-fruehslawischer-burgwall-machtzentrum",
+  "excerpt": "Die ausführliche Untersuchung dieses slawischen Burgwalls fand in den 1950er Jahren statt und zeigte, dass es sich um einen Burgwall mit bedeutendem Machtstatus handelt. Um die Mitte des 8. Jahrhunderts entstanden, gehört Klučov zu den ältesten Anlagen seiner Art in Böhmen, Mähren und der Slowakei. Seine Holz-Erde-Mauer kam ganz ohne Stein aus, das turmartige Tor war vor die Mauer vorgeschoben, und ein unterirdischer Gang führte bis zum Wasserspiegel der Šembera.",
+  "metaTitle": "Klučov – slawischer Burgwall mit bedeutendem Machtstatus",
+  "metaDescription": "Slawischer Burgwall über der Šembera, entstanden um die Mitte des 8. Jahrhunderts; seine Holz-Erde-Mauer kam ohne Stein aus, ein Geheimgang führte zum Fluss.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Anhöhe in der Gemarkung der Gemeinde Klučov, die sich nach Süden ins Tal neigt; durch das Gebiet fließt der Fluss Šembera",
+    "icon": "mountain"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Einer der ältesten Burgwälle seiner Art (befestigter Höhenburgwall) auf dem Gebiet Böhmens, Mährens und der Slowakei",
+    "icon": "crown"
+   },
+   {
+    "label": "Verteidigungsnetz",
+    "value": "Zusammen mit den Burgwällen Přistoupim, Doubravčice und Tismice bildete er eine Verteidigungs- und Wirtschaftsbasis an einem wichtigen Handelsweg",
+    "icon": "shield"
+   },
+   {
+    "label": "Ältere (innere) Befestigung",
+    "value": "Holz-Erde-Mauer mit Graben, stellenweise ein Hindernis aus senkrecht und schräg eingesetzten Pfählen — ohne Verwendung von Stein",
+    "icon": "shield"
+   },
+   {
+    "label": "Turmartiges Tor",
+    "value": "Breite um 7 m, vor die Mauer vorgeschoben, Länge des Durchgangs 11–12 m, mit erhöhtem Geschoss und Sehschlitzen",
+    "icon": "building"
+   },
+   {
+    "label": "Geheimgang",
+    "value": "Ein unterirdischer Gang am nordwestlichen Rand des Burgwalls führte schräg bis zum Wasserspiegel des Flusses — Zugang zu Wasser bei einer Belagerung",
+    "icon": "scroll"
+   },
+   {
+    "label": "Höhe der Mauer",
+    "value": "Etwa 2,5 m, verstärkt durch einen Graben in ihrer unmittelbaren Nähe",
+    "icon": "mountain"
+   },
+   {
+    "label": "Innere Bebauung",
+    "value": "Slawische eingetiefte Grubenhäuser und eine größere Anzahl von Speichern — Gruben zur Lagerung von Getreide und Lebensmitteln",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Jungsteinzeit",
+    "title": "Älteste Siedlungsspuren",
+    "description": "An der Fundstelle wurden neolithische Spuren freigelegt, zu denen später ein Graben kam, der mit der Befestigung einer Siedlung der Leute der Aunjetitzer Kultur aus der älteren Bronzezeit zusammenhing.",
+    "type": "founding"
+   },
+   {
+    "year": "Mitte des 8. Jahrhunderts",
+    "title": "Entstehung des slawischen Burgwalls",
+    "description": "Entstehung des Burgwalls und gleichzeitig auch der inneren (älteren) Befestigung — Holz-Erde-Mauer mit Graben und vorgeschobenem Pfahlhindernis.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Hälfte des 9. Jahrhunderts",
+    "title": "Errichtung der jüngeren Befestigung",
+    "description": "Neue Mauer auf der Ostseite mit einem turmartigen Tor, das vor die Linie der Befestigung in den Raum des unterbrochenen Grabens vorgeschoben war.",
+    "type": "construction"
+   },
+   {
+    "year": "um die Mitte des 9. Jahrhunderts",
+    "title": "Untergang des Burgwalls",
+    "description": "Der Untergang des Burgwalls wird etwa ein Jahrhundert nach seiner Entstehung angenommen.",
+    "type": "destruction"
+   },
+   {
+    "year": "15. Jahrhundert",
+    "title": "Hussitisches Heerlager",
+    "description": "Nach dem Untergang des slawischen Burgwalls wurde die Anhöhe noch kurzzeitig als hussitisches Heerlager genutzt.",
+    "type": "event"
+   },
+   {
+    "year": "1970",
+    "title": "Kudrnáčs Monografie",
+    "description": "Jaroslav Kudrnáč gibt die Arbeit Klučov, Staroslovanské hradiště ve středních Čechách (Prag, 1970) heraus, die die Ergebnisse der Untersuchung zusammenfasst.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6378,
+    "alt": "Federzeichnung eines ovalen Burgwalls mit zwei Höfen, Palisade und Hütten auf einer Anhöhe"
+   },
+   {
+    "mediaId": 389,
+    "caption": ".",
+    "alt": "."
+   },
+   {
+    "mediaId": 390,
+    "caption": "Die neueste Rekonstruktion der Befestigung (Bajerová) enthält gegenüber der ursprünglichen mehrere Änderungen",
+    "alt": "Die neueste Rekonstruktion der Befestigung (Bajerová) enthält gegenüber der ursprünglichen mehrere Änderungen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ausführliche Untersuchung dieses slawischen Burgwalls fand in den 1950er Jahren statt, wobei sich dabei zeigte, dass es sich um einen Burgwall mit bedeutendem Machtstatus handelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle und die slawische Besiedlung",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle des Burgwalls befindet sich heute in der Gemarkung der Gemeinde Klučov. Die Anhöhe, auf der sich der slawische Burgwall ausbreitete, wird heute landwirtschaftlich genutzt. Der slawische Burgwall lag auf einer Anhöhe, die sich nach Süden ins Tal neigt. Durch das Gebiet fließt der Fluss Šembera mit seinen Armen und Zuflüssen. Die strategische Lage im hügeligen Gelände wurde bereits von den ersten Stämmen der Slawen genutzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entstehung des Burgwalls selbst und gleichzeitig der inneren Befestigung wird in die Mitte des 8. Jahrhunderts datiert, sein Untergang wird dann ein Jahrhundert später angenommen. Außer der slawischen Besiedlung wurden an der Fundstelle jedoch schon neolithische Spuren freigelegt. Aus der älteren Bronzezeit stammt ein Graben, der mit der Befestigung einer Siedlung der Leute der Aunjetitzer Kultur zusammenhing. Nach dem Untergang des slawischen Burgwalls wurde die Anhöhe noch kurzzeitig als hussitisches Heerlager genutzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klučov",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Bedeutung der Fundstelle des Burgwalls in Klučov liegt gerade in der Zeit seiner Entstehung. Es handelt sich um einen der ältesten Burgwälle seiner Art (befestigter Höhenburgwall) auf dem Gebiet Böhmens, Mährens und der Slowakei. Der Burgwall lag in einem Gebiet, in dem er gemeinsam mit weiteren Burgwällen (Přistoupim, Doubravčice und Tismice) eine Verteidigungs- und Wirtschaftsbasis an einem wichtigen Handelsweg bildete. Im Inneren des Burgwalls wurden verschiedene spezialisierte Handwerke erfasst, wobei andererseits die Landwirtschaft offensichtlich über die Grenzen der Befestigung hinaus in die angrenzenden Siedlungen verdrängt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältere Befestigung von Klučov bildete eine Holz-Erde-Mauer mit Graben und stellenweise ein Hindernis aus senkrecht und schräg eingesetzten Pfählen. Die jüngere Befestigung repräsentiert dann eine Holz-Erde-Mauer und ein Tor vom Frontaltyp, das in den Raum des unterbrochenen Grabens eingeschoben war. Bei der Konstruktion des Walls wurde kein Stein verwendet. Diese Konstruktion ohne Stein ist für die ersten slawischen Burgwälle typisch. Der ältere Wall der Befestigung wird auch als innerer bezeichnet, weil der jüngere Wall ihn teilweise umgab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klučov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältere Phase der Befestigung nahm die gesamte Fläche der Kuppe der Anhöhe ein. Die Befestigung bildete eine Holz-Erde-Mauer mit einem Graben vor ihr; in einigen Abschnitten wurden Reste eines weiteren Fortifikationselements erkannt, nämlich eines vor den Graben vorgeschobenen Hindernisses aus senkrechten und schrägen Pfählen. Die ältere Phase der Befestigung lief nach Osten in eine Spitze aus, wo der Zugang zum Burgwall in Form eines Seitentores angelegt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die jüngere Phase der Befestigung bildete eine Mauer, die in der ersten Hälfte des 9. Jahrhunderts auf der Ostseite errichtet wurde und sich mit ihrem südlichen und nördlichen Ende an die innere Befestigung des Burgwalls anlehnte. Vor der Mauer befanden sich wiederum Gräben. Im östlichen Abschnitt lag ein mächtiger Zugang, der als turmartiges Tor rekonstruiert wurde, vor die Linie der Mauer in den Raum des unterbrochenen Grabens vorgeschoben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der innere Graben hatte je nach den Gegebenheiten des Geländes unterschiedliche Breite. Hinter dem Graben wurden dann Reihen kugeliger Grübchen freigelegt, die an einigen Stellen ein durchgehendes Gräbchen ersetzte. Die Grübchen waren an einigen Stellen paarweise erhalten und bildeten so zwei parallele Reihen. Vor dem Graben des südlichen und östlichen Abschnitts befand sich in einer Entfernung von 4 bis 5,8 m ein weiterer Graben, dessen Tiefe sich um 1,45 m bewegte und dessen obere Breite etwa 3 m betrug. An einigen Stellen waren auch hier kleinere kugelige Grübchen von Holzpfählen sichtbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klučov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Zugang zum Burgwall wurde durch einen engen Raum ermöglicht, der zwischen dem Graben und dem vorgeschobenen Hindernis entstand. Er begann an der Stelle der Unterbrechung des Hindernisses und setzte sich in südlicher Richtung fort. Die Breite des Durchgangs betrug 4 bis 5 m und bildete das Tor des sogenannten Seitenzugangs. Der Übergang über den Graben und der Eintritt in den eigentlichen Burgwall war wahrscheinlich über eine Überbrückung des Grabens möglich. Das Seitentor ermöglichte die Kontrolle der Ankommenden, verhinderte einen direkten Angriff auf den Eingang in den Burgwall und erlaubte bei einem etwaigen Eindringen des Feindes in den engen Raum, ihn von der Seite anzugreifen und zu beschießen. Die strategische Funktion des Seitentores war zudem durch die tiefere Lage der Gasse gegenüber dem Gelände mit den Gräben und Mauern verstärkt. Die Verteidiger, die auf der Krone der Mauer standen, befanden sich an einem begünstigten höheren Punkt als der Angreifer, und der Höhenunterschied machte es den Eroberern unmöglich, die Mauer direkt anzugreifen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die neueste Rekonstruktion der Befestigung (Bajerová) enthält gegenüber der ursprünglichen mehrere Änderungen",
+    "alt": "Die neueste Rekonstruktion der Befestigung (Bajerová) enthält gegenüber der ursprünglichen mehrere Änderungen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das turmartige Tor",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Haupteingang in den Burgwall wurde ein hölzernes Tor mit turmartigem Aufbau identifiziert und rekonstruiert. Die Gesamtbreite des Tores betrug etwa 7 m, und im Mittelteil war das Tor durch einen starken tragenden Pfosten geteilt. Die Decke des Tores bildete wahrscheinlich ein Geschoss, das die gesamte Breite des Zugangs einnahm und den Zugang zum oberen Geschoss des Turmes ermöglichte. Die Verteidiger auf diesem Geschoss schützte offenbar eine hölzerne Brustwehr. Durch dieses Geschoss liefen im Mittelteil die Pfosten des Turmes. Angenommen wird auch ein erhöhtes Obergeschoss im Turm mit Sehschlitzen. Der eigentliche Durchgang durch das Tor war dank der Vorschiebung des Tores vor die äußere Linie der Mauer 11 bis 12 m lang, die Breite der beiden selbständigen Durchgänge betrug etwa 1,4 m. Der Zugang war also eng, gleichzeitig aber ausreichend geräumig für den Durchgang von Menschen, Vieh und allenfalls schmaleren Wagen (wie auch die entdeckten Wagenspuren und deren Spurweite in Klučov oder an anderen Fundstellen belegen). Die Eingänge konnten Torflügel decken, die den gesamten Raum des Zugangs verschlossen, Spuren davon wurden jedoch nicht beobachtet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klučov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An einer Stelle der Befestigung wurden Überreste eines hölzernen Turmes erkannt, der ebenfalls für die Verteidigung des Burgwalls wichtige Bedeutung hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Geheimgang",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außerordentlich interessant war die Entdeckung eines unterirdischen Ganges, der am nordwestlichen Rand des Burgwalls angelegt war. Der Gang führte schräg in die Tiefe bis auf das Niveau des Wasserspiegels des Flusses und ermöglichte den Bewohnern des Burgwalls so im Fall einer Belagerung den Zugang zu einer Quelle guten Wassers."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fortifikation von Klučov verband altertümliche Bauelemente, die bis in die Jungsteinzeit zurückreichen, mit den empirischen Erfahrungen ihrer Erbauer, die später noch verbessert werden konnten. Der Burgwall gehört zu den ältesten seiner Art. Dem entspricht auch die scheinbar einfache Konstruktion der Befestigung. Die Mauer erreichte zwar nicht die Höhe wie die Befestigungen jüngerer Burgwälle, bei einer Höhe von 2,5 m stellte sie für die Verteidigung aber ein Hindernis dar, das mit den üblichen Mitteln der damaligen Zeit nicht leicht zu überwinden war. Die Höhe der Mauer war zudem durch einen Graben in ihrer unmittelbaren Nähe verstärkt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klučov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall wurde auch die innere Bebauung untersucht, wo typische slawische eingetiefte Grubenhäuser und eine größere Anzahl von Speichern festgestellt wurden — Gruben, die zur Lagerung von Getreide und Lebensmitteln bestimmt waren. Gerade diese Befunde aus Klučov trugen in bedeutendem Maße zur Kenntnis der inneren Bebauung slawischer Burgwälle und der Funktion der Speicher in der frühmittelalterlichen Zeit bei. Zu den sehr interessanten Funden gehört auch eine gut erhaltene tönerne Backplatte, mehrere steinerne Drehmühlen und viele Metallfunde, die das Leben auf dem Burgwall in der Zeit des 8. und 9. Jahrhunderts ergänzend zeichnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

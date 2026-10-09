@@ -1,0 +1,207 @@
+{
+ "slug": "informacna-tabula-hradisko-maly-manin",
+ "data": {
+  "title": "Eine Informationstafel auf der Höhensiedlung Malý Manín",
+  "slug": "informationstafel-hoehensiedlung-maly-manin",
+  "excerpt": "Unser Verein Hradiská hat gemeinsam mit der Stadt Považská Bystrica eine Informationstafel auf der befestigten Höhensiedlung der Lausitzer und der Púchov-Kultur Malý Manín (Gemarkung der Gemeinde Považská Teplá) aufgestellt. Beim Text half fachlich die Archäologin des Považské-Museums in Žilina, Andrea Slaná.",
+  "metaTitle": "Informationstafel – Höhensiedlung Malý Manín",
+  "metaDescription": "Der Verein Hradiská stellte auf der befestigten Höhensiedlung der Lausitzer und der Púchov-Kultur Malý Manín (Považská Teplá) eine Informationstafel auf.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Informationstafel auf der Höhensiedlung Malý Manín (Lausitzer und Púchov-Kultur)",
+    "icon": "star"
+   },
+   {
+    "label": "Partner",
+    "value": "Stadt Považská Bystrica; A. Slaná (Považské-Museum)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "—",
+    "title": "Tafel Malý Manín",
+    "description": "Letzte Aktion des Jahres; Gemarkung der Gemeinde Považská Teplá.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5633,
+    "caption": "Bis zur Hälfte des Weges gelang es uns, die Tafel hinaufzufahren, doch den zweiten Teil des Weges – den steilsten – mussten wir mit dem Material auf den Schultern zurücklegen.",
+    "alt": "Bis zur Hälfte des Weges gelang es uns, die Tafel hinaufzufahren, doch den zweiten Teil des Weges – den steilsten – mussten wir mit dem Material auf den Schultern zurücklegen."
+   },
+   {
+    "mediaId": 5635,
+    "caption": "Alles auf den Gipfel hinaufzutragen war sehr anstrengend",
+    "alt": "Alles auf den Gipfel hinaufzutragen war sehr anstrengend"
+   },
+   {
+    "mediaId": 5636,
+    "caption": "Štefan Žilovec (Finančné centrum) trug die Tafel allein bis auf den Gipfel.",
+    "alt": "Štefan Žilovec (Finančné centrum) trug die Tafel allein bis auf den Gipfel."
+   },
+   {
+    "mediaId": 5637,
+    "caption": "Der Zement trug sich auch nicht selbst hinauf…",
+    "alt": "Der Zement trug sich auch nicht selbst hinauf…"
+   },
+   {
+    "mediaId": 5638,
+    "caption": "Hei-ho, hei-ho, wir gehen brav hintereinander ...",
+    "alt": "Hei-ho, hei-ho, wir gehen brav hintereinander ..."
+   },
+   {
+    "mediaId": 5641,
+    "caption": "Endlich sind wir am Ziel!",
+    "alt": "Endlich sind wir am Ziel!"
+   },
+   {
+    "mediaId": 5643,
+    "caption": "Die Tafel haben wir in der Nähe der Stelle aufgestellt, an der ursprünglich das Eingangstor zur Höhensiedlung stand",
+    "alt": "Die Tafel haben wir in der Nähe der Stelle aufgestellt, an der ursprünglich das Eingangstor zur Höhensiedlung stand"
+   },
+   {
+    "mediaId": 5648,
+    "caption": "Ladislav Janech",
+    "alt": "Ladislav Janech"
+   },
+   {
+    "mediaId": 5650,
+    "caption": "Der Augenblick der Enthüllung der Tafel",
+    "alt": "Der Augenblick der Enthüllung der Tafel"
+   },
+   {
+    "mediaId": 5651,
+    "caption": "Die neue Tafel hat wie üblich Čendo Žrec „getauft“",
+    "alt": "Die neue Tafel hat wie üblich Čendo Žrec „getauft“"
+   },
+   {
+    "mediaId": 5653,
+    "caption": "Herr Janech erzählte uns Interessantes über die Höhensiedlung",
+    "alt": "Herr Janech erzählte uns Interessantes über die Höhensiedlung"
+   },
+   {
+    "mediaId": 5655,
+    "caption": "Nach der Aufstellung der Tafel mussten im magischen Kreis die entsprechenden Zauberformeln vorgetragen werden, um einen schützenden magischen Schild gegen Vandalen und Raubgräber zu schaffen, die sich mit unlauteren Absichten zur Höhensiedlung aufmachen würden.",
+    "alt": "Nach der Aufstellung der Tafel mussten im magischen Kreis die Zauberformeln vorgetragen werden, die einen schützenden magischen Schild gegen Vandalen und Raubgräber schaffen."
+   },
+   {
+    "mediaId": 5656,
+    "caption": "Der Verein Hradiská (bzw. ein Teil davon)",
+    "alt": "Der Verein Hradiská (bzw. ein Teil davon)"
+   },
+   {
+    "mediaId": 5657,
+    "caption": "… so möge sie uns lange dienen…",
+    "alt": "… so möge sie uns lange dienen…"
+   },
+   {
+    "mediaId": 5659,
+    "caption": "Blick auf unsere Tafel und auf das Tor zur Höhensiedlung",
+    "alt": "Blick auf unsere Tafel und auf das Tor zur Höhensiedlung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Verein Hradiská hat in Zusammenarbeit mit der Stadt Považská Bystrica an diesem Wochenende seine letzte Aktion des Jahres unternommen – die Aufstellung einer Informationstafel auf der "
+       },
+       {
+        "type": "link",
+        "url": "/blog/maly-manin",
+        "children": [
+         {
+          "type": "text",
+          "text": "befestigten Höhensiedlung der Lausitzer und der Púchov-Kultur Malý Manín"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Gemarkung der Gemeinde Považská Teplá). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Text hat uns in fachlicher Hinsicht die Archäologin des Považské-Museums in Žilina (Sillein), Frau Andrea Slaná, geholfen, die uns auch aus dem Depot des Museums eine hochwertige Fotografie eines der Funde von der Höhensiedlung zur Verfügung gestellt hat (ein Beil der Púchov-Kultur, das Gašpar Zemančík fand und dem Museum übergab). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Vorbereitung der Aufstellung der Tafel hat sich in bedeutendem Maße die Stadt Považská Bystrica beteiligt, vor allem der frühere Vizebürgermeister Marián Sopčák und der Leiter des Büros des Bürgermeisters Michal Hamár, und zwar durch ihr entgegenkommendes Verhalten gegenüber unserem Vorhaben sowie durch ihre Mitwirkung bei der Kommunikation mit dem Landschaftsschutzgebiet (CHKO). Die Stadt Považská Bystrica hat uns zugleich die Erstattung der Kosten für die Herstellung der Tafel zugesagt, wofür ihr im Voraus großer Dank gebührt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bis zur Hälfte des Weges gelang es uns, die Tafel hinaufzufahren, doch den zweiten Teil des Weges – den steilsten – mussten wir mit dem Material auf den Schultern zurücklegen.",
+    "alt": "Bis zur Hälfte des Weges gelang es uns, die Tafel hinaufzufahren, doch den zweiten Teil des Weges – den steilsten – mussten wir mit dem Material auf den Schultern zurücklegen.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Aufstellung der Tafel durften auch Herr Ladislav Janech – der Entdecker der Höhensiedlung und ein örtlicher Enthusiast, der in Považská Teplá ein privates Museum hat – und Herr Gašpar Zemančík, der an der Ausgrabung der Höhensiedlung mitwirkte, nicht fehlen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allen, die uns bei der Aufstellung geholfen haben, gebührt enormer Dank für die aufgewandte Mühe und die Unterstützung. Wir glauben, dass die Tafel den Touristen möglichst lange dienen wird und dass sie nicht den Vandalen zum Opfer fällt. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

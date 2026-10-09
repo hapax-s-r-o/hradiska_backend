@@ -32,15 +32,21 @@ const HRANICA_SK = 4;   // slovenských funkčných slov na článok
 const HRANICA_EN = 6;   // anglických funkčných slov na článok
 
 /* Slovenské slová, ktoré nie sú ani nemecké, ani vlastné mená. */
-const SLOVENSKE = ['sa', 'je', 'na', 'ktoré', 'ktorý', 'ktorá', 'bol', 'bola', 'boli', 'aby',
-  'pre', 'ako', 'tiež', 'veľmi', 'preto', 'však', 'alebo', 'podľa', 'medzi', 'hradisko',
-  'hradiska', 'bolo', 'tejto', 'tohto', 'svojho', 'nášho', 'iba', 'už', 'teda', 'okrem'];
+/* Bez `je` a `na` (po nemecky „je 5 Meter", „na ja") a bez `hradisko`
+   a `hradiska` — tie sú v nemeckom texte oprávnene ako vlastné meno polohy
+   („die Lage Hradisko", „Nosice – Hradisko"). Zvyšok je jednoznačný. */
+const SLOVENSKE = ['sa', 'ktoré', 'ktorý', 'ktorá', 'bol', 'bola', 'boli', 'aby',
+  'pre', 'ako', 'tiež', 'veľmi', 'preto', 'však', 'alebo', 'podľa', 'medzi',
+  'bolo', 'tejto', 'tohto', 'svojho', 'nášho', 'iba', 'už', 'teda', 'okrem'];
 
 /* Anglické slová, ktoré v nemeckom texte nemajú čo robiť. Pozor na slová
    spoločné obom jazykom (*in*, *so*, *was*, *war*, *die*) — tie tu nie sú. */
 const ANGLICKE = ['the', 'and', 'with', 'from', 'that', 'this', 'were', 'have', 'been',
   'which', 'their', 'there', 'when', 'where', 'about', 'hillfort', 'hillforts', 'rampart',
-  'settlement', 'century', 'during', 'between', 'through', 'however', 'also'];
+  'settlement', 'century', 'during', 'between', 'through', 'however'];
+/* `also` v zozname ZAMERNE NIE JE: po nemecky znamena 'teda' a je to jedno
+   z najbeznejsich slov vobec. Kym tam bolo, hlasilo styri ciste preklady
+   ako anglicizmus. To iste plati pre `war`, `was`, `in`, `so`, `die`. */
 
 const vzory = (slova) => slova.map((s) => new RegExp(`(^|[^\\p{L}])${s}([^\\p{L}]|$)`, 'giu'));
 const VZORY_SK = vzory(SLOVENSKE);
@@ -51,7 +57,13 @@ const ZAKAZANE = [
   [/\bBurgstall\b/g, 'Burgstall → v Rakúsku znamená zaniknutý hrad (§11.1)'],
   [/\bHolz-Erde-Wall\b/g, 'Holz-Erde-Wall → má byť Holz-Erde-Mauer (§11.2)'],
   [/\bAkropolis\b/g, 'Akropolis → pri slovanskom hradisku Hauptburg (§11.3)'],
-  [/\bslowakisch\w*\s+(Adlig|Fürst|Siedl|Burgwall|Stamm)/gi, 'slowakisch… pri 9. storočí (§11.9)'],
+  /* Zakazane je `slowakisch` pri DOBOVEJ entite (slovansky kmen, kniezatstvo,
+     hradisko 9. storocia). Spravne a bezne ostava `der slowakische Historiker`
+     (dnesny badatel) aj `Mosaburg (slowakisch Blatnohrad)` — tie sa uz nehlasia. */
+  /* Len pri ĽUĎOCH a kmeňoch: `slowakische Slawen` je anachronizmus,
+     ale `slowakische Burgwälle` je zemepisný údaj (hradiská na Slovensku)
+     a je v poriadku. */
+  [/\bslowakisch(e[nmrs]?)?\s+(Slawen|Stamm|Stämme|Fürst(en)?|Adlige[nr]?|Krieger)\b/gi, 'slowakisch… pri dobových ľuďoch (§11.9)'],
   [/\bSlowenen\b/g, 'Slowenen → Slovinci, nie Slovania (§12)'],
   [/\bRömerzeit\b/g, 'Römerzeit → ako obdobie die römische Kaiserzeit (§4)'],
   [/\bKärntner\b/g, 'Kärntner → pre 9. storočie Karantanen (§11f)'],

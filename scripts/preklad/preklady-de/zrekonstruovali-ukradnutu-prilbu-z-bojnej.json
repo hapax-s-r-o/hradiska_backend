@@ -1,0 +1,58 @@
+{
+ "slug": "zrekonstruovali-ukradnutu-prilbu-z-bojnej",
+ "data": {
+  "title": "Der gestohlene Helm aus Bojná wurde rekonstruiert",
+  "slug": "gestohlener-helm-aus-bojna-rekonstruiert",
+  "excerpt": "Einen Helm aus dem 9. Jahrhundert fand um das Jahr 2000 ein illegaler Sondengänger auf Bojná; er meldete den Fund nicht und verkaufte ihn höchstwahrscheinlich nach Deutschland. Ein einziges Auktionsfoto ist fast der ganze Beweis seiner Existenz. Ein Enthusiast aus Tschechien hat alle verfügbaren Informationen über ihn zusammengetragen und eine Replik anfertigen lassen, die heute im Museum Großmährens in Bojná zu sehen ist.",
+  "metaTitle": "Der gestohlene Helm aus Bojná rekonstruiert",
+  "metaDescription": "Einen Helm aus dem 9. Jahrhundert aus Bojná fand um 2000 ein illegaler Sondengänger und verkaufte ihn ins Ausland; eine Replik steht nun im Museum.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wahrscheinlich irgendwann um das Jahr 2000 fand ein illegaler Sondengänger auf Bojná einen Helm aus dem 9. Jahrhundert. Den Fund meldete er den Archäologen nicht und nahm ihn für sich in Besitz. Anschließend verkaufte er ihn höchstwahrscheinlich nach Deutschland, und seitdem ist der Helm buchstäblich „wie vom Erdboden verschluckt“. Da er ihn über eine Auktionsseite verkaufte, erschien im Internet zur Zeit des Verkaufs ein einziges Foto, und das ist – zusammen mit der Aussage einiger Zeugen – der einzige Beweis für seine Existenz.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "8etBZbVVZHw",
+    "url": "https://www.youtube.com/embed/8etBZbVVZHw",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Enthusiast Tomáš Vlasatý aus der Tschechischen Republik machte sich die Mühe, alle verfügbaren Informationen über den Helm zusammenzutragen, und ließ nach diesen eine Replik des Helms anfertigen. Zu ihrer Herstellung trug eine große Zahl von Freiwilligen finanziell bei. Anschließend schenkte er sie dem Museum Großmährens in Bojná, wo Sie sie mit eigenen Augen sehen können. Vielleicht gelangt man eines Tages auch zum Original, das sich jetzt zweifellos in irgendeiner privaten Sammlung im „Westen“ befindet. So verlieren wir durch die Sondengänger die Kostbarkeiten unserer Geschichte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "lqGqtOmyVGQ",
+    "url": "https://www.youtube.com/embed/lqGqtOmyVGQ",
+    "caption": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "slug": "stary-tekov",
+ "data": {
+  "title": "Starý Tekov – Burgwall und Sitz des Komitats Tekov",
+  "slug": "stary-tekov-burgwall-komitatssitz-gran",
+  "excerpt": "Die Gemeinde Starý Tekov nennt schon der ungarische Chronist Anonymus als den Ort, an dem Borš, einer der Anführer des Heeres Árpáds, eine Burg gegründet haben soll, die später zum Sitz des Komitats wurde. Auf der Trachytkuppe über der Gran erbrachten die Sondagegrabungen von 1949 und 1968 slawische Keramik des 9.–10. Jahrhunderts, Reste von Erdwällen, romanisches Mauerwerk und die Fundamente einer Klosterkirche. 1320 ging der Komitatssitz nach Levice über.",
+  "metaTitle": "Starý Tekov – Burgwall und Komitatssitz an der Gran",
+  "metaDescription": "Der Burgwall auf einer Trachytkuppe über der Gran wird beim Chronisten Anonymus und 1075 in einer Urkunde erwähnt; später wurde er Sitz des Komitats Tekov.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Trachytkuppe, ursprünglich von zwei Armen der Gran umflossen; Gipfelplateau in Form einer unregelmäßigen Ellipse (650 × 100–135 m)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Drei Teile der Anlage",
+    "value": "Nordöstlicher Teil (Várheď — Burgberg), mittlerer Teil (Tekovská ulica) und südwestlicher Teil (Starý kostol) — jeder mit eigener mittelalterlicher Entwicklung",
+    "icon": "building"
+   },
+   {
+    "label": "Steinerne Feudalburg",
+    "value": "Stand im östlichen Teil des Várheď, heute vollständig verschwunden; Befestigung zunächst Palisade, dann eine Mauer aus trocken gesetzten Steinen",
+    "icon": "shield"
+   },
+   {
+    "label": "Heutiger Zustand des Várheď",
+    "value": "Dient seit dem Ende des 18. Jahrhunderts als Friedhof, was eine zusammenhängende archäologische Ausgrabung unmöglich machte",
+    "icon": "scroll"
+   },
+   {
+    "label": "Romanische und gotische Kirche",
+    "value": "Reste romanischen Mauerwerks aus sorgfältig bearbeiteten Tuffquadern; die heutige gotische Kirche entstand im 14. Jahrhundert und wurde am Ende des 17. Jahrhunderts umgebaut",
+    "icon": "building"
+   },
+   {
+    "label": "Klosterkirche (Südwesten)",
+    "value": "Fundamente eines rechteckigen Baus von 4,3 × 5,5 m, polygonal geschlossenes Presbyterium, 16 untersuchte Gräber ohne Beigaben",
+    "icon": "scroll"
+   },
+   {
+    "label": "Parallelen",
+    "value": "Wie auch Bratislava (Pressburg), Nitra (Neutra) und Zemplín — die Komitatsburgen entstanden an Stellen älterer befestigter slawischer Zentren",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor der Ankunft der Altungarn",
+    "title": "Vermuteter slawischer Burgwall",
+    "description": "Die Fundstelle war bereits vor der Gründung der Burg durch den Heerführer Borš besiedelt; die Siedlung konnte innerhalb des gesamten unteren Grantals eine zentrale Stellung einnehmen.",
+    "type": "founding"
+   },
+   {
+    "year": "9.–10. Jahrhundert (vereinzelt 7.–8.)",
+    "title": "Slawische Keramik auf dem Várheď",
+    "description": "Die Ausgrabung des Jahres 1968 erbrachte relativ viel slawische Keramik aus dieser Zeit.",
+    "type": "event"
+   },
+   {
+    "year": "nach der Chronik des Anonymus",
+    "title": "Gründung der Burg durch Borš",
+    "description": "Der ungarische Chronist Anonymus nennt Starý Tekov als den Ort, an dem Borš, einer der Anführer des Heeres Árpáds, angeblich eine Burg gründete, die später zum Sitz des Komitats wurde.",
+    "type": "founding"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Entstehung der romanischen Kirche",
+    "description": "Im Umfeld der Kirche wurde spätestens seit dem 11. Jahrhundert bestattet (belegt durch Münzen aus den Gräbern); das Mauerwerk der heutigen Kirche enthält Reste des romanischen Baus.",
+    "type": "construction"
+   },
+   {
+    "year": "1075",
+    "title": "Stiftungsurkunde der Abtei Hronský Beňadik",
+    "description": "Die Urkunde erwähnt die Gemeinde Starý Tekov.",
+    "type": "event"
+   },
+   {
+    "year": "1206, 1240–1246",
+    "title": "Schriftliche Erwähnungen der Burg",
+    "description": "Die Burg wird 1206 und in den Jahren 1240–1246 erwähnt, mit den angeführten Gespanen Geche und Verner.",
+    "type": "event"
+   },
+   {
+    "year": "1241–1242",
+    "title": "Tatareneinfall",
+    "description": "Die Burg bot nicht einmal den Bürgern des Suburbiums ausreichend Zuflucht; dabei wurde die Privilegienurkunde von Starý Tekov beschädigt.",
+    "type": "destruction"
+   },
+   {
+    "year": "1253",
+    "title": "König Béla IV. stellt die Urkunde neu aus",
+    "description": "König Béla IV. bestätigte die beschädigte Privilegienurkunde von Starý Tekov und ließ sie neu niederschreiben.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 13. Jahrhunderts",
+    "title": "Bedeutungsverlust der Burg",
+    "description": "Die Bedeutung der Burg begann zu sinken.",
+    "type": "destruction"
+   },
+   {
+    "year": "1320",
+    "title": "Verlegung des Komitatssitzes nach Levice",
+    "description": "Der Gespan Imrich de Beche verlegt den Sitz des Komitats — neues Zentrum wird die Burg im nahen Levice (Lewenz).",
+    "type": "destruction"
+   },
+   {
+    "year": "1895",
+    "title": "Besichtigung der Ruinen der Klosterkirche",
+    "description": "Der ungarische Historiker P. Gerecze hielt fest, dass die Ruinen der Kirche mit polygonal geschlossenem Presbyterium (Breite 6,05 m) im südwestlichen Teil der Kuppe damals noch standen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1949, 1968",
+    "title": "Archäologische Sondagegrabungen",
+    "description": "Die Grabungen erbrachten wichtige Erkenntnisse zur Besiedlung aller drei Teile der Fundstelle (A. Habovštiak, P. Bednár).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6366,
+    "alt": "Panorama des begrasten Walls des Burgwalls inmitten der Gemeinde"
+   },
+   {
+    "mediaId": 559,
+    "caption": "Plan des Burgwalls nach Š. Janšák",
+    "alt": "Plan des Burgwalls nach Š. Janšák"
+   },
+   {
+    "mediaId": 563,
+    "caption": "Die folgenden 4 Fotos: Tomáš Humaj",
+    "alt": "Die folgenden 4 Fotos: Tomáš Humaj"
+   },
+   {
+    "mediaId": 565,
+    "caption": "Gut sichtbarer Wall der Befestigung",
+    "alt": "Gut sichtbarer Wall der Befestigung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Starý Tekov nennt schon der ungarische Chronist Anonymus als den Ort, an dem Borš, einer der Anführer des Heeres Árpáds, angeblich eine Burg gründete, die später zum Sitz des Komitats wurde; erwähnt wird sie auch in der Stiftungsurkunde der Abtei Hronský Beňadik aus dem Jahr 1075. Sie erstreckt sich auf einer Trachytkuppe, die ursprünglich von zwei Armen der Gran umflossen war. Das Gipfelplateau der Kuppe, das stellenweise bis zu 10 m über das umliegende Gelände aufragt, hat die Form einer unregelmäßigen Ellipse (650 × 100–135 m), deren längere Achse von Nordosten nach Südwesten verläuft. Durch zwei Einschnitte der über die Erhebung führenden Wege ist das Plateau in drei Teile gegliedert: einen nordöstlichen, einen mittleren und einen südwestlichen; jeder von ihnen hatte im Mittelalter seine eigene Entwicklung. In allen drei wurden in den Jahren 1949 und 1968 Sondagegrabungen durchgeführt, die einige wichtige Erkenntnisse zu ihrer Besiedlung erbrachten.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am deutlichsten ausgeprägt ist der nordöstliche Teil der Kuppe. Im Grundriss ist es ein Oval (ca. 180 × 135 m), dessen östlicher, höher gelegener Teil (Maße 135 × 70 m) bis heute Várheď (Burgberg) heißt; seit dem Ende des 18. Jahrhunderts dient er als Friedhof. Der westliche, etwas kleinere Teil (135 × 110 m) hat ein Gipfelplateau, das 3 m tiefer liegt als das östliche, und ist heute mit Häusern bebaut und von Gärten eingenommen. Auf dem östlichen, höher gelegenen Teil der Kuppe stand im Mittelalter eine steinerne Feudalburg, von der sich im Gelände jedoch nichts mehr erhalten hat. Zu Beginn dieses Jahrhunderts waren an der Fundstelle noch Reste von Erdbefestigungen, also von Wällen, zu sehen, die die Erhebung höchstwahrscheinlich an ihrem Umfang umschlossen. Doch auch von ihnen ist nichts mehr erhalten, denn die Ränder der Kuppe haben sich durch die Verlängerung der Höfe der darunter liegenden Häuser (Hradná ulica) erheblich in das Innere des einstigen befestigten Areals verschoben, weshalb seine Fläche heute gegenüber der ursprünglichen etwas kleiner ist. Die Ausgrabungen von A. Habovštiak und P. Bednár erbrachten Erkenntnisse darüber, auf welche Weise die Burg befestigt war: in der ersten Phase handelte es sich wahrscheinlich um eine Palisade, die später durch eine Mauer aus trocken gesetzten Steinen ersetzt wurde, und aus den Ergebnissen dieser Ausgrabungen können wir annehmen, dass die Burg nicht zu einer steinernen umgebaut wurde.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung des Jahres 1968 erbrachte unter anderem relativ viel slawische Keramik, die in das 9.–10., in einzelnen Fällen auch in das 7.–8. Jahrhundert datiert werden kann. Da die gesamte Fläche des Várheď seit dem Ende des 18. Jahrhunderts als Friedhof genutzt wird, ist auf ihr keine größere ungestörte Fläche verblieben, die es erlauben würde, Reste der einstigen Befunde aus slawischer Zeit, aus denen diese Funde stammen, oder Reste der Mauern der mittelalterlichen Burg zu verfolgen (in den Schnitten traf man nur auf größere und kleinere Steinansammlungen)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Starý Tekov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Funden lässt sich schließen, dass die Fundstelle bereits vor der Gründung der Burg durch den Heerführer Borš besiedelt war, also vor der Ankunft der Altungarn in diesem Gebiet. Nach der Gesamtfläche, dem Charakter der Fundstelle, der Geländekonfiguration und den Resten der Erdwälle lässt sich annehmen, dass die Siedlung befestigt war, beziehungsweise dass es sich um einen Burgwall handelte, der innerhalb des gesamten unteren Grantals und später des Komitats Tekov eine zentrale Stellung einnehmen konnte. Auf einen slawischen Burgwall in Starý Tekov verweist auch, dass ebenso andere mittelalterliche Komitatsburgen an Stellen älterer befestigter slawischer Zentren entstanden (Bratislava, Nitra, Zemplín). Die Fundstelle wurde jedoch durch die spätere Bebauung und vor allem durch den Friedhof stark gestört, weshalb die genannten Funde und Beobachtungen wahrscheinlich für immer nur ein Torso dessen bleiben, was ihre einstige Bedeutung bezeugen könnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der mittlere (umfangreichste) Teil der Kuppe ist fast vollständig mit zwei Häuserreihen bebaut, die die Tekovská ulica bilden; diese verbreitert sich auf der nordöstlichen Seite zu einem kleinen dreieckigen Platz mit Kirche und Friedhof. Das Mauerwerk der heutigen Kirche enthält in einem Teil der Nordwand des Kirchenschiffs Reste romanischen Mauerwerks — eine Schicht sorgfältig bearbeiteter Tuffquader auf sehr festen Fundamenten aus Gussmauerwerk. Im Umfeld der Kirche wurde spätestens schon im 11. Jahrhundert bestattet, wovon Funde aus einigen Gräbern (Münzen) zeugen. Demnach lässt sich schließen, dass auch die Kirche hier zu Beginn der Bestattungen, das heißt im 11. Jahrhundert, bereits stand. Ihre Gestalt ist heute schwer zu rekonstruieren, denn an ihrer Stelle errichtete man irgendwann im 14. Jahrhundert die heutige gotische, am Ende des 17. Jahrhunderts umgebaute Kirche, die die Reste der älteren romanischen Kirche wohl teils nutzte und teils überdeckte.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan des Burgwalls nach Š. Janšák",
+    "alt": "Plan des Burgwalls nach Š. Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Höfen einiger Häuser wurde bei Erdarbeiten mehrfach mittelalterliche, aber auch slawische Keramik gefunden, die in das 9.–10. Jahrhundert datiert werden kann. Daraus lässt sich schließen, dass auch dieser Teil der Fundstelle, den wir als Suburbium der Siedlung auf dem Várheď ansehen können, bereits in großmährischer Zeit besiedelt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der südwestliche (kleinste und ebenfalls bebaute) Teil der Kuppe ist dadurch interessant, dass hier der Überlieferung nach ein mittelalterliches Kloster mit Kirche gestanden haben soll. Der ungarische Historiker P. Gerecze gibt sogar an, dass die Ruinen der Kirche, deren Presbyterium 6,05 m breit und polygonal geschlossen war, zur Zeit seiner Besichtigung im Jahr 1895 noch standen. Wohl deshalb nennen ältere Leute diese Lage bis heute Starý kostol (Alte Kirche), obwohl an der Oberfläche heute keine Anzeichen der Kirche mehr zu erkennen sind. Durch eine kurze Rettungsgrabung im Jahr 1968 an der Stelle eines abgetragenen Hauses wurde ein Teil der Fundamente eines älteren mittelalterlichen Baus mit rechteckigem Grundriss und Innenmaßen von 4,3 × 5,5 m festgestellt, dessen längere Achse in West-Ost-Richtung orientiert war. Am Südhang der Erhebung wurden 16 Gräber des Friedhofs untersucht, in denen es keinerlei Beigaben gab, sowie ein Teil eines Beinhauses. In den Ruinen des abgetragenen Hauses wurden über 70 deutlich bearbeitete Quader festgestellt. All dies deutet darauf hin, dass an dieser Stelle im Mittelalter tatsächlich eine Kirche stand, und zwar höchstwahrscheinlich eine Klosterkirche, wie auch P. Gerecze angibt. Als Teil des Klosters kann der festgestellte rechteckige Bau gelten, während der Gesamtgrundriss von Kloster und Kirche wegen der späteren Bebauung und der räumlichen Begrenztheit der Grabung nicht zusammenhängender erfasst werden konnte. Überraschend ist, dass sich auch in den Schriftquellen keine Erwähnungen dieser Fundstelle erhalten haben, obwohl es sich hier um Bauten des späteren Mittelalters handelte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Starý Tekov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während des Tatareneinfalls in den Jahren 1241–1242 bot die Burg nicht einmal den Bürgern des Suburbiums ausreichend Zuflucht. Auf der Flucht vor dem Feind wurde die Privilegienurkunde von Starý Tekov beschädigt, die König Béla IV. ihnen dann im Jahr 1253 neu ausstellte und bestätigte. Die Burg wird im Jahr 1206 und in den Jahren 1240–1246 erwähnt, mit den angeführten Gespanen Geche und Verner; die Bedeutung der Burg begann jedoch in der zweiten Hälfte des 13. Jahrhunderts zu sinken, bis im Jahr 1320 der Gespan Imrich de Beche den Sitz des Komitats verlegte und so die Burg im nahen Levice (Lewenz) zum neuen Zentrum des Komitats wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

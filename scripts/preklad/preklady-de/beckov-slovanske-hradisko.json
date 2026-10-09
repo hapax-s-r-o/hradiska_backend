@@ -1,0 +1,411 @@
+{
+ "slug": "beckov-slovanske-hradisko",
+ "data": {
+  "title": "Beckov – ein slawischer Burgwall auf dem Burgfelsen über der Waag",
+  "slug": "beckov-slawischer-burgwall-auf-dem-burgfelsen",
+  "excerpt": "Der Burgfelsen von Beckov wird in slowakischen Sagen mit dem Namen Štibor von Štiborice verbunden — einer von ihnen zufolge ließ der Adlige die Burg sogar für seinen Hofnarren erbauen. In Wirklichkeit lebten hier Menschen schon in der Spätlatènezeit und in der römischen Kaiserzeit. In der zweiten Hälfte des 9. Jahrhunderts entstand hier ein slawischer Burgwall, der als vorgeschobener Wachposten den Zugang zum Gebiet des Zentrums von Trenčín (Trentschin) schützte.",
+  "metaTitle": "Beckov – slawischer Burgwall auf dem Felsen über der Waag",
+  "metaDescription": "Der Burgfelsen von Beckov über der Waag war von der Urgeschichte über die Latènezeit und die römische Kaiserzeit bis zum slawischen Burgwall besiedelt.",
+  "keyFacts": [
+   {
+    "label": "Fläche des slawischen Burgwalls",
+    "value": "1,45 ha, höchster Punkt 253 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der urgeschichtlichen Besiedlung",
+    "value": "Bis zu 2,5 ha (Spätlatènezeit und frühe römische Kaiserzeit)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "Systematisch untersucht unter der Leitung von M. Kodoňová und Š. Tóthová (Denkmalinstitut der Slowakischen Republik)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Funktion",
+    "value": "Wachposten zum Schutz des Zugangs zum Gebiet des Zentrums von Trenčín, kein eigenständiges Machtzentrum",
+    "icon": "shield"
+   },
+   {
+    "label": "Chronik des Anonymus",
+    "value": "Das castrum „Blundus“ (ung. Blondóc) wird mit Beckov gleichgesetzt",
+    "icon": "book"
+   },
+   {
+    "label": "Štibor von Štiborice",
+    "value": "Besaß etwa 18 Burgen und rund 300 Dörfer; die Burg erhielt er von Sigismund von Luxemburg",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende 5. – Mitte 7. Jahrhundert",
+    "title": "Älteste slawische Besiedlung (Sady)",
+    "description": "Keramik des Prager Typs und ein eingetieftes Grubenhaus mit Ofen aus der Zeit des Eindringens der slawischen Bevölkerung.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende 7. – Anfang 8. Jahrhundert",
+    "title": "Grube und Brunnen",
+    "description": "Ein 295 cm tiefer Brunnen mit einem Durchmesser von 205 cm.",
+    "type": "discovery"
+   },
+   {
+    "year": "Zweite Hälfte des 9. Jahrhunderts",
+    "title": "Entstehung des Burgwalls",
+    "description": "Die befestigte slawische Siedlung entstand mit größter Wahrscheinlichkeit in dieser Zeit als Wachposten im mittleren Waagtal.",
+    "type": "founding"
+   },
+   {
+    "year": "Wende vom 9. zum 10. Jahrhundert",
+    "title": "Weitere Besiedlung",
+    "description": "8 Objekte (ein eingetieftes Grubenhaus, Siedlungsgruben mit Keramikfunden).",
+    "type": "discovery"
+   },
+   {
+    "year": "930–940",
+    "title": "Altungarische Einfälle",
+    "description": "Sie erreichten höchstens die Nordgrenze Bratislava – Hlohovec – Nitra – Levice – Rimavská Sobota; in das mittlere Waagtal griffen sie nicht ein.",
+    "type": "event"
+   },
+   {
+    "year": "Nach 1017",
+    "title": "Formal Teil des Königreichs Ungarn",
+    "description": "Unter der Regierung Stephans I. (1000–1038), obwohl die faktische Einnahme erst später erfolgte.",
+    "type": "event"
+   },
+   {
+    "year": "1077–1095",
+    "title": "Faktischer Anschluss an das Königreich Ungarn",
+    "description": "Unter der Regierung König Ladislaus I. wurde der südliche Teil des Trenčiner Komitats faktisch in den ungarischen Staat einbezogen.",
+    "type": "event"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Entstehung der steinernen Burg",
+    "description": "Die Anfänge der steinernen Burg an der Stelle des älteren Burgwalls.",
+    "type": "construction"
+   },
+   {
+    "year": "1388",
+    "title": "Štibor von Štiborice erhält die Burg",
+    "description": "Vom ungarischen König Sigismund von Luxemburg — die bedeutendste Zeit in der Geschichte der Burg.",
+    "type": "event"
+   },
+   {
+    "year": "1975",
+    "title": "Fund einer zerstörten slawischen Siedlung",
+    "description": "Südwestlich der landwirtschaftlichen Genossenschaft.",
+    "type": "discovery"
+   },
+   {
+    "year": "1983",
+    "title": "Belege einer Besiedlung aus dem 10. Jahrhundert",
+    "description": "Gefunden in der Lage „za skalicami“.",
+    "type": "discovery"
+   },
+   {
+    "year": "Anfang des 18. Jahrhunderts",
+    "title": "Untergang der Burg",
+    "description": "Die Kontinuität der Besiedlung dauerte bis zum Untergang der Burg am Anfang des 18. Jahrhunderts.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen auf dem Burgfelsen von Beckov"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg Beckov wird in den ursprünglichen slowakischen Sagen mit dem Namen Štibor von Štiborice (auch Ctibor von Ctiborice oder Stibor von Stiborice) verbunden. Einer von ihnen zufolge ließ dieser bedeutende Adlige sie angeblich sogar für seinen Hofnarren erbauen — zum Dank für Ergebenheit und treue Dienste, nachdem dieser auf einer Jagd die Gäste ausgezeichnet unterhalten hatte. In Wirklichkeit war der Burgfelsen von Beckov bereits seit der Urgeschichte besiedelt. Menschen lebten auf dieser strategisch außergewöhnlichen Lage schon in der Spätlatènezeit und in der römischen Kaiserzeit, und später wurde auf ihr ein frühmittelalterlicher slawischer Burgwall errichtet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Beckov – slawischer Burgwall"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgfelsen liegt in der Gemeinde Beckov, die sich an der östlichen Seite der Waag ausbreitet, nordöstlich von Nové Mesto nad Váhom und südwestlich des von Mythen umwobenen Trenčín (Trentschin). Die frühmittelalterliche Siedlung lag auf der Felsenerhebung. Sie wurde an der Stelle errichtet, an der in den späteren Abschnitten des Mittelalters eine steinerne Burg erbaut wurde. Die Anfänge der steinernen Burg reichen spätestens in das 13. Jahrhundert zurück und ihre Reste erheben sich heute über der Gemeinde. Daraus folgt, dass die Burg Beckov nicht von Štibor von Štiborice erbaut wurde. Er erhielt sie im Jahr 1388 vom ungarischen König Sigismund von Luxemburg. Mit diesem Mann ist jedoch die bedeutendste Zeit in der Geschichte der Burg verbunden, als er ein beliebter Adliger König Sigismunds war. Štibor von Štiborice war seiner Herkunft nach Pole und gehörte zu den reichsten Oligarchen im damaligen Königreich Ungarn. Er besaß etwa 18 Burgen und rund 300 Dörfer, wobei er stets bemüht war, die Interessen König Sigismunds zu verteidigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "DIE BEDEUTUNG DES SLAWISCHEN BURGWALLS"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Fundstelle wurde unter der Leitung der Mitarbeiterinnen des Denkmalinstituts der Slowakischen Republik M. Kodoňová und Š. Tóthová systematisch untersucht. Die frühmittelalterliche befestigte slawische Siedlung entstand als einer der strategisch-militärischen Wachposten im mittleren Waagtal mit größter Wahrscheinlichkeit in der zweiten Hälfte des 9. Jahrhunderts. Sie erstreckte sich etwa über die gesamte Fläche der späteren mittelalterlichen Burg des 13.–18. Jahrhunderts mit einer Fläche von 1,45 ha, deren höchste Höhe im nordwestlichen Teil des Felsens liegt — 253 m. Diese Tatsache stimmt bislang nicht ganz mit der vorangehenden spätlatènezeitlichen (spätkeltischen) und frühkaiserzeitlichen Besiedlung überein, die die Ausmaße der von der steinernen Burg eingenommenen Fläche eindeutig überschritt. Die Fläche dieser urgeschichtlichen Besiedlung nahm bis zu 2,5 ha des Gebiets der Felsenerhebung ein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Beckov – slawischer Burgwall"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der frühmittelalterliche Burgwall war zur Zeit der Herrschaft der Slawen kein bedeutenderes politisch-gesellschaftliches Zentrum. Die befestigte Siedlung von Beckov hatte dank ihrer guten strategischen Lage vor allem eine wichtige militärische Wachfunktion, die in entsprechendem Maße auch in den folgenden Zeiten genutzt wurde. Sie erfüllte die Rolle einer außergewöhnlichen Festung, die den Zugang zu dem Gebiet schützte, das in großmährischer und nachgroßmährischer Zeit von dem frühmittelalterlichen territorialen Verwaltungszentrum „Trenčín“ verwaltet wurde. Diese großmährische Territorialeinheit von Trenčín bildete kontinuierlich die Grundlage der Kastellanei „Trecen“, des künftigen Trenčiner Komitats im Königreich Ungarn. Der Burgwall von Beckov war also ein vorgeschobener Wachposten der zentralen befestigten Siedlung von Trenčín – eines Herrenhofs, der von einem großmährischen Adligen verwaltet wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "ARCHÄOLOGIE UND ANONYMUS"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde von Keramik und von Resten von Wohnbauten bestätigen ebenfalls, dass sich hier eine frühmittelalterliche slawische Höhensiedlung befand, deren Anfänge in die zweite Hälfte des 9. bis in die erste Hälfte des 10. Jahrhunderts reichen. Die Höhensiedlung, die mit größter Wahrscheinlichkeit befestigt war, entstand hier in großmährischer Zeit. Die Kontinuität der Besiedlung hielt hier eindeutig von der großmährischen Zeit über die nachgroßmährische Zeit, den Einfall der Altungarn und die Anfänge des ungarischen Staates bis zum Untergang der Burg am Anfang des 18. Jahrhunderts an. Gerade mit dem nachgroßmährischen Zeithorizont lässt sich die Nachricht des Chronisten Bélas III., des Magisters P., des so genannten Anonymus, in Verbindung bringen. Sie stammt von der Wende vom 12. zum 13. Jahrhundert und berichtet von der Einnahme der Burgen Šintava, Hlohovec, Trenčín, Bana und Blundus durch altungarische Gefolgschaften in der Zeit ihrer Ankunft im Karpatenbecken. Über die sprachliche Deutung des ungarischen Namens für Beckov — „Blondóc“ — lässt sich das in der Chronik des Anonymus genannte castrum Blundus mit dem Felssporn von Beckov gleichsetzen, auf dem die großmährische und nachgroßmährische Höhensiedlung lag und wo später die Burg des 13.–18. Jahrhunderts entstand. Diese Deutung ist heute, auch dank den neuesten Ergebnissen der letzten archäologischen Ausgrabung, mehr oder weniger bestätigt. Das belegt die Menge der Funde aus großmährischer und nachgroßmährischer Zeit, die mittelbar davon zeugen, dass hier damals eine befestigte Siedlung bestand. Blundus lässt sich also mit der Burgerhebung von Beckov in Verbindung bringen. Die Nachricht des Anonymus von der Einnahme der „castrorum“ Trenčín und Beckov entspricht jedoch nicht der Wahrheit, denn die altungarischen Kriegergruppen reichten mit ihren Vorstößen nach Norden noch in den Jahren 930–940 höchstens bis zur Nordgrenze Bratislava (Pressburg) – Hlohovec – Nitra (Neutra) – Levice – Rimavská Sobota. Es war für sie strategisch nachteilig, in das von den Bergen des Považský Inovec und der Weißen Karpaten umgebene Tal der mittleren Waag zu ziehen. Diese Behauptung stützt auch die Tatsache, dass der überwiegende Teil der Waagtalsenke — der künftige südliche Teil des Trenčiner Komitats — wahrscheinlich erst während der Regierung König Ladislaus I. (1077–1095) faktisch in den entstehenden ungarischen Staat einbezogen wurde. Auch wenn er in formaler verwaltungsrechtlicher Hinsicht bereits nach dem Jahr 1017 unter der Regierung Stephans I. (1000–1038) Teil des Königreichs Ungarn war. Die Widerlegung auch dieser Deutung des Anonymus über die Erstürmung slawischer Burgwälle durch nomadische altungarische Krieger belegt nur die schon länger bekannte Unglaubwürdigkeit dieser Quelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Beckov – slawischer Burgwall"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das bestätigt auch der Befund auf dem slawischen Herrenhof in Ducové bei Piešťany, der südlich von Beckov liegt. Dort lassen sich nämlich die deutlichen Spuren der Einnahme erst in die zweite Hälfte des 10. Jahrhunderts datieren und nicht mit einem sofortigen Untergang nach dem Fall Großmährens verbinden. Beckov liegt dabei wesentlich nördlicher als Ducové und damit in einem für die nomadische Bevölkerung weniger interessanten Gebiet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der schlecht erhaltene Befund erlaubte es nicht, die Befestigung des 9. beziehungsweise des 10.–11. Jahrhunderts besser zu erkennen; nach den Autorinnen der Ausgrabung lässt sie sich jedoch hypothetisch im Bereich der später erbauten so genannten Unterburg des 13.–18. Jahrhunderts vermuten. Schon die aus der Sicht des Geländes günstige Lage — ein Felssporn, den von Nordwesten ein nahezu unüberwindliches Felsmassiv schützt — spricht geradezu für die strategisch-militärische und die Wachfunktion der Fundstelle. Diese bleibt trotz all dieser Tatsachen weiterhin in ein Geheimnis gehüllt, und das nicht nur im Zusammenhang mit dem Mittelalter, sondern auch mit der Urgeschichte. Diese Zeilen bestätigen eindeutig die bedeutende strategische Stellung des Burgfelsens von Beckov im Rahmen der slawischen Burgwälle im Gebiet der heutigen Slowakei. Die Bedeutung dieser Fundstelle in der Zeit des Frühmittelalters unterstreicht auch die Tatsache, dass wir weitere slawische Fundstellen auch aus der Gemarkung der Gemeinde Beckov kennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Drahoslav Hulínek"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Beckov – slawischer Burgwall"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Artikel wurde von der Seite http://www.historickarevue.com/archiv_37.html übernommen und wird mit Zustimmung des Autors — eines Archäologen von SAHI — veröffentlicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was die übrigen archäologischen Funde aus dem Raum von Beckov betrifft, ist der Fund einer Siedlung im Ortsteil Sady zu erwähnen — Keramik des Prager Typs aus der Zeit vom Ende des 5. bis zur Mitte des 7. Jahrhunderts, aus der Zeit des Eindringens der slawischen Bevölkerung. Gefunden wurde hier ein zu Wohnzwecken dienendes eingetieftes Grubenhaus mit einem Ofen mit Kuppel aus Bruchstein, die Keramik war von Hand geformt. Der zweite Fund stammt vom Ende des 7. und dem Anfang des 8. Jahrhunderts — es handelt sich um eine Grube und einen 295 cm tiefen Brunnen mit einem Durchmesser von 205 cm, und der dritte Fund stammt von der Wende vom 9. zum 10. Jahrhundert — 8 Objekte (ein eingetieftes Grubenhaus, Siedlungsgruben mit Keramikfunden).(6) Die archäologische Ausgrabung der Burg Beckov bestätigte die Existenz einer entwickelten großmährischen Siedlung auf der Burg mit einem reichen Keramikfund(7). An der Fundstelle südwestlich der landwirtschaftlichen Genossenschaft wurde im Jahr 1975 eine zerstörte slawische Siedlung gefunden(8). Auch in der Gemeinde selbst, in den Straßen Slnečná und Zelená, fanden sich Reste von eingetieften Grubenhäusern, Keramik, ein Eisenmesser und ein verloren gegangenes Schwert. In der Lage „za skalicami“ wurden im Jahr 1983 Belege einer Besiedlung aus der Zeit des 10. Jahrhunderts gefunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die folgenden Fotografien stammen aus dem Buch J. Karlík u. a.: Beckov 1, Dejiny obce do roku 1918, WillArt 2006:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 2777,
+    "alt": "Die Ruine der Burg Beckov auf dem Felsen im abendlichen Licht"
+   },
+   {
+    "mediaId": 2778,
+    "alt": "Die Ruine der Burg Beckov mit den Mauern über der Straße"
+   },
+   {
+    "mediaId": 2779,
+    "alt": "Der Burgturm von Beckov über der Felswand"
+   },
+   {
+    "mediaId": 2780,
+    "alt": "Eine hölzerne Palisade unterhalb der Burgruine"
+   },
+   {
+    "mediaId": 2781,
+    "alt": "Eine kostbare Bronzefibel mit blau-weißer Emailverzierung"
+   },
+   {
+    "mediaId": 2782,
+    "alt": "Ein Trinkhorn aus grünlichem Glas mit Fadenverzierung"
+   },
+   {
+    "mediaId": 2783,
+    "alt": "Zeichnungen von Keramikfragmenten aus dem großmährischen Siedlungshorizont"
+   },
+   {
+    "mediaId": 2784,
+    "alt": "Ein slawisches Tongefäß aus Beckov auf hellem Hintergrund"
+   }
+  ]
+ }
+}

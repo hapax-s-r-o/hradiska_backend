@@ -1,0 +1,297 @@
+{
+ "slug": "hatne-hradok-objav-fragmentov-murovanych-architektur-p-schreiber",
+ "data": {
+  "title": "Hatné – Hrádok: Fund von Fragmenten gemauerter Architektur (P. Schreiber)",
+  "slug": "hatne-hradok-fragmente-gemauerter-architektur",
+  "excerpt": "Wir bringen Ihnen einen neuen Beitrag des Archäologen Peter Schreiber über die entdeckte mittelalterliche Steinmauer auf der kleinen Burg in Hatné im Tal Marikovská dolina. Bisher wurde an der Fundstelle nur eine kleine Burg mit Holz-Erde-Konstruktion vermutet.",
+  "metaTitle": "Hatné – Hrádok: Fund einer mittelalterlichen Steinmauer",
+  "metaDescription": "Der Archäologe Peter Schreiber über den Fund von Fragmenten gemauerter Architektur – einer mittelalterlichen Steinmauer auf der kleinen Burg in Hatné.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber",
+    "icon": "users"
+   },
+   {
+    "label": "Fundort",
+    "value": "Hatné – Hrádok (Marikovská dolina)",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "11.–13. Jahrhundert, jüngere Funde bis in das 15. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Schlüsselfund",
+    "value": "Fragment einer gemauerten Steinmauer mit Kalkmörtel (2016)",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1430",
+    "title": "Ján Hatňanský erhält die Burg Budatín",
+    "description": "Ján Hatňanský erhielt für die Teilnahme an einem Kriegszug in Italien und für Verdienste bei der Belagerung der Festung Golubac von König Sigismund die Burg Budatín.",
+    "type": "event"
+   },
+   {
+    "year": "1460",
+    "title": "Juraj Hatňanský Kastellan der Burg Ilava",
+    "description": "Der Sohn des Ján Hatňanský, Juraj, wird als Kastellan der Burg Ilava angeführt.",
+    "type": "event"
+   },
+   {
+    "year": "1664",
+    "title": "Erwähnung in einer Grenzbeschreibung",
+    "description": "Die historische Bedeutung der Fundstelle Hatné ist in einer Grenzbeschreibung angeführt, die die kleinen Burgen von Hatné als Grenzpunkt erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1930",
+    "title": "Erste Erwähnung in der archäologischen Literatur",
+    "description": "Štefan Janšák erwähnt die Fundstelle erstmals in der archäologischen Literatur, zusammen mit deren Abbildung.",
+    "type": "event"
+   },
+   {
+    "year": "2016",
+    "title": "Fund eines Fragments von Steinmauerwerk",
+    "description": "Mgr. art. Ivan Pecháček machte bei einem Erkundungsausflug auf ein Fragment von Steinmauerwerk im Raum zwischen zwei Felsen auf der Felskuppe des Hrádok aufmerksam.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4233,
+    "alt": "Federzeichnung der felsigen kleinen Burg über Feldern und einer Straße"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen Ihnen einen neuen Beitrag des Archäologen Peter Schreiber über die entdeckte mittelalterliche Steinmauer auf der kleinen Burg in Hatné.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Hatné liegt im Tal Marikovská dolina, in dessen unterem Teil. In der Gemeinde gibt es zwei Lagen mit dem Namen Hrádok, die schon seit längerer Zeit als archäologische Fundstellen bekannt sind. Beide Lagen werden von einem Felsen aus Kalkstein gebildet, zwischen ihnen fließt der Bach Marikovský potok.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenstand des Beitrags ist die Lage Hrádok, die sich auf der rechten Seite des Marikovský potok befindet. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2016 machte Mgr. art. Ivan Pecháček bei einem Erkundungsausflug auf ein Fragment von Steinmauerwerk im Raum zwischen zwei Felsen aufmerksam. Die Stelle befindet sich innerhalb der Felskuppe (Abb. 3). ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Mauerfragment besteht aus Schichtenmauerwerk aus Stein von 1,2 m Länge, als Bindemittel wurde grauweißer Kalkmörtel verwendet (Abb. 2). Auf der Felskuppe des Hrádok finden sich ebenfalls Mörtelfragmente, woraus sich schließen lässt, dass dort ein Bau mit gemauerten Konstruktionen stand, der bis auf das erwähnte Mauerfragment nahezu vollständig zerstört ist. An den Hängen der betreffenden Fundstelle finden sich gleichfalls Mörtelstücke, aber auch größere Stücke von Bruchstein mit Spuren von Kalkmörtel, stellenweise fast bis zum Fuß des Berges verstreut.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hatné – Hrádok, Fund von Fragmenten gemauerter Architektur (P. Schreiber)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bedeutung des Fundes des Mauerfragments und der gemauerten Architektur liegt darin, dass an der betreffenden Fundstelle in der Fachliteratur bisher nur eine kleine Burg mit Holz-Erde-Konstruktion vermutet wurde.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Slowakei kennen wir kleine Burgen mit einem gemauerten Turm etwa aus Šípkov oder mit einem Wohnturm in Vajkovce (Plaček, Bóna 2007, 11). In der archäologischen Literatur erwähnt Štefan Janšák die Fundstelle als erster, bei ihm findet sich zugleich auch deren Abbildung (Janšák 1930; Abb. 1). Aus der Zeit des Hoch- bis Spätmittelalters stammen von der Fundstelle Funde von Keramikscherben, die rahmenhaft in das 11. bis 13. Jahrhundert eingeordnet werden, sowie jüngere Funde, die in das 15. Jahrhundert datiert werden (Malec 2009, 61, 62, 2010, 126; Moravčík 2002, 10; Španihel 2012, 61).",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Zeit des 15. Jahrhunderts wird in den historischen Quellen das verhältnismäßig bedeutende Geschlecht der Hatňanský erwähnt (Fekete – Nagy 1941). Sie waren ein Adelsgeschlecht einheimischer Herkunft und ihr ursprünglicher Besitz war Hatné nicht weit von Považská Bystrica (Marsina 1994, 91).",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hatné – Hrádok, Fund von Fragmenten gemauerter Architektur (P. Schreiber)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1430 erhielt Ján Hatňanský für die Teilnahme an einem Kriegszug in Italien und für Verdienste bei der Belagerung der Festung Golubac (im heutigen Serbien) von König Sigismund die Burg Budatín, sein Sohn Juraj wird im Jahr 1460 als Kastellan der Burg Ilava angeführt. Außer dieser besaß er die Dörfer Hatné, Prosné, Klieština, Mariková und die Hälfte von Kátlina (Šulavík 1991).",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die historische Bedeutung der Fundstelle Hatné ist auch in einer späteren Grenzbeschreibung (metatio) aus dem Jahr 1664 angeführt. Darin wird angegeben, dass „den Walachen das Gebiet von der Bečva und von Vsetín über den Grat der Javorníky bis zu den kleinen Burgen von Hatné gehörte, wo als Grenze die Kirche von Mariková – genannt Hrádok – erwähnt wird“. Auf der ersten militärischen Landesaufnahme Ungarns aus dem 18. Jahrhundert steht an der betreffenden Lage das Kartenzeichen für eine Steinkirche mit der Aufschrift Rudera, was übersetzt Ruine bedeutet (",
+        "italic": true
+       },
+       {
+        "type": "link",
+        "url": "http://mapire.eu/en/",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://mapire.eu/en/"
+         }
+        ],
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). Es handelt sich um die zweite Lage auf der linken Seite des Marikovský potok.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hatné – Hrádok, Fund von Fragmenten gemauerter Architektur (P. Schreiber)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "FEKETE – NAGY, A. 1941: Magyarország történelmi földrajza a Hunyadiak korában IV. Trencsén vármegye. Budapest 1941."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "slug": "p-schreiber-dolna-marikova-siroka-archeologicky-vyskum-2016",
+ "data": {
+  "title": "P. Schreiber: Dolná Mariková – Široká (archäologische Ausgrabung 2016)",
+  "slug": "dolna-marikova-siroka-ausgrabung-2016",
+  "excerpt": "Im Jahr 2016 führte das Trenčiner Museum in Trenčín mit Hilfe des Vereins Hradiská auf der Höhenlage Široká bei Dolná Mariková eine archäologische Ausgrabung zu wissenschaftlichen und dokumentarischen Zwecken durch. Sie sollte die archäologischen Befunde durch Sondagen überprüfen, die Datierung der Fundstelle klären und die Metallfunde aus der von Raubgräbern heimgesuchten Fundstelle retten – vom Äneolithikum über die Púchov-Kultur bis in das 9. und 10. Jahrhundert.",
+  "metaTitle": "Dolná Mariková – Široká: die Ausgrabung 2016",
+  "metaDescription": "Trenčiner Museum und Verein Hradiská untersuchten 2016 die Höhenlage Široká bei Dolná Mariková: Datierung der Fundstelle und Rettung der Metallfunde.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber (Trenčiner Museum in Trenčín)",
+    "icon": "users"
+   },
+   {
+    "label": "Fundstelle",
+    "value": "Dolná Mariková – Široká",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "späte Steinzeit (Äneolithikum) – Frühmittelalter (9.–10. Jahrhundert)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Art der Untersuchung",
+    "value": "Metalldetektor-Prospektion und Mikrosondagen (2016)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1972",
+    "title": "Erste Erwähnung in der Literatur",
+    "description": "A. Habovštiak erwähnt die Fundstelle Dolná Mariková – Široká erstmals als „kleines Plateau mit nachgewiesener mittelalterlicher Befestigung“.",
+    "type": "event"
+   },
+   {
+    "year": "2016",
+    "title": "Archäologische Ausgrabung",
+    "description": "Das Trenčiner Museum in Trenčín führte mit Hilfe des Bürgervereins Hradiská auf der Fundstelle eine Sondagegrabung und eine Metalldetektor-Prospektion durch.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4224,
+    "caption": "Abb. 1",
+    "alt": "Abb. 1"
+   },
+   {
+    "mediaId": 4225,
+    "caption": "Abb. 2",
+    "alt": "Abb. 2"
+   },
+   {
+    "mediaId": 4226,
+    "caption": "Abb. 3",
+    "alt": "Abb. 3"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2016 führte das Trenčiner Museum in Trenčín (Trentschin) mit Hilfe des Bürgervereins Hradiská in der Gemeinde Dolná Mariková, auf der Höhenlage mit dem Namen Široká, eine archäologische Ausgrabung zu wissenschaftlichen und dokumentarischen Zwecken durch. Ziel der Untersuchung war es, die archäologischen Befunde durch Sondagen zu überprüfen, die Datierung der Fundstelle zu klären und die Metallgegenstände aus der von Raubgräbern heimgesuchten Fundstelle zu retten. Zu diesem Zweck wurden eine Metalldetektor-Prospektion und anschließend Mikrosondagen an den Fundstellen sowie eine vollständige Dokumentation der Befunde durchgeführt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältesten durch die Ausgrabung erfassten Funde gehören in die späte Steinzeit, in die Zeit des jüngeren bis späten Äneolithikums (Kupferzeit). Es handelt sich um wenige Keramikfragmente, einige davon mit Stempelverzierung. Die Funde aus der jüngeren Periode werden der sogenannten Púchov-Kultur zugeordnet, der Zeit um die Zeitenwende. Es handelt sich ebenfalls um Gefäßfragmente, aber auch um Gegenstände aus Metall, wie den Fund eines bronzenen Anhängers (Abb. 3: 1). Der genannte Anhänger diente ursprünglich als Armring; nach seinem Bruch wurde er reutilisiert, d. h. erneut verwendet als der oben beschriebene Anhänger. Die eiserne Sichel (Abb. 2: 2) lässt sich ebenfalls der Zeit der Púchov-Kultur zuordnen. Das Frühmittelalter vertreten Funde, die in den Rahmen des 9. bis 10. Jahrhunderts datiert werden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1",
+    "alt": "Abb. 1",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den auffälligeren Gegenständen ist der Fund von zwei eisernen Hacken (Abb. 1: 1) zu nennen, die bei der Begehung am Hang einer Felsklippe im Felsschutt gefunden wurden. In dieselbe Zeit lassen sich auch die eisernen Messer (Abb. 2: 1, 3) einordnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Begehung wurden auch eiserne Pfeilspitzen für den Bogen erfasst (Abb. 3: 2–4). Ihre Datierung ist problematisch, sie können aus der älteren Periode, der Púchov-Kultur, ebenso wie aus der jüngeren mittelalterlichen Periode stammen. Bemerkenswert ist eine Pfeilspitze, deren eiserner Dorn zur Befestigung im Holz (im Körper) des Pfeils durch Tordierung verstärkt ist (Abb. 3: 4)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschließend ist der Fund eines aus Eisen hergestellten Schlüssels zu nennen (Abb. 1: 2). Der Körper des Schlüssels ist ebenso wie bei der Pfeilspitze durch Tordierung verstärkt, am Ende befindet sich ein Ring, der Kopf hat die Form eines „T“. Der Schlüssel wurde durch die Begehung und eine anschließende Mikrosondage gefunden. Ähnliche Schlüssel kommen von der Zeit der Púchov-Kultur bis in das Frühmittelalter vor, daher lässt sich nicht mit Sicherheit sagen, ob der Schlüssel der älteren oder der jüngeren Besiedlung angehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2",
+    "alt": "Abb. 2",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Dolná Mariková – Široká erwähnt in der archäologischen Literatur erstmals A. Habovštiak im Jahr 1972 als „kleines Plateau mit nachgewiesener mittelalterlicher Befestigung“ (Habovštiak 1972). In der neueren Literatur wird für die Fundstelle Široká eine Besiedlung aus der späten Steinzeit, aus der protohistorischen Periode und aus dem Mittelalter angegeben (Moravčík 2000; Májsky 2006; Malec 2010; Schreiber 2015)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

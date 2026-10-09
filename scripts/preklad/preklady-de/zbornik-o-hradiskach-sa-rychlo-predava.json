@@ -1,0 +1,78 @@
+{
+ "slug": "zbornik-o-hradiskach-sa-rychlo-predava",
+ "data": {
+  "title": "Der Sammelband über die Burgwälle verkauft sich schnell",
+  "slug": "sammelband-ueber-die-burgwaelle-verkauft-sich-schnell",
+  "excerpt": "Im November ist der lang erwartete zweite Band Hradiská – Svedkovia dávnych čias erschienen. Gedruckt wurden 700 Stück, von denen heute schon weniger als 200 Exemplare übrig sind. Wer Interesse hat, sollte ihn daher möglichst bald bestellen – der erste Sammelband war 2016 innerhalb eines Monats ausverkauft, und ein Nachdruck ist nicht geplant.",
+  "metaTitle": "Der Sammelband über die Burgwälle verkauft sich schnell",
+  "metaDescription": "Von 700 gedruckten Exemplaren des Sammelbandes Hradiská – Svedkovia dávnych čias 2 sind weniger als 200 übrig; Interessenten sollten bald bestellen.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5104,
+    "caption": "Mitte November war es noch diese Menge",
+    "alt": "Mitte November war es noch diese Menge"
+   },
+   {
+    "mediaId": 5107,
+    "caption": "Mitte Dezember ...",
+    "alt": "Mitte Dezember ..."
+   },
+   {
+    "mediaId": 5108,
+    "caption": "Mitte Januar 2020 ... die letzten 80 Stück",
+    "alt": "Mitte Januar 2020 ... die letzten 80 Stück"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im November haben wir unseren lang erwarteten Sammelband Hradiská – Svedkovia dávnych čias 2 (Burgwälle – Zeugen längst vergangener Zeiten 2) herausgegeben. Wir ließen 700 Stück drucken, wobei bis zum heutigen Tag schon weniger als 200 Exemplare übrig sind. Deshalb empfehle ich jedem, der an dem Sammelband Interesse hat, ihn möglichst bald zu bestellen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie also Interesse haben, zögern Sie nicht und "
+       },
+       {
+        "type": "text",
+        "text": "senden Sie eine Bestellung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " an die Adresse "
+       },
+       {
+        "type": "text",
+        "text": "zbornik.hradiska@gmail.com",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Ich erinnere daran, dass der erste Sammelband im Jahr 2016 innerhalb eines Monats ausverkauft war und dass kein Nachdruck geplant ist."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

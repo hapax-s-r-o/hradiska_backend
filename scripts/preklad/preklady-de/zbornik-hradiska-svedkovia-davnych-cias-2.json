@@ -1,0 +1,118 @@
+{
+ "slug": "zbornik-hradiska-svedkovia-davnych-cias-2",
+ "data": {
+  "title": "Hradiská – Svedkovia dávnych čias 2: der zweite Sammelband über die Burgwälle",
+  "slug": "sammelband-burgwaelle-zeugen-vergangener-zeiten-2",
+  "excerpt": "Im Laufe des Oktobers geben wir den zweiten Band unseres Sammelbandes über die Burgwälle und ihre Bewohner heraus. Der erste Band erschien 2015 und fand überraschend viele Leser – in der Fachwelt wie in der breiten Öffentlichkeit. Der neue Band hat etwa 240 Seiten im Format B5 und kostet 19 Euro.",
+  "metaTitle": "Sammelband Hradiská – Svedkovia dávnych čias 2",
+  "metaDescription": "Im Oktober erscheint der zweite Band unseres Sammelbandes über die Burgwälle; der erste kam 2015 heraus und war bei den Lesern unerwartet erfolgreich.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5100,
+    "alt": "Dunkler Umschlag des zweiten Bandes des Sammelbandes Hradiská – svedkovia dávnych čias"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere monatelange Arbeit wird schon bald belohnt. Im Laufe des Oktobers geben wir den 2. Band des Sammelbandes über die Burgwälle heraus.\n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "​ \n Den ersten Sammelband über die Burgwälle gab unser Bürgerverein Hradiská im Jahr 2015 heraus. Von seinem Erfolg waren wir recht überrascht, denn Bücher mit Fachbeiträgen aus dem Bereich der Archäologie gehören nun einmal nicht zu den Bestsellern. Dennoch sprach das Buch eine große Zahl von Lesern an, sowohl in der Fachwelt als auch in der breiten Öffentlichkeit. Nach dem Erscheinen des Sammelbandes setzten wir unsere Editionstätigkeit auch weiterhin fort, und zwar vor allem in Zusammenarbeit mit Herrn Igor Furugláš und seiner Firma Dwarf Digital Archeology. Mit vereinten Kräften gaben wir die Zeitschrift Digitálne hradiská, die Publikation Oživená archeológia und im Jahr 2019 das Buch Skryté poklady heraus. Ebenso waren wir mit ihm an der Entstehung mehrerer einzigartiger 3D-Modelle von Burgwällen und anderen untergegangenen archäologischen Objekten beteiligt, die Tausende von Menschen gesehen haben. Darüber hinaus nahmen unser Verein und seine Mitglieder, deren Zahl gewachsen ist, als Freiwillige an mehreren archäologischen Ausgrabungen auf dem Gebiet der Slowakei teil und bauten mit vielen Archäologen eine fruchtbare Zusammenarbeit auf. Die Archäologie zieht uns sehr an, und mit unserer Tätigkeit versuchen wir zu beweisen, dass die Hilfe von Laien bei Ausgrabungen sehr nutzbringend und wichtig ist und dass etwa das Sondengehen auch erheblich helfen kann und nicht zerstörerisch sein muss, wenn es unter der fachlichen Aufsicht von Wissenschaftlern ausgeübt wird.\n \n Eine natürliche Fortsetzung unserer Zusammenarbeit mit den Archäologen ist auch der hier vorgelegte zweite Band des Sammelbandes über die Burgwälle und ihre Bewohner, in dem Sie eine Fülle bislang unveröffentlichter Informationen von renommierten Archäologen finden und sogar eine Höhenlage, die Mitglieder unseres Vereins entdeckt und später gemeinsam mit Archäologen untersucht haben.\n \n Ziel des Projekts ist vor allem die Förderung der wissenschaftlichen Tätigkeit slowakischer Archäologen, indem ihnen ermöglicht wird, die Ergebnisse ihrer Forschungen zum Thema der Burgwälle in gedruckter Form zu veröffentlichen. Ziel ist ebenso die Popularisierung der Ergebnisse der archäologischen Forschung zu den Burgwällen in der Slowakei und die Vermittlung des Themas der Burgwälle auch an die nichtfachliche Öffentlichkeit. Der Sammelband wird dazu beitragen, das Wissen der Leser über das Leben unserer Vorfahren zu erweitern. Die Beiträge für den Sammelband stellen Archäologen bereit, die sich fachlich auf die Forschung zum Frühmittelalter und zur Urgeschichte in der Slowakei und in der Ukraine spezialisieren. Der Sammelband ergänzt damit auf passende Weise die nicht sehr umfangreiche archäologische Fachliteratur, die in der Slowakei erscheint. Der Umfang des Sammelbandes wird etwa 240 Seiten im Format B5 betragen, und er wird neben dem Text auch eine Menge Abbildungen enthalten.\n  \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Sammelband Hradiská – Svedkovia dávnych čias 2",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Preis beträgt "
+       },
+       {
+        "type": "text",
+        "text": "19 Euro",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", Bestellungen können Sie an folgende Adresse senden: "
+       },
+       {
+        "type": "text",
+        "text": "zbornik.hradiska@gmail.com",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Sammelband ist bereits fast ausverkauft; wer möchte, kann ihn vollständig "
+       },
+       {
+        "type": "link",
+        "url": "https://www.academia.edu/143113177/HRADISK%C3%81_SVEDKOVIA_D%C3%81VNYCH_%C4%8CIAS_II",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " herunterladen."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

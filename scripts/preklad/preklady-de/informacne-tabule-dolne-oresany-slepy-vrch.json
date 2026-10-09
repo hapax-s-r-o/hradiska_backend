@@ -1,0 +1,213 @@
+{
+ "slug": "informacne-tabule-dolne-oresany-slepy-vrch",
+ "data": {
+  "title": "Informationstafeln zur keltischen Höhensiedlung Slepý vrch in Dolné Orešany",
+  "slug": "informationstafeln-dolne-oresany-slepy-vrch",
+  "excerpt": "Am 13. 6. 2015 fand eine weitere Aktion unseres Vereins Hradiská statt – die Aufstellung von zwei Informationstafeln in Dolné Orešany, die die keltische befestigte Höhensiedlung mit dem Namen Slepý vrch betreffen.",
+  "metaTitle": "Informationstafeln zum Slepý vrch in Dolné Orešany",
+  "metaDescription": "Aufstellung von zwei Informationstafeln zur keltischen Höhensiedlung Slepý vrch in Dolné Orešany (2015) mit Vortrag des Archäologen M. Sládok.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "zwei Informationstafeln zur keltischen Höhensiedlung Slepý vrch (Dolné Orešany)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "13. 6. 2015",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2015",
+    "title": "Tafeln Slepý vrch",
+    "description": "Unterstützung durch die Bürgermeisterin J. Belicová; Darbietungen der Kelten, Ansprache von M. Sládok (Kreisdenkmalamt).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5695,
+    "alt": "Eine Gruppe von Menschen beim Aufstellen der Informationstafel am Ortsrand, im Vordergrund eine Schubkarre mit Mörtel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 13. 6. 2015 fand eine weitere Aktion unseres Vereins Hradiská statt – die Aufstellung von zwei Informationstafeln in Dolné Orešany, die die keltische befestigte Höhensiedlung mit dem Namen Slepý vrch betreffen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir trafen auf ein außerordentlich entgegenkommendes Verhalten seitens der Bürgermeisterin von Dolné Orešany, Frau Juliana Belicová, die nicht nur die Finanzierung beider Tafeln zusagte, sondern uns gemeinsam mit dem Gemeindeamt und weiteren Bürgern auch eine großartige Unterstützung gewährte, dank der zu der Veranstaltung viele Menschen kamen und die Atmosphäre hervorragend war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zunächst stellten wir die erste Tafel im Zentrum der Gemeinde in der Nähe des Gemeindeamtes auf, auf der die Touristen von der Existenz der Höhensiedlung auf dem Slepý vrch erfahren und über die älteste Besiedlung von Dolné Orešany in der Urgeschichte nachlesen können. Eine Ansprache an die Anwesenden hielt auch der Archäologe des Kreisdenkmalamtes Trnava, Herr Mgr. Matúš Sládok, der unter anderem über das Problem der Raubgrabungen an archäologischen Fundstellen und über deren Schutz informierte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Informationstafeln Dolné Orešany – Slepý vrch",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anschließend begaben wir uns direkt auf die Höhensiedlung Slepý vrch, wo die Besucher eine Überraschung erwartete – die Kelten. Unsere Einladung nahm nämlich "
+       },
+       {
+        "type": "link",
+        "url": "http://www.kelti.info/",
+        "children": [
+         {
+          "type": "text",
+          "text": "die renommierte Gruppe, die sich der Wiederbelebung der keltischen Geschichte widmet – Vae Victis aus Lietavská Lúčka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " an. Auf der Höhensiedlung hatten sie ein zeitgenössisches Lager und einen Webstuhl aufgebaut und waren selbstverständlich selbst als Kelten mit der entsprechenden Ausrüstung gekleidet. Sie führten uns die Lebensweise der Kelten vor, erzählten uns fesselnd davon, und ihr Druide Brendyx segnete zum Abschluss unsere Tafel mit Met, damit sie lange zum Ruhm der keltischen Götter diene."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Weg zur Höhensiedlung mit der Tafel auf der Schulter wäre außerordentlich mühsam gewesen, und deshalb muss ich die enorme Hilfe von Herrn Lukáš Ilavský aus Dolné Orešany hervorheben, der alles nötige Material auf die Höhensiedlung hinaufbrachte, und ebenso von Patrik Dobšovič, der für den Transport der Kelten und ihrer Ausrüstung hinauf sorgte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "-ReJ5lFTL70",
+    "url": "https://www.youtube.com/embed/-ReJ5lFTL70",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trotz des heißen Wetters kam eine große Zahl von Interessierten auf die Höhensiedlung. Zum Abschluss konnten sie den Start einiger Gleitschirmflieger vom Slepý vrch verfolgen, deren Teilnahme ebenfalls die Frau Bürgermeisterin sichergestellt hatte. Nach der Rückkehr in die Gemeinde waren für uns im Gemeindeamt ein ausgezeichneter Gulasch und eine Bewirtung vorbereitet. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Informationstafeln Dolné Orešany – Slepý vrch",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An dieser Stelle möchte ich allen danken, die an der Gestaltung der Tafel mitgewirkt haben (unseren Jungs aus dem Verein), der Gruppe Vae Victis für ihren großen Beitrag, vor allem aber der Frau Bürgermeisterin für ihr Entgegenkommen. Einem so großartigen Verhalten sind wir noch nicht begegnet. Und selbstverständlich den Bürgern von Orešany, denen ihre Geschichte nicht gleichgültig ist und die in großer Zahl kamen, um uns zu unterstützen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir freuen uns auf die nächste Veranstaltung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "zbornik-ii-uz-je-vytlaceny",
+ "data": {
+  "title": "Der Sammelband II über die Burgwälle ist gedruckt!",
+  "slug": "sammelband-ii-ueber-die-burgwaelle-ist-gedruckt",
+  "excerpt": "Unser zweiter Sammelband über die Burgwälle ist gedruckt, und ab der nächsten Woche beginnen wir mit der Verteilung an alle, die ihn bestellt haben. Noch sind nicht alle Bücher reserviert – Bestellungen sind also weiterhin willkommen. Der erste Sammelband war 2016 innerhalb eines Monats ausverkauft, und ein Nachdruck ist nicht geplant.",
+  "metaTitle": "Der Sammelband II über die Burgwälle ist gedruckt",
+  "metaDescription": "Der zweite Sammelband über die Burgwälle ist gedruckt; die Verteilung an die Besteller beginnt nächste Woche. Noch sind nicht alle Bücher reserviert.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5104,
+    "caption": "Mitte November war es noch diese Menge",
+    "alt": "Mitte November war es noch diese Menge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser zweiter Sammelband über die Burgwälle ist bereits gedruckt, und ab der nächsten Woche beginnen wir mit seiner Verteilung an jeden, der ihn bestellt hat. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für diejenigen, die es noch nicht geschafft haben, habe ich eine gute Nachricht: Bislang sind nicht alle Bücher reserviert, und wenn Sie daher Interesse haben, zögern Sie nicht und "
+       },
+       {
+        "type": "text",
+        "text": "senden Sie eine Bestellung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " an die Adresse "
+       },
+       {
+        "type": "text",
+        "text": "zbornik.hradiska@gmail.com",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Ich erinnere daran, dass der erste Sammelband im Jahr 2016 innerhalb eines Monats ausverkauft war und dass kein Nachdruck geplant ist."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,232 @@
+{
+ "slug": "nosice-hradisko",
+ "data": {
+  "title": "Nosice – Hradisko: slawische Gräber und eine Höhenburg der Púchov-Kultur",
+  "slug": "nosice-hradisko-puchov-hoehenburg",
+  "excerpt": "Beim Bau der Talsperre Nosice kamen drei seicht unter der Oberfläche liegende slawische Körpergräber aus dem 9. Jahrhundert zum Vorschein – aus dem gesamten Gebiet der Nordslowakei ist dies die einzige bekannte Bestattungsart der slawischen Bevölkerung. In der Nähe der Gemeinde liegt zudem die Lage Hradisko, eine kleine Höhenburg der Púchov-Kultur mit zwei Erdwällen, deren Keramik an das Ende des 1. Jahrhunderts v. Chr. datiert.",
+  "metaTitle": "Nosice – Hradisko: slawische Gräber und Púchov-Höhenburg",
+  "metaDescription": "Beim Bau der Talsperre Nosice fand man drei slawische Körpergräber des 9. Jahrhunderts. In der Nähe liegt die kleine Höhenburg Hradisko der Púchov-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Maße der Befestigung",
+    "value": "80 × 40 m, umgeben von zwei Erdwällen",
+    "icon": "map"
+   },
+   {
+    "label": "Entdecker der Siedlung der Púchov-Kultur",
+    "value": "Ernest Poliak aus Púchov",
+    "icon": "scroll"
+   },
+   {
+    "label": "Bedeutendster Fund (2000)",
+    "value": "ein eisernes Tüllenbeil, typisch für die Púchov-Kultur",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 1. Jahrhunderts v. Chr.",
+    "title": "Entstehung der Befestigung bei Nosice",
+    "description": "Die Keramik datiert die Entstehung der Befestigung an das Ende des 1. Jahrhunderts v. Chr.; die geschützte Fläche hat die Maße 80 × 40 m und wird von zwei Erdwällen umgeben.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Jahrhundert n. Chr.",
+    "title": "Die Befestigung als Reaktion auf den Einfall der Germanen",
+    "description": "Das wiederholte Auftreten der Paare Siedlung + Befestigung ergab sich wohl aus dem erwarteten Einfall der Germanen, der genau zu Beginn des 1. Jahrhunderts n. Chr. erfolgte und das gesamte Gebiet der Nordslowakei erfasste.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawisches Körpergräberfeld",
+    "description": "Beim Bau der Talsperre Nosice wurden drei seicht unter der Oberfläche liegende slawische Körpergräber aus dem 9. Jahrhundert gefunden; Prof. V. Budinský-Krička nahm an, dass sich hier ein großmährisches Flachgräberfeld befand.",
+    "type": "discovery"
+   },
+   {
+    "year": "2000",
+    "title": "Begehung durch J. Moravčík",
+    "description": "Im Jahr 2000 fand auf der Höhenburg eine Begehung unter der Leitung von Jozef Moravčík statt; der interessanteste Fund war ein eisernes Tüllenbeil, das für die Púchov-Kultur typisch ist.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3358,
+    "caption": "Zeichnung der Höhenburg von M. Olšovský",
+    "alt": "Zeichnung der Höhenburg von M. Olšovský"
+   },
+   {
+    "mediaId": 3359,
+    "caption": "Künstlerische Vorstellung vom Aussehen der Höhenburg von Antonín Lacko",
+    "alt": "Künstlerische Vorstellung vom Aussehen der Höhenburg von Antonín Lacko"
+   },
+   {
+    "mediaId": 3362,
+    "caption": "Kleiner Plan der Höhenburg nach Moravčík",
+    "alt": "Kleiner Plan der Höhenburg nach Moravčík"
+   },
+   {
+    "mediaId": 3363,
+    "caption": "Der Wall",
+    "alt": "Der Wall"
+   },
+   {
+    "mediaId": 3364,
+    "caption": "Die Zisterne",
+    "alt": "Die Zisterne"
+   },
+   {
+    "mediaId": 3365,
+    "caption": "Die Innenfläche der Höhenburg",
+    "alt": "Die Innenfläche der Höhenburg"
+   },
+   {
+    "mediaId": 3366,
+    "caption": "Im Winter sind die Wälle der Höhenburg auf der Seite von Nimnice trotz des dichten Bewuchses sichtbar.",
+    "alt": "Im Winter sind die Wälle der Höhenburg auf der Seite von Nimnice trotz des dichten Bewuchses sichtbar."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Bau der Talsperre Nosice wurden auch drei slawische Körpergräber gefunden, die seicht unter der Oberfläche lagen und aus dem 9. Jahrhundert stammen. Prof. V. Budinský-Krička nahm an, dass sich hier ein großmährisches Flachgräberfeld mit Körpergräbern befand. Es lässt sich jedoch nicht ausschließen, dass die Gräber ursprünglich von Hügelgräbern überdeckt waren. Aus dem gesamten Gebiet der Nordslowakei kennen wir nur diese Art der Bestattung der slawischen Bevölkerung. Daher können wir annehmen, dass die ursprünglichen Grabhügel bereits so weit abgetragen waren, dass sie im Gelände nicht mehr zu erkennen waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ernest Poliak aus Púchov stellte am Hang der Höhenburg eine Siedlung der Púchov-Kultur fest und eine weitere zwischen dem Kanal der Waag und der Eisenbahnstrecke. Hier fanden sich auch Randstücke großer Vorratsgefäße, in denen die Menschen der Púchov-Kultur ihre Nahrungsvorräte aufbewahrten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Ifb28OllFLA",
+    "url": "https://www.youtube.com/embed/Ifb28OllFLA",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Nähe der Gemeinde liegt auch die Lage Hradisko. Sie gehört zwar zur Gemarkung von Púchov, doch da sie viel näher bei Nosice liegt, führen wir sie bei den Fundstellen dieser Gemeinde an. Die Keramik datiert die Befestigung an das Ende des 1. Jahrhunderts v. Chr. Die geschützte Fläche hat die Maße 80 × 40 m und wird von zwei Erdwällen umgeben. Der Zugang zur Befestigung liegt an der Nordseite, und etwa in der Hälfte der Länge des südlichen Walls befindet sich eine Zisterne (?) – eine Grube zum Auffangen von Regenwasser. Außer Keramik fand sich hier auch ein steinerner Mühlstein zum Mahlen von Getreide. Unterhalb des Hanges der Befestigung stellte E. Poliak auch eine Siedlung der Púchov-Kultur fest, deren Bewohner diese kleine Höhenburg wohl zu ihrem Schutz errichteten. Das wiederholte Auftreten der Paare Siedlung + Befestigung ist in dieser Zeit schon die Regel. Es ergab sich wohl aus dem erwarteten Einfall der Germanen, der genau zu Beginn des 1. Jahrhunderts n. Chr. erfolgte und das gesamte Gebiet der Nordslowakei erfasste."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zeichnung der Höhenburg von M. Olšovský",
+    "alt": "Zeichnung der Höhenburg von M. Olšovský",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2000 fand auf der Höhenburg eine Begehung unter der Leitung von Jozef Moravčík statt, bei der mehrere interessante Funde aus der Zeit der Púchov-Kultur entdeckt wurden. Der interessanteste unter ihnen ist ein eisernes Tüllenbeil, das für die Púchov-Kultur typisch ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Text übernommen aus: Martin Olšovský, Štefan Meliš, Jozef Moravčík: Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek – súbor dokumentov a fotografií, im Selbstverlag von Martin Olšovský im Jahr 2008 in einer Auflage von 4 Stück herausgegeben.\n \n GEOCACHE!!!\n \n Auf der Höhenburg ist ein Geocache versteckt!!! Wer ihn finden möchte, gehe nach der folgenden Anleitung vor:\n \n "
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC66D2Y_hradisko-nosice",
+        "children": [
+         {
+          "type": "text",
+          "text": "NOSICE"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos: Orgoň"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Luftaufnahmen der Höhenburg (Stanka F.):"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

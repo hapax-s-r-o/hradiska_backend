@@ -1,0 +1,489 @@
+{
+ "slug": "sena",
+ "data": {
+  "title": "Seňa – die Große Alte Burg südlich von Košice",
+  "slug": "sena-grosse-alte-burg-varhely",
+  "excerpt": "Das Katasterareal Várhely bei Seňa südlich von Košice trägt den Namen einer Burg, von der im Gelände nichts mehr zu sehen ist. Schriftquellen von 1255 und 1317 nennen sie Óvár und Nagyóvár — Alte und Große Alte Burg. Štefan Kolivoško verfolgt den Streit um ihre Lage zwischen Branislav Varsík und Mária Lamiová und rechnet aus den 2860 m langen Mauern eine Besatzung von 500–600 Kriegern und bis zu 2000 Menschen in Zeiten der Gefahr.",
+  "metaTitle": "Seňa – die Große Alte Burg südlich von Košice",
+  "metaDescription": "Der slawische Burgwall „Große Alte Burg“ bei Seňa südlich von Košice: die Flur Várhely lebte in der mündlichen Überlieferung bis ins 20. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Katasterareal zwischen dem Belžanský potok und dem Bahnhof, südlich von Košice (Kaschau), an der slowakisch-ungarischen Grenze; ungarischer Name Várhely (Hradová)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Maße",
+    "value": "Vermutete Länge der Mauern 2860 m, Breite der Mauern 9–10 m, Höhe auf 4–5 m geschätzt",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion",
+    "value": "Mauer aus Holz und Erde ohne Steinfront (in der Umgebung fehlt Baustein), wahrscheinlich in Rost- oder Kastenkonstruktion",
+    "icon": "building"
+   },
+   {
+    "label": "Verteidigungselemente",
+    "value": "Gräben, gespeist vom Flüsschen Szartos (Osten) und vom Belžanský potok (Westen und Süden); im Norden, wo der Graben nicht mit Wasser gefüllt werden konnte, werden die stärksten Mauern vermutet",
+    "icon": "shield"
+   },
+   {
+    "label": "Geschätzte Einwohnerzahl",
+    "value": "Etwa 500–600 Krieger zur Verteidigung der Mauern, mit weiteren Frauen, Kindern und Greisen zusammen etwa 2000 Menschen in Zeiten der Bedrohung",
+    "icon": "users"
+   },
+   {
+    "label": "Historische Namen",
+    "value": "Óvár und Nagyóvár (Alte Burg und Große Alte Burg) in den ältesten Urkunden; verwandte Katasternamen Fidvár (Kechnec) und Sárvár (Gyňov)",
+    "icon": "crown"
+   },
+   {
+    "label": "Autor des Textes",
+    "value": "Štefan Kolivoško, Stellvertreter der Direktorin der Öffentlichen Bibliothek J. Bocatius in Košice; Abbildungen Ing. Peter Zdravecký",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7.–8. Jahrhundert (untere Grenze)",
+    "title": "Vermutete Entstehung der Großen Alten Burg",
+    "description": "Altslawische Stammesburg, Zentrum eines weiten Landes; die Entstehung der Burg wird vor das 10. Jahrhundert gesetzt, da ständige befestigte Orte erst bei dauerhafter Ansiedlung der Bevölkerung entstehen.",
+    "type": "founding"
+   },
+   {
+    "year": "9. – Anfang des 10. Jahrhunderts (obere Grenze)",
+    "title": "Zeit des Bestehens der Burg",
+    "description": "Obere Zeitgrenze der Gründung der Burg — die Zeit, in der die Alte Große Burg noch die Funktion der zentralen Burg eines weiten Umlands erfüllte.",
+    "type": "event"
+   },
+   {
+    "year": "nach 1038 (Tod Stephans I.)",
+    "title": "Gründung der Neuen Burg in Abaujvár",
+    "description": "Die Neue Burg entstand vor dem Thronantritt König Samuel Abas (1041–1044); die Alte Große Burg war zu dieser Zeit offenbar schon nicht mehr nutzbar und aus militärischer Sicht veraltet.",
+    "type": "event"
+   },
+   {
+    "year": "1041–1044",
+    "title": "Die Neue Burg übernimmt die zentrale Funktion",
+    "description": "Nach dem Bau der Neuen Burg (Abaujvár) wird sie anstelle der Großen Alten Burg zum administrativen und politischen Zentrum des Komitats.",
+    "type": "event"
+   },
+   {
+    "year": "1255",
+    "title": "Erste schriftliche Erwähnung",
+    "description": "König Béla IV. schenkt den Bewohnern von Seňa das Land Čaňa (Chon); in der Schenkungsurkunde wird bei der Beschreibung der Grenzen ein Ort namens Ówár (Alte Burg) erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1317",
+    "title": "Metation der Grenzen Kechnec – Seňa",
+    "description": "Die Urkunde über die Festlegung der nördlichen Grenzen von Kechnec erwähnt die untere Grenze der Burg namens Nagyowar (Große Alte Burg).",
+    "type": "event"
+   },
+   {
+    "year": "1784",
+    "title": "Karte von Seňa und Umgebung",
+    "description": "Im Hadtörténeti múzeum (Militärhistorisches Museum) in Budapest entdeckte Karte, auf der die Wälle der Großen Alten Burg vollständig dargestellt sind.",
+    "type": "discovery"
+   },
+   {
+    "year": "1880–1891",
+    "title": "Vermessungen der Wälle",
+    "description": "Die Karten von G. Györffy und M. Lamiová erfassen die Wälle in Form eines Trapezes — die Nordseite ca. 670 m lang, der Abstand der Nord-Süd-Wälle 870 m, der Südwall ca. 450 m, die Breite der Wälle 9–10 m, die Höhe 1 m.",
+    "type": "discovery"
+   },
+   {
+    "year": "1962",
+    "title": "Zerstörung des nördlichen Teils des Walls",
+    "description": "Bei Bauarbeiten wurde der nördliche Teil des Walls mit einem Bulldozer plattgedrückt; der südliche Teil verschmolz infolge der Bodenbearbeitung mit dem Gelände.",
+    "type": "destruction"
+   },
+   {
+    "year": "1951",
+    "title": "Varsíks Lokalisierung der Burg",
+    "description": "Branislav Varsík lokalisiert die Burg auf einer Erhebung zwischen dem Belžanský potok und dem Flüsschen Szartos — doch die archäologische Begehung fand an dieser Stelle keinerlei Spuren einer Befestigung.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6367,
+    "alt": "Luftansicht des weitläufigen Burgwalls mit doppelter Palisade, Tortürmen und Blockhäusern"
+   },
+   {
+    "mediaId": 549,
+    "caption": "Der Burgwall genau eingezeichnet auf der Karte der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert",
+    "alt": "Der Burgwall genau eingezeichnet auf der Karte der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Herr Štefan Kolivoško, Stellvertreter der Direktorin der Öffentlichen Bibliothek J. Bocatius in Košice (Kaschau) und Schriftsteller, hat unserer Seite seinen hervorragenden Artikel über den slawischen Burgwall Seňa (südlich von Košice, an der slowakisch-ungarischen Grenze) zur Verfügung gestellt. Für seine Bereitschaft gilt ihm großer Dank. Der Autor der Abbildungen ist Ing. Peter Zdravecký.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "DIE GROSSE ALTE BURG",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Katasterareal in Seňa zwischen dem Belžanský potok und dem Bahnhof kennen wir unter dem ungarischen Namen Várhely (Hradová, Ort der Burg). Diese Benennung lebte in Seňa in der mündlichen Überlieferung bis in die 70er Jahre des 20. Jahrhunderts. Den Namen Várhely können wir im Laufe des 19. Jahrhunderts auf den Katasterkarten, aber auch auf den militärischen Spezialkarten des 20. Jahrhunderts verfolgen. Mindestens 150 Jahre lang existiert eine Darstellung des Gebiets mit dem Namen Várhely. Der Name selbst signalisiert die Existenz einer Burg an dem genannten Ort. Heute deutet jedoch nichts mehr darauf hin, dass hier in der Vergangenheit eine Burg stand. Der Raum ist mit der Farm einer Landwirtschaftsgenossenschaft bebaut."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Stand hier wirklich eine Burg, oder handelt es sich nur um eine zufällige Benennung? Im Buch Osídlenie košickej kotliny des bekannten slowakischen Historikers Branislav Varsík erfahren wir zum Problem der Burg von Seňa die folgende Information (1. Band, S. 25). „Betrachten wir in dieser Hinsicht noch die nächste Umgebung von Abaujvár (Novum Castrum), das unter König Aba Samuel (1041–1044) schon als königliche Burg entstand, während die ältere slawische Stammesburg auf der anderen Seite des Hornád auf einer Erhebung nordöstlich von Seňa lag.“ An der Existenz der Burg zweifeln auch die Archäologen Bánesz und Lamiová nicht, sie situieren sie jedoch an eine andere Stelle als Varsík. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Archivdokumente sprechen eindeutig für die Existenz der Burg. Die erste schriftliche Erwähnung, die wir kennen, stammt aus dem Jahr 1255. König Béla IV. schenkt den Bewohnern von Seňa das Land Čaňa (Chon). In der Schenkungsurkunde beschreibt er, wie es damals Sitte war, die Grenzen des geschenkten Landes. Ein Teil der Grenze dieses Landes reichte an ein Gebiet, das Ówár (Alte Burg) genannt wurde. Eine weitere Erwähnung stammt aus dem Jahr 1317. Die Urkunde betrifft die Metation — die Festlegung der nördlichen Grenzen von Kechnec. Es geht also um die Gemarkungsgrenzen zwischen Seňa und Kechnec. Varsík gibt in dem bereits genannten Buch die Ergebnisse der Metation frei wieder: „Die nördlichen Grenzen der Gemarkung von Kechnec waren damals folgendermaßen bezeichnet: sie beginnen im Westen bei dem toten Arm des Flusses Ida, genannt Holtida (im Jahr 1251 wird bei der Beschreibung der Grenzen von Bočiar dieser Arm noch als Mortua aqua Ida, also noch mit slowakischem Namen, angeführt), und von dort verliefen sie nach Osten entlang des Weges, der bis heute besteht, bis zum Dorf Seňa selbst: am südlichen Rand des Dorfes Seňa überschritten die Grenzen die große Straße (es handelt sich um die große Straße, die von Süden nach Košice und weiter zur Torysa führte) und verliefen weiter nach Osten zum Belžanský potok (ad rivulum Belzepataka vocatum), und nach der Überschreitung dieses Baches kamen sie zur unteren Grenze der Burg namens Nagyowar (pervenit ad inferiorem finem castri Nagyowar dictum).“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Katasternamen, die sich auf die Burg beziehen, haben nicht nur in Seňa überlebt, sondern auch in den umliegenden Dörfern. In Kechnec nannte man die Felder, die an Várhely grenzten, Fidvár; es handelt sich wahrscheinlich um den ursprünglichen ungarischen Namen Földvár (Erdburg). In der Gemarkung der Nachbargemeinde Gyňov kommt der Ortsname Sárvár (Schlammburg) vor. Wir haben bereits erwähnt, dass die Ansichten der Fachleute hinsichtlich der genauen Lokalisierung und Größe der Burg von Seňa auseinandergehen. Varsík lokalisiert sie im Jahr 1951 auf „...einer ausgedehnten Erhebung inmitten der Ebene zwischen dem Belžanský potok und dem Flüsschen Szartos, beziehungsweise nach den Dörfern zwischen Belža und Gyňov. Diese Burg nimmt die ganze Erhebung ein, die sich über der Höhenlinie von 208 m über dem Meer ausbreitet, und ihre Länge, die sich von Norden nach Süden erstreckte, betrug bis zu 3–4 km, und von Westen nach Osten war sie über 1 km breit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Existenz dieser Burg und ihre Ausdehnung bestätigen uns schon die ältesten Urkunden, die dieses Land betreffen, in denen diese Burg bei den Beschreibungen der Grenzen von Čaňa und Felnémeti angeführt und bereits ungarisch als Óvár und Nagyóvár, also als Alte Burg und Große Alte Burg, genannt wird.“ Die nördliche Grenze der Burg lokalisiert Varsík auf Grundlage der genannten Schenkungsurkunde Bélas IV. aus dem Jahr 1255. „Er schenkt das Land Čaňa (Chon) den Gästen aus Seňa (de Scynna), und bei dieser Gelegenheit werden die Grenzen dieses Landes beschrieben, die im Südwesten bis zum oberen Teil jenes Ortes reichten, der Alte Burg (Ówár) genannt wird. Konkret wird hier angeführt, dass die Grenze des Landes Čaňa vom Fluss Szartos nach Süden zu einer großen Pappel verläuft und sich von dort bis zum südlichen Teil jenes Ortes erstreckt (die Grenze des Landes Čaňa verlief also nur bis zum Hang der Erhebung), der Ówár genannt wird. Es handelte sich hier um eine Stelle nordwestlich von Gyňov, wohin die Grenze von Čaňa an den Hang der ursprünglichen Alten Burg reichte.“ Den südlichen Teil der Burg verortet Varsík etwa 800 m nördlich des Bahnhofs von Seňa. Varsík stützte sich bei der Situierung der Burg auf Archivdokumente, die die Burg nicht direkt betrafen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall genau eingezeichnet auf der Karte der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert",
+    "alt": "Der Burgwall genau eingezeichnet auf der Karte der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen anderen Zugang wählten Mária Lamiová und Ladislav Bánesz. Sie gingen das Problem von archäologisch-topografischer Seite an. Ihre Schlussfolgerungen hinsichtlich der Situierung und der Größe der Burg sind abweichend. B. Varsík lokalisierte in seiner Studie Óvár als einen Hügel, der sich von Norden nach Süden über der Gemeinde Belža hinzieht und von den Bächen Szartos und Belžanský potok begrenzt wird. Es ist eine Stelle, die auf den ersten Blick als die strategisch bedeutendste der Umgebung erscheint und daher natürlich den Eindruck erweckt, die Burg habe an dieser Stelle stehen müssen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei den archäologischen Begehungen in der Gemarkung von Seňa wurde jedoch festgestellt, dass es auf dem Hügel selbst keine Spuren eines Burgwalls gibt. Es gelang hier aber nur, Spuren einer älteren urgeschichtlichen Besiedlung zu finden, ohne Reste einer Befestigung. An den Stellen also, wohin Varsík die Burg verlegte, fanden sich keine materiellen Beweise. Wo lag demnach die Große Alte Burg? Beim Studium der Dokumente stießen wir auf eine militärische Spezialkarte des Generalstabs der österreichisch-ungarischen Armee aus dem vorigen Jahrhundert. Auf der Karte lässt sich eine Geländeerhebung entlang des Weges Belžanský potok — Bahnhof verfolgen. Eine Besonderheit ist, dass auf der Karte ein rechtwinkliger Abschluss der Erhebung zu beobachten ist. Weiter südlich, etwa 800 m, ist auf der Karte eine weitere Geländeerhebung dargestellt, parallel zur vorhergehenden. Wir nahmen an, dass es sich um die Reste der Wälle der Großen Alten Burg handelt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Annahme wurde durch die Publikation von G. Györffy Az árpád-kori Magyarország történeti földrajza gestützt. Im Zusammenhang mit der Alten Großen Burg beruft er sich ebenfalls auf Karten der Jahre 1880–91, auf denen die Wälle in Form eines Quadrats dargestellt sind. Wollten wir genauer sein als Györffy, so handelt es sich eher um ein Trapez, das den gegebenen natürlichen Bedingungen angepasst ist. Nach der Vermessung von Lamiová zieht sich seine Nordseite etwa entlang des Weges Belžanský potok — Bahnhof hin, sie ist etwa 670 m lang, der Abstand zwischen den Wällen Nord–Süd beträgt 870 m. Die Länge des Walls im Süden liegt bei etwa 450 m. Die Breite der Wälle gibt sie mit 9–10 m und die Höhe mit 1 m an. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute existieren die Wälle nicht einmal mehr in der Gestalt, in der sie vor mehr als vierzig Jahren beschrieben wurde. Bei Bauarbeiten im Jahr 1962 wurde der nördliche Teil des Walls mit einem Bulldozer plattgedrückt. Der südliche Teil des Walls verschmolz infolge der intensiven Bodenbearbeitung mit dem Gelände. Der östliche Wall ist auf der genannten Karte teilweise angedeutet. Vom westlichen Wall findet sich weder auf der Karte noch im Gelände eine Spur. Wir meinen, dass wir auf Grundlage unserer Recherche in den Dokumenten die Hypothese von Lamiová gegenüber der von Varsík eindeutig bestätigen können. Im Hadtörténeti múzeum (Militärhistorisches Museum) in Budapest gelang es uns, eine Karte von Seňa und Umgebung aus dem Jahr 1784 zu entdecken, auf der die Wälle der Großen Alten Burg vollständig an jener Stelle dargestellt sind, an der sie Lamiová situiert. Wir kennen den genauen Zeitraum der Entstehung der Großen Alten Burg in Seňa nicht. Wir haben jedoch relativ genaue Nachrichten über die Gründung der Neuen Burg in Abaujvár. Die Neue Burg wurde vor dem Thronantritt König Samuel Abas (1041–1044) gegründet. Wahrscheinlich geschah dies nach dem Tod König Stephans I. (1038). Die Alte Große Burg war in jener Zeit offenbar schon nicht mehr nutzbar und aus militärischer Sicht veraltet. "
+       },
+       {
+        "type": "text",
+        "text": "Varsík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " datiert die Entstehungszeit der Alten Großen Burg ebenfalls nicht. Eindeutig "
+       },
+       {
+        "type": "text",
+        "text": "spricht er jedoch von einer altslawischen Stammesburg, die das Zentrum eines weiten Landes war. Die Entstehung der Burg können wir also vor das 10. Jahrhundert verlegen. Dabei betrachten wir das 9. und den Anfang des 10. Jahrhunderts als obere Zeitgrenze der Gründung der Burg. Als untere Zeitgrenze können wir das 7.–8. Jahrhundert ansehen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Ständige befestigte Orte entstehen nämlich erst in der Zeit, in der wir von einer dauerhaften Ansiedlung der Bevölkerung sprechen können, und nicht in der Völkerwanderungszeit. Ständige befestigte Orte entstanden erst, nachdem man sich des Eigentums an einem bestimmten Gebiet bewusst geworden war und die Bevölkerung in diesem Gebiet verankert war. Zum Bau der Burg konnte man erst dann schreiten, als ein Teil der Bevölkerung nicht mehr unmittelbar an der Bodenbearbeitung teilnehmen musste. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Vorstellungen von Burgen sind auf Grundlage der Kenntnis jener Burgen entstanden, die nach dem 13. Jahrhundert erbaut wurden. Die Große Alte Burg war grundlegend anders. Miloš Šolle führt in seinem Buch Staroslovanské hradisko die Nachricht des jüdischen Kaufmanns und Reisenden Ibrahim ibn Jakub an, der die slawischen Gebiete im 10. Jahrhundert besuchte und die Art beschrieb, in der die Slawen ihre Burgen bauten. Der Kaufmann und Reisende schreibt Folgendes: „Die meisten ihrer Burgen bauen die Slawen so: Sie gehen auf Wiesen, die reich an Wasser und Gebüsch sind, bezeichnen mit Pflöcken einen runden oder rechtwinkligen Platz in der Gestalt und Ausdehnung der Burg, die sie zu errichten beabsichtigen, graben ringsherum einen Graben und schütten die ausgegrabene Erde auf, wobei sie sie mit Zäunen und Pfosten nach Art von Basteien festigen, bis die Mauer die gewünschte Höhe erreicht. Auf jener Seite, auf der sie den Eingang in die Burg haben wollen, vermessen sie das Burgtor, und dort geht man dann über eine hölzerne Brücke in die Burg ein und aus.“ Das angeführte Zitat ist eigentlich das Grundschema des Burgbaus in der Niederung, und wir können daher annehmen, dass auf ähnliche Weise auch die Burg von Seňa erbaut wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In erster Linie wurden also die Gräben ausgehoben, aus der gewonnenen Erde wurde die Mauer aufgeschüttet. In der klassischen Burgwallzeit, in die wir wahrscheinlich auch die Große Alte Burg einordnen können, baute man zwei Arten von Mauern — Holz-Erde-Mauern ohne Steinfront oder Holz-Erde-Mauern mit Steinfront. Da in Seňa und auch in ihrer näheren Umgebung keine Steine größeren Gewichts vorkommen, lässt sich annehmen, dass die Burg Mauern aus Holz und Erde ohne Steinfront hatte. Die Mauern hatten die beachtliche Breite von 9–10 Metern. Wir kennen die genaue Höhe der Mauern nicht, aber schon aus der Breite selbst lässt sich schließen, dass sie mindestens 4–5 m erreichten. Damit die Mauer ihre Form und Festigkeit behielt und den Witterungseinflüssen nicht schnell erlag, war es notwendig, die Technik von Wällen in Rost- oder Kastenkonstruktion anzuwenden. Die Balken wurden quer auf die Mauer gelegt und bildeten eine Art Rost, der mit Erde zugeschüttet wurde. Wenn aus den Balken sogenannte Kammern gebildet und diese mit Erde gefüllt wurden, sprechen wir von einem Kastentyp der Befestigung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Sicht der Verteidigung war die Burg an einem sehr guten Ort platziert. Von der östlichen Seite floss an ihr das Flüsschen Szartos vorbei und von der westlichen Seite der Belžanský potok. Es ist unstrittig, dass diese beiden Wasserläufe für die Verteidigungszwecke der Burg genutzt wurden. Fast mit Sicherheit lässt sich behaupten, dass die Gräben der Burg von der östlichen, der westlichen, aber auch von der südlichen Seite mit Wasser gefüllt waren. Angesichts der Geländeüberhöhung konnten die Gräben von der nördlichen Seite nicht mit Wasser gefüllt werden, weshalb wir hier die stärksten Burgmauern vermuten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Bewohner der Burg und ihre Zahl haben sich keine Schriftdokumente erhalten. Aus der Ausdehnung der Mauern, aus ihrer Gesamtlänge können wir zu bestimmten Schlussfolgerungen über die Zahl der Bewohner der Burg kommen. Bei der Verteidigung der Burgmauern musste man mit einem Mann je 5-Meter-Abschnitt rechnen. Wäre die Verteidigung dünner gewesen, hätte der Feind die Burg relativ leicht einnehmen können, auch wenn wir die Möglichkeit einer Umgruppierung an die Stellen des heftigsten Angriffs und an die schwächsten Stellen der Verteidigung, nämlich die Eingänge und Tore, annehmen. Die vermutete Länge der Mauern betrug 2860 Meter. Für eine so lange Burgmauer war es notwendig, im Falle eines Kampfes mindestens 500–600 Krieger aufzustellen. Die Gesamtzahl der Bewohner war jedoch bedeutend höher. Zur Zahl der Krieger muss man mindestens das Dreifache an nicht kämpfenden Frauen, Kindern und Greisen hinzurechnen. So kommen wir auf eine Zahl von etwa 2000 Bewohnern der Burg. Die Zahl der Bewohner der Burg war in Friedenszeiten bedeutend niedriger. Eine langfristige Konzentration einer großen Menge von Bewohnern auf einem halben Quadratkilometer hätte notwendigerweise zu einem Mangel an Fläche für den Bau von Wohn- und Wirtschaftsräumen geführt. In Zeiten der Gefahr suchten die Bewohner nämlich nicht nur ihre eigene Rettung, sondern auch die Rettung ihres beweglichen Besitzes und ihrer Nutztiere. Wir können also schließen, dass die Burg eine ständige Besatzung aus einer kleineren Zahl von Kriegern hatte und dass in Zeiten der Gefahr die Zahl der Krieger aus jenen Männern ergänzt wurde, die sich aus den umliegenden Siedlungen hinter den Mauern der Burg verbargen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Varsík betrachtet die Große Alte Burg als zentrale Burg eines weiten Umlands. Er bringt sie in Zusammenhang mit den befestigten Orten in Barca, die dem Vordringen der Feinde von Norden über den Hauptweg des Kaschauer Beckens wehren sollten. Es ist anzumerken, dass die Große Straße (wir schreiben über sie in einem anderen Kapitel) bis zur Entstehung der Neuen Burg (Abaujvár) auf der rechten Seite des Hornád lag. Eine ähnliche Rolle wie Barca spielte im Süden die Befestigung in Garadna. Nach Varsík soll darauf schon der Name Garadna (Hradná?) und der Ortsname Sárvár (Schlammburg) hindeuten. Nach dem Bau der Neuen Burg (Ujvár — Abaujvár) übernimmt gerade diese Burg von der Großen Alten Burg die Funktion der zentralen Burg. Sie wird zum administrativen und politischen Zentrum des Komitats. In der frühen Geschichte des Königreichs Ungarn macht sie mehrfach auf sich aufmerksam, sei es im Zusammenhang mit König Samuel Aba oder mit den Fürsten Andreas und Levente. Diese historischen Ereignisse haben jedoch keinen direkten Zusammenhang mehr mit der Großen Alten Burg.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Seňa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

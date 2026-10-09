@@ -1,0 +1,325 @@
+{
+ "slug": "hradisko-nitrianska-blatnica-rotunda-blatnicky-durko",
+ "data": {
+  "title": "Nitrianska Blatnica – die großmährische Rotunde Blatnický Ďurko",
+  "slug": "nitrianska-blatnica-rotunde-blatnicky-durko",
+  "excerpt": "6 km östlich des Herrenhofs in Ducové steht im Waldgürtel des Marhát-Massivs in 450 m ü. M. das Kirchlein des hl. Georg, örtlich Blatnický Ďurko genannt. Die Ausgrabung zeigte, dass es bereits im Frühmittelalter entstand: das kreisförmige Schiff mit hufeisenförmiger Apsis hat zentimetergenau dieselben Ausmaße wie die Rotunde in Ducové. Zur Fundstelle gehören zwei Herrenhöfe, eine kleine Siedlung von Bergleuten und ein Kirchhof mit über 120 Gräbern.",
+  "metaTitle": "Nitrianska Blatnica – die Rotunde Blatnický Ďurko",
+  "metaDescription": "Das Kirchlein des hl. Georg im Marhát-Massiv hat frühmittelalterlichen Ursprung — eines der ältesten stehenden Bauwerke und bis heute ein Wallfahrtsort.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "6 km östlich des Herrenhofs in Ducové, im Waldgürtel des Marhát-Massivs in 450 m ü. M., fast 5 km von Nitrianska Blatnica",
+    "icon": "mountain"
+   },
+   {
+    "label": "Rotunde Blatnický Ďurko",
+    "value": "Kreisförmiges Schiff mit hufeisenförmiger Apsis, Innendurchmesser 730 cm, Mauerdicke 73 cm — dieselben Ausmaße wie die Rotunde in Ducové",
+    "icon": "building"
+   },
+   {
+    "label": "Herrenhof — ältere Phase",
+    "value": "Unregelmäßiger quadratischer Grundriss, von Palisaden umgeben, Fläche um 9000 m²",
+    "icon": "shield"
+   },
+   {
+    "label": "Herrenhof — jüngere Phase",
+    "value": "Wesentlich kleiner, etwa 3500 m², offenbar mit wirtschaftlicher Funktion (Ausbeutung der nahe gelegenen Eisenerzlagerstätte)",
+    "icon": "shield"
+   },
+   {
+    "label": "Friedhof bei der Rotunde",
+    "value": "Über 120 Gräber aus dem 11. bis zur Mitte des 13. Jahrhunderts, deutlich überwiegen Männerskelette — ein Zeugnis einer Bergmannspopulation",
+    "icon": "users"
+   },
+   {
+    "label": "Eisenerzabbau",
+    "value": "Im Waldgürtel der Gemarkungen von Nitrianska Blatnica und Vozokany eine Reihe von Schurfgruben und Pingen, die größte mit einem Durchmesser bis 20 m und einer Tiefe von etwa 8 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Forscher",
+    "value": "Die Fundstelle untersuchte Alexander Ruttkay — derselbe, der auch Kostolec (Ducové) untersuchte",
+    "icon": "scroll"
+   },
+   {
+    "label": "Heute",
+    "value": "Traditioneller Wallfahrtsort; am Georgstag wird im Kirchlein noch heute die Messe gelesen",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Entstehung des älteren Herrenhofs",
+    "description": "Der ältere Herrenhof bei Nitrianska Blatnica entstand im 9. Jahrhundert, teilweise gleichzeitig mit dem Herrenhof in Ducové.",
+    "type": "founding"
+   },
+   {
+    "year": "Zeit Svatopluks (9. Jahrhundert)",
+    "title": "Errichtung der Rotunde Blatnický Ďurko",
+    "description": "Eine Rotunde mit denselben Ausmaßen wie das Kirchlein in Ducové (Innendurchmesser 730 cm, Mauerdicke 73 cm) — beide mit dem langobardischen Fuß (36,5 cm) vermessen, so wie die zweiapsidiale Rotunde in Mikulčice.",
+    "type": "construction"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Entstehung des jüngeren, kleineren Herrenhofs",
+    "description": "Ein zweiter Herrenhof mit einer Fläche von etwa 3500 m² (gegenüber 9000 m² der älteren Phase), offenbar mit wirtschaftlicher Funktion im Zusammenhang mit dem Eisenerzabbau.",
+    "type": "construction"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Untergang des jüngeren Herrenhofs, Entstehung einer kleinen Siedlung",
+    "description": "Nach dem Untergang des Herrenhofs entstand hier eine kleine Siedlung mit Behausungen in Blockbauweise, äußeren Öfen und Teergruben; um die Rotunde entstand ein Kirchhof.",
+    "type": "event"
+   },
+   {
+    "year": "1185",
+    "title": "Urkunde König Bélas III.",
+    "description": "Sie erwähnt Stojislav, dessen Mutter der König für die Heldentat des Sohnes im Kampf die Besitzungen namens Sárfew (Blatnica) zur lebenslangen Nutzung verlieh.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 13. Jahrhunderts",
+    "title": "Untergang der Siedlung und der Funktion der Rotunde",
+    "description": "Auch die ursprüngliche Funktion der Rotunde ging unter; etwa in dieser Zeit gingen einige weitere Siedlungen der Umgebung unter, deren Felder mit Wald zuwuchsen.",
+    "type": "destruction"
+   },
+   {
+    "year": "1530",
+    "title": "Erneuerung des Kirchleins durch Anna Thurzo",
+    "description": "Das Kirchlein ließ Anna Thurzo zum Gedenken an ihren Ehemann Franz, der bei Mohács fiel, aus den Ruinen neu erbauen.",
+    "type": "event"
+   },
+   {
+    "year": "1974, 1976–1980",
+    "title": "Archäologische Ausgrabung",
+    "description": "Geländebegehungen und die Ausgrabung bestätigten, dass die Kirche des hl. Georg bereits im Frühmittelalter entstand, mit Ausmaßen, die mit der Rotunde in Ducové identisch sind.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6372,
+    "alt": "Gemalte Rekonstruktion der weißen Rotunde mit rundem Schiff und Apsis in der Landschaft"
+   },
+   {
+    "mediaId": 1176,
+    "caption": "Blick auf das Kirchlein in der Zeit um die 1920er–1930er Jahre. Beim Kirchlein stand in jener Zeit noch das Gebäude des alten Forsthauses und einer ursprünglich kirchlichen Schule für Adelskinder. Auf der Fotografie ist gut die Anhöhe zu sehen, auf der ursprünglich der Herrenhof stand, zu dem auch die Rotunde gehörte, ähnlich wie es in Ducové war (Archiv von Ladislav Banák)",
+    "alt": "Blick auf das Kirchlein in der Zeit um die 1920er–1930er Jahre"
+   },
+   {
+    "mediaId": 1178,
+    "caption": "Funde aus der großmährischen Zeit bei der Kirche",
+    "alt": "Funde aus der großmährischen Zeit bei der Kirche"
+   },
+   {
+    "mediaId": 1189,
+    "caption": "(Archiv von Ladislav Banák)",
+    "alt": "(Archiv von Ladislav Banák)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Abstand von 6 km östlich vom Herrenhof in Ducové, schon auf der dem Neutratal zugewandten Seite des Marhát-Massivs, im Waldgürtel in einer Höhe von 450 m ü. M., fast 5 km von Nitrianska Blatnica entfernt, steht das Kirchlein des hl. Georg, ein traditioneller Wallfahrtsort der Bewohner aus den umliegenden Teilen des Waagtals und des Neutratals. \n \n"
+       },
+       {
+        "type": "text",
+        "text": "\n \n Nach den Schriftquellen, auf die sich die ältere Literatur stützt, ließ das Kirchlein im Jahr 1530 Anna Thurzo zum Gedenken an ihren Ehemann Franz, der bei Mohács fiel, aus den Ruinen neu erbauen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Geländebegehungen und die anschließende archäologische Ausgrabung, die hier in den Jahren 1974, 1976–1980 stattfand, zeigten, dass die Kirche des hl. Georg bereits im Frühmittelalter entstand und dass die Breite der Mauern, das kreisförmige Schiff und die hufeisenförmige Apsis in ihren Ausmaßen völlig mit der Rotunde in Ducové übereinstimmen. Das Kirchlein mit der örtlichen Bezeichnung Jurko hatte zwei mittelalterliche Phasen — eine vorromanische und eine romanische. Um das Jahr 1530 fand hier die in den Urkunden erwähnte Instandsetzung und die Renaissance-Einwölbung des altertümlichen Baus statt, der schon längere Zeit in Ruinen lag. Das heutige Aussehen des Kirchleins mit dem Turm und der sogenannten Einsiedelei entspricht den Umbauten in der Mitte des 17. Jahrhunderts. Durch die genannten Umbauten blieb die Kirche als solche zwar bis in die heutigen Tage erhalten, ihr Aussehen ist jedoch, besonders was den oberen Teil betrifft, wesentlich anders als der ursprüngliche großmährische Bau. Diese Umbauten und das heutige Aussehen erwecken daher nicht ein so starkes Gefühl von Altertümlichkeit wie es bei der Kirche der hl. Margareta in Kopčany der Fall ist. Trotz der späteren Umbauten handelt es sich aber immer noch um ein ursprünglich großmährisches Kirchlein.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf das Kirchlein in der Zeit um die 1920er–1930er Jahre. Beim Kirchlein stand in jener Zeit noch das Gebäude des alten Forsthauses und einer ursprünglich kirchlichen Schule für Adelskinder. Auf der Fotografie ist gut die Anhöhe zu sehen, auf der ursprünglich der Herrenhof stand, zu dem auch die Rotunde gehörte, ähnlich wie es in Ducové war (Archiv von Ladislav Banák)",
+    "alt": "Blick auf das Kirchlein in der Zeit um die 1920er–1930er Jahre",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pavel Dvořák führt im Buch Stopy dávnej minulosti 3 an, dass \"das Kirchlein des heiligen Georg Fundamente hat, die — zentimetergenau — ebenso groß sind wie das großmährische Kirchlein in Ducové, das nur sieben Kilometer entfernt ist, auf dem Weg zwischen den Bergrücken. Ďurko und Kostolec liegen also an dem Weg, der Mikulčice und Nitra (Neutra) verband. Es war ein Glück, dass Kostolec und Nitrianska Blatnica denselben Forscher hatten, Alexander Ruttkay, denn es ist schwer zu sagen, ob jemand anderer bemerkt hätte, dass die Innendurchmesser beider Rotunden (730 Zentimeter) und die Dicke ihrer Mauern (73 Zentimeter) identisch sind. Alle Ausmaße sind von einem Grundlängenmaß abgeleitet — 36,5 Zentimeter, vom sogenannten langobardischen Fuß (beide Rotunden haben auch identische Baumaße, von außen messen sie über 12,2 Meter, von innen fast 11 Meter). Mit ihm vermaß man auch eine weitere großmährische Kirche, die zweiapsidiale Rotunde in Mikulčice. Im Jahr 1975 begann man, die Umgebung und die Architektur der Kapelle freizulegen. Es zeigte sich, dass in den alten Mauern der älteste Teil des Baus zuverlässig zu erkennen ist: die kreisförmige Rotunde und die hufeisenförmige Apsis. Sie hatte außergewöhnlich flache Fundamente, 20–30 cm tief, aber stellenweise auf den Felsuntergrund gestützt. Die ursprünglichen Mauern aus flachen, mit Mörtel verbundenen Steinen reichten etwa bis in Meterhöhe. Das hinzugefügte Mauerwerk, durch eine klar sichtbare Zäsur getrennt, sah völlig anders aus.\" Blatnický Ďurko wurde offenbar in denselben Zeiten erbaut wie die Rotunde in Ducové oder die zweiapsidiale Rotunde in Mikulčice. Alle drei Bauten gehören in die Zeiten Svatopluks und haben identische Ausmaße. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitrianska Blatnica – die Rotunde Blatnický Ďurko",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alexander Ruttkay führt in seinem Artikel VÝZNAMNÉ ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA an, dass \"nach den Ergebnissen der archäologischen Ausgrabung die Rotunde des hl. Georg Bestandteil eines frühmittelalterlichen Herrenhofs war. Sie war jedoch im Rahmen eines selbständigen Sitzes auf einem kleinen Sporn über dem eigentlichen Areal des Herrenhofs situiert. Von dem vermuteten Sitz bei der Rotunde wurde in dem Gelände, das durch den Bau der Schule — im 19. Jahrhundert in ein Forsthaus umgewandelt — berührt war, nur ein Fragment eines in den Felsuntergrund eingetieften Objekts festgestellt, und es fanden sich dort Keramikfragmente aus dem 9.–10. Jahrhundert. Auf dem kleinen Friedhof bei der Rotunde lagen auch Knochen aus gestörten Gräbern aus der Zeit vor dem 11. Jahrhundert; in der Nähe des Eingangs auf der Westseite des Schiffes fand sich beispielsweise auch ein großer Schlüssel, der zur frühmittelalterlichen Phase der Rotunde gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Herrenhof",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " befand sich unterhalb des Sporns mit der Rotunde auf der Ebene Púšť. Die Ausgrabung konnte sich nur auf einen kleinen Teil des Raumes des Herrenhofs richten. Man kann jedoch feststellen, dass auf den untersuchten Flächen der Wiese, unter der einst ein kleiner Bach floss, in der Vergangenheit die Mehrzahl der ebenerdigen Objekte durch den Pflug zerstört wurde. Der Umfang und die chronologischen Beziehungen des Herrenhofs ließen sich hauptsächlich anhand des Verlaufs der in den Felsuntergrund eingetieften Palisadengräbchen verfolgen, und die Siedlungsbebauung mit ebenerdigen Behausungen zeigten nur noch Steine von Öfen und Scherbenmaterial an. Der Herrenhof hat zwei chronologische Phasen. In beiden Fällen handelt es sich um einen unregelmäßigen quadratischen Grundriss eines von Palisaden umgebenen Raumes. Die ältere Phase hatte eine Fläche von etwa 9000 m², die jüngere war wesentlich kleiner, etwa 3500 m². Der Herrenhof konnte im Unterschied zum Herrenhof in Ducové vor allem eine betonte wirtschaftliche Funktion haben, die offenbar mit der Ausbeutung der nahe gelegenen Eisenerzlagerstätte verbunden war. Die Kenntnisse über beide Phasen des Herrenhofs und ihre Anbindung an die Verkehrswege vom Neutratal in das Waagtal werden sich vor allem durch eine Ausgrabung auf der Südseite der Wiese Púšť erweitern lassen, die sich an den Weg zum Pass Gajda (602 m ü. M.) südlich des Marhát anschmiegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Funde aus der großmährischen Zeit bei der Kirche",
+    "alt": "Funde aus der großmährischen Zeit bei der Kirche",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entwicklung bei Nitrianska Blatnica spiegelt sich in der Feststellung zweier asynchroner Herrenhöfe. Der ältere Herrenhof entstand bereits im 9. Jahrhundert. Er war also teilweise gleichzeitig mit dem Herrenhof in Ducové. Der zweite (kleinere) Herrenhof ist jünger, er gehört in das 10.–11. Jahrhundert. Im Laufe des 11. Jahrhunderts, nach dem Untergang des jüngeren Herrenhofs, entstand hier eine kleine Siedlung. Die Objekte, die mit ihr zusammenhängen, ließen sich nur in einer Geländedepression in der Nähe des einstigen Baches erkennen. Festgestellt wurden Spuren ebenerdiger, wohl in Blockbauweise errichteter Behausungen, äußere Öfen und Teergruben. Einen romanischen Umbau erfuhr die wahrscheinlich schon vorher beschädigte Rotunde. Vom 11. bis zur Mitte des 13. Jahrhunderts lag um sie ein Kirchhof, der vollständig untersucht wurde. Von den über 120 Gräbern, die von einer wenig zahlreichen bestatteten Population zeugen, überwiegen deutlich die Skelette von Männern. Die Geschlechterasymmetrie der Population ist insgesamt ungewöhnlich, sie zeugt von Besonderheiten der Lebensweise.\" Die Entstehung, das Leben und der Untergang der nicht großen Siedlung hingen offenbar mit der Eisenerzquelle zusammen, und die Anwesenheit von Bergleuten erklärt die geringe Zahl von Frauengräbern bei der Kapelle: der Erzabbau war Männerarbeit. Auf den einstigen Erzabbau an den Osthängen des Marhát wiesen zuerst Geologen hin. Im Gelände wurde im Waldgürtel in den Gemarkungen von Nitrianska Blatnica und Vozokany eine ganze Reihe von Vertiefungen und Erhebungen festgestellt, die man für Schurfgruben und Pingen halten kann. Die wohl größte von ihnen hat einen Durchmesser von bis zu 20 m und eine Tiefe von etwa 8 m. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitrianska Blatnica – die Rotunde Blatnický Ďurko",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "1j0X6f0ekS4",
+    "url": "https://www.youtube.com/embed/1j0X6f0ekS4",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ruttkay fährt weiter fort: \"Der Untergang der Siedlung und der ursprünglichen Funktion der Rotunde trat spätestens um die Mitte des 13. Jahrhunderts ein. Etwa in dieser Zeit gingen auch einige andere Siedlungen unter, und der teilweise kultivierte Boden wuchs mit Wald zu. Davon zeugen erhaltene Ackerfluren und Wegeeinschnitte im Waldgürtel sowie eine ganze Reihe wahrscheinlicher Namen dieser Siedlungen in den Grenzbeschreibungen (Metationen) von Radošina und Nitrianska Blatnica aus dem 14. und 15. Jahrhundert. Es sind zum Beispiel die Namen Prylecz, Prynyoa, Dehchyche, Lwsne, Grechyk, Stopparcz.\" "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine interessante Sache im Zusammenhang mit der Kirche und ihrer Umgebung schreibt Dvořák: \"Es gibt eine Information in der Urkunde König Bélas III. aus dem Jahr 1185, die zwar weniger zuverlässig, aber um so interessanter ist, denn in ihr wird ein gewisser Stojislav erwähnt, der im Kampf so schwere Wunden erlitt, dass der König nach seinem Tod Stojislavs Mutter als Belohnung für die Heldentat des Sohnes die ausgedehnten Besitzungen ihres Sohnes zur lebenslangen Nutzung gab. Das war keine gängige Praxis, Frauen wurden keine Besitzungen verliehen, als Belohnung erhielten sie die Krieger, und wenn es keinen männlichen Nachkommen gab, fielen sie an den König zurück. Es ist schwer zu sagen, was konkret Béla III. zu diesem wenig gewöhnlichen Schritt führte, wichtig ist jedoch, dass die erwähnten Besitzungen Sárfew, also Blatnica, hießen und Stojislav ein slawischer Name ist. Es ist wirklich eine ungewöhnliche Situation, wenn ein Adliger aus Blatnica mit slawischem Namen zwei Jahrhunderte nach dem Untergang Großmährens sein Leben für den König lässt und der König sich auf solche Weise bedankt. Es ist schwer zu sagen, ob das Zufall ist oder ein Stück bemerkenswerter Geschichte. Schriftliche Zeugnisse sind wenige vorhanden, die Volkstradition ist umgekehrt sehr lebendig. Am Georgstag wird in der Kirche noch heute die Messe gelesen, das Kirchlein ist seit unvordenklichen Zeiten ein Wallfahrtsort, in der Zwischenkriegsrepublik fanden hier Märkte statt, und zum Beispiel im Jahr 1935 sollen hierher sogar vierzigtausend Wallfahrer gekommen sein. An diesem Ort war etwas längst Vergessenes, die Tradition erinnert nur daran, dass es kein gewöhnliches Kirchlein ist, wusste sich damit aber nicht zu helfen.\" "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitrianska Blatnica – die Rotunde Blatnický Ďurko",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

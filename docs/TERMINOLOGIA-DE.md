@@ -674,6 +674,11 @@ v básni je v poriadku, hoci web inak vyká.
 | marikovská dolina | das Tal von Mariková | |
 | živá história (podujatie) | **Living History** | ustálené aj v nemčine |
 
+**Preverená výnimka z §11.9.** V článku o Blatnohrade stojí nápis z pamätnej
+tabule z roku 1990: *„Dem slowakischen Fürsten Pribina"*. Je to citát novodobej
+tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási; je to
+jediný preverený výskyt a nie je to chyba.
+
 **Názvy kníh a časopisov združenia** sa NEPREKLADAJÚ — *Veľkomoravské
 hradiská*, *Digitálne hradiská*, *Oživená archeológia*. Pri prvom výskyte sa
 smie pridať glosa v zátvorke, ale názov ostáva slovenský; je to meno diela,

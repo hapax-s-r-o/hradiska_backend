@@ -1,0 +1,260 @@
+{
+ "slug": "novohrad-nograd-h",
+ "data": {
+  "title": "Novohrad (Nógrád) – slawischer Burgwall und Komitatsburg (H)",
+  "slug": "novohrad-nograd-burgwall-komitatsburg",
+  "excerpt": "Über dem Dorf Nógrád in Ungarn erhebt sich ein freistehender Hügel vulkanischen Ursprungs, der an einen riesigen Brotlaib erinnert. In der Völkerwanderungszeit fanden die Slawen hier ältere Wehrwälle vor, erneuerten sie und schufen so die „Neue Burg“ – Novigrad. Von ihr erhielt später das ganze Komitat Neograd seinen Namen. Die mittelalterliche Burg zerrüttete 1685 eine Schießpulverexplosion, 1709 wurde sie endgültig niedergelegt.",
+  "metaTitle": "Novohrad (Nógrád) – slawischer Burgwall und Komitatsburg",
+  "metaDescription": "Auf einem Vulkanhügel über Nógrád erneuerten die Slawen ältere Wälle und schufen die „Neue Burg“ – Novigrad, die dem Komitat Neograd den Namen gab.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Freistehender Hügel vulkanischen Ursprungs über dem Dorf Nógrád (Ungarn), Höhe 286 m ü. M., relative Höhe 50–60 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "Slawische „Neue Burg“ (Novigrad) — bis heute erhalten im ungarischen Namen Nógrád wie auch in der Bezeichnung des Komitats Neograd (Nógrád)",
+    "icon": "crown"
+   },
+   {
+    "label": "Äußere Burg",
+    "value": "Unregelmäßige Form, Ausmaße etwa 140 × 90 m, geschützt durch drei große, mit Erde verfüllte Basteien italienischen Typs",
+    "icon": "shield"
+   },
+   {
+    "label": "Innere Burg",
+    "value": "Von der äußeren durch einen 30 Fuß breiten und tiefen, in den Felsen gehauenen Graben getrennt; sie enthielt einen Palast, einen Turm und einen in den Felsen gemeißelten Brunnen",
+    "icon": "building"
+   },
+   {
+    "label": "Schicksal in osmanischer Zeit",
+    "value": "Die Burg geriet zweimal in die Hände der Türken; 1685 zerstörte sie eine Schießpulverexplosion nach einem Blitzeinschlag",
+    "icon": "star"
+   },
+   {
+    "label": "Bearbeitung",
+    "value": "Bearbeitet von: Kvetka",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Völkerwanderungszeit",
+    "title": "Ältere primitive Wehrwälle",
+    "description": "Die Slawen fanden auf dem Hügel eine bereits bestehende ältere Befestigung vor, die sie erneuerten und verbesserten, womit sie die Neue Burg (Novigrad) errichteten.",
+    "type": "founding"
+   },
+   {
+    "year": "Wende vom 9. zum 10. Jahrhundert",
+    "title": "Der slawische Burgwall Novohrad",
+    "description": "Mächtige Wallbefestigung mit hölzerner, mit Erde verfüllter Kastenkonstruktion; Verwaltungszentrum an der Spitze mit einem Gespan.",
+    "type": "construction"
+   },
+   {
+    "year": "1299",
+    "title": "Stiftungsurkunde des Budaer Kapitels",
+    "description": "Sie bezeichnet die Burg als „Castrum Novigrad“; die Chronik des Anonymus erwähnt sie als „Castrum Nougrad“.",
+    "type": "event"
+   },
+   {
+    "year": "nach der Ankunft der Altungarn",
+    "title": "Entstehung des Komitats Neograd",
+    "description": "Aus dem Burgwall wurde eine Komitatsburg, nach der das Komitat Neograd (Nógrád) benannt wurde.",
+    "type": "event"
+   },
+   {
+    "year": "1475–1506",
+    "title": "Umbau durch Bischof Nikolaus Báthori",
+    "description": "Nach den Plänen eines italienischen Architekten entstand die innere Burg, von der äußeren durch einen in den Felsen gehauenen Graben getrennt; die äußere Burg schützten drei große italienische Basteien.",
+    "type": "construction"
+   },
+   {
+    "year": "1685",
+    "title": "Explosion des Schießpulvers",
+    "description": "In den Turm, in dem Schießpulver gelagert wurde, schlug ein Blitz ein; die Explosion zerrüttete die innere Burg so stark, dass die Türken sie verlassen mussten.",
+    "type": "destruction"
+   },
+   {
+    "year": "1709",
+    "title": "Endgültige Zerstörung der Burg",
+    "description": "Die Trümmer der Burg zerstörten zunächst die Kuruzen und anschließend auch die Labanzen gründlich, damit der Gegner keinen Nutzen von ihr hätte.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6369,
+    "alt": "Die Burgruine auf einem Felsen über dem Dorf und einem Getreidefeld"
+   },
+   {
+    "mediaId": 531,
+    "caption": "Auf der Karte aus dem Jahr 1739 sehen wir noch den slowakischen Namen Novigrad",
+    "alt": "Auf der Karte aus dem Jahr 1739 sehen wir noch den slowakischen Namen Novigrad"
+   },
+   {
+    "mediaId": 532,
+    "caption": "2. militärische Landesaufnahme – hier haben wir die lateinische Form des Namens und seine ungarische Version",
+    "alt": "2. militärische Landesaufnahme – hier haben wir die lateinische Form des Namens und seine ungarische Version"
+   },
+   {
+    "mediaId": 533,
+    "caption": "Abb. 1",
+    "alt": "Abb. 1"
+   },
+   {
+    "mediaId": 534,
+    "caption": "Abb. 2",
+    "alt": "Abb. 2"
+   },
+   {
+    "mediaId": 535,
+    "caption": "Abb. 3",
+    "alt": "Abb. 3"
+   },
+   {
+    "mediaId": 536,
+    "caption": "Abb. 4",
+    "alt": "Abb. 4"
+   },
+   {
+    "mediaId": 537,
+    "caption": "Abb. 5",
+    "alt": "Abb. 5"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über dem Dorf Nógrád (Ungarn) erhebt sich ein freistehender Hügel vulkanischen Ursprungs, der an einen riesigen Brotlaib erinnert und auf dem die Ruinen einer mittelalterlichen Burg gut zu erkennen sind. Die Höhe des Hügels beträgt 286 m ü. M., seine relative Höhe etwa 50–60 m, die ringsum abgerundeten Hänge sind sehr steil – kurz gesagt, es ist ein sehr geeigneter Ort, um die weite Umgebung zu überwachen, und er lässt sich hervorragend verteidigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist nicht bekannt, wer die hiesigen natürlichen Bedingungen als Erster für den Bau einer ersten Befestigung nutzte; in der Völkerwanderungszeit fanden die Slawen hier bereits ältere primitive Wehrwälle vor, die sie erneuerten und verbesserten, womit sie eigentlich eine „Neue Burg“ errichteten und ihr auch einen solchen Namen gaben (so erwähnt sie etwa die Chronik des Anonymus als „Castrum Nougrad“, die Stiftungsurkunde des Budaer Kapitels aus dem Jahr 1299 bezeichnet sie als „Castrum Novigrad“)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf der Karte aus dem Jahr 1739 sehen wir noch den slowakischen Namen Novigrad",
+    "alt": "Auf der Karte aus dem Jahr 1739 sehen wir noch den slowakischen Namen Novigrad",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute wissen wir nicht mehr, wie der slawische Novohrad – Novigrad an der Wende vom 9. zum 10. Jahrhundert aussah; in jener Zeit errichtete man mächtige Wallbefestigungen mit einer hölzernen Kastenkonstruktion, die mit Erde verfüllt war. In jedem Fall handelte es sich aber um einen Burgwall von außerordentlicher Bedeutung, um ein Verwaltungszentrum an der Spitze mit einem Gespan, und das blieb er auch nach der Ankunft der Altungarn, als aus ihm eine Komitatsburg wurde und nach ihm auch das Komitat Neograd benannt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zunächst königliche Burg wechselte gelegentlich die Besitzer, sie wehrte auch Einfälle der Hussiten ab, zweimal geriet sie in die Hände der Türken … und jedes Mal musste an ihr etwas ausgebessert oder verbessert werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawischen Wälle und etwaige erste Steinbauten im geschützten Raum hinter den Wällen wurden von zahlreichen mittelalterlichen Anbauten und Umbauten überdeckt oder zerstört, einschließlich der Erdarbeiten auf der Kuppe des Burgbergs."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "2. militärische Landesaufnahme – hier haben wir die lateinische Form des Namens und seine ungarische Version",
+    "alt": "2. militärische Landesaufnahme – hier haben wir die lateinische Form des Namens und seine ungarische Version",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den bedeutendsten Umbau führte in den Jahren 1475–1506 Bischof Nikolaus Báthori durch, als er nach den Plänen eines italienischen Architekten die sogenannte innere Burg errichten ließ, die von der äußeren Burg durch einen 30 Fuß breiten und ebenso tiefen, in den Felsen gehauenen Graben getrennt war. Die äußere Burg von unregelmäßiger Form (mit Ausmaßen von etwa 140 × 90 m) war durch drei große Basteien italienischen Typs geschützt, die man an den Hängen errichtete und nach der Fertigstellung mit Erde verfüllte, wodurch man weiteren Raum innerhalb des geschützten Areals gewann. Hinter den hohen Mauern der inneren Burg entstanden ein Palast, ein Turm und zudem ein in den Felsen gemeißelter Brunnen. Im Jahr 1685 schlug ein Blitz in den Turm ein, in dem Schießpulver gelagert wurde, und die darauffolgende Explosion zerrüttete die innere Burg so stark, dass die Türken sie verlassen mussten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Trümmer der Burg reparierte niemand mehr, im Gegenteil — im Jahr 1709 zerstörten sie zunächst die Kuruzen und anschließend auch die Labanzen noch gründlicher, nur damit die jeweils anderen keinen Nutzen von ihr hätten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "slug": "informacna-tabula-hatne",
+ "data": {
+  "title": "Eine Informationstafel in Hatné – die kleinen Burgen Hatňanská Skala und Hrádek",
+  "slug": "informationstafel-hatne-kleine-burgen",
+  "excerpt": "An einem sonnigen Herbstsamstag, dem 16. 11. 2013, hat unser Bürgerverein Hradiská eine Informationstafel bei den beiden kleinen Burgen in Hatné aufgestellt – Hatňanská Skala und Hrádek. Den Text der Tafel prüfte fachlich Mgr. Jozef Moravčík, der mehrere Jahrzehnte als Archäologe des Museums in Žilina tätig war.",
+  "metaTitle": "Informationstafel in Hatné – Hatňanská Skala, Hrádek",
+  "metaDescription": "Der Verein Hradiská stellte 2013 eine Informationstafel bei den kleinen Burgen in Hatné auf; den Text prüfte fachlich der Archäologe Jozef Moravčík.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Informationstafel bei den kleinen Burgen in Hatné (Hatňanská Skala und Hrádek)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "16. 11. 2013",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2013",
+    "title": "Tafel Hatné",
+    "description": "Abschluss der „Tafelsaison“ 2013; fachliche Prüfung J. Moravčík.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5739,
+    "caption": "Unser Alchemist mischt die geheimen Zauberzutaten, die Vandalen von dem Versuch abhalten, die Tafel zu beschädigen",
+    "alt": "Unser Alchemist mischt die geheimen Zauberzutaten, die Vandalen von dem Versuch abhalten, die Tafel zu beschädigen"
+   },
+   {
+    "mediaId": 5740,
+    "caption": "Das Loch muss gebührend tief sein",
+    "alt": "Das Loch muss gebührend tief sein"
+   },
+   {
+    "mediaId": 5741,
+    "caption": "noch die letzten Anpassungen",
+    "alt": "noch die letzten Anpassungen"
+   },
+   {
+    "mediaId": 5743,
+    "caption": "Es ist schon zu unserer guten Tradition geworden, dass Čendo die Tafel mit echtem slawischem Honigwein aus einem slawischen Trinkhorn tauft",
+    "alt": "Es ist schon zu unserer guten Tradition geworden, dass Čendo die Tafel mit echtem slawischem Honigwein aus einem slawischen Trinkhorn tauft"
+   },
+   {
+    "mediaId": 5745,
+    "caption": "der Archäologe Herr Mgr. Jozef Moravčík erzählt von der Geschichte der beiden kleinen Burgen",
+    "alt": "der Archäologe Herr Mgr. Jozef Moravčík erzählt von der Geschichte der beiden kleinen Burgen"
+   },
+   {
+    "mediaId": 5746,
+    "caption": "Die Frau Bürgermeisterin von Hatné, Mgr. Iveta Žilovcová",
+    "alt": "Die Frau Bürgermeisterin von Hatné, Mgr. Iveta Žilovcová"
+   },
+   {
+    "mediaId": 5747,
+    "caption": "Bei der Veranstaltung waren mehrere an Geschichte Interessierte. Herr Štefan Žilovec zeigt sein Projekt – eine Orthofotokarte eines Teils des Tals von Mariková mit eingezeichneten Flurnamen, die heute schon in Vergessenheit geraten",
+    "alt": "Bei der Veranstaltung waren mehrere an Geschichte Interessierte. Herr Štefan Žilovec zeigt sein Projekt – eine Orthofotokarte eines Teils des Tals von Mariková mit eingezeichneten Flurnamen, die heute schon in Vergessenheit geraten"
+   },
+   {
+    "mediaId": 5748,
+    "caption": "Herr Martin Olšovský zeigt sein Buch Po stopách predkov, das bei den Anwesenden großes Interesse erregte",
+    "alt": "Herr Martin Olšovský zeigt sein Buch Po stopách predkov, das bei den Anwesenden großes Interesse erregte"
+   },
+   {
+    "mediaId": 5750,
+    "caption": "Auf der Skala. Im Hintergrund der Wall und dahinter die Kapelle",
+    "alt": "Auf der Skala. Im Hintergrund der Wall und dahinter die Kapelle"
+   },
+   {
+    "mediaId": 5755,
+    "caption": "Die Platzierung der Tafel im Bereich der Ruhezone",
+    "alt": "Die Platzierung der Tafel im Bereich der Ruhezone"
+   },
+   {
+    "mediaId": 5756,
+    "caption": "Skala",
+    "alt": "Skala"
+   },
+   {
+    "mediaId": 5757,
+    "caption": "Hrádek",
+    "alt": "Hrádek"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 16. 11. 2013, an einem sonnigen Herbstsamstag, hat unser "
+       },
+       {
+        "type": "link",
+        "url": "http://hradiska333.blogspot.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Bürgerverein Hradiská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " eine weitere Aktion unternommen – die Aufstellung einer Informationstafel bei den kleinen Burgen in Hatné (Hatňanská Skala und Hrádek)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Text der Informationstafel hat uns in fachlicher Hinsicht Herr Mgr. Jozef Moravčík geprüft, der mehrere Jahrzehnte als Archäologe des Museums in Žilina (Sillein) tätig war und der auch im Tal von Mariková in der Vergangenheit eine Menge archäologischer Ausgrabungen durchgeführt hat.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Wetter war uns wie bei den vorangehenden Aktionen wieder günstig. Unsere Einladung, an der Enthüllung der Tafel teilzunehmen, nahm die Frau "
+       },
+       {
+        "type": "text",
+        "text": "Bürgermeisterin der Gemeinde Hatné, Mgr. Iveta Žilovcová",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", an. Weitere geschätzte Gäste waren die Herren "
+       },
+       {
+        "type": "text",
+        "text": "Mgr. Jozef Moravčík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und die Mitglieder seines einstigen archäologischen Zirkels "
+       },
+       {
+        "type": "text",
+        "text": "Martin Olšovský, Dr. Stanislav Miko und Gašpar Zemančík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Die Herren Štefan Meliš und Ladislav Janech mussten ihre Teilnahme aus gesundheitlichen Gründen absagen, wenn auch nur sehr ungern. Außer ihnen kamen Vertreter der Matica slovenská und mehrere weitere Menschen, denen unsere Geschichte nicht gleichgültig ist.\n \n Die Frau Bürgermeisterin ist uns sehr entgegengekommen, einerseits dadurch, dass sie sich gemeinsam mit der "
+       },
+       {
+        "type": "text",
+        "text": "Matica slovenská",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (für die Gemeinde) an der Finanzierung der Tafel beteiligt, andererseits durch die technische Absicherung ihrer Aufstellung im Bereich der neuen Ruhezone in Hatné, die genau zwischen den beiden kleinen Burgen liegt. Für die Zusammenarbeit und ihr Entgegenkommen gebührt ihr großer Dank."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unser Alchemist mischt die geheimen Zauberzutaten, die Vandalen von dem Versuch abhalten, die Tafel zu beschädigen",
+    "alt": "Unser Alchemist mischt die geheimen Zauberzutaten, die Vandalen von dem Versuch abhalten, die Tafel zu beschädigen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der feierlichen Enthüllung der Tafel hat uns Herr Moravčík selbst die Geschichte der beiden kleinen Burgen auf fesselnde Weise nahegebracht, und auch die Bürgermeisterin der Gemeinde Hatné hielt eine Ansprache. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Danach machten wir uns – gestärkt durch das gute Gefühl der geleisteten Arbeit und durch altslawischen Honigwein – gemeinsam ins Gelände auf, um die beiden kleinen Burgen zu besuchen. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Damit haben wir die „Tafelsaison“ für das Jahr 2013 abgeschlossen und freuen uns schon jetzt auf das nächste Jahr, für das wir bereits vier weitere Tafeln vereinbart und vorab abgestimmt haben. Wenn Sie Interesse daran haben, dass wir eine Tafel auch in Ihrer Stadt oder Gemeinde aufstellen, in der sich eine Burganlage befindet (am besten eine, die wir schon auf unserer Seite haben), und wenn Sie bereit sind, uns bei der Organisation zu helfen (vor allem bei der Beschaffung der Zustimmung der Grundstückseigentümer und der Mittel von Sponsoren oder von Gemeindeämtern), dann melden Sie sich bei uns. \n \n Autoren der Fotografien: Dr. Stanislav Miko, Sammi, Stanka, Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

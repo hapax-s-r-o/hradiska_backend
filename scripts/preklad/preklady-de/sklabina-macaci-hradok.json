@@ -1,0 +1,235 @@
+{
+ "slug": "sklabina-macaci-hradok",
+ "data": {
+  "title": "Skľabiňa – Mačací hrádok, eine kleine Höhenburg über dem Sklabinský potok",
+  "slug": "sklabina-macaci-hradok-kleine-hoehenburg",
+  "excerpt": "Südwestlich von Skľabiňa erhebt sich auf einem west-östlich verlaufenden Bergrücken die kleine Höhenburg Mačací hrádok. Ihre ovale Innenfläche von etwa 35 × 70 m umschließt ein Wall, im Osten verstärkt durch einen Halsgraben. Errichtet hat die Befestigung das Volk der Púchov-Kultur; eine dreikantige Pfeilspitze zeigt, dass sie im Frühmittelalter auch von den Slawen – wohl nur als Fliehburg – genutzt wurde. Eingezeichnet ist die Anlage schon auf der 2. militärischen Landesaufnahme.",
+  "metaTitle": "Skľabiňa – Mačací hrádok, Höhenburg im Turzer Becken",
+  "metaDescription": "Die kleine Höhenburg Mačací hrádok südwestlich von Skľabiňa: von der Púchov-Kultur errichtet, im Frühmittelalter von den Slawen als Fliehburg genutzt.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die Befestigung liegt südwestlich des Dorfes über dem Tal eines namenlosen Seitenbachs, der in den Sklabinský potok mündet, auf einem in West-Ost-Richtung verlaufenden Bergrücken.",
+    "icon": "map"
+   },
+   {
+    "label": "Zugänglichkeit",
+    "value": "Der Gipfelteil ist von Norden her ziemlich leicht zugänglich, von den übrigen Seiten recht steil – das machte ihn auch ohne den Bau einer Befestigung zur Verteidigung geeignet.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße und Befestigung",
+    "value": "Ovale Form mit Ausmaßen von etwa 35 × 70 m; das umlaufende Befestigungssystem verbindet nach zwei Dritteln ein Querwall, im Osten verstärkt durch einen deutlichen Halsgraben, über dem der verbreiterte Wall wie ein einstiger Turm wirkt.",
+    "icon": "shield"
+   },
+   {
+    "label": "Bronzener Anhänger",
+    "value": "Auf der Burganlage fand sich die Hälfte eines getriebenen bronzenen Lunula-Anhängers, der wohl zur Besiedlung der kleinen Höhenburg durch die Púchov-Kultur gehört.",
+    "icon": "star"
+   },
+   {
+    "label": "Pfeilspitze aus dem Frühmittelalter",
+    "value": "Während der Sondagegrabung fand sich auf der Burganlage auch die Spitze eines großen frühmittelalterlichen dreikantigen Geschosses.",
+    "icon": "sword"
+   },
+   {
+    "label": "Besiedlung der Umgebung",
+    "value": "Eine latènezeitliche Besiedlung ist auch im Ortsinneren des Nachbardorfes Sklabinské Podhradie belegt; die Burganlage ergänzt das Bild der Besiedlung des nordöstlichen Turzer Beckens, durch das die ursprüngliche Fernverbindung ins Waagtal führte.",
+    "icon": "map"
+   },
+   {
+    "label": "Fund im Ortsinneren des Dorfes",
+    "value": "Im Ortsinneren des heutigen Dorfes wurde in der Vergangenheit ein Massenfund von Eisenwerkzeugen und -geräten entdeckt, festgestellt wurde auch Eisenschlacke.",
+    "icon": "custom"
+   },
+   {
+    "label": "Kriegergrab in Žabokreky",
+    "value": "In der nahen Umgebung, in Žabokreky, wurde in der Vergangenheit ein reich ausgestattetes Kriegergrab mit Schwert gefunden.",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "späte Latènezeit",
+    "title": "Befestigung von der Púchov-Kultur errichtet",
+    "description": "Die ausgeprägte Befestigung der kleinen Höhenburg errichtete das Volk der Púchov-Kultur; die spätlatènezeitliche Besiedlung bestätigen sporadische Scherben und der Fund der Hälfte eines getriebenen bronzenen Lunula-Anhängers.",
+    "type": "construction"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Angedeutete Nutzung im Frühmittelalter",
+    "description": "Die gefundene dreikantige Pfeilspitze deutet auf eine Nutzung der Burganlage in Skľabiňa im Frühmittelalter hin, wahrscheinlich schon im 8.–9. Jahrhundert.",
+    "type": "event"
+   },
+   {
+    "year": "großmährische Zeit",
+    "title": "Die Slawen nutzten die Befestigung als Fliehburg",
+    "description": "Nach Dr. Pieta ist es wahrscheinlich, dass der deutlich erkennbare Halsgraben samt dem Querwall gerade in großmährischer Zeit entstanden sind; die von der Púchov-Kultur errichtete Befestigung nutzten damals auch die Slawen, vielleicht nur als Fliehburg.",
+    "type": "era"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Erste schriftliche Erwähnung (Lage Brvenné)",
+    "description": "In einer Urkunde aus dem 13. Jahrhundert wird wiederholt die Lage Brvenné (Brveno-hradište) erwähnt, die auf einigen Karten südöstlich des Dorfes liegt.",
+    "type": "event"
+   },
+   {
+    "year": "19. Jahrhundert",
+    "title": "Die Burganlage auf einer Karte eingezeichnet",
+    "description": "Die Burganlage ist auch auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert eingezeichnet.",
+    "type": "event"
+   },
+   {
+    "year": "2001",
+    "title": "Untersuchung von K. Pieta und S. Horváth publiziert",
+    "description": "Die archäologische Untersuchung der Burganlage durch K. Pieta und S. Horváth wurde in AVANS 2001 unter dem Titel „Včasnostredoveké a púchovské hradisko pri Sklabini“ publiziert.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6434,
+    "alt": "Der verschneite bewaldete Hügel der Burganlage über der gefrorenen Aue im Frost"
+   },
+   {
+    "mediaId": 2620,
+    "caption": "Die Burganlage auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Die Burganlage auf der Karte der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 2621,
+    "caption": "Die Burganlage im Winter. Autor: Joko (Panoramio)",
+    "alt": "Die Burganlage im Winter. Autor: Joko (Panoramio)"
+   },
+   {
+    "mediaId": 2623,
+    "caption": "Abbildung der Funde aus AVANS",
+    "alt": "Abbildung der Funde aus AVANS"
+   },
+   {
+    "mediaId": 2624,
+    "caption": "Slawischer Hortfund aus Skľabiňa. Aus dem Buch Skryté krásy Veľkej Fatry a Moravského Krasu, Verein Comitatus, 2014",
+    "alt": "Slawischer Hortfund aus Skľabiňa. Aus dem Buch Skryté krásy Veľkej Fatry a Moravského Krasu, Verein Comitatus, 2014"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung der Burganlage von Skľabiňa, auch Mačací hrádok genannt, liegt südwestlich des Dorfes über dem Tal eines namenlosen Seitenbachs, der in den Sklabinský potok mündet. Sie befindet sich auf einem Bergrücken, der in West-Ost-Richtung verläuft. Dessen Gipfelteil ist von Norden her ziemlich leicht zugänglich, von den übrigen Seiten jedoch recht steil und daher auch ohne Baumaßnahmen zur Verteidigung geeignet. Die Burganlage ist auch auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert eingezeichnet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Oberfläche der Fundstelle bedeckt im oberen Teil ein dichtes Gewirr aus Gebüsch und Resten des Holzschlags, sodass praktisch nur die tiefer gelegenen Partien des Innenraums zugänglich sind, wo es dafür viel neuzeitlichen Abfall aus dem nahen Dorf gibt. Die Burganlage hat eine ovale Form mit Ausmaßen von etwa 35 × 70 m, und das umlaufende Befestigungssystem verbindet nach etwa zwei Dritteln noch ein Querwall. Im Osten ist der Zugang über den Bergrücken durch einen deutlich erkennbaren Halsgraben erschwert. Der Querwall oberhalb davon ist verbreitert und erweckt den Eindruck, dass an dieser Stelle ein Turm bestand. Am höchsten ist der Wall auf der Nordseite. Die Innenfläche neigt sich nach Westen. Auf der nicht begrasten Oberfläche zeigte sich nur stellenweise dunklere Erde und darin Siedlungsreste, hauptsächlich kleinere Scherben. Während der Sondagegrabung fanden sich auf der Burganlage vor allem die Spitze eines großen frühmittelalterlichen dreikantigen Geschosses und die Hälfte eines getriebenen bronzenen Lunula-Anhängers, der wohl zur Besiedlung der kleinen Höhenburg durch die Púchov-Kultur gehört. Die spätlatènezeitliche Besiedlung bestätigen auch sporadische Scherben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Burganlage auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Die Burganlage auf der Karte der 2. militärischen Landesaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trotz der ausgeprägten Befestigung zeigt sich auf der kleinen Höhenburg keine stärkere Besiedlung. Eine wichtige Feststellung ist, dass diese Befestigung, die das Volk der Púchov-Kultur errichtet hatte, im Frühmittelalter auch unsere Vorfahren, die Slawen, nutzten, wenn auch vielleicht nur als Fliehburg. Es ist wahrscheinlich (wie Dr. Pieta anführt), dass der deutlich erkennbare Halsgraben samt dem Querwall gerade in großmährischer Zeit entstanden sind. Eine genauere Datierung erlauben die gewonnenen Funde nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dr. Pieta führt an, dass die Burganlage in Skľabiňa das Bild der Besiedlung des nordöstlichen Teils des Turzer Beckens ergänzt, durch das die ursprüngliche Fernverbindung in Richtung Waagtal führte. Eine latènezeitliche Besiedlung ist im Ortsinneren wie auch in der Katastralgemeinde des Nachbardorfes Sklabinské Podhradie belegt. Die dreikantige Pfeilspitze deutet auf eine Nutzung der Burganlage in Skľabiňa im Frühmittelalter hin, wahrscheinlich schon im 8.–9. Jahrhundert. Teil des mittelalterlichen Areals war möglicherweise auch das Ortsinnere des heutigen Dorfes, wo in der Vergangenheit ein Massenfund von Eisenwerkzeugen und -geräten entdeckt und auch Eisenschlacke festgestellt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einer Urkunde aus dem 13. Jahrhundert wird wiederholt die Lage Brvenné (Brveno-hradište) erwähnt, die auf einigen Karten südöstlich des Dorfes liegt. Nach Angaben einiger Einwohner kann sich der Name auch auf die weiter unten angeführte Lage Mačací zámok beziehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Burganlage im Winter. Autor: Joko (Panoramio)",
+    "alt": "Die Burganlage im Winter. Autor: Joko (Panoramio)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus diesem Teil des Turzer Beckens kennen wir eine ganze Reihe von Burganlagen, die in das Frühmittelalter gestellt werden, doch wurden diese bei alten Begehungen meist nur mithilfe schwer bestimmbarer Keramikfragmente datiert. In der nahen Umgebung (in Žabokreky) wurde in der Vergangenheit auch ein reich ausgestattetes Kriegergrab mit Schwert gefunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

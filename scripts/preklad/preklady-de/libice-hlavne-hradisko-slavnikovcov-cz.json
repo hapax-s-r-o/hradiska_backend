@@ -1,0 +1,392 @@
+{
+ "slug": "libice-hlavne-hradisko-slavnikovcov-cz",
+ "data": {
+  "title": "Libice – der zentrale Burgwall der Slavnikiden (CZ)",
+  "slug": "libice-zentraler-burgwall-der-slavnikiden",
+  "excerpt": "Libice, der Hauptsitz der Slavnikiden, eines der mächtigsten Geschlechter im frühmittelalterlichen Böhmen, lag auf einer Anhöhe nicht weit vom Zusammenfluss der Elbe mit der Cidlina. Das Geschlecht prägte hier eigene Denare, auf der Hauptburg stand eine Kirche ottonischen Typs – und hier endete die Familie im Jahr 995 bei einem der größten und ältesten Massaker der böhmischen Geschichte.",
+  "metaTitle": "Libice – der zentrale Burgwall der Slavnikiden (CZ)",
+  "metaDescription": "Der Hauptsitz der mächtigen Slavnikiden in Ostböhmen nahe dem Zusammenfluss der Elbe mit der Cidlina, wo das Geschlecht auch eigene Denare prägte.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Anhöhe nicht weit vom Zusammenfluss der Elbe mit der Cidlina, heutige Gemeinde Libice nad Cidlinou",
+    "icon": "mountain"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Zentraler Burgwall der Slavnikiden, eines der mächtigsten Geschlechter im frühmittelalterlichen Böhmen; Ort der Prägung der slavnikidischen Denare",
+    "icon": "crown"
+   },
+   {
+    "label": "Jüngere Phase der Befestigung",
+    "value": "Mauer mit drei Reihen von 4,5 m breiten Kammern, innere wie äußere Mauerwand aus Opuka (Pläner), vor der Mauer ein breiter Graben",
+    "icon": "shield"
+   },
+   {
+    "label": "Kirche auf der Hauptburg",
+    "value": "Einschiffiger Bau ottonischen Typs mit Querhaus, zwei Emporen und kurzem, mit einer Apsis abgeschlossenem Chor",
+    "icon": "building"
+   },
+   {
+    "label": "Marienkirche in der Vorburg",
+    "value": "Mit kleinem Gräberfeld ringsum; später gotischer und barocker Umbau (1774–1777), heute dient sie als Pfarrhaus",
+    "icon": "scroll"
+   },
+   {
+    "label": "Handelsbeziehungen",
+    "value": "Funde belegen Kontakte mit Böhmen und Großmähren sowie Importe aus dem wikingischen, karolingischen und balkanischen Raum",
+    "icon": "star"
+   },
+   {
+    "label": "Schutz",
+    "value": "Archäologisches Denkmalreservat seit 1961, Schutzzone seit 1979, Hauptburg seit 1989 nationales Kulturdenkmal",
+    "icon": "scroll"
+   },
+   {
+    "label": "Untersuchung der Vorburg",
+    "value": "Das Archäologische Institut der AV ČR führt seit 1974 jährliche Rettungsgrabungen durch; bislang sind knapp 6 % der Fläche der Vorburg untersucht",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "6. Jahrhundert",
+    "title": "Ankunft der slawischen Bevölkerung",
+    "description": "Nach einer kurzen Übergangsphase ließ sich in Libice slawische Bevölkerung nieder und brachte Keramik des Prager Typs mit.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Errichtung eines gut befestigten Burgwalls",
+    "description": "Im Laufe des 8. Jahrhunderts kam es zu einem Bevölkerungsanstieg, im 9. Jahrhundert stand hier bereits ein gut befestigter Burgwall mit der älteren Phase der Befestigung (Erdmauer mit Rostkonstruktion und äußerer Steinwand).",
+    "type": "construction"
+   },
+   {
+    "year": "981",
+    "title": "Erste konkrete Erwähnung der Slavnikiden",
+    "description": "Die Chronik des Cosmas verzeichnet das Jahr 981, in dem angeblich Fürst Slavník starb.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 10. Jahrhunderts",
+    "title": "Stärkere Bautätigkeit auf der Hauptburg",
+    "description": "Freigelegt wurde das Fundamentmauerwerk einer einschiffigen Kirche ottonischen Typs mit Querhaus und zwei Emporen; in der Nähe stand der hölzerne slavnikidische Palast, der mit der Kirche verbunden war.",
+    "type": "construction"
+   },
+   {
+    "year": "995",
+    "title": "Zerstörung des Burgwalls",
+    "description": "Die vollständige Zerstörung des Burgwalls ist durch Schriftquellen belegt. An der Stelle des slavnikidischen Palastes wurde später ein Kastellanshaus errichtet, der Burgwall als přemyslidischer Stützpunkt erneuert.",
+    "type": "destruction"
+   },
+   {
+    "year": "um 1120",
+    "title": "Verlegung des Sitzes des Kastellans",
+    "description": "Der Kastellan wirkte auf dem Burgwall bis zu diesem Jahr, als er seinen Sitz in die Vorburg verlegte.",
+    "type": "event"
+   },
+   {
+    "year": "1228",
+    "title": "Libice als Dorf des Klosters St. Georg",
+    "description": "Im Laufe des 12. Jahrhunderts verlor der verfallende Burgwall seine Funktion; im Jahr 1228 wird Libice als Dorf im Besitz des Klosters St. Georg auf der Prager Burg erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1949–1953",
+    "title": "Detaillierte archäologische Untersuchung",
+    "description": "Dr. Rudolf Turek vom Nationalmuseum untersuchte die Fundstelle, legte Reste von Bauten frei und fand wertvolle Gegenstände, die das hohe kulturelle Niveau des slavnikidischen Burgwalls belegen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1989",
+    "title": "Erklärung zum nationalen Kulturdenkmal",
+    "description": "Die Hauptburg des Burgwalls ist seit diesem Jahr als nationales Kulturdenkmal geschützt; der Burgwall selbst war bereits seit 1961 archäologisches Denkmalreservat.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6374,
+    "alt": "Ein Blockhaus und eine weiße Kirche mit Rotunde und Glockenturm auf einem steingepflasterten Hof"
+   },
+   {
+    "mediaId": 405,
+    "caption": "Rekonstruktion des Sakralbaus und des Palastes auf dem Burgwall",
+    "alt": "Rekonstruktion des Sakralbaus und des Palastes auf dem Burgwall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Libice, der zentrale Burgwall der Slavnikiden, eines der mächtigsten Geschlechter in Böhmen in der Zeit des Frühmittelalters, war das Zentrum eines größeren Territoriums, das die Slavnikiden in Ostböhmen beherrschten. Es lag auf einer Anhöhe nicht weit vom Zusammenfluss der Elbe mit der Cidlina. Libice war allerdings nicht nur Sitz des Fürstengeschlechts und Verwaltungszentrum des Fürstentums, sondern auch Ort der Prägung der slavnikidischen Denare."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Raum der Vorburg des späteren slavnikidischen Burgwalls war bereits in der jüngeren Bronzezeit besiedelt. Archäologische Funde belegten die Existenz der Leute der Hügelgräberkultur, der Lausitzer und der Knovíz-Kultur, aus der östlichen Spitze der Vorburg stammen aber auch Funde aus der römischen Kaiserzeit. Nach einer kurzen Übergangsphase ließ sich im 6. Jahrhundert in Libice slawische Bevölkerung nieder und brachte Keramik des Prager Typs mit. Im Laufe des 8. Jahrhunderts kam es nachweislich zu einem Bevölkerungsanstieg, und im 9. Jahrhundert stand hier bereits ein gut befestigter Burgwall. Es wurden zwei Phasen der Befestigung festgestellt. Die ältere Befestigung bestand aus einer Erdmauer mit Rostkonstruktion und einer äußeren Steinwand. In der zweiten Phase wurde eine Mauer mit drei Reihen von 4,5 m breiten Kammern errichtet, und sowohl die innere als auch die äußere Mauerwand war aus Opuka (Pläner) aufgeführt. Vor der Mauer verlief ein breiter Graben. Die erste konkrete Erwähnung der Slavnikiden haben wir in der Chronik des Cosmas zum Jahr 981, als angeblich Fürst Slavník starb. Während der gesamten slavnikidischen Zeit war die Vorburg dicht besiedelt, und es stand hier auch eine Marienkirche mit einem kleinen Gräberfeld ringsum. Später erhielt sie gotische Gestalt und wurde in den Jahren 1774–1777 hochbarock umgebaut. Im Zusammenhang mit den josephinischen Reformen wurde sie jedoch aufgehoben und dient heute als Pfarrhaus. Im südöstlichen Teil der Vorburg wurde ein weiterer Bau freigelegt, wahrscheinlich ein Priesterhaus, und an der Stelle der heutigen Friedhofskirche des hl. Adalbert stand offenbar schon im 10. Jahrhundert eine dem hl. Bonifatius geweihte Kirche."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Innerhalb der Befestigung der eigentlichen Hauptburg belegte die Untersuchung eine stärkere Bautätigkeit in der Mitte des 10. Jahrhunderts. Konkret wurde das Fundamentmauerwerk einer Kirche aus der zweiten Hälfte des 10. Jahrhunderts freigelegt. Es handelte sich um einen einschiffigen Bau ottonischen Typs mit einem Querhaus mit zwei Emporen und einem kurzen, mit einer Apsis abgeschlossenen Chor. Im Raum zwischen dieser Apsis und dem südlichen Flügel des Querhauses fand sich das Mauerwerk zweier kleiner Räume, offenbar eines Baptisteriums und einer Sakristei. In unmittelbarer Nähe der Kirche auf der Südseite wurden Reste eines hölzernen Gebäudes festgestellt, das als slavnikidischer Palast gilt und mit der Kirche verbunden war. Nachgewiesen wurde auch die vollständige Zerstörung des Burgwalls im Jahr 995, die durch Schriftquellen belegt ist. An der Stelle des slavnikidischen Palastes wurde danach ein Kastellanshaus neu errichtet. Erneuert wurde auch der Burgwall, allerdings diesmal schon als přemyslidischer Stützpunkt, dessen Befestigung nicht so mächtig war wie die vorherige. Der Kastellan wirkte hier bis in die Zeit um das Jahr 1120, als er seinen Sitz in die Vorburg verlegte. Im Laufe des 12. Jahrhunderts verlor der verfallende Burgwall von Libice seine Funktion und seine Bedeutung und verschwand aus den Schriftquellen. Erst im Jahr 1228 wird Libice als Dorf im Besitz des Klosters St. Georg auf der Prager Burg erwähnt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Libice – der zentrale Burgwall der Slavnikiden (CZ)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Libice steht schon seit dem 16. Jahrhundert im Zentrum der Aufmerksamkeit der Forscher. Fachliche Untersuchungen führten am Ende des 19. Jahrhunderts Josef Ladislav Píč und später Jan Hellich durch. In den Jahren 1949–1953 nahm Dr. Rudolf Turek vom Nationalmuseum eine detaillierte archäologische Untersuchung der Fundstelle vor, bei der nicht nur Reste von Bauten freigelegt wurden, sondern auch viele sehr wertvolle Gegenstände, die das sehr hohe kulturelle Niveau der Bewohner des slavnikidischen Burgwalls belegen. Kleinfunde, die sich auch trotz der gewaltsamen Zerstörung des Areals erhalten haben, dokumentieren die lebhaften Handelsbeziehungen von Libice nicht nur mit dem gesamten Gebiet Böhmens, sondern auch mit Großmähren, und es kamen sogar Importe aus dem wikingischen, karolingischen und balkanischen Raum zum Vorschein. Die Funde zeichnen Libice in der zweiten Hälfte des 10. Jahrhunderts als einen blühenden, prosperierenden Burgwall, als ein Zentrum des Handels, der Kultur und des kirchlichen Lebens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1961 wurde der Burgwall von Libice zum archäologischen Denkmalreservat erklärt, im Jahr 1979 wurde eine Schutzzone eingerichtet, und die Hauptburg des Burgwalls selbst ist seit dem Jahr 1989 als nationales Kulturdenkmal geschützt. Seit dem Jahr 1974 führt das Archäologische Institut der Akademie der Wissenschaften der Tschechischen Republik (AV ČR) jährlich archäologische Rettungsgrabungen in der Vorburg durch, und bis heute wurden auf diese Weise knapp 6 % der Fläche der Vorburg untersucht. Diese Grabungen kartieren detailliert die Entwicklung der Befestigung im Laufe des 10. Jahrhunderts. Eine im Jahr 2000 durchgeführte Luftbildprospektion der Fundstelle brachte eine Reihe von Erkenntnissen zur inneren Gliederung der Hauptburg und lieferte Anregungen für weitere Untersuchungen. Im Areal des Burgwalls und in seiner Umgebung wurden mehrere Gräberfelder erfasst, auf denen das gesamte Frühmittelalter hindurch bestattet wurde. Häufig wurden Bestattungen von Angehörigen höherer Gesellschaftsschichten festgestellt, die sich bereits nachweislich dem Christentum zuneigten. Die bedeutendste Aktion der letzten Zeit auf dem Gebiet der Hauptburg war die Aufstellung der bronzenen Figurengruppe des hl. Adalbert und des hl. Radim im Jahr 2000 in unmittelbarer Nähe des freigelegten Kirchenmauerwerks. Der Aufstellung der Figurengruppe ging eine archäologische Rettungsgrabung voraus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Sicht der Denkmalpflege ist an der gegebenen Fundstelle die vordringlichste Aufgabe die Sicherung des archäologischen Fundplatzes im Bereich der Hauptburg und die Verhinderung unerwünschter Eingriffe in die unterlagernden Bodenschichten der Vorburg (Gemeinde Libice)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Libice – der zentrale Burgwall der Slavnikiden (CZ)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausrottung der Slavnikiden"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer waren die Slavnikiden? Vor allem wohl die später Geborenen, die in der Schule schon keinen gemeinsamen tschechisch-slowakischen Geschichtsunterricht mehr hatten, kennen das Geschlecht der Slavnikiden und sein tragisches Schicksal bei der Festigung des frühfeudalen böhmischen Staates überhaupt nicht. Daher erlaube ich mir einen kurzen Exkurs in diese etwas obskure Periode der Geschichte der Přemysliden und bringe eines der größten und ältesten Massaker der böhmischen Geschichte näher, das letztlich zur Festigung der Macht des Geschlechts der Přemysliden beitrug."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion des Sakralbaus und des Palastes auf dem Burgwall",
+    "alt": "Rekonstruktion des Sakralbaus und des Palastes auf dem Burgwall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zunächst muss die Situation im damaligen fürstlichen Böhmen beleuchtet werden. Nach dem Tod des heiligen Wenzel übernahm sein Bruder Boleslav I. die Herrschaft. Damit begann die Ära des Aufstiegs des Fürstentums. Boleslav gelang es, sich aus der Abhängigkeit vom Frankenreich zu lösen, er wurde sein Partner (die „Hilfe“ in der Schlacht auf dem Lechfeld 955). Der böhmische Staat wurde zu einer bedeutenden Macht Mitteleuropas, nachdem es gelungen war, Schlesien und das Krakauer Land zu besetzen und bis an die heutigen Grenzen von Belarus vorzudringen. In diesen Gebieten ließ der Fürst Bevölkerung „fangen“, die später in Prag als Sklaven verkauft wurde. Zudem führte dort ein Fernhandelsweg vorbei, und durch seine Kontrolle erzielten die Přemysliden ebenfalls Gewinne. Den größten Teil des Geldes aus dem Verkauf erhielt das fürstliche Heer, dessen Befehlshaber über das gesamte Gebiet des Fürstentums verstreut waren. Wie sich später zeigte, war das System nicht allzu stabil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Aufstieg des Geschlechts der Slavnikiden begann in der zweiten Hälfte des 10. Jahrhunderts. Vor dem Massaker gehörte ihnen ein Gebiet in Ostböhmen. Ihr Zentrum war der Burgwall Libice nad Cidlinou. Eine näher unbekannte Heirat bestätigt die Verbundenheit mit der sächsischen Kaiserdynastie. Es lässt sich annehmen, dass die sächsische Dynastie in den Slavnikiden ein böhmisches Gegengewicht zu den Přemysliden haben wollte, und man muss sagen, dass die Slavnikiden gewiss nicht dagegen waren. Es gelang ihnen, Adalbert – aus dem Geschlecht der Slavnikiden – in das Amt des Prager Bischofs durchzusetzen. Damals änderten sich die Zeiten schon. Fürst war Boleslavs gleichnamiger Sohn — Boleslav II. Unter ihm entstand das Prager Bistum, dessen erster Bischof ein mit den slawischen Verhältnissen vertrauter Sachse wurde — Dětmar. Zweiter Bischof wurde aus diplomatischen Gründen der Slavnikide Adalbert. Sich die Slavnikiden zu Feinden zu machen, hätte sich für die Přemysliden bitter rächen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Gewaltakt fand im Jahr 995 statt. Damals war Adalbert nach Zerwürfnissen mit dem Fürsten schon ein Jahr aus Böhmen weg. Die Spannung zwischen den herrschenden Přemysliden und den ambitionierten Slavnikiden wuchs. Diese „Konkurrenz“ war nicht der einzige Grund."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Böhmen begann sich eine Krise abzuzeichnen. Das Fürstentum begann seine eine Generation zuvor erworbenen Besitzungen zu verlieren. Es verlor Kleinpolen, Krakau und um das Jahr 990 (polnische Forscher nehmen die vorangegangenen Jahrzehnte an) Schlesien. Damit sanken die fürstlichen Einnahmen, die dann die Soldaten (nicht) erhielten. Die Soldaten, denen es gelang, aus Schlesien zu entkommen, verbesserten die Lage ebenfalls nicht. Die schwache, auf unterworfenen Gebieten beruhende Wirtschaft konnte das fürstliche Heer nicht ernähren. Auch die Moral war schlecht. Eine drastische Tat konnte die angegriffene Moral der Gefolgschaft verbessern und Geld aus dem slavnikidischen Gebiet bringen. Ein weiterer Grund waren die Machtambitionen eines weiteren Geschlechts, diesmal der Wrschowetzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der sechzigjährige, schwer kranke Herrscher erteilte auch aufgrund des starken Drucks der übrigen Adligen (und angeblich auch im Zusammenhang mit seinen Anfällen von Wut und Verwirrung) den Befehl zur Vernichtung der Slavnikiden. In jedem Fall nutzte er die Situation vollkommen aus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der deutsche Kaiser bereitete einen Feldzug gegen die heidnischen Abodriten vor. Die Böhmen schickten zwei Kontingente. Eines schickten die Přemysliden, und es führte der Sohn des Fürsten — Boleslav der Rothaarige (später Fürst Boleslav III.). Das zweite (slavnikidische) führte der älteste Sohn Slavníks, Soběbor. Der Sitz der Slavnikiden — Libice — war ohne erfahrene Krieger nur mit einer kleinen Besatzung belegt. Diese wurde von vier Brüdern angeführt. Es waren: Spytimír, Dobraslav, Porej, Čáslav."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 27. 9. 995 begann unter der Führung der Wrschowetzen der Angriff auf Libice. Die Gefolgschaft zersprengte die Bevölkerung der Umgebung und belagerte Libice. Die Verteidiger wollten am Tag vor dem Fest des heiligen Wenzel nicht kämpfen, aber die Angreifer erlaubten ihnen das nicht. Es begann ein harter Kampf, in dem die Verteidiger trotz ihres Mutes keine Chance hatten. Sie mussten sich in die Kirche flüchten. Die Angreifer machten ihnen Hoffnung, sie am Leben zu lassen. Sobald sie aus der Kirche heraustraten, wurden alle erschlagen, einschließlich der Frauen und Kinder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die einzigen zwei Slavnikiden, die überlebten — Adalbert und Soběbor —, lebten in Polen im Asyl Boleslaws des Tapferen bis zu ihrem Ende. Libice wurde den Wrschowetzen geschenkt, aber diese traf im Jahr 1108 dasselbe Schicksal. Auch sie wurden ausgerottet. Mit dem Tod Boleslavs II. (999) begann im Fürstentum eine Krise, in der der Herrscher mehrmals wechselte. Mähren eroberte der polnische Herrscher Boleslaw der Tapfere (für eine Weile wurde er auch Fürst von Böhmen), er hielt es bis zum Jahr 1019."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

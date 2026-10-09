@@ -1,0 +1,285 @@
+{
+ "slug": "prosne-zlaty-kon",
+ "data": {
+  "title": "Prosné – Zlatý kôň: eine kleine Höhenburg der Púchov-Kultur im Tal von Mariková",
+  "slug": "prosne-zlaty-kon-puchov-hoehenburg",
+  "excerpt": "Aus dem vorangegangenen Artikel über den keltischen Opferplatz in der Lage Uhliská wissen wir, dass die Gemeinde Prosné im Tal des Baches Mariková in der Zeit der Púchov-Kultur offenbar große kultische Bedeutung hatte. In derselben Gemeinde liegt auch die sehr interessante kleine Höhenburg Zlatý kôň mit intensiver Besiedlung von der Wende des 1. Jahrhunderts v. Chr. zum 1. Jahrhundert n. Chr., mit Funden eiserner Fibeln und Beschläge und mit der Überlieferung von einem Schatz goldener Münzen.",
+  "metaTitle": "Prosné – Zlatý kôň: Höhenburg im Tal von Mariková",
+  "metaDescription": "Die kleine Höhenburg Zlatý kôň bei Prosné im Tal von Mariková, das in der Zeit der Púchov-Kultur große kultische Bedeutung hatte (Opferplatz Uhliská).",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "scharfer Gebirgsgrat östlich der Gemeinde Prosné, im Tal des Baches Mariková",
+    "icon": "mountain"
+   },
+   {
+    "label": "Funde",
+    "value": "eiserne Fibeln, eine Pfeilspitze, Nägel, eine Gürtelschließe, Keramik",
+    "icon": "scroll"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "nach mündlicher Überlieferung der Fund eines Schatzes goldener Münzen mit der Darstellung eines Pferdchens",
+    "icon": "star"
+   },
+   {
+    "label": "Textquelle",
+    "value": "Po stopách predkov (Martin Olšovský, Štefan Meliš, Jozef Moravčík, 2008)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1. Jahrhundert v. Chr. – 1. Jahrhundert n. Chr.",
+    "title": "Intensive Besiedlung der kleinen Höhenburg",
+    "description": "Die kleine Höhenburg der Púchov-Kultur in der Lage Zlatý kôň besaß eine kleine Befestigung mit intensiver Besiedlung von der Wende des 1. Jahrhunderts v. Chr. zum 1. Jahrhundert n. Chr.",
+    "type": "era"
+   },
+   {
+    "year": "um das Jahr 1962",
+    "title": "Entdeckung der kleinen Höhenburg durch Štefan Meliš",
+    "description": "Die kleine Höhenburg entdeckte Štefan Meliš, der dort auch einige Scherben gewann.",
+    "type": "discovery"
+   },
+   {
+    "year": "„erste“ Republik",
+    "title": "Fund einer keltischen Münze",
+    "description": "In der Nähe der kleinen Höhenburg fanden zwei Jungen aus Prosné eine keltische Münze und verkauften sie einem Goldschmied in Považská Bystrica.",
+    "type": "discovery"
+   },
+   {
+    "year": "Dezember 2021",
+    "title": "Ausgrabung des Vereins Hradiská mit dem Trenčiner Museum",
+    "description": "Im Dezember 2021 führte der Verein Hradiská mit dem Trenčiner Museum eine Ausgrabung der kleinen Höhenburg durch.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3644,
+    "caption": "Zlatý kôň (Autor Bohuš Šikulinec)",
+    "alt": "Zlatý kôň (Autor Bohuš Šikulinec)"
+   },
+   {
+    "mediaId": 3645,
+    "caption": "Künstlerische Visualisierung der Höhenburg (Autor Čendo)",
+    "alt": "Künstlerische Visualisierung der Höhenburg (Autor Čendo)"
+   },
+   {
+    "mediaId": 3646,
+    "caption": "Zeichnung der Lage nach Štefan Meliš",
+    "alt": "Zeichnung der Lage nach Štefan Meliš"
+   },
+   {
+    "mediaId": 3647,
+    "caption": "A. Lacko",
+    "alt": "A. Lacko"
+   },
+   {
+    "mediaId": 3648,
+    "caption": "P.Bros",
+    "alt": "P.Bros"
+   },
+   {
+    "mediaId": 3650,
+    "caption": "Kleiner Plan von M. Olšovský",
+    "alt": "Kleiner Plan von M. Olšovský"
+   },
+   {
+    "mediaId": 3654,
+    "caption": "Blick vom Zugangsweg in Richtung der Höhenburg",
+    "alt": "Blick vom Zugangsweg in Richtung der Höhenburg"
+   },
+   {
+    "mediaId": 3655,
+    "caption": "Auf dieser Aufnahme ist fast die gesamte Höhenburg erfasst. Rechts der Wall, links die bewohnte Terrasse",
+    "alt": "Auf dieser Aufnahme ist fast die gesamte Höhenburg erfasst. Rechts der Wall, links die bewohnte Terrasse"
+   },
+   {
+    "mediaId": 3656,
+    "caption": "Aussicht vom Rand der Höhenburg",
+    "alt": "Aussicht vom Rand der Höhenburg"
+   },
+   {
+    "mediaId": 3657,
+    "caption": "Mehrere Ansichten der Terrasse",
+    "alt": "Mehrere Ansichten der Terrasse"
+   },
+   {
+    "mediaId": 3660,
+    "caption": "Blick vom Wall auf die Terrasse",
+    "alt": "Blick vom Wall auf die Terrasse"
+   },
+   {
+    "mediaId": 3661,
+    "caption": "Wall",
+    "alt": "Wall"
+   },
+   {
+    "mediaId": 3663,
+    "caption": "Unsere Informationstafel auf der Höhenburg",
+    "alt": "Unsere Informationstafel auf der Höhenburg"
+   },
+   {
+    "mediaId": 6443,
+    "alt": "Farbige Zeichnung der Höhenburg mit Torturm, Blockhäusern und Reitern, in der Ecke ein goldenes Medaillon"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem vorangegangenen Artikel über den keltischen Opferplatz in der Lage "
+       },
+       {
+        "type": "link",
+        "url": "/blog/prosne-keltske-obetisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "Uhliská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " wissen wir, dass die Gemeinde Prosné, die im Tal des Baches Mariková liegt, in der Zeit der Púchov-Kultur offenbar große kultische Bedeutung hatte. In dieser Gemeinde kennen wir jedoch auch eine sehr interessante Burganlage mit dem Namen Zlatý kôň. Ich freue mich, dass ich Ihnen über diese Burganlage einen kurzen Text zusammen mit Bildern bringen kann, die aus der großartigen (offiziell nicht herausgegebenen) Dokumentensammlung mit dem Titel Po stopách predkov stammen. Der Text stammt aus der Feder von Štefan Meliš und Jozef Moravčík, die Fotografien der Funde von Herrn Martin Olšovský.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zlatý kôň (Autor Bohuš Šikulinec)",
+    "alt": "Zlatý kôň (Autor Bohuš Šikulinec)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite bedeutende Fundort ist die kleine Höhenburg der Púchov-Kultur in der Lage Zlatý kôň, die sich östlich der Gemeinde auf einem scharfen Gebirgsgrat befindet, wo eine kleine Befestigung mit intensiver Besiedlung von der Wende des 1. Jahrhunderts v. Chr. zum 1. Jahrhundert n. Chr. liegt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei einer eingehenden Begehung der Lage konnten außer Scherben auch mehrere eiserne Gegenstände festgestellt werden – Fibeln, eine Pfeilspitze, Nägel, eine Gürtelschließe, kleine Beschläge und eine Krampe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Angeblich wurde an diesem Fundort auch eine goldene keltische (?) Münze gefunden (J. Chmulík), die jedoch in die Hände eines Goldschmieds in Pov. Bystrica gelangte. Nach der Beschreibung des Finders befand sich darauf eine plastische Marke in Form eines Z, was ein stilisierter Körper eines Pferdchens sein könnte (?). Heute lässt sich dieser Fund nicht mehr überprüfen und genauer bestimmen. Nach mündlicher Überlieferung sollen hier bereits vor längerer Zeit auch andere goldene Münzen gefunden worden sein – ein ganzer Schatz –, auf denen angeblich ein Pferdchen dargestellt war (danach auch der Name Zlatý kôň), und für diesen Schatz soll sich der Finder die nicht weit entfernte Rodungssiedlung Uhry gekauft haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Visualisierung der Höhenburg (Autor Čendo)\n\n",
+    "alt": "Künstlerische Visualisierung der Höhenburg (Autor Čendo)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den umliegenden Gemeinden werden über diesen Fundort mehrere Sagen überliefert. Nach einer von ihnen sei einst in den Felsen unterhalb der Kuppe das Abbild eines Widders eingeritzt gewesen. Die Sage hat vielleicht recht, doch handelte es sich eher um das Abbild eines Pferdes. Das Pferd war nämlich bei den Kelten ein verehrtes Tier. Eine riesige Pferdesilhouette, die in die Flanke eines felsigen Berges eingeritzt ist, findet sich auch in England. Auf der Kuppe des Zlatý kôň liegt eine schmale Terrasse, auf der sich etwa in der Latènezeit bis in die römische Kaiserzeit eine kleine Höhenburg befand. Die kleine Höhenburg entdeckte Štefan Meliš irgendwann um das Jahr 1962 und gewann dort einige Scherben. Nach Dr. Petrovský-Šichman befand sich hier ein keltischer Kultplatz. Den ursprünglichen Namen des Berges Zlatý kôň suchte er in Verbindung mit dem Volksmärchen vom Sonnenpferd. In der Zeit der „ersten“ Republik fanden zwei Jungen aus Prosné in der Nähe der kleinen Höhenburg eine Münze, wahrscheinlich eine keltische, und verkauften sie einem Goldschmied in Považská Bystrica."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Martin Olšovský, Štefan Meliš, Jozef Moravčík: Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek – súbor dokumentov a fotografií, im Selbstverlag von Martin Olšovský im Jahr 2008 in einer Auflage von 4 Stück herausgegeben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Dezember 2021 führte unser Verein Hradiská mit dem Trenčiner Museum eine Ausgrabung der kleinen Höhenburg durch. "
+       },
+       {
+        "type": "link",
+        "url": "http://www.hradiska.sk/2025/11/prosne-zlaty-kon-vyskum.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hier finden Sie einige Funde aus der Ausgrabung."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "\n \n Fotos vom 31. 12. 2013 (Orgoň)\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

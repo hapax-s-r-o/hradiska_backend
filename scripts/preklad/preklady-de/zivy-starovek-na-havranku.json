@@ -1,0 +1,202 @@
+{
+ "slug": "zivy-starovek-na-havranku",
+ "data": {
+  "title": "Lebendige Antike auf Havránok",
+  "slug": "lebendige-antike-auf-havranok",
+  "excerpt": "Am Samstag, dem 14. 7. 2015, schlugen Kelten, Römer, Markomannen, Makedonen und andere auf Havránok ihre Zelte auf und führten den Zuschauern das Leben der Antike vor. Organisiert wurde sie von der Gruppe Vae Victis: Bronzeguss, Waffen und Werkzeuge der Urgeschichte, ein römisches Feldlager und am Opferplatz ein blutiges Opfer gehörten zum Programm.",
+  "metaTitle": "Lebendige Antike auf Havránok",
+  "metaDescription": "Die Veranstaltung Živý starovek auf der keltischen Höhensiedlung Havránok (2015): Kelten, Römer und Markomannen zeigten das Leben der Antike und kämpften.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5050,
+    "caption": "Werkzeuge aus der Urgeschichte (Archeopark Liptovia)",
+    "alt": "Werkzeuge aus der Urgeschichte (Archeopark Liptovia)"
+   },
+   {
+    "mediaId": 5158,
+    "caption": "Bronzezeit - Verein Ipea",
+    "alt": "Bronzezeit - Verein Ipea"
+   },
+   {
+    "mediaId": 5159,
+    "caption": "Eine Schöne aus der Bronzezeit (Verein Ipea)",
+    "alt": "Eine Schöne aus der Bronzezeit (Verein Ipea)"
+   },
+   {
+    "mediaId": 5160,
+    "caption": "Bronzeschmelzen",
+    "alt": "Bronzeschmelzen"
+   },
+   {
+    "mediaId": 5336,
+    "caption": "Keltische Bewaffnung",
+    "alt": "Keltische Bewaffnung"
+   },
+   {
+    "mediaId": 5337,
+    "caption": "... und keltischer Schmuck",
+    "alt": "... und keltischer Schmuck"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf "
+       },
+       {
+        "type": "link",
+        "url": "/blog/havranok-liptovska-mara",
+        "children": [
+         {
+          "type": "text",
+          "text": "Havránok"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ging es am Samstag, dem 14. 7. 2015, schon vom Morgen an munter zu. Kelten, Römer, Markomannen, Makedonen und andere schlugen ihre Zelte auf und bereiteten sich auf den Kampf vor. Begleitet wurden sie von ihren Ehefrauen mit den Kindern, und so führten sie den Zuschauern gemeinsam das Leben der damaligen Zeit in der Epoche der Antike vor. Organisiert wurde die Veranstaltung von der Gruppe "
+       },
+       {
+        "type": "link",
+        "url": "http://www.kelti.info/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vae Victis"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf einem Gelände, das dem Liptauer Museum in Ružomberok gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.archeologiask.sk/reportaze-a-akcie/slovensko/clanok/article/na-navsteve-v-archeoskanzene-vo-vysnom-kubine.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Der Verein Ipea aus der Arwa (Orava)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " hat uns anschaulich und mit einem fesselnden Vortrag das Leben in der Bronzezeit und vor allem den Bronzeguss vorgestellt. Andere, zum Beispiel der "
+       },
+       {
+        "type": "link",
+        "url": "http://archeoparkliptovia.sk/index.php?id=21",
+        "children": [
+         {
+          "type": "text",
+          "text": "Archeopark Liptovia"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", wiederum Waffen und Werkzeuge aus der Urgeschichte oder Keramik und die Zubereitung von Speisen, die Kelten die Herstellung verschiedener Werkzeuge und Dinge des täglichen Bedarfs, aber auch von Schmuck für Frauen und Krieger. Auch die Römer kamen in großer Zahl und errichteten hier ihr Feldlager."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zwischendurch fanden Kämpfe der Kelten, der Römer und der Krieger anderer Kulturen statt, die sich beiden Seiten anschlossen. Schließlich unterwarfen sich die Kelten gemeinsam mit den Römern nach unentschiedenem Kampf dem Willen der Götter und vollzogen am Opferplatz ein blutiges Opfer. Freiwillig meldete sich ein verwundeter Kelte, und da Taranis nicht viel Blut verlangte, versöhnten sich die Heere gegenseitig ..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Werkzeuge aus der Urgeschichte (Archeopark Liptovia)",
+    "alt": "Werkzeuge aus der Urgeschichte (Archeopark Liptovia)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Veranstaltung nahmen Gruppen aus Böhmen (Písek), Polen, Mähren, Österreich und der Slowakei teil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das schöne Programm wurde uns durch Wetter wie auf Bestellung noch angenehmer gemacht, und die magische Umgebung streichelte Auge und Seele."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Einzige, was ich nicht verstanden habe, war das Vorgehen des Liptauer Museums (der Verwalter des Freilichtmuseums). Am Eingang wurde ein gesondertes Eintrittsgeld erhoben, und nach dessen Bezahlung musste man ein zweites Mal bei den Organisatoren der Veranstaltung selbst zahlen. Empört hat uns auch das Verhalten des Museums gegenüber den einzigen Verkäufern von Essen und Getränken, die sich um die hungrigen Besucher kümmerten. Ihnen wurde ständig der Strom abgeschaltet, und eine Wasserversorgung wurde ihnen nicht bereitgestellt. Dabei ist eine Verpflegung bei solchen Veranstaltungen eine Notwendigkeit. Die Besucher mit Kindern brauchten eine Erfrischung, und das Museum legte ihnen, statt Essen und Trinken sicherzustellen, noch Hindernisse in den Weg. Ein Beispiel für die Beschränkten (Bürokraten) einer staatlichen Institution."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

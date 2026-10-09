@@ -1,0 +1,528 @@
+{
+ "slug": "drazovce",
+ "data": {
+  "title": "Dražovce – Burgwall über Nitra mit dem fotogensten Kirchlein der Slowakei",
+  "slug": "drazovce-burgwall-kirchlein-bei-nitra",
+  "excerpt": "Die Gemeinde Dražovce liegt 6 km westlich von Nitra; erstmals erwähnt wird sie 1113 in der Urkunde der Zoborer Abtei als „Villa Drasey S. Ypoliti“. Über dem Dorf erhebt sich ein steiler Hügel, der westliche Ausläufer des Zobor-Gebirges, mit dem bekannten Kirchlein. Der von Wällen umschlossene Gipfel war schon in der Urgeschichte besiedelt und diente in großmährischer Zeit wohl als Wachburgwall; vom 11. Jahrhundert bis in die erste Hälfte des 17. Jahrhunderts wurde hier bestattet.",
+  "metaTitle": "Dražovce – Burgwall und Kirchlein bei Nitra",
+  "metaDescription": "Über Dražovce bei Nitra erhebt sich ein Burgwall mit dem bekannten Kirchlein; die Zoborer Urkunde von 1113 nennt den Ort „Villa Drasey S. Ypoliti“.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "icon": "map",
+    "value": "Die Gemeinde Dražovce liegt 6 km westlich von Nitra (Neutra); der Burgwall befindet sich auf einem steilen Hügel über dem Dorf, auf dem westlichen Ausläufer des Zobor-Gebirges."
+   },
+   {
+    "label": "Das Kirchlein von Dražovce",
+    "icon": "building",
+    "value": "Auf dem Burgwall steht das bekannte Kirchlein von Dražovce, das zu den fotogensten Kirchlein der Slowakei zählt."
+   },
+   {
+    "label": "Länge des Gipfelwalls",
+    "icon": "mountain",
+    "value": "Der Gipfelwall ist 190 m lang und umschließt mit einem großen Bogen die Plattform der Hauptburg."
+   },
+   {
+    "label": "Fläche des Burgwalls",
+    "icon": "map",
+    "value": "Nach der Messung von Janšák betrug die Fläche des Burgwalls 4,2 Ar."
+   },
+   {
+    "label": "Drei Höfe des Burgwalls",
+    "icon": "shield",
+    "value": "Der Burgwall hatte drei Höfe – zwei äußere Vorburgen zwischen den Wällen und einen inneren Raum, die bis heute erhaltene Hauptburg."
+   },
+   {
+    "label": "Konstruktion der Befestigung",
+    "icon": "custom",
+    "value": "Die Mauer im östlichen Teil des Walls bestand aus zwei Steinmauern mit einer dazwischen mit Lehm verfüllten Holzkonstruktion, im nördlichen Teil stand wahrscheinlich nur eine hölzerne Palisade."
+   },
+   {
+    "label": "Jahrhunderte der Bestattung",
+    "icon": "book",
+    "value": "Auf dem Friedhof bei der Kirche wurde etwa 500 Jahre lang bestattet, vom 11. Jahrhundert bis in die erste Hälfte des 17. Jahrhunderts."
+   },
+   {
+    "label": "Urgeschichtliche Besiedlung",
+    "icon": "star",
+    "value": "Keramikfunde (Lengyel-Kultur, Kultur mit kannelierter Keramik) belegen, dass die Plattform schon in der Urgeschichte, in der Jungsteinzeit, besiedelt war."
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "type": "era",
+    "title": "Der Burgwall in großmährischer Zeit",
+    "description": "Die Konstruktion der Befestigung schließt an die Mauern großmährischer Zeit an; die günstige Lage und die Nähe der Agglomeration von Nitra sprechen dafür, dass der Burgwall bereits zur Zeit Großmährens errichtet und genutzt wurde, wahrscheinlich als Wachburgwall mit militärischer Funktion."
+   },
+   {
+    "year": "Mitte des 11. Jahrhunderts",
+    "type": "construction",
+    "title": "Errichtung der ersten Steinkirche",
+    "description": "Die erste, irgendwann um die Mitte des 11. Jahrhunderts aus Stein errichtete Kirche hat sich nur in den Fundamenten des heutigen Baus erhalten; die Apsis hatte ursprünglich eine hufeisenförmige Gestalt."
+   },
+   {
+    "year": "11. Jahrhundert",
+    "type": "destruction",
+    "title": "Die Schicht des 9. Jahrhunderts von Gräbern zerstört",
+    "description": "Die vermutete Kulturschicht des 9. Jahrhunderts wurde schon durch die ältesten Gräber des 11. Jahrhunderts zerstört, da die Fläche des Burgwalls dauerhaft als Gräberfeld genutzt wurde."
+   },
+   {
+    "year": "1113",
+    "type": "event",
+    "title": "Erste schriftliche Erwähnung von Dražovce",
+    "description": "Die erste Nachricht über die Gemeinde hat sich in der Urkunde der Zoborer Abtei erhalten, in der sie als „Villa Drasey S. Ypoliti“ erwähnt wird."
+   },
+   {
+    "year": "11. Jh. – erste Hälfte des 17. Jh.",
+    "type": "era",
+    "title": "Mittelalterliches Gräberfeld bei der Kirche",
+    "description": "Die Menge der gefundenen Gräber spricht dafür, dass der Ort vom 11. Jahrhundert bis in die erste Hälfte des 17. Jahrhunderts als Friedhof diente; bestattet wurde hier etwa 500 Jahre lang."
+   },
+   {
+    "year": "1929",
+    "type": "discovery",
+    "title": "Erste Untersuchung durch Štefan Janšák",
+    "description": "Als erster vermaß und beschrieb Štefan Janšák den Burgwall; er fertigte einen detaillierten Plan mit Höhenlinien und Querprofilen an, der dessen damaligen Zustand festhielt."
+   },
+   {
+    "year": "1947",
+    "type": "destruction",
+    "title": "Beschädigung des Walls durch den Steinbruch",
+    "description": "Der Vergleich des Plans von Janšák mit dem Zustand des Burgwalls im Jahr 1947 zeigte, dass der Steinbruch den Wall auf der Südseite bis dahin fast vollständig zerstört hatte."
+   },
+   {
+    "year": "1961",
+    "type": "discovery",
+    "title": "Ausgrabung von Ľ. Kraskovská",
+    "description": "Kraskovská publizierte die Ausgrabung des Burgwalls in Dražovce in den Študijné zvesti AÚ SAV, Band 6."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6440,
+    "alt": "Luftbild des Kirchleins auf dem felsigen Hügel über den Feldern im Abendlicht"
+   },
+   {
+    "mediaId": 2664,
+    "caption": "Luftbild des Burgwalls, auf dem unter anderem im rechten Teil der Wall der Hauptburg deutlich zu erkennen ist. Autor: Matúš Šajbidor",
+    "alt": "Luftbild des Burgwalls, auf dem unter anderem im rechten Teil der Wall der Hauptburg deutlich zu erkennen ist. Autor: Matúš Šajbidor"
+   },
+   {
+    "mediaId": 2665,
+    "caption": "Dražovce Ende der 1920er Jahre nach Janšák",
+    "alt": "Dražovce Ende der 1920er Jahre nach Janšák"
+   },
+   {
+    "mediaId": 2666,
+    "caption": "Štefan Janšák vermaß und zeichnete den Burgwall noch vor seiner teilweisen Beschädigung durch den Steinbruch",
+    "alt": "Štefan Janšák vermaß und zeichnete den Burgwall noch vor seiner teilweisen Beschädigung durch den Steinbruch"
+   },
+   {
+    "mediaId": 2669,
+    "caption": "Informationstafel vor dem Zugang zum Burgwall",
+    "alt": "Informationstafel vor dem Zugang zum Burgwall"
+   },
+   {
+    "mediaId": 2670,
+    "caption": "Im Vordergrund der innere Wall",
+    "alt": "Im Vordergrund der innere Wall"
+   },
+   {
+    "mediaId": 2671,
+    "caption": "Krone des inneren Walls",
+    "alt": "Krone des inneren Walls"
+   },
+   {
+    "mediaId": 2672,
+    "caption": "Drei Ansichten des inneren Walls",
+    "alt": "Drei Ansichten des inneren Walls"
+   },
+   {
+    "mediaId": 2675,
+    "caption": "Links, dort wo das Wäldchen steht, setzt sich der Wall fort",
+    "alt": "Links, dort wo das Wäldchen steht, setzt sich der Wall fort"
+   },
+   {
+    "mediaId": 2677,
+    "caption": "Im Inneren des Kirchleins weht Sie eine tausendjährige Geschichte an",
+    "alt": "Im Inneren des Kirchleins weht Sie eine tausendjährige Geschichte an"
+   },
+   {
+    "mediaId": 2681,
+    "caption": "Vom Herrenhof aus bot sich der Blick auf drei Burgwälle von Nitra. Von links: Zobor, Lupka, Hrad",
+    "alt": "Vom Herrenhof aus bot sich der Blick auf drei Burgwälle von Nitra. Von links: Zobor, Lupka, Hrad"
+   },
+   {
+    "mediaId": 2683,
+    "caption": "Der durch den Steinbruch gestörte Burgwall",
+    "alt": "Der durch den Steinbruch gestörte Burgwall"
+   },
+   {
+    "mediaId": 2686,
+    "caption": "Im Vordergrund Lupka, im Hintergrund Nitra-Hrad",
+    "alt": "Im Vordergrund Lupka, im Hintergrund Nitra-Hrad"
+   },
+   {
+    "mediaId": 2688,
+    "caption": "Aber was ist das denn nun wieder?",
+    "alt": "Aber was ist das denn nun wieder?"
+   },
+   {
+    "mediaId": 2689,
+    "caption": "Der mittlere Wall",
+    "alt": "Der mittlere Wall"
+   },
+   {
+    "mediaId": 2691,
+    "caption": "Fortsetzung des mittleren Walls",
+    "alt": "Fortsetzung des mittleren Walls"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Dražovce liegt in der Nähe von Nitra (Neutra), 6 km westlich der Stadt. Die erste Nachricht über die Gemeinde Dražovce hat sich in der Urkunde der Zoborer Abtei aus dem Jahr 1113 erhalten, in der sie als „Villa Drasey S. Ypoliti“ erwähnt wird. Über dem Dorf erhebt sich ein steiler Hügel – der westliche Ausläufer des Zobor-Gebirges –, auf dem eine kleine Kirche steht. Es ist das bekannte "
+       },
+       {
+        "type": "link",
+        "url": "http://dromedar.zoznam.sk/cl/100195/1306925/Kostolik-v-Drazovciach---jedinecna-dominanta-okolia-Nitry",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kirchlein von Dražovce"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", das zu den fotogensten Kirchlein der Slowakei zählt. Die erste, irgendwann um die Mitte des 11. Jahrhunderts aus Stein errichtete Kirche hat sich nur in den Fundamenten des heutigen Baus erhalten. Der Grundriss des Schiffs war derselbe wie heute, die Apsis hatte dagegen ursprünglich eine hufeisenförmige Gestalt. Der ursprüngliche Bau wurde zerstört, und es blieben nur seine Fundamente erhalten. Auf ihnen wurde in einer weiteren Phase eine neue Kirche errichtet, wieder überwiegend aus Stein, mit einem geringen Anteil an Ziegeln. Auch sie wurde nach einiger Zeit wieder zerstört, wobei von ihr Mauern bis zu einer Höhe von 3 bis 3,5 Metern im ganzen Umfang erhalten blieben, einschließlich der Apsis."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Dražovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die heutige Kirche, schon aus Ziegeln, wurde unter Nutzung dieser Mauern errichtet – es handelt sich um den oberen Teil der Wände des Kirchenschiffs mit drei Fenstern, den niedrigen Aufbau der Apsis und ihre Wölbung, die Konche. Der Felsen besteht aus Jurakalken. Der von Wällen umschlossene obere Teil des Hügels hatte die Funktion eines Burgwalls. Auf der Ostseite des Burgwalls hat sich ein höherer Wall erhalten, auf der Südseite ist der Wall beim Steinabbau größtenteils zerstört, denn der Ort diente in der Vergangenheit als Steinbruch. Von Westen hatte der Felsen einen so steilen Hang, dass hier wahrscheinlich keine Befestigung errichtet wurde; auf der Nordseite blieben nur kleinere Reste des Walls. Östlich des ersten Walls zogen sich zwei niedrigere Wälle hin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als erster vermaß und beschrieb Š. Janšák den Burgwall. Ein detaillierter Plan des Burgwalls mit Höhenlinien und Querprofilen zeigte seinen Zustand von 1929. Beim Vergleich des Plans mit dem Zustand des Burgwalls im Jahr 1947 ist zu sehen, dass der Steinbruch seitdem den Wall auf der Südseite fast vollständig zerstört hat. Auf der Nordseite zerfiel der Wall, der unmittelbar am Rand der Plattform verlief, und stürzte größtenteils ein. Š. Janšák führt an, dass sich hier eine urgeschichtliche befestigte Höhensiedlung befand, wobei er den Aufbau des größeren Walls und den christlichen Friedhof ausführlich beschreibt, dessen Gräber teilweise in den Wall eingetieft waren. Die Fläche des Burgwalls betrug damals 4,2 Ar. Die Oberfläche war durch ausgehobene Gräber, jüngere Gruben und das Weiden von Vieh, vor allem von Schweinen, erheblich beschädigt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Dražovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "die natürliche Sicherheit der Burganlage ist dadurch gegeben, dass der Bergausläufer nach Norden und Westen sehr steil in das Tal abfällt und im Westen keinerlei Verteidigung, im Norden nur einen einfachen Wall erforderte. Der natürliche Zugang zur Burganlage führt von der Südseite, von der Gemeinde Dražovce her, über einen leicht ansteigenden Hang. Von den künstlichen Befestigungen ist heute mit Sicherheit nur noch die Lage des Gipfelwalls bekannt, mag er auch an zwei Stellen unterbrochen sein. Dieser 190 m lange Wall umschließt mit einem großen Bogen auf der Süd-, Ost- und Nordseite eine sehr bequeme Plattform, die geeignet ist, die Funktion einer Hauptburg zu versehen. Von den übrigen äußeren Wällen ist heute nur noch der 160 m lange Wall a b d und der 44 m lange Wall b c zu erkennen, die beide auf der Ostseite in den Punkten c, d enden. Offensichtlich ist jedoch, dass sie noch weiter verliefen und zwei große Vorburgen umschlossen, die mit ihrer Ausdehnung bis auf die Fläche reichten, auf der heute ein Teil der Gemeinde Dražovce steht. Der Gipfelwall k l m n o p r ist sehr abgeflacht, zum Inneren der Anlage hin nur etwa 80 cm hoch. Nach außen zog er sich über einer steilen Geländestufe hin, mit der er zusammen noch heute ein 3–4 m hohes Hindernis bildet. Unterbrochen ist er an der Stelle p durch einen Zugang, der nach der Gesamtlage der Burganlage und ihrer Befestigungen das ursprüngliche Tor zu ihr gewesen sein konnte. Das Material, aus dem dieser Wall errichtet ist, lässt sich an den vom Steinbruch durchbrochenen Stellen bequem feststellen. In der Partie k l ist es gebrannter Lehm und Sand, und zwar von so heftiger Glut, dass sie eine Schlacke ergibt, die der Schlacke von Hochöfen ganz ähnlich ist. In ihrer Nachbarschaft findet sich stellenweise vollkommen erhaltene Holzkohle. In der Partie m n, wo der Wall auf 18 m Länge geöffnet ist, tritt neben dem verbrannten Lehm eine große Menge grauer Asche (nicht Kohle) auf, vermischt mit einer unbedeutenden Menge von Keramikscherben und mit reichlichen Bruchstücken flacher Tropfsteine, die den Eindruck primitiver Werkzeuge der ersten Steinzeit machen. In den Punkten n o sowie an mehreren weiteren Stellen der Oberfläche (hauptsächlich auf der Nordseite) lassen sich erneut ganz sicher starke Spuren von Glut feststellen, was auf Wälle hinweisen würde, die die Fachliteratur als „verglaste“ bezeichnet. Der Wall a b d zieht sich in südöstlicher Richtung und dann in einem großen Bogen nach Süden, steigt von der Kote 204 auf 183 ab und endet im Punkt d. In der oberen Partie ist er sehr deutlich und verliert sich allmählich. Parallel zu ihm verläuft der Rest des Walls b c. Diese beiden Wälle, aus Material ohne jegliche Spuren von Feuer errichtet, sind nicht abgeschlossen, umschließen nichts und schließen auch an kein natürliches Hindernis an; sie erfordern daher logischerweise (im Hinblick auf die Analogie anderer Burganlagen und auf die Zweckmäßigkeit) eine solche Fortsetzung, dass durch sie ein bestimmter Raum vollkommen abgeschlossen war. Das ist nur dann möglich, wenn wir uns auf der westlichen, durch den Steinbruch völlig zerstörten Seite ihren Anschluss durch den Wall e f bis an den Felsen oder an den Gipfelwall denken. Diese Annahme wird durch den Fund von Resten eines verglasten Walls auf der südwestlichen Seite gestützt, unmittelbar oberhalb der Zigeunerkolonie (nun aber, Herr Janšák, so viel politische Unkorrektheit!). Der Hang ist dort von einer Lehmgrube und einem Steinbruch durchschnitten, und an einer Stelle finden sich darin Asche, Kohle und auch verbrannter Lehm, etwa 1 m unter der Oberfläche. Daraus ließe sich ableiten, dass die Burganlage drei Höfe hatte: zwei äußere, durch die Segmente zwischen den Wällen a b d und b c angedeutete, und einen inneren, die bis heute erhaltene Hauptburg.",
+    "author": "Štefan Janšák",
+    "source": "Slovenské hradiská z doby hallštatskej, 1929"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon in den 1920er Jahren, als Štefan Janšák den Burgwall vermaß und dort eine erste Untersuchung durchführte, war der Erhaltungszustand des Burgwalls alarmierend. Janšák beschreibt ihn so farbig:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die Aufmerksamkeit der heutigen Bevölkerung wird heute mehr von dem christlichen Friedhof mit seinen auffälligen Überresten der Begrabenen und der mit ihnen verscharrten Gegenstände gefesselt als von der alten, urgeschichtlichen Siedlung. Die ausgelassene Jugend spielt vergnügt mit ganzen Schädeln und Knochen, denen gegenüber sich auch die Schweine nicht eben ehrfürchtig verhalten. Die Erwachsenen wiederum sammeln Waffen und kleine Zierstücke (alles aus historischer Zeit), die in die Gräber gelangt sind. Nach den an Ort und Stelle eingeholten mündlichen Auskünften befindet sich wenigstens eine beträchtliche Zahl solcher Gegenstände in den Händen mehrerer Bürger von Dražovce.\n\nFunde lassen sich mit Sicherheit nur im Gipfelwall feststellen, der auch die Überreste des christlichen Gräberfeldes birgt. Es sind, wie schon erwähnt, rot gebrannter Lehm und Sand, eine Menge mit Sand vermischter Asche, Scherben, die sich nach dem bisher gewonnenen Material nicht sicher bestimmen lassen, und Bruchstücke von Tropfsteinen in der Asche.",
+    "author": "Štefan Janšák",
+    "source": "Slovenské hradiská z doby hallštatskej, 1929"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Urgeschichtliche Besiedlung der Plattform"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Dražovce",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Ausgrabung des Burgwalls wurde anhand des Fundmaterials festgestellt, dass dieser bereits in der Urgeschichte besiedelt war. In den Schnitten und in der Verfüllung der Gräber fanden sich einzelne urgeschichtliche Scherben und Fragmente von Steingeräten. In die Jungsteinzeit lässt sich eine gefundene rötliche Schale mit geraden Wänden einordnen; unter dem Rand waren senkrecht zwei ovale Buckel angebracht. Aus dieser Zeit stammen auch einige Keramikfragmente mit plastischer Verzierung, z. B. eine Scherbe mit waagerecht angesetztem Henkel, eine Scherbe mit einem kleinen konischen Vorsprung, ein walzenförmiger Buckel und eine mit tiefen Rillen verzierte Scherbe. Die aus körnigem Material gefertigte Keramik von gelber oder rötlicher Farbe gehörte am ehesten in den Bereich der Lengyel-Kultur. Mit ausgeprägteren Hinterlassenschaften war die Kultur mit kannelierter Keramik vertreten. Flache Spinnwirtel aus Ton, Fragmente von Feuersteingeräten und Kerne, die auf der Fläche des Burgwalls ausgegraben wurden, waren im Neolithikum und im Äneolithikum in Gebrauch, weshalb über ihre Datierung nicht sicher entschieden werden kann. Außer Scherben wurden auch Überreste einer Behausung entdeckt, die wahrscheinlich ebenfalls zur Kultur mit kannelierter Keramik gehörte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung des Burgwalls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Luftbild des Burgwalls, auf dem unter anderem im rechten Teil der Wall der Hauptburg deutlich zu erkennen ist. Autor: Matúš Šajbidor",
+    "alt": "Luftbild des Burgwalls, auf dem unter anderem im rechten Teil der Wall der Hauptburg deutlich zu erkennen ist. Autor: Matúš Šajbidor",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste größere Wall wurde an zwei Stellen untersucht. Der im östlichen Abschnitt des Walls angelegte Schnitt zeigte, dass der Wall durch jüngere Gräber gestört war, weshalb sich hier sein gesamtes Profil nicht rekonstruieren ließ. Im östlichen Hang des Walls begann in einer Tiefe von 30 cm eine Aschenschicht; sie war mit Holzkohlestückchen und durchglühten Steinen vermischt und reichte bis in eine Tiefe von 80 cm auf den gewachsenen Felsen. Hinter der Aschenschicht lag im Wall eine 35 cm dicke Schicht roten, gebrannten Lehms; sie begann in einer Tiefe von 30 cm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Schnitt im nordöstlichen Teil des Walls lieferte ein besser erhaltenes Profil, wobei festgestellt wurde, dass an den Seiten des Walls zwei trocken aufgeschichtete Steinmauern verliefen. Die Steinschicht auf der Nordseite war 60 cm hoch und 130 cm breit. Die Steinmauer auf der Südseite war 35 cm hoch und 140 cm breit, der Abstand zwischen ihnen betrug 430 cm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anhand der Wallprofile lässt sich eine Rekonstruktion der Befestigung vornehmen. Im östlichen Teil des Walls bestand die Mauer aus zwei Steinmauern, zwischen denen sich eine mit Lehm verfüllte Holzkonstruktion befand. Interessant ist die Verwendung einer keilförmigen Stütze zur Verstärkung der Mauer in der Biegung, wo es am ehesten zu einem Abrutschen der Mauer kommen konnte. Im nördlichen Teil des Walls stand wahrscheinlich nur eine hölzerne Palisade, von der eine Schicht schwarzer Erde mit Holzkohlestückchen übrig blieb. Dieser Teil der Befestigung hatte auch eine jüngere Phase, in der auf die Schicht schwarzer Erde ein Wall aus Lehm vom Areal des Gräberfeldes aufgeschüttet wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Dražovce Ende der 1920er Jahre nach Janšák",
+    "alt": "Dražovce Ende der 1920er Jahre nach Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kraskovská führt ebenfalls an, dass die Konstruktion der Befestigung an die Mauern großmährischer Zeit anschließt. Dafür, dass der Burgwall bereits zur Zeit Großmährens errichtet und genutzt wurde, sprechen seine günstige Lage und die Nähe der Agglomeration von Nitra. Seine Lage bietet sich unmittelbar dafür an, dass darauf mindestens ein Wachburgwall mit überwiegend militärischer Funktion errichtet wurde. Auch die Konstruktion der Mauer spricht dafür, dass diese in großmährischer Zeit errichtet worden sein konnte (eine Holz-Erde-Konstruktion mit einer kleinen Steinmauer). Leider gelang es während der Ausgrabung nicht, die Existenz eines Herrenhofs aus großmährischer Zeit eindeutig nachzuweisen, denn auf dem Burgwall fehlen Funde, die auf die Anwesenheit einer reichen Schicht hindeuten würden. Es gelang nicht, Fundamente bzw. Überreste eines repräsentativen Baus zu finden, und auch keine Luxusware aus dieser Zeit – wie es etwa in Ducové der Fall war. Ein solches Fehlen von Funden lässt sich nach seiner Ansicht jedoch durch die Tatsache erklären, dass die ganze vermutete Kulturschicht des 9. Jahrhunderts im Laufe des Altertums dadurch zerstört wurde, dass die Fläche des Burgwalls dauerhaft als Gräberfeld genutzt wurde, wobei ältere Gräber oft durch jüngere zerstört wurden. Dabei lässt sich annehmen, dass die Schicht des 9. Jahrhunderts schon durch die ältesten Gräber des 11. Jahrhunderts zerstört wurde.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " (Anm. Orgoň)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das mittelalterliche Gräberfeld",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Štefan Janšák vermaß und zeichnete den Burgwall noch vor seiner teilweisen Beschädigung durch den Steinbruch",
+    "alt": "Štefan Janšák vermaß und zeichnete den Burgwall noch vor seiner teilweisen Beschädigung durch den Steinbruch",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Menge der im Areal gefundenen Gräber spricht dafür, dass der Ort schon im 11. Jahrhundert als Friedhof zu dienen begann. In der Zeit der Bestattungen verlor der Ort offenbar seine Funktion als Burgwall. Die gefundenen Gegenstände bezeugen eine ständige Nutzung des Friedhofs vom 11. Jahrhundert bis in die erste Hälfte des 17. Jahrhunderts, das heißt nahezu während der ganzen Feudalzeit. Auf dem Friedhof bei der Kirche wurde etwa 500 Jahre lang auf einer verhältnismäßig kleinen Fläche bestattet, deshalb wurden ältere Gräber ständig gestört und der Boden um die Kirche war vollständig durchgraben. Auf dem Friedhof blieben keine geschlossenen Gruppen aus den einzelnen Zeitabschnitten erhalten. Die auf dem Friedhof gefundenen Kleidungsbestandteile ergänzen unsere spärlichen Kenntnisse über die Kleidung der Landbevölkerung, besonders im 14.–15. Jahrhundert. Zur Kleidung gehörten Ledergürtel mit bronzenen und knöchernen Zierstücken. Die weiten Ärmel der Frauenkleider wurden mit schmalen Lederbändchen mit Bronzezierden zusammengezogen. Bestandteile reicher Kleidung (Gürtel, Fingerringe) zeigen, dass ein Teil der Bestatteten zur feudalen Herrschaft gehörte. Das Gräberfeld in Dražovce lieferte den unbestreitbaren Beleg, dass sich der Brauch, Münzen ins Grab zu legen, hier durch das ganze Mittelalter hielt und noch in der ersten Hälfte des 17. Jahrhunderts andauerte. Ebenso wurde der Brauch, Messer ins Grab zu legen, für das 16. Jahrhundert durch eine Münze bestätigt.\n\nHeutiger Zustand und Kennzeichnung: Etwa 100 Meter vom Burgwall entfernt stellen Sie Ihr Auto am Beginn des Feldwegs vor dem Schlagbaum ab, und an diesem informiert Sie eine vorbildliche Informationstafel nicht nur über das "
+       },
+       {
+        "type": "link",
+        "url": "http://dromedar.zoznam.sk/cl/100195/1306925/Kostolik-v-Drazovciach---jedinecna-dominanta-okolia-Nitry",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kirchlein"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", sondern auch über den slawischen Burgwall. Schade ist wohl nur, dass das "
+       },
+       {
+        "type": "link",
+        "url": "http://dromedar.zoznam.sk/cl/100195/1306925/Kostolik-v-Drazovciach---jedinecna-dominanta-okolia-Nitry",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kirchlein"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " normalerweise nicht geöffnet ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Dražovce",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

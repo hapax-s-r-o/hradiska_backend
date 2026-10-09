@@ -1,0 +1,319 @@
+{
+ "slug": "prasnik-tlsta-hora",
+ "data": {
+  "title": "Prašník – Tlstá hora: eine hallstattzeitliche Höhensiedlung am alten Karpatenpass",
+  "slug": "prasnik-tlsta-hora-hallstattzeitliche-hoehensiedlung",
+  "excerpt": "Die Gemeinde Prašník ist unseren Lesern durch den slawischen Burgwall über der Osada u Fajnorov bekannt. 3,5 km östlich erhebt sich auf der Kuppe der Tlstá hora (Kote 426 m) eine weit weniger bekannte befestigte Höhensiedlung der älteren Eisenzeit, die wohl der Kalenderberg-Kultur zuzuschreiben ist; ihre Besiedlung endet an der Wende zur Latènezeit. Zu den bemerkenswertesten Funden gehört eine frühlatènezeitliche eiserne Gürtelschließe mit Greifen und einem Raubvogelkopf.",
+  "metaTitle": "Prašník – Tlstá hora: Höhensiedlung am alten Karpatenpass",
+  "metaDescription": "Die weniger bekannte Höhensiedlung auf der Tlstá hora bei Prašník, 3,5 km vom Hrádok entfernt, nahe einem alten Pass über die Kleinen Karpaten.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Kote 426 m, 3,5 km östlich von Prašník, Überhöhung von 226 m über dem Flüsschen Holeška",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Steinwand des Walls von etwa 2,30 m Höhe, Kastenkonstruktion von etwa 170 cm Breite",
+    "icon": "shield"
+   },
+   {
+    "label": "Außergewöhnlicher Fund",
+    "value": "frühlatènezeitliche eiserne Gürtelschließe mit der Verzierung eines Raubvogelkopfes und von Greifen",
+    "icon": "star"
+   },
+   {
+    "label": "Volkstümlicher Name",
+    "value": "manche nennen die Höhensiedlung auch Babylon",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ältere Eisenzeit (Hallstattzeit)",
+    "title": "Entstehung der Höhensiedlung des Volkes der Kalenderberg-Kultur",
+    "description": "Die Höhensiedlung datieren wir in die ältere Eisenzeit; ihr Erbauer war wohl das Volk der Kalenderberg-Kultur, die im Gebiet der heutigen Slowakei vor allem durch die Höhensiedlung Molpír berühmt wurde.",
+    "type": "founding"
+   },
+   {
+    "year": "Wende von der älteren zur jüngeren Eisenzeit",
+    "title": "Ende der Besiedlung",
+    "description": "Die Besiedlung der Höhensiedlung endet an der Wende von der älteren zur jüngeren (Latène-)Eisenzeit.",
+    "type": "destruction"
+   },
+   {
+    "year": "80er Jahre des 20. Jahrhunderts",
+    "title": "Archäologische Ausgrabung von Petr Novák",
+    "description": "Die Ausgrabung der Höhensiedlung führte zu Beginn der 80er Jahre der Mitarbeiter des Museums in Trnava Petr Novák durch, der hier 10 Schnitte anlegte.",
+    "type": "discovery"
+   },
+   {
+    "year": "2019",
+    "title": "Publikation des Fundes der Gürtelschließe",
+    "description": "K. Pieta publizierte im Jahr 2019 den Fund und die Analyse einer frühlatènezeitlichen eisernen Gürtelschließe mit einer Verzierung in Form von Greifen und dem Kopf eines Raubvogels.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3622,
+    "caption": "Die Tlstá hora in der LiDAR-Kartierung",
+    "alt": "Die Tlstá hora in der LiDAR-Kartierung"
+   },
+   {
+    "mediaId": 3623,
+    "caption": "Hortfund bronzener Halsringe von der Höhensiedlung",
+    "alt": "Hortfund bronzener Halsringe von der Höhensiedlung"
+   },
+   {
+    "mediaId": 3633,
+    "caption": "Der Bogen des Walls",
+    "alt": "Der Bogen des Walls"
+   },
+   {
+    "mediaId": 3635,
+    "caption": "Der heute benutzte Zugang zur Höhensiedlung hat den ursprünglichen Wall durchtrennt.",
+    "alt": "Der heute benutzte Zugang zur Höhensiedlung hat den ursprünglichen Wall durchtrennt."
+   },
+   {
+    "mediaId": 3636,
+    "caption": "Der benutzte Zugang zur Höhensiedlung, der den Wall durchschneidet 2",
+    "alt": "Der benutzte Zugang zur Höhensiedlung, der den Wall durchschneidet 2"
+   },
+   {
+    "mediaId": 3637,
+    "caption": "Durchtrennung des Walls durch einen alten, nicht mehr benutzten Waldweg unterhalb des benutzten Zugangs zur Höhensiedlung",
+    "alt": "Durchtrennung des Walls durch einen alten, nicht mehr benutzten Waldweg unterhalb des benutzten Zugangs zur Höhensiedlung"
+   },
+   {
+    "mediaId": 3638,
+    "caption": "Der durchtrennte Wall am benutzten Zugang zur Höhensiedlung",
+    "alt": "Der durchtrennte Wall am benutzten Zugang zur Höhensiedlung"
+   },
+   {
+    "mediaId": 3639,
+    "caption": "Der Anstieg des Walls zum heutigen Zugang 1",
+    "alt": "Der Anstieg des Walls zum heutigen Zugang 1"
+   },
+   {
+    "mediaId": 3640,
+    "caption": "Der Anstieg des Walls zum heutigen Zugang 2",
+    "alt": "Der Anstieg des Walls zum heutigen Zugang 2"
+   },
+   {
+    "mediaId": 3641,
+    "caption": "Der Wall an der Ostseite mit der Biegung in Richtung des heutigen Zugangs",
+    "alt": "Der Wall an der Ostseite mit der Biegung in Richtung des heutigen Zugangs"
+   },
+   {
+    "mediaId": 3642,
+    "caption": "Der Wall an der Ostseite",
+    "alt": "Der Wall an der Ostseite"
+   },
+   {
+    "mediaId": 3643,
+    "caption": "Der Beginn des Walls an der Ostseite",
+    "alt": "Der Beginn des Walls an der Ostseite"
+   },
+   {
+    "mediaId": 6445,
+    "alt": "Der Wallkörper mit der Biegung in Richtung des Zugangs, im Buchenwald"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Prašník ist unseren Lesern durch den interessanten, aber schon teilweise zerstörten slawischen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/prasnik-hradok-osada-u-fajnorov",
+        "children": [
+         {
+          "type": "text",
+          "text": "Burgwall über der Osada u Fajnorov"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bekannt. Die Gemeinde erstreckt sich in der Nähe eines alten Passes über die Kleinen Karpaten, der aus dem Hügelland von Trnava auf die andere Seite des Gebirges führt. Der erwähnte Hrádok liegt in unmittelbarer Nähe dieses Passes. In der Gemeinde erhebt sich jedoch auch eine weitere, weniger bekannte Burganlage, 3,5 km östlich davon, und zwar auf der Kuppe einer mächtigen Anhöhe namens Tlstá hora, auf der Kote 426 m. Die Höhensiedlung datieren wir in die mystische Periode der älteren Eisenzeit (Hallstattzeit), und ihr Erbauer war wohl das Volk der Kalenderberg-Kultur, die im Gebiet der heutigen Slowakei vor allem durch die Höhensiedlung Molpír mit ihren außergewöhnlichen Bronze- und Keramikfunden sowie durch die prächtige bemalte Keramik aus den hallstattzeitlichen Fürstengrabhügeln von Nové Košariská berühmt wurde. Die Besiedlung der Höhensiedlung endet an der Wende von der älteren zur jüngeren (Latène-)Eisenzeit. Manche nennen sie auch Babylon."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Tlstá hora in der LiDAR-Kartierung",
+    "alt": "Die Tlstá hora in der LiDAR-Kartierung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung der Höhensiedlung führte zu Beginn der 80er Jahre der Mitarbeiter des Museums in Trnava Petr Novák durch, der hier 10 Schnitte anlegte. Was Aussehen und Lage der Höhensiedlung betrifft, schreibt Novák, dass dem ovalen Hochplateau, das um 226 m über dem das Tal durchfließenden Flüsschen Holeška überhöht ist, durch die Befestigung ein Teil des östlichen Hanges mit künstlich angelegten Terrassen angegliedert ist. Am nördlichen und westlichen Rand der Höhensiedlung wurde keine Befestigung festgestellt, doch die steilen Abhänge mit den hervortretenden Felsen des Kalksteinuntergrundes boten auch mit einer eventuellen hölzernen Palisade ausreichenden Schutz vor einem möglichen Angriff des Feindes. Die Befestigung der südöstlichen Seite der Höhensiedlung ist nicht vollendet, und vom steilen nördlichen Hang trennen sie etwa 40 Meter. Ursprünglich befand sich dort wohl nur eine Palisade, und man nahm an, dass der Wall fertiggebaut werden sollte. Die vordere Wand des Walls bestand aus trocken gesetzten Steinen, der Wall hatte wohl eine Kastenkonstruktion mit einer Breite von etwa 170 cm. Die Steinwand des Walls hatte eine Höhe von etwa 2,30 Metern, und es ist anzunehmen (auch wenn es durch die Ausgrabung nicht belegt werden konnte), dass auf der Wallkrone noch eine hölzerne Palisade errichtet war. Durch die Ausgrabung wurden auf der Höhensiedlung mehrere Häuser bestätigt, die wohl eine ähnliche Konstruktion hatten wie die Häuser auf der erwähnten Höhensiedlung Molpír in Smolenice, wobei es sich um Pfosten handelte, zwischen denen ein Rutengeflecht mit Lehmbewurf verstrichen war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was die bei der Ausgrabung gefundenen Funde betrifft, stellt die Keramik die größte Menge dar, deren Analogien wir aus dem Milieu der Lausitzer Kultur (Tassen), aber auch aus dem Milieu des nordöstlichen Ungarn (Mezőcsát-Kultur) kennen. Am zahlreichsten ist jedoch die Keramik der Kalenderberg-Kultur, alles in die hallstattzeitliche Periode datiert. Außerdem fanden sich mehrere tönerne Spinnwirtel, ein bronzener Ring, eine dreikantige bronzene Pfeilspitze, die auch von Molpír bekannt ist und Nomadenvölkern wie den Skythen zugeschrieben wird, aber auch bemerkenswerte Erzeugnisse aus Geweih, etwa mit geometrischen Ornamenten verzierte Plättchen und verschiedene Geweihwerkzeuge. Alle diese Funde fügen sich in das Bild der Besiedlung der Höhensiedlung in der älteren Eisenzeit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hortfund bronzener Halsringe von der Höhensiedlung",
+    "alt": "Hortfund bronzener Halsringe von der Höhensiedlung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung konnte einerseits die Funktion eines wichtigen Wach- und Handelspunktes am Gebirgsübergang erfüllen, doch Novák schließt auch die Funktion eines lokalen Verwaltungszentrums in der Zeit der Hallstattkultur nicht aus. Leider war die Höhensiedlung in der Vergangenheit Ziel von Raubgräbern und ist es immer noch; diese haben auf der Höhensiedlung unlängst sogar einen Archäologen angegriffen. Es wird daher im Interesse von uns allen sein, wenn Touristen und an unserer Geschichte Interessierte häufiger zur Höhensiedlung kommen, denn je mehr Menschen sich dort bewegen, desto weniger Ruhe werden die Raubgräber haben. Freunde des Geocaching können hier auch einen "
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC3T4CV_vykryvac-babylon",
+        "children": [
+         {
+          "type": "text",
+          "text": "Geocache"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " suchen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein interessanter Fund einer frühlatènezeitlichen Gürtelschließe von der Höhensiedlung Prašník – Tlstá hora. \n",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bronzener Beschlag",
+    "alt": "Prašník - Tlstá hora",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\nAus dem Artikel von K. Pieta aus dem Jahr 2019:\n „Die Zahl der frühlatènezeitlichen Fundstellen aus dem Gebiet der Kleinen Karpaten hat ein älterer Zufallsfund einer eisernen Gürtelschließe erweitert, der zusammen mit weiteren Gegenständen dokumentiert werden konnte (Abb. 1; 2). Nach den gewonnenen Angaben stammen sie von der Höhensiedlung Prašník, Tlstá hora (426 m), Bezirk Trnava, mit einer intensiven Besiedlung der Kalenderberg-Kultur mit Lausitzer Einflüssen (Novák 2001; Veliačik/Romsauer 1994). Die kastenförmige eiserne Schließe (zweiteilige Schließe mit Hülse; Bujna 2011, 125, 127) gehört zu den typischen Bestandteilen des Gürtels der weiblichen, vereinzelt aber auch der männlichen Tracht der frühlatènezeitlichen Periode (Abb. 3). Häufig sind sie vor allem in einfacher eiserner Ausführung ohne Verzierung (Frey 1996, 202, Abb. 2; 6; Stöllner 2002, 96–98). Auch die Schließen dieses Typs von der Höhensiedlung Slepý vrch bei Horné Orešany gehören überwiegend zu den schlichten eisernen Exemplaren (Pieta 2007, 13, Abb. 10; Pieta/Jakubčinová/ Šebesta 2011, 212, Abb. 97: 10). Das Exemplar aus Prašník gehört zu der Variante mit großem rechteckigem Plättchen und hervorstehendem Haken, die Bestandteil der Schließvorrichtung breiterer Ledergürtel waren. Es scheint, dass die Stücke mit hervorstehendem Haken einschließlich des Fundes aus Prašník zu den jüngeren Varianten gehören, die an das Ende der Stufe Lta oder an den Beginn der Stufe LtB1 (Bujna 2011, 125, 127), gegebenenfalls noch etwas später datiert werden (Ramsl 2011, 105). Die Verzierung der Schließe aus Prašník konzentrierte sich auf ihre sichtbaren Teile, auf den oberen Teil der Hülse und auf die aufgenietete Haltepartie. Der Haken hat die Form eines Tierkopfes, einer Maske mit schmalen Augen in Mandelform und einer plastischen Umrahmung der Brauenlinien, die durch Kerben hervorgehoben sind. Die runden Nüstern lassen an ein starkes fantastisches Tier, einen Vierfüßler (Stier, Widder, Wildschwein), denken. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Wall",
+    "alt": "Der Wall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Komposition der verzierten Fläche entspricht sehr gut dem frühlatènezeitlichen Stil mit der Verwendung antithetisch (gegenständig) gestellter Figuren, die eine symmetrische Komposition der Szene bilden. Paare von Greifen mit charakteristisch gekrümmtem Schnabel, runden oder mandelförmigen Augen und großen spitzen Ohren treten als orientalisierendes Motiv bereits in der ältesten Phase der keltischen Kunst auf, in der sie auf durchbrochenen Gürtelschließen und auf weiteren Prunkerzeugnissen angebracht werden. Zu den Details der Verzierung finden wir Parallelen an mehreren Artefakten der frühkeltischen Kunst. Die Mäanderlinien, die die zentrale Szene an den kürzeren Seiten der Hülse säumen, finden wir zum Beispiel an einer bronzenen Schließe aus Schwabsburg (Frey 2002, 291) oder an der Schließe aus Želkovice, Bezirk Hořovice (Megaw/Megaw 2001, Abb. 429B). Eine gewisse Vorlage zu dem analysierten Exemplar sehen wir in der bekannten bronzenen Schließe aus Grab 17 des österreichischen Gräberfeldes Herzogenburg-Ossarn mit einem Haken in Form eines Tierkopfes und antithetisch komponierter figuraler Ritzverzierung (Frey 2002, 288, Abb. 173). Die Gestalt des Greifen gelangte in das keltische Kunsthandwerk aus dem Orient und gehört in modifizierter Form (mit dem Kopf eines Raubvogels, eines Adlers, und dem Körper eines Vierfüßlers, aber ohne Flügel) zu den häufig verwendeten Motiven im gesamten Gebiet der frühkeltischen Zivilisation einschließlich ihres östlichen Teils (Frey 2002, 201, 202; Szabó 2012, 693). In der keltischen Ikonographie geht es wohl vorrangig um die Betonung des Raubvogels, des Adlers, der in der mythologischen Symbolik mit einer der Hauptgottheiten des keltischen Pantheons, mit Taranis, gleichgesetzt wird. Das Motiv des Raubvogelkopfes mit dem markanten, nach unten gekrümmten Schnabel gehört zu den häufigen Motiven vor allem auf Fibeln der frühlatènezeitlichen Periode. Wir finden sie auch an Fundorten der Westslowakei und ausnahmsweise auch im Gebirgsgebiet (Abb. 4). Zu den Funden aus der Slowakei kam ein exklusives Artefakt der keltischen bildenden Kunst aus Horné Orešany hinzu. Es ist der Griff eines Messers oder Rasiermessers mit einer applizierten Gestalt eines Greifen (Abb. 5)“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

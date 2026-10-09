@@ -1,0 +1,156 @@
+{
+ "slug": "peter-schreiber-nalez-prstena-z-hornej-marikovej",
+ "data": {
+  "title": "Peter Schreiber: Der Fund eines Fingerrings aus Horná Mariková",
+  "slug": "fingerring-fund-aus-horna-marikova",
+  "excerpt": "Aus der Gemarkung der Gemeinde Horná Mariková, aus der Siedlung Hapovce, stammt ein Einzelfund eines Fingerrings, der um das Jahr 1980 gefunden wurde.",
+  "metaTitle": "Schreiber: Fingerringfund aus Horná Mariková",
+  "metaDescription": "Ein Einzelfund eines bandförmigen Fingerrings aus Bronzeblech mit Ritzverzierung aus der Siedlung Hapovce bei Horná Mariková, entdeckt um 1980.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber",
+    "icon": "users"
+   },
+   {
+    "label": "Fundort",
+    "value": "Horná Mariková, Siedlung Hapovce",
+    "icon": "map"
+   },
+   {
+    "label": "Fund",
+    "value": "Bandförmiger Fingerring aus Bronzeblech mit Ritzverzierung",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung",
+    "value": "Ende des 10. – erste Hälfte des 15. Jahrhunderts",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 1980",
+    "title": "Fund des Fingerrings in Hapovce",
+    "description": "Einzelfund eines bandförmigen Fingerrings aus der Gemarkung der Gemeinde Horná Mariková, Siedlung Hapovce.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 10. – Anfang des 11. Jahrhunderts",
+    "title": "Analogien aus dem Gräberfeld in Čakajovce",
+    "description": "Ähnliche Ringformen wurden in Gräbern des Gräberfeldes in Čakajovce gefunden, die von Ende des 10. bis Anfang des 11. Jahrhunderts datiert werden.",
+    "type": "event"
+   },
+   {
+    "year": "1. Hälfte 12. – 2. Hälfte 13. Jahrhundert",
+    "title": "Analogien aus dem Gräberfeld in Krásno",
+    "description": "Die Fingerringe aus den Grabfunden in Krásno, Bezirk Topoľčany, werden in diese Zeit datiert; der jüngste Ring ist durch eine Münze im Grab in das 14. oder bis in die Mitte des 15. Jahrhunderts datiert.",
+    "type": "event"
+   },
+   {
+    "year": "1321",
+    "title": "Urkunde des Königs Karl Robert",
+    "description": "Das älteste erhaltene Schriftdenkmal zur Geschichte des Tals von Mariková — eine von König Karl Robert ausgestellte Urkunde.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4481,
+    "alt": "Vier Aufnahmen des bronzenen Fingerrings mit eingeritzten Zeichen aus verschiedenen Richtungen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fingerring selbst gehört typologisch zu den sogenannten Bandringen. Er ist wahrscheinlich aus Bronzeblech hergestellt und trägt an der Oberfläche eine starke, glänzende Patina (Abb. 4). Der Ring ist im oberen, verbreiterten Teil mit einer Ritzverzierung geschmückt (Abb. 1–3). Die Verzierung besteht aus kurzen Linien. Der obere Teil des Rings war wahrscheinlich teilweise offen, wobei die Enden des Blechs zueinander gebogen waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Datierung des Fundes fällt wahrscheinlich in das Mittelalter. Auf dem Gräberfeld in Čakajovce, Bezirk Nitra (Neutra), wurden ähnliche Ringformen in Gräbern gefunden, die von Ende des 10. bis Anfang des 11. Jahrhunderts datiert werden (Rejholcová 1995, 18, 71)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das zweite Gräberfeld, auf dem sich Analogien zu dem Ring finden, ist Krásno, Bezirk Topoľčany. Die Fingerringe aus den Grabfunden in Krásno werden in die erste Hälfte des 12. bis in die zweite Hälfte des 13. Jahrhunderts datiert. Der jüngste Ring ist hier durch eine Münze im Grab in das 14. oder bis in die Mitte des 15. Jahrhunderts datiert (Krupica 1978)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Peter Schreiber: Der Fund eines Fingerrings aus Horná Mariková",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der genannten Gräberfelder können wir den Fund des Fingerrings aus Horná Mariková also rahmenhaft von Ende des 10. bis in die erste Hälfte des 15. Jahrhunderts datieren. Trotz der recht weiten Datierung stellt dieser Gegenstand einen einzigartigen Fund im Rahmen des gesamten Tals von Mariková dar. Aus der Gemarkung der Gemeinde Horná Mariková kennen wir bislang keine archäologischen Funde, die eine Besiedlung gerade in dieser Periode belegen würden, die wir genauer auch als Hoch- bis Spätmittelalter bezeichnen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinsichtlich der Schriftquellen belegt das älteste erhaltene Denkmal, dass die Schlüsselquelle für die Geschichte des Tals von Mariková die von König Karl Robert im Jahr 1321 ausgestellte Urkunde ist (Šulavík 1991)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

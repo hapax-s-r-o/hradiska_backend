@@ -1,0 +1,490 @@
+{
+ "slug": "visegrad-dalsie-velkomoravske-hradisko-v-madarsku-hu",
+ "data": {
+  "title": "Visegrád – ein weiterer großmährischer Burgwall in Ungarn (HU)",
+  "slug": "visegrad-grossmaehrischer-burgwall-ungarn",
+  "excerpt": "Visegrád an der Donau, etwa 7 km Luftlinie von Štúrovo, ist vor allem für seine Königsburg aus der Zeit nach dem Tatareneinfall, den Salomonsturm und den Renaissancepalast bekannt. Kaum jemand weiß jedoch, dass auf dem benachbarten, niedrigeren Šibrik-Hügel eine römische Festung stand, die die Slawen zur Zeit Großmährens als Burgwall und lokales Verwaltungszentrum nutzten und Vyšehrad nannten. Der Name ist schon 1009 belegt.",
+  "metaTitle": "Visegrád – großmährischer Burgwall auf römischer Festung",
+  "metaDescription": "Bei Visegrád in Ungarn nutzten die Slawen zur Zeit Großmährens eine ältere römische Festung als Burgwall; später entstand hier die Königsburg.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Etwa 7 km Luftlinie von Štúrovo entfernt, auf dem Šibrik-Hügel (niedrigerer Nebenhügel gegenüber der heutigen Oberburg)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Römische Festung Pone Navata",
+    "value": "Dreieckiger Grundriss, Maße etwa 130 × 140 m, Teil des Limes Romanus; im 5. Jahrhundert verlassen",
+    "icon": "shield"
+   },
+   {
+    "label": "Slawischer Vyšehrad",
+    "value": "Der Name bedeutet „hochgelegene Burg“ — in den Quellen bereits im Jahr 1009 belegt; lokales Verwaltungszentrum des Neutraer Gebiets Großmährens",
+    "icon": "crown"
+   },
+   {
+    "label": "Vorromanische Kirche",
+    "value": "Fundamente aus dem 10. Jahrhundert, darunter ein Sporn aus dem 8. Jahrhundert und eine mit Ruten geflochtene Wand von der Wende 8./9. Jahrhundert",
+    "icon": "building"
+   },
+   {
+    "label": "Sitz des Gespans",
+    "value": "Steingebäude vom Beginn des 11. Jahrhunderts auf den Ruinen römischer Bauten, 16,5 × 10/9 m, mit einem beheizten Raum",
+    "icon": "building"
+   },
+   {
+    "label": "Gefängnis König Salomons",
+    "value": "Im Jahr 1081 wurde hier auf Befehl des hl. Ladislaus der gestürzte König Salomon gefangen gehalten",
+    "icon": "crown"
+   },
+   {
+    "label": "Heute",
+    "value": "Im Museum in Visegrád sind für die Zeit Großmährens typische Funde zu sehen, obwohl die ungarische Literatur den slawischen Burgwall kaum erwähnt",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende der 320er Jahre",
+    "title": "Die römische Festung Pone Navata",
+    "description": "Die Römer errichteten auf dem Šibrik-Hügel eine dreieckige Festung (Maße etwa 130 × 140 m), einen Teil der nördlichen Befestigungen des Limes Romanus.",
+    "type": "construction"
+   },
+   {
+    "year": "372",
+    "title": "Errichtung eines größeren Wachturms",
+    "description": "Zur römischen Festung kam ein größerer Wachturm hinzu.",
+    "type": "construction"
+   },
+   {
+    "year": "5. Jahrhundert",
+    "title": "Abzug der römischen Wachen",
+    "description": "Die römischen Wachen verließen die Festung.",
+    "type": "destruction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawischer Burgwall auf dem Šibrik-Hügel",
+    "description": "Die Slawen nutzten die Überreste der römischen Befestigung und errichteten einen Burgwall — ein lokales Verwaltungszentrum des Neutraer Gebiets Großmährens, benannt Vyšehrad (hochgelegene Burg).",
+    "type": "founding"
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Ältere mit Ruten geflochtene Wand",
+    "description": "Nach der Untersuchung aus dem Jahr 2013 Reste einer mit Ruten geflochtenen Wand unter den Fundamenten der späteren Kirche.",
+    "type": "construction"
+   },
+   {
+    "year": "10. Jahrhundert (ungarische Datierung)",
+    "title": "Vorromanische Kirche",
+    "description": "Fundamente einer vorromanischen Kirche, unter denen ein Sporn aus dem 8. Jahrhundert gefunden wurde; an der Außenseite das Grab eines wahrscheinlich bestatteten Priesters mit einem Teil eines Kelches.",
+    "type": "construction"
+   },
+   {
+    "year": "1009",
+    "title": "Erste schriftliche Erwähnung Visegráds als Komitatssitz",
+    "description": "Eine Urkunde König Stephans I. erwähnt Visegrád civitas; das Komitat Visegrád umfasste das Gebiet auf beiden Ufern der Donau.",
+    "type": "event"
+   },
+   {
+    "year": "Beginn des 11. Jahrhunderts",
+    "title": "Steingebäude — Sitz des Gespans",
+    "description": "Im südöstlichen Teil der Burg wurde auf den Ruinen römischer Bauten ein Gebäude (16,5 × 10/9 m) mit einem beheizten östlichen Raum errichtet.",
+    "type": "construction"
+   },
+   {
+    "year": "vor 1055",
+    "title": "Orthodoxes Kloster unterhalb des Šibrik-Hügels",
+    "description": "König Andreas I. ließ ein Kloster des östlichen Ritus für die mit seiner Frau Anastasia aus Kiew gekommenen Mönche errichten — früher, als er den Bau der Abtei in Tihany begann.",
+    "type": "construction"
+   },
+   {
+    "year": "1063 – 1081",
+    "title": "Propsteikirche und Gefangenschaft Salomons",
+    "description": "Nach dem Jahr 1063 wurde eine prächtige Propsteikirche mit Fresken errichtet; im Jahr 1081 ließ der hl. Ladislaus den gestürzten König Salomon in einen Turm der Festung einschließen.",
+    "type": "event"
+   },
+   {
+    "year": "1220er Jahre – 1490",
+    "title": "Wechsel in der Verwaltung des Klosters",
+    "description": "Das orthodoxe Kloster übernahmen in den 20er Jahren des 13. Jahrhunderts die Benediktiner, später, im Jahr 1490, die Pauliner.",
+    "type": "event"
+   },
+   {
+    "year": "12. Jahrhundert",
+    "title": "Verfall des Komitatszentrums",
+    "description": "Ähnlich wie andere Komitatssitze ohne vorteilhafte wirtschaftliche Lage begann auch Visegrád auf das Niveau eines dörflichen Marktzentrums abzusinken.",
+    "type": "destruction"
+   },
+   {
+    "year": "13. Jahrhundert (Tatareneinfall)",
+    "title": "Untergang der Komitatsburg",
+    "description": "Die vernachlässigte Komitatsburg auf dem Šibrik-Hügel fiel den Tataren zum Opfer; nach deren Abzug wurde sie nicht mehr erneuert.",
+    "type": "destruction"
+   },
+   {
+    "year": "um 1560",
+    "title": "Untergang des Klosters",
+    "description": "Das orthodoxe Kloster ging während der türkischen Herrschaft ganz unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "nach dem Tatareneinfall (13. Jahrhundert)",
+    "title": "Bau der neuen Ober- und Unterburg",
+    "description": "Im Rahmen des Programms Bélas IV. errichtete man die heutige Oberburg Visegrád und die Unterburg (den Salomonsturm); die Steine von der untergegangenen Komitatsburg wurden wiederverwendet.",
+    "type": "construction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6364,
+    "alt": "3D-Rekonstruktion der Burg mit weißer Mauer mit Zinnen und Türmen auf dem Sporn über dem Fluss"
+   },
+   {
+    "mediaId": 639,
+    "caption": "Plan von Visegrád. Unter der Nummer 4 ist der Burgwall (vorher die römische Festung) auf dem Šibrik-Hügel bezeichnet",
+    "alt": "Plan von Visegrád. Unter der Nummer 4 ist der Burgwall (vorher die römische Festung) auf dem Šibrik-Hügel bezeichnet"
+   },
+   {
+    "mediaId": 640,
+    "caption": "Karte Pannoniens zur Zeit des Fürsten Rastislav mit eingezeichnetem Visegrád",
+    "alt": "Karte Pannoniens zur Zeit des Fürsten Rastislav mit eingezeichnetem Visegrád"
+   },
+   {
+    "mediaId": 641,
+    "caption": "Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "alt": "Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)"
+   },
+   {
+    "mediaId": 642,
+    "caption": "Römische Festung / Burgwall auf dem Šibrik-Hügel – Plan",
+    "alt": "Römische Festung / Burgwall auf dem Šibrik-Hügel – Plan"
+   },
+   {
+    "mediaId": 643,
+    "caption": "Luftaufnahme",
+    "alt": "Luftaufnahme"
+   },
+   {
+    "mediaId": 644,
+    "caption": "Blick vom Burgwall auf die Donau",
+    "alt": "Blick vom Burgwall auf die Donau"
+   },
+   {
+    "mediaId": 645,
+    "caption": "Die Oberburg",
+    "alt": "Die Oberburg"
+   },
+   {
+    "mediaId": 648,
+    "caption": "Die älteste Fotografie aus dem Jahr 1872 (Autor: Beszédes József). Links ist der Šibrik-Hügel zu sehen, dann der kleinere Hügel mit dem Salomonsturm und der Befestigung der Unterburg, mit der sich der Landweg sperren ließ (er verlief nicht so wie heute, man musste in ein niedriges Sättelchen hinaufsteigen und den Hügel umgehen), der Königspalast – unten, oben die Oberburg.",
+    "alt": "Die älteste Fotografie aus dem Jahr 1872 (Autor: Beszédes József). Links ist der Šibrik-Hügel zu sehen, dann der kleinere Hügel mit dem Salomonsturm und der Befestigung der Unterburg, der Königspalast unten, oben die Oberburg."
+   },
+   {
+    "mediaId": 649,
+    "caption": "Stich von Visegrád, etwa 15.–16. Jahrhundert. Zu sehen sind darauf die Ober- und die Unterburg – mit dem Renaissancepalast König Matthias’ – und links auf dem kleineren Hügel die Überreste des alten Visegrád samt Türmchen",
+    "alt": "Stich von Visegrád, etwa 15.–16. Jahrhundert. Zu sehen sind darauf die Ober- und die Unterburg – mit dem Renaissancepalast König Matthias’ – und links auf dem kleineren Hügel die Überreste des alten Visegrád samt Türmchen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Karte Pannoniens zur Zeit des Fürsten Rastislav mit eingezeichnetem Vyšehrad",
+    "alt": "Karte Pannoniens zur Zeit des Fürsten Rastislav mit eingezeichnetem Vyšehrad",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Visegrád liegt in Ungarn etwa 7 km Luftlinie von Štúrovo entfernt. Es stellt einen ganzen Komplex von Denkmälern dar, von denen heute die Königsburg am bekanntesten ist, die erst nach dem Tatareneinfall auf dem höchsten Hügel der Umgebung errichtet wurde – die sogenannte Oberburg, in der eine Zeit lang auch die ungarischen Kronjuwelen bewacht wurden. Am Fuß dieses Hügels erstrecken sich einerseits die Unterburg mit dem Salomonsturm, die den Weg an der Donau kontrollierte, andererseits der prächtige Renaissance-Königspalast. Kaum jemand weiß jedoch von der älteren, ursprünglich römischen Festung auf dem benachbarten niedrigeren Hügel, die noch vor der Ankunft der Altungarn die Slawen zur Zeit Großmährens als bedeutenden Burgwall – als Verwaltungszentrum – nutzten und Vyšehrad (hochgelegene Burg) nannten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ursprüngliche Vyšehrad wurde auf dem sogenannten Šibrik-Hügel unmittelbar über der Donau errichtet. Im 4. Jahrhundert bauten hier die Römer eine Festung in Form eines Dreiecks, die von einer äußeren Mauer umgeben war. Die Mauern waren durch zahlreiche Türme geschützt, und im Jahr 372 wurde auch ein größerer Wachturm errichtet. Die Festung bildete offenbar einen Teil der nördlichen Befestigungen des Römischen Reiches – des Limes Romanus. Die römische Festung wurde am Ende der 320er Jahre erbaut, sie hat einen unregelmäßigen Grundriss, die Länge der Seiten beträgt etwa 130 × 140 m. Der Name der Festung lautete nach der Notitia Dignitatum Pone Navata. Die römischen Wachen verließen die Festung im 5. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan von Visegrád. Unter der Nummer 4 ist der Burgwall (vorher die römische Festung) auf dem Šibrik-Hügel bezeichnet",
+    "alt": "Plan von Visegrád. Unter der Nummer 4 ist der Burgwall (vorher die römische Festung) auf dem Šibrik-Hügel bezeichnet",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im 9. Jahrhundert nutzten die Slawen die Überreste der römischen Befestigung und errichteten auf dem Šibrik-Hügel einen Burgwall. Vyšehrad kontrollierte unter anderem die Fluss- und die Landwege in der Donauenge sowie die umliegenden Furten, vor allem erfüllte er jedoch die Funktion eines lokalen Verwaltungszentrums, eines der Zentren jener Gebietsbezirke, die Großmähren organisatorisch gliederten. Diese Gebietseinheiten, die ein Teil des Neutraer Gebiets Großmährens waren, knüpften offenbar an die ursprünglichen Stammes-, aber auch Überstammesgebilde an, die sich mindestens seit der Wende vom 8. zum 9. Jahrhundert formten und aus denen im Laufe des Bestehens des großmährischen Staates allmählich Burgbezirke – Gespanschaften – wurden. Bisher ist es mir jedoch nicht gelungen, die Information zu finden, ob die Slawen die ursprünglich römische Festung nur besetzten (die zur Zeit Großmährens bereits seit einigen Jahrhunderten von der römischen Besatzung verlassen war, weshalb man annehmen kann, dass sie erheblich verfallen war) und sie lediglich ausbesserten, oder ob sie an ihrer Stelle eine typisch slawische Holz-Erde-Befestigung errichteten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2013 führten ungarische Archäologen in Visegrád neue Untersuchungen durch, deren Ergebnisse sie im Jahr 2014 in einem Artikel in der Zeitschrift Hungarian Archeology zusammenfassten. Sie führen darin auch Angaben an, die unmittelbar die slawische Besiedlung des Šibrik betreffen. Unter anderem werden die Fundamente einer vorromanischen Kirche erwähnt, die sie in das 10. Jahrhundert datieren. Unter den Fundamenten der Kirche wurden ein Sporn aus dem 8. Jahrhundert und auch Reste einer mit Ruten geflochtenen Wand gefunden, die an die Wende vom 8. zum 9. Jahrhundert datiert wird. \n \n Weiter wurde an der Außenseite der Kirche ein Grab gefunden, das die Mauern der Kirche respektiert und in dem wahrscheinlich ein Priester bestattet ist. Neben anderen interessanten Dingen fand man in seinem Grab auch einen Teil eines Kelches. Dieses Grab datieren die Ungarn wiederum in das 10. Jahrhundert, bzw. spätestens an den Beginn des 11. Jahrhunderts. Ich meine jedoch, dass es nicht ausgeschlossen ist, dass die Kirche wie auch das Grab in die Zeit Großmährens datiert werden können. \n \n Weiter schreiben sie in dem Artikel, dass „die zweifellos slawische Benennung des Ortes (der Name Visegrad ist in den Schriftquellen bereits im Jahr 1009 dokumentiert) in Verbindung mit den neuen Forschungsergebnissen als Grundlage für die Bestimmung der Ethnizität jener Bewohner dienen kann, die der Festung ihren Namen gaben. In diesem Licht lässt sich also eine kontinuierliche Besiedlung durch die ursprüngliche slawische Bevölkerung bis in die frühe Arpadenzeit annehmen.“ \n \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "alt": "Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Entstehung des Königreichs Ungarn zur Zeit König Stephans I. verlor Visegrád nicht an seiner Bedeutung und wird zum Zentrum eines Komitats. Als Komitatssitz wird Visegrád erstmals im Jahr 1009 in einer Urkunde König Stephans erwähnt. In dieser Urkunde ist angeführt, dass ein Teil des kirchlichen Gebiets des Bischofs "
+       },
+       {
+        "type": "text",
+        "text": "(ich weiß nicht, welchen Begriff ich hier verwenden soll, ich bin keine Fachfrau – Anm. d. Übers.)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " auch „Visegrád civitas“ ist (civitas bedeutet Stadt, der Text interpretiert es hier aber als Komitat …). Das Komitat Visegrád (ähnlich wie das weiter oberhalb gelegene Komitat Gran (Esztergom) und das weiter unterhalb gelegene Komitat Fejér (Weiß)) umfasste das angrenzende Gebiet auf beiden Ufern der Donau. Visegrád ist einer der Belege dafür, dass der neu entstehende ungarische Staat die Verwaltungsgliederung unmittelbar vom Großmährischen Reich übernahm. Es ist gleichzeitig eines der Argumente für die Behauptung, dass an der Entstehung Ungarns in bedeutendem Maße auch der ursprünglich mährische bzw. Neutraer Adel beteiligt gewesen sein muss, der die Kontinuität der Staatsverwaltung und der Verwaltungsgliederung des neu entstehenden Staates sicherstellen konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Römische Festung / Burgwall auf dem Šibrik-Hügel – Plan",
+    "alt": "Römische Festung / Burgwall auf dem Šibrik-Hügel – Plan",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im südöstlichen Teil der Burg fand man bei den Ausgrabungen die Fundamente eines größeren Steingebäudes vom Beginn des 11. Jahrhunderts, das auf den Ruinen von Bauten aus römischer Zeit errichtet worden war; wahrscheinlich war es der Sitz des Gespans. Maße: Länge 16,5 m, Breite 10 bzw. 9 m, im Inneren war das Gebäude durch eine Mauer in 2 Räume geteilt. Der östliche Raum wurde durch einen Steinofen beheizt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine interessante Information führen die ungarischen Historiker SZŐKE Mátyás und Györffy an, nach denen König Andreas I. in Visegrád, im Tal unterhalb des Šibrik-Hügels, ein orthodoxes Kloster (des östlichen Ritus) errichten ließ (noch bevor er mit dem Bau der Abtei in Tihany begann – "
+       },
+       {
+        "type": "text",
+        "text": "das dortige Benediktinerkloster wurde im Jahr 1055 gegründet, Anm. d. Übers",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ".). Das Kloster des östlichen Ritus gründete er offenbar für „griechische“ Mönche ("
+       },
+       {
+        "type": "text",
+        "text": "wer weiß, ob griechische, möglicherweise auch slawische!!!)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", die mit seiner Frau Anastasia aus Kiew gekommen waren. Dieses Kloster übernahmen in den 20er Jahren des 13. Jahrhunderts die Benediktiner, später, in recht vernachlässigtem Zustand, im Jahr 1490 die Pauliner. Während der türkischen Herrschaft ging es um das Jahr 1560 ganz unter. Nach einer archäologischen Prospektion kennen wir heute seinen Grundriss, dort befindet sich jetzt irgendein Erholungsheim."
+       },
+       {
+        "type": "text",
+        "text": " Bemerkenswert ist, dass Andreas I. dieses „slawische Kloster“ an einem solchen Ort errichten ließ, an dem auch Slawen lebten.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Luftaufnahme",
+    "alt": "Luftaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Kämpfe um die Krone ließ (König) der hl. Ladislaus im Jahr 1081 den gestürzten König Salomon in einen Turm dieser Festung einschließen. Zu dieser Zeit existierte der heutige Salomonsturm in der Visegráder Unterburg noch nicht. Heute, nach 900 Jahren, ist schwer zu bestimmen, in welchem Teil der Burg sich dieses Gefängnis befand. Schwer zu finden ist auch eine Erklärung dafür, warum der königliche Gefangene gerade auf dieser Burg gefangen gehalten wurde. Vielleicht spielt hier auch die Tatsache eine Rolle, dass Dömös in dieser Zeit der Sitz der Donaugüter der Béla-Linie der Arpaden war, während das nahe Visegrád der Sitz der Andreas-Linie war. Salomon wurde so auf der „eigenen“ Burg in Gefangenschaft gehalten. Nach dem Jahr 1063 errichtete man an der Stelle der ersten Kirche die prächtige, mit zeitgenössischen Fresken geschmückte Hauptpropsteikirche."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ähnlich wie die übrigen Komitatssitze, die keine vorteilhafte geografisch-wirtschaftliche Lage hatten, begann auch das Visegráder Zentrum im 12. Jahrhundert zu verfallen. Die Gespane kümmerten sich nicht sehr um sie, sie hielten sich vor allem auf ihren Gütern oder in der Nähe des Königs auf. Die Komitatssitze sanken langsam auf das Niveau dörflicher Marktzentren, und die vernachlässigten Komitatsburgen wurden im 13. Jahrhundert zu einer leichten Beute der Tataren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick vom Burgwall auf die Donau",
+    "alt": "Blick vom Burgwall auf die Donau",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach deren Abzug erneuerte man die Komitatsburg auf dem Šibrik-Hügel nicht mehr, stattdessen errichtete man einerseits die heutige Oberburg Visegrád auf dem hohen Hügel und die Unterburg (den Salomonsturm) nicht weit vom alten Burgwall – alles im Rahmen des Burgenbauprogramms Bélas IV. nach dem Tatareneinfall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ursprüngliche Visegrád erlebte die Erneuerung nach der Verwüstung durch die Tataren nicht mehr, denn an seiner Stelle begann man einerseits mit dem Bau einer modernen Höhenburg und andererseits mit dem Bau der Unterburg über dem Weg in der Nähe des Šibrik-Hügels. Zum Wohnturm und zu den Mauern der Unterburg trug man auch die zerfallenen Bausteine von der Komitatsburg heran und verwendete sie."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie man sieht, wird der slawische Burgwall in der ungarischen Literatur zwar erwähnt, aber Näheres lesen Sie über ihn nicht, obwohl dort Untersuchungen durchgeführt wurden und im Museum in Visegrád auch mehrere für die Zeit Großmährens typische Funde zu sehen sind. Leider ist das eine typische Erscheinung bei unseren südlichen Nachbarn – als würden sie die Augen vor jenem Teil der Geschichte verschließen, der ihnen nicht sehr gelegen kommt. Sollte jemand einen Artikel oder einen Fachtext haben, der sich unmittelbar auf den Burgwall bezieht (Funde, Konstruktion der Mauer, Bauten usw.), bin ich sehr dankbar, wenn er ihn mir an meine Mailadresse schickt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Oberburg",
+    "alt": "Die Oberburg",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

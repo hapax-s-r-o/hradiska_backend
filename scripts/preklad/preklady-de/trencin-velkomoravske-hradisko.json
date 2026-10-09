@@ -1,0 +1,922 @@
+{
+ "slug": "trencin-velkomoravske-hradisko",
+ "data": {
+  "title": "Trenčín (Trentschin) – ein großmährischer Burgwall unter dem Burgfelsen",
+  "slug": "trencin-grossmaehrischer-burgwall-burgfelsen",
+  "excerpt": "Die Burg Trenčín thront auf einem steilen Kalkfelsen über der Stadt und ist das Wahrzeichen des mittleren Waagtals. Ihre Geschichte beginnt jedoch nicht erst mit dem Königreich Ungarn: auf dem Felsen und im angrenzenden Čerešňový sad lag ein bedeutender großmährischer Burgwall mit dreieckigem Grundriss, und auf der Hauptburg stand schon im 9. Jahrhundert eine gemauerte Rotunde. Trenčín ist damit ein Beispiel für die Kontinuität eines strategisch wichtigen Zentrums.",
+  "metaTitle": "Trenčín – großmährischer Burgwall unter dem Burgfelsen",
+  "metaDescription": "Der Burgfelsen von Trenčín war lange vor dem Königreich Ungarn besiedelt: ein bedeutender großmährischer Burgwall mit einer Rotunde des 9. Jahrhunderts.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Steiler Kalkfelsen unmittelbar über der Stadt Trenčín, Wahrzeichen des mittleren Waagtals",
+    "icon": "mountain"
+   },
+   {
+    "label": "Burgwall und Hauptburg",
+    "value": "Ursprünglich dreieckiger Grundriss, eine Ecke reichte in den Bereich der späteren mittelalterlichen Burg (Hauptburg)",
+    "icon": "shield"
+   },
+   {
+    "label": "Großmährische Rotunde",
+    "value": "Rundes Kirchenschiff von 750 cm Durchmesser, später zu einem Tetrakonchos mit 4 bandförmigen Konchen umgebaut (Breite 315–380 cm)",
+    "icon": "building"
+   },
+   {
+    "label": "Parallelen der Rotunde",
+    "value": "Maße und Bautechnik stimmen mit den Rotunden in Ducové, Staré Město und Levý Hradec überein — das bestätigt den großmährischen Ursprung",
+    "icon": "crown"
+   },
+   {
+    "label": "Benachbarte Burgwälle",
+    "value": "Skalka (Kirchlein mit halbrunder Apsis), Čertova skala (Trenčianska Teplá) und Hradište — wahrscheinlich von der Bedeutung einer Fliehburg oder eines Wachpostens",
+    "icon": "star"
+   },
+   {
+    "label": "Die ältesten Trenčíner Gespane",
+    "value": "Bogomel (12. Jahrhundert), Noska und Přemysl — slawische Namen, keine ausgeprägtere Präsenz ethnischer Ungarn",
+    "icon": "scroll"
+   },
+   {
+    "label": "Kontinuität des Zentrums",
+    "value": "Vergleichbar mit Bratislava, Devín, Zvolen und Bojná — ein großmährisches Verwaltungszentrum, das bis in das Königreich Ungarn fortbestand",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor 200.000 Jahren",
+    "title": "Die ältesten Spuren des Menschen",
+    "description": "Die ältesten archäologischen Funde belegen die Anwesenheit des Menschen in Trenčín und seiner Umgebung.",
+    "type": "founding"
+   },
+   {
+    "year": "2.–1. Jahrhundert v. Chr.",
+    "title": "Latènezeitliches Handelszentrum",
+    "description": "Ein befestigtes Siedlungs- und Handelszentrum mit keltischer Bevölkerung, die Beziehungen zu den Kelten an der mittleren Donau unterhielt (Fund einer Goldmünze des Typs Athena Alknis und von Tetradrachmen des Typs Biatek).",
+    "type": "construction"
+   },
+   {
+    "year": "179 n. Chr.",
+    "title": "Römische Inschrift am Burgfelsen",
+    "description": "Eine lateinische Inschrift belegt den Sieg des römischen Heeres (II. Hilfslegion) über germanische Stämme bei Laugaricio unter der Herrschaft des Marcus Aurelius.",
+    "type": "event"
+   },
+   {
+    "year": "1. Drittel des 9. Jahrhunderts",
+    "title": "Errichtung des großmährischen Burgwalls",
+    "description": "Dreieckiger Grundriss mit einem Wall in Kastenkonstruktion, ähnlich dem Burgwall von Pobedim; Zugang von Süden, Verengung in Richtung der Hauptburg.",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Errichtung der großmährischen Rotunde",
+    "description": "Eine einfache Rotunde mit Innenapsis (Schiffdurchmesser 750 cm) auf der Hauptburg — Maße und Bautechnik sind typisch für Ducové, Staré Město und Levý Hradec.",
+    "type": "construction"
+   },
+   {
+    "year": "Wende 10./11. – 1. Drittel des 11. Jahrhunderts",
+    "title": "Umbau der Rotunde zum Tetrakonchos",
+    "description": "Die neuen Bauelemente wurden nach dem ungarischen Königsfuß vermessen, parallel zum Tetrakonchos der hl. Peter und Paul in Székesfehérvár — möglicherweise mit den Aktivitäten Stephans I. zu verbinden.",
+    "type": "construction"
+   },
+   {
+    "year": "1086",
+    "title": "Indirekter Beleg für die Provinz Trenčín",
+    "description": "Die Urkunde über die Gründung des Prager Bistums erwähnt die Provinz Waag mit dem Zentrum wahrscheinlich in Trenčín.",
+    "type": "event"
+   },
+   {
+    "year": "1091",
+    "title": "Erste schriftliche Nachricht über die Burg",
+    "description": "Die Chronik des Cosmas bestätigt die Existenz der Burg; angeblich wurde hier der spätere böhmische König Břetislav II. empfangen und beherbergt.",
+    "type": "event"
+   },
+   {
+    "year": "1111, 1113",
+    "title": "Die Zoborer Urkunden",
+    "description": "Trenčín wird als civitas Treinchen — als Stadt — erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "12.–13. Jahrhundert",
+    "title": "Der Burgwall hört auf, seine Funktion zu erfüllen",
+    "description": "Die Bautätigkeit setzt sich nur noch auf der Hauptburg fort; Trenčín bleibt bis in die Neuzeit Komitatssitz.",
+    "type": "event"
+   },
+   {
+    "year": "1980er Jahre",
+    "title": "Bestätigung der Funktionsfähigkeit des Walls im 12. Jahrhundert",
+    "description": "Die archäologische Ausgrabung bestätigte, dass die Reste der Wallbefestigung im Čerešňový sad noch im 12. Jahrhundert funktionsfähig waren.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6358,
+    "alt": "Die Burg Trenčín mit Turm und Palas auf dem Felsen"
+   },
+   {
+    "mediaId": 1086,
+    "caption": "Grundriss des großmährischen Burgwalls",
+    "alt": "Grundriss des großmährischen Burgwalls"
+   },
+   {
+    "mediaId": 1087,
+    "caption": "Trenčín auf einer Karte von 1739",
+    "alt": "Trenčín auf einer Karte von 1739"
+   },
+   {
+    "mediaId": 1088,
+    "caption": "Die Burg Trenčín 1550–75",
+    "alt": "Die Burg Trenčín 1550–75"
+   },
+   {
+    "mediaId": 1089,
+    "caption": "Römische Inschrift vom Burgfelsen (2. Jahrhundert)",
+    "alt": "Römische Inschrift vom Burgfelsen (2. Jahrhundert)"
+   },
+   {
+    "mediaId": 1090,
+    "caption": "Grundriss der ältesten gemauerten Teile der Burg",
+    "alt": "Grundriss der ältesten gemauerten Teile der Burg"
+   },
+   {
+    "mediaId": 1091,
+    "caption": "Blick vom Matúš-Turm in Richtung des slawischen Burgwalls (Čerešňový sad)",
+    "alt": "Blick vom Matúš-Turm in Richtung des slawischen Burgwalls (Čerešňový sad)"
+   },
+   {
+    "mediaId": 1092,
+    "caption": "Die Burg Trenčín von Südosten auf einer Abbildung aus dem Jahr 1676",
+    "alt": "Die Burg Trenčín von Südosten auf einer Abbildung aus dem Jahr 1676"
+   },
+   {
+    "mediaId": 1093,
+    "caption": "Die Fundamente der Rotunde in der Gegenwart",
+    "alt": "Die Fundamente der Rotunde in der Gegenwart"
+   },
+   {
+    "mediaId": 1094,
+    "caption": "Der Palas zur Zeit des Matúš von Trenčín",
+    "alt": "Der Palas zur Zeit des Matúš von Trenčín"
+   },
+   {
+    "mediaId": 1106,
+    "caption": "Bestandteil eines Pferdegeschirrs aus großmährischer Zeit",
+    "alt": "Bestandteil eines Pferdegeschirrs aus großmährischer Zeit"
+   },
+   {
+    "mediaId": 1107,
+    "caption": "slawische Axt – eine Bartaxt",
+    "alt": "slawische Axt – eine Bartaxt"
+   },
+   {
+    "mediaId": 1109,
+    "caption": "An den Burgbrunnen knüpft sich die Sage von der Liebe des türkischen Adligen Omar zur schönen Fatima, der Gefangenen des Trenčíner Burgherrn Štefan Zápoľský. Um Fatima zu befreien, versprach Omar, auf der Burg Trenčín im harten Felsen einen Brunnen zu graben. Drei Jahre lang grub er mit seinen Gefährten, bis der Felsen tatsächlich Wasser hergab, von den Gräbern überlebten jedoch nur wenige. Den ersten Becher Wasser reichte Omar Zápoľský mit den Worten: „Wasser hast du, Zápoľský, aber ein Herz hast du nicht.“ Als Omar die befreite Fatima zu Pferde von der Burg wegbrachte, verfing sich ihr Schleier in einem Heckenrosenstrauch. An dieser Stelle steht bis heute das älteste Gasthaus in Trenčín, genannt „Fatima“ oder in früheren Zeiten auch „Závoj“ (Schleier).",
+    "alt": "An den Burgbrunnen knüpft sich die Sage von der Liebe des türkischen Adligen Omar zur schönen Fatima, der Gefangenen des Trenčíner Burgherrn Štefan Zápoľský."
+   },
+   {
+    "mediaId": 1110,
+    "caption": "Marcus Aurelius – sein Heer kämpfte bei Laugaricio",
+    "alt": "Marcus Aurelius – sein Heer kämpfte bei Laugaricio"
+   },
+   {
+    "mediaId": 1112,
+    "caption": "Wenn Sie so viel Glück haben wie ich, begrüßt Sie auf dem Burgwall Svarog selbst",
+    "alt": "Wenn Sie so viel Glück haben wie ich, begrüßt Sie auf dem Burgwall Svarog selbst"
+   },
+   {
+    "mediaId": 1113,
+    "caption": "Symbiose dreier Welten – der slawische Burgwall geht fließend in die spätmittelalterliche Burg über, und an ihrer Grenze – unsere Zukunft …",
+    "alt": "Symbiose dreier Welten – der slawische Burgwall geht fließend in die spätmittelalterliche Burg über, und an ihrer Grenze – unsere Zukunft …"
+   },
+   {
+    "mediaId": 1114,
+    "caption": "Blick auf den östlichen Rand des Burgwalls (Čerešňový sad)",
+    "alt": "Blick auf den östlichen Rand des Burgwalls (Čerešňový sad)"
+   },
+   {
+    "mediaId": 1115,
+    "caption": "Wieder der östliche Wall",
+    "alt": "Wieder der östliche Wall"
+   },
+   {
+    "mediaId": 1117,
+    "caption": "Blick auf den steilen Abfall im Osten des Burgwalls",
+    "alt": "Blick auf den steilen Abfall im Osten des Burgwalls"
+   },
+   {
+    "mediaId": 1119,
+    "caption": "Blicke auf die südöstliche Ecke des Burgwalls",
+    "alt": "Blicke auf die südöstliche Ecke des Burgwalls"
+   },
+   {
+    "mediaId": 1121,
+    "caption": "Blick auf den Čerešňový sad vom Burgturm",
+    "alt": "Blick auf den Čerešňový sad vom Burgturm"
+   },
+   {
+    "mediaId": 1123,
+    "caption": "Rotunde",
+    "alt": "Rotunde"
+   },
+   {
+    "mediaId": 1124,
+    "caption": "einige Funde aus dem Museum",
+    "alt": "einige Funde aus dem Museum"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die majestätische Burg Trenčín, die zu den bedeutendsten und schönsten Burgen der Slowakei gehört, thront auf einem steilen Kalkfelsen unmittelbar über der Stadt Trenčín (Trentschin). Sie ist das charakteristische Wahrzeichen nicht nur von Trenčín, sondern des gesamten mittleren Waagtals. Die Burg ist untrennbar mit einer der bekanntesten Persönlichkeiten der slowakischen (ungarischen) Geschichte verbunden — mit Matúš Čák. Die erste schriftliche Nachricht, die die Existenz der Burg im Jahr 1091 bestätigt, findet sich in der Chronik des Cosmas. Die Stadt civitas Treinchen wird im Jahr 1111 genannt. Ihre Geschichte begann jedoch nicht erst mit der Entstehung des Königreichs Ungarn, sondern ist weitaus älter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die strategische Lage des Burghügels ist offensichtlich, und aus diesem Grund haben hier fast alle bedeutenderen urgeschichtlichen Kulturen Spuren einer Besiedlung hinterlassen. Die ältesten archäologischen Funde belegen die Anwesenheit des Menschen in Trenčín und seiner Umgebung bereits in der Urgeschichte vor 200.000 Jahren. Die Besiedlung im Altertum repräsentieren eine Siedlungsfundstelle der "
+       },
+       {
+        "type": "text",
+        "text": "Maďarovce-Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus dem 2. Jahrtausend v. Chr. aus der Zeit der jüngeren Bronzezeit auf dem Burgfelsen und Reste einer Siedlung der "
+       },
+       {
+        "type": "text",
+        "text": "Lausitzer Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus der späten Bronzezeit von der Wende des 2. zum 1. Jahrtausend v. Chr. auf dem Burgfelsen und im angrenzenden Teil Breziny. In derselben Fundstelle deckte die archäologische Ausgrabung auch Reste einer Besiedlung durch das Volk der "
+       },
+       {
+        "type": "text",
+        "text": "Púchov-Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus der Eisenzeit auf. Im 2. und 1. Jahrhundert bestand hier ein befestigtes Siedlungs- und Handelszentrum aus der Zeit der späten Latènezeit, dessen "
+       },
+       {
+        "type": "text",
+        "text": "keltische Bevölkerung ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Handelsbeziehungen zu den Kelten an der mittleren Donau unterhielt, wie der Fund einer keltischen Goldmünze des Typs Athena Alknis und zwei silberne Tetradrachmen des Typs Biatek der Boier von Bratislava (Pressburg) bezeugen.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon in den Jahrhunderten vor der Ankunft der Kelten "
+       },
+       {
+        "type": "text",
+        "text": "führte durch das Gebiet von Trenčín",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " über den Vlára-Pass und weiter durch das Flussgebiet der March einer der Zweige der berühmten "
+       },
+       {
+        "type": "text",
+        "text": "Bernsteinstraße",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", auf dem etruskische, griechische und später römische Händler aus dem Mittelmeerraum an die Ostsee zogen. Aus dem Norden brachten sie den kostbaren Bernstein, für den sie mit Luxuserzeugnissen antiker Handwerker und mit Wein bezahlten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss des großmährischen Burgwalls",
+    "alt": "Grundriss des großmährischen Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei "
+       },
+       {
+        "type": "text",
+        "text": "Laugaricio",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", wahrscheinlich dem heutigen Trenčín, fand im 2. Jahrhundert während der Herrschaft "
+       },
+       {
+        "type": "text",
+        "text": "Marcus Aurels",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " eine Schlacht zwischen germanischen Stämmen und römischen Legionären der II. Hilfslegion statt. Vom Sieg des römischen Heeres erfahren wir aus einer lateinischen Inschrift am Burgfelsen aus dem Jahr 179. Gerade das Wissen über den Aufenthalt römischer Truppen gab in den 1950er Jahren den Anstoß zu einer Ausgrabung auf der Burg in der Lage Čerešňový sad. Man erwog nämlich, dass die im Gelände sichtbaren Wälle Reste eines römischen Lagers sein könnten, was sich nicht bestätigte; festgestellt wurde jedoch eine urgeschichtliche und frühmittelalterliche Besiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall und die Burg-Hauptburg"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall "
+       },
+       {
+        "type": "text",
+        "text": "in der Zeit Großmährens",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " hatte ursprünglich einen dreieckigen Grundriss, und eine seiner Ecken reichte in den Bereich, in dem später die mittelalterliche Burg errichtet wurde (die Burg-Hauptburg). Aufgrund der Geländekonfiguration ist es wahrscheinlich, dass der Zugang zum Burgwall von Süden lag und sich der Burgwall in Richtung Norden (zur Hauptburg) verengte. Die Konstruktion des Walls war wahrscheinlich"
+       },
+       {
+        "type": "text",
+        "text": " eine Kastenkonstruktion und die Wände wurden ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "absichtlich durch Brennen verfestigt. Der Trenčíner Wall im Čerešňový sad weist viele Ähnlichkeiten mit dem Wall des Burgwalls von Pobedim auf, der in das 1. Drittel des 9. Jahrhunderts datiert wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Trenčín auf einer Karte von 1739",
+    "alt": "Trenčín auf einer Karte von 1739",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche des Burgwalls wurde in der Neuzeit systematisch abgetragen, wodurch die Kulturschichten auf etwa drei Vierteln der Grundfläche des Burgwalls verloren gingen; die Reste der Wallbefestigung sind im Gelände jedoch bis heute lesbar, und die Ausgrabung in den 1980er Jahren bestätigte sogar ihre Funktionsfähigkeit im 12. Jahrhundert. Die Burg-Hauptburg war offenbar ein Teil des Burgwalls, konnte von ihm aber auch durch einen Graben getrennt sein, was durch eine Geländeuntersuchung nur sehr schwer zu überprüfen ist. Im 15.–16. Jahrhundert kam es hier im Zusammenhang mit dem Fortschritt in der Entwicklung der Feuerwaffen zu ausgeprägten Geländeveränderungen, später zum Bau einer sternförmigen Befestigung. Der Zugangsweg zur Hauptburg verlief entweder über einen schmalen Geländehals (gegebenenfalls über eine Brücke über einen künstlich ausgehobenen Graben), oder es konnte hier eine Palisadenwand bestehen, die die Hauptburg von der weiteren „Vorburg“ — dem Burgwall im Čerešňový sad — trennte. Unter den Funden aus dem Bereich der Unterburg aus der Zeit des Bestehens Großmährens lassen sich vor allem Gefäße, Reifen eines Eimers, ein Spinnwirtel, ein Gombík (kugelförmiger Knopfanhänger), eine Drehmühle und viele Scherben nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die großmährische Rotunde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Burg Trenčín 1550–75",
+    "alt": "Die Burg Trenčín 1550–75",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung auf der Hauptburg in den 1970er Jahren legte einen Sakralbau mit Zentralgrundriss frei – eine Rotunde. Der Bau besteht aus einem runden Kirchenschiff von 750 cm Durchmesser, das durch vier bandförmige Blöcke zu einem Tetrakonchos gegliedert wurde. Die Breite der Konchen bewegte sich zwischen 315 und 380 cm, das Scheitelmauerwerk der Konchen war 65–75 cm stark. In den Leibungen der Konchen waren auf quadratischen Plinthen Säulen aufgesetzt, die aus bearbeiteten steinernen Trommeln von 35–50 cm Durchmesser zusammengesetzt waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gräber respektierten den Bau, wobei sie einen S-förmigen Schläfenring und Münzen enthielten, die die Feststellung erlauben, dass die Rotunde bereits im 11. Jahrhundert stand. Funde aus dem 9. Jahrhundert lagen in einer 20 cm starken Schicht schwarzer Erde, die unter anderem auch eine eiserne Bartaxt enthielt. Eine andere, etwa 60 cm starke Schicht aus dem 9. Jahrhundert befand sich unter dem einstigen Zugangsweg zur Burg in der Nähe der Rotunde. Zur Datierung der Rotunde gab es unterschiedliche Ansichten von Archäologen und Historikern. T. Nešporová, V. Jankovič, M. Slivka und Z. Ševčíková nahmen die Entstehung des Baus im 9. Jahrhundert an und setzten den Umbau zum Tetrakonchos in das 11. Jahrhundert. Martin Vančo führt in dem im Jahr 2000 erschienenen Buch Stredoveké rotundy na Slovensku 9. – 13. storočie an, dass sich im Mauerwerk der Rotunde Elemente finden, die unterschiedliche Bauphasen des Objekts belegen. Den ursprünglichen Bau kann man als einfache Rotunde mit Innenapsis bezeichnen. Die erste Phase hat einen Schiffdurchmesser von 750 cm, eine Breite der halbrunden Apsis von 350 cm und eine Mauerstärke von 65–75 cm. Die Maße der Rotunde, das Baumaß des römischen Fußes und die Bautechnik sind für mehrere großmährische Rotunden typisch — Ducové, Staré Město und Levý Hradec —, womit sich die Hypothesen über den großmährischen Ursprung der Rotunde bestätigen lassen. In der zweiten Bauphase wurden die neuen Bauelemente auf der Grundlage des ungarischen Königsfußes vermessen, der beispielsweise beim Bau des Tetrakonchos der hl. Peter und Paul in Székesfehérvár von der Wende des 10. zum 11. Jahrhundert verwendet wurde. Nach dieser Parallele wäre es möglich, diesen Umbau der Rotunde mit den Aktivitäten Stephans I. beim Aufbau des ungarischen Staates im 1. Drittel des 11. Jahrhunderts zu verbinden. Das Verhältnis der Rotunde zu dem älteren, innerhalb des heutigen Ziegelturms festgestellten Turm wird weiterhin Gegenstand fachlicher Diskussionen bleiben. Man kann also festhalten, dass "
+       },
+       {
+        "type": "text",
+        "text": "die Rotunde auf der Burg Trenčín bereits während des Bestehens Großmährens errichtet wurde und sie daher zu der nicht großen Zahl gemauerter großmährischer Bauten aus dem Gebiet der heutigen Slowakei gezählt werden muss. ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Römische Inschrift vom Burgfelsen (2. Jahrhundert)",
+    "alt": "Römische Inschrift vom Burgfelsen (2. Jahrhundert)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein herrscht die Ansicht vor, dass wir im Fall von Trenčín von einem bedeutenden frühfeudalen Sitz sprechen können. Die Rotunde in dieser Disposition verstehen wir als eine gewisse Vorstufe der Burgkapelle. Im Fall der Trenčíner Rotunde ist das umso deutlicher, als die Rotunde eine solche Funktion bis zum Beginn des 15. Jahrhunderts tatsächlich erfüllte. Der Trenčíner Steinturm erfüllte offenbar sowohl eine Wohn- als auch eine Wehrfunktion. Für den Zustand im 11.–12. Jahrhundert ist auch die Existenz eines Palas sehr wahrscheinlich, anfangs wohl eines hölzernen, später eines gemauerten. Irgendwann im 12./13. Jahrhundert hörte der Burgwall als Ganzes allmählich auf, seine Funktion zu erfüllen, die Bautätigkeit setzt sich nur noch im Bereich der Hauptburg fort. Weil die Burg Trenčín bis in die Neuzeit Komitatssitz war, können wir für das Entwicklungsstadium bis zum 12. Jahrhundert von einem zentralen Burgwall sprechen, und seine Funktion als Verwaltungszentrum für eine weitere Region ist sehr wahrscheinlich. Die Funktion eines zentralen Burgwalls erfüllte Trenčín schon in großmährischer Zeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bedeutung von Trenčín im Frühmittelalter"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss der ältesten gemauerten Teile der Burg",
+    "alt": "Grundriss der ältesten gemauerten Teile der Burg",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im weiteren Umkreis von Trenčín finden wir Spuren einer verhältnismäßig dichten Besiedlung im 9.–11. Jahrhundert. In den meisten Fällen stieß man zufällig auf die archäologischen Funde, ohne eine anschließende systematische Ausgrabung. Es handelt sich hier offenbar um eine f"
+       },
+       {
+        "type": "text",
+        "text": "rühmittelalterliche Siedlungsagglomeration",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die wir als wirtschaftliches Hinterland des Zentrums auf dem Burgfelsen verstehen können. Der Trenčíner Burgwall war im 9.–12. Jahrhundert der bedeutendste in der Region, jedoch nicht der einzige; ein weiterer lag auf der Skalka, wo ein Kirchlein mit halbrunder Apsis festgestellt wurde. In der Gemarkung von Trenčianska Teplá liegt ein Burgwall in der Lage Čertova skala. Die Lage mit dem Namen Hradište befindet sich an der Einmündung des Weges in das Waagtal vom Pass von Hrozenkov. Bei diesen Burgwällen lässt sich an ihre Funktion als Fliehburg, gegebenenfalls an eine Wachfunktion denken. Die ungarischen Herrscher respektierten bei der endgültigen Eingliederung von Trenčín und seiner Umgebung in das Königreich Ungarn lediglich die vorangegangene Entwicklung, bzw. dieses Gebiet wurde als geformte Region mit einem Verwaltungszentrum auf der Burg Trenčín wahrgenommen. Ebenso waren die ungarischen Herrscher nicht die unmittelbaren Organisatoren der Christianisierung in dieser Region, was von einer älteren Genese des Christentums unter der einheimischen Bevölkerung zeugt. "
+       },
+       {
+        "type": "text",
+        "text": "Trenčín war im Mittelalter der Sitz einer Verwaltungseinheit, die als Komitat bezeichnet wurde",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", bzw. als Grafschaft (lat. comitatus), an deren Spitze ein Gespan stand. Aus der 2. Hälfte des 12. Jahrhunderts sind in den Schriftquellen auch einige "
+       },
+       {
+        "type": "text",
+        "text": "Namen der ältesten Trenčíner Gespane",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " verzeichnet. Im 12. Jahrhundert wird als comes ein gewisser "
+       },
+       {
+        "type": "text",
+        "text": "Bogomel, Sohn des Soběslav",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", erwähnt. Auch nach den slawischen Personennamen weiterer Verteidiger und Diener der Burg, "
+       },
+       {
+        "type": "text",
+        "text": "Noska und Přemysl",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (iobbagiones castri de Trenchin), denken wir nicht an eine ausgeprägtere Präsenz von Angehörigen des ungarischen Ethnikums unter der einheimischen Bevölkerung. Vom nationalen Gesichtspunkt aus waren die "
+       },
+       {
+        "type": "text",
+        "text": "Trenčíner Gespane",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in der Anfangszeit also offenbar "
+       },
+       {
+        "type": "text",
+        "text": "keine ethnischen Ungarn",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", obwohl sie angesichts der Funktion, die sie innehatten, natürlich zur „natio Hungarica“ gehörten, wobei sie slowakischer Nationalität waren.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick vom Matúš-Turm in Richtung des slawischen Burgwalls (Čerešňový sad)",
+    "alt": "Blick vom Matúš-Turm in Richtung des slawischen Burgwalls (Čerešňový sad)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Trenčín in den ältesten Urkunden"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Burg Trenčín von Südosten auf einer Abbildung aus dem Jahr 1676",
+    "alt": "Die Burg Trenčín von Südosten auf einer Abbildung aus dem Jahr 1676",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trenčín können wir aufgrund der bisherigen Erkenntnisse als Beispiel für die "
+       },
+       {
+        "type": "text",
+        "text": "Kontinuität",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " eines strategisch "
+       },
+       {
+        "type": "text",
+        "text": "bedeutenden großmährischen Sitzes",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit eigenem wirtschaftlichem Hinterland bis "
+       },
+       {
+        "type": "text",
+        "text": "in die Zeit des Königreichs Ungarn",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " betrachten. Seine Bedeutung lässt sich zum Beispiel mit Bratislava, Devín (Theben), Zvolen (Altsohl), Bojná und weiteren Zentren vergleichen. Die Existenz von Trenčín ist in Schriftquellen festgehalten, die über die historische Situation des 11. Jahrhunderts berichten. Es handelt sich hier vor allem um die bereits angedeutete "
+       },
+       {
+        "type": "text",
+        "text": "Chronik des Cosmas ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "(1119 – 1125), in der Trenčín als "
+       },
+       {
+        "type": "text",
+        "text": "Trencinopolis",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " erwähnt wird, und um die "
+       },
+       {
+        "type": "text",
+        "text": "Wiener Bilderchronik",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Im Jahr 1091 wurde auf der Burg Trenčín angeblich der spätere böhmische König Břetislav II. (1092 – 1100) empfangen und mit seinen führenden Anhängern beherbergt. Ein indirektes Zeugnis über die Existenz von Trenčín am Anfang des 11. Jahrhunderts ist auch die "
+       },
+       {
+        "type": "text",
+        "text": "Legende des Maurus",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die vor dem Jahr 1074 geschrieben wurde. Aus dem 12. Jahrhundert sind unmittelbar erhaltene urkundliche Quellen bekannt, vor allem die "
+       },
+       {
+        "type": "text",
+        "text": "Zoborer Urkunden",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die zu den Jahren 1111 und 1113 datiert werden. Trenčín wird hier als civitas (et in civitate Treinchen), also als Stadt erwähnt. Als weiteren indirekten Beleg für die Existenz einer Provinz in Trenčín betrachten die Historiker die Urkunde über die "
+       },
+       {
+        "type": "text",
+        "text": " Gründung des Prager Bistums",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " vom 29. April 1086, in der unter anderem die Provinz Waag erwähnt wird, wobei angenommen wird, dass es sich hier um das Gebiet im Bereich des mittleren Waaglaufs mit dem Zentrum in Trenčín handelt. \n \n Mit der Existenz der Trenčíner Burg ist untrennbar eine schöne Sage vom Brunnen der Liebe verbunden.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wie entstand der Name Laugaricio?",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bonus für alle, die den Artikel bis zum Ende gelesen haben:\n \n \n "
+       },
+       {
+        "type": "text",
+        "text": "Im 2. Jahrhundert, als der Fuß des römischen Tyrannen verstohlen die Donau überschritt und begann, seine unersättliche Nase in slowakische Angelegenheiten zu stecken, bewohnten das Gebiet der heutigen Slowakei selbstverständlich keine anderen als die Altslowaken. Eine ihrer Großstädte hatten sie schon damals im Gebiet von Trenčín, das bereits zu dieser Zeit so hieß (sicher lässt es sich auch auf einer gewissen ungenannten Karte aus dem 2. Jahrhundert finden), wobei die Stadt unter anderem dafür bekannt war, dass hier die hochwertigsten und modischsten Kleider im ganzen Großmährischen Reich hergestellt wurden – seither nennt man Trenčín die Stadt der Mode. Es ist also kein Wunder, dass jene verweichlichten römischen Homosexuellen gerade diese slowakische Großstadt beherrschen wollten, womit sie selbstverständlich nur ein einziges Ziel verfolgten – die lukrativsten Märkte der Bekleidungsindustrie zu übernehmen. Sie beschlossen daher, Trenčín im Sturm zu nehmen, und richteten auf dieses Ziel ihre ganze Militärmaschinerie. Kaum jemand weiß, dass sich Trenčín schon damals auf beiden Ufern des Flusses Waag erstreckte, oder, wie jene römischen Gauner ihn beschimpften, Vagus Fluvius. Beide Teile der Großstadt waren durch einen hölzernen Steg verbunden, der von einem Flussufer zum anderen führte. Der Hauptangriff des römischen Heeres richtete sich natürlich auf den Burghügel und das daran anschließende Suburbium. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Fundamente der Rotunde in der Gegenwart",
+    "alt": "Die Fundamente der Rotunde in der Gegenwart",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Vorfahren – die Altslowaken – führten gegen die römischen Aggressoren einen heldenhaften und unerbittlichen Kampf, doch dieser Kampf war wegen der erheblichen zahlenmäßigen Überlegenheit und der besseren Versorgung des römischen Heeres zum Scheitern verurteilt. Als unsere Vorfahren schon sahen, dass sie den Ansturm der Römer nicht mehr abwehren konnten und dass die Burg und das Suburbium unvermeidlich fallen würden, entschieden sie sich für die Durchführung von Plan B – den Rückzug über den hölzernen Steg auf die andere Seite der Waag, wohin, wie sie annahmen, das römische Heer nicht gelangen würde. Als die Römer diesen genialen militärischen Schachzug unserer Vorfahren sahen, machten sie sich sofort auf jenen strategisch bedeutenden Steg, um mit seiner Hilfe an das andere Ufer zu kommen. Das geniale taktische Gehirn unserer Vorfahren rechnete jedoch mit diesem hinterlistigen Verhalten der Römer, und in dem Moment, in dem der Steg voll römischer Soldaten war, lösten unsere Vorfahren den Steg auf vorher ausgedachte Weise von den Ufern und stürzten ihn samt einem Teil des römischen Heeres direkt in die aufgewühlten Wellen der Waag. Damit war die Schlacht entschieden – die Römer wussten, dass sie den Burghügel zwar beherrschten, die Altslowaken samt ihrem ganzen Besitz, den sie vorher auf das andere Ufer gebracht hatten, aber nicht bekamen. Und genau in dem Moment, als der Steg mit mächtigem Getöse in die Waag stürzte, riefen unsere Vorfahren vom anderen Ufer so kräftig, wie es sich für echte Waagtaler gehört: ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Lávka v rici Ó, Lávka v rici Ó",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " (sinngemäß: „Der Steg ist im Arsch, oh!“). Und da jene römischen Rüpel unsere Sprache nicht verstanden, dachten sie, es werde der Name der Stadt gerufen. Und seitdem glaubten die Römer, Trenčín heiße ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Laugarício",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", was sie dann auch in jener notorisch bekannten Inschrift auf dem Trenčíner Felsen verewigten, zum Ruhm ihres bedeutungslosen und nur teilweisen Sieges über die Altslowaken.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Palas zur Zeit des Matúš von Trenčín",
+    "alt": "Der Palas zur Zeit des Matúš von Trenčín",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(die Geschichte vom Steg habe ich einst in einem humoristischen Buch gelesen, das um das Jahr 1989 erschienen ist, aber leider habe ich seinen Titel schon vergessen, daher habe ich versucht, diese garantiert wahre Geschichte nachzuerzählen)",
+        "italic": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": " ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": "Foto",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ": Čerešňový sad 11.3.2012"
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": " "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

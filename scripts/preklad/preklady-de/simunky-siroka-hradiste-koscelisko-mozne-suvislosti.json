@@ -1,0 +1,598 @@
+{
+ "slug": "simunky-siroka-hradiste-koscelisko-mozne-suvislosti",
+ "data": {
+  "title": "Šimúnky (Široká), Hradište, Koscelisko – mögliche Zusammenhänge",
+  "slug": "simunky-hradiste-koscelisko-moegliche-zusammenhaenge",
+  "excerpt": "Der Archäologe Peter Schreiber hat für unsere Seite einen Beitrag über den möglichen Verlauf alter Wege in Mariková und in der Umgebung geschrieben. Er verbindet die Fundstelle Šimúnky (Široká) mit den Ortsnamen Hradište und Koscelisko sowie mit den Lagen Kňažová und Jazerka und fragt, welche Wege und Plätze mit der frühmittelalterlichen Besiedlung auf Šimúnky zusammenhängen konnten.",
+  "metaTitle": "Šimúnky, Hradište und Koscelisko – mögliche Zusammenhänge",
+  "metaDescription": "Der Archäologe Peter Schreiber über den möglichen Verlauf alter Wege in Mariková und über die Zusammenhänge von Šimúnky, Hradište und Koscelisko.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber",
+    "icon": "users"
+   },
+   {
+    "label": "Region",
+    "value": "das Tal von Mariková und das Tal der Biela voda (Javorníky)",
+    "icon": "map"
+   },
+   {
+    "label": "Untersuchte Fundstellen",
+    "value": "Šimúnky (Široká), Hradište, Koscelisko, Jazerka, Kňažová",
+    "icon": "mountain"
+   },
+   {
+    "label": "Datierung",
+    "value": "Frühmittelalter (Annahme)",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "19. Jahrhundert",
+    "title": "2. militärische Landesaufnahme Ungarns",
+    "description": "Der Ortsname Kňažia erscheint bereits auf der 2. militärischen Landesaufnahme Ungarns.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4527,
+    "alt": "Karte der Wasserläufe des Tals von Mariková mit eingetragenen Orten und Fundstellen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Peter Schreiber",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " hat für unsere Seite den folgenden, außerordentlich interessanten Artikel geschrieben, der sich mit dem möglichen Verlauf alter Wege in Mariková und in der Umgebung beschäftigt. Das Thema des vermuteten alten Weges, der unterhalb der Höhensiedlung Šimúnky verläuft, ist heute bei den Interessenten für unsere Geschichte sehr beliebt, der vorgelegte Artikel ist jedoch offenbar der erste fachlich fundierte Beitrag zu diesem Thema. Wir bringen den Artikel im vollen Wortlaut. Dem Autor gebührt großer Dank für den hochwertigen Text.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Peter Schreiber: ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Šimúnky (Široká), Hradište, Koscelisko – mögliche Zusammenhänge",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Thema des Artikels sind die Ortsnamen und die archäologischen Fundstellen eines Teils der Mikroregion, die im Vorgebirge bis in das Bergland der Javorníky reicht, und das mögliche Verhältnis zwischen ihnen, mit Blick auf das Frühmittelalter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Drei Orte bzw. Ortsnamen, die im Tal von Mariková"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn1",
+        "children": [
+         {
+          "type": "text",
+          "text": "[1]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und im Tal des Baches Biela voda"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn2",
+        "children": [
+         {
+          "type": "text",
+          "text": "[2]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " liegen, stellen bemerkenswerte Landschaftsgebilde dar. An erster Stelle ist die einzigartige archäologische Fundstelle Šimúnky (Široká)"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn3",
+        "children": [
+         {
+          "type": "text",
+          "text": "[3]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " zu nennen. Dieser Ort liegt in der Gemarkung der Gemeinde Dolná Mariková (Karte 1). Es handelt sich um eine Höhensiedlung, auf der Belege einer Besiedlung aus verschiedenen Perioden von der mittleren oder jüngeren Steinzeit über die Púchov-Kultur bis in das Mittelalter vorliegen (Májsky 2006; Malec 2010; Meliš 2003; Moravčík 2000). Die nächstgelegene Fundstelle mit Belegen einer Besiedlung auch aus dem Frühmittelalter ist Hatné, Lage Hrádok (Moravčík 2002), die von Šimúnky etwa 3,5 km Luftlinie entfernt ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unterhalb von Šimúnky befindet sich eine kleinere Wegkreuzung, von der man nach Horná Mariková und weiter bis auf den Grat der Javorníky gelangen kann. Mit Blick auf die Lage von Šimúnky kann jedoch der näher gelegene Weg nach Kátlina (ein Ortsteil von Dolná Mariková) interessanter sein. Über Waldwege durch Kátlina können wir in das Tal der Biela voda gelangen. Gerade hier liegen zwei weitere Fundstellen, die theoretisch auch mit der Besiedlung auf Šimúnky zusammenhängen könnten.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese liegen in der Gemarkung der Gemeinden Zbora"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn4",
+        "children": [
+         {
+          "type": "text",
+          "text": "[4]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und Vydrná. Die erste stellt eine Lage mit dem Namen Hradište (759 m ü. M.) dar. Hradište ist vor allem hinsichtlich des Namens (als Toponym) interessant. Bislang ist nicht bekannt, dass aus der genannten Lage archäologische Funde stammen würden"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn5",
+        "children": [
+         {
+          "type": "text",
+          "text": "[5]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Karte 1). In der Umgebung des Berges kommen jedoch auch weitere bemerkenswerte Namen vor. In der Gemeinde Zbora liegt die Siedlung Podhradište, und an den nordwestlichen Hängen von Hradište findet sich der Ortsname Hradište-Hrádza (Karte 1). In diesem Zusammenhang ist auch der ältere Name des Baches Petríkovec (Karte 1) zu nennen. Sein Unterlauf wird auf älteren Karten als Drahý potok angegeben. Aus sprachwissenschaftlicher Sicht werden ähnliche Orte folgendermaßen erklärt: „Sie hängen mit dem Appellativ drahá zusammen, das im älteren Slowakischen einen Weg bezeichnete“ (Uhlár 1970). Ein solcher Weg (dráha) kann gerade im älteren Namen dieses Baches festgehalten sein. Hier ist auch der Name des Baches Radotina (Karte 1) zu nennen. In einem Teil des Stammes dieses zusammengesetzten Personennamens ist deutlich der Stamm Rad- enthalten, der in der Lehre von den slawischen Sippen- und Personennamen häufig vorkommt (Uhlár 1970, 110)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Šimúnky (Široká), Hradište, Koscelisko – mögliche Zusammenhänge",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere Lage mit dem Namen Koscelisko liegt in den Gemarkungen der Gemeinden Zbora/Mestečko (Karte 1). Auf der Fundstelle befindet sich ein kleineres Wallgebilde von ovaler Form. Der Name Koscelisko selbst deutet hier auf das Bestehen einer Besiedlung näher unbestimmten Charakters hin. Ähnliche Namen wie Koscelisko lassen sich mit einer Besiedlung aus dem Mittelalter beziehungsweise aus dem Frühmittelalter verbinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Überlegungen zum Schluss:",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Šimúnky in Mariková stellt mit ihren markanten archäologischen Funden aus dem Frühmittelalter einen wichtigen Ort im Rahmen des weiteren Gebietes dar. Daher haben wir durch das Studium der Landschaft, der Ortsnamen sowie des Reliefs der Berge und der Wegeverbindungen versucht, die nächstgelegenen Orte zu finden, die direkt"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn6",
+        "children": [
+         {
+          "type": "text",
+          "text": "[6]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " oder indirekt"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn7",
+        "children": [
+         {
+          "type": "text",
+          "text": "[7]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " mit der Besiedlung auf Šimúnky zusammenhängen könnten. Gerade die Fundstellen Hradište und Koscelisko stellen einige der nächstgelegenen möglichen Anhaltspunkte in dieser Forschung dar"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn8",
+        "children": [
+         {
+          "type": "text",
+          "text": "[8]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Beide liegen ähnlich wie die Fundstelle Šimúnky im Gelände stark gegliederter Berg- und Hochlandgebiete (Hrnčiarová 2002). Abschließend führe ich noch zwei Fundstellen an. Die erste mit dem Namen Kňažová, Gemarkung der Gemeinde Lúky (Karte 1). Im Bereich der genannten Lage Kňažová befinden sich kleinere hügelgrabartige Gebilde. Bei ihrer Deutung ist jedoch bislang eine gewisse Vorsicht geboten, denn es kann sich um Überreste von Gräbern aus aufgelassenen Ackerfluren handeln. Andererseits könnte der Ortsname Kňažia, der bereits auf der 2. militärischen Landesaufnahme Ungarns (im 19. Jahrhundert) erscheint, eine bestimmte Heiligkeit dieses Ortes im Gedächtnis der Menschen heraufrufen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den zweiten Ort stellt der Ortsname Jazerka dar. Dieser liegt etwa 580 m nordöstlich der oben erwähnten Siedlung Podhradište in Zbora"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn9",
+        "children": [
+         {
+          "type": "text",
+          "text": "[9]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Die Lage befindet sich gegenwärtig im Wald, am Fuß (an den Hängen) eines Bergrückens"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn10",
+        "children": [
+         {
+          "type": "text",
+          "text": "[10]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Bei diesem Ort ließe sich allein auf der Grundlage des Namens eine Wasserquelle, ein kleiner See, erschließen"
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftn11",
+        "children": [
+         {
+          "type": "text",
+          "text": "[11]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Gerade Seen oder kleine Seen werden im heidnischen, vorchristlichen Glauben mit religiöser Verehrung verbunden (Profantová/Profant 2004; 177, 178). Die Lage Jazerka kann theoretisch gerade ein solcher Ort sein, der in der örtlichen Tradition nur noch als Name bewahrt ist. Dieselbe Bedeutung hatten im heidnischen Glauben, von der Urgeschichte bis in das Mittelalter (allgemein), auch ungewöhnliche Felsgebilde, zum Beispiel einzeln stehende Felsen an exponierten Stellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank: Ich möchte Stanislava Flimmelová für die Zusammenarbeit und die wertvollen Informationen danken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den zweiten Teil des Artikels, der sich mit den aufgezeichneten Sagen über die betreffenden Fundstellen beschäftigt, "
+       },
+       {
+        "type": "link",
+        "url": "/blog/povesti-viazane-k-poloham-hradiste-a-koscelisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "können Sie HIER lesen"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Literatur:  Hrnčiarová T. (Red.), 2002: Atlas krajiny Slovenskej republiky. Bratislava – Banská Bystrica 2002.  Májsky 2006 – R. Májsky: Najstaršie osídlenie Považskej Bystrice v svetle archeologických nálezov. In: B. Kortman (Hrsg.): Považská Bystrica. Z dejín mesta. Žilina 2006, 9–36.  Malec 2010 – J. Malec: Drobné stredoveké fortifikácie na strednom Považí (12. stor. – pol. 16. stor.). Zbor. SNM 104 – Arch. 20, 2010, 119–138.  Meliš 2003 – Š. Meliš: Papradnianska dolina v dobe slovanskej (hradištnej). Polazník 1/4, 2003, 5.  Moravčík 2000 – J. Moravčík: Prieskumy opevnení v okolí Považskej Bystrice. In: Archeologické výskumy a nálezy na Slovensku v r. 1998, Nitra 2000, S. 131–133.  Moravčík 2002 – J. Moravčík: Opevnenia severozápadného Slovenska. In: Vlastivedný sborník (zborník) Považia 21, 2002, S. 7–36.  Profantová/Profant 2004 – N. Profantová/M. Profant: Encyklopedie slovanských bohů a mýtů. Praha 2004, S. 6–259.  Uhlár 1970 – V. Uhlár: Dva vlastné názvy z hornej Nitry: Drahožica a Radobica. Slovenská reč. Časopis pre výskum slovenského jazyka. Jahrgang 35–1970. Nummer 2, S. 106–111. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref1",
+        "children": [
+         {
+          "type": "text",
+          "text": "[1]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Bezirk Považská Bystrica    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref2",
+        "children": [
+         {
+          "type": "text",
+          "text": "[2]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Bezirk Púchov    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref3",
+        "children": [
+         {
+          "type": "text",
+          "text": "[3]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " im Weiteren schreibe ich nur Šimúnky    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref4",
+        "children": [
+         {
+          "type": "text",
+          "text": "[4]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Zbora ist ein Ortsteil der Gemeinde Dohňany    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref5",
+        "children": [
+         {
+          "type": "text",
+          "text": "[5]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Anmerkung des Autors    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref6",
+        "children": [
+         {
+          "type": "text",
+          "text": "[6]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " archäologische Quellen    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref7",
+        "children": [
+         {
+          "type": "text",
+          "text": "[7]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " örtliches Namengut    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref8",
+        "children": [
+         {
+          "type": "text",
+          "text": "[8]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " im unteren Teil des Tals von Mariková liegen auch weitere archäologische Fundstellen aus dem Frühmittelalter    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref9",
+        "children": [
+         {
+          "type": "text",
+          "text": "[9]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " nach den Kartenunterlagen ZM 1 : 10.000    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref10",
+        "children": [
+         {
+          "type": "text",
+          "text": "[10]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " die Koten Hradište, Hrebienok, Kohútky    "
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/%C5%A0im%C3%BAnky%20-%20Hradi%C5%A1te%20-%20Koscelisko.docx#_ftnref11",
+        "children": [
+         {
+          "type": "text",
+          "text": "[11]"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " der kleine See konnte auf natürliche Weise durch allmähliche Verfüllung mit Hangsedimenten verschwinden   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,624 @@
+{
+ "slug": "chotebuz-podobora",
+ "data": {
+  "title": "Chotěbuz-Podobora – ein Burgwall über der Furt durch die Olša (CZ)",
+  "slug": "chotebuz-podobora-burgwall-furt-olsa",
+  "excerpt": "Der Burgwall Chotěbuz – Podobora liegt etwa 2 km nordöstlich des Dorfzentrums auf einem Sporn im Teschener Hügelland, rund 275 m ü. M. und bis zu 20 m über dem umliegenden Gelände; bewacht hat er eine Furt durch die Olša. Besiedelt schon zur Zeit der Lausitzer Kultur und in der Hallstattzeit, erhielt er seine mächtigste Befestigung in slawischer Zeit. Heute steht hier ein archäologisches Freilichtmuseum mit der am besten rekonstruierten Mauer aller slawischen Freilichtmuseen.",
+  "metaTitle": "Chotěbuz-Podobora – Burgwall über der Furt durch die Olša",
+  "metaDescription": "Slawischer Burgwall im Teschener Hügelland, 20 m über der Furt durch die Olša; schon zur Zeit der Lausitzer Kultur und in der Hallstattzeit besiedelt.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Etwa 2 km nordöstlich der Gemeinde Chotěbuz, auf einem Sporn im Teschener Hügelland, in einer Höhe von etwa 275 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße des Burgwalls",
+    "value": "Gesamtlänge etwa 400 m, Breite etwa 110 m, innere Fläche 1,8 ha",
+    "icon": "shield"
+   },
+   {
+    "label": "Gliederung",
+    "value": "Drei Teile — Hauptburg, erste und zweite Vorburg; am ausgeprägtesten befestigt waren die Hauptburg und die erste Vorburg",
+    "icon": "building"
+   },
+   {
+    "label": "Befestigung der Hauptburg",
+    "value": "Hölzerne Mauer in Kastenkonstruktion auf dem älteren hallstattzeitlichen Wall, Frontwand gegen Brand mit Ton verstrichen",
+    "icon": "shield"
+   },
+   {
+    "label": "Graben der ersten Vorburg",
+    "value": "Breite 15–17 m, spitze Form, schließt an eine natürliche Schlucht an",
+    "icon": "mountain"
+   },
+   {
+    "label": "Kultobjekt",
+    "value": "Rechtwinkliges hölzernes Gebilde von 3,2 × 5,2 × 5,8 m auf der ersten Vorburg, mit einem verbrannten Behältnis in der Mitte — wahrscheinlich ein heidnisches Heiligtum",
+    "icon": "scroll"
+   },
+   {
+    "label": "Anderer Name",
+    "value": "Der Burgwall wird auch Starý Tešín (Alt-Teschen) genannt, da die Verteidigung des Handelsweges über die Mährische Pforte die spätere Burg in Těšín übernahm",
+    "icon": "crown"
+   },
+   {
+    "label": "Heute",
+    "value": "Archäologisches Freilichtmuseum mit rekonstruierter Kasten- und Palisadenmauer, Eingangstor im Turm, Brücke über den Graben und innerer Bebauung",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "5. Jahrhundert v. Chr.",
+    "title": "Untergang des hallstattzeitlichen Burgwalls",
+    "description": "Der von den Leuten der Lausitzer Kultur und später der Hallstattkultur besiedelte Burgwall wurde nach wiederholten Angriffen zerstört; erneuert wurde er erst mit der Ankunft der Slawen.",
+    "type": "destruction"
+   },
+   {
+    "year": "2. Hälfte des 8. Jahrhunderts",
+    "title": "Ankunft der slawischen Bevölkerung",
+    "description": "Die Slawen errichteten die Befestigung auf der Hauptburg erneut und bauten auch die Befestigung beider Vorburgen.",
+    "type": "founding"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Entstehung des Grabens der ersten Vorburg",
+    "description": "Ein 15–17 m breiter Graben, der im Nordwesten fließend in eine natürliche Schlucht übergeht.",
+    "type": "construction"
+   },
+   {
+    "year": "Wende vom 9. zum 10. Jahrhundert",
+    "title": "Verlust des Gebiets nördlich der Mährischen Pforte",
+    "description": "Im Zusammenhang mit dem verfallenden Reich der Mojmiriden kam es zu gewaltsamen Ereignissen — das belegen mächtige Brandschichten auf der Hauptburg und der ersten Vorburg sowie eiserne Pfeilspitzen in der inneren Palisade des Walls.",
+    "type": "event"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Fast hundertjährige Unterbrechung der Besiedlung",
+    "description": "Nach den Bränden erlosch das Leben auf dem Burgwall für fast ein ganzes Jahrhundert, ohne jegliche schriftliche Nachrichten über die Region.",
+    "type": "event"
+   },
+   {
+    "year": "letztes Viertel des 10. Jahrhunderts",
+    "title": "Rückkehr der Besiedlung",
+    "description": "Der Burgwall erlangte nie wieder seine ursprüngliche Bedeutung, die Kultur dieser Zeit ist ärmer und die besiedelte Fläche kleiner.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 11. Jahrhunderts",
+    "title": "Endgültige Aufgabe des Burgwalls",
+    "description": "Die Bevölkerung zog auf den Zámocký vrch (Schlossberg) im heutigen polnischen Teschen um, wo eine neue Fortifikation und später das Zentrum eines piastischen Burgbezirks entstand.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 1133,
+    "caption": "Treten Sie ein …",
+    "alt": "Treten Sie ein …"
+   },
+   {
+    "mediaId": 1134,
+    "caption": "Plan des Burgwalls mit den bei der Ausgrabung eingezeichneten Schnitten",
+    "alt": "Plan des Burgwalls mit den bei der Ausgrabung eingezeichneten Schnitten"
+   },
+   {
+    "mediaId": 1135,
+    "caption": "Öfen und Drehmühlen",
+    "alt": "Öfen und Drehmühlen"
+   },
+   {
+    "mediaId": 1136,
+    "caption": "Der hervorragend rekonstruierte Turm …",
+    "alt": "Der hervorragend rekonstruierte Turm …"
+   },
+   {
+    "mediaId": 1137,
+    "caption": "Die Kastenmauer",
+    "alt": "Die Kastenmauer"
+   },
+   {
+    "mediaId": 1138,
+    "caption": "Die Gastfreundschaft der slawischen Mädchen …",
+    "alt": "Die Gastfreundschaft der slawischen Mädchen …"
+   },
+   {
+    "mediaId": 1139,
+    "caption": "Ein wichtiges Detail der Rückseite der Palisade — wegen der Höhe der Palisade musste aus Verteidigungsgründen auf der Innenseite ein Wehrgang errichtet werden, auf dem sich die Verteidiger so bewegen konnten, dass sie den Raum zwischen den Zinnen wirksam verteidigen konnten",
+    "alt": "Ein wichtiges Detail der Rückseite der Palisade — wegen ihrer Höhe musste innen ein Wehrgang errichtet werden, auf dem sich die Verteidiger bewegen konnten"
+   },
+   {
+    "mediaId": 499,
+    "caption": "Das heidnische Heiligtum aus Chotěbuz",
+    "alt": "Das heidnische Heiligtum aus Chotěbuz"
+   },
+   {
+    "mediaId": 1146,
+    "caption": "Werkzeuge eines Herstellers von Kettenhemden",
+    "alt": "Werkzeuge eines Herstellers von Kettenhemden"
+   },
+   {
+    "mediaId": 1147,
+    "caption": "Kaufen Sie …",
+    "alt": "Kaufen Sie …"
+   },
+   {
+    "mediaId": 1148,
+    "caption": "Das Vorführen der slawischen Gottheiten geht manchmal nicht ohne nette Verlegenheit ab …",
+    "alt": "Das Vorführen der slawischen Gottheiten geht manchmal nicht ohne nette Verlegenheit ab …"
+   },
+   {
+    "mediaId": 1154,
+    "caption": "Der mächtige Wall mit Graben der ersten Vorburg – die Außenseite der Mauer",
+    "alt": "Der mächtige Wall mit Graben der ersten Vorburg – die Außenseite der Mauer"
+   },
+   {
+    "mediaId": 1155,
+    "caption": "Die Innenseite der Mauer der ersten Vorburg",
+    "alt": "Die Innenseite der Mauer der ersten Vorburg"
+   },
+   {
+    "mediaId": 1156,
+    "caption": "Das Tor in die erste Vorburg",
+    "alt": "Das Tor in die erste Vorburg"
+   },
+   {
+    "mediaId": 1175,
+    "caption": "Blick auf die Hauptburg vom Tor der ersten Vorburg",
+    "alt": "Blick auf die Hauptburg vom Tor der ersten Vorburg"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Chotěbuz – Podobora ist etwa 2 km nordöstlich vom Zentrum der Gemeinde entfernt, im Raum des Teschener Hügellandes, und liegt in einer Höhe von etwa 275 Metern über dem Meer, auf einem Sporn, der im Westen von einer Mulde mit einem Bach begrenzt wird, zum größeren Teil bildet seinen Rand jedoch ein steiler Abfall. In diesem Teil floss in der Vergangenheit der Fluss Olša (Olsa), und in seiner Nähe lag eine Furt, die eben von dem Burgwall bewacht wurde. Der Burgwall erhebt sich hier bis zu 20 Meter über das umliegende Gelände und war somit strategisch sehr gut platziert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall spielte schon in der Zeit der Lausitzer Kultur eine sehr wichtige Rolle, später war er in der Hallstattzeit besiedelt, die bedeutendste Besiedlung ist hier aber in slawischer Zeit festzustellen, als vor allem auf der Hauptburg des Burgwalls eine mächtige Befestigung errichtet wurde. Als später die Teschener Burg zum Sitz des Teschener Fürsten wurde und in ihrem Suburbium die Stadt Těšín (Teschen) heranwuchs, war der Burgwall für viele Jahrhunderte verlassen. Die ersten Nachrichten über archäologische Funde vom Burgwall stammen aus dem 19. Jahrhundert. Später wurde der Burgwall zum Ort einer systematischen archäologischen Ausgrabung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall entstand als eine der befestigten Siedlungen, die entlang des Handelsweges lagen, der über die Mährische Pforte den Norden mit dem Süden Europas verband. Über eine Reihe von Jahrhunderten bildete er einen bedeutenden Platz der Verteidigung dieses Handelsweges und zudem einen Ort des Handels und einen befestigten Sitz für seine Bewohner. Er ging erst mit der Entstehung der Burg in Těšín unter. Daher wird er auch oft Starý Tešín (Alt-Teschen) genannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Treten Sie ein …",
+    "alt": "Treten Sie ein …",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gesamtlänge des Burgwalls beträgt etwa 400 m, die Breite etwa 110 m, die innere Fläche 1,8 ha. Der Burgwall besteht aus drei Teilen: der Hauptburg, der ersten und der zweiten Vorburg. Am ausgeprägtesten befestigt waren die Hauptburg und die erste Vorburg. Die Befestigung der zweiten Vorburg wurde nicht fertiggestellt und ist im Gelände auch weniger sichtbar. Die östliche Seite des Burgwalls war von Erdrutschen gezeichnet. Wahrscheinlich war sie nur von einer leichten Palisade umgeben, denn den natürlichen Schutz bot hier der Fluss Olša, der direkt unterhalb des Burgwalls vorbeifloss, und wahrscheinlich auch der Bach auf der Westseite, an dessen Bett der Graben der ersten Vorburg anschließt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hallstattzeit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie bereits angedeutet, war der Burgwall zuerst von den Leuten der Lausitzer Kultur in der Spätbronzezeit und später in der älteren Eisenzeit (Hallstattkultur) besiedelt. In der Hallstattzeit war die Hauptburg besiedelt, und aus dieser Zeit fanden sich hier Überreste von Pfostenbauten, Vorratsgruben, Keramik und verschiedene andere Funde. Die Vorburgen bildeten in jener Zeit offenbar keinen Bestandteil des Burgwalls. Der Burgwall wurde in der Hallstattzeit mehrmals von Feinden angegriffen, wobei er im 5. Jahrhundert vor unserer Zeitrechnung zerstört wurde und das Leben erst in der Zeit nach der Ankunft der Slawen zwischen seine Mauern zurückkehrte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan des Burgwalls mit den bei der Ausgrabung eingezeichneten Schnitten",
+    "alt": "Plan des Burgwalls mit den bei der Ausgrabung eingezeichneten Schnitten",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawische Zeit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der 2. Hälfte des 8. Jahrhunderts kam slawische Bevölkerung in den Raum des Burgwalls, und damals entfaltete sich in ihm wieder voll das Leben. Die Slawen errichteten die Befestigung auf der Hauptburg erneut und bauten auch die Befestigung beider Vorburgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Hauptburg dominierte in jener Zeit eindeutig ein mächtiger Wall, der ihren südlichen Teil begrenzte und vor dem noch ein ausgeprägter Spitzgraben lag. Ursprünglich stand auf der Krone des Walls eine hölzerne Mauer in Kastenkonstruktion, die den älteren hallstattzeitlichen Wall nutzte und mit Erde verfüllt war. Die Frontwand der Mauer war mit Ton verstrichen, der einen etwaigen Brand verhindern sollte. Den Zugang zur Hauptburg über den Wall sicherte ein Tor, das mit der ersten Vorburg wahrscheinlich durch eine kleine Brücke verbunden war. Der übrige Teil der Hauptburg war durch die natürlichen Bedingungen so ausreichend geschützt (ein steiler Abfall, auf dem keine Bäume wuchsen, und der Fluss an seinen Seiten), dass es nicht nötig war, ihn stärker zu befestigen. Den Schutz sicherte hier wahrscheinlich ein Palisadenzaun. Die Hauptburg selbst konnte jedoch kein zahlreicheres slawisches Volk aufnehmen, und daher wurden der Hauptburg allmählich noch zwei Vorburgen angefügt, obwohl die Befestigung der zweiten nicht vollständig fertiggestellt wurde. Jeder Teil war selbständig durch Gräben und Wälle befestigt. Die Gräben hatten spitze Form. Die Wälle auf der ersten und der zweiten Vorburg waren ohne innere Konstruktion, auf der Hauptburg stand, wie schon erwähnt, auf der Krone des älteren Walls ein hölzerner Aufbau von 4–5 m Breite, und auf der ersten Vorburg war die Aufschüttung von der Innen- wie von der Außenseite durch eine Palisade verfestigt, die aus 20–40 cm dicken Pfählen aus Tannenholz, in geringerem Maße aus Eichenholz, bestand. Auch diese Wand war mit Ton verstrichen, der einem etwaigen Brand vorbeugen sollte. Der Graben der ersten Vorburg ist 15–17 m breit und geht im Nordwesten fließend in eine natürliche Schlucht über. Er entstand offenbar im 8. bis 9. Jahrhundert. Auch die zweite Vorburg war durch einen Wall und einen Graben von 150 m Länge befestigt. Im Unterschied zu den beiden vorigen Teilen des Burgwalls ist die Befestigung der zweiten Vorburg im Gelände verhältnismäßig unauffällig und zieht sich vom Wall und Graben der ersten Vorburg in einem leichten Bogen zum Steilabfall über dem Wasserlauf. Diese Befestigung entstand offenbar in der älteren Phase der slawischen Besiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Öfen und Drehmühlen",
+    "alt": "Öfen und Drehmühlen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die innere Bebauung des Burgwalls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den Siedlungsaktivitäten der slawischen Zeit zählen wir vor allem Wohn-, Produktions-, Wirtschafts- oder Kultbauten. Die Slawen bedeckten die Fläche der Hauptburg und teilweise auch der ersten Vorburg mit einer Schotterschicht, die die durch die vorangehende Besiedlung verursachten Geländeunebenheiten ausgleichen sollte und gleichzeitig als Drainageschicht funktionierte (sie sicherte die Ableitung des Wassers, damit auf dem Burgwall in Zeiten längerer Regenfälle keine Schlamm- und Tonschicht entstand). Diese Schotterschicht führte jedoch dazu, dass es heute nicht möglich ist, Überreste der Bauten, die auf der Oberfläche dieser Schicht standen, archäologisch zu erfassen. Von den eingetieften Objekten erfassen wir nur deren untersten Teil, der in die ältere hallstattzeitliche Schicht eingetieft war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlungsobjekte"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der hervorragend rekonstruierte Turm …",
+    "alt": "Der hervorragend rekonstruierte Turm …",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hierher gehören Bauten, die von Menschen zum Wohnen errichtet und genutzt wurden. Es handelt sich vor allem um eingetiefte Siedlungsobjekte, in denen Überreste einer Heizvorrichtung (einer Feuerstelle oder eines Ofens) gefunden wurden. Die Zwischenräume zwischen den Holzstämmen waren bei allen Konstruktionen mit Ton verstrichen, was die Wärmedämmung des Objekts sicherte. Im Inneren befand sich eine Heizvorrichtung, es wurde hier auch eine Menge verkohlten Getreides gefunden. Entdeckt wurde zudem ein Objekt, das zwei flache ausgetretene Ovale und Überreste einer Feuerstelle bildeten. Wir können hier an eine ebenerdige Konstruktion dieses Objekts in Blockbauweise denken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Produktions- und Wirtschaftsobjekte"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hierher zählen wir Überreste von Bauten oder Vorrichtungen, die der Herstellung von Gegenständen, der Verarbeitung und Lagerung von Rohstoffen oder Lebensmitteln oder der Einstallung von Vieh dienten. Es handelt sich meist um verschiedene kleine Öfen, eine Feuerstelle oder andere Heizobjekte, die meist der Verarbeitung von Rohstoffen dienten, z. B. der schmiedemäßigen Verarbeitung von Erz oder der Herstellung gebrannter Keramik. Eine weitere Art sind Überreste von Wirtschaftsobjekten, die mit der landwirtschaftlichen Produktion zusammenhängen. Es handelt sich am häufigsten um Vorrats- und Lagergruben sowie um Objekte, die mit der Haltung von Haustieren verbunden sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Kultobjekt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall wurde auf der ersten Vorburg ein heidnisches Kultobjekt erkannt. Durch die archäologische Ausgrabung wurde hier ein rechtwinkliges Gebilde erfasst, das nach Westen offen war. Die Wände dieses Gebildes mit den Ausmaßen 3,2 × 5,2 × 5,8 m bildeten hölzerne Pfähle, von denen ein Teil wohl nicht einmal Pfähle im eigentlichen Sinne des Wortes war, sondern nur Rundholz, das offenbar zum Sitzen bestimmt war. Etwa in der Mitte dieser Anordnung wurde ein verbranntes hölzernes Behältnis mit den Ausmaßen 1 × 1 m freigelegt. Ob dieses Behältnis der Aufbewahrung verehrter Gegenstände diente oder als Sockel der Statue einer uns unbekannten Gottheit, lässt sich leider nicht mit Genauigkeit bestimmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Kastenmauer",
+    "alt": "Die Kastenmauer",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet des heutigen Teschener Schlesiens geriet in die Einflusssphäre Großmährens und war für eine bestimmte Zeit auch dessen Bestandteil. Irgendwann an der Wende vom 9. zum 10. Jahrhundert oder ganz am Beginn des 10. Jahrhunderts kam es im Zusammenhang mit dem verfallenden Reich der Mojmiriden, als sich besonders die Randgebiete loszureißen versuchten, auch zum Verlust der Gebiete nördlich der Mährischen Pforte. Dass dies nicht ohne Blutvergießen und Gewalt ablief, verraten mächtige Brandschichten auf der Hauptburg und der ersten Vorburg, aber auch z. B. eiserne Pfeilspitzen in der inneren Palisade des Walls. Nach diesen stürmischen Ereignissen erlischt das Leben auf dem Burgwall für fast das gesamte 10. Jahrhundert, aus dem wir auch keinerlei schriftliche Nachrichten über diese Region haben. Erst im letzten Viertel dieses Jahrhunderts kehrt die Besiedlung an die Fundstelle zurück. Der Burgwall erlangte jedoch nie wieder seinen vergangenen Glanz. Auch die Kultur dieser Zeit ist verhältnismäßig ärmer und die besiedelte Fläche kleiner. Die Bevölkerung wohnte in rechtwinkligen Grubenhäusern, die von einem Satteldach gedeckt waren. Sie lebte vom Anbau von Getreide und von der Viehhaltung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Gastfreundschaft der slawischen Mädchen …",
+    "alt": "Die Gastfreundschaft der slawischen Mädchen …",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Etwa in der Mitte des 11. Jahrhunderts wurde der Burgwall von der Bevölkerung allmählich verlassen. Als lebensfähiger erwies sich nämlich in der gegebenen politischen Lage die Lage, die knapp über dem rechten Ufer des Flusses Olša auf dem Zámocký vrch (Schlossberg) im heutigen polnischen Teschen vorgeschoben war; dort entstand im Laufe der 2. Hälfte des 10. Jahrhunderts auf älteren urgeschichtlichen Grundlagen eine völlig neue Fortifikation, die verhältnismäßig früh zu einem bedeutenden Zentrum eines der piastischen Burgbezirke in Schlesien wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall heute – das archäologische Freilichtmuseum"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute finden Sie auf dem Burgwall ein "
+       },
+       {
+        "type": "link",
+        "url": "http://www.archeopark-chotebuz.cz/",
+        "children": [
+         {
+          "type": "text",
+          "text": "archäologisches Freilichtmuseum"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", das meiner Meinung nach die beste rekonstruierte Mauer von allen slawischen Freilichtmuseen hat. Außer der Kastenmauer und der Palisadenmauer begeistern auch das Eingangstor im Wehrturm, die Brücke über den Graben und zudem die sich erweiternde innere Bebauung, die aus mehreren Wohnhäusern, Keramikbrennöfen und einem heidnischen Heiligtum besteht. An Wochenenden und Feiertagen macht Ihnen die Geschichtsgruppe "
+       },
+       {
+        "type": "link",
+        "url": "http://www.tizon.cz/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Tizon"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " den Besuch auf außerordentlich fesselnde und interessante Weise angenehm; sie bringt den Besuchern das Leben in slawischer Zeit näher. Sie werden nicht nur Zeuge von Kämpfen, sondern sehen auch den Schmied und die Händler bei der Arbeit und erfahren viel über die heidnischen Gottheiten der Slawen. Einen Besuch des Burgwalls empfehle ich wärmstens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein wichtiges Detail der Rückseite der Palisade — wegen der Höhe der Palisade musste aus Verteidigungsgründen auf der Innenseite ein Wehrgang errichtet werden, auf dem sich die Verteidiger so bewegen konnten, dass sie den Raum zwischen den Zinnen wirksam verteidigen konnten",
+    "alt": "Ein wichtiges Detail der Rückseite der Palisade — wegen ihrer Höhe musste innen ein Wehrgang errichtet werden, auf dem sich die Verteidiger bewegen konnten",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "edaGuvlSufc",
+    "url": "https://www.youtube.com/embed/edaGuvlSufc",
+    "caption": null
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

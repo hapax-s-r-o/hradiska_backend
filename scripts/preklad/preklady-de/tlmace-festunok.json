@@ -1,0 +1,410 @@
+{
+ "slug": "tlmace-festunok",
+ "data": {
+  "title": "Tlmače – Festunok, ein Burgwall an der Slovenská brána",
+  "slug": "tlmace-festunok-burgwall-slowakische-pforte",
+  "excerpt": "Der Burgwall Festunok (in älteren Benennungen „Festung“ oder „Hradze“) liegt auf einem felsigen Halbinselsporn über dem rechten Ufer der Gran, am südlichen Eingang zur Slovenská brána. Sein Wall aus Holz und Erde mit vorgesetzter Bruchsteinmauer erreichte an der Außenseite 5–6 m Höhe, und der Zugang war durch ein bisher einzigartiges doppeltes Tor gesichert. Gemeinsam mit Grác, Krivín und Beňadická skala bewachte er im 9.–10. Jahrhundert den Weg zu den Erzlagerstätten der Mittelslowakei.",
+  "metaTitle": "Tlmače – Festunok, Burgwall an der Slovenská brána",
+  "metaDescription": "Der Burgwall Festunok bewachte den südlichen Eingang zur Slovenská brána zwischen den Flüssen Žitava und Gran, auf einem Ausläufer des Schemnitzer Gebirges.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Felsige Halbinsel über dem rechten Ufer der Gran (24 m über dem Wasserspiegel), am Eingang zur Slovenská brána zwischen Tlmače und Kozárovce",
+    "icon": "mountain"
+   },
+   {
+    "label": "Maße",
+    "value": "Unregelmäßiges Viereck von 150 × 190 m, Länge des Walls auf dem Grat 560 m, Fläche des Burgwalls 1,84 ha",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion des Walls",
+    "value": "Wall aus Holz und Erde (Breite 320–330 cm) mit einer Mauer aus Bruchsteinen (140–150 cm) an der Außenseite, Gesamtbreite 470–500 cm; Höhe 5–6 m ab der Grabensohle",
+    "icon": "shield"
+   },
+   {
+    "label": "Doppeltes Tor",
+    "value": "Eigenwillige Lösung des Zugangs — zwei Tore (Breite 10 m und 6 m), getrennt durch einen gepflasterten Vorraum, von anderen Fundstellen bisher nicht bekannt",
+    "icon": "building"
+   },
+   {
+    "label": "Opferstein",
+    "value": "In der Mitte des Burgwalls ein Stein von 2 m Länge, 1 m Breite und 1 m Höhe, von einem kleinen Wall umgeben",
+    "icon": "scroll"
+   },
+   {
+    "label": "Benachbarte Burgwälle",
+    "value": "Grác (Pipíška, Malé Kozmálovce), Krivín (Rybník, fünf Höfe) und Beňadická skala — gemeinsam bildeten sie das Verteidigungssystem der Slovenská brána",
+    "icon": "star"
+   },
+   {
+    "label": "Erhaltungszustand",
+    "value": "Noch in der Mitte des 20. Jahrhunderts einer der sechs besterhaltenen Burgwälle der Slowakei, später in Weingärten und Kleingärten parzelliert",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Neolithikum",
+    "title": "Älteste Besiedlung",
+    "description": "Der ältere Teil der Anlage ohne Befestigung (oder mit einer später von den Erbauern gestörten Befestigung) nutzte eine Terrasse, die auf zwei Seiten durch einen natürlichen Hang und auf der dritten durch einen fast senkrechten Felsen geschützt war.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende des 8. – Anfang des 9. Jahrhunderts",
+    "title": "Kriegergräber in Malé Kozmálovce",
+    "description": "Gräber mit einem Schwert karolingischen Typs, Steigbügeln und Lanzen bezeugen die Anwesenheit von Kriegern im Umfeld von Kozárovce noch vor der Errichtung der Burgwälle.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Errichtung der slawischen Befestigung",
+    "description": "Der jüngere Teil der Anlage mit Wall (Gesamtlänge 560 m, Fläche 1,84 ha) und doppeltem Eingangstor; die Keramikfunde zeigen, dass die letzten Bewohner Slawen waren.",
+    "type": "construction"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Teil des Burgwallsystems der Slovenská brána",
+    "description": "Gemeinsam mit den Burgwällen Grác, Krivín und Beňadická skala bildete er ein System, das den wichtigen Weg aus dem Süden in die Mittelslowakei zu den Erzlagerstätten bewachte — nach J. Dekan die Ostgrenze des Fürstentums Neutra.",
+    "type": "event"
+   },
+   {
+    "year": "1075",
+    "title": "Gründung der Abtei in Hronský Beňadik",
+    "description": "Fürst Géza I. gründete die Abtei, damit sie den strategischen Zugang in den Norden der Slowakei zu den Bergstädten durch die Slovenská brána unter Kontrolle hatte.",
+    "type": "event"
+   },
+   {
+    "year": "17.–19. Juli 1664",
+    "title": "Kämpfe zwischen dem kaiserlichen Heer und den Türken",
+    "description": "Das kaiserliche Heer des Generals Louis de Souches hatte seinen Standort auf den Wiesen von Kozárovce und auf dem Festunok, von wo aus es am 19. Juli den Angriff in Richtung Čajkov und Levice begann.",
+    "type": "event"
+   },
+   {
+    "year": "1928",
+    "title": "Janšáks Beschreibung des Burgwalls",
+    "description": "Štefan Janšák dokumentiert den Burgwall und seine archäologischen Funde im Werk Staré osídlenie Slovenska.",
+    "type": "discovery"
+   },
+   {
+    "year": "1968",
+    "title": "Archäologische Ausgrabung von A. Habovštiak",
+    "description": "Die Ausgrabung erbrachte die Rekonstruktion des Walls des Burgwalls aus dem 9.–10. Jahrhundert in Tlmače.",
+    "type": "discovery"
+   },
+   {
+    "year": "Mitte des 20. Jahrhunderts",
+    "title": "Parzellierung des Burgwalls",
+    "description": "Der Burgwall, der noch in der Mitte des 20. Jahrhunderts zu den sechs besterhaltenen in der Slowakei gehörte und 1000 Jahre in gutem Zustand überdauerte, wurde in Weingärten und Kleingärten parzelliert.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6365,
+    "alt": "Der zugewachsene Wallkörper über der Gemeinde im Frühling"
+   },
+   {
+    "mediaId": 572,
+    "caption": "Der Burgwall Festunok auf einer Karte aus dem Jahr 1843",
+    "alt": "Der Burgwall Festunok auf einer Karte aus dem Jahr 1843"
+   },
+   {
+    "mediaId": 573,
+    "caption": "Luftbild des Burgwalls",
+    "alt": "Luftbild des Burgwalls"
+   },
+   {
+    "mediaId": 574,
+    "caption": "Plastische Zeichnung des Burgwalls Festunok nach der Aufnahme von Janšák (1 – Fluss Gran, 2 – Wälle, 3 – Felsen, 4 – Opferstein, 5 – kleiner Wall, 6 – Südtor, 7 – Nordtor)",
+    "alt": "Plastische Zeichnung des Burgwalls Festunok nach der Aufnahme von Janšák (1 – Fluss Gran, 2 – Wälle, 3 – Felsen, 4 – Opferstein, 5 – kleiner Wall, 6 – Südtor, 7 – Nordtor)"
+   },
+   {
+    "mediaId": 575,
+    "caption": "Rekonstruktion des Walls auf Grundlage der archäologischen Ausgrabung von A. Habovštiak – 1968",
+    "alt": "Rekonstruktion des Walls auf Grundlage der archäologischen Ausgrabung von A. Habovštiak – 1968"
+   },
+   {
+    "mediaId": 576,
+    "caption": "auf einer Fotografie aus dem Jahr 1950",
+    "alt": "auf einer Fotografie aus dem Jahr 1950"
+   },
+   {
+    "mediaId": 577,
+    "caption": "Archäologische Funde auf dem Burgwall Festunok (Š. Janšák – Staré osídlenie Slovenska, 1928)",
+    "alt": "Archäologische Funde auf dem Burgwall Festunok (Š. Janšák – Staré osídlenie Slovenska, 1928)"
+   },
+   {
+    "mediaId": 580,
+    "caption": "Der Burgwall heute",
+    "alt": "Der Burgwall heute"
+   },
+   {
+    "mediaId": 582,
+    "caption": "Blick auf den Wall des Burgwalls",
+    "alt": "Blick auf den Wall des Burgwalls"
+   },
+   {
+    "mediaId": 586,
+    "caption": "angeblich der älteste slawische Reitersporn im Gebiet der heutigen Slowakei",
+    "alt": "angeblich der älteste slawische Reitersporn im Gebiet der heutigen Slowakei"
+   },
+   {
+    "mediaId": 587,
+    "caption": "die Innenfläche ist eine ideale Ebene",
+    "alt": "die Innenfläche ist eine ideale Ebene"
+   },
+   {
+    "mediaId": 589,
+    "caption": "Die Befestigung im nördlichen Teil des Burgwalls",
+    "alt": "Die Befestigung im nördlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 592,
+    "caption": "Die Befestigung im westlichen Teil",
+    "alt": "Die Befestigung im westlichen Teil"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Festunok (in älteren Benennungen „Festung“ oder „Hradze“) ist ein Ausläufer des Hügellandes, das sich zwischen dem Fluss Žitava und der Gran erhebt. Er liegt zwischen Tlmače und Kozárovce, am rechten Ufer der Gran, in der Gemarkung der Gemeinde Kozárovce. Diese Hügel waren einst Teil des Schemnitzer Gebirges, von dem sie die Gran abtrennte. Der Fluss schuf hier durch seine erodierende Tätigkeit ein interessantes geografisches Gebilde, das unter dem Namen Slovenská brána (Slowakische Pforte) bekannt ist. Seine Überreste waren so ausgeprägt und auffällig, dass sie auch die Kartografen des späten 19. und des frühen 20. Jahrhunderts erfassten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Festunok liegt am Eingang zur Slovenská brána von Süden her; die eine Seite dieser Pforte bildet der Tlmačská skala mit dem genannten Burgwall, die andere der Berg Kusá hora. Die Kuppe mit dem Burgwall (Höhe 24 m über dem Wasserspiegel der Gran) hat den Charakter einer felsigen Halbinsel, die vorspringt und auf drei Seiten steil in das Überschwemmungsgebiet der Gran abfällt. Der Burgwall bestand aus zwei Teilen: einem jüngeren, durch Wälle und Gräben gut befestigten, und einem älteren, unbefestigten. Die ältere neolithische Höhensiedlung ohne Befestigung (oder vielleicht auch mit Befestigungen, die jedoch die späteren Erbauer gestört haben) besaß alle Vorteile, die eine hoch aufragende Terrasse bietet, geschützt auf zwei Seiten durch einen natürlichen, steilen Hang (in Richtung Gran) und auf der dritten Seite durch einen fast senkrechten Felsen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall Festunok auf einer Karte aus dem Jahr 1843",
+    "alt": "Der Burgwall Festunok auf einer Karte aus dem Jahr 1843",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall setzte sich aus einem umlaufenden Wall in Form eines unregelmäßigen Vierecks mit Hauptachsen von 150 × 190 m zusammen; er bestand aus einem mächtigen Wall, der auf der Südseite in einem leichten Bogen über den steilen Hang der Felskuppe verlief. Im nordöstlichen Teil war die Befestigung durch den Zugang zum Burgwall unterbrochen, der einerseits durch einen vor die Befestigung vorgeschobenen Wall, andererseits durch einen außerhalb des umlaufenden Walls stehenden, in das Innere des Burgwalls verschobenen Ausläufer gesichert war, der mit seinem Nordende an den Hauptumfassungswall anschloss. So entstand im Bereich des Zugangs eine Art Vorraum mit zwei Eingangstoren, von denen das erste 10 m und das zweite 6 m breit war. Eine Besonderheit des Burgwalls in Kozárovce ist die eigenwillige Lösung seines Zugangs durch ein System eines doppelten Tores, das einerseits durch die Unterbrechung des umlaufenden Walls auf der Ostseite, andererseits durch einen Wallausläufer in Richtung Osten und einen kleinen vorgeschobenen Wall gebildet wurde, der parallel zum Ostwall unmittelbar über dem Geländeabbruch errichtet war. Der innere Bereich zwischen den beiden Toren, der eine Art Vorraum des Burgwalls bildet und durch den der Weg auf ihn führte, war mit kleinen Steinen gepflastert. Die Lösung des Zugangs zu einem Burgwall mit einem doppelten Tor bei einfacher Wallbefestigung ist bisher von anderen Fundstellen nicht bekannt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Luftbild des Burgwalls",
+    "alt": "Luftbild des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den nördlichen und westlichen Teil der Befestigung bildete ein durchgehender mächtiger Wall mit einem ausgeprägten Graben an der Außenseite: der Graben setzte sich auf einem kurzen Abschnitt auch auf der Südseite fort. Sekundär wurde die Befestigung nur im südwestlichen Teil unterbrochen, und zwar wegen des leichteren Zugangs in das Areal des einstigen Burgwalls auch von Süden her. Der Wall hatte an der Außenseite eine Höhe von 5–6 m (ab der Grabensohle) und an der Innenseite von 2–3 m. Der Graben wurde nur auf der nördlichen, der westlichen und einem Teil der südlichen Seite ausgehoben, also dort, wo die Befestigung nicht zugleich durch einen Hang oder einen Felsabbruch geschützt war (er hatte eine durchschnittliche Tiefe von 1,5–2 m). Die Gesamtlänge des Walls auf seinem Grat betrug 560 m und die Fläche des Burgwalls 1,84 ha. Die Befestigung auf einem Teil der östlichen (beim Zugang), der nördlichen und der westlichen Seite bestand aus einem Wall aus Holz und Erde und aus einer Steinmauer an der Außenseite. Der 320–330 cm breite Teil aus Holz und Erde bestand aus aufgeschütteter Erde und Schichten von Holzbalken, die nach Art einer Rostkonstruktion quer und längs zum Wall gelegt waren. Am Fuß des Walls waren große Bruchsteine verlegt. Die Konstruktion aus Holz und Erde war höchstwahrscheinlich an der Innenseite durch eine Wand aus Längsbalken abgeschlossen, die von senkrechten Pfosten gehalten wurden. Die Steinmauer an der Außenseite, aus trocken gesetzten Bruchsteinen — Andesittuff und vereinzelt auch Sandstein — errichtet, war 140–150 cm breit, sodass die Gesamtbreite beider Teile des Walls 470–500 cm betrug. In der Mitte des Burgwalls lag ein Opferstein von etwa 2 m Länge, 1 m Breite und 1 m Höhe, der in west-östlicher Richtung ausgerichtet war. Um den Opferstein verlief ein kleiner Wall. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plastische Zeichnung des Burgwalls Festunok nach der Aufnahme von Janšák (1 – Fluss Gran, 2 – Wälle, 3 – Felsen, 4 – Opferstein, 5 – kleiner Wall, 6 – Südtor, 7 – Nordtor)",
+    "alt": "Plastische Zeichnung des Burgwalls Festunok nach der Aufnahme von Janšák (1 – Fluss Gran, 2 – Wälle, 3 – Felsen, 4 – Opferstein, 5 – kleiner Wall, 6 – Südtor, 7 – Nordtor)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Keramikfunde deuten darauf hin, dass die letzten Bewohner Slawen waren. Die beschriebene Art des Befestigungsbaus war bei den Westslawen üblich — mit kleineren Abwandlungen, die einerseits durch die Geländekonfiguration, andererseits durch die Quellen des Baumaterials bedingt waren. Im Gebiet der Slowakei wurden Wälle mit hölzerner Rostkonstruktion und einer Steinmauer an der Außenseite an mehreren Fundstellen mit slawischen Burgwällen festgestellt. Burgwälle mit ähnlichem Charakter der Befestigung sind auch aus Mähren, Böhmen und Polen bekannt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Burgwälle sollten nach J. Dekan in Übereinstimmung mit den Nachrichten des Kosmas die Ostgrenze des Fürstentums Neutra bilden. Für das Verständnis und die Erklärung der Funktion des Burgwalls in Kozárovce hat jedoch seine geografische Lage und die Gesamtsituation im weiteren Umfeld die größte Bedeutung. Der Burgwall liegt nämlich an einem strategisch sehr bedeutenden und wichtigen Ort, direkt am Eingang zur Slovenská brána, durch die ein wichtiger Weg aus dem Süden in die Mittelslowakei führte, in das Gebiet reicher Erzlagerstätten. Einen so wichtigen Durchgang musste man bewachen und schützen, beziehungsweise bei ihm eine Befestigung errichten, die in Zeiten feindlicher Angriffe als strategischer Punkt, aber auch als Zuflucht für die Bevölkerung der näheren Umgebung diente. Er war in diesem Gebiet jedoch nicht der einzige. In nicht großer Entfernung (etwa 1 km) südlich von ihm liegen die Überreste des nach Lage und Fläche sehr ähnlichen, bisher nicht näher untersuchten Burgwalls Grác auf dem Berg Pipíška in der Gemarkung von Malé Kozmálovce. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion des Walls auf Grundlage der archäologischen Ausgrabung von A. Habovštiak – 1968",
+    "alt": "Rekonstruktion des Walls auf Grundlage der archäologischen Ausgrabung von A. Habovštiak – 1968",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere befestigte Siedlung in der Slovenská brána, beziehungsweise an ihrer Ostseite, konnte der Burgwall Krivín gegenüber Psiare in der Gemarkung der Gemeinde Rybník sein: seine Wallbefestigung unterscheidet sich von den übrigen bisher genannten Burgwällen im Grantal (sie ist in fünf Höfe gegliedert), und von ihm stammen Funde ähnlichen Charakters wie vom Burgwall in Kozárovce. Fast gegenüber dem vorigen liegt eine bis vor kurzem unbekannte befestigte Siedlung — der Burgwall auf der Beňadická skala. Er hat dieselbe Wallkonstruktion wie der in Kozárovce, und es wurden auf ihm auch ähnliche Funde des 9.–10. Jahrhunderts festgestellt. Wenn wir also im Gebiet der Slovenská brána, auf einem Gebiet, dessen Länge 7 km nicht überschreitet, mindestens vier Burgwälle finden, die durch ihre erhöhte Lage und die unmittelbare Nähe zu dem das Grantal hinaufführenden Weg sowie durch den Gesamtcharakter der Besiedlung und die Bautechnik eine auffällige Verwandtschaft zeigen, bleibt nichts anderes übrig, als sie als ein Ganzes und als ein System zu betrachten. Der Burgwall in Kozárovce hatte, ähnlich wie die weiteren verwandten Burgwälle im Gebiet der Slovenská brána, eine strategische Wach- und Angriffsfunktion. Eine archäologische Bestätigung für die Richtigkeit eines solchen Verständnisses der Funktion des Burgwalls in Kozárovce und im gesamten Gebiet der Slovenská brána könnten auch die Funde eiserner Pfeilspitzen sein, die sicherlich mit der Kriegs- und Wachtätigkeit seiner Bewohner zusammenhängen. Ein Zeugnis für die Anwesenheit von Kriegern im weiteren Umfeld von Kozárovce bereits in der Zeit vor der Errichtung der genannten Burgwälle kann der Fund von Kriegergräbern mit einem Schwert karolingischen Typs, Steigbügeln und Lanzen vom Ende des 8. oder vom Anfang des 9. Jahrhunderts in Malé Kozmálovce sein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "auf einer Fotografie aus dem Jahr 1950",
+    "alt": "auf einer Fotografie aus dem Jahr 1950",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der strategischen Lage der Slovenská brána war sich auch Fürst Géza I., der spätere ungarische König, bewusst, und er gründete im Jahr 1075 in Hronský Beňadik eine Abtei, damit sie den Zugang in den Norden der Slowakei, zu den Bergstädten, unter Kontrolle hatte. Auch lange nach seinem Untergang wurde der Burgwall zu militärischen Zwecken genutzt. Am 17. Juli 1664 begannen an der Gran die Kämpfe zwischen dem kaiserlichen Heer und den Türken. Das kaiserliche Heer unter der Führung des Generals Louis de Souches hatte seinen Standort auf den Wiesen von Kozárovce und auf dem Festunok, von wo aus es am 19. Juli den Angriff in Richtung Čajkov und Levice (Lewenz) begann. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Festunok gehörte noch in der Mitte des zwanzigsten Jahrhunderts zu den sechs besterhaltenen Burgwällen in der Slowakei. Der Burgwall überdauerte 1000 Jahre in sehr gutem Zustand. Doch die Genossen entschieden, und der Burgwall wurde in Grundstücke für Weingärten und Kleingärten parzelliert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Archäologische Funde auf dem Burgwall Festunok (Š. Janšák – Staré osídlenie Slovenska, 1928)",
+    "alt": "Archäologische Funde auf dem Burgwall Festunok (Š. Janšák – Staré osídlenie Slovenska, 1928)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto: Matúš Martinák"
+       },
+       {
+        "type": "text",
+        "text": " "
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

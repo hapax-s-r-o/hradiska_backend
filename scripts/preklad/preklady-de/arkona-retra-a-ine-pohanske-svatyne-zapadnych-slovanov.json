@@ -1,0 +1,784 @@
+{
+ "slug": "arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov",
+ "data": {
+  "title": "Arkona, Rethra und andere heidnische Heiligtümer der Westslawen",
+  "slug": "arkona-rethra-heidnische-heiligtuemer-der-westslawen",
+  "excerpt": "Die absolute Mehrheit der slawischen Heiligtümer im Gebiet der heutigen Slowakei stand unter freiem Himmel. Echte heidnische Tempel – überdachte Gebäude – entstanden nur im elbslawischen und im ostseeslawischen Raum, wo sie noch im 12. Jahrhundert zu finden sind. Die Chronisten Thietmar von Merseburg, Adam von Bremen, Helmold, Ebbo und Herbord haben uns zahlreiche Beschreibungen der Götter und Heiligtümer der dortigen Slawen hinterlassen – von Riedegost-Rethra über Arkona bis Groß Raden.",
+  "metaTitle": "Arkona und Rethra – heidnische Heiligtümer der Westslawen",
+  "metaDescription": "Die meisten slawischen Heiligtümer standen unter freiem Himmel. Echte überdachte Tempel wie Arkona auf Rügen oder Rethra gab es nur bei den Elbslawen.",
+  "keyFacts": [
+   {
+    "label": "Zeitstellung",
+    "value": "Heidnische Tempel im Elb- und Ostseeraum noch im 12. Jahrhundert (im Gebiet der heutigen Slowakei endet das Heidentum im 9. Jahrhundert)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Lage",
+    "value": "Arkona – die Insel Rügen",
+    "icon": "map"
+   },
+   {
+    "label": "Gottheit von Rethra / Riedegost",
+    "value": "Svarožič, später Radegast / Radigast",
+    "icon": "crown"
+   },
+   {
+    "label": "Gottheit von Arkona",
+    "value": "Svantovit – ein Standbild mit vier Köpfen und vier Hälsen",
+    "icon": "star"
+   },
+   {
+    "label": "Svantovits Gefolgschaft",
+    "value": "300 Reiter zu Pferd",
+    "icon": "shield"
+   },
+   {
+    "label": "Wichtigste Heiligtümer",
+    "value": "Riedegost-Rethra, Arkona, Stettin, Wolin, Wolgast, Gochow, Groß Raden, Korenica",
+    "icon": "building"
+   },
+   {
+    "label": "Weitere Götter",
+    "value": "Triglav, Rugievit, Porevit, Porenut, Gerovit-Jarovit",
+    "icon": "flag"
+   },
+   {
+    "label": "Quellen (Chronisten)",
+    "value": "Thietmar von Merseburg, Adam von Bremen, Helmold, Ebbo, Herbord",
+    "icon": "scroll"
+   },
+   {
+    "label": "Stämme",
+    "value": "die Redarier und die Ranen",
+    "icon": "users"
+   },
+   {
+    "label": "Zerstörung Arkonas",
+    "value": "Der dänische König Waldemar, 1168",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1018",
+    "title": "Tod Thietmars – die älteste Nachricht über Svarožič",
+    "description": "Der Chronist Thietmar von Merseburg, der die älteste und zugleich glaubwürdige Nachricht über den Gott Svarožič und das Heiligtum Riedegost überlieferte, starb im Jahr 1018.",
+    "type": "event"
+   },
+   {
+    "year": "1068",
+    "title": "Erbeutung des heiligen Pferdes von Rethra",
+    "description": "Das Weissagepferd des Heiligtums, das in bestimmter Weise über Lanzen schritt, erbeutete offenbar in einer Schlacht Bischof Burchard von Halberstadt.",
+    "type": "event"
+   },
+   {
+    "year": "Ende 11. – 12. Jahrhundert",
+    "title": "Untergang des Heiligtums Rethra",
+    "description": "Der Text nennt kein genaues Jahr, nur die Spanne „Ende des 11. oder im 12. Jahrhundert“.",
+    "type": "destruction"
+   },
+   {
+    "year": "nach 1128",
+    "title": "Zerhauen des Standbildes Triglavs in Stettin",
+    "description": "Bischof Otto ließ das Standbild Triglavs zerhauen und die drei silbernen Köpfe nach Rom senden.",
+    "type": "destruction"
+   },
+   {
+    "year": "1168",
+    "title": "Zerstörung Arkonas durch die Dänen",
+    "description": "Die Dänen, die Rivalen der Ranen, zerstörten Arkona; König Waldemar ließ das Standbild Svantovits schänden, zerhauen und verbrennen, die Slawen wurden zur Taufe gezwungen.",
+    "type": "destruction"
+   },
+   {
+    "year": "1921",
+    "title": "Schuchhardt suchte Svantovits Tempel in Arkona",
+    "description": "Der deutsche Archäologe entdeckte Reste eines quadratischen Baus, die er für das gesuchte Heiligtum hielt.",
+    "type": "discovery"
+   },
+   {
+    "year": "1922",
+    "title": "Versuch, Rethra auf dem Feldberg zu lokalisieren",
+    "description": "Schuchhardt versuchte, Rethra mit dem Burgwall Feldberg am gleichnamigen See gleichzusetzen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1967",
+    "title": "Herrmann widerlegte die Gleichsetzung des Feldbergs mit Rethra",
+    "description": "Neuere Untersuchungen zeigten, dass das Feldberger Heiligtum von anderem Typ und älter ist (7.–8. Jahrhundert), also nicht mit Rethra identisch sein kann.",
+    "type": "discovery"
+   },
+   {
+    "year": "1969–1970",
+    "title": "Berlekamps Revisionsgrabung in Arkona",
+    "description": "Sie zeigte, dass Schuchhardts „Tempelreste“ eher Spuren der inneren Befestigung waren; das eigentliche Heiligtum wurde offenbar vom Meer verschlungen.",
+    "type": "discovery"
+   },
+   {
+    "year": "7.–8. Jahrhundert",
+    "title": "Entstehung des Heiligtums auf dem Burgwall Feldberg",
+    "description": "Die Datierung des Feldberger Heiligtums in eine ältere Zeit ist der Grund, weshalb eine Gleichsetzung mit dem historischen Rethra unmöglich ist.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6355,
+    "alt": "Slawen in weißen bestickten Gewändern bei einer Zeremonie vor einem geschnitzten hölzernen Idol in einem Heiligtum in Blockbauweise"
+   },
+   {
+    "mediaId": 2946,
+    "caption": "Viele nehmen an, dass Rethra die Fischerinsel im Tollensesee war",
+    "alt": "Viele nehmen an, dass Rethra die Fischerinsel im Tollensesee war"
+   },
+   {
+    "mediaId": 2947,
+    "caption": "Der bekannte Götze von der Fischerinsel",
+    "alt": "Der bekannte Götze von der Fischerinsel"
+   },
+   {
+    "mediaId": 2949,
+    "caption": "Blick auf einen Teil des Burgwalls Arkona. Wie zu sehen ist, stürzte der größere Teil zusammen mit dem Kliff ins Meer",
+    "alt": "Blick auf einen Teil des Burgwalls Arkona. Wie zu sehen ist, stürzte der größere Teil zusammen mit dem Kliff ins Meer"
+   },
+   {
+    "mediaId": 2950,
+    "caption": "Kap Arkona heute",
+    "alt": "Kap Arkona heute"
+   },
+   {
+    "mediaId": 2951,
+    "caption": "Das Standbild Svantovits heute",
+    "alt": "Das Standbild Svantovits heute"
+   },
+   {
+    "mediaId": 239,
+    "caption": "Die Zerstörung Arkonas",
+    "alt": "Die Zerstörung Arkonas"
+   },
+   {
+    "mediaId": 2952,
+    "caption": "Der Burgwall Arkona – künstlerische Vorstellung (Temnozor)",
+    "alt": "Der Burgwall Arkona – künstlerische Vorstellung (Temnozor)"
+   },
+   {
+    "mediaId": 2953,
+    "caption": "Arkona – einer der Versuche einer „Rekonstruktion“",
+    "alt": "Arkona – einer der Versuche einer „Rekonstruktion“"
+   },
+   {
+    "mediaId": 2954,
+    "caption": "Fiktive Gestalt des Heiligtums in Arkona",
+    "alt": "Fiktive Gestalt des Heiligtums in Arkona"
+   },
+   {
+    "mediaId": 2958,
+    "caption": "Der Burgwall Groß Raden wurde rekonstruiert – die annähernde Gestalt des heidnischen Heiligtums",
+    "alt": "Der Burgwall Groß Raden wurde rekonstruiert – die annähernde Gestalt des heidnischen Heiligtums"
+   },
+   {
+    "mediaId": 2959,
+    "caption": "Frontalansicht des Heiligtums",
+    "alt": "Frontalansicht des Heiligtums"
+   },
+   {
+    "mediaId": 2960,
+    "caption": "1960",
+    "alt": "1960"
+   },
+   {
+    "mediaId": 2961,
+    "caption": "Der Wall von der Innenseite",
+    "alt": "Der Wall von der Innenseite"
+   },
+   {
+    "mediaId": 2962,
+    "caption": "Die Befestigung von der Außenseite",
+    "alt": "Die Befestigung von der Außenseite"
+   },
+   {
+    "mediaId": 2963,
+    "caption": "1938",
+    "alt": "1938"
+   },
+   {
+    "mediaId": 2972,
+    "caption": "Rekonstruktion des Tores",
+    "alt": "Rekonstruktion des Tores"
+   },
+   {
+    "mediaId": 2973,
+    "caption": "Ausblicke vom Kliff",
+    "alt": "Ausblicke vom Kliff"
+   },
+   {
+    "mediaId": 2975,
+    "caption": "Die Einnahme Arkonas 1168",
+    "alt": "Die Einnahme Arkonas 1168"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.poem",
+    "text": "Über den Felsen Arkonas ragt ein Adlernest\n\nWo die Wellen gegen die östlichen Türme schlagen\nSitzt ein tapferer Adler auf steinernem Thron-\nSchirmherr der slawischen Lande, freier Sohn des Himmels\n\nO slawischer Adler, schütze die Völker der Slawen\nBehüte slawische Sitten und Sprache\nBehüte uns und unser Heimatland\nWache vom Morgen an, wache den Tag hindurch\nHalte durch die Mitternacht Ausschau mit schärfstem Blick.",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die absolute Mehrheit der slawischen Heiligtümer im Gebiet der heutigen Slowakei stand unter freiem Himmel, wie uns auch das Heiligtum von "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "Most pri Bratislave"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bestätigt, das an anderer Stelle beschrieben ist. Echte heidnische Tempel der Slawen in jener Form, wie wir sie aus der späteren christlichen Zeit kennen – also überdachte Gebäude –, entstanden nur im elbslawischen und im ostseeslawischen Raum. Hier finden wir heidnische Tempel noch im 12. Jahrhundert, während im Gebiet der heutigen Slowakei das Heidentum bereits im Laufe des 9. Jahrhunderts vom neuen Glauben an den einzigen Gott abgelöst wurde, vor allem was die größeren Machtzentren betrifft. Die deutschen Bewohner des Ostsee- und des Elberaums nahmen im Laufe des 10. bis 12. Jahrhunderts den Kampf gegen das Heidentum zum Vorwand für ihre Kriegsziele und haben uns in diesem Zusammenhang zahlreiche Beschreibungen der heidnischen Götter und Heiligtümer der dortigen Slawen hinterlassen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Wo an den östlichen Meeren die Felsen Arkonas tönen\n\nUnd über dem steilen Kliff der Adler herrscht\nWo im tiefen Tal eine Siedlung ruht\nDie der blaue Wasserspiegel widerspiegelt\n\nJenes wunderschöne Land ist mein Rügen\nDie allerliebste Heimat",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "RETHRA",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Erwähnung überliefert Thietmar, und zwar über Riedegost, das Zentrum des Stammes der Redarier. Das hölzerne Heiligtum stand hier inmitten eines Haines auf Tierhörnern im Fundament, die offenbar eine apotropäische Funktion erfüllten – eine ähnliche Praxis wurde archäologisch zum Beispiel in den Fundamenten der Befestigung in Danzig festgestellt, wo Auerochsenhörner gefunden wurden. Die Außenwände des Heiligtums schmückten zahlreiche geschnitzte Bilder von Göttern und Göttinnen, im Inneren des Tempels standen Standbilder, die mit den Namen der Götter bezeichnet waren, an ihrer Spitze die Hauptgottheit Svarožič, daneben Banner und Kriegszeichen. Nach Thietmar von Merseburg, der im Jahr 1018 starb und über diesen Gott die ältesten und zugleich sehr glaubwürdigen Nachrichten überlieferte, hieß er ursprünglich Svarožič. Svarožič, der Sohn des Gottes Svarog, Gott der Sonne und des Feuers, wurde im 11. und 12. Jahrhundert auch in Russland verehrt. Im 11. Jahrhundert verschwindet der Name Svarožič aus den Quellen über die Elbslawen, und derselbe Gott wird nach dem ursprünglichen Namen des Heiligtums Radegast oder Radigast genannt. Thietmar beschreibt das Heiligtum und die Riten sehr ausführlich. Im Land der Redarier soll eine feste Burg dreieckiger Gestalt mit drei Toren gestanden haben, Riedegost genannt, umgeben von einem heiligen Wald, in dem niemals Bäume geschlagen wurden. Zwei Tore dieser Burg waren für alle zugänglich, das dritte, kleinste, auf der Ostseite führte auf einen Pfad zum See. In der Burg befand sich nur ein Heiligtum, meisterhaft aus Holz errichtet, das, wie schon gesagt, auf einem Fundament aus Hörnern wilder Tiere ruhte. Von außen war es mit Bildern wunderschön geschnitzter Götter und Göttinnen geschmückt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Viele nehmen an, dass Rethra die Fischerinsel im Tollensesee war",
+    "alt": "Viele nehmen an, dass Rethra die Fischerinsel im Tollensesee war",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Inneren des Heiligtums standen Standbilder der Götter in Helmen und Panzern, und jeder Gott hatte unten seinen Namen eingeritzt. Der Erste unter ihnen war Svarožič (Zuarasici), von allen Heiden besonders verehrt. Dort befanden sich auch Fahnen, die einzig in Kriegszeiten herausgetragen wurden. All dies bewachten die Priester, die allein das Recht hatten zu sitzen, wenn den Göttern geopfert wurde oder wenn man sie zu versöhnen suchte; die übrigen Anwesenden standen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Siehst du das Land, wo die Möwe fliegt\nÜber dem Strand im Sonnenbad?\nWo in der Felsenschlucht ein kühner Adler thront.\nIn die Ferne blickt er, schützt sein Reich\nBedeckt von Schwärmen von Seevögeln\nIn Hunderten von Buchten ist ihre Stimme zu hören",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Immer wieder und wieder...",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein späterer Zeuge vom Ende des 11. Jahrhunderts – Adam von Bremen – kannte dieses Heiligtum unter dem Namen Rethra, während er den Gott, dessen goldenes Standbild auf einem purpurnen Lager geruht haben soll, Redigast nennt. Der Tempel, vier Tagesreisen von Hamburg entfernt, stand an einem von einem tiefen See umgebenen Ort; über ihn führte eine hölzerne Brücke, auf der jene gingen, die opfern oder Weissagungen des dortigen Orakels erbitten wollten. Die Weissagungen erfolgten mit Hilfe eines heiligen Pferdes, das in bestimmter Weise über Lanzen schritt. Im Jahr 1068 erbeutete dieses Pferd, offenbar in einer Schlacht, zu der man es mitführte, Bischof Burchard von Halberstadt. Rethra selbst ging jedoch offenbar später unter, Ende des 11. oder im 12. Jahrhundert. \n \n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der bekannte Götze von der Fischerinsel",
+    "alt": "Der bekannte Götze von der Fischerinsel",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe C. Schuchhardt versuchte im Jahr 1922, Rethra auf dem Burgwall Feldberg am Ufer des gleichnamigen Sees zu lokalisieren. Neuere Untersuchungen von J. Herrmann aus dem Jahr 1967 bestätigten diese Annahme jedoch nicht; der Burgwall Feldberg hatte zwar ein Heiligtum, doch von anderem Typ, und stammt überdies aus viel älterer Zeit, aus dem 7.–8. Jahrhundert, sodass er mit dem historischen Rethra nicht identisch sein kann. Das dortige Heiligtum bestand aus einem einfachen rechteckigen Bau mit der Andeutung eines Eingangsraumes und war vom Burgwall durch einen symbolischen Graben getrennt. Sein Vorhandensein auf einem so altertümlichen Burgwall deutet darauf hin, dass solche Heiligtümer in diesem Raum sehr früh entstanden. Zu der Zeit, als Thietmar seine Chronik schrieb, mussten die Elbslawen bereits eine größere Anzahl von Tempeln besitzen, denn nach seinem Zeugnis hatte jedes Land sein Heiligtum, auch wenn nicht jedes ein Tempelbau im eigentlichen Sinne des Wortes sein musste. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "ARKONA"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Arkona, Rethra und andere heidnische Heiligtümer der Westslawen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Platz Svarožičs – Radegasts nahm Svantovit ein, der Gott der Ranen aus dem Heiligtum in Arkona auf der Insel Rügen. Über wohl keinen slawischen Gott wurden so viele wissenschaftliche und halbwissenschaftliche Artikel und Studien geschrieben wie über ihn. Manche Forscher erwogen, dass es eigentlich kein heidnischer Gott war, sondern eine heidnische Vergöttlichung des heiligen Vitus, wozu die Verwandtschaft des Namens und auch einige Angaben der Chronisten verleiteten. Doch aus welcher Grundlage auch immer Svantovits Name entstanden ist, sicher ist, dass er im 12. Jahrhundert mit dem christlichen Heiligen überhaupt nichts zu tun hatte und dass er ein vollblütiger heidnischer Gott mit allen Vorzügen, Machtansprüchen und Attributen war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Aus den Tiefen des Meeres, vom tiefsten Grund\nKlingen ewige Glocken gedämpft\nSie läuten, um Kunde von der zauberhaften urzeitlichen Stadt zu verkünden.\nIn den Armen der Flut versunken\nBlieben die Ruinen fest stehen.\nSie hinterlassen goldene Blitze\nDie auf der Oberfläche des Meeres funkeln.",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svantovit rückte im 12. Jahrhundert vor allem dank der Handels-, Wirtschafts- und Militärerfolge Rügens und der Ranen an die vorderste Stelle unter den ostseeslawischen und elbslawischen Göttern, und auch deshalb, weil die übrigen heidnischen Götter allmählich abfielen. Gaben brachten ihm nicht nur Heiden, sondern auch christliche Herrscher, wenn sie mit den Ranen gut auskommen wollten. Die an Svantovit und seine Priester abgeführten Abgaben waren regelmäßig und wurden von Einheimischen wie von Fremden entrichtet. Ihm gehörte auch ein Drittel der feindlichen Bewaffnung und der in den Kriegen erbeuteten Beute. Svantovit hatte nicht nur einen Priester, sondern auch eine eigene Gefolgschaft aus 300 Reitern zu Pferd. Diese Krieger lieferten dem Priester für den Gott alle Beute und auch die Gewinne aus Raubzügen und Kriegen ab. Svantovits Besitz war in einer Truhe unter Riegeln verborgen und umfasste Geld, Schmuck, kostbare Stoffe und andere Gegenstände, z. B. einen kostbaren Becher vom dänischen König. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf einen Teil des Burgwalls Arkona. Wie zu sehen ist, stürzte der größere Teil zusammen mit dem Kliff ins Meer",
+    "alt": "Blick auf einen Teil des Burgwalls Arkona. Wie zu sehen ist, stürzte der größere Teil zusammen mit dem Kliff ins Meer",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svantovits Tempel stand nicht an einem abgelegenen Ort, sondern auf einer Ebene inmitten der Stadt, war jedoch von einer hölzernen Palisade umschlossen und hatte nur einen Eingang. Schon die Umschließung selbst war mit Schnitzwerk und Malereien geschmückt, die durchweg grob gewesen sein sollen. Innerhalb der Umschließung befand sich das äußere Tempelgebäude mit rotem Dach. Den inneren Tempelbau bildeten nur Säulen, zwischen denen Stoffbehänge hingen. In ihm stand ein gewaltiges, überlebensgroßes Standbild mit vier Hälsen und vier Köpfen, von denen zwei nach vorn und zwei nach hinten blickten. Das Haar war in die übliche Haartracht der Bewohner Rügens geschnitten, der Bart ebenso geschoren. In der rechten Hand hielt es ein metallenes Horn, das mit Wein gefüllt war. Nach dem Zustand des Weines, mit dem der Priester das Horn jedes Jahr füllte, weissagte man die Ernte des folgenden Jahres. Das Gewand des Standbildes reichte bis zu den Schienbeinen, und die Beine waren samt den Gelenken so meisterhaft geschnitten, dass die Fuge nur bei sorgfältiger Betrachtung zu erkennen war. Unweit des Standbildes lagen eine Trense, ein Sattel und zahlreiche göttliche Zeichen, unter denen vor allem ein Schwert mit prächtig getriebener Scheide, prächtigem Griff und silbernem Äußeren hervorstach. Das Heiligtum, dessen Schätze die erwähnte Gefolgschaft von 300 Reitern bewachte, durfte nur der Priester betreten, und zwar mit angehaltenem Atem – für jeden Atemzug musste er zum Eingang zurückkehren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kap Arkona heute",
+    "alt": "Kap Arkona heute",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei Svantovit wurde ebenfalls geweissagt und es wurden heilige Riten abgehalten. War die Weissagung ungünstig, verschob man den Kriegszug oder die Handelsverhandlungen auf eine günstigere Zeit. Große Bedeutung hatte der landwirtschaftliche Kult. Jedes Jahr füllte der Priester Svantovits Horn mit frischem Wein und untersuchte nach einem Jahr, wie viel davon geschwunden war. War genug Wein vorhanden, sollte die Ernte gut sein, war wenig da, eine Missernte. Danach richteten sie dann die Anlage der Vorräte und den Verbrauch der Nahrungsmittel im betreffenden Jahr, damit sie auch in Missjahren ausreichten. Zu Ehren Svantovits und zum Zweck der Weissagung backten sie einen runden Kuchen mit Honig, der fast so groß war wie ein Mensch. Nach dem Ritus folgte ein großes Fest und Gelage, bei dem auch die dem Gott vorgelegten Opfer verzehrt wurden. Svantovit hatte ein eigenes weißes Pferd, auf dem nur der Priester reiten durfte; nachts soll der Gott selbst darauf geritten sein – dann war das Pferd verschwitzt und schmutzig. Nach dem Chronisten Helmold soll Svantovit jedes Jahr ein Mensch geopfert worden sein, ein durch das Los bestimmter Christ. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Standbild Svantovits heute",
+    "alt": "Das Standbild Svantovits heute",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "vimeo",
+    "embedId": "35500856",
+    "url": "https://player.vimeo.com/video/35500856",
+    "caption": null
+   },
+   {
+    "__component": "content.poem",
+    "text": "Und der Seemann,\n\nDer das magische Flackern wenigstens einmal erblickt\nIm blendenden Abendrot\nAn jenen Ort kehrt er immer zurück\nAuch wenn ihm ringsum die Klippen drohen.\nAn jenen Ort kehrt er immer zurück\nImmer wieder und wieder...",
+    "title": null,
+    "author": "Ancestral Volkhves",
+    "source": "A Ruiny Prehovoria, Keď Stíchne Čas"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1168 wurde Arkona von den militärischen und handelspolitischen Rivalen der Ranen – den Dänen – zerstört. Der dänische König Waldemar ließ das Standbild Svantovits vor den Augen der entsetzten und gedemütigten Ranen schänden, zerhauen und verbrennen. Die Slawen zwang er danach, sich taufen zu lassen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1921 versuchte der deutsche Archäologe C. Schuchhardt, Svantovits Tempel zu finden. Er entdeckte Reste eines quadratischen Baus, in denen er das gesuchte Heiligtum sah, dessen zeichnerische Rekonstruktion dann eine Reihe von Publikationen übernahm. Aus der Sicht heutiger Forschungsmethoden können die Ergebnisse von Schuchhardts Ausgrabung jedoch nicht als zuverlässig gelten, und die Revisionsgrabung von H. Berlekamp aus den Jahren 1969–1970 zeigte tatsächlich ebenfalls, dass das, was Schuchhardt für Tempelreste hielt, eher Spuren der inneren Befestigung des Burgwalls waren, während das eigentliche Heiligtum offenbar an einer Stelle stand, die das Meer schon längst verschlungen hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem von Sumpf umgebenen rügenschen Burgwall, der nur in Zeiten der Kriegsgefahr aufgesucht wurde, standen drei weitere mächtige Heiligtümer, prächtig geschmückt, überdacht, mit purpurnen Behängen anstelle von Wänden; das größte von ihnen war von einem Hof umgeben. In ihnen verehrte man Rugievit, Porevit und Porenut. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Zerstörung Arkonas",
+    "alt": "Die Zerstörung Arkonas",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Menge Fotografien und einen kurzen Text von unserer Expedition nach Arkona finden Sie in "
+       },
+       {
+        "type": "link",
+        "url": "http://www.hradiska.sk/search/label/V%C3%BDprava%20Arkona%202012%20-%20De%C5%88%20druh%C3%BD%20-%20Mys%20Arkona",
+        "children": [
+         {
+          "type": "text",
+          "text": "diesem Artikel"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "WEITERE HEILIGTÜMER",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bewundernswert geschmückte Heiligtümer errichteten sich nach Ebbo im Wert von 300 Talenten die Bewohner von "
+       },
+       {
+        "type": "text",
+        "text": "Gochow",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (Chozegowa, dem heutigen Gutzkow); Herbord spricht nur von einem Tempel. Sie bewahrten Idole von ungewöhnlicher Größe und „unglaublicher Schönheit“, die schwer zu bewegen waren, sodass man sie während Ottos Missionstätigkeit erst behauen und dann zum Verbrennen wegschleppen musste. Der unsichtbare Dämon, der hier wohnte, entfloh beim Gesang der Gläubigen, die ein Kreuz trugen, in Gestalt eines Fliegenschwarms.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den weiteren elbslawischen und pommerschen Göttern ist z. B. Rugievit in der Stadt "
+       },
+       {
+        "type": "text",
+        "text": "Korenica",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu nennen, der ein Idol aus Eichenholz mit sieben Gesichtern hatte. In Stettin verehrte man Triglav, der ebenfalls einen mit Schnitzwerk und Malereien geschmückten Tempel sowie weitere kleinere Heiligtümer hatte. Er war ein mächtiger Gott, „summus deus“, der ähnlich wie Svantovit und Radegast ein heiliges Pferd besaß, mit dessen Hilfe geweissagt wurde. Bischof Otto ließ sein Standbild nach dem Jahr 1128 zerhauen und die drei silbernen Köpfe nach Rom senden. Bei der Zerstörung der Heiligtümer Triglavs in Stettin half das Volk, das den Gott nicht mehr geachtet haben soll, als es sah, dass er sich selbst nicht zu verteidigen vermochte. Die Hilfe des Volkes entsprang jedoch eher einer anderen Grundlage, der Bedrückung durch die Priester, die reichen Kaufleute und den Adel, die ihre Macht gerade im Namen Triglavs verteidigten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall Arkona – künstlerische Vorstellung (Temnozor)",
+    "alt": "Der Burgwall Arkona – künstlerische Vorstellung (Temnozor)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer der bemerkenswertesten slawischen Tempelbauten wurde im Burgwall "
+       },
+       {
+        "type": "text",
+        "text": "Groß Raden",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " am Ufer des Sternberger Sees entdeckt. Auf der freien Fläche im südöstlichen Teil der Halbinsel stand eine einräumige Halle (7 × 11 m), die durch einen schmalen, von Stelen gesäumten Weg mit der hölzernen Straße verbunden war, die den Burgwall durchquerte. Ihr rechteckiger Grundriss war an den Schmalseiten leicht ausgebuchtet und mit Eingängen versehen. Die Wände bildete eine doppelte Reihe zugespitzter, in den Boden eingelassener Bohlen, von denen die innere Reihe eine tragende und die äußere eine schmückende Funktion hatte. In den runden oder eher rautenförmig zugespitzten, geschnitzten Köpfen am oberen Ende zeichnen sich für uns Andeutungen männlicher und weiblicher Figuren ab. Die Innenfläche des Tempels beschädigte ein späterer Graben, sodass keine Spuren der Aufstellung eines etwaigen Idols erhalten blieben. Zum Inventar gehörten jedoch 6 Pferdeschädel, 2 eiserne Lanzen, ein hölzerner Schild und Schalen auf Füßchen. Über der Tür des Tempels war ein Rinderschädel aufgehängt. Der Burgwall Groß Raden ist eine originelle einheimische Architektur, die eine alte Tradition slawischer Bauten bezeugt und jegliche anderen Einflüsse (ob keltische oder skandinavische) widerlegt.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Arkona – einer der Versuche einer „Rekonstruktion“",
+    "alt": "Arkona – einer der Versuche einer „Rekonstruktion“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Tempel in "
+       },
+       {
+        "type": "text",
+        "text": "Wolgast",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", der Gerovit-Jarovit geweiht war, wurde nicht näher beschrieben. Wir wissen nur, dass es während Ottos Predigt zur Erzürnung der Menge kam, vor deren Wut sich einer der Kleriker durch Flucht in den Tempel rettete, wo er sich des heiligen Schildes bemächtigte und unter dessen Schutz dann unbeschadet durch die überraschte Menge hindurchging.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fiktive Gestalt des Heiligtums in Arkona",
+    "alt": "Fiktive Gestalt des Heiligtums in Arkona",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die berühmte Hafenstadt "
+       },
+       {
+        "type": "text",
+        "text": "Wolin",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " besaß einen Tempel namens „continu“, von Sumpf umgeben, der eine heilige Lanze bewahrte, die in eine große Säule eingelassen war. Seine lateinische Bezeichnung ist wohl vom altslawischen ka.t abgeleitet, dem das tschechische kút, das russische kušča, das serbische Kuča und das bulgarische kasta (= Wohnstätte) entsprechen. Die Mönche, die Otto begleiteten, hielten sie, offenbar infolge eines Missverständnisses, für Lanzen des Julius Caesar – der Prüfeninger Mönch führt nämlich als Variante auch den Stadtnamen Julin an. Es ist nicht ausgeschlossen, dass hier zwei Tempel standen, wie die zwei Kirchen andeuten, die nach der Annahme des Christentums an derselben Stelle errichtet und dem hl. Wenzel und dem hl. Adalbert geweiht wurden. Triglav wurde ebenfalls in Wolin verehrt. Hier gelang es Bischof Otto von Bamberg nur, das Heiligtum zu zerstören; den goldenen Gott verbarg der Priester auf dem Land in einem hohlen Baum, und die Heiden brachten ihm weiterhin Opfer dar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
