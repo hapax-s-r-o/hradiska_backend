@@ -689,10 +689,35 @@ v básni je v poriadku, hoci web inak vyká.
 | klieštiny | die Zangenhölzer | |
 | lán | die **Hufe** | |
 
+| Mojmírovci | die **Mojmiriden** | |
+| údelné knieža / kniežatstvo | der **Teilfürst** / das Teilfürstentum | |
+| komorový val | der **Kastenwall** | |
+| škrupinová konštrukcia | die Schalenkonstruktion | |
+| lúčovitá spona | die Bügelfibel mit Strahlenkopf | |
+| bubienková náušnica | der Ohrring mit Trommelanhänger | |
+| hrozienková náušnica | der traubenförmige Ohrring | |
+| maďarovská kultúra | die **Maďarovce-Kultur** | |
+| Litavské vrchy | das **Leithagebirge** | |
+| Vinidi (Fredegar) | die **Wenden** | marka Vinidov: *die Mark der Winden* |
+| Austrázijci | die **Austrasier** | |
+| Xantenské letopisy | die **Xantener Annalen** | |
+| Bertiniánske anály | die Bertinianischen Annalen | |
+| vruborez | der **Kerbschnitt** | |
+| otka / čerieslo / krájadlo | die Pflugreute / das Sech / das Schneidmesser | |
+| kovotepec | der Treibarbeiter | podložka: *Model zum Treiben* |
+| Anti (kmeň) | die **Anten** | |
+| Staromoravské kniežatstvo | das altmährische Fürstentum | |
+| Devínska brána | die **Devíner Pforte** | |
+| Moravské pole | das **Marchfeld** | |
+| trikonchálny | triconchal | |
+| Zadunajsko | **Transdanubien** | |
+
 **Preverená výnimka z §11.9.** V článku o Blatnohrade stojí nápis z pamätnej
 tabule z roku 1990: *„Dem slowakischen Fürsten Pribina"*. Je to citát novodobej
-tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási; je to
-jediný preverený výskyt a nie je to chyba.
+tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási. Rovnako
+v článku o Nitre citát piesne z roku 1883 („ty slovenská mati" → *du
+slowakische Mutter*). Oba sú preverené a nie sú to chyby: novodobý citát sa
+nepredpisuje podľa §11.9, ten platí pre autorský text o 9. storočí.
 
 **Názvy kníh a časopisov združenia** sa NEPREKLADAJÚ — *Veľkomoravské
 hradiská*, *Digitálne hradiská*, *Oživená archeológia*. Pri prvom výskyte sa
