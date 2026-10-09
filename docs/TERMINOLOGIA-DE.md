@@ -674,6 +674,21 @@ v básni je v poriadku, hoci web inak vyká.
 | marikovská dolina | das Tal von Mariková | |
 | živá história (podujatie) | **Living History** | ustálené aj v nemčine |
 
+| rieka Dyje | die **Thaya** | |
+| Břeclav | **Lundenburg** | exonym pri prvom výskyte |
+| Pezinok | **Bösing** | |
+| Bratislavská brána (geomorf.) | die **Pressburger Pforte** | |
+| Malokarpatské múzeum | das Kleinkarpatische Museum | |
+| starohradištný | **altburgwallzeitlich** | česko-nemecká periodizácia |
+| šijový val | der **Abschnittswall** | priečny val cez ostroh |
+| náznaková rekonštrukcia | die andeutende Rekonstruktion | |
+| lunica | die **Lunula** | |
+| Kotíni | die **Kotiner** | |
+| Jazygovia | die **Jazygen** | |
+| nabíjanica | gestampfte Wand | slovenský tvar sa smie ponechať v úvodzovkách |
+| klieštiny | die Zangenhölzer | |
+| lán | die **Hufe** | |
+
 **Preverená výnimka z §11.9.** V článku o Blatnohrade stojí nápis z pamätnej
 tabule z roku 1990: *„Dem slowakischen Fürsten Pribina"*. Je to citát novodobej
 tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási; je to

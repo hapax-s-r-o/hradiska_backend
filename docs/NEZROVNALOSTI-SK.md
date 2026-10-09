@@ -643,3 +643,6 @@ preložený, rovnako ako anglická.
 
 **informacna-tabula-hradisko-maly-manin**
 : timeline má year „—"; článok hovorí len „tento víkend", bez roku
+
+**gars-thunau-velkomoravske-hradisko-v-rakusku**
+: keyFact „výška základne cca 7 m" — telo uvádza 7 m ako ŠÍRKU a pri mladšej komorovej fáze; blok 11 hovorí o „staršej dobe bronzovej", inde všade „neskorej"; preklepy „skupinová technika" a „guľové jamky"; fotka id 494 má popis z iného článku (Veľký vrch)
