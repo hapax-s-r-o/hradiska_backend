@@ -646,3 +646,6 @@ preložený, rovnako ako anglická.
 
 **gars-thunau-velkomoravske-hradisko-v-rakusku**
 : keyFact „výška základne cca 7 m" — telo uvádza 7 m ako ŠÍRKU a pri mladšej komorovej fáze; blok 11 hovorí o „staršej dobe bronzovej", inde všade „neskorej"; preklepy „skupinová technika" a „guľové jamky"; fotka id 494 má popis z iného článku (Veľký vrch)
+
+**kamenec-pod-vtacnikom-bystricany**
+: „kóta 880, resp. 661" — dve nezlučiteľné kóty tej istej skaly

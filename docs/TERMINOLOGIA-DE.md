@@ -712,6 +712,17 @@ v básni je v poriadku, hoci web inak vyká.
 | trikonchálny | triconchal | |
 | Zadunajsko | **Transdanubien** | |
 
+| stredná doba hradištná | die **Mittelburgwallzeit** | |
+| Záhorie | das Záhorie | nemecký exonym nemá |
+| Brezovský priesmyk | der Brezová-Pass | |
+| rieka Nitrica | die Nitrica | |
+| Pohronie | das **Grantal** | rieka je *die Gran* |
+| Slovenská brána | die Slowakische Pforte | |
+| rotor žarnova | der Läuferstein einer Drehmühle | |
+| špeciálka (mapa) | die Spezialkarte | |
+| donjon | der Donjon | |
+| Moravské kniežatstvo | das Mährische Fürstentum | |
+
 **Preverená výnimka z §11.9.** V článku o Blatnohrade stojí nápis z pamätnej
 tabule z roku 1990: *„Dem slowakischen Fürsten Pribina"*. Je to citát novodobej
 tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási. Rovnako
