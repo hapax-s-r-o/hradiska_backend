@@ -730,6 +730,11 @@ v článku o Nitre citát piesne z roku 1883 („ty slovenská mati" → *du
 slowakische Mutter*). Oba sú preverené a nie sú to chyby: novodobý citát sa
 nepredpisuje podľa §11.9, ten platí pre autorský text o 9. storočí.
 
+Tretia preverená výnimka je v článku o Hradišti pri Partizánskom: Janšákov
+citát hovorí o „akropole" a v nemčine ostáva *eine Art Akropolis*. Platí tu
+pravidlo o dobových citátoch — autorský text aj popisy fotiek v tom istom
+článku majú správne *Hauptburg* (§11.3).
+
 **Názvy kníh a časopisov združenia** sa NEPREKLADAJÚ — *Veľkomoravské
 hradiská*, *Digitálne hradiská*, *Oživená archeológia*. Pri prvom výskyte sa
 smie pridať glosa v zátvorke, ale názov ostáva slovenský; je to meno diela,
