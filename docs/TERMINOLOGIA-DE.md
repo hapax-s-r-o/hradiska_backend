@@ -723,6 +723,16 @@ v básni je v poriadku, hoci web inak vyká.
 | donjon | der Donjon | |
 | Moravské kniežatstvo | das Mährische Fürstentum | |
 
+| hradištný (všeobecne) | **burgwallzeitlich** | starohradištný: *altburgwallzeitlich* |
+| mladohradištný | **jungburgwallzeitlich** | |
+| hradný kopec | der Burgberg | |
+| hrebeňovanie (výzdoba) | der **Kammstrich** | |
+| botka (kopije) | der Speerschuh | |
+| trojboká strelka | die dreikantige Pfeilspitze | |
+| hrebeňová antiklinála | die Kammantiklinale | |
+| salaš | die Sennhütte (salaš) | glosa pri prvom výskyte |
+| žinčica | Žinčica (Schafsmolke) | glosa pri prvom výskyte |
+
 **Preverená výnimka z §11.9.** V článku o Blatnohrade stojí nápis z pamätnej
 tabule z roku 1990: *„Dem slowakischen Fürsten Pribina"*. Je to citát novodobej
 tabule, nie tvrdenie článku — prekladá sa verne a kontrola ho hlási. Rovnako

@@ -649,3 +649,6 @@ preložený, rovnako ako anglická.
 
 **kamenec-pod-vtacnikom-bystricany**
 : „kóta 880, resp. 661" — dve nezlučiteľné kóty tej istej skaly
+
+**selce-hradok**
+: keyFact aj timeline hovoria „v 30. rokoch" bez storočia; článok si to sám značí ako neisté
