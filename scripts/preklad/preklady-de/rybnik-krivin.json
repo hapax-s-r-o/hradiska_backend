@@ -1,0 +1,520 @@
+{
+ "slug": "rybnik-krivin",
+ "data": {
+  "title": "Krivín bei Rybník – eine Höhensiedlung über der Slowakischen Pforte",
+  "slug": "rybnik-krivin-hoehensiedlung-gran",
+  "excerpt": "Das Tal der Gran verengt sich bei Rybník zu einem leicht beherrschbaren Pass am südöstlichen Rand der Slowakischen Pforte – und genau darüber liegt Krivín. Eine fast senkrechte Felswand von annähernd 150 m fällt zum Fluss ab, dahinter staffeln sich sechs durch Wälle getrennte Höfe auf 9,7 ha. Štefan Janšák, der die Anlage in den 1920er Jahren untersuchte, zählte sie zu den vollkommensten; die Sondagegrabung von 2002 wies hier neben Lausitzer Keramik auch großmährische Scherben nach.",
+  "metaTitle": "Krivín bei Rybník – Höhensiedlung über der Slowakischen Pforte",
+  "metaDescription": "Die Anlage Krivín bewacht den Pass am Rand der Slowakischen Pforte: Felswand von fast 150 m über der Gran, sechs Höfe, 9,7 ha, Funde bis zu den Slawen.",
+  "keyFacts": [
+   {
+    "label": "Gesamtfläche der Anlage",
+    "value": "etwa 9,7 Hektar",
+    "icon": "map"
+   },
+   {
+    "label": "Höhe der Felswand über der Gran",
+    "value": "fast 150 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Anzahl der Höfe",
+    "value": "sechs (I bis VI)",
+    "icon": "building"
+   },
+   {
+    "label": "Länge und Höhe des Hauptwehrwalles",
+    "value": "520 m, auf der Ostseite bis zu 8 m hoch",
+    "icon": "shield"
+   },
+   {
+    "label": "Erste Untersuchung",
+    "value": "1920er Jahre, Štefan Janšák",
+    "icon": "book"
+   },
+   {
+    "label": "Sondagegrabung",
+    "value": "Jahr 2002 (L. Veliačik, F. Srnka, J. Valo)",
+    "icon": "book"
+   },
+   {
+    "label": "Besiedlung",
+    "value": "von der Spätbronze-/Hallstattzeit über die großmährische Zeit bis zur slawischen Besiedlung im 9.–10. Jahrhundert",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätbronzezeit – 1. Stufe der Hallstattzeit",
+    "title": "Errichtung der Höhensiedlung",
+    "description": "Die Höfe IV bis VI wurden zur Errichtung einer Höhensiedlung mit einem mächtigen und allmählich vervollkommneten Befestigungssystem genutzt; die Wälle hatten eine Kastenkonstruktion und stellenweise eine Verstärkung durch eine Mauer aus trocken gelegten Steinen.",
+    "type": "construction"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawische Besiedlung",
+    "description": "Die Anlage bewohnten auch unsere Vorfahren, die Slawen, was die mit Wellenband verzierte Keramik sowie die in den Arealen der Höfe V und VI gefundenen Keramikfragmente aus großmährischer Zeit belegen.",
+    "type": "era"
+   },
+   {
+    "year": "1920er Jahre",
+    "title": "Untersuchung durch Štefan Janšák",
+    "description": "Die Anlage untersuchte Štefan Janšák, der sie im Hinblick auf Sicherheit, Wohnkomfort und die Nähe fruchtbarer Ebenen zu den vollkommensten Höhensiedlungen zählte.",
+    "type": "discovery"
+   },
+   {
+    "year": "2002",
+    "title": "Sondagegrabung",
+    "description": "Die durchgeführte Sondagegrabung mit dem Ziel einer genaueren Datierung brachte eine Menge von Keramikfunden und korrigierte den Verlauf und den Zustand der Befestigung einiger Teile der Anlage leicht.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6411,
+    "alt": "Blick vom Sporn der Anlage auf den Mäander des Flusses und die bewaldeten Berge"
+   },
+   {
+    "mediaId": 2239,
+    "caption": "LiDAR-Kartierung der Anlage",
+    "alt": "LiDAR-Kartierung der Anlage"
+   },
+   {
+    "mediaId": 2240,
+    "caption": "Die Anlage auf der 2. militärischen Landesaufnahme",
+    "alt": "Die Anlage auf der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 2241,
+    "caption": "Slawische Scherben (Janšák)",
+    "alt": "Slawische Scherben (Janšák)"
+   },
+   {
+    "mediaId": 2242,
+    "caption": "Fibeln der Spätlatènezeit, die auf der Anlage gefunden wurden (Karol Pieta)",
+    "alt": "Fibeln der Spätlatènezeit, die auf der Anlage gefunden wurden (Karol Pieta)"
+   },
+   {
+    "mediaId": 2243,
+    "alt": "Historischer Plan der Anlage Krivín bei Hronský Beňadik mit Maßstab"
+   },
+   {
+    "mediaId": 2244,
+    "alt": "Zeichnungstafel von Keramikfragmenten aus der Siedlung mit Maßstab"
+   },
+   {
+    "mediaId": 2245,
+    "alt": "Wasserspiegel am Fuß der Anlage mit grasbewachsenem Ufer"
+   },
+   {
+    "mediaId": 2246,
+    "alt": "Blick vom Sporn der Anlage auf den Fluss im Gegenlicht"
+   },
+   {
+    "mediaId": 2247,
+    "alt": "Felsiger Rand der Anlage über dem Wasserspiegel des Flusses"
+   },
+   {
+    "mediaId": 2248,
+    "alt": "Mäander des Flusses unter dem bewaldeten Sporn der Anlage"
+   },
+   {
+    "mediaId": 2249,
+    "alt": "Lichter Wald auf dem Plateau der Anlage"
+   },
+   {
+    "mediaId": 2250,
+    "alt": "Grasbewachsenes Plateau der Anlage zwischen Bäumen"
+   },
+   {
+    "mediaId": 2251,
+    "alt": "Keramikfragment mit Ritzverzierung auf weißem Untergrund"
+   },
+   {
+    "mediaId": 2252,
+    "alt": "Fragment eines dickwandigen Gefäßes mit Grübchenverzierung"
+   },
+   {
+    "mediaId": 2253,
+    "alt": "Wiese unter dem felsigen Hang der Anlage"
+   },
+   {
+    "mediaId": 2254,
+    "alt": "Steine im Gelände der Anlage zwischen Bäumen"
+   },
+   {
+    "mediaId": 2255,
+    "alt": "Hang der Anlage mit herabgefallenen Ästen im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2256,
+    "alt": "Wall der Anlage im dichten sommerlichen Bewuchs"
+   },
+   {
+    "mediaId": 2257,
+    "alt": "Steiler Hang der Anlage mit grünem Unterwuchs"
+   },
+   {
+    "mediaId": 2258,
+    "alt": "Wallkörper im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2259,
+    "alt": "Plateau der Anlage mit lichtdurchflutetem Bewuchs"
+   },
+   {
+    "mediaId": 2260,
+    "alt": "Graben der Anlage im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2261,
+    "alt": "Lichter Wald auf dem Wall der Anlage in der Sommersonne"
+   },
+   {
+    "mediaId": 2262,
+    "alt": "Wall der Anlage im sommerlichen Wald mit lichtdurchflutetem Bewuchs"
+   },
+   {
+    "mediaId": 2263,
+    "alt": "Krone des Walles zwischen Bäumen im Sommer"
+   },
+   {
+    "mediaId": 2264,
+    "alt": "Wallkörper mit hochgewachsenen Eichen"
+   },
+   {
+    "mediaId": 2265,
+    "alt": "Lichter Wald auf dem Plateau der Anlage"
+   },
+   {
+    "mediaId": 2266,
+    "alt": "Plateau der Anlage mit Grasbewuchs zwischen Bäumen"
+   },
+   {
+    "mediaId": 2267,
+    "alt": "Hang der Anlage mit jungen Bäumen"
+   },
+   {
+    "mediaId": 2268,
+    "alt": "Steiniger Schutt des Walles im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2269,
+    "alt": "Wall der Anlage mit grünem Unterwuchs"
+   },
+   {
+    "mediaId": 2270,
+    "alt": "Hang der Anlage mit herabgefallenen Stämmen"
+   },
+   {
+    "mediaId": 2271,
+    "alt": "Blick vom Felsen über dem Fluss auf Felder und Auwald"
+   },
+   {
+    "mediaId": 2272,
+    "alt": "Felsvorsprung über dem Mäander des Flusses mit Feldern"
+   },
+   {
+    "mediaId": 2273,
+    "alt": "Luftbild des Tales mit Fluss, Dorf und Feldern"
+   },
+   {
+    "mediaId": 2274,
+    "alt": "Luftbild des bewaldeten Sporns über der Straße und den Wiesen"
+   },
+   {
+    "mediaId": 2275,
+    "alt": "Luftbild der Flussbiegung, des Dorfes und der bewaldeten Hänge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anlage „Krivín“ ist durch ihre Lage und ihre Form in mehrfacher Hinsicht sehr interessant. Das Tal der Gran verengt sich an dieser Stelle ungewöhnlich stark und bildet so einen leicht beherrschbaren Pass am südöstlichen Rand der sogenannten Slowakischen Pforte. Die Anlage wird auf einer Seite von der nach Süden fließenden Gran umspült. Die schmale Bergzunge, auf der sich die Anlage ausbreitet, ist ein westlicher Ausläufer des Berges Bukovský vrch, Kote 314 und 315 (auf der Wanderkarte 316 (?)), und sie neigt sich jäh mit einem steilen, fast senkrechten Felsen zur Gran hin. Im Osten ist die Anlage vom Hruštená-Tal (früher Zrybacká-Tal) begrenzt. Von Tlmače führt zu ihr eine blaue Wandermarkierung. Untersucht hat die Anlage in den 1920er Jahren Štefan Janšák, später fanden hier nur sporadische Untersuchungen statt, im Jahr 2002 wurde eine Sondagegrabung mit dem Ziel durchgeführt, die Datierung sowie Verlauf und Zustand der Befestigung zu präzisieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Felsen, auf dem die Anlage steht und der auch Krásna skala genannt wird, ist in senkrechter Richtung leicht spaltbar, was die Entstehung einer monumentalen Felswand ermöglichte, die – wie Janšák schreibt – durch ihre Höhe, ihr Aussehen und ihre Schönheit an die Canyons am Colorado erinnert. Fast 150 m erhebt sich die eine Wand der Anlage senkrecht über dem Wasserspiegel der Gran. Von ihr öffnet sich ein weiter Ausblick, der allein schon die günstige strategische Lage der Anlage vorbestimmte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Kartierung der Anlage",
+    "alt": "LiDAR-Kartierung der Anlage",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Slowakei gibt es nur wenige Orte, die so viel natürliche Sicherheit in Verbindung mit der unmittelbaren Nähe eines begehbaren Geländes und einer fruchtbaren Ebene bieten wie eben Krivín. Von Norden und Nordwesten schützt ihn die Gran, die den größten Teil des Jahres über schwer zu durchwaten ist. Gleich vom Wasserspiegel an erhebt sich ein senkrechter Felsen. Nordöstlich geht der steile Felsen zwar in einen Hang über, dieser ist jedoch recht steil und bedurfte keiner Befestigung, auf ihm konnte eine Palisade stehen. Auf der Westseite steigt der Rücken auf einer Länge von 110 m um 72 m an und bildet so eine fast unzugängliche Felswand. Nur der südliche Abhang des Rückens senkt sich sanfter in das Zrybacká-Tal, doch auch hier mit einer Neigung von bis zu 45°, was ein erhebliches Hindernis für den Aufstieg darstellt. Von Nordosten und Norden hängt die Anlage über einen flachen Rücken (der später im rechten Winkel nach Osten umbiegt) mit dem Bukovský vrch zusammen. Nach dem Gesagten gibt es nur einen bequemen Aufstieg in die Anlage, nämlich über den flachen Rücken von Nordosten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser natürlichen Konfiguration passt sich die Wallbefestigung sehr zweckmäßig an, und durch diese beiden Faktoren ist die ganze Anlage geschaffen, die aus sechs Höfen I bis VI besteht. Den Hof I schützt von NW ein steiler Hang, von Südosten ein künstlicher Wall von 640 m Länge und etwa 0,5 Meter Höhe. Auf der nordöstlichen Seite gibt es keine erhaltenen Wehrbauten, die diesen Hof schützen würden; nach seiner Lage und im Hinblick auf das Fehlen jeglicher Kulturreste kann man ihn nur für eine ausgedehnte Vorburg halten. Es folgt ein ganzes System bogenförmiger Wälle, die aneinander anschließen und eine vollkommene Festung bilden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Anlage auf der 2. militärischen Landesaufnahme",
+    "alt": "Die Anlage auf der 2. militärischen Landesaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wall j-k-h (siehe den Plan von Štefan Janšák) zieht sich vom Gipfel des Hanges über der Gran in einem Bogen nach NO und nach S. Er verläuft fast waagerecht, auf einer Länge von 275 m, und erreicht stellenweise höchstens 1,5 m Höhe. Vom Punkt k zweigt von ihm der Wall k-o-r-š ab. Der Wall i-j-l, 140 m lang und an der Außenseite bis zu 3 m hoch, bildet die zweite Wehrlinie gegen ein gewaltsames Eindringen über den Rücken. Der Wall e-h-l-g stellt dann die Hauptverteidigung dar. Beginnend im Punkt g, auf dem Felsen über der Gran, steigt er über den Punkt i an, bis er den Punkt h erreicht, und weiter in westlicher Richtung, von wo er wieder zum Punkt e ansteigt. In östlicher Richtung, von wo der Zugang in die Anlage am leichtesten war, erreicht dieser Wall eine Höhe von bis zu 8 m (unterhalb der Kote 320), auf der südlichen Seite, im Abschnitt e-h, ist er stellenweise kaum erkennbar. Hier war er auf dem steilen Hang zwecklos. Die Gesamtlänge beträgt 520 m. Der Wall c-d-e-f, in einem Teil etwa 1 m hoch, weiter am Hang wirkt er schon nur wie eine niedrige, flache Terrasse, hat eine Länge von 435 m. Schließlich verläuft der Wall b-d nach Süden in einem ausgespannten Bogen auf einer Länge von 405 m, von der Kote 245 (im Punkt b) bis auf das Niveau 270, wo er sich im Punkt d an den vorhergehenden Wall anschließt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Material, aus dem die Wälle errichtet sind, stammt unmittelbar von der Anlage, d. h. Lehm, gemischt mit größeren und kleineren Basaltbruchstücken. Der Hauptwehrwall enthält eine große Menge von Scherben, was darauf hindeuten würde, dass er mehrmals ausgebessert wurde, bei welcher Gelegenheit Scherben schon vorher zerbrochener Gefäße in ihn gelangten. Deutlich erkennbar sind zwei Tore m, n, die von den ursprünglichen Bewohnern der Anlage zum bequemen Zugang angelegt wurden. Es sind gewöhnliche Durchbrüche in den Wällen, ohne Sperrvorrichtung. Durch diese Tore führt auch heute der relativ bequemste Zugang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Scherben (Janšák)",
+    "alt": "Slawische Scherben (Janšák)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch die oben beschriebenen Wälle sind, wie bereits erwähnt, sechs Höfe gebildet. Hof I, mit der Funktion einer Vorburg, bleibt auf der NO-Seite offen. Alle übrigen sind vollständig geschlossen, und zwar entweder durch eine steile Felswand oder durch künstliche Schüttungen. Hof II mit einer Fläche von 75 Ar und Hof III mit einer Fläche von 25 Ar sind im Hinblick auf ihre Lage und ihre Fläche nur Wehr-Vorburgen von rein strategischer Bedeutung, im Unterschied zur Vorburg I, die sicherlich auch wirtschaftliche Bedeutung hatte. Regelrecht bewohnt waren erst die weiteren Höfe IV, V, VI. Von diesen hat namentlich Hof IV alle Voraussetzungen des nötigen Komforts und der Sicherheit. Er nimmt ein Plateau birnenförmiger Gestalt ein, dessen Hauptachse 375 m lang ist, wobei die größte Breite 150 m beträgt. Seine Oberfläche steigt nur sehr sanft in der Richtung parallel zur Gran an. Da er von NO durch die drei Vorburgen I, II, III und von SW wiederum durch die beiden fast uneinnehmbaren Höfe V, VI geschützt war, spielte der Hof IV die Rolle der Hauptburg, wovon auch die größte Zahl der Funde Zeugnis gibt. Die Oberfläche des Hofes V weist große Höhenunterschiede auf, infolgedessen ist sie für das Wohnen und den dauernden Aufenthalt ungeeignet. Seine Bedeutung kann strategisch gewesen sein. Hof VI breitet sich auf dem SW-Ausläufer der Felshalbinsel aus und nimmt ein natürliches Plateau ein, das für bequemes Wohnen und für den Aufenthalt geeignet ist. Die Gesamtfläche der Anlage beträgt etwa 9,7 Hektar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Janšák führt an, dass man Krivín im Hinblick auf die Sicherheit, den Wohnkomfort und auch im Hinblick auf die Nähe der kultivierten Ebenen, die den Urbewohnern den Lebensunterhalt boten, zu den vollkommensten Höhensiedlungen zählen kann. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Untersuchung in den 1920er Jahren wurden keine Überreste von Behausungen, Zufluchtsbauten oder Zisternen gefunden. Nur bei der Oberflächenbegehung ohne Grabung wurden große Bruchstücke eines Hammerbeils aus Quarz gefunden, ein Trachytbruchstück einer Scheibe, die entweder als Reibstein oder als Waffe diente, weiter kleinere, ganz erhaltene Kiesel von sehr regelmäßiger Form (Reibsteine). Der übliche rotbraun gebrannte Lehm mit Abdrücken von Stroh und Spelzen kommt in großer Fülle vor. Die auffälligsten Spuren der einstigen Kultur sind jedoch die große Menge von Scherben mit einer Stärke von 1–1,5 cm, an der Außenfläche der Gefäße stark graphitiert oder auch ohne Graphitierung. Auch Scherben mit Ornament fanden sich. Ein Teil der Keramik gehört in die Zeit der Hallstattkultur, und ein weiterer, mit Wellenband verzierter, bezeugt, dass die Anlage auch unsere Vorfahren, die Slawen, bewohnten, und zwar im Verlauf des 9. und 10. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fibeln der Spätlatènezeit, die auf der Anlage gefunden wurden (Karol Pieta)",
+    "alt": "Fibeln der Spätlatènezeit, die auf der Anlage gefunden wurden (Karol Pieta)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sondagegrabung, die im Jahr 2002 auf der Anlage durchgeführt wurde, brachte eine Menge weiterer, vor allem keramischer Funde und korrigierte den Verlauf der Befestigung einiger Teile der Anlage leicht. Wie die Autoren der Untersuchung anführen, sind im Scherbenmaterial alle Grundformen der Lausitzer Töpferproduktion von der "
+       },
+       {
+        "type": "text",
+        "text": "Wende der Bronzezeit zur Hallstattzeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " vertreten, namentlich Amphoren, Vasen und profilierte Tassen, es fehlen auch nicht zahlreiche Schalen mit eingezogenem und mit tordiertem Rand sowie fassförmige Töpfe. Ähnliche Funde fanden sich z. B. in Nitra (Neutra)-Šindolka, in Pobedim, von der Höhensiedlung Ostrá hora in Kvašov und aus Horné Srnie. Ein Teil der Keramik trägt Elemente der Kalenderberg-Kultur, die sich im Gebiet der heutigen Slowakei vor allem im Südwesten zeigte (z. B. die Höhensiedlung Molpír). Für die Kenntnis des wirtschaftlichen Hinterlandes der Anlage ist wichtig, dass chronologisch identische Hinterlassenschaften von der Spätbronzezeit bis zur Hallstattzeit wie auf der Anlage auch auf einer Siedlung (auf Siedlungen?) festgestellt werden konnten, die auf der gegenüberliegenden Terrasse der Gran in der Gemarkung des Ortsteils Psiare liegt. Wenn auch nicht zahlreich, sind doch im Hinblick auf die älteren Annahmen über eine slawische Besiedlung von Krivín außerordentlich wichtig die Keramikfragmente aus großmährischer Zeit. Die erwähnten Funde aus jüngeren Perioden stammen ausschließlich aus den Arealen des V. und VI. Hofes, und zeitlich korrespondieren mit ihnen auch die Funde aus der offenen Siedlung in Psiare. Krivín wurde also nachweislich "
+       },
+       {
+        "type": "text",
+        "text": "auch von unseren Vorfahren, den Slawen, als Burgwall genutzt.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Man kann ihn dabei dem System der Wachburgwälle am Eingang zur Slowakischen Pforte zuordnen. In der nahen Umgebung liegen weitere slawische Burgwälle – Tlmače-Festunok, Starý Tekov, Malé Kozmálovce oder Hronský Beňadik. Es wird angenommen, dass diese Wachburgwälle im 10. Jahrhundert die Grenzlinie des Fürstentums Neutra gebildet haben könnten, nachdem dieses in den Machtbereich der Altungarn geraten war. Das kann man als eines der Anzeichen dafür betrachten, dass die nördlich dieser Grenze lebenden Slawen noch im Verlauf des 10. Jahrhunderts ihre Selbständigkeit gegenüber dem entstehenden Königreich Ungarn behielten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der Anlage von Štefan Janšák",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Autoren der Untersuchung von 2002 führen an, dass vor allem die Höfe IV–VI am Ausgang der Spätbronzezeit und in der ersten Stufe der Hallstattzeit zur Errichtung einer Höhensiedlung mit einem mächtigen und allmählich vervollkommneten Befestigungssystem genutzt wurden. Beim Bau der Umfassungswälle kam die Kastenkonstruktion zur Anwendung, bei der Verfestigung ihrer Schüttung und in den am stärksten gefährdeten Abschnitten auch deren Verstärkung durch eine Mauer aus trocken gelegten Steinen. Bereits in dieser Zeit umgrenzte der Wall mindestens drei selbständige, aneinander anschließende Areale, die für eine dauerhafte und langfristige Besiedlung genutzt wurden. Vorläufig können wir die Besiedlung von Krivín an der Wende von der Bronze- zur Eisenzeit mit dem Ausklingen der Höhensiedlungen auf dem Sitno, auf dem Zobor bei Nitra oder auf der Ostrá hora in Horné Srnie synchronisieren. Gleichzeitig kann sie auch mit den übrigen Höhensiedlungen im Tríbeč-Gebirge sein (Žibrica, Kostoľany pod Tríbečom-Veľký Lysec, Kovarce-Veľký Tríbeč, Klátova Nová Ves-Šiance und wahrscheinlich mit den Anfängen der Besiedlung der Höhensiedlung Molpír in Smolenice)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Funde von der Anlage",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

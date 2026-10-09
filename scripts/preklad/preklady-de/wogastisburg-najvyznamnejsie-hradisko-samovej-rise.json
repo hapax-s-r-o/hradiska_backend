@@ -1,0 +1,684 @@
+{
+ "slug": "wogastisburg-najvyznamnejsie-hradisko-samovej-rise",
+ "data": {
+  "title": "Wogastisburg – die bedeutendste Burg des Reiches des Samo",
+  "slug": "wogastisburg-burg-des-reiches-des-samo",
+  "excerpt": "Nach der Chronik Fredegars besiegten die Slawen des Königs Samo bei der Burg Wogastisburg in einer dreitägigen Schlacht das fränkische Heer Dagoberts I. Wo diese Burg lag, ist bis heute unbekannt — gesucht wird sie im Maingebiet, an der Devíner Pforte, in Südmähren, im nordöstlichen Österreich und im Raum Bratislava. Der Beitrag stellt die Quellen und die wichtigsten Deutungen vor.",
+  "metaTitle": "Wogastisburg – wo Samo den König Dagobert besiegte",
+  "metaDescription": "Nach der Chronik Fredegars besiegten hier die Slawen des Königs Samo in einer dreitägigen Schlacht das fränkische Heer Dagoberts. Wo lag Wogastisburg?",
+  "keyFacts": [
+   {
+    "label": "Zeitraum",
+    "value": "Das Reich des Samo 623–658",
+    "icon": "calendar"
+   },
+   {
+    "label": "Herrscher",
+    "value": "Samo – ein Kaufmann „aus dem senonischen Gau“, der erste Herrscher der Slawen",
+    "icon": "crown"
+   },
+   {
+    "label": "Herkunft Samos",
+    "value": "Nach A. Holder keltischer Herkunft, aus dem senonischen Gau bei der Stadt Sens (heute Champagne)",
+    "icon": "star"
+   },
+   {
+    "label": "Gegner",
+    "value": "Die Awaren; später das Frankenreich (König Dagobert I.)",
+    "icon": "sword"
+   },
+   {
+    "label": "Hauptquelle",
+    "value": "Die Chronik Fredegars – die einzige glaubwürdige Quelle über Samo",
+    "icon": "scroll"
+   },
+   {
+    "label": "Lokalisierung von Wogastisburg",
+    "value": "Unbekannt und umstritten; der Kern des Reiches am wahrscheinlichsten im Raum Bratislava",
+    "icon": "map"
+   },
+   {
+    "label": "Verbündeter",
+    "value": "Dervan, der Fürst der Elb- und Lausitzsorben",
+    "icon": "flag"
+   },
+   {
+    "label": "Gegenstand",
+    "value": "Der Burgwall Wogastisburg – der von Fredegar erwähnte slawische „burgus“",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 620",
+    "title": "Heranwachsen der zweiten Generation und Vorbereitung des Aufstands",
+    "description": "In Pannonien wuchs die zweite Generation awarisch-slawischer Mischlinge heran, die einen Aufstand gegen die awarische Unterdrückung vorbereitete.",
+    "type": "era"
+   },
+   {
+    "year": "Sommer 622",
+    "title": "Ankunft des Kaufmanns Samo",
+    "description": "An der mittleren Donau erschien eine Kaufmannskarawane unter der Führung Samos „aus dem senonischen Gau“; er half den Slawen beim Aufstand, und sie wählten ihn zu ihrem Herrscher.",
+    "type": "event"
+   },
+   {
+    "year": "623",
+    "title": "Entstehung des Reiches des Samo",
+    "description": "Das erste Reich der Slawen entstand jenseits der Donau auf dem Gebiet der südwestlichen Slowakei, Südmährens, des nordöstlichen Österreichs und eines Teils Tschechiens.",
+    "type": "founding"
+   },
+   {
+    "year": "623–624",
+    "title": "Schlachten gegen die Awaren und Befreiung von deren Oberherrschaft",
+    "description": "Unter Samos Führung „pazifizierten“ die Slawen die Awaren in mehreren Schlachten und entwanden sich deren Oberherrschaft; es entstanden die ersten slawischen Fürstentümer.",
+    "type": "battle"
+   },
+   {
+    "year": "nach 630",
+    "title": "Verschlechterung der Beziehungen zum Frankenreich",
+    "description": "Nach dem Bündnis mit Fürst Dervan und den Einfällen nach Thüringen verschlechterten sich die Beziehungen zu den Franken; an Samos Hof kam der Gesandte Sycharius.",
+    "type": "event"
+   },
+   {
+    "year": "unbekannt",
+    "title": "Die berühmte Schlacht bei Wogastisburg",
+    "description": "Die zentrale Schlacht gegen die Franken, bei der sich der Kern der slawischen Kriegskräfte sammelte. Der Text nennt für sie kein konkretes Jahr; zeitlich passt sie in den Konflikt mit den Franken nach dem Jahr 630.",
+    "type": "battle"
+   },
+   {
+    "year": "nach 658",
+    "title": "Tod Samos und Zerfall des Reiches",
+    "description": "Nach dem Tod des Herrschers zerfiel das Reich; auf seinen Grundlagen baute später das großmährische Reich auf.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6354,
+    "alt": "Schlachtenbild: ein Krieger mit Axt gegen eine Reihe gerüsteter Soldaten mit Schilden vor einem Burgwall"
+   },
+   {
+    "mediaId": 3099,
+    "caption": "Die Chronik Fredegars",
+    "alt": "Die Chronik Fredegars"
+   },
+   {
+    "mediaId": 3100,
+    "caption": "Das Gebiet des Reiches des Samo mit den eingezeichneten möglichen Orten, an denen Wogastisburg gelegen haben könnte",
+    "alt": "Das Gebiet des Reiches des Samo mit den eingezeichneten möglichen Orten, an denen Wogastisburg gelegen haben könnte"
+   },
+   {
+    "mediaId": 3101,
+    "caption": "Die Schlacht bei Wogastisburg nach der Vorstellung des Malers Jozef Cesnak im Buch Slovensko v dobách stredovekých (Matúš Kučera, Mladé letá 1985)",
+    "alt": "Die Schlacht bei Wogastisburg nach der Vorstellung des Malers Jozef Cesnak im Buch Slovensko v dobách stredovekých (Matúš Kučera, Mladé letá 1985)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Als dann die Austrasier die Burg Wogastisburg umschlossen, in der sich sehr zahlreiche Abteilungen der tapferen Wenden (Slawen) verschanzt hatten, wurden hier in einem dreitägigen Kampf viele aus dem Heer Dagoberts (des fränkischen Königs) mit dem Schwert erschlagen, und die Übrigen kehrten, indem sie alle Zelte und alles Gepäck, das sie hatten, zurückließen, feige von dort in die eigenen Sitze zurück. Danach fielen die Wenden mehrmals in Thüringen und in die übrigen Gaue des Frankenreiches ein und plünderten. Auch Dervan, der Fürst aus dem Stammesverband der Sorben, die vom Stamme der Slawen abstammten und schon lange zum Frankenreich gehörten, schlossen sich mit ihnen dem Herrscher Samo an.",
+    "author": "Die Chronik Fredegars",
+    "source": "Buch IV, Kapitel 68 (7. Jahrhundert)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wogastisburg und das Reich des Samo"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Chronik Fredegars",
+    "alt": "Die Chronik Fredegars",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie die meisten Slowaken fragen, was Wogastisburg (Fredegar) war, werden Sie ähnlich wie ich unangenehm überrascht sein, wie viele von ihnen nicht einmal eine Ahnung haben werden. Ziel dieses Beitrags ist es daher, den Lesern diesen außerordentlich bedeutenden slawischen Burgwall und die berühmten Momente des ersten Reiches der Slawen — des Reiches des Samo — näherzubringen. Das Reich des Samo bestand seit dem Jahr 623 und ging offenbar nach dem Tod des Herrschers unter, das heißt nach dem Jahr 658. Samo vereinigte als erster Herrscher die Slawen so weit, dass sie sich der Macht des bis dahin herrschenden Hegemons — der Awaren — entwanden und sich auch die völlige Unabhängigkeit von dem mächtigsten Staat jener Zeit — dem Frankenreich — erkämpften. Diese berühmten Zeiten hält eine bedeutende Quelle verhältnismäßig glaubwürdig und für jene Zeit ausführlich fest — die Chronik Fredegars."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lassen wir also den mittelalterlichen Chronisten weiter von den Ereignissen erzählen, die sich in seiner Zeit abspielten und die für unsere Geschichte eine so große Bedeutung haben:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Im vierzigsten Jahr der Herrschaft Chlothars führte ein Mann namens Samo, von Geburt ein Franke aus dem senonischen Gau, viele Kaufleute mit sich und zog zu den Slawen, die Wenden genannt werden, um Handel zu treiben. Die Slawen hatten schon begonnen, sich gegen die Awaren, die Hunnen genannt werden, und gegen ihren Herrscher, den Khagan, zu erheben. Die Wenden waren schon von alters her die Vorhut (die doppelte Schlachtreihe) der Hunnen; wenn die Hunnen mit dem Heer einen Angriff gegen irgendeinen Stamm führten, dann stellten die Hunnen ihr versammeltes Heer zum Schutz der Lager auf, die Wenden aber kämpften. Neigte sich der Sieg auf ihre Seite, dann griffen die Hunnen an, um sich der Beute zu bemächtigen; wurden die Wenden aber geschlagen, so fassten sie, von dem Hilfsheer der Hunnen unterstützt, wieder Kräfte. Die Hunnen nannten sie also die Vorhut, weil sie beim Zusammenstoß im Kampf doppelte Schlachtreihen bildeten und vor den Hunnen einherschritten. Die Hunnen kamen jedes Jahr zu den Slawen, um zu überwintern, und nahmen die Ehefrauen der Slawen und ihre Töchter in ihre Betten. Außer anderen (erlittenen) Gewalttätigkeiten entrichteten die Slawen den Hunnen Abgaben. Die Söhne der Hunnen, die sie mit den Ehefrauen und (:den:) Töchtern der Wenden zeugten, ertrugen das Übel der Grausamkeit und der Gewalt nicht länger, widersetzten sich der Oberherrschaft der Hunnen und begannen sich, wie ich bereits erwähnt habe, zu erheben. Als die Wenden mit dem Heer gegen die Hunnen angriffen, rückte der Kaufmann Samo, den ich ebenfalls erwähnt habe, mit ihnen im Heer vor. Und hier bewies er gegen die Hunnen eine so große Fähigkeit, dass es Bewunderung erregte, und eine ungeheure Zahl von ihnen wurde durch das Schwert der Wenden erschlagen. Als die Wenden Samos Nützlichkeit erkannten, wählten sie ihn zum König über sich, und hier herrschte er glücklich 35 Jahre. Unter seiner Herrschaft führten die Wenden viele Kämpfe gegen die Hunnen. Mit seiner Umsicht und Fähigkeit besiegten die Wenden die Hunnen immer. Samo hatte 12 Frauen vom Stamme der Wenden, mit denen er 22 Söhne und 15 Töchter zeugte.",
+    "author": "Die Chronik Fredegars",
+    "source": "Buch IV, Kapitel 48 (7. Jahrhundert)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kommentar zu dem Eintrag in der Chronik:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Um das Jahr 620 wuchs nach J. Steinhübel in Pannonien schon die zweite Generation awarisch-slawischer Mischlinge heran. Gerade dort brach der Aufstand gegen die awarische Unterdrückung aus, den diese vorbereiteten. Es war irgendwann im Sommer 622, als im Gebiet der mittleren Donau eine Kaufmannskarawane erschien, geführt von dem Kaufmann Samo \"aus dem senonischen Gau\". Er half den Slawen beim Aufstand, vor allem durch das Angebot militärischer Dienste. Er erwies sich als guter Organisator, und so wählten ihn die Slawen zu ihrem Herrscher. Es folgten mehrere Schlachten in den Jahren 623-624, in denen sie unter seiner Führung die Awaren \"pazifizierten\" und sich deren Oberherrschaft entwanden. In der Zeit dieser antiawarischen Aufstände und Kämpfe entstanden die ersten slawischen Fürstentümer, die kroatischen, slawonischen und karantanischen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Gebiet des Reiches des Samo mit den eingezeichneten möglichen Orten, an denen Wogastisburg gelegen haben könnte",
+    "alt": "Das Gebiet des Reiches des Samo mit den eingezeichneten möglichen Orten, an denen Wogastisburg gelegen haben könnte",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anschließend verließen nach J. Steinhübel nach dem Ausbruch des Aufstands die Stämme der Wenden, der Kroaten, der Sorben und teilweise auch der Dudleben Pannonien und besetzten den Raum in der Nachbarschaft dieses unruhigen Gebietes. Also jenseits der Donau, auf dem Gebiet der südwestlichen Slowakei, Südmährens und wahrscheinlich auch des nordöstlichen Österreichs und eines Teils Tschechiens, gründeten sie ein slawisches \"Reich\". So tritt das sogenannte Reich des Samo in die Geschichte ein.\" (http://dubrava.vkrp.sk)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "In jenem Jahr töteten die Slawen, die Wenden genannt werden, im Reich des Samo eine große Zahl fränkischer Kaufleute und beraubten sie ihrer Waren. Dies war der Beginn des Zerwürfnisses zwischen Dagobert und Samo, dem Herrscher der Slawen. Und Dagobert schickte den Gesandten Sycharius zu Samo mit der Bitte, er solle für die Kaufleute, die seine (;Leute:) getötet hatten, oder für die Waren, die sie sich unrechtmäßig angeeignet hatten, einen angemessenen Ersatz leisten. Samo wollte Sycharius nicht sehen, er hätte auch nicht erlaubt, dass er (:vor ihn tritt:). Sycharius kam (:also:) in ein Gewand nach Art der Slawen gekleidet mit seinen Leuten vor Samos Angesicht; alles, was ihm aufgetragen war, teilte er ihm mit. Doch wie es (:Brauch:) des Heidentums und der Hochmut bei Ruchlosen ist, leistete Samo keinerlei Ersatz für das, was seine (:Leute:) begangen hatten; er wollte nur eine Verhandlung ansetzen, damit in der Sache dieser und anderer Beschwerden, zu denen es zwischen den Parteien gekommen war, einander der Gerechtigkeit Genüge getan werde. Sycharius sprach als törichter Gesandter zu Samo übereilte Worte, die ihm nicht aufgetragen waren, ja auch Drohungen, dass Samo und das Volk seines Reiches Dagobert angeblich zum Dienst verpflichtet seien. Samo, nunmehr beleidigt, sprach zur Antwort: „Auch der Boden, den wir haben, gehört Dagobert, und auch wir gehören ihm, wenn er freilich anordnet, mit uns Freundschaft zu halten“. Sycharius antwortete: „Es ist nicht möglich, dass Christen und Diener Gottes mit Hunden Freundschaft schließen“. Samo sagte darauf: „Wenn ihr Diener Gottes seid und wir Hunde Gottes, dann handelt ihr unablässig gegen ihn, und wir haben uns die Erlaubnis genommen, euch mit den Zähnen zu zerreißen“. Sycharius wurde aus Samos Augen fortgejagt. Als er dies Dagobert mitteilte, befahl Dagobert hochmütig, dass das Heer aus dem ganzen austrasischen Reich gegen Samo und die Wenden ausziehe. Als das Heer mit drei Abteilungen in Schlachtordnung die Wenden angriff, zogen auch sogleich die Langobarden, von Dagobert bestochen, ebenso feindlich gegen die Slawen heran. Die Slawen rüsteten sich dem an diesen und an anderen Orten (:militärisch:) entgegen; in welchen Gau das Heer der Alemannen mit dem Heerführer Chrodobert eintrat, dort siegte es. Ebenso siegten die Langobarden, und die Alemannen und die Langobarden führten eine sehr große Zahl von Gefangenen aus den Slawen mit sich fort. Als dann die Austrasier die Burg Wogastisburg umschlossen, in der sich sehr zahlreiche Abteilungen der tapferen Wenden verschanzt hatten, wurden hier in einem dreitägigen Kampf viele aus dem Heer Dagoberts mit dem Schwert erschlagen, und die Übrigen kehrten, indem sie alle Zelte und alles Gepäck, das sie hatten, zurückließen, feige von dort in die eigenen Sitze zurück. Danach fielen die Wenden mehrmals in Thüringen und in die übrigen Gaue des Frankenreiches ein und plünderten. Auch Dervan, der Fürst aus dem Stammesverband der Sorben, die vom Stamme der Slawen abstammten und schon lange zum Frankenreich gehörten, schlossen sich mit ihnen dem Herrscher Samo an. Zu diesem Sieg, den die Wenden über die Franken errangen, verhalf nicht so sehr die Tapferkeit der Slawen wie eben der Unvernunft der Austrasier, die inzwischen festgestellt hatten, dass sie in den Hass Dagoberts gefallen waren und dass sie unablässig beraubt würden.",
+    "author": "Die Chronik Fredegars",
+    "source": "Buch IV, Kapitel 68 (7. Jahrhundert)"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Schlacht bei Wogastisburg nach der Vorstellung des Malers Jozef Cesnak im Buch Slovensko v dobách stredovekých (Matúš Kučera, Mladé letá 1985)",
+    "alt": "Die Schlacht bei Wogastisburg nach der Vorstellung des Malers Jozef Cesnak im Buch Slovensko v dobách stredovekých (Matúš Kučera, Mladé letá 1985)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kommentar zu dem Eintrag aus der Chronik: \"Nach der Entstehung dieses \"Reiches\" begrüßte der fränkische König Dagobert I. aus der Dynastie der Merowinger zunächst die Existenz des slawischen Machtgebildes hinter der Ostgrenze. Dieses bildete nämlich einen Schutz seines Gebietes vor den angriffslustigen Awaren. Nach dem Jahr 630 kam es jedoch zu einer Verschlechterung der beiderseitigen Beziehungen, nachdem die Slawen Samos ein Bündnis mit dem elbsorbischen Fürsten Dervan geschlossen und verheerende Einfälle in das Gebiet Thüringens unternommen hatten. Deshalb kam an Samos Hof der fränkische Gesandte Sycharius, der Vermittler einer neuen Abmachung sein sollte. Dieser beschuldigte die Slawen des Diebstahls der Waren einer fränkischen Kaufmannskarawane und der Ermordung fränkischer Kaufleute. Wie wir sehen, ändern sich manche Dinge nicht, und besonders die Vorwände für die Auslösung eines Krieges pflegen besonders durchschaubar zu sein, die ältesten Zeiten nicht ausgenommen.\" (http://dubrava.vkrp.sk)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Im elften Jahr der Herrschaft Dagoberts, als die Wenden auf Samos Befehl dreist Grausamkeiten begingen und häufiger, wenn sie ihre Grenzen überschritten, um das Frankenreich zu plündern, Thüringen und die übrigen Gaue überfielen, kam Dagobert in die Stadt Metz, erhob auf den Rat der Bischöfe wie auch der kirchlichen Würdenträger und mit Zustimmung aller Großen seines Reiches seinen Sohn Sigibert zum König von Austrasien und erlaubte, dass er die Stadt Metz zum Sitz habe. Kunibert, den Bischof der Stadt Köln, und den Fürsten Adalgisel setzten sie zum Befehlshaber des Hofes ein, damit er das Reich verwalte. Den Schatz, der ausreichte, übergab er dem Sohn und stellte (ihn) angemessen, wie es sich gehörte, an dessen Spitze. Er verfügte, dass alles, was er ihm geschenkt hatte, besonders in schriftlichen Dekreten bestätigt werde. Danach beschlossen sie aus eigenem Zutun, einträchtig die Grenze und das Frankenreich gegen die Wenden zu schützen...",
+    "author": "Die Chronik Fredegars",
+    "source": "Buch IV, Kapitel 75 (7. Jahrhundert)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Reich des Samo, das ist großer Ruhm und ein großes Ereignis in der Geschichte des Slawentums. Die Slawen stellten sich nicht nur zum ersten Mal in einem solchen Licht auf der Bühne der europäischen Geschichte vor, sondern sie vermochten sich im Zusammenstoß zweier Welten tapfer die Unabhängigkeit zu erkämpfen. An ihrem Schild blieben auch die vereinigten europäischen Heere hängen. Wundern wir uns daher nicht, dass sich jedes slawische Volk, kaum war die Chronik Fredegars entdeckt, eifrig für die Schicksale dieses ersten slawischen Staatsversuchs interessierte. Das Reich des Samo verhüllte nämlich ein Schleier unbeantworteter Fragen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wo stand Wogastisburg?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Wogastisburg – die bedeutendste Burg des Reiches des Samo",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wo lag eigentlich jener berühmte Burgwall (oder „burgus“?), den der Chronist mit dem Namen Wogastisburg bezeichnet? Dafür wird offenbar niemand mehr einen eindeutigen Beweis liefern, bzw. würde sich ein solcher Beweis finden, so wäre es die Entdeckung des Jahrhunderts. Natürlich sehen wir bei Historikern verschiedener Staaten das Bestreben, sich Wogastisburg „anzueignen“ und zu behaupten, dass diese oder jene Fundstelle in ihrem Land eindeutig Wogastisburg war. Der Burgwall wurde nach Böhmen, nach Mähren, nach Karantanien und natürlich — damit wir nicht beschämt dastehen, auch wir Slowaken — lokalisiert; mehrere unserer Historiker können sich vorstellen, dass dieser Burgwall Bratislava (Pressburg) oder Devín (Theben) war. Ich selbst habe gegen dieses Bestreben nichts einzuwenden und bin der Ansicht, dass man eher nach Gründen suchen sollte, warum ja, als warum nein — davon haben wir genug Historiker aus anderen Ländern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "rvSe08dT3Sk",
+    "url": "https://www.youtube.com/embed/rvSe08dT3Sk",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Seite http://www.svatohaj.sk/samovarisa.html befindet sich ein sehr interessanter Artikel gerade zu diesem Thema, den ich zu zitieren erlaube:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\""
+       },
+       {
+        "type": "text",
+        "text": "Die Chronik Fredegars ist die einzige glaubwürdige historische Informationsquelle über Samo und sein Königreich. Es gibt noch eine zweite Quelle: Die Bekehrung der Bayern und Karantanen (Conversio), die jedoch zweihundert Jahre später entstand und nicht ganz glaubwürdig ist. Sie schöpfte aus den spärlichen Aufzeichnungen, die unter dem Namen Gesta Dagoberti regis bekannt sind — angefertigt aus der Chronik Fredegars —, die ebenso eine tendenziöse Schrift waren. Aus dieser Quelle entstand ein Irrtum, den die Romantiker gegen die deutsche Verunglimpfung nutzten, und sie behaupteten, Samo sei von Herkunft ein Slawe gewesen. Die deutschen Historiker setzten umgekehrt den Gedanken durch, er sei von Herkunft ein Germane gewesen. Aus der Analyse des altkeltischen Wörterbuchs von A. Holder ist jedoch klar, dass der Name Samo keltischer Herkunft ist. Und woher stammte Samo? Der senonische Gau lag bei der heutigen Stadt Sens in Frankreich und ist heute unter dem Namen Champagne bekannt. Es war ein Gau, in dem sich alle wichtigen Wege kreuzten, und zwar auch in Richtung Osten — in das Einzugsgebiet der Donau. In diesem Gau hielt sich noch im sechsten Jahrhundert in den bergigen Teilen die keltische heidnische Tradition. Samo war also von Herkunft ein Kelte, ein Untertan des Frankenreiches, vor allem aber war er ein Kaufmann. Ein Kaufmann, der sich wie viele andere entschloss, an einem Kriegsstreit zu verdienen. An dem Streit der Slawen mit den Awaren. Die Slawen brauchten hochwertige Waffen, um so die militärische Übermacht der Awaren auszugleichen, und das war ein günstiger Augenblick für den Handel. Samo sammelte viele Kaufleute und zog an der Spitze dieser bewaffneten Karawane in das Gebiet der Slawen. Die Kaufmannsabteilungen jener Zeit sorgten für ihren Schutz selbst, deshalb ist es sehr wahrscheinlich, dass die Kaufleute selbst in der Kriegskunst geübt waren, was uns über Samo auch die Chronik Fredegars bestätigt. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lange wurden Streitigkeiten darüber geführt, wohin denn dieser Samo eigentlich gekommen ist. Die Historiker suchten den Kern des Reiches des Samo (ich bin eher für die Bezeichnung Königreich) in Böhmen, in Ostdeutschland und auch in Karantanien. Die Ansichten, die Karantanien als Gebiet des Königreiches Samos durchsetzten, zerstreuten sich schnell, nachdem festgestellt wurde, dass die Conversio keine glaubwürdige Quelle ist. Die karantanischen Slawen waren zu abhängig von den Langobarden, und von ihrer Auflehnung würden wir sicher aus deren Geschichte erfahren. Ebenso wird in der Chronik Fredegars erwähnt, dass sie später auch Einfälle nach Thüringen unternahmen, wofür Karantanien nicht gerade ein geeigneter Ort für einen Angriff gegen das Frankenreich gewesen wäre, denn es trennte ihn das Gebiet der Awaren; viel besser wäre es gewesen, von Karantanien aus Bayern anzugreifen. Böhmen und Deutschland als Gebiet der Herrschaft Samos hat die Archäologie eindeutig widerlegt. Auf diesen Gebieten waren nämlich niemals Awaren und auch nicht in den Nachbargebieten, und somit konnten sich diese Slawen nicht gegen sie erheben. Die nordwestliche Ausbreitung der Awaren endete etwa auf dem Gebiet des heutigen Ungarn. Im Norden reichte sie also bis zur Donau und bis südlich des Kaschauer Beckens, im Westen bis zum Fluss Leitha nahe der östlichen österreichischen Grenze. Das Reich des Samo musste sich also irgendwo an dieser Grenze befinden, und die zahlreichste Besiedlung aus dieser Zeit hat die Archäologie im Raum Bratislava aufgedeckt. Hier fanden sich viele awarisch-slawische Gräberfelder, aus denen wir ablesen können, dass die Slawen auf diesem Gebiet eine zahlenmäßige Übermacht hatten und frei waren, denn sie trugen Waffen. Dieses Gebiet liegt zugleich an der alten Handelsstraße, die sich von Spanien über Frankreich nach Deutschland und entlang der Donau weiter nach Osten bis in den Orient zieht. Diese Straße kreuzt sich hier überdies mit der bekannten Bernsteinstraße, die sich bis zur ostbaltischen Küste zieht. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier befand sich also mit größter Wahrscheinlichkeit der Kern des Königreiches oder Reiches Samos. Darüber, wie weit es reichte, können wir nur Vermutungen anstellen, aber es ist durchaus möglich, dass es auf das Gebiet Böhmens reichte, denn dem Reich des Samo schloss sich auch der Fürst der Lausitzsorben — Dervan — an. Hier an der Pressburger Pforte, bei den gut bewachten Furten über die Donau, spielten sich die berühmten Schlachten gegen die awarischen Stämme ab. In der Chronik Fredegars finden wir die Erwähnung, dass die Awaren zu den Slawen zum Überwintern kamen. Es war deshalb, weil die Awaren nicht gelernt hatten, Heu für die Pferde für den Winter aufzubewahren. Es waren ausgezeichnete Reiter, die im Galopp genau zu schießen, mit dem Säbel oder der Streitaxt zu fechten vermochten. Sie verstanden sich auf die Metallurgie, aber nicht auf die Landwirtschaft. Im Kampf nutzten sie die Vorteile der Reiterei voll aus — die Schnelligkeit bei Verlegungen. Sie waren buchstäblich mit ihren Pferden verwachsen, dem passte sich auch ihre Physiognomie an. Sie hatten kurze Beine in O-Form und verkümmerte Fußsohlen. Die Form des Kopfes hatten sie typisch asiatisch — ein abgeflachtes Gesicht und schwarze Haare. Doch auch die Slawen waren keine Täubchen. Davon zeugen uns die Aufzeichnungen aus Byzanz, die die slawischen Krieger für ihre Kundschafterfähigkeiten loben. Die Slawen vermochten sich in den Wäldern ausgezeichnet zu tarnen, aus dem Hinterhalt zu überfallen, in Schluchten und Sümpfen zu kämpfen und Fallen zu stellen. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Damit jedoch das Reich des Samo entstehen konnte, mussten die hier lebenden Slawen ein Niveau des Wirtschaftens erreichen, das es ihnen erlaubte, einen unproduktiven Apparat von Soldaten und Führern zu ernähren. Nicht zuletzt mussten sie die Stammeszersplitterung überwinden, wozu ihnen ein Fremder ausgezeichnet dienen konnte. Es sind viele Fälle aus der Geschichte bekannt, in denen die Ambitionen der einzelnen Anführer keinem von ihnen erlaubten, die Herrschaft zu übernehmen, und deshalb übernahm sie als Herrscher gerade ein Mensch aus der Fremde, den alle akzeptieren konnten. Es ist auch möglich, dass Samo nicht ganz so sehr in einen fremden Gau kam. Es ist wahrscheinlich, dass hier noch zu seiner Zeit assimilierte Überreste der keltischen Kotinen lebten, die sich in den erzhaltigen Bergen gehalten hatten. Samo gewöhnte sich hier schnell ein, machte sich die slawischen Gebräuche und Sitten zu eigen, zu denen auch die Vielweiberei gehörte. Während seiner Herrschaft (623 – 658) führten die Slawen viele Kämpfe gegen die Awaren und siegten jedes Mal; später wandten sie sich sogar mit ihrem Herrscher — ursprünglich einem fränkischen Untertanen — gegen das Frankenreich und erzielten in diesem Kampf nicht geringe Erfolge. Nach seinem Tod zerfiel das Reich zwar, doch auf seinen Grundlagen baute offenbar später das großmährische Reich auf.\"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit vielen Ansichten des Autors kann man übereinstimmen, zum Beispiel ist die Feststellung am Schluss des Artikels, dass das großmährische Reich auf den Überresten des Reiches des Samo aufgebaut wurde, sehr wahrscheinlich. An manchen Orten wie zum Beispiel Nitra (Neutra), Devín oder Mikulčice konnte zweifellos eine Kontinuität der Herrschaft regionaler Adliger noch aus den Zeiten des Reiches des Samo erhalten geblieben sein, auch wenn sie offenbar nicht einheitlich als Teil eines einzigen Reiches auftraten. In den folgenden Jahrzehnten nach dem Zerfall liefen offenbar Machtkämpfe und Bestrebungen um eine Vereinigung ab, die mit der Entstehung des Fürstentums Neutra und des mährischen Fürstentums fortdauerten und in der Niederlage Pribinas und der Entstehung Großmährens gipfelten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine interessante (auch wenn ich nicht behaupte, dass sie sicher richtig ist) Deutung des Namens Wogastisburg brachte auch Matúš Kučera in dem Buch Slovensko v dobách stredovekých, in dem er anführt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\""
+       },
+       {
+        "type": "text",
+        "text": "Sehen wir uns zunächst das Wörtchen burc (burg) an. Irgendwie selbstverständlich dachten alle, dass es auch in den Zeiten Fredegars das bedeutete, was später in der deutschen Sprache — eine feste gemauerte Burg. Damals existierten solche Burgen jedoch noch nicht. Ja, nicht einmal mit Erdwällen befestigte Burgwälle ist es den Archäologen bei uns bisher gelungen zu finden. Solche bauten unsere Vorfahren im 6. und am Beginn des 7. Jahrhunderts noch nicht, irgendwie brauchten sie sie nicht.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei weiterem und tieferem Nachforschen wurde festgestellt, dass jenes Wörtchen wirklich germanischen Ursprungs ist, dass es sich aber vor den Slawen schon die Römer entliehen und ihm einen besonderen, einzigartigen Inhalt gegeben haben. Sie benannten damit Festungstürme, aber auch große Festungsgruppen, die sie an der Grenze zwischen ihrem Reich und der barbarischen germanischen Welt errichteten. Die Festungsgrenze zog sich entlang der Donau, die selbst ein schwer überwindbares Hindernis für die Menschen des alten Altertums und des frühen Mittelalters war, und nannte sich Limes romanus. Entlang von ihm bauten die Römer auf der ganzen Länge viele burgi bzw. burgus. Zum Beispiel allein von dem heutigen Budapest über Komárno bis nach Bratislava ragten über vierzig von ihnen über der Donauebene auf. Einige waren nur kleine Wachtürme, doch an Stellen, wo den Limes eine große und viel befahrene Straße kreuzte oder wo die Donau auch mit einem Fuhrwagen durchquert werden konnte (zum Beispiel beim heutigen Bratislava), wuchsen große und weitläufige befestigte Orte heran — die burgi. (Im heutigen England, wo sich solche burgi gut erhalten haben, kennen wir manche sogar mit einer Fläche von 20 Hektar, und die Engländer nennen sie bis heute burghs.) Es waren eigentlich Marktplätze, an denen römische und barbarische Kaufleute zusammenkamen und einander Waren tauschten und verkauften. Solcher Handelsburgi gab es an der Donaulimeslinie mehrere. Und davon, dass sie wirklich gut ausgewählt und lange bekannt waren, zeugt auch der Name vieler Städte, in denen das Wörtchen burg im Namen geblieben ist. Wir kennen Straßburg, Augsburg, Regensburg, Salzburg und andere Namen. Im Gebiet der heutigen Slowakei gibt es auch einen, und zwar den alten Namen unseres Bratislava. Nach dem slawischen Fürsten Braslav, der auf dem Burgwall auf der heutigen Burgerhebung seinen Sitz hatte, bildete sich der Name Braslavs-burg (also Braslavs Burg), daraus Brrslavsburg und weiter Pressburg, von wo es nur ein Schritt zu dem bekannten Prešporok ist. Der alte Name Bratislavas erinnert uns also daran, dass sich auch auf seinem heutigen Gebiet ein burg ausbreitete, in dem Kaufleute zusammenkamen und Handel trieben. Und da wir auch wissen, dass man die Kaufleute einst gast oder gost nannte (woraus unser hosť entstand), sind wir der Erklärung des geheimnisvollen Wogastisburg ganz nahe gekommen. Es handelte sich zweifellos um einen burg, in dem von Urzeiten her Kaufleute — gosti — zusammenkamen. Einen solchen Ort besuchte mit Sicherheit auch der Kaufmann Samo, wenn er in die slawischen Länder zog, so wie es gewiss ist, dass er nicht über Berge und Hügel streifte, sondern schön auf der alten römischen Straße entlang des Einzugsgebietes der Donau ging. Deshalb müssen wir den Burgus der Gäste — Wo-gastis-burg — an diesem mächtigen Fluss suchen.\"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Matúš Kučera: Slovensko v dobách stredovekých, Mladé letá 1985)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Einige weitere Ansichten zur Lokalisierung von Wogastisburg:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Die älteste Ansicht, die die Lage dieses Burgwalls zu klären versucht, verlegt ihn in das Maingebiet, durch das der königliche Weg der fränkischen Kriegszüge nach Osten führte. Überdies treffen wir hier auf eine Fundstelle, die bis heute den Namen \"Wogastesrode\" trägt. Diese Theorie stützt weiterhin auch die Existenz des erwähnten Bündnisses mit dem sorbischen Dervan, was auf einen erheblichen Umfang des \"Reiches\" in Richtung Westen hinweist. Einen Riss bringt in diese These jedoch die Tatsache, dass in diesem Gebiet kein altslawischer Burgwall aus der Zeit des 7. Jahrhunderts entdeckt wurde. Überdies ist es fraglich, ob ein Burgwall, der so bedeutend war, dass sich bei ihm der Kern der slawischen Kriegskräfte sammelt, so weit im Westen gelegen hätte, auf einem Gebiet, das unter unmittelbarem fränkischem Einfluss steht. Und das auch dann, wenn wir den Gedanken annehmen, dass es sich um eine \"Grenz\"festung handelte.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Andere Stimmen weisen wiederum darauf hin, dass \"Vogasgrad\" eher im Zentrum des Reiches zu suchen ist, wo wir einerseits archäologisch belegte Burgwälle aus dieser Zeit haben und andererseits die awarisch-slawische Gesellschaft, die nach den fränkischen Chroniken gerade an der Entstehung und am Funktionieren des Reiches beteiligt gewesen sein soll. Hier kommt das Gebiet der Devíner Pforte am Zusammenfluss von March und Donau in Betracht. Das ist jedoch wiederum ein Problem beim Fehlen eines Fundes eines Burgwalls aus dieser Zeit. Schon haltbarer erscheint die angenommene Lage im Gebiet Südmährens, wo die oben erwähnten Burgwälle theoretisch die \"Anforderungen\" des gesuchten Vogastisburg erfüllen. Direkte Beweise fehlen jedoch immer noch.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenso wurde zu seiner Zeit eine Ansicht geäußert, die ihn in das nordöstliche Österreich, in das Tal der Donau verlegt. Etwas kann daran sein, da wir wissen, dass auch die karantanischen Slawen eine Zeit lang mit großer Wahrscheinlichkeit Verbündete Samos waren.\"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Historiker Anton Hrnko führt in dem Artikel Devín – božská perla Slovenska auf der Seite http://www.hrnko.sk/category/slovenske-dejiny/page/5/ zur Lokalisierung von Wogastisburg Folgendes an:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Allen Kriterien entspricht am besten die alte römische Festung an der Mündung des Flusses Enns in die Donau in dem Städtchen Albing. Von den vielen befestigten Orten am römischen Limes gibt es wenige, deren antiker Name nicht erhalten ist. Zu ihnen gehört auch die Festung in Albing. Bei der Rekonstruktion ihres Namens gehen diese Historiker von der häufigen Praxis der Römer aus, dass sie die Städte am Limes nicht nach den Namen der Flüsse benannten, an denen sie an der Donau lagen, sondern nach den Flüssen, die ihnen gegenüber in die Donau mündeten (zum Beispiel Regensburg — das Flüsschen Regen; Passau — das Flüsschen Boiodurum, die heutige Ilz). Sogar auch der deutsche Name von Ostrihom ist mit dem Namen des Flusses Hron identisch, der ihm gegenüber in die Donau mündet (Gran). Da das Flüsschen gegenüber Albing (die heutige Aist) in der Antike Agasta genannt wurde, folgern sie, dass auch die Festung an der Grenze der fränkischen und der slawischen Machtsphäre Agasta hieß, woraus logisch der germanische Name Wogastisburg entstehen konnte (ähnlich wie etwas später aus der slowakischen Bräslava der deutsche Name Breslawasburg, Pressburg entstand).",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der angeführten, meiner Ansicht nach ganz überzeugenden Argumentation ergibt sich, dass Wogastisburg nicht der zentrale Residenzort des Königs Samo sein konnte. Ein solcher Sitz musste tiefer im Hinterland liegen, musste gut befestigt sein und musste eine zentrale Lage im Verhältnis zum Gebiet des Reiches haben. Für den wahrscheinlichsten Sitz Samos oder wenigstens einen seiner mehreren zentralen Sitze hält der Historiker Ján Steinhübel gerade die Burg Devín. Gegenüber dem damals schon untergehenden Carnuntum hatte sie unbestreitbar den Vorteil, dass sie gegen einen plötzlichen Einfall der Awaren durch den Lauf der Donau besser geschützt war, aber nicht nur durch ihn. Der oben schon erwähnte römische Kaiser Valentinian ließ die Burg im Jahr 375 mit einem ungewöhnlich hohen Wall aus Holz und Erde befestigen, der die Anhöhe der Burg gegen potenzielle Angreifer von der östlichen und nordöstlichen Seite vollkommen schützte. Es ist derselbe Wall, der später auch dem großmährischen Burgwall und der mittelalterlichen Burg gut diente und dessen Mächtigkeit wir noch heute vom östlichen Tor in Richtung zum nördlichen Tor verfolgen können und dessen Teil auf der Nordseite die örtlichen Bewohner vor den Augen der Denkmalpfleger abgetragen haben und immer noch abtragen, in dem Bestreben, sich die eigenen Höfe zu „erweitern“. So kann auch die Denkmalpflege in der Slowakei aussehen und das Verhältnis der Bürger zu einem historischen Denkmal höchster Wichtigkeit. Leider ist es nicht nur der Einzelfall Devín.\"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine interessante Aufgabe haben der Historiker Michal Lutovský und Naďa Profantová in ihrem Buch Sámova říše übernommen. Sie beschreiben darin, wie der Burgwall Wogastisburg und das Leben auf ihm zur Zeit der berühmten Schlacht ausgesehen haben konnte. Unter anderem führen sie an:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Versuchen wir nun — mit Hilfe unserer Kenntnisse aus archäologisch untersuchten Burgwällen — eine annähernde Vorstellung davon, wie Wogastisburg im Inneren aussehen konnte. In Friedenszeiten lebte auf dem Burgwall wahrscheinlich nur eine kleine militärische Besatzung. Ähnlich wie die Bevölkerung der Dörfer wohnten ihre Angehörigen wohl auch am häufigsten in Häusern, die zum Teil in die Erde eingetieft waren, also in eingetieften Grubenhäusern. Eher ausnahmsweise konnten auch Behausungen vorkommen, die auf dem Niveau des Geländes errichtet waren, und zwar sowohl in Form von Blockbauten als auch von Häusern mit Wänden, die — ähnlich wie bei den Grubenhäusern — durch ein Geflecht aus dünnen Ruten zwischen den am Umfang des Baus eingeschlagenen Pfosten gebildet waren. Ein solches Geflecht bedeckte dann eine Lehmschicht — der Lehmbewurf. Die oberirdischen Behausungen hatten gegenüber den quadratischen Grubenhäusern meist einen rechteckigen Grundriss und waren auch etwas geräumiger. Aber auch sie bestanden am häufigsten aus einem einzigen Raum. In seiner Mitte finden wir gewöhnlich eine offene Feuerstelle.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hütten standen eher entlang des inneren Umfangs der Mauern und säumten so den freien zentralen Platz. Auf ihm konnte ein fürstlicher oder adliger Palast stehen, dargestellt durch einen Blockbau größerer Ausmaße, der am ehesten in zwei Räume gegliedert war — einen größeren Vorraum und den Hauptsaal. Aus jüngeren Perioden kennen wir bei solchen Bauten auch einen steinernen Unterbau (zum Beispiel den Fürstenpalast in Mikulčice oder in Libice), doch können wir ihn für unsere Zeit und für einen Burgwall, der wahrscheinlich keine zentrale Bedeutung hatte, kaum voraussetzen. Der Platz in der Mitte konnte allerdings auch völlig frei sein, ein Palastbau musste auf dem Burgwall überhaupt nicht vorkommen.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Krieger bildeten nicht die einzige Gruppe der Bewohner des Burgwalls. Entweder unmittelbar im Areal der eigentlichen Burg oder auf der befestigten Vorburg lebten und arbeiteten Handwerker. Zwischen die Grubenhäuser mischten sich Schmieden und Werkstätten weiterer Handwerker, deren Arbeit für die Herstellung und die Instandhaltung von Waffen und militärischer Ausrüstung nötig war. In den bedeutenderen Zentren erweiterte sich die Skala der Handwerke, es kamen Hersteller von Luxusgütern hinzu, besonders Metallgießer, Metalltreiber und Goldschmiede.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Leben auf dem Burgwall erforderte sicher auch viele Einrichtungen wirtschaftlichen Charakters. Stallungen für die Pferde der Krieger und für das weitere Vieh, Einrichtungen für die Lagerung von Getreide und Futter. Über all das wissen wir aber sehr wenig. Sicherer kennen wir nur die unterirdischen Getreidespeicher — also die Getreidegruben — mit engem Hals. In ihnen war es jedoch nur vorteilhaft, Getreide für die Aussaat aufzubewahren, denn häufiges Öffnen würde ihre Konservierungseigenschaften beeinträchtigen. Deshalb haben wir Grund, die Existenz auch anderer, oberirdischer Typen von Speichern anzunehmen, die durch archäologische Ausgrabungen meist nicht zu erfassen sind.\"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

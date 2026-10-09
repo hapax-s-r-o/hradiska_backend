@@ -1,0 +1,679 @@
+{
+ "slug": "majcichov",
+ "data": {
+  "title": "Majcichov – eine großmährische Niederungsburg mit Besiedlung seit der Altsteinzeit",
+  "slug": "majcichov-grossmaehrische-niederungsburg",
+  "excerpt": "Die Gemarkung von Majcichov war bereits in der Altsteinzeit (35.000–8000 v. Chr.) besiedelt; belegt sind die Kultur mit Volutenkeramik, die Lausitzer und die Velatice-Kultur. Im 9. Jahrhundert entstand hier eine großmährische Niederungsburg von 3 ha (nach neueren Untersuchungen bis zu 9 ha) mit rechteckigem Grundriss, Wassergraben und einer Mauer in Kastenkonstruktion mit Steinfront. Die dendrochronologische Analyse datiert die Mauer in die Jahre 892–893.",
+  "metaTitle": "Majcichov – Niederungsburg und Besiedlung seit der Altsteinzeit",
+  "metaDescription": "Im 9. Jahrhundert stand bei Majcichov eine großmährische Niederungsburg an einer Handelskreuzung; ihre Mauer ist dendrochronologisch auf 892–893 datiert.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "3 ha (nach neueren Untersuchungen bis zu 9 ha)",
+    "icon": "map"
+   },
+   {
+    "label": "Ausmaße des Burgwalls",
+    "value": "etwa 220 × 300 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Typ der Anlage",
+    "value": "großmährische Niederungsburg mit Schutzfunktion",
+    "icon": "shield"
+   },
+   {
+    "label": "Datierung der Mauer",
+    "value": "892–893 (Dendrochronologie)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Archäologische Ausgrabung",
+    "value": "Archäologisches Institut der Slowakischen Akademie der Wissenschaften in Nitra (1960er Jahre und Beginn des 21. Jahrhunderts)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Lage",
+    "value": "vom Ortsteil Palaj bis zum Vlčkovský háj, an einer wichtigen Handelskreuzung",
+    "icon": "map"
+   },
+   {
+    "label": "Konstruktion des Walls",
+    "value": "Kastenkonstruktion aus Steinmauern, gefüllt mit kleinem Steinmaterial und Löss, mit hölzerner Palisade",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "35.000–8000 v. Chr.",
+    "title": "Älteste Spuren der Besiedlung",
+    "description": "Archäologische Fundstellen deuten darauf hin, dass im Gebiet des heutigen Majcichov bereits in der Altsteinzeit der urgeschichtliche Mensch lebte.",
+    "type": "event"
+   },
+   {
+    "year": "5000–3000 v. Chr.",
+    "title": "Siedlung der Kultur mit Volutenkeramik",
+    "description": "In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt, in deren Zusammenhang eine Siedlung der Menschen mit der Kultur mit Volutenkeramik erwähnt wird.",
+    "type": "event"
+   },
+   {
+    "year": "1900–700 v. Chr.",
+    "title": "Besiedlung in der Bronzezeit",
+    "description": "Die häufigsten Spuren ihrer Vorfahren finden die Einwohner von Majcichov in der Bronzezeit; es handelt sich um die Lausitzer und die Velatice-Kultur.",
+    "type": "event"
+   },
+   {
+    "year": "700–300 v. Chr.",
+    "title": "Siedlung in der älteren Eisenzeit",
+    "description": "Aus der älteren Eisenzeit ist eine Siedlung südlich von Majcichov bekannt, schon im Kataster der Gemeinde Hoste, in der Lage Malý háj.",
+    "type": "event"
+   },
+   {
+    "year": "Wende vom 5. zum 6. Jahrhundert",
+    "title": "Ankunft der Slawen",
+    "description": "An der Wende vom 5. zum 6. Jahrhundert unserer Zeitrechnung ließen sich hier die Slawen nieder. Zu den erhaltenen Spuren gehört eine Siedlung mit Keramik des Prager Typs.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Errichtung der großmährischen Schutzburg",
+    "description": "In Majcichov entstand eine großmährische Schutzburg mit einer Fläche von 3 ha (nach neueren Untersuchungen bis zu 9 ha), die an einer wichtigen Handelskreuzung lag. In der Umgebung bildete sich ein Netz von Dienstsiedlungen, und die Einwohner nahmen das Christentum an.",
+    "type": "construction"
+   },
+   {
+    "year": "1961",
+    "title": "Erste archäologische Sondagegrabung",
+    "description": "Die erste Sondagegrabung leitete B. Chropovský; festgestellt wurden eine verhältnismäßig mächtige Kulturschicht und mehrere Befunde – Vorratsgruben, lehmerne Kuppelöfen – sowie der Fund eines Teils eines dickwandigen Gefäßes mit einer Emailschicht auf dem Boden.",
+    "type": "discovery"
+   },
+   {
+    "year": "1960er Jahre und Beginn des 21. Jh.",
+    "title": "Ausgrabung des Archäologischen Instituts der SAV",
+    "description": "Die archäologische Ausgrabung des Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften in Nitra in den 1960er Jahren und zu Beginn des 21. Jahrhunderts durch.",
+    "type": "discovery"
+   },
+   {
+    "year": "892–893",
+    "title": "Dendrochronologische Datierung der Mauer",
+    "description": "Holzproben aus der Konstruktion des Walls wurden in Deutschland einer dendrochronologischen Analyse unterzogen, die die Mauer in die Jahre 892–893 datierte; die Errichtung des Burgwalls oder seine erneute Rekonstruktion kann somit mit den letzten Jahren der Existenz Großmährens zusammenhängen.",
+    "type": "construction"
+   },
+   {
+    "year": "2011",
+    "title": "Publikation der Ergebnisse der dendrochronologischen Analyse",
+    "description": "Die Ergebnisse der dendrochronologischen Analyse wurden in der Publikation Frühmittelalterliche Burgwälle an der mittleren Donau im ostmitteleuropäischen Kontext veröffentlicht.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6401,
+    "alt": "Rekonstruktion eines weitläufigen Burgwalls mit Palisade, Tor und Dutzenden Häusern mit Strohdächern"
+   },
+   {
+    "mediaId": 1347,
+    "caption": "Der deutlich sichtbare Burgwall auf der Karte der 2. militärischen Landesaufnahme 1810–1869",
+    "alt": "Der deutlich sichtbare Burgwall auf der Karte der 2. militärischen Landesaufnahme 1810–1869"
+   },
+   {
+    "mediaId": 1346,
+    "alt": "Satellitenkarte mit der gelb umrissenen Fläche des Burgwalls"
+   },
+   {
+    "mediaId": 6385,
+    "alt": "3D-Modell der Niederungsburg mit Wall, Graben und Fluss, Blick aus der Höhe"
+   },
+   {
+    "mediaId": 1348,
+    "caption": "Die neuesten Rekonstruktionszeichnungen aus der Werkstatt des AÚ SAV",
+    "alt": "Die neuesten Rekonstruktionszeichnungen aus der Werkstatt des AÚ SAV"
+   },
+   {
+    "mediaId": 6386,
+    "alt": "3D-Modell des Burgwalls mit innerer Bebauung und umlaufender Befestigung"
+   },
+   {
+    "mediaId": 6387,
+    "alt": "3D-Visualisierung des Burgwalls mit Palisade und Tor, vom Graben aus gesehen"
+   },
+   {
+    "mediaId": 6388,
+    "caption": "Ältere Rekonstruktionen der Mauer",
+    "alt": "Ältere Rekonstruktionen der Mauer"
+   },
+   {
+    "mediaId": 6389,
+    "alt": "3D-Visualisierung des Burgwalls bei Sonnenuntergang mit hölzerner Mauer"
+   },
+   {
+    "mediaId": 6390,
+    "alt": "3D-Visualisierung des Burgwalltores mit Turm und steinerner Mauer"
+   },
+   {
+    "mediaId": 6391,
+    "alt": "3D-Visualisierung der inneren Bebauung des Burgwalls mit Blockhäusern"
+   },
+   {
+    "mediaId": 6392,
+    "alt": "3D-Visualisierung des Burgwalls mit Stein-Holz-Mauer und Graben"
+   },
+   {
+    "mediaId": 6393,
+    "alt": "3D-Visualisierung des Burgwalls mit steinerner Front und Wassergraben"
+   },
+   {
+    "mediaId": 6394,
+    "alt": "Geophysikalische und Luftbildgrundlage mit markiertem Wall und den Lagen der Schnitte"
+   },
+   {
+    "mediaId": 6396,
+    "alt": "Plakat mit einer idealen Rekonstruktion der Befestigung des 9. Jahrhunderts, Reitern und Karten"
+   },
+   {
+    "mediaId": 6398,
+    "alt": "Plakat mit Varianten der Rekonstruktion der Befestigung und Schemata der Mauerkonstruktion"
+   },
+   {
+    "mediaId": 6399,
+    "alt": "Gemalte Rekonstruktion der hölzernen Mauer mit Steinfüllung und Menschen am Tor"
+   },
+   {
+    "mediaId": 6397,
+    "alt": "Plakat mit der Rekonstruktion der Mauer, einem Schnitt durch den Wall und Fotos von der Ausgrabung"
+   },
+   {
+    "mediaId": 6395,
+    "alt": "Zeichnung der Mauerkonstruktion: steinerne Front mit hölzernen Kammern und Graben"
+   },
+   {
+    "mediaId": 1349,
+    "alt": "Schwarzweißfotografie der Ausgrabung der steinernen Frontmauer im Schnitt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Archäologische Fundstellen deuten darauf hin, dass im Gebiet des heutigen Majcichov bereits in der Altsteinzeit (35.000–8000 Jahre v. Chr.) der urgeschichtliche Mensch lebte. In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt (von 5000 bis 3000 v. Chr.). In diesem Zusammenhang wird eine Siedlung der Menschen mit der Kultur mit Volutenkeramik (Linearbandkeramik) erwähnt. Die häufigsten Spuren ihrer Vorfahren finden die Einwohner von Majcichov in der Bronzezeit (von 1900–700 v. Chr.), es handelt sich um die Lausitzer und die Velatice-Kultur. Aus der älteren Eisenzeit (von 700–300 v. Chr.) ist eine Siedlung südlich von Majcichov bekannt, schon im Kataster der Gemeinde Hoste, in der Lage Malý háj. An der Wende vom 5. zum 6. Jahrhundert unserer Zeitrechnung ließen sich hier die Slawen nieder. Zu den erhaltenen Spuren gehört eine Siedlung mit Keramik des Prager Typs."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der deutlich sichtbare Burgwall auf der Karte der 2. militärischen Landesaufnahme 1810–1869",
+    "alt": "Der deutlich sichtbare Burgwall auf der Karte der 2. militärischen Landesaufnahme 1810–1869",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem 9. Jahrhundert ist in Majcichov vom Ortsteil Palaj bis zum Vlčkovský háj eine großmährische Schutzburg bekannt, die eine Fläche von 3 ha hatte. Die archäologische Ausgrabung dieses Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) in Nitra (Neutra) in den 1960er Jahren und zu Beginn des 21. Jahrhunderts durch. Die Untersuchungen behaupten, dass die Fläche sogar bis zu 9 ha betragen könnte. Der Burgwall lag an einer wichtigen Handelskreuzung. Es ist sehr wahrscheinlich, dass Majcichov schon in dieser Zeit unter dem Namen Majtech als kleine Siedlung an der heutigen oberen Gasse unterhalb der Kirche existierte. An der Stelle der Kirche stand wahrscheinlich ein Wachturm. Um den Burgwall von Majcichov bildete sich ein ganzes Netz von Dienstsiedlungen. In dieser Zeit nahmen die Einwohner von Majcichov das Christentum an, das nach dem Untergang des Burgwalls auch die Altungarn im Rahmen des ungarischen Staates festigten, wovon wiederum viele ungarische Namen zeugen – Farkašín (Vlčkovce), Majthény (Majcichov)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Matej Ruttkay, Eva Fottová und Joachim Henning führen in dem Artikel Archeologický výskum včasnostredovekého hradiska v Majcichove (in Pieta K., Ruttkay A., Ruttkay M.: 2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra) an, dass die Gründer des Burgwalls ihn auf eine leichte Anhöhe in die Biegung eines Flussarmes setzten, die auf alten Karten sowie auf dem Luftbild deutlich zu erkennen ist. Damit waren der südwestliche, der südliche und der südöstliche Rand der Befestigung abgegrenzt. Das bedeutet, dass der Flussarm als Wassergraben genutzt wurde (wahrscheinlich nach einer Versteilung der Ufer). Die nordwestliche und die nordöstliche Seite wurden ohne Anknüpfung an das ursprüngliche System der Flussarme errichtet. Deshalb war es möglich, gerade Wälle mit einem künstlichen Graben zu bauen. Wir nehmen an, dass das Bachbett, das nordwestlich des Burgwalls verläuft, erst später an diese Stelle gelangte. Darauf deutet auch die Tatsache hin, dass die nördliche Ecke des Burgwalls durch diesen Bach gestört wurde. Gegenwärtig erscheint auch die südwestliche Seite des Burgwalls fast als Gerade, d. h. insgesamt hat der Burgwall einen rechteckigen Grundriss (Orientierung mit der längeren Achse in Richtung Nordwest–Südost) und eine abgerundete südöstliche Seite. Die Ausmaße betragen etwa 220 × 300 m. Etwa in der Mitte der kürzeren Seiten sind auf den Luftbildern Unterbrechungen des Walls zu beobachten – wahrscheinlich Tore. Die gesamte Fläche des Burgwalls wurde in der Vergangenheit intensiv landwirtschaftlich bearbeitet, was eine deutliche Abtragung der Wälle zur Folge hatte. Im nordöstlichen Teil ist die Befestigung durch einen Flussmäander gestört, der bereits auf der 1. militärischen Landesaufnahme zu beobachten ist. Interessant ist, dass auf neueren Karten als Lage Hradisko bzw. Valy ein Gebiet in der Nachbarschaft des Burgwalls bezeichnet wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Sondagegrabung fand hier im Jahr 1961 unter der Leitung von B. Chropovský statt, wobei eine verhältnismäßig mächtige Kulturschicht und mehrere Befunde festgestellt wurden – Vorratsgruben, lehmerne Kuppelöfen (Produktionsbefunde?). Bemerkenswert ist vor allem der Fund eines Teils eines dickwandigen Gefäßes mit einer Emailschicht auf dem Boden, den der Leiter der Ausgrabung mit einer Emailwerkstatt in Verbindung brachte. B. Chropovský legte auch einen Schnitt durch den Wall an, und zwar im südwestlichen, wahrscheinlich nicht verbrannten Teil. Damals wurde die Fundstelle auch zum ersten Mal vermessen, und der Plan deutet unter anderem darauf hin, dass der Höhenunterschied zwischen Wall und Umgebung in dieser Zeit fast zwei Meter betrug. Das Ergebnis dieser Untersuchungen war auch die Interpretation der Konstruktion der Befestigung: „… der Wall war von der inneren und von der äußeren Seite aus Steinmauern im System einer Kastenkonstruktion errichtet, die mit kleinem Steinmaterial und mit Löss gefüllt war, der den Wallkörper festigte. Vor dem Wall befand sich ein Graben, der mit seinem Rand (seiner Öffnung) bis an die äußere Wand des Walls reichte; in diesen Graben destruierte der Wall. Der Geländebefund, vor allem aber der stark durchbrannte Boden im besser erhaltenen Teil des Walls (wahrscheinlich an der Stelle des Tores) zeigt, dass hier außer der Rostkonstruktion in größerem Maße Holz verwendet wurde, gewiss zur Errichtung einer Palisade“. Die Ausgrabung bewies auch, dass der nördliche und der nordöstliche Teil der Befestigung Spuren starken Durchbrennens tragen. Auch die neuere Ausgrabung zeigte, dass etwa in der Mitte der gegenüberliegenden kürzeren Mauern die Eingangstore angeordnet waren. Ebenso wurde in der Nähe der südöstlichen Unterbrechung (des Eingangs) ein komplizierteres System von Anomalien festgestellt, was auf eine aufwendigere Befestigungskonstruktion am Tor hindeuten könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die geophysikalischen Messungen deuteten darauf hin, dass beim Bau des Walls das Konstruktionselement hölzerner Kammern verwendet worden sein könnte. Ein interessantes Ergebnis der geophysikalischen Prospektion des befestigten Raumes des Burgwalls ist die Tatsache, dass hier im Grunde keine archäologischen Befunde angezeigt werden. Konnte ein solcher Burgwall ohne eingetiefte Befunde existieren? Auf gleichzeitigen Burgwällen ist das Auftreten einer verhältnismäßig großen Zahl eingetiefter Befunde üblich, und schließlich erfasste auch die Ausgrabung im Jahr 1961 im inneren Areal mehrere Befunde. Deshalb erscheint die Charakterisierung des Burgwalls als Fliehburg mehr oder weniger ohne Siedlungsbefunde wenig wahrscheinlich. Für dieses Phänomen kann es mehrere Erklärungen geben. In erster Linie ist es möglich, dass die Nähe des oberen Grundwasserspiegels dazu führte, dass die Bewohner des Burgwalls vor eingetieften Bauten die ebenerdigen bevorzugten, deren Spuren schwerer zu finden sind. Es lässt sich annehmen, und die archäologische Situation deutet darauf hin, dass irgendwann nach dem Untergang des Burgwalls eine große Menge pedologischen Materials hierher angeschwemmt wurde, das den ursprünglichen Besiedlungshorizont überdeckte. Örtliche Zeitzeugen führen eine umfangreiche Überflutung in den fünfziger Jahren an, gleichzeitig aber auch mehrere deutliche landwirtschaftliche Umgestaltungen in den fünfziger und sechziger Jahren des 20. Jahrhunderts. In diesem Fall wurden die archäologischen Befunde nicht zerstört, sondern im Gegenteil unter einer Schlammschicht konserviert, selbstverständlich nicht zum Zeitpunkt des Untergangs, sondern zum Zeitpunkt der Überflutungen. Das könnte dann als Barriere wirken, die es der geophysikalischen Prospektion nicht ermöglichte, die einzelnen Befunde zu identifizieren. Diese Interpretation könnte auch die Tatsache stützen, dass auf der Fläche des Burgwalls bei der Oberflächenprospektion nur eine minimale Zahl von Scherben und von Fragmenten metallener Gegenstände gefunden wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Graben",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der nordöstlichen Seite wurde eindeutig der ursprüngliche Rand des Grabens erfasst. Seine maximal erfasste Tiefe im Verhältnis zum unteren – begehbaren – Niveau betrug zur Zeit der Errichtung des Walls 290 cm. Es handelte sich wahrscheinlich um das versteilte Ufer eines ursprünglichen, verhältnismäßig schmalen Flussarmes, das auf einer Strecke von 14 m abfiel. Der Graben wurde nach dem Untergang des Burgwalls allmählich verfüllt. Das heutige künstliche und trockene Bett (ein Kanal) ist bereits in die Verfüllungen des Grabens eingetieft. Aus diesem Grund ist es nicht möglich, seine ursprüngliche Breite zu bestimmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Steinfront",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bis an den Rand des Bruchs der oberen Grabenkante reichte der Unterlagsrost – Rundhölzer mit einer Breite meist zwischen 15 und 18 cm und einer Länge von 480–505 cm (möglicherweise manchmal behauen), die nebeneinander quer zum Verlauf des Walls verlegt waren. An der Berührung mit dem Rand des Grabens war das Ende des Rostes von einem Querbalken unterlegt. Über dem Rost hat sich im nordöstlichen Teil nur die Destruktion des Walls erhalten sowie eine etwa 20 cm mächtige Schicht lehmiger Erde, auf der der Rest der Steinfront (Breite 85–110 cm) aus trocken gesetzten Steinen ruhte. Bei der Interpretation dieses Befundes kommen zwei Möglichkeiten in Betracht. Variante A – es wurde die gesamte ursprüngliche Breite der Front (85–110 cm) erfasst – in diesem Fall müsste sich auf der Außenseite des Burgwalls zwischen der Front und dem Beginn des Grabens ein 95–140 cm breiter freier Raum befinden, „gepflastert“ mit einem Teil des Unterlagsrostes. Es entstünde eine Art äußerer Wehrgang. Dieses Element könnte eine gewisse stabilisierende Wirkung haben, d. h. im Unterschied zu einer Mauer unmittelbar am Rand des Grabens wäre die Gefahr ihres Abrutschens in den Graben geringer. Variante B – es lässt sich nicht ausschließen, dass die ursprüngliche Front breiter war – möglicherweise so breit wie die gesamte äußere Breite des hölzernen Rostes (insgesamt zwischen 190 und 230 cm). Die Front verjüngte sich in diesem Fall nach oben allmählich. Ihr vorderer Teil konnte in den Graben stürzen (erfasst sind mindestens zwei Phasen der Destruktion). Am ehesten stürzte jedoch der obere Teil der Mauer eindeutig in den Innenraum des Burgwalls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kammer",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Kammer ruhte auf der nordöstlichen Seite auf dem hölzernen Unterlagsrost und auf der südwestlichen Seite auf dem Untergrund. Verhältnismäßig gut hat sich der untere Teil der waagerechten Verschalung erhalten, vor allem auf der südwestlichen Seite, wo sie etwa 20 cm in den Untergrund eingetieft war. Von innen festigten mächtige senkrechte Pfosten die Konstruktion. Die Verschalung bestand wahrscheinlich aus behauenen hölzernen Balken mit einem Durchmesser von etwa 15–22 cm. In Schnitt II wurden auch Reste einer Querverbindung der inneren und der äußeren Verschalung freigelegt. Diese Verbindung lag genau gegenüber dem senkrechten tragenden Pfosten und wurde im untersuchten Abschnitt ebenfalls nur einmal erfasst, was darauf hindeutet, dass der Abstand zwischen diesen Verbindungen mindestens 460 cm betrug. Die innere Füllung der Kammer mit einer Breite von 380–410 cm bestand aus lehmiger Erde. An mehreren Stellen wurden „Laibe“ gelben Lehms herauspräpariert, die auffallend ungebrannten Ziegeln ähnelten. Erfasst wurden auch Spuren eines inneren Rostes, der jedoch nur im Inneren der Kammer verlegt und weder mit der inneren noch mit der äußeren Verschalung verbunden war. Es erschienen auch Reste verschiedener quer hineingeworfener Hölzer. Alle analysierten Holzarten verwiesen auf die massive Nutzung der Eiche."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trotz des archaischen Charakters der gefundenen Keramik, der möglicherweise noch auf eine Datierung in das 8. Jahrhundert hindeutet, lassen sich die Funde nur vorläufig rahmenhaft in das 8. bis 10. Jahrhundert einordnen. Der Fund von Glas könnte darauf hindeuten, dass die von B. Chropovský festgestellten Anzeichen einer Glasproduktion nicht nur ein Zufall sein müssen, sondern ein tatsächlicher Beleg handwerklicher Produktion auf dem Burgwall. Für eine frühere Datierung des Burgwalls spräche auch der Sporn, den A. Ruttkay in seiner Gesamtstudie anführt. Bisher ist jede genauere zeitliche Einordnung des Burgwalls innerhalb dieses Intervalls rein spekulativ. Interessant ist die Frage der Existenz einer Siedlung bzw. von Siedlungen in der Mikroregion des Burgwalls. Die Oberflächenprospektion bestätigte das Vorhandensein frühmittelalterlicher Scherben westlich des Burgwalls und unmittelbar hinter dem Graben nördlich des Burgwalls. Das Vorhandensein von Siedlungsbefunden bestätigte sich hier auch durch geophysikalische und archäologische Oberflächenprospektion. Beide Siedlungen sind vom Burgwall durch einen verlandeten Flussarm bzw. durch den Graben getrennt. Die eine liegt nördlich und die andere südwestlich des Burgwalls. Leider lässt sich bisher nicht eindeutig entscheiden, ob sie in einem zeitlichen Zusammenhang mit dem Burgwall stehen. Eine dritte Siedlung wurde durch Oberflächenaufsammlung etwa 300 m nordöstlich des Burgwalls auf einer leichten Anhöhe entdeckt, die von drei Seiten von einem Fluss- bzw. Bacharm umschlossen ist. Besonders interessant ist vor allem die Siedlung südwestlich des Burgwalls – zwischen dem Burgwall und der Flussterrasse. Die Ergebnisse der geomagnetischen Messungen legen nahe, dass sie von einem Wall umgeben gewesen sein könnte (wenn dieser Wall nicht eine vorgeschobene Befestigung des Burgwalls war) und eine Art Vorburg gebildet haben könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Verlauf der Ausgrabung wurden aus der Konstruktion des Walls Holzproben entnommen, die anschließend in Deutschland einer dendrochronologischen Analyse unterzogen wurden. Ihre Ergebnisse sind in der Publikation aus dem Jahr 2011 Frühmittelalterliche Burgwälle an der mittleren Donau im ostmitteleuropäischen Kontext veröffentlicht. Dort wird eine Datierung der Mauer in die Jahre 892–893 angeführt, und somit kann die Errichtung des Burgwalls oder seine erneute Rekonstruktion mit den letzten Jahren der Existenz Großmährens zusammenhängen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die Abbildung zeigt, rechnen die Archäologen mit zwei Varianten des Aussehens bzw. der Konstruktion der Mauer, bezeichnet als Variante A und B."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "• Variante A – es wurde die gesamte ursprüngliche Breite der Front (85–110 cm) erfasst – in diesem Fall müsste sich auf der Außenseite des Burgwalls zwischen der Front und dem Beginn des Grabens ein 95–140 cm breiter freier Raum befinden, „gepflastert“ mit einem Teil des Unterlagsrostes. Es entstünde eine Art äußerer Wehrgang. Dieses Element könnte eine gewisse stabilisierende Wirkung haben, d. h. im Unterschied zu einer Mauer unmittelbar am Rand des Grabens wäre die Gefahr ihres Abrutschens in den Graben geringer."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die neuesten Rekonstruktionszeichnungen aus der Werkstatt des AÚ SAV",
+    "alt": "Die neuesten Rekonstruktionszeichnungen aus der Werkstatt des AÚ SAV",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "• Variante B – es lässt sich nicht ausschließen, dass die ursprüngliche Front breiter war – möglicherweise so breit wie die gesamte äußere Breite des hölzernen Rostes (insgesamt zwischen 190 und 230 cm). Die Front verjüngte sich in diesem Fall nach oben allmählich. Ihr vorderer Teil konnte in den Graben stürzen (erfasst sind mindestens zwei Phasen der Destruktion). Am ehesten stürzte jedoch der obere Teil der Mauer eindeutig in den Innenraum des Burgwalls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall in Majcichov gehört zur Gruppe der Niederungsburgen. Das Auftreten dieses Typs im Frühmittelalter und am Beginn des Hochmittelalters im Gebiet der Westslowakei ist nicht selten. Zu den Fundstellen mit ihrem Vorkommen gehören zum Beispiel Mužla-Čenkov, Brodské-Veleš, Bíňa und Piešťany-Kocúrice. In den meisten Fällen ist der Stand ihrer Erforschung unbefriedigend, und einige von ihnen lassen sich gegenwärtig nicht zuverlässig lokalisieren (Piešťany-Kocúrice). Trotz der scheinbaren Ähnlichkeit muss ihre Verschiedenheit berücksichtigt werden, die in vielen Hinsichten recht deutlich ist – Größe/Fläche, Mächtigkeit der Befestigung, „Infrastruktur“ und Ähnliches. Es ist auch sehr wahrscheinlich, dass mehrere Niederungsburgen in der Vergangenheit durch aktive landwirtschaftliche Tätigkeit und durch wirtschaftlich-technische Bodenumgestaltungen vollständig zerstört wurden. Es ist anzunehmen, dass die Niederungsburgen ähnlich wie in Südmähren auch in der Westslowakei eine bedeutende Stellung hatten – sei es als Organisations- und Verwaltungszentren oder als Handels- und Produktionszentren, gegebenenfalls als Fliehburgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ältere Rekonstruktionen der Mauer",
+    "alt": "Ältere Rekonstruktionen der Mauer",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Majcichov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Matej Ruttkay, Eva Fottová, Joachim Henning: Archeologický výskum včasnostredovekého hradiska v Majcichove (in Pieta K., Ruttkay A., Ruttkay M.: 2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Quellen und Literatur"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Joachim Henning, Matej Ruttkay",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ": Frühmittelalterliche Burgwälle an der mittleren Donau im ostmitteleuropäischen Kontext: Ein deutsch-slowakisches Forschungsprojekt, in: "
+       },
+       {
+        "type": "text",
+        "text": "Frühgeschichtliche Zentralorte in Mitteleuropa, Internationale Konferenz und Kolleg der Alexander von Humboldt-Stiftung zum 50. Jahrestag des Beginns archäologischer Ausgrabungen in Pohansko bei Breclav",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", 5.–9.10.2009, Breclav, Tschechische Republik, Verlag Dr. Rudolf Habelt GmbH · Bonn 2011"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/05_pocitacove%20modely/03_hrady%20a%20opevnenia/13_Majcichov_9%20storocie/Majcichov.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/05_pocitacove%20modely/03_hrady%20a%20opevnenia/13_Majcichov_9%20storocie/Majcichov.html"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-ii-1810-1869",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-ii-1810-1869"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.obce.info/?make=mapa&id=4002&obec=2598&clanok=8&rubrika=rub&pl=obcesk",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.obce.info/?make=mapa&id=4002&obec=2598&clanok=8&rubrika=rub&pl=obcesk"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

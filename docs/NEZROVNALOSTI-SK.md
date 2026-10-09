@@ -652,3 +652,45 @@ preložený, rovnako ako anglická.
 
 **selce-hradok**
 : keyFact aj timeline hovoria „v 30. rokoch" bez storočia; článok si to sám značí ako neisté
+
+**nacelnici-kniezata-a-krali-slovanskych-veletov-a-obodritov-peter-salkovsky**
+: blok 17 (a timeline 844) píše „cisár Ľudovít Nemec" — Ľudovít II. Nemec bol východofranský kráľ, cisárom nebol; „gardových miestodržiteľstiev – Burgwarde –" je zrejme preklep za „hradových"
+
+**p-salkovsky-nacelnici-kniezata-a-krali-slovenskych-a-moravskych-slovanov-a-ich-sidla**
+: blok 21 „od začiatku (štvrtiny) 9. storočia" je nedokončená formulácia — chýba, či ide o začiatok, alebo o prvú štvrtinu
+
+**o-starom-kristofovi**
+: timeline 3 hovorí o ohňoch „v horách nad dedinou", telo o ohni „v dedine"
+
+**zvolen-motova-hradok-priekopa**
+: šírka valu pri päte — blok 1 „začistená šírka pri päte 14,5 m" × blok 9 a keyFacts „celková šírka pri päte 18 m"
+
+**a-gaspar-zberove-nalezy-puchovskej-kultury-zo-stredneho-povazia**
+: keyFacts hovoria o 26 kusoch keramiky, telo vymenúva 7 (Hatné) + 21 (Košeca) = 28; nadpis Hatného datuje nálezy „neskorá laténska až včasná rímska", resumé len „neskorá laténska"
+
+**maros-demko-kyjevsky-panteon**
+: blok zdrojov má 80 položiek, číslovanie poznámok v tele ide do 82 — dva odkazy bez položky
+
+**bosaca-srniansky-haj**
+: lokalita je písaná dvojako — „Srňanský háj" (titulok, telo) × „Srniansky háj" (metaTitle, slug, alt galérie)
+
+**brekov**
+: bloky 9 a 11 hovoria v množnom čísle o „týchto hradiskách" a o „práci", ktoré článok nikde nepomenúva (prevzatý úryvok bez uvedenia)
+
+**detva-kalamarka**
+: blok 15 datuje „smrť Boleslava Chrabrého v 2. pol. 11. stor." — zomrel v roku 1025
+
+**dolna-marikova-simunky**
+: poloha je v tele „Dedkovec", v popise fotky „Detkovec"
+
+**nitrianske-pravno-jasenovo-vysehrad**
+: timeline aj telo spájajú „tatársky vpád" s rokom 1277 — vpád bol v rokoch 1241 – 1242, k roku 1277 sa viaže listina Ladislava IV.
+
+**sarisske-sokolovce**
+: blok 10 hovorí, že črepy z prvého valu sú „výlučne z mladšej doby bronzovej", záver a keyFacts datujú ten istý val do 9. storočia
+
+**slovanske-hradiska-v-nemecku**
+: citát Adama Brémskeho má „Poliakov žijúcich na tejto strane Odry" — prameň (trans Oddaram) hovorí o druhej strane
+
+**spisske-tomasovce**
+: rozloha trikrát inak — blok 3 „asi 3 ha", blok 22 „3,3 ha", anglické resumé „12 hektárov" (400 × 300 m); blok 22 má nedokončenú vetu „ostroha s trojuholníkovitými …"

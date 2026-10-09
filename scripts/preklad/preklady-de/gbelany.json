@@ -1,0 +1,240 @@
+{
+ "slug": "gbelany",
+ "data": {
+  "title": "Gbeľany – eine befestigte Höhensiedlung der Púchov-Kultur, später von Slawen genutzt",
+  "slug": "gbelany-hoehensiedlung-puchov-kultur",
+  "excerpt": "Die befestigte Höhensiedlung Gbeľany gehört zu den Siedlungen der Púchov-Kultur vom Ende des 1. Jahrhunderts v. Chr.; später nutzten sie auch die Slawen der vorgroßmährischen Zeit, und im 15. Jahrhundert saßen auf dem Bergrücken die Bratríci – daran erinnert eine Münze des Matthias Corvinus aus dem Jahr 1464. Auf den Äckern am Westrand der Gemeinde fand man im Jahr 1963 großmährische Scherben.",
+  "metaTitle": "Gbeľany – Höhensiedlung der Púchov-Kultur und der Slawen",
+  "metaDescription": "Die befestigte Höhensiedlung Gbeľany, errichtet von der Púchov-Kultur am Ende des 1. Jahrhunderts v. Chr. und später von Slawen und Bratríci genutzt.",
+  "keyFacts": [
+   {
+    "label": "Höhe ü. M.",
+    "value": "652 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Burganlage",
+    "value": "0,16 ha (Länge N–S 60 m, O–W 30 m)",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung des Nordteils",
+    "value": "Wälle und Graben, ursprünglich wahrscheinlich auch eine Palisade",
+    "icon": "shield"
+   },
+   {
+    "label": "Besiedlung",
+    "value": "Volk der Púchov-Kultur am Ende des 1. Jahrhunderts v. Chr., später Slawen",
+    "icon": "book"
+   },
+   {
+    "label": "Münzfund",
+    "value": "Münze des Matthias Corvinus aus dem Jahr 1464",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung des Burgbaus",
+    "value": "Wohl eine hölzerne Burg aus dem 12.–13. Jahrhundert",
+    "icon": "building"
+   },
+   {
+    "label": "Schriftquellen",
+    "value": "Über die Burganlage ist keine schriftliche Aufzeichnung erhalten",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 1. Jahrhunderts v. Chr.",
+    "title": "Besiedlung durch die Púchov-Kultur",
+    "description": "Die Burganlage gehört zu den Siedlungen, die das Volk der Púchov-Kultur am Ende des 1. Jahrhunderts v. Chr. errichtete.",
+    "type": "founding"
+   },
+   {
+    "year": "vorgroßmährische Zeit",
+    "title": "Besiedlung durch die Slawen",
+    "description": "Die Burganlage wurde offenbar auch von den Slawen noch aus der vorgroßmährischen Zeit genutzt, die siedlungsmäßig an die vorangehenden Perioden anknüpfen.",
+    "type": "era"
+   },
+   {
+    "year": "1963",
+    "title": "Fund großmährischer Scherben",
+    "description": "Auf den Äckern am Westrand der Gemeinde fanden sich großmährische Scherben.",
+    "type": "discovery"
+   },
+   {
+    "year": "12.–13. Jahrhundert",
+    "title": "Bau der hölzernen Burg",
+    "description": "Einige Forscher datieren den Bau der Burg, wohl einer hölzernen, in das 12.–13. Jahrhundert.",
+    "type": "construction"
+   },
+   {
+    "year": "1433",
+    "title": "Besiedlung durch die Bratríci",
+    "description": "Die Burganlage war im Mittelalter gemeinsam mit der Anhöhe bei der Burg Strečno von den Bratríci, einem Heer, besiedelt.",
+    "type": "event"
+   },
+   {
+    "year": "Anfang der zweiten Hälfte des 15. Jahrhunderts",
+    "title": "Erneute Nutzung der Burganlage",
+    "description": "Die Burganlage wurde erst am Anfang der zweiten Hälfte des 15. Jahrhunderts wieder genutzt, wahrscheinlich von den Heeren der Bratríci, die hier im Rahmen der Kämpfe um den ungarischen Thron operierten.",
+    "type": "event"
+   },
+   {
+    "year": "1464",
+    "title": "Fund einer Münze des Matthias Corvinus",
+    "description": "Neben Keramik wurde auch eine Münze des Matthias Corvinus aus dem Jahr 1464 gefunden.",
+    "type": "discovery"
+   },
+   {
+    "year": "1467",
+    "title": "Niederlage bei Veľké Kostoľany",
+    "description": "Unter dem Einfluss der Misserfolge in den Kämpfen gegen das Heer des Königs Matthias Corvinus, besonders nach der Niederlage bei Veľké Kostoľany im Jahr 1467, zogen sich die Bratríci in sicherere und besser geschützte Lagen der Nord- und Nordwestslowakei zurück.",
+    "type": "battle"
+   },
+   {
+    "year": "um 1474",
+    "title": "Wirken der Bratríci im Norden der Slowakei",
+    "description": "Die Bratríci bewegten sich in der Nord- und Nordwestslowakei noch um das Jahr 1474.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6439,
+    "alt": "Panorama einer steilen Wiese am Berghang der Burganlage mit Blick in das Becken"
+   },
+   {
+    "mediaId": 2693,
+    "caption": "Die Wiese am Berghang der Burganlage ist steil und bietet schöne Aussichten. In der Mitte ist das Tor in das Turzer Becken und die Burg Strečno",
+    "alt": "Die Wiese am Berghang der Burganlage ist steil und bietet schöne Aussichten. In der Mitte ist das Tor in das Turzer Becken und die Burg Strečno"
+   },
+   {
+    "mediaId": 2695,
+    "caption": "Blick auf die Burganlage Straník auf dem Weg von der Burganlage Gbeľany hinunter. Rechts Hrádok. Ein vollkommenes Trio",
+    "alt": "Blick auf die Burganlage Straník auf dem Weg von der Burganlage Gbeľany hinunter. Rechts Hrádok. Ein vollkommenes Trio"
+   },
+   {
+    "mediaId": 2696,
+    "caption": "Die Burganlage hat steile Hänge",
+    "alt": "Die Burganlage hat steile Hänge"
+   },
+   {
+    "mediaId": 2697,
+    "caption": "Auf dem Plateau der Burganlage sind die Wälle und die Zugangswege zu sehen",
+    "alt": "Auf dem Plateau der Burganlage sind die Wälle und die Zugangswege zu sehen"
+   },
+   {
+    "mediaId": 2698,
+    "caption": "Blick vom oberen Teil der Burganlage auf den unteren Teil. Rechts befand sich wahrscheinlich ein befestigter Herrenhof mit sichtbaren Gräben und Wällen",
+    "alt": "Blick vom oberen Teil der Burganlage auf den unteren Teil. Rechts befand sich wahrscheinlich ein befestigter Herrenhof mit sichtbaren Gräben und Wällen"
+   },
+   {
+    "mediaId": 2699,
+    "caption": "Der ältere Teil mit dem am höchsten gelegenen Teil der Burganlage. Hier stand wohl der Haupt-Wehrturm",
+    "alt": "Der ältere Teil mit dem am höchsten gelegenen Teil der Burganlage. Hier stand wohl der Haupt-Wehrturm"
+   },
+   {
+    "mediaId": 2700,
+    "caption": "Der Weg von der Burganlage fällt über den entwaldeten Hang ab. Links ist der höchste Teil der Burganlage, rechts der niedrigere",
+    "alt": "Der Weg von der Burganlage fällt über den entwaldeten Hang ab. Links ist der höchste Teil der Burganlage, rechts der niedrigere"
+   },
+   {
+    "mediaId": 2701,
+    "caption": "Im Hintergrund ein gut sichtbarer Wall im SO-Teil",
+    "alt": "Im Hintergrund ein gut sichtbarer Wall im SO-Teil"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung Gbeľany gehört zu den Siedlungen, die das Volk der Púchov-Kultur am Ende des 1. Jahrhunderts v. Chr. errichtete, und später wurde sie offenbar auch von den Slawen noch aus der vorgroßmährischen Zeit genutzt, die siedlungsmäßig an die vorangehenden Perioden anknüpfen. Auf den Äckern am Westrand der Gemeinde fanden sich im Jahr 1963 großmährische Scherben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gbeľany",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage befindet sich etwa 2 km nordöstlich der Gemeinde in einer Höhe von 652 m ü. M. Der Rücken der Burganlage zieht sich von Norden nach Süden und hat zwei Hauptgipfel – Plateaus in der Form eines unregelmäßigen Ovals. Die Länge in N-S-Richtung beträgt 60 m, in O-W-Richtung nur 30 Meter. Die Gesamtfläche beträgt 0,16 ha. Der Weg führt im Anstieg des Burghügels über dessen südlichen und östlichen Hang. Den Eingang in die Burganlage errichteten sie auf der südöstlichen Seite. Am Rand des Bergplateaus lässt sich der Grundriss des einstigen Walls oder der einstigen Mauer verfolgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite Teil der Burg liegt am nördlichen Zipfel 75 m nach Norden und hat die Form eines kleineren Trapezes. Die Maße betragen in ost-westlicher Richtung 24 m, in Richtung Nord-Süd 14 Meter. Dieser Teil der Burganlage ist sichtbar von Wällen und einem Graben umgeben, ursprünglich wohl auch von einer Palisadenbefestigung. Wegen der guten Erhaltung der Wälle und des Grabens lässt sich urteilen, dass es sich um den jüngeren Teil der Burganlage handelt. Baureste an der Oberfläche lassen sich nicht erkennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Wiese am Berghang der Burganlage ist steil und bietet schöne Aussichten. In der Mitte ist das Tor in das Turzer Becken und die Burg Strečno",
+    "alt": "Die Wiese am Berghang der Burganlage ist steil und bietet schöne Aussichten. In der Mitte ist das Tor in das Turzer Becken und die Burg Strečno",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Burganlage gab es keine schriftliche Aufzeichnung. Einige Forscher datieren den Bau der Burg, wohl einer hölzernen, in das 12.–13. Jahrhundert. In früherer Zeit wurden keramische Funde aus dem Mittelalter entdeckt. Die Burganlage war im Mittelalter im Jahr 1433 gemeinsam mit der Anhöhe bei der Burg Strečno von den Bratríci, einem Heer, besiedelt. Dr. Moravčík führt dazu an, dass sie erst am Anfang der zweiten Hälfte des 15. Jahrhunderts wieder genutzt wurde (außer Keramik auch der Fund einer Münze des Matthias Corvinus aus dem Jahr 1464), wahrscheinlich von den Heeren der Bratríci, die hier im Rahmen der Kämpfe um den ungarischen Thron operierten. Unter dem Einfluss der Misserfolge in den Kämpfen gegen das Heer des Königs Matthias Corvinus, besonders nach der Niederlage bei Veľké Kostoľany im Jahr 1467, zogen sie sich in sicherere und besser geschützte Lagen der Nord- und Nordwestslowakei zurück, wo sie sich noch um das Jahr 1474 bewegten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

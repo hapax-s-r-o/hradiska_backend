@@ -1,0 +1,653 @@
+{
+ "slug": "slovanske-hradiska-na-orave",
+ "data": {
+  "title": "Slawische Burgwälle in der Arwa (Orava)",
+  "slug": "slawische-burgwaelle-in-der-arwa",
+  "excerpt": "Eine der am meisten untersuchten Fundstellen der Arwa – die Ostrá skala über Vyšný Kubín – war seit dem Äneolithikum besiedelt. Die günstige Lage bestimmte sie zum Bau einer urgeschichtlichen befestigten Siedlung; nach Umbauten wurde der Platz im Frühmittelalter ein zweites Mal genutzt. Vorgestellt werden außerdem Veľký Bysterec-Trniny, Istebné – Hrádok und Oravský Podzámok, die Arwaer Gruppe des Lausitzer Kulturkomplexes und die Höhensiedlung in Dubová.",
+  "metaTitle": "Slawische Burgwälle in der Arwa – Ostrá skala und weitere",
+  "metaDescription": "Burgwälle in der Arwa wie die Ostrá skala über Vyšný Kubín waren seit dem Äneolithikum besiedelt und wurden im Frühmittelalter von den Slawen genutzt.",
+  "keyFacts": [
+   {
+    "label": "Vyšný Kubín — Ostrá skala",
+    "value": "Die am meisten untersuchte Fundstelle der Arwa (812 m ü. M.), seit dem Äneolithikum besiedelt; Befestigung mit drei Höfen auf einer Fläche von 1,5–2 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Dolný Kubín — Veľký Bysterec-Trniny",
+    "value": "Höhenlage mit Funden karolingischer Beschläge; eine slawische Befestigung bislang nur auf theoretischer Ebene",
+    "icon": "shield"
+   },
+   {
+    "label": "Istebné — Hrádok",
+    "value": "Sporn über der Arwa, hallstattzeitliche Höhensiedlung, im Frühmittelalter erneut genutzt; ein Teil durch den Eisenbahnbau zerstört (1898)",
+    "icon": "building"
+   },
+   {
+    "label": "Oravský Podzámok — Hrad",
+    "value": "Höhensiedlung des 9. Jahrhunderts an der Stelle, an der seit dem 13. Jahrhundert die Arwaburg steht",
+    "icon": "crown"
+   },
+   {
+    "label": "Höhensiedlung in Dubová",
+    "value": "Hallstattzeitliche Höhensiedlung mit 6 m hohem Abschnittswall, steinerner Stützmauer, Wehrgang und Torturm mit Brücke",
+    "icon": "shield"
+   },
+   {
+    "label": "Arwaer Gruppe",
+    "value": "Lokale Gruppe des Lausitzer Kulturkomplexes mit eigener Keramik und eigenen Bronzen, in engem Kontakt mit dem benachbarten Polen",
+    "icon": "star"
+   },
+   {
+    "label": "Quelle",
+    "value": "Der Text schöpft überwiegend aus: Drahoslav Hulínek, Michal Čajka — Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "750–300 v. Chr.",
+    "title": "Die Arwaer Gruppe des Lausitzer Kulturkomplexes",
+    "description": "Eine lokale Gruppe, die das nördliche Einzugsgebiet der Waag, der Arwa und der Turz besiedelte; relevant belegt ab 550 v. Chr. (Ha D2), mit einem dichten Netz von Höhensiedlungen und Siedlungen.",
+    "type": "founding"
+   },
+   {
+    "year": "700–400 v. Chr. (Hallstattzeit)",
+    "title": "System befestigter Höhensiedlungen",
+    "description": "Befestigte Siedlungen in Tvrdošín, Podbiel, Istebné, Vyšný Kubín (Tupá und Ostrá skala), Žaškov, Jasenica, Mezibrodie, Oravský Podzámok und Sedliacka Dubová — untereinander in Sichtverbindung, mit Rauchsignalen.",
+    "type": "construction"
+   },
+   {
+    "year": "3.–2. Jahrhundert v. Chr.",
+    "title": "Untergang der Höhensiedlung in Dubová",
+    "description": "Ein Brand zerstörte in der Mittellatènezeit sowohl die kleine Höhenburg als auch das Suburbium; ein gleichzeitiger Untergang mit der Anlage in Istebné wird angenommen, beide wurden wahrscheinlich erobert und verbrannt.",
+    "type": "destruction"
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Slawische Besiedlung der Ostrá skala",
+    "description": "Kulturschicht, ein eingetieftes Wohnhaus mit Ofen und weitere Siedlungsbefunde mit Feuerstellen auf der Ostrá skala über Vyšný Kubín; das slawische Befestigungssystem nutzte die älteren latènezeitlichen Wälle.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Besiedlung an der Stelle der Arwaburg",
+    "description": "Fragmente slawischer Keramik und eiserne Schmelzklumpen, die bei der Rekonstruktion des Haupthofs der heutigen Arwaburg entdeckt wurden.",
+    "type": "event"
+   },
+   {
+    "year": "zweite Hälfte des 9. – 10. Jahrhundert",
+    "title": "Kontinuität der Besiedlung der Ostrá skala",
+    "description": "Nachgewiesene Kontinuität zwischen den beiden Hauptzeithorizonten der Nutzung der Fundstelle, wenn auch mit geringerer Intensität.",
+    "type": "event"
+   },
+   {
+    "year": "10. – 12./13. Jahrhundert",
+    "title": "Jüngere Besiedlung der Ostrá skala",
+    "description": "Behausungen in Blockbauweise; der Burgwall in Vyšný Kubín bestand bis ins 12. Jahrhundert fort, wahrscheinlich auch in den Anfängen des ungarischen Staates als Verwaltungssitz.",
+    "type": "event"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Eingliederung der Arwa in den ungarischen Staat",
+    "description": "Die Arwa wurde Teil des frühfeudalen ungarischen Staates; die Arwaburg existierte zu dieser Zeit noch nicht.",
+    "type": "event"
+   },
+   {
+    "year": "1898",
+    "title": "Beschädigung des Hrádok in Istebné",
+    "description": "Der Bau der Eisenbahn zerstörte unwiederbringlich einen großen Teil der Fläche der Burganlage.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6368,
+    "alt": "Der Felsen Ostrá skala über der Vorgebirgslandschaft"
+   },
+   {
+    "mediaId": 2932,
+    "caption": "Tupá skala und Ostrá skala (Autor Tomáš Demian)",
+    "alt": "Tupá skala und Ostrá skala (Autor Tomáš Demian)"
+   },
+   {
+    "mediaId": 2937,
+    "caption": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič).",
+    "alt": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič)."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Vyšný Kubín – Ostrá skala"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der am meisten untersuchten Fundstellen der Arwa (Orava) – "
+       },
+       {
+        "type": "link",
+        "url": "/blog/vysny-kubin-ostra-skala",
+        "children": [
+         {
+          "type": "text",
+          "text": "Ostrá skala über Vyšný Kubín"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " – war seit dem Äneolithikum (Kupferzeit) besiedelt. Die günstige Lage bestimmte sie zum Bau einer urgeschichtlichen befestigten Siedlung. Nach baulichen Umgestaltungen wurde diese Lage im Frühmittelalter ein zweites Mal genutzt. Die Ostrá skala wurde mit Unterbrechungen vom Beginn der sechziger bis zum Ende der siebziger Jahre des 20. Jahrhunderts archäologisch untersucht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Vyšný Kubín (mit einer Höhe von 525 m im Ortszentrum, 490–1612 m in der Gemarkung) liegt südöstlich von Dolný Kubín am nordwestlichen Hang der Chočské vrchy im Tal des Baches Leštiny. Die Lage Ostrá skala (812 m ü. M.) befindet sich auf einer felsigen Formation nördlich der Gemeinde. In der frühmittelalterlichen Zeit hatte die Besiedlung ihren Schwerpunkt in zwei Horizonten. Von der Wende vom 8. zum 9. Jahrhundert stammen eine Kulturschicht, ein eingetieftes Wohnhaus mit einem Ofen und weitere Siedlungsbefunde mit Feuerstellen. Unter den Funden sind drei Sporen, Sensen, Eimerbeschläge, Messer, Äxte, Schermesser und Waffen zu erwähnen. Aus der jüngeren Periode, die zeitlich in das 10. Jahrhundert bis an die Wende vom 12. zum 13. Jahrhundert eingeordnet wird, wurden im Grundriss Behausungen in Blockbauweise erkannt (verkohlte Reste hölzerner Balken). Die befestigte Siedlung erfüllte wahrscheinlich im ersten Zeithorizont eine zentrale Verwaltungsfunktion in der Region. Auf der Grundlage der langfristigen Neubewertung der Befundsituation (Eisengegenstände – Waffen, Pferdegeschirr) ist die Kontinuität der Besiedlung von der zweiten Hälfte des 9. bis in das 10. Jahrhundert inzwischen nachgewiesen. Es handelte sich um die Zeit zwischen den beiden wichtigsten Wendepunkten der frühmittelalterlichen Nutzung dieser Fundstelle. Sie erreicht jedoch nicht dieselbe Intensität wie in den beiden dominierenden Zeitabschnitten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das slawische Befestigungssystem am Ende des 8. und im 9. Jahrhundert nutzte die Reste der Befestigungen aus den vorangehenden Perioden. Ebenso wurde an die ältere Gestaltung des Innenraums des Burgwalls angeknüpft, als die befestigte Siedlung durch eine Palisadeneinfassung in drei Höfe mit einer Fläche von etwa 1,5–2 ha geteilt wurde. Der Wall, dessen Grundriss die Form eines unsymmetrischen Hufeisens hat, schützte die höchstgelegene Siedlungsfläche von 2500 m². Der Wall hat seinen Ursprung in der Latènezeit, wobei die Slawen ihn aufhöhten und eine hölzerne Einfassung in ihn einsetzten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall waren wahrscheinlich auch die Organe der regionalen Verwaltung konzentriert. Die Arwa wurde erst irgendwann im 11. Jahrhundert in den frühfeudalen ungarischen Staat eingegliedert. Da der Burgwall in Vyšný Kubín bis ins 12. Jahrhundert fortbestand, nehmen wir an, dass er in gewisser Form auch in den Anfängen des ungarischen Staates als Verwaltungssitz fortbestand, da die Arwaburg noch nicht existierte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Tupá skala und Ostrá skala (Autor Tomáš Demian)",
+    "alt": "Tupá skala und Ostrá skala (Autor Tomáš Demian)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Dolný Kubín – Veľký Bysterec-Trniny"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Höhenlage, die ursprünglich im Äneolithikum, in der Latènezeit und in der älteren römischen Kaiserzeit besiedelt war. Aufgrund einiger Funde wird angenommen, dass diese Lage auch im Frühmittelalter genutzt wurde. Vor allem wegen der Funde von Gold- und Silbermünzen wurde die Fundstelle bereits ab der ersten Hälfte des 19. Jahrhunderts von vielen Laienforschern sowie von Einheimischen intensiv durchgraben. Eine kurze Sondagegrabung unter der Leitung von P. Čaplovič führte das Oravské-Museum in den Jahren 1957 und 1958 durch. An diese Ausgrabung knüpften weitere Forschungsarbeiten an der Fundstelle an, die Ende der siebziger und in den achtziger Jahren des 20. Jahrhunderts stattfanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Stadtteil des Zentrums der unteren Arwa, also von Dolný Kubín, ist Veľký Bysterec (mit einer Höhe von 470 m im Ortszentrum, 465–650 m in der Gemarkung). Es liegt im südwestlichen Teil der Oravská vrchovina. Die Fundstelle erstreckt sich nordwestlich des Stadtzentrums auf der Höhenlage Trniny. Ob hier eine slawische befestigte Siedlung bestand, lässt sich nach Hulínek bislang nur auf theoretischer Ebene erwägen. Geschlossen wird darauf aufgrund zweier älterer Funde von den Trniny (schon im vorvorigen Jahrhundert bekannt), und zwar dreiteiliger Beschläge karolingischen Typs. Von der Fundstelle stammen auch weitere Funde (ein eisernes Messerchen bzw. ein Schermesser), die in die Zeit des Frühmittelalters datiert werden. Die genannten Funde müssen jedoch kein eindeutiger Beleg für die Existenz einer befestigten Lage sein, deren Anfänge bereits an das Ende des 8. Jahrhunderts datiert würden. Ausgeschlossen werden aber auch frühmittelalterliche bauliche Eingriffe in eine Befestigung nicht, die ursprünglich aus der Zeit der Púchov-Kultur stammt. Diese Ansicht vertreten mehrere Archäologen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Istebné – Hrádok"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Hrádok in Istebné bildet ein natürlich geschützter Sporn über der Arwa, der bereits in der Urgeschichte besiedelt war. In der Hallstattzeit erstreckte sich hier eine befestigte Siedlung. Im Frühmittelalter wurde die Fläche des Hrádok erneut besiedelt. Der Hrádok litt stark unter dem Bau der Eisenbahn im Jahr 1898, als ein großer Teil der Fläche der Burganlage unwiederbringlich zerstört wurde. An den unbeschädigten Stellen der Fundstelle fanden Ende der fünfziger und in der zweiten Hälfte der sechziger Jahre des 20. Jahrhunderts Forschungsarbeiten statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die in der unteren Arwa gelegene Gemeinde Istebné (mit einer Höhe von 500 m im Ortszentrum, 455–1224 m in der Gemarkung) liegt am Zusammentreffen der Ausläufer der Kleinen Fatra und der Oravská vrchovina (Pramene II 1992, 18, 19). Die Höhenlage Hrádok, aus der vor allem Keramikfunde des 8.–9. und des 10.–12. Jahrhunderts gewonnen wurden, befindet sich südlich der Gemeinde. Die slawische Bevölkerung nutzte hier die vorangehende hallstattzeitliche befestigte Höhensiedlung. Auf der Zerstörungsschicht des älteren hallstattzeitlichen Walls setzte man im Frühmittelalter eine slawische Palisade."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Oravský Podzámok – Hrad"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die dominante Naturformation, auf der seit dem 13. Jahrhundert die Arwaburg (Oravský hrad) steht, war samt ihrer nahen Umgebung bereits in der Urgeschichte besiedelt. Aus ihrer Umgebung stammen Funde aus der Hallstattzeit und aus der Zeit der Púchov-Kultur. Im Frühmittelalter befand sich an dieser Lage wahrscheinlich eine Höhensiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Oravský Podzámok (mit einer Höhe von 520 m im Ortszentrum, 495–1224 m in der Gemarkung) erstreckt sich nördlich von Dolný Kubín in der Oravská vrchovina und gleichzeitig an den Südhängen der Oravská Magura. Die Siedlung des 9. Jahrhunderts befindet sich auf der Fläche (einer Höhenlage), auf der heute die ursprünglich mittelalterliche Burg steht. Im Haupthof wurden bei der Generalrekonstruktion der Burg Fragmente slawischer Keramik entdeckt, mit größter Wahrscheinlichkeit aus dem 9. Jahrhundert. Zum gleichen Zeithorizont können auch eiserne Schmelzklumpen gehören, die ebenfalls bei der Renovierung im Haupthof gefunden wurden. Bei dieser Höhenlage können wir wegen ihrer günstigen, strategischen natürlichen Gegebenheiten auch für die frühmittelalterliche Zeit eine befestigte Siedlung erwägen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Arwaer Gruppe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Arwaer Gruppe bzw. der Arwaer Typ war eine lokale Gruppe des Lausitzer Kulturkomplexes im nördlichen Einzugsgebiet der Waag, der Arwa und der Turz von etwa 750 v. Chr. bis 300 v. Chr. (sie blühte und ist relevant belegt allerdings erst ab 550 v. Chr., also ab Ha D2)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach 550 v. Chr. war das Gebiet der Arwaer Gruppe dicht besiedelt, was ein dichtes Netz befestigter Höhensiedlungen und einfacher Siedlungen sowie Gräberfelder mit einer großen Zahl von Gräbern belegen. Die bedeutendsten befestigten Höhensiedlungen der Arwaer Gruppe waren die Tupá skala (über Vyšný Kubín) und Istebné – Hrádok. Die Höhensiedlungen wurden bereits auch unter Verwendung von Stein errichtet, man lebte von Handwerk und Schafhaltung, und sie zeigen Anzeichen einer inneren Urbanisierung. Die Arwaer Gruppe ist durch eine eigene Keramik gekennzeichnet (die Verzierung bilden Rillen, es überwiegen amphorenartige und bauchige Gefäße sowie S-förmig geschwungene Tassen), durch eigene Bronzen (Diademe und Halsringe aus einem massiven tordierten oder glatten Stäbchen, die in Rosetten endeten, prunkvolle Nadeln usw.) und durch Veränderungen im Grabritus (mehr urnenlose Brandgräber, bei denen die Leichenbrandreste in einer Grube niedergelegt oder mit einer Sandsteinplatte abgedeckt waren). Fundstellen von Brandgräberfeldern sind z. B. Dolný Kubín, Vyšný Kubín, Oravský Podzámok. Die Arwaer Gruppe stand in engem Kontakt mit dem benachbarten Gebiet des heutigen Polens, was die Gestalt der befestigten Höhensiedlungen beweist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Hallstattzeitliche befestigte Höhensiedlung in Dubová ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hallstattzeit, wie wir die ältere Eisenzeit nennen, ist der Abschnitt der Urgeschichte von 700 bis 400 Jahren vor Christus. Zu dieser Zeit war die Besiedlung der Arwa relativ dicht. Archäologisch nachgewiesen sind befestigte Siedlungen zum Beispiel in Tvrdošín, Podbiel, Istebné – Hrádok, Vyšný Kubín – Tupá und Ostrá skala, Žaškov – Hrádok, Jasenica – Hrdoš, Mezibrodie, Oravský Podzámok, Sedliacka Dubová – Žiar, und ebenso Urnengräber und unbefestigte Siedlungen. Alle befestigten Siedlungen haben den Charakter einer Höhensiedlung, d. h. sie sind auf einem Hügel errichtet, wobei sie an solchen Stellen angelegt wurden, dass man von einer Anlage zur anderen sehen konnte. Das so aufgebaute Verteidigungssystem mit der Nutzung von Rauchsignalen bildete ein starkes Verteidigungsganzes des örtlichen Fürstentums. Die Täler der Arwa und ihrer Seitenzuflüsse boten landwirtschaftlichen Boden, vor allem aber günstige Übergänge, und ermöglichten die Verkehrsverbindung mit den Haupthandelswegen, die durch die Arwa und die Liptau führten. Die Bedeutung dieser Wege spiegelt sich in den Hortfunden von Bronzen aus Komjatná, Žaškov, Osádka, Pucov, Istebné – Hrádok, Nižná und Krásna Hôrka. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in der Arwa"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hrádok in Dubová ist also kein isoliertes Objekt. Er lag auf dem Scheitel eines Hügels, der sich deutlich in das Tal der Arwa einschneidet, durch das ein alter Handelsweg führte. Die heutigen Reste des befestigten Areals der kleinen Kirche von Dubová stützen sich unmittelbar auf den mächtigen Wall der hallstattzeitlichen Höhensiedlung. Nach der bisherigen Forschung handelte es sich um eine Anlage mit überwiegend festungsartigen Zügen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Dominante der Festung war ein etwa 6 m hoher Abschnittswall, der den Burgberg auf der Nordseite vom übrigen Kamm (dem Hals) trennte. Die Grundlage des Walls bildete eine Rost-Kasten-Konstruktion aus Rundholz, die mit rot gebranntem Lehm gefüllt war. Die Außenseite des Walls war mit einer steinernen Stützmauer versehen, die seine Verteidigungsfähigkeit erhöhte. Sein hinterer Teil fiel leicht zum Hof hin ab. Am höchsten Punkt des Walls befand sich wahrscheinlich ein hölzernes Wachhaus – ein Wachposten –, von dem die Burgwache den besten Überblick über den Zugangsweg und die gesamte Umgebung hatte. Der Abschnittswall aus Erde wirkte als Ganzes wie eine mächtige Bastei, die ein Schlüsselelement in der Befestigung der hallstattzeitlichen Höhensiedlung war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar. (nach P. Čaplovič)",
+    "alt": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar. (nach P. Čaplovič)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die übrige Befestigung war durch einen hölzernen, 4 Meter breiten Wehrgang gesichert, der auf einer 1 Meter hohen steinernen Aufmauerung errichtet war. Der Gang war wahrscheinlich außen mit Sandsteinen verkleidet und von einem Holzdach bedeckt. Die am leichtesten zugänglichen Stellen der Befestigung waren durch einen 2 Meter tiefen Spitzgraben gesichert. Der Eingang in das Areal der Festung war durch einen Torturm und eine Brücke über den Graben gesichert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie ich bereits angeführt habe, hatte die Höhensiedlung vor allem einen militärischen Zweck, daher dienten die Behausungen hauptsächlich als Unterkünfte für die Soldaten und den Hauptmann der Festung. Die Gebäude im Hof wurden mindestens 9 Meter vom Wehrgang entfernt errichtet; von ihnen fanden sich an den ursprünglichen Stellen Scherben und Lehmbewurf. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unterhalb des Burgbergs lag eine Siedlung, in der das wirtschaftliche Hauptleben der umliegenden Bevölkerung stattfand. Das Suburbium befand sich an der Stelle der heutigen Gemeinde Sedliacka Dubová, an der Straße, die vom Gemeindeamt zum Friedhof führt, wo die Fundamente mehrerer hallstattzeitlicher Gehöfte und Scherben hallstattzeitlichen Charakters aufgedeckt wurden, aber auch schon verstärkte Ränder kammstrichverzierter, bereits graphithaltiger Gefäße der älteren Latènezeit auftraten. Die hallstattzeitlichen Häuser waren stufenförmig in Reihen am Hang des Žiar errichtet, weil die Arwa damals noch das Tal überschwemmen konnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Geschichte des Hrádok von Dubová wissen wir sehr wenig; wir können nur seinen Untergang in die Mittellatènezeit im 3. bis 2. Jahrhundert vor Christus datieren. Die Ursache des Untergangs war ein Brand, der sowohl die kleine Höhenburg als auch das Suburbium verbrannte. Es wird angenommen, dass er zusammen mit der Höhensiedlung in Istebné unterging. Wahrscheinlich wurden beide Anlagen erobert und verbrannt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Thema der slawischen Burgwälle in der Arwa ist ausführlich in dem umfangreichen Aufsatz von Drahoslav Hulínek und Michal Čajka behandelt: Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004. Den größten Teil des Textes habe ich gerade aus diesem Aufsatz geschöpft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

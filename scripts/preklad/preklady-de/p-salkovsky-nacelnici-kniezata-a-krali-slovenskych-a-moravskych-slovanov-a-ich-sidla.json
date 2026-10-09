@@ -1,0 +1,992 @@
+{
+ "slug": "p-salkovsky-nacelnici-kniezata-a-krali-slovenskych-a-moravskych-slovanov-a-ich-sidla",
+ "data": {
+  "title": "P. Šalkovský: Häuptlinge, Fürsten und Könige der Slawen in Mähren und im Gebiet der heutigen Slowakei und ihre Sitze",
+  "slug": "fuersten-der-slawen-in-maehren-und-der-slowakei-und-ihre-sitze",
+  "excerpt": "Von der slawischen „Expansion“ bis zum Untergang Großmährens: Peter Šalkovský fragt, wer die Slawen in Mähren und im Gebiet der heutigen Slowakei anführte – von Samo, der im Jahr 623 zum Anführer eines Stammesverbandes gewählt wurde, über Pribina, den ersten schriftlich belegten Fürsten, bis zu den Mojmiriden – und beschreibt ihre Sitze: Mikulčice, Staré Město und Nitra.",
+  "metaTitle": "Šalkovský: Fürsten der Slawen in Mähren und der Slowakei",
+  "metaDescription": "Peter Šalkovský über Häuptlinge, Fürsten und Könige der Slawen in Mähren und im Gebiet der heutigen Slowakei und über ihre Burgen und Sitze.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "PhDr. Peter Šalkovský, DrSc., Archäologisches Institut der Slowakischen Akademie der Wissenschaften in Nitra",
+    "icon": "users"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "5.–10. Jahrhundert (von der slawischen Wanderung bis zum Untergang Großmährens)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Wichtigste Machtzentren",
+    "value": "Mikulčice, Staré Město, Nitra",
+    "icon": "building"
+   },
+   {
+    "label": "Erster schriftlich belegter Fürst",
+    "value": "Pribina (um 800 – 861), Fürst des Fürstentums Neutra",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "623",
+    "title": "Samo wird Anführer des Stammesverbandes",
+    "description": "Der fränkische Kaufmann Samo wurde Anführer des Stammesverbandes, der von der Geschichtsschreibung später Reich des Samo genannt wurde.",
+    "type": "event"
+   },
+   {
+    "year": "631/632",
+    "title": "Schlacht bei Wogastisburg",
+    "description": "Die älteste schriftliche Aufzeichnung in der Fredegar-Chronik verzeichnet eine militärische Auseinandersetzung mit den Franken bei einem befestigten Ort namens Wogastisburg im Gebiet des Reiches des Samo.",
+    "type": "event"
+   },
+   {
+    "year": "658/659",
+    "title": "Tod Samos und Zerfall seines Reiches",
+    "description": "Nach dem Tod Samos zerfiel sein überstämmliches Gebilde; obwohl Samo 22 Söhne gehabt haben soll, konnte keiner von ihnen die nötige Autorität der Stämme gewinnen.",
+    "type": "event"
+   },
+   {
+    "year": "825–833",
+    "title": "Pribina als Fürst des Fürstentums Neutra",
+    "description": "Pribina war Fürst des selbstständigen Fürstentums Neutra mit Sitz in Nitra (Nitrava).",
+    "type": "event"
+   },
+   {
+    "year": "833",
+    "title": "Mojmír I. schließt das Fürstentum Neutra an",
+    "description": "Mojmír I. zwang Pribina zur Flucht aus Nitra und wurde durch den Anschluss des Fürstentums Neutra zum großmährischen Herrscher; es entstand das Gebilde, das später Großmähren genannt wurde.",
+    "type": "event"
+   },
+   {
+    "year": "etwa ab 840",
+    "title": "Pribina erhält das Pannonische Fürstentum",
+    "description": "Pribina erhielt vom ostfränkischen Herrscher Ludwig dem Deutschen das Gebiet, das Pannonisches Fürstentum genannt wird, zur Verwaltung und später in lebenslangen Besitz, wo er die Kolonisation und die Christianisierung in Gang setzte.",
+    "type": "event"
+   },
+   {
+    "year": "846",
+    "title": "Ludwig der Deutsche setzt Mojmír I. ab",
+    "description": "Ludwig der Deutsche setzte Mojmír I. ab und setzte an seiner Stelle dessen Neffen Rastislav ein.",
+    "type": "event"
+   },
+   {
+    "year": "863",
+    "title": "Ankunft Konstantins und Methods",
+    "description": "Rastislav und Svatopluk beriefen die byzantinischen Gelehrten Konstantin und Method nach Großmähren; Konstantin schuf für die Bedürfnisse der slawischen Sprache die Glagoliza.",
+    "type": "event"
+   },
+   {
+    "year": "870",
+    "title": "Ende der Herrschaft des Fürsten Rastislav",
+    "description": "Die Herrschaft Rastislavs, die seit dem Jahr 846 gedauert hatte, endete.",
+    "type": "event"
+   },
+   {
+    "year": "876",
+    "title": "Tod des Fürsten Kocel",
+    "description": "Kocel, der Sohn Pribinas und sein Nachfolger im Pannonischen Fürstentum, starb.",
+    "type": "event"
+   },
+   {
+    "year": "880",
+    "title": "Erstes Bistum im Gebiet der heutigen Slowakei",
+    "description": "Spätestens ab dem Jahr 880 war Nitra Sitz des ersten Bistums im Gebiet der heutigen Slowakei, an dessen Spitze Wiching stand.",
+    "type": "event"
+   },
+   {
+    "year": "894",
+    "title": "Tod des Königs Svatopluk",
+    "description": "Die Herrschaft Svatopluks, der nach Rastislav großmährischer Herrscher wurde, endete mit seinem Tod.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4256,
+    "caption": "Abb. 1. König Samo in der ältesten Darstellung aus der Rotunde in Znojmo irgendwann vom Beginn des 12. Jahrhunderts und die moderne bildhauerische Vorstellung Samos auf dem Berg Náklo bei der Gemeinde Ritíškovice im Kreis Hodonín.",
+    "alt": "Abb. 1. König Samo in der ältesten Darstellung aus der Rotunde in Znojmo vom Beginn des 12. Jahrhunderts und die moderne bildhauerische Vorstellung Samos auf dem Berg Náklo bei Ritíškovice im Kreis Hodonín."
+   },
+   {
+    "mediaId": 4257,
+    "caption": "Abb. 2. Statue des Fürsten Pribina im Areal seiner Burg in Nitra.",
+    "alt": "Abb. 2. Statue des Fürsten Pribina im Areal seiner Burg in Nitra."
+   },
+   {
+    "mediaId": 4258,
+    "caption": "Abb. 3. Statue Kocels im Parlament Serbiens in Belgrad als Ausdruck des Dankes für seine Rolle bei der Entstehung der serbischen Schriftkultur.",
+    "alt": "Abb. 3. Statue Kocels im Parlament Serbiens in Belgrad als Ausdruck des Dankes für seine Rolle bei der Entstehung der serbischen Schriftkultur."
+   },
+   {
+    "mediaId": 4473,
+    "caption": "Abb. 4. Porträt Mojmírs I. auf der slowakischen 5000-Kronen-Banknote von 1944 und Mojmír II. auf einer Anlagemünze von 2006.",
+    "alt": "Abb. 4. Porträt Mojmírs I. auf der slowakischen 5000-Kronen-Banknote von 1944 und Mojmír II. auf einer Anlagemünze von 2006."
+   },
+   {
+    "mediaId": 4474,
+    "caption": "Abb. 5. Rastislav, großmährischer Fürst – Goldene Sammlermünze im Nennwert von 100 Euro, geprägt im Jahr 2014.",
+    "alt": "Abb. 5. Rastislav, großmährischer Fürst – Goldene Sammlermünze im Nennwert von 100 Euro, geprägt im Jahr 2014."
+   },
+   {
+    "mediaId": 4475,
+    "caption": "Abb. 6. Svatopluk I. am Hof Arnulfs – in der Dalimil-Chronik aus dem 14. Jahrhundert und die Reiterstatue des Königs Svatopluk auf der Burg in Bratislava.",
+    "alt": "Abb. 6. Svatopluk I. am Hof Arnulfs – in der Dalimil-Chronik aus dem 14. Jahrhundert und die Reiterstatue des Königs Svatopluk auf der Burg in Bratislava."
+   },
+   {
+    "mediaId": 4476,
+    "caption": "Abb. 7. Die wichtigsten Burgen in den Kernen Großmährens.",
+    "alt": "Abb. 7. Die wichtigsten Burgen in den Kernen Großmährens."
+   },
+   {
+    "mediaId": 4477,
+    "caption": "Abb. 8. Die zentrale Burg Mikulčice mit den einzelnen Vorburgen, Siedlungsarealen und freigelegten Sakralbauten",
+    "alt": "Abb. 8. Die zentrale Burg Mikulčice mit den einzelnen Vorburgen, Siedlungsarealen und freigelegten Sakralbauten"
+   },
+   {
+    "mediaId": 4478,
+    "caption": "Abb. 9. Die Siedlungsagglomeration Uherské Hradiště – Staré Město mit den einzelnen Siedlungsarealen und Sakralbauten.",
+    "alt": "Abb. 9. Die Siedlungsagglomeration Uherské Hradiště – Staré Město mit den einzelnen Siedlungsarealen und Sakralbauten."
+   },
+   {
+    "mediaId": 4479,
+    "caption": "Abb. 10. Nitra. Die Burg mit dem Suburbium und den einzelnen Siedlungskomponenten – Siedlungen, Sakralbauten und Gräberfeldern.",
+    "alt": "Abb. 10. Nitra. Die Burg mit dem Suburbium und den einzelnen Siedlungskomponenten – Siedlungen, Sakralbauten und Gräberfeldern."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Migrationen der slawischen Stämme nach Westen, die Einnahme neuer Heimaten, auch slawische „Expansion“ genannt, waren etappenweise Verlagerungen einzelner Stämme und ihrer Teile in neue Gebiete, deren Besitznahme und Kolonisation. Sie dauerten von der zweiten Hälfte des 5. Jahrhunderts das ganze 6. Jahrhundert und setzten sich in manchen Zonen auch im 7.–8. Jahrhundert fort. Die Umsiedlung verlief in mehreren Wellen, in verschiedenen Richtungen und mit unterschiedlicher Intensität. Sehr wahrscheinlich wurden diese Umsiedlungen, die Dimensionen von auch mehreren hundert Kilometern erreichten, unter der Führung von Stammeshäuptlingen oder von Einzelpersonen verwirklicht, die die Autorität der Mehrheit genossen, ähnlich wie es auch bei den germanischen Stämmen oder deren abgespaltenen Segmenten in der ersten Hälfte des 1. Jahrtausends war. Auch wenn man dies sicher nicht völlig vergleichen kann, denn im Unterschied zu den überwiegend bäuerlichen slawischen Gemeinschaften hatten die Germanen eine erheblich stärker militarisierte Struktur der Gesellschaft. Die Verlagerungen größerer Bevölkerungsgruppen erforderten sicher eine gewisse „logistische“ Vorbereitung – die Zusammenstellung der notwendigsten Materialien, des Mobiliars, der Geräte, der Nahrungsvorräte, die Wahl des Ziels und der Zeit der Wanderung, der Route sowie die Organisation der Verlagerung einschließlich der Überwindung natürlicher Hindernisse, seien es Flüsse, Sümpfe, Wälder oder Gebirge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hauptströme der slawischen Wanderung richteten sich nach Südwesten zur unteren Donau, zu den Randprovinzen von Byzanz. Aus der zweiten Hälfte des 6. Jahrhunderts kennen wir aus den Schriftquellen einige Namen ihrer Stammeshäuptlinge, Heerführer oder Herrscher (rex Daurentius – Dauritas /Dobreta?/; Medzamir, der Sohn des Idaridzios und Bruder des Kelagast; die Führer Pirogastos und Ardagast; rega – rex Musocius /Mužok?/). Mehrere Gemeinschaften aus dem Kern der slawischen Urheimat, aus den Gebieten der heutigen Ukraine und von Belarus, begannen irgendwann in der zweiten Hälfte des 5. Jahrhunderts auch nach Westen umzusiedeln und besiedelten zunächst das Einzugsgebiet der oberen Weichsel. Bald danach, nach dem Jahr 470 – nach der Zerschlagung des Suebenreiches im nordwestlichen Teil des Karpatenbeckens durch die Ostgoten –, zogen Teile von ihnen über die Pässe der Westkarpaten in das Gebiet der heutigen Slowakei ab oder verlagerten sich weiter über die polnischen Niederungen nach Westen. Sicherlich setzte sich der Zustrom der Besiedlung in der ersten Hälfte des 6. Jahrhunderts intensiver fort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In das mittlere Marchgebiet gelangten die ersten Gruppen der Slawen in der zweiten Hälfte des 6. Jahrhunderts, aus dem mittleren Waagtal über die Weißen Karpaten. Die Gebiete an der mittleren Donau – besonders die Slowakei und Mähren – waren also nicht nur von verwandten Gruppen frühslawischer Bevölkerung mit der Prager Kultur besiedelt, sondern hatten auch in den folgenden Jahrhunderten (7.–8.) eine ähnliche Entwicklung in enger Nachbarschaft und unter starkem Einfluss des Awarenkhaganats. Eine Schicht örtlicher Häuptlingseliten lässt sich hier mit Sicherheit spätestens im Zusammenhang mit der Entstehung des Reiches des Samo, mit seinen Konflikten mit dem Frankenreich und dem Awarenkhaganat voraussetzen. Darauf deutet auch die älteste schriftliche Aufzeichnung in der Fredegar-Chronik über eine militärische Auseinandersetzung mit den Franken irgendwann im Jahr 631/632 im Gebiet des Reiches des Samo bei einem befestigten Ort namens Wogastisburg hin. Die Entstehung solcher Befestigungen – mochten es auch nur zeitweilige, „ad hoc“ für die kurzfristige Verteidigung errichtete Holz-Erde-Befestigungen als Sammelplätze der Heere in Kriegszeiten gewesen sein – erforderte bereits eine gewisse höhere Form gesellschaftlicher Organisation, die die Konzentration von Kräften und Materialien (Holz, Erde, Steine) für ihren Bau ermöglichte. Also auch ihrer zumindest zeitweiligen Verwalter, Befehlshaber. In Friedenszeiten waren sie wohl verlassen oder dienten nur dem Schutz von Kaufmannskarawanen oder als Kultplätze, aber noch nicht als dauerhaft besiedelte Zentren der Stämme und Sitze der Stammesnobilität. Diese saßen wahrscheinlich in offenen Siedlungen. Der erste und einzige namentlich erwähnte Anführer, unter dessen Verwaltung offenbar auch die Südwestslowakei und Südmähren gehörten, war Samo (* um 600 – † 658/659), ein Kaufmann aus dem Frankenreich. Samo wurde im Jahr 623 zum Anführer des Stammesverbandes, der von der Geschichtsschreibung als Reich des Samo bezeichnet wird. Er kam in Begleitung weiterer fränkischer Kaufleute. Die damaligen Kaufmannsexpeditionen mussten aus militärisch tüchtigen Personen zusammengesetzt bzw. von einer bewaffneten Gefolgschaft begleitet sein, denn sie wurden nicht selten zum Ziel von Raubüberfällen der Bevölkerung der Landschaften, die sie durchzogen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1. König Samo in der ältesten Darstellung aus der Rotunde in Znojmo irgendwann vom Beginn des 12. Jahrhunderts und die moderne bildhauerische Vorstellung Samos auf dem Berg Náklo bei der Gemeinde Ritíškovice im Kreis Hodonín.",
+    "alt": "Abb. 1. König Samo in der ältesten Darstellung aus der Rotunde in Znojmo vom Beginn des 12. Jahrhunderts und die moderne bildhauerische Vorstellung Samos auf dem Berg Náklo bei Ritíškovice im Kreis Hodonín.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen nördlich der Donau, ihre Repräsentanten, die örtlichen Stammeshäuptlinge und andere Vertreter der Sippen, also die Stammesversammlung, wählten ihn im Jahr 623 zum Anführer (es wird der Titel rex – König angeführt), nachdem er sich in den Kämpfen im Rahmen des slawischen Aufstands gegen die Awaren hervorgetan hatte. Die Namen dieser und anderer örtlicher Häuptlinge in Mähren und im Gebiet der heutigen Slowakei, die unter Mitwirkung oder sogar unter der Patronanz heidnischer Priester von der Stammesversammlung gewählt wurden, kennen wir leider nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über Samos späteres Leben gibt es keine verlässlichen historischen Quellen. Nach seinem Tod im Jahr 658 oder 659 zerfiel sein überstämmliches Gebilde. Obwohl Samo 22 Söhne gehabt haben soll, war wahrscheinlich keiner von ihnen fähig, seine Herrschaft fortzusetzen, bzw. konnte sich dafür nicht die nötige Autorität der Stämme gewinnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem 6.–7. Jahrhundert kennen wir bislang nur ausnahmsweise größere ebenerdige Bauten, die für Wohnbauten und Sitze slawischer Anführer gehalten werden könnten, und zwar aus dem unteren Donaugebiet. Es ist anzunehmen, dass vor allem in den unruhigen Zeiten der Migrationen, der Kriegszüge und in enger Nachbarschaft der Awaren noch nur selten Bedingungen für den Bau solider dauerhafter repräsentativer Sitze der Stammeshäuptlinge „palastartigen“ Typs geschaffen waren; eher ist an mehr oder weniger provisorische leichte Bauten als Versammlungs- und Verhandlungsräume für den Fürsten – Häuptling –, sein Gefolge und die Vertreter des Stammes zu denken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der bisherige Forschungsstand erlaubt die Annahme, dass sowohl freie Krieger, die einen gewissen höheren gesellschaftlichen Status erlangten, als auch andere einflussreichere Personen, jedoch ohne Häuptlingskompetenzen, die von der Gemeinschaft in Krisen- oder Kriegszeiten zeitweilig bevollmächtigt wurden, innerhalb der gewöhnlichen unbefestigten Siedlungen wohnen konnten. Ihre Wohnbauten könnten einige in den Siedlungen beobachtete Phänomene bzw. deren gemeinsames Auftreten anzeigen. Es handelt sich um deutlich größere Grundrissmaße des Wohnbaus, um die Ausstattung des Hauses, um die zentrale Lage des Hauses in der Siedlung, um die evidente Bindung mehrerer Wirtschaftsbefunde an das Haus sowie um das Vorkommen von Gegenständen „luxuriösen“ Charakters. Eine solche Interpretation unterstützt auch die Seltenheit größerer Grubenhäuser bei den Slawen allgemein – nur etwa 5 % der bekannten Grundrisse bilden Grubenhäuser mit einer Wohnfläche über 20 m². Auch im 8. Jahrhundert sind solche Häuser im Gebiet der heutigen Slowakei selten und wohl an das weiter entwickelte slawisch-awarische Milieu gebunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die Existenz örtlicher Eliten im Gebiet der heutigen Slowakei spätestens im Laufe des 8. Jahrhunderts haben wir nördlich des awarischen Gebietes in den Regionen des späteren Kerns Großmährens in Form der ersten Burgen. Heute werden sie meist hradisko, horodišče, grodzisko, gorodišče, Burgwall genannt, zur Unterscheidung von den späteren hochmittelalterlichen gemauerten Burgen. Ihre ursprüngliche Bezeichnung während der ganzen Zeit ihres Bestehens war in den slawischen Sprachen jedoch gord, grad, grod, gorod, im Deutschen Purch, Burg – wie zum Beispiel Veligrad, Königsburg, civitas Kesigesburch, Starigard/Oldenburg, Jaromarsburg, Wogastisburg, Mosapurc/Blatengrad, Lautenpurch, Lundenburg und ähnlich, oder auch als Namen früher ungarischer Zentren slawischer Herkunft wie Vissegrad, Nógrád, Crngrad. Aus verständlichen Gründen jedoch ohne die Namen ihrer Vorsteher. Es gab niemanden, der sie aufgezeichnet hätte: die mitteldanubischen Slawen hatten noch kein Schrifttum, und sie interessierten die fränkischen Politiker und deren Chronisten noch nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2. Statue des Fürsten Pribina im Areal seiner Burg in Nitra.",
+    "alt": "Abb. 2. Statue des Fürsten Pribina im Areal seiner Burg in Nitra.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dieser Zeit entstand eine „Burg“ einfacher Holz-Erde-Konstruktion mit Palisade in Uherské Hradiště und auch in Olomouc (Olmütz). In der zweiten Hälfte oder am Ende des 8. Jahrhunderts existierten, so scheint es, bereits auch Burgen in Mikulčice, Brno (Brünn)-Líšeň und vielleicht noch einige weitere. Mehrere Funde aus Svätý Jur (Sankt Georgen) deuten darauf hin, dass slawische Burgen sehr früh auch im Gebiet des Awarenkhaganats entstehen konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als an der Wende vom 8. zum 9. Jahrhundert das Awarenkhaganat unterging, von fränkischen Heeren und ihren slawischen Verbündeten zerschlagen, entstand im gesamten Karpatenbecken einschließlich des Drau-Save-Gebietes und des nördlichen Balkans eine günstige Situation für die Konzentration von Macht und Mehrprodukt in den Händen örtlicher slawischer Fürsten, für die Entstehung von Kriegergefolgschaften und für deren deutlichere soziale Absonderung aus dem Milieu der Dorfgemeinden. Die gleichzeitige Verschiebung der Grenzen des Frankenreiches bis nach Pannonien bzw. an das mittlere Donaugebiet bedeutete den Eintritt des Gebietes der heutigen Slowakei nicht nur in die Sphären des unmittelbaren Machtinteresses dieser Großmacht, sondern auch in deren weltliche und kirchliche Organisation. Das musste erheblichen Einfluss auf alle Lebensbereiche haben, vor allem auf die gesellschaftlichen Eliten als den Hauptrezeptor und Träger der wirtschaftlichen, gesellschaftlichen und kulturellen Veränderungen. Äußere bzw. archäologisch verfolgbare Erscheinungen dieser Veränderungen waren auch der Übergang zum christlichen Begräbnisritus, der Bau der ersten Kirchen und befestigter Sitze nach fränkischen Vorbildern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das bestätigen auch die schriftlichen Nachrichten über die Existenz mehrerer Fürsten (principes Sclavorum, dux, rex superbus) eigentlich fast im gesamten slawischen Gebiet. Besonders konkrete Informationen haben wir aber aus den Regionen der kroatischen, slowenischen, slawonischen und karantanischen Slawen (die Fürsten Vojnomir, Borna, Ljudevit u. a.), deren Macht sich auf das Heer, auf Burgen (castellis, munitionum tantum castelli) und auf die fürstliche Gefolgschaft stützte und deren materielle Kultur verwandten Habitus wir auf den ältesten Körpergräberfeldern und Burgen finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste schriftlich belegte bekannte Fürst der Slawen, die im Gebiet der heutigen Slowakei lebten, und der Vorfahren der Slowaken war Pribina (* um 800 – † 861). In den Jahren 825 bis 833 war er Fürst des selbstständigen Fürstentums Neutra mit Sitz in Nitra (Neutra, Nitrava)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Flucht aus Nitra, zu der er durch den militärischen Druck des mährischen Fürsten Mojmír I. gezwungen wurde, bewarb er sich einige Jahre abwechselnd um politische Unterstützung sowohl beim Markgrafen der fränkischen Awarischen und Karantanischen Mark als auch bei den bulgarischen und kroatischen (slawonischen) Fürsten. Schließlich erhielt er etwa ab dem Jahr 840 vom ostfränkischen Herrscher Ludwig dem Deutschen das Gebiet, das wir heute Pannonisches Fürstentum nennen, zur Verwaltung und später auch in lebenslangen Besitz. Hier setzte er eine umfangreiche Kolonisation und Christianisierung in Gang. Sein Nachfolger und eifriger Fortsetzer der Christianisierungsaktivitäten wurde sein Sohn Kocel (* ? – † 876). Er spielte eine bedeutende Rolle bei der Unterstützung des Christentums und bei seiner Verbreitung auch in slawischer Sprache durch einheimische Priester, worum sich auf seine Bitte die byzantinischen Glaubensboten Kyrill und Method verdient machten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Text der Chronik Conversio führt eine namentliche Liste bedeutender Leute an, die an der Weihe der ersten von Pribina in Transdanubien erbauten Kirche teilnahmen. Die Liste beginnt mit 14 slawischen Namen, die fast alle, außer drei, westslawisch sind: Chezil, Unzat, Chotemir, Liutemir, Zcurben, Siliz, Wlkina, Witemir, Trebiz, Brisnuz, Zuemir, Zeska, Crimisin, Goimer, Zistilo. Sie werden von den Historikern für Mitglieder der Gefolgschaft Pribinas gehalten, also für ihm ergebene Adlige, die gemeinsam mit Pribina aus Nitra flohen und im neuen Gebiet neue Besitzungen erhielten und Verwalter kleinerer Siedlungsareale, von Dörfern oder auch größerer Verwaltungseinheiten des Fürstentums von Mosaburg (Blatnohrad) wurden. Es folgt eine Liste von 15 rein deutschen Namen, offenbar von Vertretern der von Pribina eingeladenen, umgesiedelten bayerischen Geschlechter mit einem ähnlichen sozialen Status wie die oben genannten slawischen Vorsteher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 3. Statue Kocels im Parlament Serbiens in Belgrad als Ausdruck des Dankes für seine Rolle bei der Entstehung der serbischen Schriftkultur.",
+    "alt": "Abb. 3. Statue Kocels im Parlament Serbiens in Belgrad als Ausdruck des Dankes für seine Rolle bei der Entstehung der serbischen Schriftkultur.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hauptsitz Pribinas und Kocels und ihrer Höfe war Mosaburg/Blatnohrad (Mosapurc, Civitas Priwinae, castrum Chezilons), heute Zalavár, südwestlich des Balaton. Er bestand aus drei größeren, durch Befestigungen getrennten Teilen: aus der befestigten Fürstenburg mit zentral gelegenem Herrschafts- und Kirchenteil, in dem sich auch eine Kirche und ein Kloster befanden, und aus dem Wohnviertel, der Vorburg. Obwohl er territorial und verwaltungsmäßig den größten Teil seines Bestehens zum Ostfränkischen Reich gehörte, war er nicht nur formal und konstruktiv, sondern auch im funktionalen Sinne eigentlich mehr eine slawische als eine ostfränkische Burg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im mittleren Donaugebiet werden in den zeitgenössischen schriftlichen Nachrichten zu Beginn des 9. Jahrhunderts zweierlei Mährer oder allgemein Slawen ohne Namen der Fürsten angeführt. Die Vereinigung der Stämme verlief hier offenbar schon im 8. Jahrhundert, denn auf der Reichsversammlung des Frankenreiches wurden ihre Vertreter im Jahr 822 nur als Mährer bezeichnet (Marahoni, Merehani, Moravi …). Für ihre Vertreter kennen wir keinen Begriff, der sie rechtlich genau spezifiziert hätte. Die von den fränkischen Quellen verwendeten Begriffe (primates, optimates, princeps, duces, regulus, rex usw.) beziehen sich auf die gesellschaftlich progressivere Gesellschaft des Frankenreiches bzw. der Ostmark oder Pannoniens, für Großmähren selbst sind sie jedoch nicht belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Adligen bzw. Stammesfürsten, die kňazi (altslaw. kьnazъ, knjazi, knedz, urslaw. kъnedzь <> vom althochdeutschen kuning – Fürst, heute König, king – König), wurden als Vertreter der edlen Geschlechter, „größer an Herkunft und Würde“ (maiores natu et dignitate), unter Mitwirkung oder sogar unter der Patronanz heidnischer Priester von der Versammlung gewählt, die sich aus den übrigen edlen Angehörigen und Vertretern des Stammes zusammensetzte. Ihre Sitze wurden bereits die ersten Burgen, zunächst wohl im Besitz und in der Verwaltung der Stammesgemeinschaft und ihrer Kultkomponenten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Expansion des mährischen Mojmír I. im Jahr 833 in das Fürstentum Neutra entstand ein Gebilde, das von den Historikern Großmähren genannt wird, in den zeitgenössischen Quellen einfach nur Mähren (Marahava, terra Maravorum, regnum Margorum, regnum Marahavorum). Zu seinen Herrschern, den großmährischen Mojmiriden, existiert eine ausreichende Menge an Fachliteratur, an Übersetzungen frühmittelalterlicher Schriftquellen sowie an populärwissenschaftlicher und belletristischer, romanhafter Literatur. Deshalb beschränkt sich dieser Beitrag nur auf eine sehr knappe Information über ihre historischen Taten und Lebensschicksale und bringt eher einen Blick, die wichtigsten Erkenntnisse, die die slowakische und mährische Siedlungsarchäologie gewonnen hat, besonders auf ihre Siedlungszentren. Also hauptsächlich auf die Burgen, die sie erbauen ließen, auf denen sie saßen, herrschten, den Kult praktizierten und mit deren Hilfe sie die Gesellschaft und ihre Verteidigung gegen äußere Feinde machtpolitisch organisierten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mojmiriden waren ein Geschlecht, das ursprünglich im Mährischen Fürstentum, später in ganz Großmähren etwa ein Jahrhundert lang vom Anfang (Viertel) des 9. Jahrhunderts bis zum ersten Jahrzehnt des 10. Jahrhunderts herrschte. Die Schicksale des Geschlechts vor Mojmír I. und nach dem Jahr 907 sind nicht bekannt, doch lässt sich annehmen, dass Mojmír I. schon seit der Zeit des Untergangs des Awarenkhaganats einen blutsverwandten Vorgänger haben konnte, ebenso dass einige seiner Angehörigen aus den Nebenlinien des Geschlechts in Mähren bis zu dessen Beherrschung durch die böhmischen Fürsten zu Beginn des 11. Jahrhunderts herrschten. Das Geschlecht wurde nach dem ersten bekannten Angehörigen benannt, ähnlich wie auch die übrigen zeitgleichen herrschenden Dynastien (z. B. die Přemysliden, die Arpaden …), und zwar erst von den Historikern des 18.–19. Jahrhunderts. Das zeitgenössische mittelalterliche Schrifttum kannte eine solche Bezeichnung nicht und verwendete sie auch nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mojmír I. (* um das Jahr 800 – † 846?) wurde ab dem Jahr 830 mährischer Fürst, ab dem Jahr 833 wurde er durch den Anschluss des Fürstentums Neutra großmährischer Herrscher. Nach den verfügbaren Nachrichten bzw. nach dem Fehlen von Nachrichten wird geurteilt, dass er auf insgesamt friedliche, nicht expansive Weise regierte und das Fürstentum verwaltete. Im Jahr 846 setzte ihn Ludwig der Deutsche ab, wohl deshalb, weil er schließlich doch versuchte, sich aus der Tributpflicht gegenüber dem Ostfränkischen Reich zu befreien, und setzte an seiner Stelle dessen Neffen Rastislav ein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 4. Porträt Mojmírs I. auf der slowakischen 5000-Kronen-Banknote von 1944 und Mojmír II. auf einer Anlagemünze von 2006.",
+    "alt": "Abb. 4. Porträt Mojmírs I. auf der slowakischen 5000-Kronen-Banknote von 1944 und Mojmír II. auf einer Anlagemünze von 2006.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter der Herrschaft Rastislavs bzw. Rastiz’ (846 – † 870) kam es zur Stabilisierung des Fürstentums, mehrfach wurden Angriffe des Ostfränkischen Reiches erfolgreich abgewehrt. Obwohl in Mähren und in der Slowakei bereits seit dem Ende des 8. Jahrhunderts fränkische Missionare wirkten, beriefen Rastislav und Svatopluk in ihrem Bestreben, den fränkischen politischen Einfluss zu eliminieren, im Jahr 863 über den byzantinischen Kaiser Michael III. die byzantinischen Gelehrten Konstantin und Method nach Großmähren. Konstantin schuf für die Bedürfnisse der slawischen Sprache eine Schrift, die Glagoliza, damit die in die heimische Sprache übersetzten lateinischen und griechischen Kirchentexte in Buchform gebracht werden konnten. Diese Tat legte auch die Grundlagen der slawischen Literatur; in ihr entstanden auch mehrere weltliche Texte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svatopluk (* 871 – † 894), der ursprünglich in Nitra herrschte, wurde nach der – in heutiger Terminologie gesprochen – „Föderalisierung“ Großmährens nach dem Jahr 863 Mitherrscher des Fürstentums. Nach Konflikten mit seinem Onkel Rastislav wurde er zunächst unter fränkischer Mitwirkung und dann nach einem antifränkischen Aufstand der neue großmährische Herrscher. Alle diese Ereignisse wurden schon von den zeitgenössischen Chronisten aufgezeichnet und von den Historikern ausgewertet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 5. Rastislav, großmährischer Fürst – Goldene Sammlermünze im Nennwert von 100 Euro, geprägt im Jahr 2014.",
+    "alt": "Abb. 5. Rastislav, großmährischer Fürst – Goldene Sammlermünze im Nennwert von 100 Euro, geprägt im Jahr 2014.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter seiner Herrschaft wurden in mehreren erfolgreichen Kämpfen umfangreiche benachbarte Gebiete in Mitteleuropa an Großmähren angeschlossen. Es kam zu einem massiven Bau und Umbau von Burgen, das Land erreichte den Höhepunkt seiner wirtschaftlichen Kraft, die handwerkliche Produktion entwickelte sich, allgemein stieg das Zivilisationsniveau. Nach seinem Tod kam es allmählich zur Abtrennung der angeschlossenen Gebiete (Lausitz, Böhmen, Transdanubien, Südpolen), was das Land zusammen mit den Streitigkeiten seiner zwei Söhne – der eine war Fürst im heutigen Mähren, der andere in der heutigen Slowakei – wirtschaftlich, militärisch und ideell schwächte. Die Angriffe der nomadischen Ugrier, der Vorfahren der Altungarn, zerstörten dann nach der Eroberung (Mikulčice, Strachotín, Pohansko, Bojná) bzw. der Kapitulation mehrerer bedeutender Burgen in der Slowakei und in Mähren und schließlich nach den Schlachten bei Bratislava (Pressburg) die zentrale politische Macht Großmährens und verursachten damit seinen Zerfall und seine Zersplitterung in viele kleinere Einheiten, die nicht mehr fähig waren, den altungarischen Stämmen zu widerstehen. Diese kleineren Gebilde bzw. deren örtliche Anführer (Poznanovci, Huntovci) wählten meist allmählich verschiedene Formen der Unterwerfung, der Kollaboration oder auch der aktiven Mitbeteiligung an den weiteren altungarischen Eroberungen und am späteren Aufbau des Königreichs Ungarn."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 6. Svatopluk I. am Hof Arnulfs – in der Dalimil-Chronik aus dem 14. Jahrhundert und die Reiterstatue des Königs Svatopluk auf der Burg in Bratislava.",
+    "alt": "Abb. 6. Svatopluk I. am Hof Arnulfs – in der Dalimil-Chronik aus dem 14. Jahrhundert und die Reiterstatue des Königs Svatopluk auf der Burg in Bratislava.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Forschungsergebnissen der mährischen Archäologen entstanden im Laufe des 9. Jahrhunderts als Ausdruck der Etatisierung der mährischen Gesellschaft unter der Führung des Geschlechts der Mojmiriden mehrere neue Burgen, und auf den bestehenden wurden die alten einfacheren Befestigungen durch konstruktiv hochwertigere Mauern ersetzt, was der Fall von Mikulčice und Nitra ist, oder sie wurden durch Befestigungen an anderer Stelle ersetzt wie in Olomouc, im Zentrum der heutigen Stadt, oder in Uherské Hradiště – Staré Město, wo die Rolle der Zentralburg die Befestigung in der Lage Na Valech übernahm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die von dem Bayerischen Geographen für die zweierlei Mährer (Marharii, Merehanos) angeführten Zahlen der mährischen Burgen konnten bis heute nicht eindeutig interpretiert werden. Nach ihm hatten die Mährer (Marharii) 11 und die anderen Mährer (Merehanos) 30 Burgbezirke. In letzter Zeit neigen die Historiker zu der Interpretation, dass die Schrift von gleichzeitig bestehenden 11 Burgen der mährischen Slawen und 30 Burgen der Slawen von Nitra irgendwann nach dem Jahr 833 sprechen sollte. Allgemein lässt sich sagen, dass die Zahl dieser Burgen nicht statisch war; einige gingen aus verschiedenen Ursachen unter, andere entstanden. Die meisten neuen Burgen entstanden oder wurden konstruktiv modernisiert in den Zeiten des größten Aufschwungs und der mächtigsten militärischen Aktivitäten Großmährens sowie der Anfänge der altungarischen Bedrohungen, unter der Herrschaft Svatopluks I."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 7. Die wichtigsten Burgen in den Kernen Großmährens.",
+    "alt": "Abb. 7. Die wichtigsten Burgen in den Kernen Großmährens.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bedeutendsten und einzigen Burgen in Mähren und in der heutigen Slowakei, die in den Schriftquellen des 9. Jahrhunderts erwähnt werden, und zwar im Zusammenhang mit bedeutenden militärischen und politischen Ereignissen bzw. mit der Anwesenheit von Vertretern des herrschenden Geschlechts und der höchsten Vertreter der kirchlichen Hierarchie, sind antiqua urbs Rastici bzw. inefabilis Rastici Munitio und Ch.r.dáb (bzw. in anderen Übersetzungen aus dem Arabischen Ghrád, Džerváb, Džarádist u. ä.), grad, Veligrad – also Rastislavs alte Stadt und Rastislavs unbezwingbare Festung sowie die große Stadt und der Sitz des Kaisers Svatopluk. Weiter die Stadt Wábnít, „die die erste Stadt im Osten des Landes ist“, dann Nitrava, weiter Mosapurc, Mosaburg, Dowina und Breslavaspurch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zweifellos waren langfristig, eigentlich die ganze Zeit des Bestehens des großmährischen frühen Staates bzw. Fürstentums, die wichtigsten befestigten Sitze die heutigen archäologischen Fundstellen in Mikulčice, Staré Město und Nitra."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die große Niederungsburg in Mikulčice, von Armen der March umflossen, mit einer Hauptburg von 4,8 ha und mit befestigter wie unbefestigter Vorburg von über 50 ha, ragte nicht nur durch die Größe des Areals, durch die Länge, Massivität und Qualität der Ausführung der Fortifikationen heraus, sondern vor allem durch die Quantität und Qualität der Innenbebauung. (Abb. 8. Die zentrale Burg Mikulčice mit den einzelnen Vorburgen, Siedlungsarealen und freigelegten Sakralbauten)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihre Wurzeln hat sie bereits im 8. Jahrhundert, und im 9. Jahrhundert wird sie für „Antiqua urbs Rastici, inefabilis Rastici Munitio“ gehalten – den alten Sitz Rastislavs und vielleicht auch seines Vorgängers Mojmír I. Im 9. Jahrhundert entstand hier eine ungewöhnliche Konzentration von 12 Sakralbauten sowie ein palastartiger zweiräumiger Steinbau mit den Maßen 26 × 10 m, teilweise mit Mörtelboden und mit einer überdurchschnittlichen Heizvorrichtung, die als Kamin bezeichnet wird. Im Rahmen der befestigten Vorburg wurde auch eine regelmäßige Bebauung festgestellt, die aus über 200 Wohnbauten bestand, wahrscheinlich der militärischen Besatzung. In eigenen Bezirken befanden sich hier große Werkstätten oder auch Bauten, die technologisch als fremdethnischer Herkunft bezeichnet werden können, offenbar auch von Fremden bewohnt – von Gästen, Asylanten, höheren Angehörigen der fürstlichen Gefolgschaften sowohl westlicher – bayerischer oder fränkischer – Herkunft als auch aus dem östlichen Steppenmilieu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "All das schuf ein für die Zeit überdurchschnittliches System, das sich aus dem zentralen Fürstenhof auf der Hauptburg, aus mehreren satellitenartigen Siedlungseinheiten in der Vorburg, vielleicht „Höfen“, ebenfalls mit Sakralbauten, und aus entwickelten Siedlungskontexten ebenerdiger Wohnbauten, großer und kleinerer Produktionswerkstätten, Lager und Vorratsbauten zusammensetzte. Das Bild dieser sicherlich entwicklungsdynamischen überdurchschnittlichen Siedlungseinheit spiegelt sich annähernd auch in einer Viertelmillion Artefakten aus den fast 2500 hiesigen Gräbern. Die überdurchschnittliche Quantität und die handwerklich-künstlerische Qualität der goldenen und silbernen Schmuckstücke, der Waffen und weiterer verschiedenartiger Artefakte heimischer und fremder Herkunft hat auf den übrigen großmährischen Burgen, vielleicht außer Staré Město, bisher kein gleichwertiges Pendant."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 8. Die zentrale Burg Mikulčice mit den einzelnen Vorburgen, Siedlungsarealen und freigelegten Sakralbauten",
+    "alt": "Abb. 8. Die zentrale Burg Mikulčice mit den einzelnen Vorburgen, Siedlungsarealen und freigelegten Sakralbauten",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der umfangreichen, 50 ha überschreitenden Agglomeration von Staré Město – Uherské Hradiště, die für den Sitz des Fürsten Svatopluk und des Erzbischofs Method gehalten wird (vielleicht Ibn Jaqubs Ghrád, Džerváb, Džarádist – die große Stadt (grad) und der Sitz des Kaisers Svatopluk), gab es einige Hauptfunktionsareale, meist befestigt und durch Verkehrswege miteinander verbunden – ein Machtareal, ein umfangreiches zentrales Kirchenareal mit einer gemauerten Kirche und weiteren Sakralbauten und einem hölzernen Klosterkomplex, einige Produktionsareale, ein zentrales Kirchengräberfeld, Siedlungssatelliten und schließlich einen selbstständigen Inselsitz mit dichter Bebauung und gemauerter Architektur sowie einer Produktionskomponente."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im zentralen Machtbezirk in Staré Město in der Lage Na Dědině, bei der Kirche des hl. Michael, war ein Bau palastartigen Typs situiert, dessen Breite 10 m erreichte und dessen Länge mindestens 18 m betrug. Er hatte in Mörtel gelegte Vollsteinmauern und war mit drei Arten gegossener Mörtelböden versehen. Das Dach bestand aus einer gebrannten Dachdeckung antiken Charakters mit verzierten Firstziegeln. Er wurde schon irgendwann um die Mitte des 9. Jahrhunderts erbaut, und bald darauf wurde an seiner Nordseite ein rechteckiger Anbau mit Mörtelboden auf einer Steinpackung angefügt. Dieser repräsentative Sitz ging mit dem Fall Großmährens unter. Reste nicht näher spezifizierbarer Steinbauten sind auch von Ostrov sv. Jiří bekannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 9. Die Siedlungsagglomeration Uherské Hradiště – Staré Město mit den einzelnen Siedlungsarealen und Sakralbauten.",
+    "alt": "Abb. 9. Die Siedlungsagglomeration Uherské Hradiště – Staré Město mit den einzelnen Siedlungsarealen und Sakralbauten.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Staré Město in der Lage U Víta waren gesondert große Pfostenbauten situiert, die eine Fläche von bis zu 100 m² erreichten und die meist für Versammlungsorte der fürstlichen Gefolgsleute oder anderer bedeutenderer Einwohner oder Gäste der Burg (Kaufleute, Handwerker) gehalten werden. Im Bereich des Kirchenareals in Sady – dem möglichen Sitz des Erzbischofs Method – stand in der zweiten Hälfte des 9. Jahrhunderts ein etwa 32 m langer Hallenbau, der als Komplex von Wohnbauten hoher Kirchenwürdenträger, als klösterliche Lehranstalt und gleichzeitig als Versammlungsort der Bewohner des christlichen Areals von Sady interpretiert wird. Es existierten hier auch größere freie Flächen, auf denen zeitweilig Bewohner angesiedelt wurden, die in Zeiten der Gefahr ihre Dörfer verließen und sich hinter die Mauern der Burgen flüchteten. Es konnten auch Orte von Märkten oder von Volksversammlungen und Feiern sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nitra (Nitrava) als Sitz des Fürsten Pribina mit einer Kirche, zum Jahr 828/830 in der Conversio erwähnt, war nach seiner Vertreibung im Jahr 833 der Sitz von Mojmírs Neffen Rastislav, von 850 bis 871 der Sitz von Rastislavs Neffen Svatopluk als Neutraer Teilfürsten und – nach den damals geltenden Grundsätzen – Thronfolgern und spätestens ab dem Jahr 880 auch der Sitz des ersten Bistums im Gebiet der heutigen Slowakei, an dessen Spitze Wiching stand. Diese Burg und auch ihre Sakralkomponente erlauben die archäologischen Ausgrabungen auf den Burghügel von Nitra zu situieren, der schon seit der ersten Hälfte des 9. Jahrhunderts befestigt und in der zweiten Hälfte des 9. Jahrhunderts bedeutend umgebaut war. An ihn grenzte wohl als Vorburg ein etwa 15 ha erreichendes Areal auf der Anhöhe Na vŕšku, über der heutigen Altstadt (Staré mesto). Im Suburbium gab es einige dörfliche Siedlungen, die größten auf Šindolka und Mikov dvor, sowie Produktionswerkstätten und Gräberfelder. Möglicherweise bestand auch ein solitäres befestigtes Areal auf dem Martinský vrch mit eigener Suburbiumsiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg behielt die Tradition als Sitz der Teilfürsten und Thronfolger auch nach dem Untergang Großmährens, als Nitra für weitere eineinhalb Jahrhunderte Sitz des Neutraer Teilfürstentums wurde, an dessen Spitze Angehörige der Arpaden-Dynastie und Thronfolger des ungarischen Throns oder deren Verwandte standen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 10. Nitra. Die Burg mit dem Suburbium und den einzelnen Siedlungskomponenten – Siedlungen, Sakralbauten und Gräberfeldern.",
+    "alt": "Abb. 10. Nitra. Die Burg mit dem Suburbium und den einzelnen Siedlungskomponenten – Siedlungen, Sakralbauten und Gräberfeldern.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Kriterien größerer regionaler Zentren, die sicherlich auch Sitze bedeutenderer Adelsgeschlechter mit ihren Höfen und Gefolgschaften und vielleicht auch Orte der Dislozierung eines Teils der zentralen militärischen Bereitschaft waren, kamen offenbar am nächsten die mährischen Burgen in Břeclav (Lundenburg)-Pohansko, Znojmo-Hradiště, Brno-Líšeň, Olomouc – der Burg in Mähren –, Gars-Thunau in Österreich oder die Burgen in Bojná, möglicherweise auch in Bíňa, Zemplín, Majcichov und Pobedim in der Slowakei. Überall dort oder auf den umliegenden Gräberfeldern war durch das Spektrum der Funde die Anwesenheit machtpolitischer, militärischer und wirtschaftlicher sowie meist auch sakral-kultischer Komponenten belegt oder lässt sich voraussetzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als mittelbedeutende regionale Zentren bzw. als Zentren kleinerer oder weniger besiedelter Gebiete lässt sich an mehrere weitere größere Burgen denken, die vielleicht Sitze niederer Adliger waren, die zunächst selbstständig, später im Auftrag des Herrschers das wirtschaftliche, administrative und militärische Funktionieren ihrer Siedlungsgebiete sicherten und deren Hauptverkehrswege bewachten. Sie beaufsichtigten auch die Erhebung und Umverteilung der Naturalabgaben und Steuern, den Bau und die Reparaturen von Befestigungen, Straßen und Brücken, die Gewinnung von Holz, Stein und anderen Rohstoffen und die Organisation der Verteidigung ihrer Burg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine formal neue Kategorie des befestigten Sitzes mit eigener Struktur und mit spezifischen Funktionen, im slawischen Milieu nördlich der Donau ab der zweiten Hälfte des 9. Jahrhunderts massiver gebaut, waren die adligen Sippenhöfe bzw. kleinen Burgen, die formal wie funktional die fränkischen Höfe nachahmten, sei es curia regalis – königliche Höfe – oder curia nobilis – private Sitze des Adels. In der älteren Zeit waren es vor allem Bauten der Adligen innerhalb extra befestigter Burgen, später meist auf freier Fläche als zweitrangige Sitze des Adels, grundherrschaftliche Höfe eher wirtschaftlicher Bedeutung. Ihre typischen Repräsentanten sind die Herrenhöfe in Břeclav-Pohansko, Ducové und im ungarischen Zalaszabar am Plattensee. Sie waren deutlich kleiner als die Burgen, hatten meist Palisadenbefestigungen, mehrräumige, für die Zeit überdurchschnittliche ebenerdige Wohnbauten und Kirchen – Rotunden mit Friedhof. In Mähren werden Herrenhöfe noch auf den Burgen in Brno-Líšeň, in Strachotín und Nechvalín, aber auch im Rahmen der Burgareale in Mikulčice und in Staré Město sowie in der österreichischen Burg Gars-Thunau vermutet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute werden viele dieser untergegangenen frühmittelalterlichen Burgen zum Gegenstand des Interesses nicht nur von Fachleuten, sondern auch von örtlichen Selbstverwaltungen und zahlreichen Bürgervereinen im Rahmen heimatkundlicher, aufklärerischer, denkmalpflegerischer und raumplanerischer Tätigkeit. Mit Hilfe gemeinsamer Projekte werden viele slawische Burgen weiter nicht nur erforscht, sondern auch rekonstruiert, sie werden Teil von Lehrpfaden, in Museen und Freilichtmuseen und in Orte regionaler Veranstaltungen und des internationalen Tourismus verwandelt und erfreuen sich großen Interesses der breiten Öffentlichkeit. Außer dem eigenen wissenschaftlichen Beitrag für die Geschichtsschreibung sind sie also auch für den Bildungs-, Museums- und Umweltbereich von Nutzen und inspirierend. Dadurch, dass sie in sich Elemente dreier Aktivitäten verbinden – Natur, Kultur und Denkmäler –, sind sie ein attraktiver Ort für die Freizeitgestaltung und für viele kulturelle Veranstaltungen; sie leben wieder auf und werden damit erneut zu einem aktiven, interessanten und nützlichen Teil unserer Umwelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Anmerkung zum Schluss, als Information für die breitere interessierte Leserschaft und damit es nicht zufällig zu überflüssigen polemischen Diskussionen seitens der Fachleute kommt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mehrheit der verwendeten übernommenen Illustrationen stellt idealisierte, in älteren Fällen manchmal auch romantische oder teilweise fantasievolle Vorstellungen der einzelnen Autoren, Künstler dar. Diese hatten meist keine faktischen Angaben zur Verfügung, weder im anthropologischen Sinne noch im Bereich der Kleidung, der Bestandteile, der Tracht, des Schmucks, der Bewaffnung und im Fall der Reiterbilder oder -statuen auch keine Kenntnisse über die Reitausrüstung der frühmittelalterlichen gesellschaftlichen Eliten, also über eine mehr als tausend Jahre entfernte Realität. Oder sie besprachen diese Details nicht mit Fachleuten, was jedoch nicht ihre Pflicht ist. Eine solche Situation ist insgesamt auch bei weltweit bekannten Künstlern üblich, und ich meine, dass diese im Rahmen der künstlerischen Freiheit des Autors ein Recht auf ein solches Schaffen hatten. Letztlich ließen sich auch die hochmittelalterlichen Illustratoren und Künstler bei der Darstellung älterer, sei es historischer oder auch sagenhafter Gestalten von den Materialien ihrer Zeit inspirieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "PhDr. Peter Šalkovský, DrSc., Archäologisches Institut der Slowakischen Akademie der Wissenschaften in Nitra"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Literaturauswahl:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Galuška, L.: Uherské Hradiště – Sady. Křesťanské centrum Říše Velkomoravské. Brno 1996."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Poláček, L.: Mikulčice. In: A. Wieczorek/H.-M. Hinz (Hrsg.): Europas Mitte um 1000. Beiträge zur Geschichte, Kunst und Archäologie. Stuttgart 2000, 317 – 322."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Procházka, R.: Vývoj opevňovací techniky na Moravě a v českém Slezsku v raném středověku. Brno 2009."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ratkoš, P.: Pramene k dejinám Veľkej Moravy. Bratislava 1968."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Steinhübel, J.: Nitrianske kniežatstvo. Bratislava 2004."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wieczorek, A./ Hinz, H.M.(Hrsg.): Europas Mitte um 1000. Beiträge zur Geschichte, Kunst und Archäologie. Stuttgart 2000, 367 – 372."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "https://wikipedia.org, https://commons.wikimedia.org u. a."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

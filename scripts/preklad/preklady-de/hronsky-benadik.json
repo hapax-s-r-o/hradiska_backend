@@ -1,0 +1,578 @@
+{
+ "slug": "hronsky-benadik",
+ "data": {
+  "title": "Hronský Beňadik – ein slawischer Burgwall auf der Beňadická skala",
+  "slug": "hronsky-benadik-burgwall-benadicka-skala",
+  "excerpt": "In den Jahren 1972–1977 ließen sich etwa 700 m südlich des Areals der ehemaligen Abtei Hronský Beňadik auf einer markanten Anhöhe Wallformationen beobachten, die in der archäologischen Literatur bis dahin nicht verzeichnet waren – nicht einmal Janšák hatte diese Stelle in seinem Verzeichnis der Fundstellen im Grantal erfasst. Die anschließende Ausgrabung wies die 2,28 ha große Anlage als slawischen Burgwall des 10. Jahrhunderts aus, der die Straße entlang der Gran bewachte.",
+  "metaTitle": "Hronský Beňadik – slawischer Burgwall bei der Abtei",
+  "metaDescription": "Unbekannte Wallformationen 700 m von der Abtei Hronský Beňadik: die Ausgrabung 1972–1977 wies sie als slawischen Burgwall des 10. Jahrhunderts aus.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "etwa 2,28 ha, maximale Länge der befestigten Fläche 360 m, Breite etwa 80–90 m",
+    "icon": "map"
+   },
+   {
+    "label": "Erhaltene Befestigung",
+    "value": "85 laufende Meter Wall, Höhe 1,5 m von innen bis 6 m von außen",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion der Befestigung",
+    "value": "äußere trocken gesetzte Steinmauer (Stärke 60–80 cm) + Erdbefestigung, armiert mit einer Holzkonstruktion",
+    "icon": "building"
+   },
+   {
+    "label": "Durchmesser des Drehmühlen-Läufersteins",
+    "value": "43 cm (unbeschädigter Fund, der die Herstellung von Drehmühlen direkt vor Ort belegt)",
+    "icon": "custom"
+   },
+   {
+    "label": "Benachbarte Burgwälle im Grantal",
+    "value": "Grác (Malé Kozmálovce), Hrádze/Festunok (Tlmače), Krivín (Rybník) – gemeinsam bewachten sie einen knapp 7 km langen Abschnitt",
+    "icon": "flag"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1972–1977",
+    "title": "Entdeckung der Wallformationen",
+    "description": "In einer Entfernung von etwa 700 m südlich des Areals der ehemaligen Abtei ließen sich auf einer markanten Anhöhe Wallformationen beobachten, die in der archäologischen Literatur bis dahin nicht verzeichnet waren; es folgte eine archäologische Ausgrabung, die die Fundstelle als slawischen Burgwall bestimmte.",
+    "type": "discovery"
+   },
+   {
+    "year": "1075",
+    "title": "Schenkungsurkunde der Benediktinerabtei",
+    "description": "In der Schenkungsurkunde aus dem Jahr 1075, mit der Géza I. der Abtei in Hronský Beňadik Besitzungen schenkte, wird der ältere Sakralbau auf dem Burgwall nicht ausdrücklich erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Entstehung des Burgwalls auf der Beňadická skala",
+    "description": "Nach den Funden der archäologischen Ausgrabung lässt sich die Entstehung des Burgwalls an die Wende vom 9. zum 10. Jahrhundert datieren.",
+    "type": "founding"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Datierung des Burgwalls",
+    "description": "Nach den Funden der archäologischen Ausgrabung lässt sich der Burgwall auf der Beňadická skala in das 10. Jahrhundert datieren.",
+    "type": "era"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Untergang des Burgwalls und Entstehung der Abtei",
+    "description": "Im 11. Jahrhundert diente der Burgwall seinem Zweck sicher nicht mehr, als die günstigere Stelle im heutigen Hronský Beňadik besiedelt wurde; an ihrer Stelle entstand in der zweiten Hälfte des 11. Jahrhunderts die Benediktinerabtei.",
+    "type": "destruction"
+   },
+   {
+    "year": "1713",
+    "title": "Entstehung der heutigen Kapelle",
+    "description": "An der höchsten Stelle des Burgwalls steht ein barocker Sakralbau aus dem Jahr 1713, der Kreuzauffindung geweiht, der nach Schriftquellen an der Stelle eines älteren, wahrscheinlich hölzernen Objekts steht, das der hl. Helena geweiht war.",
+    "type": "construction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6422,
+    "alt": "Zeichnung eines Schnitts durch die Befestigung mit Steinfront und Holzkonstruktion, mit Maßstab"
+   },
+   {
+    "mediaId": 3232,
+    "caption": "LiDAR-Kärtchen des Burgwalls. Am rechten Rand ist der bogenförmige Wall schön zu sehen. In den übrigen Teilen des Burgwalls sind die Hänge so steil, dass dort keine Holz-Erde-Mauer errichtet werden musste, sondern eine hölzerne Palisade genügte",
+    "alt": "LiDAR-Kärtchen des Burgwalls. Am rechten Rand ist der bogenförmige Wall schön zu sehen, in den übrigen Teilen sind die Hänge so steil, dass eine hölzerne Palisade genügte"
+   },
+   {
+    "mediaId": 3233,
+    "alt": "Luftbild des Sporns über dem Fluss mit Feldern und Wald"
+   },
+   {
+    "mediaId": 3234,
+    "alt": "Zeichnung eines Rekonstruktionsversuchs der Befestigung an der Schnittstelle, mit Maßstab"
+   },
+   {
+    "mediaId": 3235,
+    "alt": "Zeichnungen von Keramikfragmenten mit Wellenbandverzierung und Profilen"
+   },
+   {
+    "mediaId": 3236,
+    "alt": "Zeichnungen von Eisenfunden aus der Oberflächenaufsammlung: Pflugschar, Sporn und Spitzen mit Maßstab"
+   },
+   {
+    "mediaId": 3237,
+    "caption": "Die Fläche des Burgwalls bildet eine nahezu ideale Ebene",
+    "alt": "Die Fläche des Burgwalls bildet eine nahezu ideale Ebene"
+   },
+   {
+    "mediaId": 3238,
+    "caption": "Möglicherweise führte auf diesem Weg auch der ursprüngliche Zugang zum Burgwall",
+    "alt": "Möglicherweise führte auf diesem Weg auch der ursprüngliche Zugang zum Burgwall"
+   },
+   {
+    "mediaId": 3239,
+    "caption": "Deutlich sichtbare Wälle befinden sich im nordwestlichen Teil des Burgwalls",
+    "alt": "Deutlich sichtbare Wälle befinden sich im nordwestlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 3240,
+    "alt": "Mit Efeu überwachsener Wall des Burgwalls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 3241,
+    "alt": "Plateau des Burgwalls mit Gras zwischen hochgewachsenen Bäumen"
+   },
+   {
+    "mediaId": 3242,
+    "caption": "Die Kapelle in der Nähe der Befestigung im nördlichen Teil des Burgwalls",
+    "alt": "Die Kapelle in der Nähe der Befestigung im nördlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 3243,
+    "caption": "Blicke auf die Wallkrone",
+    "alt": "Blicke auf die Wallkrone"
+   },
+   {
+    "mediaId": 3244,
+    "caption": "Blick vom Wall in Richtung Norden",
+    "alt": "Blick vom Wall in Richtung Norden"
+   },
+   {
+    "mediaId": 3245,
+    "caption": "Blick auf den Wall von Osten",
+    "alt": "Blick auf den Wall von Osten"
+   },
+   {
+    "mediaId": 3246,
+    "alt": "Langgestreckter Wallkörper im Laubwald"
+   },
+   {
+    "mediaId": 3247,
+    "caption": "Der nordwestliche Wall von der Außenseite",
+    "alt": "Der nordwestliche Wall von der Außenseite"
+   },
+   {
+    "mediaId": 3248,
+    "caption": "Einige weitere Blicke auf den Wall von der Außenseite",
+    "alt": "Einige weitere Blicke auf den Wall von der Außenseite"
+   },
+   {
+    "mediaId": 3249,
+    "alt": "Gemauerte Kapelle hinter dem Wall des Burgwalls zwischen Bäumen"
+   },
+   {
+    "mediaId": 3250,
+    "caption": "Wieder der Wall",
+    "alt": "Wieder der Wall"
+   },
+   {
+    "mediaId": 3251,
+    "alt": "Wall des Burgwalls bei der Treppe zu einem Gebäude"
+   },
+   {
+    "mediaId": 3252,
+    "alt": "Weg entlang des Walles des Burgwalls, auf dem ein Kind geht"
+   },
+   {
+    "mediaId": 3253,
+    "caption": "Blicke vom Burgwall in Richtung Osten",
+    "alt": "Blicke vom Burgwall in Richtung Osten"
+   },
+   {
+    "mediaId": 3254,
+    "alt": "Blick vom Hang des Burgwalls auf einen Weidenbestand und ein Industrieareal im Tal"
+   },
+   {
+    "mediaId": 3255,
+    "caption": "Die Ostseite des Burgwalls bildet eine mehrere Dutzend Meter hohe, uneinnehmbare Felswand",
+    "alt": "Die Ostseite des Burgwalls bildet eine mehrere Dutzend Meter hohe, uneinnehmbare Felswand"
+   },
+   {
+    "mediaId": 3256,
+    "caption": "Der einzige denkbare Angriff konnte von der nordwestlichen Seite kommen, und in diesem Abschnitt wurde deshalb eine mehrere Meter hohe Befestigung errichtet",
+    "alt": "Der einzige denkbare Angriff konnte von der nordwestlichen Seite kommen, und in diesem Abschnitt wurde deshalb eine mehrere Meter hohe Befestigung errichtet"
+   },
+   {
+    "mediaId": 3257,
+    "caption": "Frische Löcher von Sondengängern",
+    "alt": "Frische Löcher von Sondengängern"
+   },
+   {
+    "mediaId": 3258,
+    "caption": "Wieder ein Blick auf die Innenfläche des Burgwalls",
+    "alt": "Wieder ein Blick auf die Innenfläche des Burgwalls"
+   },
+   {
+    "mediaId": 3259,
+    "caption": "Auch von der westlichen (südwestlichen) Seite besteht ein steiler Abfall, dank dem kein Wall errichtet werden musste und eine hölzerne Palisade allein genügte",
+    "alt": "Auch von der westlichen (südwestlichen) Seite besteht ein steiler Abfall, dank dem kein Wall errichtet werden musste und eine hölzerne Palisade allein genügte"
+   },
+   {
+    "mediaId": 3260,
+    "caption": "Zufahrtsweg zum Burgwall",
+    "alt": "Zufahrtsweg zum Burgwall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1972–1977 ließen sich in Hronský Beňadik in einer Entfernung von etwa 700 m südlich des Areals der ehemaligen Abtei auf einer im Gelände markanten Anhöhe Wallformationen beobachten, die in der archäologischen Literatur bis dahin nicht verzeichnet waren. Auch Janšák hatte diese Stelle in seinem Verzeichnis der Fundstellen im Grantal nicht erfasst. Deshalb wurde eine archäologische Ausgrabung durchgeführt, die es ermöglichte, die Fundstelle zu datieren und als slawischen Burgwall zu bestimmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Fläche des Burgwalls liegt am rechten Ufer der Gran zwischen den Gemeinden Hronský Beňadik und Psiare. Sie breitet sich auf einem langgezogenen, zungenförmigen Ausläufer mit einer Fläche von etwa 2,28 ha aus. Die maximale Länge der befestigten Fläche beträgt 360 m, die maximale Breite etwa 80–90 m. Diese Fläche neigt sich nach Süden zur Gemeinde Psiare; der Hang erreicht auf einer Länge von 350 m ein Gefälle von 25 m. Die Höhe liegt bei 200–228 m über Meer."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Kärtchen des Burgwalls. Am rechten Rand ist der bogenförmige Wall schön zu sehen. In den übrigen Teilen des Burgwalls sind die Hänge so steil, dass dort keine Holz-Erde-Mauer errichtet werden musste, sondern eine hölzerne Palisade genügte",
+    "alt": "LiDAR-Kärtchen des Burgwalls. Am rechten Rand ist der bogenförmige Wall schön zu sehen, in den übrigen Teilen sind die Hänge so steil, dass eine hölzerne Palisade genügte",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche ist nur auf der Nordseite und an der Nordwestecke künstlich umschlossen. Der ganze östliche Umfang wird von einem steilen Abfall geschützt, der einst in das Flussbett der Gran abstürzte; heute ist der Hauptlauf des Flusses weiter nach Osten verschoben – unterhalb des Burgwalls führen die Straße Zvolen (Altsohl) – Levice und eine Eisenbahnlinie. Von der Westseite ist der Burgwall im nördlichen Teil durch eine Wallkonstruktion, im südlichen durch einen tiefen Erosionsgraben geschützt, der sich unter dem südlichen Ausläufer des Burgwalls mit dem Tal der Gran verbindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der höchsten Stelle des Burgwalls steht in unmittelbarer Nähe der Wallbefestigung ein barocker Sakralbau aus dem Jahr 1713. Die Kapelle steht nach Schriftquellen an der Stelle eines älteren, wahrscheinlich hölzernen Objekts, das der hl. Helena geweiht war. Der heutige Bau hat das Patrozinium des hl. Kreuzes (Kreuzauffindung). Die Wallbefestigung beginnt nördlich der heutigen Kapelle und zieht sich im Grundriss etwa in einem Viertelkreis nach Westen und dann nach Süden. Erhalten haben sich 85 laufende Meter der Befestigung (auf der Wallkrone gemessen). Die Fortsetzung des Walles nach Süden und sein Anschluss an das natürliche Gefälle des Erosionsgrabens sind von einem Feldweg unterbrochen; die Fortsetzung des Walles auf der anderen Seite nach Osten zerstörten ein Fußweg und die Geländeveränderungen in der Umgebung der Kapelle, die als Wallfahrtsort dient. Der Wall erreicht von der Innenseite eine Höhe von etwa 1,5 m über dem Wallfuß, von außen stellenweise bis zu 6 m über dem heutigen Grabenboden. In der Mitte des westlichen Umfangs des Burgwalls wurde ein Teil der Wallbefestigung nach dem Zweiten Weltkrieg zerstört und ihre Masse in den Erosionsgraben geschoben. Der Wall ist heute auf eine Breite von 14 m auseinandergezogen; ursprünglich betrug seine Breite vom Fuß bis zur Außenfront der Steinmauer etwa 6 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hronský Beňadik",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung bestand aus einer äußeren, trocken gesetzten Steinmauer mit einer Stärke von 60–80 cm, hinter der sich in Richtung des Burgwallinneren eine Erdbefestigung befand, die zumindest stellenweise mit einer hölzernen (Balken-?)Konstruktion armiert war. Von den hölzernen Teilen der Konstruktion haben sich nur Spuren waagerechter vermoderter Balken erhalten, die von vielen Lehmschichten verschiedener Farbtöne – von braungelb über braunorange und grau bis dunkelbraun und schwarz – überschüttet waren. In der obersten Schicht fanden sich auch Bruchsteine, wahrscheinlich aus dem oberen Teil der Steinmauer. An diesen Stellen ließ sich nicht feststellen, wie der Wall ursprünglich in seiner oberen Partie gestaltet war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Raum des Burgwalls wurden Überreste von Wohnbauten mit Heizvorrichtung gefunden, von denen einige wahrscheinlich in Blockbauweise errichtet waren. Von der materiellen Kultur fand sich eine Menge Keramikscherben aus der Zeit kurz nach dem Untergang Großmährens. Die Verzierungselemente bestehen ausschließlich aus einfachen Wellenbändern, schrägen Nageleinstichen unter dem Hals der Gefäße und waagerechter Rillung in den unteren Partien. Aus der größeren Menge an Keramikfragmenten gelang es, fünf ganze Gefäße zu rekonstruieren, eines teilweise, und von einem seltenen flaschenförmigen Gefäß hat sich nur der Rand mit dem Hals erhalten. Die rekonstruierten Gefäße gehören demselben Typ an, alle sind topfförmig mit leicht eiförmigem Körper und trichterförmig erweiterter Mündung. Die Marken auf den Böden bestehen ausschließlich aus Kreisen und Kreuzen. Ein Beleg für handwerkliche Produktion war auch ein unbeschädigter Läuferstein einer Drehmühle mit einem Durchmesser von 43 cm. Es fand sich ebenfalls ein unvollendeter Läuferstein sowie eine größere Menge an Steinbruchstücken, was für die Herstellung von Drehmühlen vor Ort spricht. Das Material wurde wahrscheinlich aus dem nicht weit entfernten Žarnovica oder dessen näherer Umgebung herbeigeschafft. Es fanden sich hier auch mehrere Fragmente eiserner Gegenstände (Sichel, Messer, Pfeilspitze). Die Besiedlung konzentrierte sich im Burgwall am Wallfuß entlang seines Umfangs, wobei die inneren Räume des Burgwalls frei gelassen wurden – offenbar aus dem Grund, einer größeren Zahl von Bewohnern in Zeiten der Bedrohung eine Notzuflucht zu sichern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rekonstruktion der Mauer des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine wichtige Frage ist die Stelle des ursprünglichen Zugangs zum Burgwall. Trotz Sondagen an mehreren Stellen, an denen ein Zugang zu vermuten war, gelang es nicht, die Stelle des Tores zu lokalisieren. Die heutigen Zugänge sind wahrscheinlich Anpassungen aus späteren Jahrhunderten. Der Fußweg von Norden entstand offenbar durch das jahrhundertelange Pilgern zur Kapelle, der Weg von Westen war für Landmaschinen und Fuhrwerke bestimmt. Im südlichen Teil des westlichen Umfangs reicht eine breite Fläche in das Areal des Burgwalls hinein, die an einen aufgegebenen mittelalterlichen Weg von Süden vom Dorf Psiare erinnert. Der Weg stieg allmählich durch den Erosionsgraben und dann in der Falllinie zum Burgwall an. Die Ausgrabung legte auf der Trasse dieses vermuteten Weges keinerlei Spuren eines Tores, aber auch keines zerstörten Walles frei; es lässt sich daher nicht mit Sicherheit beurteilen, ob der Weg zur Zeit des Bestehens des Burgwalls benutzt wurde oder erst nach seinem Untergang entstand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung des Burgwalls und seine wahrscheinliche Funktion"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Keramikfunde vom Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hat seine Wehrfunktion längst verloren, und seine Befestigung ist im Laufe von tausend Jahren zerfallen; erhalten hat sich jedoch die Tradition im Bestehen eines Sakralbaus. Die heutige Kapelle, die am Anfang des 18. Jahrhunderts entstand, knüpfte an ein älteres Objekt an. Obwohl sich das Patrozinium der Kapelle geändert hat, hielt sich unter der Bevölkerung der weiten Umgebung bis vor kurzem der Brauch, zur Wallfahrt „k Jelenke“ zu gehen. Die Namensform Jelena anstelle von Elena, Helena zeugt von einer sehr alten Tradition. Obwohl es nicht gelang, Reste eines älteren Sakralbaus festzustellen, lässt sich ein solcher hier bereits zur Zeit der Entstehung der Benediktinerabtei in Hronský Beňadik vermuten, auch wenn er in der Schenkungsurkunde aus dem Jahr 1075 nicht ausdrücklich erwähnt wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Funden der archäologischen Ausgrabung lässt sich der Burgwall auf der Beňadická skala in das 10. Jahrhundert datieren. Ebenso wie auf anderen Burgwällen im Gebiet des mittleren Grantals bestätigte sich, dass die Flächen der nachgroßmährischen Burgwälle nicht vollständig besiedelt waren, sondern dass sich die Besiedlung nur in der Nähe des Walles konzentrierte. Über die Nutzung der mittleren Fläche des Burgwalls ließen sich keinerlei Belege gewinnen. Wahrscheinlich war sie eine Reserve, die der Bevölkerung der umliegenden Ebenen im Fall einer Gefahr Zuflucht bieten sollte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Eisenfunde vom Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wichtig sind die Funde von Gegenständen, die die Beschäftigung der Bevölkerung auf dem Burgwall dokumentieren. Sichel, Pflugschar und Drehmühlen zeugen von landwirtschaftlicher Produktion. Die Drehmühlen wurden direkt vor Ort hergestellt. Die Keramik wurde offenbar aus den nahen Siedlungen in der Ebene im Überschwemmungsgebiet der Gran herbeigeschafft. Spinnwirtel und eiserne Messerchen waren bis vor kurzem alltägliche Gegenstände in jedem ländlichen Haushalt. Der Charakter des Burgwalls war jedoch vor allem militärisch. Der Sporn und die Pfeilspitze gelangten gewiss nicht zufällig in das Areal des Burgwalls. Die mächtige Befestigung und die vorgeschobene Lage des Burgwalls beweisen seine Bedeutung als Wächter der Straße entlang der Gran, gegebenenfalls einer Furt zum anderen Ufer, wo die Slawen die weiträumige urgeschichtliche befestigte Höhensiedlung auf dem Felsen Krivín nutzten. Der einzige Nachteil des Burgwalls war das Problem der Versorgung mit Trinkwasser. Der Transport von Wasser aus dem Tal der Gran war wohl nicht sehr vorteilhaft, besonders während einer Belagerung. Eine schwache Quelle tritt zwar aus dem Felsen oberhalb der Straße Hronský Beňadik – Psiare aus (heute steht an dieser Stelle eine Statue des hl. Johannes Nepomuk), aber der Zugang zur Quelle wäre zur Zeit des Bestehens des Burgwalls von der besiedelten Fläche aus nur über Strickleitern möglich gewesen. Eine andere Quelle am Hang zwischen dem Objekt der Benediktinerabtei und dem Burgwall konnte der Feind leicht besetzen. Der Burgwall war offenbar nicht sehr lange besiedelt. Wenn er an der Wende vom 9. zum 10. Jahrhundert entstand, so diente er im 11. Jahrhundert sicher nicht mehr seinem Zweck, als die günstigere Stelle im heutigen Hronský Beňadik besiedelt wurde. An ihrer Stelle entstand in der zweiten Hälfte des 11. Jahrhunderts die Benediktinerabtei mit reich besiedelter Umgebung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall auf der Beňadická skala war Teil eines Systems von Burgwällen im Grantal im Gebiet der Slowakischen Pforte.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Die Burgwälle Grác auf dem Hügel Pipíška bei Malé Kozmálovce, Hrádze (Festunok) bei Tlmače, Krivín in der Gemarkung von Rybník gegenüber dem Dorf Psiare (heute Teil der Gemeinde Hronský Beňadik) und vielleicht auch der weitere, durch einen Steinbruch zerstörte Burgwall über Kozárovce bestanden gleichzeitig und hatten dieselbe Funktion: die Straße entlang der Gran und die Furten in diesem Gebiet zu schützen. Vier bis fünf befestigte Punkte kontrollierten ein knapp 7 km langes Gebiet. Auch diese Tatsache beweist, dass das Gebiet der Mittelslowakei nördlich dieser Burgwälle vor dem 11. Jahrhundert nicht menschenleer war, wie es bis vor kurzem einige ungarische Historiker behaupteten. Die Umgebung war dicht besiedelt, wie sich auch aus der Aufzählung der Besitzungen ergibt, die Géza I. im Jahr 1075 der Abtei in Hronský Beňadik schenkte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Ausgrabung auf dem Burgwall von Beňadik brachte Ergebnisse, die überraschend mit den Ergebnissen der Ausgrabung auf dem Burgwall Hrádze in Tlmače übereinstimmen. Der Wach- und Wehrcharakter des Burgwalls wird in beiden Fällen durch eine große Flächenreserve in der Mitte der befestigten Fläche ergänzt, die der Bevölkerung aus der näheren Umgebung als Zuflucht diente. Der Burgwall auf der Beňadická skala entstand jedoch im Unterschied zu anderen gleichzeitigen Burgwällen in der Slowakischen Pforte an einer bis dahin unbesiedelten Stelle, möglicherweise als Pendant zu dem viel weiträumigeren Burgwall auf dem gegenüberliegenden Krivín."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Linie am rechten Ufer der Gran war damals offenbar gut bekannt, und das Wissen um sie überdauerte in die folgenden Jahrhunderte. Nur so lassen sich die Worte des Prager Kanonikers Kosmas erklären, der noch im 12. Jahrhundert darüber schreibt, dass die Gran im 9. Jahrhundert die östliche Grenze des Reiches Svatopluks gewesen sei. Wahrscheinlicher ist jedoch, dass "
+       },
+       {
+        "type": "text",
+        "text": "die Burgwälle im Gebiet der heutigen Slowakei in diesem Abschnitt des Grantals erst im 10. Jahrhundert entstanden und den Vormarsch der Altungarn aufhalten sollten, die von Süden entlang der Gran in die gebirgigen Gebiete der Mittelslowakei vordrangen. Im Fall von Überfällen boten die Burgwälle Zuflucht und waren auch ein Ort der Sammlung einheimischer Krieger.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Eine solche Erklärung entspricht voll und ganz auch den Informationen über slawische Burgwälle, wie sie im 11. Jahrhundert der arabische Schriftsteller Gardīzī übermittelte, der ältere Nachrichten aus dem 10. Jahrhundert verarbeitete. Nach Gardīzī nutzten die Slawen ihre Burgen in Zeiten der Gefahr, bewohnten sie vor allem im Winter und lebten im Sommer außerhalb von ihnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Entstehung des Königreichs Ungarn und der Eingliederung der Mittelslowakei in seine Organisation verloren die Burgwälle im Grantal ihre Berechtigung und gingen unter. An ihrer Stelle wuchsen die Siedlungen in der Ebene des Grantals. Das einst von den Burgwällen beherrschte Gebiet verlor jedoch seine Bedeutung nicht, und möglicherweise wurde gerade deshalb diese Stelle für die Gründung der Benediktinerabtei im heutigen Hronský Beňadik ausgewählt."
+       }
+      ]
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kennzeichnung und Zustand des Burgwalls heute"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf den Burgwall gelangen Sie schnell und bequem über einen schmalen Weg, der beim Kreuz neben der Hauptstraße zwischen Hronský Beňadik und dem Dorf Psiare beginnt. Wie auf den Fotos zu sehen ist, bildet die Fläche des Burgwalls eine sehr schöne kleine Ebene, auf der Westseite mit einer nahezu senkrechten Wand. Der Weg zum Burgwall ist in keiner Weise gekennzeichnet, und auch im Raum des Burgwalls finden Sie keine Spur irgendeiner Informationstafel, aus der Sie erfahren würden, dass Sie auf einem slawischen Burgwall stehen. Auf der Nordostseite ist der Wall noch deutlich sichtbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

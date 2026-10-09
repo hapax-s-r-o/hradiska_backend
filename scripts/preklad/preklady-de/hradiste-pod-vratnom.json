@@ -1,0 +1,228 @@
+{
+ "slug": "hradiste-pod-vratnom",
+ "data": {
+  "title": "Hradište pod Vrátnom – Burgwälle am Brezová-Pass",
+  "slug": "hradiste-pod-vratnom-burgwaelle-am-brezova-pass",
+  "excerpt": "Hradište pod Vrátnom liegt am Westfuß der Kleinen Karpaten, also im Gebiet des ursprünglichen Mährischen Fürstentums. Durch das Tal des Brezovský-Baches zog man schon in der Urgeschichte zum Brezová-Pass, und die Slawen sicherten diesen Übergang mit Burgwällen – der größte von ihnen diente vom 7. bis zum 12. Jahrhundert. Am Fuß des Berges Cigánka lag ein Reihengräberfeld des 9. und beginnenden 10. Jahrhunderts.",
+  "metaTitle": "Hradište pod Vrátnom – Burgwälle am Brezová-Pass",
+  "metaDescription": "Hradište pod Vrátnom am Westfuß der Kleinen Karpaten: slawische Burgwälle am Weg zum Brezová-Pass und ein Reihengräberfeld des 9. Jahrhunderts.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Westfuß der Kleinen Karpaten, Tal des Brezovský-Baches in Richtung Brezová-Pass",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche des Burgwalls bei u Fajnorov",
+    "value": "etwa 1,5 ha, genutzt vom 7. bis zum 12. Jahrhundert",
+    "icon": "building"
+   },
+   {
+    "label": "Gräberfeld auf der Cigánka",
+    "value": "mittelgroßes Reihengräberfeld, Bestattungen im 9. und zu Beginn des 10. Jahrhunderts",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1800–700 v. Chr.",
+    "title": "Besiedlung in der Bronzezeit",
+    "description": "Funde in Osuské, in der Gemarkung von Hradište und in Štverník belegen, dass auch in der Bronzezeit am Pass lebhafter Verkehr herrschte.",
+    "type": "era"
+   },
+   {
+    "year": "Anfang des 6. Jahrhunderts",
+    "title": "Ankunft der Slawen und Bau der Burgwälle",
+    "description": "Große Bedeutung erlangte der Pass nach der Ankunft der Slawen zu Beginn des 6. Jahrhunderts; sie errichteten zu seinem Schutz Burgwälle, darunter einen großen Burgwall mit einer Fläche von 1,5 ha über dem Steinbruch in der Siedlung u Fajnorov, der vom 7. bis zum 12. Jahrhundert diente.",
+    "type": "construction"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Entstehung des Burgwalls auf dem Tomišovec",
+    "description": "Der verhältnismäßig kleine Burgwall auf dem Hügel „Tomišovec“ in der Gemarkung von Hradište wurde den gefundenen Scherben nach in der Mittelburgwallzeit im 9.–10. Jahrhundert errichtet.",
+    "type": "founding"
+   },
+   {
+    "year": "1263",
+    "title": "Die Burg Dobrá Voda",
+    "description": "Von der Südseite schützte den Übergang ab dem Jahr 1263 die Burg Dobrá Voda.",
+    "type": "construction"
+   },
+   {
+    "year": "1935",
+    "title": "Entdeckung der Gräber auf der Cigánka",
+    "description": "A. Furko stieß 1935 in seinem Hof auf menschliche Knochen; das Grab untersuchte Viktor Šemmer und fand beim Skelett ein Messerchen, einen Feuerstahl und ein Schlagfeuerzeug aus Feuerstein. Im Herbst 1935 untersuchte Viktor Šemmer noch zwei weitere Gräber.",
+    "type": "discovery"
+   },
+   {
+    "year": "1946",
+    "title": "Rettungsgrabung von Vojtech Budinský-Krička",
+    "description": "Im Jahr 1946 führte Vojtech Budinský-Krička eine Rettungsgrabung durch und untersuchte noch vier Gräber, von denen eines mit einer Holzkonstruktion ausgestattet war, was auf eine höhere gesellschaftliche Stellung des Bestatteten hinweist.",
+    "type": "discovery"
+   },
+   {
+    "year": "1956 und 1972",
+    "title": "Beschädigung weiterer Gräber",
+    "description": "Einige weitere Gräber wurden in den Jahren 1956 und 1972 beschädigt.",
+    "type": "destruction"
+   },
+   {
+    "year": "1971",
+    "title": "Scherbenaufsammlung auf dem Tomišovec",
+    "description": "Am Hang nördlich von Hradište pod Vrátnom in der Lage Tomišovec sammelte Vladimír Jamárik eine Menge verzierter und unverzierter Scherben des 10.–12. Jahrhunderts auf.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3278,
+    "caption": "Hradište auf der 1. militärischen Landesaufnahme",
+    "alt": "Hradište auf der 1. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 3279,
+    "alt": "Historische Schwarz-Weiß-Orthofotokarte mit gut lesbaren Walllinien"
+   },
+   {
+    "mediaId": 3280,
+    "caption": "Hortfund aus Hradište pod Vrátnom (aus dem Vortrag von R. Čambal: Kelten, Daker, Römer und das Oppidum von Bratislava (Archeologická kaviareň, November 2023))",
+    "alt": "Hortfund aus Hradište pod Vrátnom (aus dem Vortrag von R. Čambal: Kelten, Daker, Römer und das Oppidum von Bratislava (Archeologická kaviareň, November 2023))"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hradište pod Vrátnom liegt am Westfuß der Kleinen Karpaten, also im Gebiet des ursprünglichen Mährischen Fürstentums. Bisher ist es mir gelungen, nur ein Minimum an Informationen darüber zu gewinnen; sollte ich jedoch auf etwas Ausführlicheres stoßen, wird es gewiss ergänzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hradište entstand im Tal des Brezovský-Baches, durch das man schon in der Urgeschichte zum Brezová-Pass zog, einem bequemen Übergang vom Záhorie in das Waagtal über die Kleinen Karpaten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hradište auf der 1. militärischen Landesaufnahme",
+    "alt": "Hradište auf der 1. militärischen Landesaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Anwesenheit des Menschen in dieser Gegend bereits in der Altsteinzeit (im Paläolithikum) zeugt der Fund von Holzkohlestücken, die im Travertin auf der rechten Seite der Landstraße von Hradište nach Brezová eingeschlossen waren. An mehreren Stellen im Tal fanden sich auch geschliffene Steingeräte aus der Jungsteinzeit (dem Neolithikum). Funde in Osuské, in der Gemarkung von Hradište und in Štverník belegen, dass auch in der Bronzezeit (1800–700 v. Chr.) am Pass lebhafter Verkehr herrschte. Große Bedeutung erlangte der Pass nach der Ankunft der Slawen zu Beginn des 6. Jahrhunderts. Sie errichteten zu seinem Schutz auch Burgwälle – einen großen mit einer befestigten Fläche von 1,5 ha über dem Steinbruch in der Siedlung u Fajnorov hinter Košariská, allerdings schon im Katastralgebiet der Gemeinde Prašník, der vom 7. bis zum 12. Jahrhundert diente."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein verhältnismäßig kleiner Burgwall entstand auch in der Gemarkung von Hradište oberhalb des Dorfes auf dem Hügel „Tomišovec“, unter dessen steilem Hang der Brezovský-Bach fließt. Den gefundenen Scherben nach zu urteilen errichteten sie ihn in der Mittelburgwallzeit im 9.–10. Jahrhundert. Dieser Burgwall am rechten Bachufer und die ihm gegenüber am anderen Ufer liegenden Travertinfelsen, die einst bis an die sumpfigen Wiesen reichten, schlossen das Tal an dieser Stelle wie die Backen einer großen Zange ein! Der Weg musste ihn in einem Bogen oberhalb der Felsen über Babiná umgehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Wachdienst auf dem Burgwall leisteten Männer aus der nahe gelegenen Siedlung, die ebenfalls sehr zweckmäßig und durchdacht in einem linksseitigen Seitental angelegt war, um den Übergang über die Kleinen Karpaten nach Dobrá Voda zu überwachen. Von der Südseite schützte den Zugang zu ihm ab dem Jahr 1263 die Burg Dobrá Voda. Am oberen Ende der Siedlung, auf der Terrasse am Fuß des Berges Cigánka, lag ein kleines Reihengräberfeld (4 Gräber überwiegend ohne Grabbeigaben) aus dem Ende der großmährischen und dem Beginn der nachgroßmährischen Zeit. Entdeckt wurde es am Rand der Anwesen von J. Kováč und der Brüder V. Š. und A. Furko. Die Funde rettete der ortsansässige Bürger Florián Vulgan, der sie den Vertretern des damaligen Archäologischen Instituts in Trenčiansky Svätý Martin übergab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradište pod Vrátnom",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bedeutendere Funde stammen vom Fuß des Berges Cigánka. A. Furko stieß 1935 in seinem Hof auf menschliche Knochen. Das Grab untersuchte Viktor Šemmer und fand beim Skelett ein Messerchen, einen Feuerstahl und ein Schlagfeuerzeug aus Feuerstein."
+       },
+       {
+        "type": "text",
+        "text": " Nur 10 cm über dem Skelett stellte er eine etwa 4–5 cm dicke Erdschicht fest, die mit Holzkohle und Asche vermischt war."
+       },
+       {
+        "type": "text",
+        "text": " An derselben Stelle war bereits früher ein Körpergrab mit einem verzierten Tongefäß gefunden worden. Im Herbst 1935 untersuchte Viktor Šemmer noch zwei weitere Gräber, in denen er zwei Messerchen und einen Wetzstein fand."
+       },
+       {
+        "type": "text",
+        "text": " Einige Jahre später wurden bei Arbeiten auf den Nachbarhöfen mindestens 20 Gräber zerstört. Im Jahr 1946 führte Vojtech Budinský-Krička eine Rettungsgrabung durch und untersuchte noch vier Gräber, wobei eines von ihnen mit einer Holzkonstruktion ausgestattet war, was auf eine höhere gesellschaftliche Stellung des Bestatteten hinweist. Einige weitere Gräber wurden in den Jahren 1956 und 1972 beschädigt. Auf diesem mittelgroßen Gräberfeld wurde im 9. und zu Beginn des 10. Jahrhunderts bestattet."
+       },
+       {
+        "type": "text",
+        "text": " Die Besiedlung des Gebietes setzte sich auch nach dem Untergang Großmährens und während der Entstehung des Königreichs Ungarn fort. Am Hang nördlich von Hradište pod Vrátnom in der Lage Tomišovec sammelte Vladimír Jamárik im Jahr 1971 eine Menge verzierter und unverzierter Scherben des 10.–12. Jahrhunderts auf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

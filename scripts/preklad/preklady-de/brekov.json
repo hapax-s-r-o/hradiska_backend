@@ -1,0 +1,285 @@
+{
+ "slug": "brekov",
+ "data": {
+  "title": "Brekov – ein slawischer Burgwall unter der alten Burg über dem Laborec",
+  "slug": "brekov-slawischer-burgwall-ueber-dem-laborec",
+  "excerpt": "Die Gemeinde Brekov ist das Eingangstor zum Bezirk Humenné: Sie liegt im Tal des Flusses Laborec an der Grenze zwischen dem Vihorlat-Gebirge und dem Ondava-Hügelland, unterhalb der gleichnamigen alten Burg. Auf dem Burgberg stand im 9. und 10. Jahrhundert ein slawischer Burgwall, der den Weg durch das Flusstal bewachte. Im Jahr 1971 legte eine Rettungsgrabung am Südhang des Burgbergs vier eingetiefte slawische Befunde frei.",
+  "metaTitle": "Brekov – slawischer Burgwall unter der alten Burg",
+  "metaDescription": "Bei Brekov im Tal des Laborec, unterhalb der alten Burg, legte eine Rettungsgrabung 1971 neolithische und slawische Befunde auf dem Burgberg frei.",
+  "keyFacts": [
+   {
+    "label": "Abmessungen des Burgwalls",
+    "value": "etwa 70 × 40 m, ellipsenförmiger Grundriss in Richtung NO–SW",
+    "icon": "map"
+   },
+   {
+    "label": "Funde aus der Grabung 1971",
+    "value": "vier eingetiefte slawische Befunde, sieben Messerchen, drei eiserne Pfeilspitzen, zwei Reitersporen",
+    "icon": "building"
+   },
+   {
+    "label": "Lage",
+    "value": "7 km südwestlich von Humenné, auf dem Burgberg über der Gemeinde Brekov",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "8. Jahrhundert",
+    "title": "Älterer slawischer Horizont",
+    "description": "In der Siedlung in Brekov lässt sich ein älterer Zeithorizont aus dem 8. Jahrhundert abgrenzen (ein Hakensporn, ein Messer mit volutenförmigem Ende).",
+    "type": "era"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawischer Burgwall auf dem Burgberg von Brekov",
+    "description": "Der slawische Burgwall, der den Weg durch das Tal des Laborec bewachte, hatte einen ellipsenförmigen Grundriss in Richtung NO–SW mit Abmessungen von etwa 70 × 40 m; die Keramik lässt sich grob in das Ende des 9. und den Beginn des 10. Jahrhunderts datieren.",
+    "type": "construction"
+   },
+   {
+    "year": "1971",
+    "title": "Archäologische Rettungsgrabung",
+    "description": "Beim Bau eines Wasserbehälters am südlichen Hang des Burgbergs wurden urgeschichtliche und slawische Befunde gestört; das Zemplíner Museum in Michalovce untersuchte vier eingetiefte slawische Befunde.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6420,
+    "alt": "Luftbild der Ruinen einer steinernen Burg auf einem grasbewachsenen Hügel"
+   },
+   {
+    "mediaId": 3219,
+    "alt": "LiDAR-Schummerungsrelief mit dem Umriss des Burgwalls und den Gräben"
+   },
+   {
+    "mediaId": 3220,
+    "caption": "Auf der älteren Luftaufnahme ist der Verlauf des slawischen Walls gut zu erkennen.",
+    "alt": "Auf der älteren Luftaufnahme ist der Verlauf des slawischen Walls gut zu erkennen."
+   },
+   {
+    "mediaId": 3221,
+    "alt": "Ruine der Burg Brekov auf einem Hügel über der Landschaft"
+   },
+   {
+    "mediaId": 3222,
+    "alt": "Zeichnungen von Keramikfragmenten aus dem 9. bis 10. Jahrhundert und einer blattförmigen Pfeilspitze"
+   },
+   {
+    "mediaId": 3223,
+    "alt": "Schwarzweißaufnahme des oberen Steins einer Drehmühle mit Öffnung"
+   },
+   {
+    "mediaId": 3224,
+    "alt": "Zeichnungen eiserner Messer, Spitzen und Beschläge aus der Grabung mit Maßstab"
+   },
+   {
+    "mediaId": 3225,
+    "alt": "Zugewachsener Wall des Burgwalls im lichten Wald am Hang"
+   },
+   {
+    "mediaId": 3226,
+    "alt": "Grüner Graben zwischen den Wällen des Burgwalls im Sommerwald"
+   },
+   {
+    "mediaId": 3227,
+    "alt": "Holzpfosten mit Informationstafel am Weg zwischen den Wällen"
+   },
+   {
+    "mediaId": 3228,
+    "alt": "Informationstafel „Slawischer Burgwall Brekov“ mit Zeichnungen von Tor, Mauer und Haus"
+   },
+   {
+    "mediaId": 3229,
+    "alt": "Teil der Informationstafel mit Funden: Schale, Gefäß, Beschlag und Pfeilspitzen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Brekov ist das Eingangstor zum Bezirk Humenné, sie liegt im Tal des Flusses Laborec an der Grenze zwischen dem Vihorlat-Gebirge und dem Ondava-Hügelland unterhalb der gleichnamigen alten Burg, 7 km südwestlich der Bezirksstadt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Brekov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemarkung der Gemeinde wurden am südlichen Hang des Burgbergs im Jahr 1971 beim Bau eines Wasserbehälters nicht nur urgeschichtliche (neolithische), sondern auch slawische Befunde gestört. Im Sattel am Zugangsweg bestand eine gleichzeitige, wahrscheinlich auch ältere slawische Siedlung bäuerlich-handwerklichen Charakters aus dem 8.–10. Jahrhundert. Bei der Rettungsgrabung des Zemplíner Museums in Michalovce wurden vier eingetiefte slawische Befunde mit unregelmäßigem Grundriss untersucht, wahrscheinlich die untersten Teile von Grubenhäusern. In den Befunden fanden sich neben zahlreichen Keramikscherben relativ viele Eisenerzeugnisse (sieben Messerchen, drei eiserne Pfeilspitzen, Beschläge von der Konstruktion der Hütten, zwei Reitersporen, ein Feuerstahl und Fragmente eiserner Gegenstände). Außerdem wurden in den freigelegten Befunden auch tönerne Spinnwirtel und zwei Glasperlen festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die geretteten Scherben stammen von größeren und kleineren topfartigen Gefäßen, die aus sandigem Ton meist auf der Töpferscheibe hergestellt wurden; ihre Oberfläche schmückten einfache, doppelte und mehrfache Wellenlinien, Rillenbänder, Einstiche und Ähnliches. An den Böden traten relativ häufig Töpfermarken mit dem Kreuzmotiv in verschiedenen Kombinationen auf (im Kreis, im Rechteck, im Quadrat und Ähnlichem). Die Keramik lässt sich grob in das Ende des 9. und den Beginn des 10. Jahrhunderts datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den eisernen Gegenständen fallen zwei Messerchen mit volutenförmigem Griffende auf, die in der Burgwallkultur in großen Räumen vom Schwarzmeergebiet über das Karpatenbecken bis zur Ostsee verbreitet waren. Die Datierung dieser Messer entspricht der zeitlichen Stellung der Keramik (Ende des 9. Jahrhunderts)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Siedlung in Brekov lassen sich zwei zeitliche Horizonte abgrenzen, und zwar das 8. Jahrhundert (ein Hakensporn, ein Messer mit volutenförmigem Ende) und das 9. Jahrhundert (ein Sporn mit Endplättchen und weiteres Inventar)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der slawische Burgwall (9.–10. Jahrhundert), der den Weg durch das Tal des Laborec bewachte, hatte auf dem Burgberg von Brekov einen ellipsenförmigen Grundriss in Richtung NO–SW mit Abmessungen von etwa 70 × 40 m. Zu den durch Aufsammlung gewonnenen Funden gehören Keramik aus dem 9. Jahrhundert, zwei eiserne Pfeilspitzen mit rückwärts gerichteten Flügelchen und Tülle sowie eine schmale, blattförmige Pfeilspitze mit Einsteckdorn."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf der älteren Luftaufnahme ist der Verlauf des slawischen Walls gut zu erkennen.",
+    "alt": "Auf der älteren Luftaufnahme ist der Verlauf des slawischen Walls gut zu erkennen.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den Einzelfunden aus der Gemarkung der Gemeinde Brekov gehört ein axtförmiger Eisenbarren mit bogenförmig endendem Blatt und massivem Hals."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach einer systematischeren Untersuchung werden die Archäologen auch die Zeit und die zeitliche Spanne der Besiedlung dieser Burgwälle zuverlässiger bestimmen und die materielle Kultur ihrer Bewohner sowie die Beziehungen dieser Burgwälle zu den benachbarten und ferneren Gebieten der slawischen Besiedlung tiefer erforschen können. Die Burgwälle hatten wahrscheinlich sowohl den Charakter einer Fliehburg als auch einen Verteidigungscharakter, wovon die bisherigen Funde eiserner Bewaffnungsteile zeugen. Die Besiedlung der Burgwälle war nicht nur vorübergehender Art, sondern relativ intensiv, und ihre Dauer lässt sich schon jetzt auf etwa eine bis zwei Generationen schätzen. Für ein dauerhafteres Wohnen auf den Burgwällen spricht auch die Menge des auf relativ kleinem Raum gefundenen Keramikmaterials. Die Keramik wurde handwerklich hergestellt, meist auf der Handdrehscheibe und offenbar in Werkstätten direkt auf dem Burgwall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Brekov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Künftige Untersuchungen werden wahrscheinlich auch eine bessere Kenntnis des Lebens auf dem Burgwall ermöglichen, dessen Verteidiger sich neben dem Handwerk auch mit der Haltung von Haustieren und mit der Jagd befassten, vor allem aber mit dem Anbau von Getreide an den dafür geeignetsten Stellen im Areal des Burgwalls selbst und in seiner nächsten Umgebung. Eine systematische Grabung wird vielleicht einen tieferen Blick in den historischen Hintergrund der Entstehung und des Untergangs dieser slawischen Burgwälle ermöglichen und möglicherweise eine Antwort auf die Frage geben, ob die Burgwälle wenigstens einige Zeit auch ein politisches und administratives Zentrum sein konnten. Die in der Arbeit enthaltenen Informationen erfassen den Erkenntnisstand zu diesen Burgwallformen aus den siebziger und achtziger Jahren des 20. Jahrhunderts, wobei sich die Autoren auf die in diesen Burgwallarealen erforschten Funde stützten. Für endgültige Schlüsse sind jedoch weitere Untersuchungen der genannten Burgwälle sowie ähnlicher Anlagen im Rahmen der Ostslowakei und der angrenzenden Gebiete notwendig."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Brekov",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "slug": "ladce-tunezice-nozdrovice",
+ "data": {
+  "title": "Ladce/Tunežice/Nozdrovice – eine befestigte Höhensiedlung der Púchov-Kultur",
+  "slug": "ladce-tunezice-nozdrovice-puchov-hoehensiedlung",
+  "excerpt": "Das Hradište bei Nozdrovice reicht auch in die Gemarkung von Tunežice und wird manchmal als Ladce oder Košeca geführt – es ist aber immer dieselbe befestigte Höhensiedlung. Seit den 30er Jahren des 20. Jahrhunderts liefert sie Scherben der Púchov-Kultur, die zu Prof. Vojtech Budinský-Krička gelangten; die angrenzende Siedlung zählt zu den größten der Púchov-Kultur in der Nordwestslowakei. Berühmt wurde die Fundstelle durch einen Münzschatz mit 10 bis 12 Prägungen des Typs Divinka.",
+  "metaTitle": "Ladce/Tunežice – eine Höhensiedlung der Púchov-Kultur",
+  "metaDescription": "Eine befestigte Höhensiedlung an der Grenze von Nozdrovice, Tunežice und Ladce, bekannt seit den 30er Jahren durch reiche Funde der Púchov-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die befestigte Höhensiedlung liegt in der Gemarkung von Nozdrovice und Tunežice, manchmal wird sie auch als Ladce oder Košeca angeführt",
+    "icon": "map"
+   },
+   {
+    "label": "Größe der Siedlung",
+    "value": "Die angrenzende Siedlung zählt zu den größten Siedlungen der Púchov-Kultur in der Nordwestslowakei",
+    "icon": "building"
+   },
+   {
+    "label": "Schatz keltischer Münzen",
+    "value": "Auf der Höhensiedlung wurde ein Schatz mit 10 bis 12 Münzen des Typs Divinka gefunden – die bislang größte bekannte Zahl dieses Typs",
+    "icon": "star"
+   },
+   {
+    "label": "Einzigartiges Gefäßchen",
+    "value": "Gefunden wurde ein vollständiges, unbeschädigtes kleines Gefäß mit einem Ornament aus einem Band von Blättchen verschiedener Größe an der Mündung – ein Fund ohne Entsprechung",
+    "icon": "custom"
+   },
+   {
+    "label": "Quelle des Asphalts auf der Keramik",
+    "value": "Der teerartige Anstrich auf einem Vorratsgefäß stammte aus der einzigen bekannten Quelle natürlichen Asphalts in Mitteleuropa, in Nezbudská Lúčka bei Varín",
+    "icon": "mountain"
+   },
+   {
+    "label": "Münze der Eravisker",
+    "value": "Der Fund einer Münze des pannonischen Keltenstammes der Eravisker ist auf Höhensiedlungen der Púchov-Kultur völlig einzigartig",
+    "icon": "star"
+   },
+   {
+    "label": "Untergang der Besiedlung",
+    "value": "Siedlung und Höhensiedlung gingen während des Einfalls der Germanen an der Wende der Zeitrechnung unter",
+    "icon": "shield"
+   },
+   {
+    "label": "Quellen",
+    "value": "Die grundlegende Quelle ist die Monografie Lipták B. u. a.: Ladce (Ametyst, 2003)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "30er Jahre des 20. Jahrhunderts",
+    "title": "Erste Funde von Keramik der Púchov-Kultur",
+    "description": "Auf der Höhensiedlung begann man Scherben von Gefäßen der Púchov-Kultur zu finden, die in das Slowakische Nationalmuseum in Martin zu Prof. Vojtech Budinský-Krička gelangten.",
+    "type": "discovery"
+   },
+   {
+    "year": "1. Jh. v. Chr. – erste Jahrzehnte n. Chr.",
+    "title": "Dauer der Siedlung bei der Höhensiedlung",
+    "description": "Die Siedlung auf der westlichen, südwestlichen und südöstlichen Seite der Befestigung dauerte mindestens das gesamte 1. Jahrhundert v. Chr. hindurch bis in die ersten Jahrzehnte der neuen Zeitrechnung.",
+    "type": "era"
+   },
+   {
+    "year": "erste Jahrzehnte n. Chr.",
+    "title": "Zerstörung der Höhensiedlung durch die Germanen",
+    "description": "Die Höhensiedlung wurde zusammen mit der angrenzenden Siedlung während eines Einfalls der Germanen zerstört, die die Unterbrechung der Entwicklung der Púchov-Kultur in der Zeit ihrer größten Blüte verursachten.",
+    "type": "destruction"
+   },
+   {
+    "year": "2. H. 1. Jh. n. Chr. – Ende 2. Jh. n. Chr.",
+    "title": "Verkleinerung des Gebiets der Púchov-Kultur",
+    "description": "Das von der Púchov-Kultur besiedelte Gebiet verkleinerte sich bedeutend, die Zahl der archäologischen Fundstellen sank auf etwa ein Viertel, genutzt wurden nur noch einige Höhensiedlungen.",
+    "type": "era"
+   },
+   {
+    "year": "Wende vom 2. zum 3. Jh. n. Chr.",
+    "title": "Datierung der germanischen Siedlung in Beluša",
+    "description": "Auf der Grundlage bronzener Fibeln wurde die in Beluša (Lage Pechová) entdeckte germanische, quadische Siedlung an die Wende vom 2. zum 3. Jahrhundert n. Chr. gestellt.",
+    "type": "discovery"
+   },
+   {
+    "year": "Ende des 2. Jh. n. Chr.",
+    "title": "Untergang der Púchov-Kultur",
+    "description": "Nach der Verschleppung der Kotiner nach Pannonien während der Markomannenkriege ging die Púchov-Kultur unter, und in den geleerten Raum begannen die Germanen von Westen vorzudringen.",
+    "type": "destruction"
+   },
+   {
+    "year": "179–180",
+    "title": "Feldzug der Legionen Marc Aurels",
+    "description": "Nach den siegreichen Schlachten der römischen Legionen ordnete Kaiser Marcus Aurelius die Besetzung der Karpatenpässe an, um die Flucht der Quaden nach Norden zu ihren Stammesgenossen zu verhindern.",
+    "type": "battle"
+   },
+   {
+    "year": "8.–9. Jh.",
+    "title": "Älteste slawische Funde in der Umgebung von Ladce",
+    "description": "In der nächsten Umgebung von Ladce sind bislang die ältesten slawischen Funde aus dem 8. und 9. Jahrhundert belegt; die benachbarte Gemarkung von Beluša ist mit slawischen Hügelgräberfeldern übersät.",
+    "type": "era"
+   },
+   {
+    "year": "50er und 60er Jahre des 20. Jh.",
+    "title": "Ausgrabung slawischer Hügelgräberfelder in Beluša",
+    "description": "An sieben Stellen wurden bis zu 85 Hügelgräber festgestellt; die Ausgrabungen in den Lagen Koscelišče und Garové brachten Waffenfunde, darunter eine großmährische Bartaxt.",
+    "type": "discovery"
+   },
+   {
+    "year": "9.–11. Jh.",
+    "title": "Datierung der eisernen Speerspitze aus Ladce",
+    "description": "Nach der Chronologie von Prof. A. Ruttkay kann die im Flussbett der Waag gefundene eiserne Speerspitze aus der Zeit der slawischen Besiedlung stammen, konkret aus dem Zeithorizont vom 9. bis zum 11. Jahrhundert.",
+    "type": "era"
+   },
+   {
+    "year": "1964",
+    "title": "Entdeckung einer jungburgwallzeitlichen Besiedlung",
+    "description": "Petrovský-Šichman führte in seinem Schlüsselartikel an, dass Š. Križanová am Fuß des Hradište eine jungburgwallzeitliche Besiedlung fand, was auf eine Nutzung der Höhensiedlung auch durch die Slawen als Fliehburg hindeutet.",
+    "type": "discovery"
+   },
+   {
+    "year": "45–35 v. Chr.",
+    "title": "Prägung der Münzen des Typs Divinka",
+    "description": "Nach dem Vorbild der Prager Quinare begann man auf einer der befestigten Höhensiedlungen der Púchov-Kultur im mittleren Waagtal, wohl in Divinka, Münzen des Typs Divinka zu prägen.",
+    "type": "event"
+   },
+   {
+    "year": "um 48 v. Chr.",
+    "title": "Fund einer römischen republikanischen Münze aus Nozdrovice",
+    "description": "Die jüngere römische republikanische Münze, die in Nozdrovice gefunden wurde, stammt ungefähr aus dem Jahr 48 v. Chr. und bestätigt die Datierung der Münzen des Typs Divinka in das dritte Viertel des 1. Jahrhunderts v. Chr.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6437,
+    "alt": "Wall der Höhensiedlung in einem Laubwald, der Hang mit gefallenem Laub bedeckt"
+   },
+   {
+    "mediaId": 2712,
+    "caption": "Die gut sichtbare befestigte Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die gut sichtbare befestigte Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert"
+   },
+   {
+    "mediaId": 2718,
+    "caption": "Wallbefestigung",
+    "alt": "Wallbefestigung"
+   },
+   {
+    "mediaId": 2743,
+    "caption": "Wallbefestigung",
+    "alt": "Wallbefestigung"
+   },
+   {
+    "mediaId": 2745,
+    "caption": "Blick auf die innere, durch einen Wall befestigte Fläche",
+    "alt": "Blick auf die innere, durch einen Wall befestigte Fläche"
+   },
+   {
+    "mediaId": 2746,
+    "caption": "Terrasse vor dem Wall",
+    "alt": "Terrasse vor dem Wall"
+   },
+   {
+    "mediaId": 2747,
+    "caption": "Wallbefestigung",
+    "alt": "Wallbefestigung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Hradište bei Nozdrovice reicht auch in die Gemarkung von Tunežice hinein und wird manchmal auch als Ladce oder Košeca angeführt, es ist aber immer dieselbe befestigte Höhensiedlung, von der man schon sehr lange weiß. Seit den dreißiger Jahren des 20. Jahrhunderts finden sich hier Scherben von Gefäßen der Púchov-Kultur, die auch in das Slowakische Nationalmuseum in Martin zu Prof. Vojtech Budinský-Krička gelangten (damals führte er den Namen Budaváry). Die wiederholten Begehungen von Šarlota Križanová auf dieser Befestigung brachten erneut reiche Funde von Keramik der Púchov-Kultur. Sie fand sie an mehreren Stellen, in einer Tiefe von 90 cm in einer mächtigen Kulturschicht, die mit Scherben und Tierknochen durchmischt war. Die Scherben stammten vor allem von Gefäßen mit rauer Oberfläche, freihändig gefertigt und mit senkrechten Riefen, dem sogenannten Kammstrich, verziert. Es fanden sich jedoch auch Fragmente sehr feiner, auf der Töpferscheibe hergestellter Keramik sowie Scherben von Grafitgefäßen und ein zerbrochenes tönernes Gewicht von pyramidenförmiger Gestalt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die gut sichtbare befestigte Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die gut sichtbare befestigte Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Spinnwirtel (Schwunggewichte von Spindeln) und das Gewicht sind ein Beleg für die Verarbeitung von Textilien und die Herstellung von Stoffen auf einfachen Webstühlen, wie sie bei der Ausgrabung von Liptovská Mara rekonstruiert werden konnten. Ihre Replik kann man auch in der Ausstellung zur Púchov-Kultur in Púchov sehen. Während die Spinnwirtel am Ende der Spindel verwendet wurden, auf die das gesponnene Garn aufgewickelt wurde, dienten die tönernen Gewichte dem Spannen der Kette am Webstuhl, damit der gewebte Stoff fest war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch bei der späteren Untersuchung des Hradište bei Nozdrovice und seiner nächsten Umgebung wurden weitere Gefäßfragmente gefunden. Vor allem markante Ränder von Grafitsitulae, Scherben von Grafitgefäßen mit Kammstrichverzierung, Scherben großer Schalen mit nach innen gebogenen Rändern, Scherben mit plastischem Ornament in Form eines Halbmonds und andere. Die Siedlung auf der westlichen, südwestlichen und südöstlichen Seite der Befestigung zählt zu den größten Siedlungen der Púchov-Kultur in der Nordwestslowakei. Offenbar hatte sie eine lange Dauer, mindestens das gesamte 1. Jahrhundert v. Chr. hindurch bis in die ersten Jahrzehnte der neuen Zeitrechnung, als sie zusammen mit der Höhensiedlung während eines Einfalls der Germanen zerstört wurde. Gerade die Germanen verursachten die Unterbrechung der Entwicklung der Púchov-Kultur in der Zeit ihrer größten Blüte. Bereits in der 2. Hälfte des 1. Jahrhunderts unserer Zeitrechnung bis zum Ende des 2. Jahrhunderts verkleinerte sich das Gebiet der Púchov-Kultur bedeutend. Die Zahl der archäologischen Fundstellen aus dieser Periode stand zu der der vorherigen im Verhältnis von etwa 1:4. Von den Höhensiedlungen wurden nur noch einige genutzt, vor allem die Púchovská Skala und weitere kleinere Befestigungen, wo auch Hinterlassenschaften aus der älteren römischen Kaiserzeit entdeckt werden konnten. Zu den kleineren Siedlungen, die den Einfall der Germanen überlebt haben könnten, lässt sich vielleicht auch die Fundstelle in Hloža beim Steinbruch (dem zweiten von Beluša aus) in dem Tal zählen, das nach Mojtín führt. Außer den gewöhnlichen Scherben der Púchov-Kultur von Grafitgefäßen und Schalen mit eingezogenem Rand gab es hier auch Fragmente scheibengedrehter Gefäße und Teile tönerner Vorratsgefäße mit breitem flachem Kragen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ladce/Tunežice/Nozdrovice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein einzigartiger Fund war jedoch erst ein vollständig erhaltenes kleines Gefäß von fassförmiger Gestalt, freihändig gefertigt und mit einem außergewöhnlichen Ornament in Form eines Bandes von Blättchen verschiedener Größe an der Mündung des Topfes verziert. Dieser Fund hat bislang in unserem Raum keine Entsprechung und lässt sich vielleicht deshalb als außergewöhnlicher Gegenstand ansehen, der Kulthandlungen diente. Besonders bemerkenswert ist auch, dass das Gefäßchen vollständig und unbeschädigt gefunden wurde, was in den Siedlungen der Púchov-Kultur nicht üblich ist. Eine gewisse Besonderheit ist auch der teerartige Anstrich auf der Außenwand einer Scherbe eines großen Vorratsgefäßes, der nicht nur der Verzierung diente, sondern vor allem einer größeren Undurchlässigkeit, falls sich im Vorratsgefäß flüssige Nahrung befunden hätte. Diese Art der Oberflächenbehandlung von Gefäßen tritt im Raum der Púchov-Kultur recht häufig auf, und es scheint, dass es sich hier um die Nutzung der einen Quelle natürlichen Asphalts in Mitteleuropa handelt, die sich in Nezbudská Lúčka bei Varín (Bezirk Žilina/Sillein) befand, in den 20er und 30er Jahren des 20. Jahrhunderts aber vollständig abgebaut wurde. Jetzt ist dort nur noch ein tiefer See (20 m) mit klarem, aber sehr kaltem Wasser. Der teerartige Anstrich kommt häufig vor, deshalb wurde er wohl bereits in der jüngeren Eisenzeit genutzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es scheint, dass der Untergang der Púchov-Kultur am Ende des 2. Jahrhunderts n. Chr. nach der Verschleppung der Kotiner nach Pannonien auch durch das Vordringen der Germanen von der Südwestslowakei nach Norden, in den geleerten Raum, bestätigt wird. Ein Beweis dafür ist auch die germanische, quadische Siedlung, die in Beluša in der Lage Pechová entdeckt wurde, wo nicht nur germanische Behausungen, sondern auch ein Keramikbrennofen untersucht wurden. Auf der Grundlage gut datierbarer Funde (vor allem bronzener Fibeln) wird die Siedlung an die Wende vom 2. zum 3. Jahrhundert n. Chr. gestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiteres Beispiel für das Vordringen der Germanen in die Nordwestslowakei ist das Brandgrab in Ilava, in dem ein doppelkonisches Gefäßchen mit markanten Riefen, ein Teil eines großen Vorratsgefäßes mit dichten Wellenlinien, aber auch eine eiserne Speerspitze mit Flügelchen, ein eiserner Speerschuh (Beschlag des unteren Teils des Speerschafts) und ein großer eiserner Ring gefunden wurden. Es ist daher nicht besonders überraschend, dass auch der eiserne Dolch eines römischen Offiziers, Pugio genannt, aus Tuchyňa so tief im Barbaricum gefunden wurde. Offenbar ist er ein Beweis für Bewegungen römischer Legionen bis in dieses Gebiet, sei es im Zusammenhang mit der erwähnten Verlegung der Kotiner nach Pannonien oder im Zusammenhang mit der Besetzung der Karpatenpässe, die der römische Kaiser Marcus Aurelius nach den siegreichen Schlachten der Legionen an der Wende der Jahre 179 bis 180 anordnete, um die Flucht der Quaden nach Norden zu ihren Stammesgenossen zu verhindern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ladce/Tunežice/Nozdrovice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Besiedlung aus weiteren Perioden ist erst sehr spät belegt, obwohl sich auf der anderen Seite der Waag auch Siedlungen aus der jüngeren römischen Kaiserzeit und aus der Völkerwanderungszeit (5. und 6. Jahrhundert n. Chr.) befinden. In der nächsten Umgebung von Ladce sind bislang die ältesten slawischen Funde aus dem 8. und 9. Jahrhundert belegt. Vor allem das Gebiet der benachbarten Gemarkung von Beluša ist buchstäblich übersät mit slawischen Hügelgräberfeldern, wo besonders in den 50er und 60er Jahren des 20. Jahrhunderts an sieben Stellen bis zu 85 Hügelgräber festgestellt wurden. Die Ausgrabungen in den Lagen Koscelišče (34 Hügelgräber) und Garové (25 Hügelgräber) brachten auch Funde von Waffen, die slawische Krieger zur Verteidigung dieses Gebiets benutzten. Es handelt sich um die bekannte großmährische Bartaxt, die neben der Öffnung für den Schaft auch hohe Dornen, Stacheln, zur besseren Befestigung der Axt am Stiel hat. In den untersuchten Gräbern fanden sich auch Fragmente eiserner Messer und selbstverständlich auch Scherben zerbrochener Gefäße. Unmittelbar aus dem Gebiet von Ladce stammt nur eine einzige eiserne Speerspitze, die im Flussbett der Waag gefunden wurde. Sie wird in den Sammlungen des Slowakischen Nationalmuseums in Martin aufbewahrt. Nach der von Prof. A. Ruttkay, DrSc., erarbeiteten Chronologie kann sie jedoch aus der Zeit der slawischen Besiedlung dieses Gebiets stammen, wobei die Zeit ihrer Verwendung in den Zeithorizont vom 9. bis zum 11. Jahrhundert fällt. Die Gesamtlänge der Spitze beträgt 23 cm, sie hat ein schmales Blatt und eine längere Tülle zum Einsetzen des Schafts. Auch unter den Scherben der Púchov-Kultur, die aus dem Steinbruch in der Gemarkung von Hloža gewonnen wurden, kam ein Fragment eines slawischen Gefäßes zum Vorschein, verziert mit waagerechten Bündeln feiner Riefen, das wir nach diesem Verzierungselement in das 9. Jahrhundert datieren können. Es ist daher offenbar nur eine Frage der Zeit, bis es gelingt, auch überzeugendere Beweise für eine Besiedlung der Gemarkung von Ladce auch in slawischer Zeit zu finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Münzschatz aus Nozdrovice"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ladce/Tunežice/Nozdrovice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der wichtigste Beitrag zur Kenntnis und vor allem zur Ausweitung des Verbreitungsgebiets der Münzen des Typs Divinka ist der Schatz, den Schatzsucher auf dem Hradište bei Nozdrovice fanden. Er enthielt mehrere Münztypen, unter denen auch 10 oder 12 Stück des Typs Divinka waren. Außer ihnen kamen hier noch zwei Tetradrachmen des Typs Veľký Bysterec von hohem Gewicht und in guter Prägung zum Vorschein. Die Funde repräsentieren gut das Münzwesen des nordslowakischen Kulturraums im 1. Jahrhundert v. Chr. Ähnliche Münzen wurden bereits auch an mehreren Fundstellen der Púchov-Kultur gefunden, und eines der auf dem Hradište bei Nozdrovice gefundenen Exemplare trägt auf dem Avers sogar den Ansatz der Inschrift CA, die als CAT selten auf einigen weiteren Funden auftritt. CAT wird als Abkürzung des Namens der Kotiner erklärt, die als die Hauptträger der Púchov-Kultur gelten. Mit ihrer Migration nach Pannonien am Ende des 2. Jahrhunderts n. Chr., während der Markomannenkriege, ging auch die Púchov-Kultur selbst unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ladce/Tunežice/Nozdrovice",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tetradrachmen des Typs Velem kamen in der Slowakei bis vor kurzem überhaupt nicht vor. Außer dem Fund vom Hradište kamen vor kurzem zwei ähnliche Exemplare auch auf der befestigten Höhensiedlung in Trenčianske Bohuslavice und eines in Hubina, Bezirk Piešťany, ebenfalls in der Lage Hradište zum Vorschein. Diese Funde sprechen von bedeutenden Kontakten der Nordwestslowakei mit der keltischen befestigten Höhensiedlung in Velemszentvid im Nordwesten Ungarns in der 2. Hälfte des 2. Jahrhunderts v. Chr. Die kleine Silbermünze mit einem muschelähnlichen Bild ist unter den Funden aus dem Gebiet der heutigen Slowakei bislang die einzige ihrer Art. Ein ähnlicher, jedoch nicht identischer Fund stammt noch aus dem böhmischen Oppidum in Stradonice. Es ist möglich, dass auch die auf dem Hradište bei Nozdrovice gefundene Münze aus dem Raum der keltischen Boier stammt, die ein großes Gebiet des heutigen Tschechiens einnahmen und nach deren Namen mit großer Wahrscheinlichkeit schließlich auch der Raum Bojohemum — Bohemia benannt wurde. Sie errichteten hier mächtige Burganlagen, die nach ihrer Benennung durch G. I. Caesar Oppida genannt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein völlig einzigartiger Fund auf den befestigten Höhensiedlungen der Púchov-Kultur ist aber die Münze des Stammes der Eravisker, eines pannonischen Stammes der Kelten, die in der Zeit des Spätlatène und zu Beginn der älteren römischen Kaiserzeit im Raum des Donauknies lebten. Die Münzen prägten sie wohl im Stammessitz in der Lage Tabán auf dem Gebiet des heutigen Budapest am Ende der 2. Hälfte des 1. Jahrhunderts v. Chr. Schon vor dem Jahr 1870 wurde ein ganzer Schatz dieser Münzen in Rajecká Lesná bei der Siedlung Trstená gefunden, doch leider ging er während des Krieges im Landesmuseum in Brünn verloren, wo er ursprünglich aufbewahrt wurde. Auf den Münzen ist deutlich die Inschrift RAVIT - RAVIS geprägt, die eigentlich die Abkürzung des Namens der Eravisker ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ladce/Tunežice/Nozdrovice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie schon erwähnt, ist der wichtigste Bestand aus dem Schatz auf dem Hradište bei Nozdrovice die Gruppe von 10 bis 12 Münzen des Typs Divinka. Offenbar handelt es sich bislang um die größte Zahl dieser Münzen, auch wenn wir nicht sagen können, ob bei anderen Aktionen von Schatzsuchern nicht ähnliche gefunden wurden. Zum Beispiel auch in Udiča in der Lage Klape oder in Žilina-Vranie auf der Befestigung Rochovica, von wo wir positiv festgestellt haben, dass hier keltische Münzen gefunden wurden, die aber ins Ausland gelangten und in privaten Händen endeten. Die Münzen des Typs Divinka sind den sogenannten Prager Quinaren sehr ähnlich, die in der Mitte des 1. Jahrhunderts v. Chr. geprägt wurden und deren Funde sich vor allem auf dem Gebiet von Prag oder auf dem großen keltischen Oppidum in Stradonice konzentrieren. Sie sind auch auf dem Gebiet Deutschlands vertreten. Diese haben jedoch das Bild nicht so stark stilisiert, wie es der Divinka-Typ hat. Der Kopf auf dem Avers und das Pferd auf dem Revers sind noch recht deutlich. Als ihre möglichen Vorlagen gelten Nachahmungen römischer republikanischer Denare des Typs Roma/Pferd, die auf dem Gebiet Galliens (des heutigen Frankreichs) wahrscheinlich in der Mitte des 1. Jahrhunderts v. Chr. geprägt wurden. Wenn wir annehmen, dass die Münzen des Typs Divinka nach dem Vorbild der Prager Quinare, auch mit einem gewissen zeitlichen Abstand, auf einer der befestigten Höhensiedlungen der Púchov-Kultur im mittleren Waagtal geprägt wurden (wohl am ehesten auf der Höhensiedlung in Divinka, die damals die größte zentrale Befestigung war), käme die Zeit zwischen den Jahren 45–35 v. Chr. in Betracht. Für diese Datierung spricht auch der Fund einer jüngeren römischen republikanischen Münze aus Nozdrovice, die ungefähr aus dem Jahr 48 v. Chr. stammt. Damit bestätigt sich eigentlich auch die Annahme, dass die Münzen des Typs Divinka am ehesten im dritten Viertel des 1. Jahrhunderts v. Chr. geprägt wurden. Sie wurden auf dem Gebiet des Stammes verwendet, der seine zentrale Höhensiedlung auf dem Veľký vrch in Divinka hatte, denn Funde dieses Typs keltischer Münzen sind bislang aus keiner einzigen der von den Menschen der Púchov-Kultur eingenommenen Regionen (Liptau, Arwa, Turzer Becken, Zips) bekannt. Deshalb sprechen sie wohl am ehesten von intensiven Kontakten der hiesigen Bevölkerung mit der westlichen keltischen Welt, die gleichzeitig auch für die wirtschaftliche Entwicklung von Ladce und seiner Umgebung bestimmend sein konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Wallbefestigung",
+    "alt": "Wallbefestigung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jozef Moravčík\n \n  Anm. Orgoň: "
+       },
+       {
+        "type": "text",
+        "text": "Zum Artikel von Herrn Moravčík ergänze ich noch, dass Petrovský-Šichman in seinem Schlüsselartikel aus dem Jahr 1964 erwähnt, dass Š. Križanová am Fuß des Hradište eine jungburgwallzeitliche Besiedlung fand, was offenbar zu der Überlegung führt, dass die Höhensiedlung auch von den Slawen genutzt wurde, zumindest als Fliehburg.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto: Stanka F."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

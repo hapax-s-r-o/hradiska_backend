@@ -1,0 +1,480 @@
+{
+ "slug": "podbranc-stary-hrad",
+ "data": {
+  "title": "Podbranč – Starý hrad, ein Burgwall an der Landespforte durch die Kleinen Karpaten",
+  "slug": "podbranc-stary-hrad-burgwall-landespforte",
+  "excerpt": "Übergänge von einem Land in das andere waren schon in ferner Vergangenheit streng bewacht und befestigt; solche Stellen bildeten die „Landespforten“ (portae), durch die in der Regel nur ein einziger Weg führte. Ein solcher Burgwall konnte auch Podbranč – Starý hrad sein, errichtet auf der niedrigsten Anhöhe an diesem Übergang in 454 m ü. M. Als Erster untersuchte ihn Štefan Janšák im Jahr 1913 – es war der erste Burgwall, den dieser bedeutende slowakische Wissenschaftler erforschte.",
+  "metaTitle": "Podbranč – Starý hrad, Burgwall an der Landespforte",
+  "metaDescription": "Der Burgwall Podbranč – Starý hrad bewachte einen wichtigen Gebirgsübergang – eine der „Landespforten“ (portae), durch die nur ein Weg führte.",
+  "keyFacts": [
+   {
+    "label": "Höhenlage",
+    "value": "454 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Umfang des Walls",
+    "value": "1060 m (über 1 km)",
+    "icon": "shield"
+   },
+   {
+    "label": "Größte Breite des Burgwalls",
+    "value": "145 m",
+    "icon": "map"
+   },
+   {
+    "label": "Länge des Burgwalls",
+    "value": "fast 500 m",
+    "icon": "map"
+   },
+   {
+    "label": "Anzahl der Burghöfe",
+    "value": "drei",
+    "icon": "building"
+   },
+   {
+    "label": "Erste Ausgrabung",
+    "value": "Štefan Janšák, 1913",
+    "icon": "scroll"
+   },
+   {
+    "label": "Sondagegrabung",
+    "value": "1946–1947 (V. Budinský-Krička, V. Šemmer)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Ende des Burgwalls",
+    "value": "12. Jahrhundert",
+    "icon": "flag"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ca. 2500 v. Chr.",
+    "title": "Älteste Besiedlung (Äneolithikum)",
+    "description": "Die Träger der Kultur mit kannelierter Keramik (mittleres Äneolithikum) suchten erhöhte Lagen auf und besiedelten sie; etwa 2500 Jahre v. Chr. errichteten sie darauf befestigte Siedlungen.",
+    "type": "founding"
+   },
+   {
+    "year": "Jüngere Bronzezeit – ältere Eisenzeit",
+    "title": "Funde aus der Zeit der Lausitzer Kultur",
+    "description": "Weitere archäologische Funde auf dem Burgwall stammen aus der Zeit der Lausitzer Kultur, also aus der jüngeren Bronzezeit bis zur älteren Eisenzeit.",
+    "type": "event"
+   },
+   {
+    "year": "Latènezeit und römische Kaiserzeit",
+    "title": "Wiederbesiedlung in keltischer und römischer Zeit",
+    "description": "Die Anhöhe des Burgwalls wurde zur Zeit der keltischen Expansion in der Mittel- und Spätlatènezeit erneut besiedelt, ebenso in der römischen Kaiserzeit.",
+    "type": "event"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Slawische Besiedlung",
+    "description": "Aus der slawischen Periode stammen typische slawische Scherben und ein Hakensporn, die in das 8. und 9. Jahrhundert datiert werden, also in die Zeit der Blüte des Fürstentums Neutra und anschließend Großmährens.",
+    "type": "event"
+   },
+   {
+    "year": "großmährische Zeit",
+    "title": "Die Slawen stellten den Burgwall und seine Befestigung wieder her",
+    "description": "Die Slawen stellten den Burgwall wieder her und vervollkommneten auch seine Befestigung; der Wiederaufbau des Burgwalls in dieser Zeit hängt offenbar mit seiner Lage über dem Weg zusammen, der durch den Brezová-Pass über die Kleinen Karpaten führte.",
+    "type": "construction"
+   },
+   {
+    "year": "nach dem Untergang Großmährens",
+    "title": "Der Burgwall blieb weiterhin bewohnt",
+    "description": "Der Burgwall bestand auch nach dem Untergang Großmährens; der Historiker B. Varsik nimmt an, dass er bis zur Errichtung der steinernen Burg Branč bewohnt war.",
+    "type": "event"
+   },
+   {
+    "year": "1913",
+    "title": "Erste archäologische Ausgrabung – Štefan Janšák",
+    "description": "Als Erster untersuchte den Burgwall Štefan Janšák, und das bereits im Jahr 1913 – es war der erste Burgwall, den dieser bedeutende slowakische Wissenschaftler erforschte. Entdeckt wurde er am 6. August 1913 und in zwei Tagen eingehend untersucht.",
+    "type": "discovery"
+   },
+   {
+    "year": "1946–1947",
+    "title": "Sondagegrabung des Staatlichen Archäologischen Instituts",
+    "description": "Das Staatliche Archäologische Institut in Martin führte an der Fundstelle eine Sondagegrabung unter der Leitung von Vojtech Budinský-Krička durch; die Feldarbeiten leitete Viktor Šemmer.",
+    "type": "discovery"
+   },
+   {
+    "year": "1947",
+    "title": "Schnitte auf den Terrassen und in den Wällen",
+    "description": "Viktor Šemmer legte gemeinsam mit vier Arbeitern vier Schnitte auf den Terrassen an und untersuchte mit drei weiteren Schnitten die Wälle des Burgwalls.",
+    "type": "discovery"
+   },
+   {
+    "year": "12. Jahrhundert",
+    "title": "Ende des Burgwalls",
+    "description": "Nach der Beruhigung der Verhältnisse, der Festigung der Grenzen und vor allem nach der Errichtung der steinernen Burg auf dem Nachbarhügel verlor der Burgwall seine Bedeutung und ging im 12. Jahrhundert unter.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6384,
+    "alt": "Von Moos und Laub überwachsener Steinwall im unbelaubten Wald"
+   },
+   {
+    "mediaId": 1771,
+    "alt": "LiDAR-Schummerungsrelief des Sporns mit der Linie der Befestigung"
+   },
+   {
+    "mediaId": 1772,
+    "caption": "Blick auf den Burgwall von der Burg Branč (M. Sladok)",
+    "alt": "Blick auf den Burgwall von der Burg Branč (M. Sladok)"
+   },
+   {
+    "mediaId": 1773,
+    "caption": "Lanzenspitze vom Burgwall. Bisher ist es nicht gelungen, sie zu datieren",
+    "alt": "Lanzenspitze vom Burgwall. Bisher ist es nicht gelungen, sie zu datieren"
+   },
+   {
+    "mediaId": 1774,
+    "caption": "Der Burgwall auf der Orthofotokarte aus dem Jahr 1950",
+    "alt": "Der Burgwall auf der Orthofotokarte aus dem Jahr 1950"
+   },
+   {
+    "mediaId": 1775,
+    "alt": "Historischer Grundriss des Starý hrad bei Branč über Bukovec mit Beschriftung der Lagen"
+   },
+   {
+    "mediaId": 1776,
+    "caption": "Foto: V. T.",
+    "alt": "Foto: V. T."
+   },
+   {
+    "mediaId": 1777,
+    "caption": "Der Nordwall des Burgwalls",
+    "alt": "Der Nordwall des Burgwalls"
+   },
+   {
+    "mediaId": 1778,
+    "caption": "Blick auf den nördlichen Teil des Burgwalls",
+    "alt": "Blick auf den nördlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 1779,
+    "caption": "Die Krone des Nordwalls",
+    "alt": "Die Krone des Nordwalls"
+   },
+   {
+    "mediaId": 1780,
+    "caption": "Steinwall",
+    "alt": "Steinwall"
+   },
+   {
+    "mediaId": 1781,
+    "caption": "Die Krone des Nordwalls",
+    "alt": "Die Krone des Nordwalls"
+   },
+   {
+    "mediaId": 1782,
+    "caption": "Durch den Wall im nördlichen Teil führt heute ein Waldweg",
+    "alt": "Durch den Wall im nördlichen Teil führt heute ein Waldweg"
+   },
+   {
+    "mediaId": 1783,
+    "caption": "Der Innenraum des Burgwalls bot eine fast ideale Ebene",
+    "alt": "Der Innenraum des Burgwalls bot eine fast ideale Ebene"
+   },
+   {
+    "mediaId": 1784,
+    "caption": "Der Nordwall vom Inneren des Burgwalls",
+    "alt": "Der Nordwall vom Inneren des Burgwalls"
+   },
+   {
+    "mediaId": 1785,
+    "caption": "Blick auf den Wall im Nordosten (vom Inneren des Burgwalls)",
+    "alt": "Blick auf den Wall im Nordosten (vom Inneren des Burgwalls)"
+   },
+   {
+    "mediaId": 1786,
+    "caption": "Aufnahme des Verlaufs der Befestigung im nordöstlichen Teil",
+    "alt": "Aufnahme des Verlaufs der Befestigung im nordöstlichen Teil"
+   },
+   {
+    "mediaId": 1787,
+    "caption": "an mehreren Stellen liegen solche Steinhaufen",
+    "alt": "an mehreren Stellen liegen solche Steinhaufen"
+   },
+   {
+    "mediaId": 1788,
+    "caption": "Der Verlauf des Walls im östlichen Teil des Burgwalls.",
+    "alt": "Der Verlauf des Walls im östlichen Teil des Burgwalls."
+   },
+   {
+    "mediaId": 1789,
+    "caption": "Deutlich sichtbarer Verlauf der Befestigung im südöstlichen Teil des Burgwalls",
+    "alt": "Deutlich sichtbarer Verlauf der Befestigung im südöstlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 1790,
+    "caption": "Die südöstliche Biegung der Befestigung",
+    "alt": "Die südöstliche Biegung der Befestigung"
+   },
+   {
+    "mediaId": 1791,
+    "caption": "Blick auf den Wall von Südosten in Richtung Südwesten",
+    "alt": "Blick auf den Wall von Südosten in Richtung Südwesten"
+   },
+   {
+    "mediaId": 1792,
+    "caption": "Blick von der Wallkrone hinab aus dem Burgwall im südlichen Teil",
+    "alt": "Blick von der Wallkrone hinab aus dem Burgwall im südlichen Teil"
+   },
+   {
+    "mediaId": 1793,
+    "caption": "auf der südlichen Wallkrone etwa im mittleren Teil",
+    "alt": "auf der südlichen Wallkrone etwa im mittleren Teil"
+   },
+   {
+    "mediaId": 1794,
+    "caption": "Der Südwall – in manchen Teilen sind so deutlich die Steine sichtbar, die den Körper der Mauer bilden",
+    "alt": "Der Südwall – in manchen Teilen sind so deutlich die Steine sichtbar, die den Körper der Mauer bilden"
+   },
+   {
+    "mediaId": 1795,
+    "caption": "ein weiterer Blick auf den Steinwall",
+    "alt": "ein weiterer Blick auf den Steinwall"
+   },
+   {
+    "mediaId": 1797,
+    "caption": "Detail des Steinwalls",
+    "alt": "Detail des Steinwalls"
+   },
+   {
+    "mediaId": 1799,
+    "caption": "Blick auf die Fläche des Burgwalls von Südwesten nach Südosten",
+    "alt": "Blick auf die Fläche des Burgwalls von Südwesten nach Südosten"
+   },
+   {
+    "mediaId": 1800,
+    "caption": "Der Nordwestwall vom Inneren des Burgwalls",
+    "alt": "Der Nordwestwall vom Inneren des Burgwalls"
+   },
+   {
+    "mediaId": 1801,
+    "caption": "Die Krone des Nordwestwalls",
+    "alt": "Die Krone des Nordwestwalls"
+   },
+   {
+    "mediaId": 1802,
+    "caption": "Blick vom Burgwall in Richtung der Burg Branč",
+    "alt": "Blick vom Burgwall in Richtung der Burg Branč"
+   },
+   {
+    "mediaId": 1803,
+    "caption": "Blick auf den Burgwall von Nordwesten",
+    "alt": "Blick auf den Burgwall von Nordwesten"
+   },
+   {
+    "mediaId": 1804,
+    "caption": "Etwa 100 Meter nördlich des Burgwalls liegt dieses künstlich aufgeschüttete wallartige Gebilde. Ob es mit dem Burgwall zusammenhängt, weiß ich nicht.",
+    "alt": "Etwa 100 Meter nördlich des Burgwalls liegt dieses künstlich aufgeschüttete wallartige Gebilde. Ob es mit dem Burgwall zusammenhängt, weiß ich nicht."
+   },
+   {
+    "mediaId": 1805,
+    "caption": "Blick auf den Burgwall von der Burg Branč",
+    "alt": "Blick auf den Burgwall von der Burg Branč"
+   },
+   {
+    "mediaId": 1806,
+    "alt": "Panorama bewaldeter Hügel mit einer Wiese im Sattel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon in ferner Vergangenheit waren Übergänge von einem Land in das andere streng bewacht und befestigt. Es bestand die Tendenz, dass es möglichst wenige solcher Übergänge gab. In der Regel bildeten sie Stellen, die sich in Zeiten der Gefahr gut verteidigen ließen (tiefe Täler, Engpässe, Schluchten und Ähnliches). Durch diese konnte in der Regel nur ein einziger Weg führen, in dem vor ihm mehrere Wege zusammenliefen. Solche Übergangsstellen bildeten in der Vergangenheit die „Landespforten“, lateinisch portae, ungarisch kapu, meist kokapu, Steintor oder steinernes Tor. Es ist verständlich, dass an diesen Übergängen allmählich befestigte Burgwälle und später Burgen entstanden.\n \n Ein solcher Burgwall konnte auch Podbranč – Starý hrad sein, denn er wurde auf der niedrigsten Anhöhe an diesem Übergang errichtet (Höhenlage 454 m).\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "LiDAR-Aufnahme des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Erster untersuchte den Burgwall Štefan Janšák, und das bereits im Jahr 1913. Es handelte sich sogar um den ersten Burgwall, den dieser bedeutende slowakische Wissenschaftler erforschte. Über die Ergebnisse seiner Untersuchung schrieb er Folgendes:\n \n "
+       },
+       {
+        "type": "text",
+        "text": "„Einen ähnlichen Burgwall, von dem hier die Rede ist, fanden wir in diesem Sommer, am 6. August 1913, nicht weit von der Burg Branč, am Weg zwischen Bukovec und der Gemeinde Podbranč. Dort steht ein flacher Berg, den das Volk Starý Hrad nennt. Anfangs meinten wir, dass an dieser Stelle ursprünglich eine Burg gestanden habe, der Burg Branč ähnlich, also ein mittelalterlicher Bau, und wir hofften, einige Überreste von ihr zu finden; wenigstens der Grundriss ist bei Burgen, die oberirdisch völlig abgetragen sind, meist erhalten. Doch überzeugten wir uns bald, dass es sich hier um eine viel ältere menschliche Wohnstätte handelt. In zwei Tagen gelang es uns, den Burgwall recht eingehend zu untersuchen, dessen Abbildung wir ebenfalls beigeben. Unsere Untersuchungen gelangten wenigstens so weit, dass wir den prähistorischen Ursprung des Burgwalls mit Bestimmtheit nachgewiesen haben.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Abbildung kann sich jeder Leser über die Lage und die Ausdehnung des Burgwalls belehren. Der in der linken Ecke beigefügte Pfeil zeigt uns die Richtung nach Norden; danach bestimmen wir auch die übrigen Seiten. Der Burgwall hat eine fast eiförmige Gestalt und erstreckt sich in der Länge von Osten nach Westen. Er neigt sich von Norden nach Süden, sodass er gegen die kalten Nordwinde geschützt und umgekehrt den Wirkungen der Sonnenstrahlen günstig ausgesetzt ist. Für das Leben auf dem Burgwall hatte dieser Umstand große Bedeutung. Der ganze Burgwall ist von einem Aufwurf (Wall) umgeben, dessen Umfang (die ganze Länge) 1060 m beträgt, also mehr als einen Kilometer. Die größte Breite des Burgwalls beträgt 145 m. Der Wall ist an allen Stellen deutlich zu erkennen, nirgends ist er gestört. Nur an zwei Stellen gibt es Eingänge, die in die Mitte des Burgwalls führen. Es ist dies auf der Nord- und auf der Ostseite. Man weiß nicht, ob diese Eingänge die ursprünglichen Zufahrten in den Burgwall waren (jede Burg hatte nämlich einen Eingang, der mit einem festen Tor versehen war), oder ob die Leute sie später angelegt haben, um Zugang zum Berg zu haben. Durch den Nordeingang führt nämlich ein Fuhrweg auf den Burgwall, auf dem die Bauern zu einigen über den Burgwall verstreuten Äckerchen fahren. Der Eingang auf der Ostseite (vom Wald her) wird für Wagen nicht benutzt; Gebüsch versperrt ihn völlig. Die nordöstliche Seite des Burgwalls ist von den an sie angrenzenden Feldern durch steile Felsen getrennt, wo die Bauern Stein für Bauten brechen.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Burgwall von der Burg Branč (M. Sladok)",
+    "alt": "Blick auf den Burgwall von der Burg Branč (M. Sladok)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem mittleren Aufwurf, der den Burgwall umschlingt, fanden wir noch Reste zweier anderer Aufwürfe: eines äußeren auf der Südseite (auf der Abbildung ganz unten) und eines inneren auf der Ostseite (auf der Abbildung rechts, im Inneren). Ringsum befindet sich der Aufwurf über dem Hang, nur an der mit dem Buchstaben c bezeichneten Stelle (beim nördlichen Ausgang) liegt er auf flachem Boden. Deshalb ist er an dieser Stelle auch am höchsten und hat noch heute, nach Tausenden von Jahren, in denen er sich erheblich gesetzt oder abgerutscht ist, mehr als fünf Meter Höhe. Auf der Ostseite und teilweise auch auf der Nordostseite des Burgwalls steht ein dichter junger Wald, im Norden und Nordwesten, hinter dem Steinbruch, liegen Felder (siehe Abbildung), im Westen abschüssige Weiden und im Süden ein steiniger Abhang, mit Gebüsch und Dornen überwachsen. Mitten im Burgwall selbst liegen einige Äckerchen und eine Weide.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " \n \n Janšák fand auf dem Burgwall mehrere Scherben, ein Gerät aus Feuerstein, Knochen und einige Eisenfunde. Außerdem fertigte er selbstverständlich – wie es bei ihm später zur guten Gewohnheit wurde – eine hochwertige Zeichnung des Grundrisses des Burgwalls an. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie auf dem Grundriss des Starý hrad von Š. Janšák zu sehen ist, lag der Haupteingang in den Burgwall auf der Ostseite, in Richtung von Kamenné vráta. Der Nordeingang in Richtung von Podzámok wurde wahrscheinlich später angelegt. Da die Bewohner der Siedlung Podzámok auf dem Plateau des Burgwalls kleinere Felder hatten, nutzten sie diesen Nordeingang, den sie „branka“ (Pförtchen) nannten, als Zufahrtsweg zu ihren Äckern.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1946–1947 führte das Staatliche Archäologische Institut in Martin an der Fundstelle eine Sondagegrabung unter der Leitung von Vojtech Budinský-Krička durch. Die Arbeiten im Gelände leitete Viktor Šemmer, der im Jahr 1947 gemeinsam mit vier Arbeitern vier Schnitte auf den Terrassen anlegte und mit drei Schnitten die Wälle untersuchte. Die gewonnenen Funde datieren die älteste Besiedlung in das mittlere Äneolithikum (Kultur mit kannelierter Keramik, nach der Art der Keramikverzierung benannt), deren Träger erhöhte Lagen mit Vorliebe aufsuchten und besiedelten und etwa 2500 Jahre v. Chr. darauf befestigte Siedlungen errichteten. Weitere Funde stammen aus der Zeit der Lausitzer Kultur – der jüngeren Bronzezeit bis zur älteren Eisenzeit. Erneut besiedelt wurde die Anhöhe des Burgwalls zur Zeit der keltischen Expansion in der Mittel- und Spätlatènezeit sowie in der römischen Kaiserzeit. Danach setzte sich die Besiedlung mit Unterbrechung in slawischer Zeit fort – in großmährischer Zeit und im Mittelalter. Aus der slawischen Periode stammen typische "
+       },
+       {
+        "type": "text",
+        "text": "slawische Scherben und ein Hakensporn",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die in das 8. und 9. Jahrhundert datiert werden, d. h. in die Blüte des Fürstentums Neutra und anschließend Großmährens. Die Slawen stellten den Burgwall wieder her und vervollkommneten auch seine Befestigung. Der Wiederaufbau des Burgwalls durch die Slawen in großmährischer Zeit hängt offenbar mit seiner Lage über dem Weg zusammen, der durch den Brezová-Pass über die Kleinen Karpaten führte.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Lanzenspitze vom Burgwall. Bisher ist es nicht gelungen, sie zu datieren",
+    "alt": "Lanzenspitze vom Burgwall. Bisher ist es nicht gelungen, sie zu datieren",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der auf einem Sporn liegende Burgwall setzte sich somit aus drei Burghöfen zusammen und war fast 500 m lang. Im zweiten Burghof wurden die Fundamente eingetiefter Grubenhäuser mit steinernen Herdstellen in der Ecke der Räume ausgegraben. Im wichtigsten Teil des Burgwalls – der Hauptburg – deuten Pfostenspuren darauf hin, dass die hölzernen Gebäude „luxuriöser“ sein konnten – ebenerdig. Leider fand auf dem Burgwall bisher keine eingehendere Ausgrabung statt, die bessere Erkenntnisse über die Besiedlung des Burgwalls und seine Bewohner bringen könnte. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der slawischen Besiedlung der umliegenden Landschaft zeugen auch die Gräberfelder in den Gemeinden Hradište pod Vrátnom, im Ortsteil Podhorie von Prietrž und im Ortsteil Majeričky von Podbranč, nicht weit vom Starý hrad, sowie die Reste einer noch älteren slawischen Siedlung an der Stelle des verschwundenen Dorfes Ropov. Der Burgwall bestand auch nach dem Untergang Großmährens. Der Historiker B. Varsik nimmt an, dass er bis zur Errichtung der steinernen Burg Branč bewohnt war. Nach dem Untergang Großmährens und der vorübergehenden Beherrschung durch die Polen wurde das Gebiet der Slowakei endgültig Teil des ungarischen Staates, der die bestehende Burgenorganisation vom untergegangenen großmährischen Reich übernahm. Große strategische Bedeutung erlangte der Burgwall offenbar in der Zeit, als die territorialen Interessen des ungarischen und des böhmischen Staates aufeinandertrafen. Im Unterschied zur großmährischen Zeit lag der Starý hrad nun nämlich an der Grenze zweier Staaten, in einer Zone, die Konfinium genannt wird. Nach der Beruhigung der Verhältnisse und der Festigung der Grenzen und vor allem nach der Errichtung der steinernen Burg auf dem Nachbarhügel verlor der Burgwall seine Bedeutung und ging im 12. Jahrhundert unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall auf der Orthofotokarte aus dem Jahr 1950",
+    "alt": "Der Burgwall auf der Orthofotokarte aus dem Jahr 1950",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

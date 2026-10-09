@@ -1,0 +1,478 @@
+{
+ "slug": "gars-thunau-velkomoravske-hradisko-v-rakusku",
+ "data": {
+  "title": "Gars-Thunau – ein großmährischer Burgwall in Österreich",
+  "slug": "gars-thunau-grossmaehrischer-burgwall-in-oesterreich",
+  "excerpt": "Die Macht der großmährischen Fürsten reichte nicht nur über das Gebiet Mährens, der Slowakei und Böhmens, sondern auch über einen nicht unbedeutenden Teil des heutigen Österreich. Der bekannteste Beleg dafür ist der Burgwall Gars-Thunau im Kamptal, dessen Befestigung eine Fläche von 140 × 600 m umschloss. Erstmals erwähnt wird die Fundstelle 902/903, als der slawische Fürst Josef einen Teil seines Besitzes dem Bischof in Freising schenkte.",
+  "metaTitle": "Gars-Thunau – ein großmährischer Burgwall in Österreich",
+  "metaDescription": "Der bekannteste großmährische Burgwall in Österreich: im Kamptal gelegen, erstmals 902/903 in einer Schenkungsurkunde des slawischen Fürsten Josef erwähnt.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Das Kamptal zwischen den Städten Gars am Kamp und Thunau am Kamp in Niederösterreich, am Fluss Kamp",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße des Burgwalls",
+    "value": "Durchmesser 140 m in der Achse Nord–Süd, 600 m in der Achse West–Ost",
+    "icon": "shield"
+   },
+   {
+    "label": "Drei Teile",
+    "value": "Schanze (vorgeschobene Wehrburg), Obere Holzwiese (Fürstenhof, Siedlung) und Unter Holzwiese",
+    "icon": "building"
+   },
+   {
+    "label": "Fürstenhof",
+    "value": "An der Lage Obere Holzwiese, umgrenzt von einem dreimal umgebauten Palisadenzaun",
+    "icon": "crown"
+   },
+   {
+    "label": "Mauer – ältere Phase",
+    "value": "Rostkonstruktion ohne Steine an der Front, Höhe der Basis etwa 7 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Mauer – jüngere Phase",
+    "value": "Kastenkonstruktion mit vorgeblendeter Steinfront, Höhe bis 4 m, Breite des Wehrgangs 4–4,5 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Südtor",
+    "value": "Ein mehrgeschossiger Turm – die untere Kammer als Eingang, ein Geschoss auf Höhe des Wehrgangs und darüber der Turm",
+    "icon": "star"
+   },
+   {
+    "label": "Schanze",
+    "value": "Fläche 100 × 170 m, Form des Buchstaben U, nach Osten offen",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "902/903",
+    "title": "Erste historische Erwähnung der Fundstelle",
+    "description": "Schenkungsurkunde des Klosters Freising – der slawische Fürst Josef schenkte einen Teil seines Besitzes im Kamptal dem Bischof des Klosters in Freising.",
+    "type": "event"
+   },
+   {
+    "year": "1. Hälfte des 9. Jahrhunderts",
+    "title": "Ankunft der ersten Slawen",
+    "description": "Die Siedler nutzten den natürlichen Schutz der Ruinen der Befestigung aus der späten Bronzezeit und ließen sich am Ausläufer des südlichen Walles nieder.",
+    "type": "founding"
+   },
+   {
+    "year": "Anfang der 2. Hälfte des 9. Jahrhunderts",
+    "title": "Errichtung des Fürstenhofs",
+    "description": "Der Hof war von einer Palisade umgeben; gleichzeitig wurde mit dem Bau der ausgedehnten Holz-Erde-Befestigung begonnen.",
+    "type": "construction"
+   },
+   {
+    "year": "um die Mitte des 10. Jahrhunderts",
+    "title": "Der Burgwall verliert an Bedeutung",
+    "description": "Wahrscheinlich infolge politischer und wirtschaftlicher Veränderungen nach der Niederlage im Kampf mit den Altungarn.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 10. Jahrhunderts",
+    "title": "Letzte Siedlungsspuren",
+    "description": "An der Lage Obere Holzwiese, nachdem die landwirtschaftliche Besiedlung in das unbefestigte Gebiet der Untere Holzwiese verlegt worden war.",
+    "type": "destruction"
+   },
+   {
+    "year": "letztes Drittel des 19. Jahrhunderts",
+    "title": "Slawischer Ursprung der Besiedlung nachgewiesen",
+    "description": "Johann Krahuletz entdeckte ein ausgedehntes frühmittelalterliches Gräberfeld.",
+    "type": "discovery"
+   },
+   {
+    "year": "1965–1990",
+    "title": "Systematische archäologische Ausgrabung",
+    "description": "Sie wies die Mächtigkeit der Befestigung des Burgwalls und deren Ausdehnung nach.",
+    "type": "discovery"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6375,
+    "alt": "Bewaldeter Hügel des Burgwalls mit einem Felsen, Blick von der Wiese darunter"
+   },
+   {
+    "mediaId": 494,
+    "caption": "An der Stelle, an der ursprünglich das Eingangstor zum Gipfelteil des Burgwalls stand, haben wir die sechste Tafel aufgestellt, die den konkreten Funden vom Veľký vrch aus der Urgeschichte und dem Altertum gewidmet ist",
+    "alt": "An der Stelle, an der ursprünglich das Eingangstor zum Gipfelteil des Burgwalls stand, haben wir die sechste Tafel aufgestellt, die den Funden vom Veľký vrch gewidmet ist"
+   },
+   {
+    "mediaId": 1228,
+    "caption": "Blick auf den Burgwall von der Grabungsstelle; auf der Terrasse unter dem Hügel erstreckt sich ebenfalls ein ausgedehntes Gräberfeld aus dem 9. bis 10. Jahrhundert",
+    "alt": "Blick auf den Burgwall von der Grabungsstelle; auf der Terrasse unter dem Hügel erstreckt sich ebenfalls ein ausgedehntes Gräberfeld aus dem 9. bis 10. Jahrhundert"
+   },
+   {
+    "mediaId": 1229,
+    "caption": "Die Fläche der Siedlungsgrabung. Die Ausgrabung führen Archäologen der Universität Wien durch",
+    "alt": "Die Fläche der Siedlungsgrabung. Die Ausgrabung führen Archäologen der Universität Wien durch"
+   },
+   {
+    "mediaId": 1230,
+    "caption": "Grundriss einer Hütte mit dem aus der Hütte herausgewölbten Ofen (rechts)",
+    "alt": "Grundriss einer Hütte mit dem aus der Hütte herausgewölbten Ofen (rechts)"
+   },
+   {
+    "mediaId": 1231,
+    "caption": "Eine Vorratsgrube",
+    "alt": "Eine Vorratsgrube"
+   },
+   {
+    "mediaId": 1233,
+    "caption": "Die archäologische Basis im Areal des Burgwalls",
+    "alt": "Die archäologische Basis im Areal des Burgwalls"
+   },
+   {
+    "mediaId": 1234,
+    "caption": "Der westliche Wall",
+    "alt": "Der westliche Wall"
+   },
+   {
+    "mediaId": 1235,
+    "caption": "Rest des urgeschichtlichen Walles, der das Areal des slawischen Burgwalls teilt",
+    "alt": "Rest des urgeschichtlichen Walles, der das Areal des slawischen Burgwalls teilt"
+   },
+   {
+    "mediaId": 1236,
+    "caption": "Blick auf das Südtor von der Seite",
+    "alt": "Blick auf das Südtor von der Seite"
+   },
+   {
+    "mediaId": 1237,
+    "caption": "Ein Kreuzchen, das in der Nähe des Nordtores gefunden wurde",
+    "alt": "Ein Kreuzchen, das in der Nähe des Nordtores gefunden wurde"
+   },
+   {
+    "mediaId": 1238,
+    "caption": "Die Kirche",
+    "alt": "Die Kirche"
+   },
+   {
+    "mediaId": 1239,
+    "caption": "Blick nach Osten, gegen den Lauf des Flusses Kamp",
+    "alt": "Blick nach Osten, gegen den Lauf des Flusses Kamp"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Macht der großmährischen Fürsten reichte, wie bekannt ist, nicht nur über das Gebiet Mährens, der Slowakei und Böhmens, sondern auch über das Gebiet mehrerer Nachbarländer. Manchen wird es vielleicht überraschen, dass zum Gebiet Großmährens auch ein nicht unbedeutender Teil des heutigen Österreich gehörte. Ein Beleg für diese Tatsache sind mehrere großmährische Burgwälle in Österreich, von denen Gars-Thunau der bekannteste ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste historische Erwähnung der Fundstelle findet sich in einer Schenkungsurkunde des Klosters Freising. In ihr wird angeführt, dass der slawische Fürst Josef im Jahr 902/903 zum Wohl seiner Seele einen Teil seines Besitzes im Kamptal in die Hände des Bischofs des Klosters in Freising in Bayern schenkte. Dieser näher unbekannte Fürst war gewiss auch der Herr auf dem slawischen Burgwall zwischen den heutigen Städten Gars und Thunau im Kamptal. Das erste Interesse an der Fundstelle kam also von Seiten der Historiker, und danach ließen die ersten Grabungen von Amateurarchäologen nicht lange auf sich warten. Im letzten Drittel des 19. Jahrhunderts wies Johann Krahuletz den slawischen Ursprung der Siedlungsreste nach, als er hier ein ausgedehntes frühmittelalterliches Gräberfeld entdeckte. Anschließend wurden verschiedene Untersuchungen durchgeführt, die jedoch eher Sammlercharakter hatten. In den 30er Jahren des 20. Jahrhunderts wurde dann die erste fachliche Ausgrabung durchgeführt. Die im Jahr 1965 begonnene Ausgrabung wies dann die Mächtigkeit der Befestigung des Burgwalls und deren Ausdehnung nach und endete 25 Jahre später, im Jahr 1990."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle und die slawische Besiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der slawische befestigte Burgwall befand sich im Kamptal, zwischen den Städten Gars am Kamp und Thunau am Kamp in Niederösterreich. Die Siedlung erstreckt sich auf einer heute dicht bewaldeten Anhöhe in der Nähe des Flusses Kamp. Diese Lage ist aus historischer Sicht von grundlegender Bedeutung, denn sie befindet sich an der östlichen Peripherie des Ostfränkischen Reiches und steht im Norden in direktem Kontakt mit Mähren, das die Geschicke des Burgwalls deutlich beeinflusste. Der Charakter des Fundmaterials belegt den Einfluss Mährens klar.\n \n Die Fundstelle, auf der sich der frühmittelalterliche Burgwall Gars-Thunau befindet, ist strategisch sehr gut gelegen. Die Anhöhe bietet genügend Raum für eine reiche Siedlungsstruktur. Zugleich ermöglicht die höhere Lage gute Verteidigungsbedingungen für den Burgwall. Die Bewohner hatten von dieser Lage aus nicht nur einen guten Überblick über das Geschehen in weitem Umland, sondern die Erbauer der frühmittelalterlichen Befestigung nutzten gleichzeitig die topografische Situation des Bergsporns sinnreich aus und erhöhten damit die Verteidigungsfähigkeit des Burgwalls deutlich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem ausgedehnten Bergsporn wurden während der systematischen Ausgrabung mehrere Lagen unterschieden, in denen Spuren frühmittelalterlicher Besiedlung freigelegt wurden. Im Westen befindet sich die sogenannte Schanze. Diese nahezu rechtwinklige Fläche ist von drei Seiten von einem frühmittelalterlichen Wall umgrenzt, im Osten ist der Raum offen und durch eine Felsenge mit dem Rest des Burgwalls verbunden. Im Nord- und im Südwall wurden die Eingänge in den Raum der Schanze freigelegt. Westlich der Schanze wurden Hügelgräber gefunden, und östlich erstreckt sich dann eine weitläufige Fläche, die Obere Holzwiese genannt wird. Die Obere Holzwiese läuft nach Süden in eine Spitze der Anhöhe aus, die steil ins Tal abfällt und ebenso wie auf der Nordseite von einem frühmittelalterlichen Wall umgeben ist. Im Osten geht der Raum der Oberen Holzwiese dann in einen weiteren Teil des Burgwalls über, der als Unter Holzwiese bezeichnet wird. Diese Fläche schließt den frühmittelalterlichen Teil des Burgwalls erneut durch einen markanten Nordwall ab. Auf der Südseite wurde keine Befestigung erkannt, was mit dem steilen Gelände zusammenhängen kann, das ausreichenden Schutz geboten haben konnte. An der nordöstlichen Ecke der Fundstelle wird ein Tor vermutet, das jedoch archäologisch nicht nachgewiesen wurde. Der letzte und nördlichste Teil der Anhöhe ist der Nordhang, eine ausgedehnte Vorburg, in der Hügelgräber freigelegt wurden; sie gehört schon nicht mehr zum befestigten Teil des Burgwalls, auch wenn hier Siedlungsspuren beobachtet wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall war schon in der Urgeschichte und im Altertum besiedelt. Die Ankunft der ersten Slawen an der Fundstelle Gars-Thunau können wir in die erste Hälfte des 9. Jahrhunderts datieren. Die Siedler nutzten sichtlich den natürlichen Schutz der Ruinen der Befestigung aus der späten Bronzezeit und ließen sich an der Stelle des Ausläufers des südlichen, in Form des Buchstaben V angelegten Walles nieder. Nicht lange danach, am Anfang der zweiten Hälfte des 9. Jahrhunderts, war bereits ein "
+       },
+       {
+        "type": "text",
+        "text": "Fürstenhof",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " errichtet, der von einer Palisade umgeben war. In derselben Zeit wurde hier auch mit dem Bau der ausgedehnten Holz-Erde-Befestigung begonnen. Offen bleibt die Frage, ob die weiteren zwei Gebiete (Schanze und Unter Holzwiese), die gemeinsam mit der Oberen Holzwiese von einem Wall umgeben sind, dieser Lage gleichzeitig angeschlossen wurden oder erst danach besiedelt und befestigt wurden. Um die Mitte des 10. Jahrhunderts verliert der Burgwall langsam seine Bedeutung (wahrscheinlich infolge politischer und wirtschaftlicher Veränderungen, die auf dem Burgwall nach der Niederlage im Kampf mit den Altungarn eintraten), und in der zweiten Hälfte des 10. Jahrhunderts finden wir dann auf der Oberen Holzwiese die letzten Siedlungsspuren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung des Burgwalls Gars-Thunau umschließt eine ausgedehnte Fläche, die in der Nord-Süd-Achse einen Durchmesser von 140 m hat, in der West-Ost-Achse dann von 600 m. Bestandteil dieses Komplexes waren drei Teile. Der westlichste Teil, die Schanze, erfüllte die Funktion einer vorgeschobenen Wehrburg, die Obere und die Unter Holzwiese waren dann der Ort der eigentlichen Besiedlung mit Bebauung, wobei sich an der Lage Obere Holzwiese – wie schon erwähnt – der "
+       },
+       {
+        "type": "text",
+        "text": "Fürstenhof",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " befand, der von einem Palisadenzaun umgrenzt war. Wie die Gräbchen im Untergrund belegen, wurde dieser Palisadenzaun dreimal umgebaut und umschloss jedes Mal eine unterschiedlich große Fläche. Zwischen den Gebieten Schanze und Obere Holzwiese ist bis heute der ursprüngliche Wall aus der späten Bronzezeit sichtbar. Die frühmittelalterliche Umfassungsbefestigung wurde jedoch wahrscheinlich nicht auf dem gesamten Umfang der Burgwallfläche errichtet. Über ihre Existenz gibt es im Gebiet der Schanze und im angrenzenden nördlichen und westlichen Teil der Oberen Holzwiese keinen Zweifel. An anderen Stellen wurde das natürliche Gelände genutzt, wie zum Beispiel am Südhang der Oberen Holzwiese. Am südöstlichen Rand der Oberen Holzwiese wurde dagegen eine Geländewelle genutzt, die von den Resten der Befestigung aus der späten Bronzezeit gebildet wurde. Es scheint, dass dieser Wall zur Erhöhung der Verteidigungsfähigkeit an der Frontseite mit Steinen verkleidet war. Hier entstand eine provisorische Mauer mit einer Steinwand, denn eine festere Befestigung war angesichts des steilen Abbruchs ins Tal offenbar nicht notwendig. Im Gebiet der Unter Holzwiese wurde die Befestigung archäologisch nicht deutlicher erfasst, es lässt sich aber annehmen, dass sich im Norden eine Holz-Erde-Mauer einschließlich des östlichen Eingangstores befand. Die Holz-Erde-Mauer des Burgwalls durchlief zwei Bauphasen. Diese Umbauten betrafen nicht nur die Konstruktion des Baus, sondern vor allem die Fläche, die die Mauer umgrenzte. Die Mauer der älteren Phase hatte eine Rostkonstruktion ohne Verwendung von Steinen an der Mauerfront, die jüngere Phase repräsentierte eine Mauer in Kastenkonstruktion mit vorgeblendeter Steinfront."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung an der westlichen Lage Schanze war in die Form des Buchstaben U gebracht, wobei die Fläche an der Ostseite offen war. Die Gesamtfläche des Raumes der Schanze betrug 100 × 170 m, und dieser wurde als wichtigster vorgeschobener Verteidigungsplatz interpretiert; die Mauer schützte hier den leicht erreichbaren Zugang zum Burgwall. Die zwei natürlichen Terrassen, die Obere und die Unter Holzwiese, bilden ein Ganzes, das von einem nördlichen und einem südlichen Abschnitt der Befestigung umgeben ist. Diese zwei Mauern sind voneinander unabhängig und ihre Ruinen sind heute weniger sichtbar als im Fall des Gebietes der Schanze. Die nördliche Befestigung ist erheblich länger als die südliche, wobei ihre Konstruktion dieselbe bleibt wie im Fall der Befestigung auf der Schanze. Wie oben schon angeführt, war es angesichts der Landschaftssituation nicht notwendig, die südliche Befestigung zu errichten, und den Bewohnern dienten die Ruinen der Befestigung aus der älteren Bronzezeit für die Schutzwirkung ausreichend."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Östlich des Südtores wurde ein Abschnitt gefunden, an dem ein Schnitt die ältere frühmittelalterliche Befestigung freilegte. Bis in eine Höhe von einem Meter reichte ein System von Rundhölzern, die sich nach Blockbauart überlagerten und nicht mit Nägeln verbunden waren. Es handelte sich um eine Rostkonstruktion, die regelmäßige quadratische Räume mit den Maßen 1,5 × 1,5 m bildete. Die freien Räume waren mit Steinen lokaler Herkunft und mit Erde ausgefüllt. An der Frontseite fanden sich keine Spuren einer Steinwand. Die Mauer der jüngeren Phase war von einer Kastenkonstruktion gebildet. Die Kästen bestanden aus unbearbeiteten Stämmen mit Rinde, und für ihre Verbindung verwendete man die Blockbautechnik, erneut ohne Verstärkung durch Nägel. Die Längswand des Kastens bildeten 7 m lange Stämme, und über sie wurden etwa 5 m lange Querstämme in einem gegenseitigen Abstand von 2,4 m gelegt. Auf ihnen ruhten weitere Querstämme, und so entstanden weitere Etagen der Konstruktion. Die Querstämme reichten jedoch mit etwa 1 m ihrer Länge in die Konstruktion der vorgeblendeten Steinfront und ragten teilweise auch an der Rückseite der Mauer hervor. Die Räume der Kästen wurden mit Erde und Steinen aufgefüllt. Vor der Frontwand der Kästen befand sich eine mächtige Steinschicht, die eine Breite von 1,5 bis 2 m erreichte. Insgesamt betrug die Breite der Basis der Mauer somit etwa 7 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im westlichen Abschnitt an der Lage Schanze wurden kleine rechteckige Bauten mit einer Feuerstelle in der Ecke freigelegt, die wahrscheinlich in Gruppentechnik errichtet wurden. Die Bauten lehnten unmittelbar an die Rückwand der Mauer an und befanden sich in regelmäßigen Abständen von 5 m. In der nordöstlichen Ecke der Lage Schanze wurde eine Einsenkung im Wall freigelegt, die als Eingang in den Raum des Burgwalls interpretiert wurde. Die Flügel der Mauer knickten hier in Richtung des Burgwallinneren ab, wobei der rechte Flügel gegenüber dem linken etwas länger war. Die Einsenkung zwischen ihnen betrug 4,2 m und war 5 m lang. In der Mitte wurde eine Reihe kugelförmiger Grübchen freigelegt, die den Raum in zwei Hälften teilte. Im Südwall, fast gegenüber dem Nordtor, wurde ein weiterer Eingang in den Burgwall freigelegt. Der Eingang lag erneut zwischen zwei Flügeln der Mauer, hatte aber wesentlich geringere Ausmaße."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mauer konnte von der Außenseite eine Höhe von bis zu 4 m erreichen (ohne die Palisade auf der Krone des Mauerkörpers). Die Breite des Wehrgangs auf der Mauerkrone bewegte sich um 4 m bis 4,5 m. Eine Besonderheit des westlichen Befestigungsabschnitts sind rechtwinklige Holzbauten mit einer Feuerstelle, die sich an der Innenseite der Mauer in regelmäßigen Abständen befinden. Diese Befunde werden als Hütten in Blockbauweise interpretiert. Solche angelehnten Wohnbauten sind im Frühmittelalter keine Ausnahme, und direkt an die Innenwand des Walles gebaute Häuser konnten dazu beitragen, den Druck zu verringern, den die Lehmfüllung auf die Rückwand der Mauer ausübte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage des Befundes wurde eine Situationsrekonstruktion des Südtores erstellt. Dieses ist als mehrgeschossiger Turm dargestellt. Die untere Kammer stellte den Eingang in den Burgwall dar, sie erreichte dieselbe Höhe wie die Mauer, und ihre Breite stimmte mit dem Abstand der beiden eingezogenen Torflügel überein. Auf der Höhe des Wehrgangs befand sich dann ein weiteres Geschoss des Tores und anschließend darüber noch ein Turm. Der Zugang vom ersten Geschoss des Tores erfolgt mittels einer Leiter durch den Boden des Turmes, wo die Öffnung auf beiden Seiten durch ein Geländer geschützt ist. Auf der Höhe des Wehrgangs ist in der gesamten Breite des Eingangs eine Kammer errichtet. Von ihr aus ist der bereits vorgeschlagene Zugang zum Turm möglich. Die Kammer ist vollständig mit Holz ausgebaut, freien Raum stellen nur die Schießscharte und die Sehschlitze sowie die Durchgänge für den Wechsel von der einen Seite des Wehrgangs auf die andere dar. Der eigentliche Wehrgang in der Nähe des Tores ist durch eine Brustwehr gedeckt. Die senkrechten Balken sind etwa 0,6 m voneinander entfernt. Ihre Höhe erreicht 2 m und oben sind sie zugespitzt. Zwischen den senkrechten Balken sind waagerecht Bohlen eingelegt. Diese erreichen abwechselnd Höhen von 1,2 und 1,8 m und bilden so einen Schutz in Form von Zinnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der ersten Hälfte des 10. Jahrhunderts wurde der Burgwall Opfer eines Angriffs wahrscheinlich der Altungarn. Die Besiedlung – nun schon landwirtschaftlichen Charakters – verlagerte sich in das Gebiet der unbefestigten Untere Holzwiese, wo sie noch weiter bis zur Mitte des 11. Jahrhunderts fortdauerte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

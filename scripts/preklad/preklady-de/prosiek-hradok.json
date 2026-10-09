@@ -1,0 +1,212 @@
+{
+ "slug": "prosiek-hradok",
+ "data": {
+  "title": "Prosiek – Hrádok, eine kleine Höhenburg der Púchov-Kultur über dem Tal",
+  "slug": "prosiek-hradok-hoehenburg-puchov-kultur",
+  "excerpt": "Die kleine Höhenburg der Púchov-Kultur, die später von unseren Vorfahren, den Slawen, wiederhergestellt und genutzt wurde (9.–12. Jahrhundert), liegt auf einem Kalkfelsen am Eingang in das Tal von Prosiek in einer Höhe von 823 m ü. M.; von der Ostseite umfließt sie der Bach Prosiečanka. Entdeckt hat sie 1891 der Gymnasialprofessor Jozef Mihalik, untersucht in den 1970er Jahren Karol Pieta. Der Prosiecky Hrádok ist heute die einzige slawische Höhensiedlung in der Liptau.",
+  "metaTitle": "Prosiek – Hrádok, Höhenburg der Púchov-Kultur",
+  "metaDescription": "Die kleine Höhenburg Hrádok der Púchov-Kultur auf einem Kalkfelsen (823 m ü. M.) am Eingang in das Tal von Prosiek wurde später von den Slawen genutzt.",
+  "keyFacts": [
+   {
+    "label": "Höhenlage",
+    "value": "823 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Lage",
+    "value": "Kalkfelsen am Eingang in das Tal von Prosiek, von der Ostseite vom Bach Prosiečanka umflossen",
+    "icon": "map"
+   },
+   {
+    "label": "Entdecker",
+    "value": "Jozef Mihalik, Mittelschulprofessor in Liptovský Sv. Mikuláš (1891)",
+    "icon": "star"
+   },
+   {
+    "label": "Forscher",
+    "value": "Karol Pieta, Ausgrabung in den 1970er Jahren",
+    "icon": "book"
+   },
+   {
+    "label": "Grundriss",
+    "value": "unregelmäßige langgezogene Form mit einer in Ost-West-Richtung orientierten Hauptachse",
+    "icon": "shield"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wallaufschüttung am Westhang des Gipfelplateaus, heute als auffällige terrassenartige Geländeformen sichtbar",
+    "icon": "shield"
+   },
+   {
+    "label": "Funde",
+    "value": "Keramik, eine Eisennadel, eine Ahle, eine Schnalle aus Bronzedraht, eine Pfeilspitze, eine Schere und ein bronzener Anhänger der Latènezeit in Radform",
+    "icon": "custom"
+   },
+   {
+    "label": "Besonderheit der Fundstelle",
+    "value": "die einzige slawische Höhensiedlung in der Liptau, an einem wichtigen Übergang aus dem Waagtal nach Norden",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–12. Jahrhundert",
+    "title": "Slawische Besiedlung der Höhenburg",
+    "description": "Die ursprüngliche befestigte Höhensiedlung der Púchov-Kultur wurde später von den Slawen wiederhergestellt und genutzt; der Prosiecky Hrádok ist heute die einzige slawische Höhensiedlung in der Liptau.",
+    "type": "era"
+   },
+   {
+    "year": "1891",
+    "title": "Entdeckung der Höhenburg durch Jozef Mihalik",
+    "description": "Als Erster entdeckte die Höhenburg der Mittelschulprofessor Jozef Mihalik vom Gymnasium in Liptovský Sv. Mikuláš, der seine Feststellungen im Jahrbuch des Ungarischen Karpathenvereins veröffentlichte.",
+    "type": "discovery"
+   },
+   {
+    "year": "1970er Jahre",
+    "title": "Ausgrabung von Karol Pieta",
+    "description": "Der bedeutende slowakische Archäologe Karol Pieta untersuchte die Höhenburg und entdeckte auf der Innenfläche der Burganlage unscheinbare Keramik und mehrere Metallgegenstände (eine Eisennadel, eine Ahle, eine Schnalle, eine Pfeilspitze, eine Schere).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6410,
+    "alt": "Stilisierter Plan einer Spornburg auf Pergament mit Wällen, Palisade und Felsgrat"
+   },
+   {
+    "mediaId": 2184,
+    "caption": "Plan der Höhenburg (aus dem Buch von M. Furman: Opevnenia na Liptove, 2016)",
+    "alt": "Plan der Höhenburg (aus dem Buch von M. Furman: Opevnenia na Liptove, 2016)"
+   },
+   {
+    "mediaId": 2185,
+    "caption": "Ältere Funde aus der Höhenburg (slawische Schere, Pfeil, Anhänger der Púchov-Kultur), von K. Pieta in AVANS 1993 veröffentlicht",
+    "alt": "Ältere Funde aus der Höhenburg (slawische Schere, Pfeil, Anhänger der Púchov-Kultur), von K. Pieta in AVANS 1993 veröffentlicht"
+   },
+   {
+    "mediaId": 2186,
+    "alt": "Ausschnitt einer Wanderkarte mit der Lage Hrádok und dem Tal von Prosiek"
+   },
+   {
+    "mediaId": 2187,
+    "caption": "K. Pieta: Hromadné nálezy z Prosieka a Vyšného Kubína. Poznámky k včasnostredovekému osídleniu Liptova a Oravy, Slovenská archeológia 2016-2",
+    "alt": "K. Pieta: Hromadné nálezy z Prosieka a Vyšného Kubína. Poznámky k včasnostredovekému osídleniu Liptova a Oravy, Slovenská archeológia 2016-2"
+   },
+   {
+    "mediaId": 2188,
+    "caption": "Funde aus der Höhenburg, die Ing. Laštík dem Kreisdenkmalamt Žilina übergab (vor dem Jahr 2002 mit dem Metalldetektor gefunden)",
+    "alt": "Funde aus der Höhenburg, die Ing. Laštík dem Kreisdenkmalamt Žilina übergab (vor dem Jahr 2002 mit dem Metalldetektor gefunden)"
+   },
+   {
+    "mediaId": 2189,
+    "caption": "Funde aus der Ausgrabung des Kreisdenkmalamtes Žilina im Jahr 2018",
+    "alt": "Funde aus der Ausgrabung des Kreisdenkmalamtes Žilina im Jahr 2018"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kleine Höhenburg der Púchov-Kultur, die später von unseren Vorfahren, den Slawen, wiederhergestellt und genutzt wurde (9.–12. Jahrhundert), erstreckt sich auf einem Kalkfelsen am Eingang in das Tal von Prosiek und liegt in einer Höhe von 823 m ü. M. Von der Ostseite umfließt sie der Bach Prosiečanka."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan der Höhenburg (aus dem Buch von M. Furman: Opevnenia na Liptove, 2016)",
+    "alt": "Plan der Höhenburg (aus dem Buch von M. Furman: Opevnenia na Liptove, 2016)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Erster entdeckte die Höhenburg im Jahr 1891 Jozef Mihalik, Mittelschulprofessor am Gymnasium in Liptovský Sv. Mikuláš, der seine Feststellungen gemeinsam mit weiteren in einer Arbeit über die urgeschichtlichen befestigten Höhensiedlungen der Liptau veröffentlichte, die im Jahrbuch des Ungarischen Karpathenvereins erschien. In den 1970er Jahren untersuchte die Höhenburg der bedeutende slowakische Archäologe Karol Pieta."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhenburg hat im Grundriss eine unregelmäßige langgezogene Form mit einer in Ost-West-Richtung orientierten Hauptachse. Die Befestigung belegt wahrscheinlich eine Wallaufschüttung am Westhang des Gipfelplateaus, die gegenwärtig in Form auffälliger terrassenartiger Geländeformen zu beobachten ist. Sie entstand offenbar bereits in der Zeit der Púchov-Kultur. Das Eingangstor in die Hauptburg liegt an der Südostseite und hatte ursprünglich wohl eine halbzangenförmige Gestalt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ältere Funde aus der Höhenburg (slawische Schere, Pfeil, Anhänger der Púchov-Kultur), von K. Pieta in AVANS 1993 veröffentlicht",
+    "alt": "Ältere Funde aus der Höhenburg (slawische Schere, Pfeil, Anhänger der Púchov-Kultur), von K. Pieta in AVANS 1993 veröffentlicht",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Ausgrabung in den 1970er Jahren gelang es, auf der Innenfläche der Burganlage unscheinbare Keramik und einige Metallgegenstände zu finden. Eine 53 mm lange Eisennadel, eine Ahle (135 mm) und eine Schnalle mit einem Rahmen aus Bronzedraht samt dem Rest eines eisernen Dorns. Zum slawischen Horizont der Fundstelle gehören ohne Zweifel eine 83 mm lange Pfeilspitze mit langen rückwärtigen Flügeln und tordiertem Schaft sowie eine kleine eiserne Schere mit kurzen, schmalen Schneiden. Ein Teil einer Trense, die hier gefunden wurde, kann frühmittelalterlichen, aber auch latènezeitlichen Ursprungs sein. Weder die Keramik noch die Metallgegenstände erlauben innerhalb der genannten Zeitabschnitte eine genauere Datierung. Im Liptauer Museum in Ružomberok wird ein gegossener bronzener Anhänger aus der Latènezeit aufbewahrt, der auf der Burganlage entdeckt wurde und den bereits J. Mihalik erwähnt. Er hat die Form eines Rades mit einer mittigen, asymmetrisch angebrachten Nabe, sechs Speichen und einer gerillten Umfangsfläche. Magische Gegenstände in Radform (Motiv der Sonne, des Sonnenwagens) sind seit der Frühbronzezeit bekannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Tal von Prosiek diente in der Vergangenheit als einer der Übergänge aus dem Waagtal in Richtung Norden. Der Prosiecky Hrádok ist gegenwärtig die einzige slawische Höhensiedlung in der Liptau. Am besten erreichbar ist die Fundstelle von der Gemeinde Prosiek in Richtung des westlichen Sattels."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

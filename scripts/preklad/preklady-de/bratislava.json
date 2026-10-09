@@ -1,0 +1,1011 @@
+{
+ "slug": "bratislava",
+ "data": {
+  "title": "Bratislava – Brezalauspurc, ein großmährischer Burgwall über der Donau",
+  "slug": "bratislava-brezalauspurc-burgwall-an-der-donau",
+  "excerpt": "Der Burgwall von Bratislava gehört zu den drei Siedlungs- und militärisch bedeutenden Fundstellen Großmährens (Nitrava, Dowina, Brezalauspurc), die unmittelbar in die Chroniken des 9. und 10. Jahrhunderts gelangten. Auf dem Burghügel standen im 9. Jahrhundert eine dreischiffige Basilika und ein steinerner Palast, unter der Burg eine Handelssiedlung — und am 4. Juli 907 endete hier eine Schlacht mit der völligen Niederlage der Bayern.",
+  "metaTitle": "Der Burgwall von Bratislava – Brezalauspurc und 907",
+  "metaDescription": "Der großmährische Burgwall Brezalauspurc, Schauplatz der Schlacht von 907, erwähnt in Chroniken des 9.–10. Jahrhunderts und auf einer Münze König Stephans.",
+  "keyFacts": [
+   {
+    "label": "Einer von drei Burgwällen in den Chroniken",
+    "value": "Nitrava, Dowina, Brezalauspurc — die einzigen 3 Fundstellen Großmährens, die in den Chroniken des 9. – 10. Jahrhunderts unmittelbar erwähnt werden",
+    "icon": "scroll"
+   },
+   {
+    "label": "Basilika",
+    "value": "Dreischiffiger Bau, Gesamtbreite 13 m — einer der größten Bauten des 9. Jahrhunderts in Großmähren",
+    "icon": "building"
+   },
+   {
+    "label": "Fund in einem Brunnen (Ventúrska 3)",
+    "value": "7 Skelette erwachsener Männer + ein Kranz von 13 eisernen axtförmigen Eisenbarren — ein einzigartiger Fund; die größte Konzentration solcher Barren findet sich sonst nur in Pobedim",
+    "icon": "scroll"
+   },
+   {
+    "label": "Steinerner Palast",
+    "value": "Maße 12 × 5,5 m, im 9. Jahrhundert errichtet",
+    "icon": "building"
+   },
+   {
+    "label": "Gräberfeld Karlova Ves",
+    "value": "15 Körpergräber, 1954 von Ľ. Kraskovská entdeckt, in die Mitte des 9. Jahrhunderts datiert",
+    "icon": "users"
+   },
+   {
+    "label": "Keltisches Oppidum",
+    "value": "Goldmünzen mit der Aufschrift Biatec, Bauten in römischer Technik aus dem 1. Jahrhundert v. Chr.",
+    "icon": "star"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "Abgeleitet von dem Adligen Preslav oder Breslav, dem der Burgwall offenbar gehörte",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Keltisches Oppidum",
+    "description": "Reste von Architekturen, die in römischer Technik errichtet waren, Goldmünzen mit der Aufschrift Biatec.",
+    "type": "founding"
+   },
+   {
+    "year": "8. Jahrhundert",
+    "title": "Mögliche älteste slawische Besiedlung",
+    "description": "Der Fund eines Models zum Treiben einer kreisförmigen Plakette deutet die Anwesenheit eines Treibarbeiters auf dem Burghügel schon vor dem 9. Jahrhundert an.",
+    "type": "discovery"
+   },
+   {
+    "year": "Beginn des 9. Jahrhunderts",
+    "title": "Entstehung der Holz-Erde-Befestigung",
+    "description": "Die Befestigung wurde mit mehreren Umbauten bis zum Ende des 14. Jahrhunderts genutzt.",
+    "type": "construction"
+   },
+   {
+    "year": "erste Hälfte des 9. Jahrhunderts",
+    "title": "Axtförmige Eisenbarren im Suburbium",
+    "description": "Der Fund bei dem Brunnen in der Ventúrska-Straße belegt die Handelsbeziehungen der Siedlung — die Barren sind vor allem für diese Periode charakteristisch.",
+    "type": "discovery"
+   },
+   {
+    "year": "um die Mitte des 9. Jahrhunderts",
+    "title": "Entstehung der Basilika",
+    "description": "Ein dreischiffiger Bau, die älteste Phase; das Gräberfeld in Karlova Ves wird ebenfalls in diese Periode datiert.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende des 9. – Beginn des 10. Jahrhunderts",
+    "title": "Besiedlung des Suburbiums",
+    "description": "Eine eingetiefte Behausung bei der nordwestlichen Ecke der Stadtmauern, Besiedlung beim Hauptplatz.",
+    "type": "event"
+   },
+   {
+    "year": "spätestens erste Hälfte des 10. Jahrhunderts",
+    "title": "Gewaltsamer Tod der Männer im Brunnen",
+    "description": "Aufgeschüttete Skelette von 7 erwachsenen Männern samt einem Kranz axtförmiger Eisenbarren — möglicher Zusammenhang mit dem Vordringen ungarischer Kriegergefolgschaften.",
+    "type": "destruction"
+   },
+   {
+    "year": "4. Juli 907",
+    "title": "Die Schlacht bei Brezalauspurc",
+    "description": "Nach den Salzburger Annalen spielte sich hier die Schlacht der bayerischen und der ungarischen Heere ab, die mit der völligen Niederlage der Bayern endete.",
+    "type": "battle"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Untergang der Basilika",
+    "description": "Auf ihren südlichen Teil errichtete man eine Befestigung mit einem gemauerten Turm (wahrscheinlich nicht vollendet).",
+    "type": "destruction"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Die Burg als Komitatssitz",
+    "description": "Die Burg erlangte eine bedeutende Rolle als Komitatsburg des Königreichs Ungarn und als Sitz von Mitgliedern der königlichen Familie; über den Ruinen der ersten Kirche errichtete man eine zweite.",
+    "type": "event"
+   },
+   {
+    "year": "11. – Beginn des 13. Jahrhunderts",
+    "title": "Intensiv genutztes Gräberfeld",
+    "description": "Rings um die Kirchen lagen die Gräber in bis zu fünf Schichten.",
+    "type": "event"
+   },
+   {
+    "year": "erstes Drittel des 13. Jahrhunderts",
+    "title": "Die zweite Kirche weiterhin in Gebrauch",
+    "description": "Genutzt bis in diese Periode.",
+    "type": "event"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Verteidigungstürme verstärken die Befestigung",
+    "description": "Eingesetzt in die Holz-Erde-Mauer bei Erhaltung der ursprünglichen Konstruktion.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende des 14. Jahrhunderts",
+    "title": "Ersetzung durch steinerne Mauern",
+    "description": "Die Holz-Erde-Befestigung ersetzten gotische Steinmauern.",
+    "type": "construction"
+   },
+   {
+    "year": "1990",
+    "title": "Rettungsgrabung",
+    "description": "Westlich des Flügels des Ehrenhofes fand sich eine Menge römischen Baumaterials und von Putzen, die mit dem Schmuck der Basilika identisch sind.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 303,
+    "caption": "Der Hortfund goldener keltischer Statere und silberner Münzen von der Burg von Bratislava mit der Aufschrift Biatec und Nonnos (aus dem Buch Kelti z Bratislavy, SNM 2017)",
+    "alt": "Der Hortfund goldener keltischer Statere und silberner Münzen von der Burg von Bratislava mit der Aufschrift Biatec und Nonnos (aus dem Buch Kelti z Bratislavy, SNM 2017)"
+   },
+   {
+    "mediaId": 304,
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Bratislava zur Zeit Großmährens",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Bratislava zur Zeit Großmährens"
+   },
+   {
+    "mediaId": 305,
+    "caption": "Grundriss des Burgwalls im 9. Jahrhundert nach Štefanovičová",
+    "alt": "Grundriss des Burgwalls im 9. Jahrhundert nach Štefanovičová"
+   },
+   {
+    "mediaId": 306,
+    "caption": "Rekonstruktion der Mauer im 9. Jahrhundert",
+    "alt": "Rekonstruktion der Mauer im 9. Jahrhundert"
+   },
+   {
+    "mediaId": 307,
+    "caption": "Mögliches Aussehen der Basilika auf dem Burgwall",
+    "alt": "Mögliches Aussehen der Basilika auf dem Burgwall"
+   },
+   {
+    "mediaId": 308,
+    "caption": "Rekonstruktion der Basilika",
+    "alt": "Rekonstruktion der Basilika"
+   },
+   {
+    "mediaId": 311,
+    "caption": "König Svatopluk ist endlich auf den Burgwall von Bratislava zurückgekehrt",
+    "alt": "König Svatopluk ist endlich auf den Burgwall von Bratislava zurückgekehrt"
+   },
+   {
+    "mediaId": 312,
+    "caption": "Eine ältere Rekonstruktion der Basilika",
+    "alt": "Eine ältere Rekonstruktion der Basilika"
+   },
+   {
+    "mediaId": 313,
+    "caption": "Typischer großmährischer Schmuck vom Burgwall",
+    "alt": "Typischer großmährischer Schmuck vom Burgwall"
+   },
+   {
+    "mediaId": 314,
+    "caption": "Gombíks vom Burgwall von Bratislava (P. Dvořák: Stopy dávnej minulosti 3)",
+    "alt": "Gombíks vom Burgwall von Bratislava (P. Dvořák: Stopy dávnej minulosti 3)"
+   },
+   {
+    "mediaId": 315,
+    "caption": "Die Münze Stephans I. um das Jahr 1000, die in Bratislava geprägt wurde. Auf ihr steht (B)reslava Civ",
+    "alt": "Die Münze Stephans I. um das Jahr 1000, die in Bratislava geprägt wurde. Auf ihr steht (B)reslava Civ"
+   },
+   {
+    "mediaId": 319,
+    "caption": "Die Innenausstattung der Basilika (A. Fiala: Výtvarný prejav staroslovan. baziliky na BA hrade, in: Byzantská kultúra a Slovensko)",
+    "alt": "Die Innenausstattung der Basilika (A. Fiala: Výtvarný prejav staroslovan. baziliky na BA hrade, in: Byzantská kultúra a Slovensko)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Der Hortfund goldener keltischer Statere und silberner Münzen von der Burg von Bratislava mit der Aufschrift Biatec und Nonnos (aus dem Buch Kelti z Bratislavy, SNM 2017)",
+    "alt": "Der Hortfund goldener keltischer Statere und silberner Münzen von der Burg von Bratislava mit der Aufschrift Biatec und Nonnos (aus dem Buch Kelti z Bratislavy, SNM 2017)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall von Bratislava (Pressburg) gehört zu den 3 Burgwällen bzw. den 3 Siedlungs- und militärisch bedeutenden Fundstellen aus der Zeit Großmährens (Nitrava, Dowina, Brezalauspurc), die unmittelbar in die Chroniken des 9. und 10. Jahrhunderts gelangten. Diese Tatsache belegt zum Beispiel die Chronik des Aventinus, in der die Schlacht zwischen den Ungarn und den Bayern im Jahr 907 als Schlacht bei Braslavespurch beschrieben wird. In den Salzburger Annalen wird sie als Schlacht bei Brezaluspurc angeführt, und die Münze des Königs Stephan aus dem Jahr 1000 trägt in der Umschrift die Aufschrift P (bzw. B) reslavva civ. Die Herkunft des Namens wird meistens von dem Adligen Preslav oder Breslav abgeleitet, dem der Burgwall offenbar gehörte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die nicht weit entfernte Furt über die Donau war schon in älteren Perioden ein wichtiger strategischer Punkt, der auch vom „Burgberg\" entsprechend geschützt war. Die Slawen bauten auf den Grundlagen älterer Bauten ein bedeutendes Zentrum auf, dessen bedeutende Dominante in der jüngeren Periode eine Basilika (Kirche) war. Der Burgwall war am ganzen Umfang von einem Wall umgeben.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor der Entstehung Großmährens"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Bratislava zur Zeit Großmährens",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Bratislava zur Zeit Großmährens",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Gebiet von Bratislava haben wir bisher keinen Burgwall belegt, den wir zeitlich sicher in den Blatnica-Mikulčice-Horizont einordnen könnten — das heißt in die Zeit vor der Entstehung Großmährens. Auf eine Besiedlung des Burghügels in der Periode des 8. Jahrhunderts weist jedoch das Bruchstück eines Models zum Treiben einer kreisförmigen Plakette hin, das sich, wie Štefanovičová anführt, nach der Art der Verzierung in diesen Zeithorizont einordnen ließe. Auf dem Model ist eine figurale Szene dargestellt, die einen Reiter auf einem Pferd zeigt, der unter den Hufen des Pferdes eine liegende menschliche Gestalt hat. Die Gestalten treten im Relief aus dem flachen punzierten Grund hervor. Sie sind künstlerisch auf hohem Niveau gearbeitet. Die Archäologen deuten das Relief als Darstellung des Triumphs über einen besiegten Feind. Der Fund deutet also auf die Anwesenheit eines Treibarbeiters auf dem Burghügel von Bratislava hin; weitere Belege für seine Tätigkeit kennen wir leider bisher nicht. Das Model zum Treiben fand sich nördlich des heutigen Burgpalastes, im Raum zwischen dem einstigen Burggraben und dem Amphitheater. Ebenso fanden sich auf der Burg einige Bruchstücke von Gefäßen, die sich nach der Art der Herstellung in das 8. Jahrhundert einordnen. Das deutet auf die Möglichkeit einer Besiedlung des Burghügels auch in einer älteren Periode als dem 9. Jahrhundert hin, als er zu einem der bedeutenden befestigten Zentren Großmährens wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der großmährische Burgwall — Verlauf und Konstruktion der Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall aus der Zeit Großmährens war mit einem mächtigen Wall befestigt, im überwiegenden Teil nur mit hölzerner Konstruktion. Das hat die Ausgrabung am Umfang der östlichen unteren Terrasse des Burgareals belegt, wo an zwei Stellen eine nicht ganz gleiche Konstruktion festgestellt wurde. In dem Schnitt im Park kam man unter einer recht mächtigen mittelalterlichen Aufschüttung auf eine verbrannte Erdschicht, unter der es gelang, eine hölzerne Kammer freizulegen, die aus dicken Eichenbalken ohne Eisennägel gezimmert war. Die Kammer war in Richtung zum Burgwall hin offen, sie bestand aus zwei Seitenwänden und einer Frontwand, und ihre erhaltene Höhe betrug 250 cm. Die Holzbalken waren vermodert, aber nicht verbrannt, es handelte sich also nicht um ein absichtliches Durchbrennen, nur der obere Teil war wahrscheinlich von einem Brand betroffen. In diesem Teil der Befestigung ließ sich ihr Umbau nicht beobachten. Nach der Frontwand der Kammer verlief die Befestigung entlang der Höhenlinie parallel zur späteren gotischen Steinmauer, sie war nur um etwa 5 m in das Innere des Areals verschoben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im nördlichen Teil war die Situation etwas anders. Es tauchte hier eine mächtige verbrannte Schicht auf, die sich auch in Richtung zum Burgwall ausbreitete und bis zu 2 m erreichte. Sie war sehr stark durchgebrannt, stellenweise mit Teilen von bis zur Verglasung verbrannter Schlacke, die jedoch unter den damaligen Bedingungen chemisch nicht bestimmt wurde. Die hölzerne Konstruktion war im unteren Teil zu kleineren Kammern gezimmert, ähnlich wie im vorhergehenden Fall; der obere Teil hatte eine mit Erde gefüllte Rostkonstruktion. Im nördlichen Teil des Schnittes war in die hölzerne Mauer ein quadratischer Steinturm eingesetzt, von dem der westliche innere Teil erhalten ist. Sein Gussmauerwerk erreichte eine Stärke von 2 m, und die Länge der Wand betrug 10 m. Die Außenseite wurde offenbar beim Bau der gotischen Befestigung am Ende des 14. Jahrhunderts abgetragen. Der Turm erreichte nicht die Fundamentsohle der Holz-Erde-Mauer; ihre Frontwand wurde auch unter seinem Fundamentmauerwerk festgestellt. Es war einer der Verteidigungstürme, mit denen man im 13. Jahrhundert die äußere Befestigung bei Erhaltung und Nutzung der ursprünglichen Holz-Erde-Konstruktion verstärkte. Errichtet wurde er ursprünglich im 9. Jahrhundert, später, irgendwann im 11. Jahrhundert, wurde sein oberer Teil zu einer Rostkonstruktion umgebaut. Interessant ist die Feststellung, dass die Befestigung in diesem Abschnitt auf der Vorderseite nur aus einer hölzernen Frontwand bestand, die nicht durch eine Steinmauer verstärkt war, obwohl an Stein in unmittelbarer Nähe kein Mangel war. Die Mauern der großmährischen Befestigungen waren oft auf der Außenseite von einer Steinmauer geschützt, und zwar nicht nur dort, wo Stein in unmittelbarer Nähe lag, auf den Burgwällen der Devínska Kobyla oder in Neštich bei Svätý Jur (Sankt Georgen), wo die natürlichen Verhältnisse ähnlich waren, sondern zum Beispiel auch im Überschwemmungsgebiet von Mikulčice, wo der Stein herangeführt werden musste. Reste einer hölzernen Konstruktion ohne die Möglichkeit einer ausführlichen Ausgrabung wurden auf der Nordseite des Burgareals festgestellt, unter der Außenmauer der Befestigung der Bastei Luginsland. Sie zeigten sich als rote durchgebrannte Schicht und als Stücke verkohlter Balken. Eine außerordentlich gut erhaltene hölzerne Konstruktion wurde im Kellergeschoss des westlichen Teils des Flügels Luginsland festgestellt, wo sie eine Tiefe von bis zu 6 m erreichte. Da es sich um einen Baugrubenaushub in der Zeit nach dem offiziellen Abschluss der Ausgrabung handelte, war es nicht möglich, die Konstruktion zu untersuchen oder zu dokumentieren. Sie bestand aus außerordentlich gut erhaltenen großen Eichenbalken, die auf natürliche Weise verkohlt sind. Spuren einer verbrannten Schicht mit hölzernen Bruchstücken von Balken wurden auch unter einem Teil der westlichen Befestigung festgestellt und erlaubten so, den wahrscheinlichen Verlauf der Befestigung zu rekonstruieren, der auf der östlichen, nördlichen und westlichen Seite im Wesentlichen der Konfiguration des Geländes folgt wie die späteren gotischen Mauern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss des Burgwalls im 9. Jahrhundert nach Štefanovičová",
+    "alt": "Grundriss des Burgwalls im 9. Jahrhundert nach Štefanovičová",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Südseite hatte der Burghügel einen steilen Abfall, und die Befestigung hatte hier einen Verlauf in der Richtung S – N und wies auf den Kronturm des heutigen Palastes. Ihr oberer Teil hatte"
+       },
+       {
+        "type": "text",
+        "text": " eine Rostkonstruktion, ihre Außenseite verstärkte eine Mauer aus Bruchstein, der mit Lehm verbunden war",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Sie war 1 m stark, die Balken der Befestigung waren in einigen Teilen in sie eingelassen. Interessant ist die durch einen kleinen Tiefenschnitt festgestellte Situation, die vielleicht ein älteres Mauerwerk unter der Befestigung andeutet. Den Verlauf des Walles in Richtung zum Kronturm gelang es noch ansatzweise westlich des Flügels des Ehrenhofes und auch bei den Fundamenten des Kronturms festzustellen, im Inneren der Terrasse, die bei einer späteren mittelalterlichen Umgestaltung an den Palast angebaut wurde. Gegenwärtig kennen wir eigentlich den ganzen Verlauf der Holz-Erde-Befestigung, die wahrscheinlich vom Beginn des 9. Jahrhunderts stammt und mit einigen Umbauten bis zum Ende des 14. Jahrhunderts genutzt wurde, als sie steinerne gotische Mauern ersetzten. Die Befestigung war für ihre Zeit sehr mächtig und wirksam; wir wissen auch aus historischen Quellen, dass sie mehrmals verschiedenen Angriffen während kriegerischer Zusammenstöße widerstand, vor allem im 11. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion der Mauer im 9. Jahrhundert",
+    "alt": "Rekonstruktion der Mauer im 9. Jahrhundert",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bauten auf dem Burgwall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Areal innerhalb der Befestigung hatte seine natürliche Höhengliederung, die sich aus verschiedenen Höhenmessungen während der Ausgrabung rekonstruieren ließ. Der höchste Teil befand sich unter der westlichen Hälfte des heutigen Palastes, von wo das Gelände allmählich abfiel und im Osten mit einer Zunge in eine kleinere Terrasse auslief. Diese Konfiguration nutzte man im 9. Jahrhundert, um auf ihrem Gipfel die bedeutendsten Bauten zu errichten. Im höchsten Teil wurden bei der Ausgrabung "
+       },
+       {
+        "type": "text",
+        "text": "die Fundamente und auch ein Teil des aufgehenden Mauerwerks eines kleinen Steinpalastes festgestellt",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", der einen längsgerichteten Grundriss in der Richtung W—O hatte. Errichtet war er aus Bruchstein, der mit Lehm verbunden war, unter Verwendung bearbeiteter Steinquader an den Ecken. Seine Wände waren verblendet, von innen war er verputzt und durch eine Trennwand in zwei Räume gegliedert. Die Südwand ist nicht erhalten, sie ging beim Bau des gotischen Palastes unter. Im nördlichen Teil wurde eine Eingangsöffnung mit einem Teil eines steinernen Pflasters festgestellt. Eine Heizvorrichtung ließ sich wegen der Torsohaftigkeit des Befundes nicht finden. Seine zeitliche Einordnung in das 9. Jahrhundert ist angenommen, angesichts seiner Grundrissdisposition und seines Verhältnisses zu den übrigen entdeckten Architekturen in der nächsten Umgebung. Die Maße des Befundes lassen sich nur auf 12 × 5,5 m schätzen. Man kann annehmen, dass es sich um einen erdgeschossigen Palast aus dem 9. Jahrhundert handelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Mögliches Aussehen der Basilika auf dem Burgwall",
+    "alt": "Mögliches Aussehen der Basilika auf dem Burgwall",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Östlich von ihm, auf der abfallenden Zunge des Geländes, gelang es unter dem südöstlichen Turm des heutigen Palastes im Kellergeschoss "
+       },
+       {
+        "type": "text",
+        "text": "einen kleineren Wohnbefund",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu entdecken. Er hatte einen steinernen Unterbau aus Bruchstein, der in Lehm gelegt war, der Innenraum war mit gelbem sandigem Lehm verstrichen, und an der nordöstlichen Ecke wurden Spuren einer durchgebrannten Feuerstelle mit Andeutungen einer Umgrenzung durch Steine festgestellt. Von ihm ist die Nordwand in einer Länge von 4 m und Teile der West- und der Ostwand erhalten. Die südliche wurde während des mittelalterlichen Umbaus beim Bau des gotischen Palastes zerstört. Aus dem Befund stammen Funde von Scherben einer zumeist auf der Scheibe gedrehten, mit Wellenband verzierten Keramik, die sich in das 9. Jahrhundert einordnen lässt. Es handelte sich offenbar um eine Behausung, die auf dem steinernen Unterbau einen hölzernen Blockbau hatte. Ähnliche Bauten aus dem 9. Jahrhundert wurden nur wenige gefunden; in jener Zeit überwiegt als einfache Behausung das eingetiefte Grubenhaus bzw. ein Bau mit Pfostenkonstruktion. Ähnliche Bauten stammen aus anderen Machtzentren Großmährens – zum Beispiel aus Staré Město bei Uherské Hradiště. Im Fall der Behausung auf der Burg von Bratislava handelt es sich eindeutig um den steinernen Unterbau einer Blockbaubehausung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Basilika"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion der Basilika",
+    "alt": "Rekonstruktion der Basilika",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu dem bedeutendsten Fund auf dem Burgwall von Bratislava gehören unbestreitbar die Reste eines Kirchenbaus auf dem östlichen Ausläufer der oberen Terrasse. Es gelang dort, einen Teil des Kirchenbaus festzustellen, der an der südwestlichen Ecke wahrscheinlich im 10. Jahrhundert von einem Turmbau überdeckt und erneut, ebenfalls mit einem Turmbau im selben Abschnitt, von einem neuen Kirchenbau aus dem 11. Jahrhundert überdeckt wurde. Die Überschichtung dreier Mauerwerke, die mit verschiedenem visuell unterscheidbarem Bindemittel verbunden waren, und der glückliche Umstand des Fundes eines Grabes unter der Mauer aus dem 11. Jahrhundert, das einen charakteristischen großmährischen Gombík (kugelförmigen Knopfanhänger) enthielt, lieferten den Schlüssel zur zeitlichen Einordnung der Bauten. Die älteste Bauphase bildeten die Umfassungsmauer des südlichen Schiffes und der südwestlichen Front sowie drei Paare massiver Pfeiler, die den Innenraum in drei Schiffe gliederten. Die Mauern und vor allem die Pfeiler waren aus bearbeiteten Steinquadern errichtet; in einigen Fällen wurden als Baumaterial sekundär Architekturglieder oder Steine mit eingehauenen römischen Inschriften verwendet (FECIT VERIAN). Im Mauerwerk wurden auch reichlich römische Ziegel oder deren Bruchstücke verwendet. Zumeist gehörten sie ursprünglich zu einem Bau der XIIII. römischen Legion, deren Stempel sich auf ihnen erhalten haben; das Material stammte von einem nicht festgestellten römischen Bau irgendwo in der Umgebung. Angesichts seiner Menge nehmen wir an, dass der Bau unmittelbar auf dem Burghügel gestanden haben könnte. Ähnliche Situationen sind auch an anderen Stellen von Bratislava üblich. Im Burgareal war bisher der einzige Hinweis auf einen älteren Steinbau als den aus dem 9. Jahrhundert ein kleiner Teil einer Mauer, der nur von der Seite unter dem Turmbau aus dem 10. Jahrhundert sichtbar war. Seine Untersuchung war jedoch aus technischen Gründen nicht durchführbar, und so bleibt diese Frage offen. Die genannten Reste des Baus aus dem 9. Jahrhundert bilden nur ein Torso der ganzen Grundrissdisposition. Nicht erhalten ist das nördliche Umfassungsmauerwerk und vor allem der östliche Teil der Kirche, was es unmöglich macht zu beurteilen, wie das Sanktuarium aussah. Die erhaltene Umfassungsmauer wie auch die Pfeilerpaare waren in der Richtung O – W orientiert. Von innen war der Bau verputzt und mit Malereien verziert, die am wahrscheinlichsten figurale Szenen darstellten. Die Farben der Malereien waren erdig — ockerfarben, gelb, braunrot — und von breiten grauen Streifen gerahmt. Bruchstücke von Putz mit Malereien fanden sich vor allem bei den Pfeilern des Schiffes. Im Jahr 1990 fand sich bei einer Rettungsgrabung westlich des Flügels des Ehrenhofes in sekundärer Lage eine aufgeschüttete Menge römischen Baumaterials und von Putz mit identischer Ausmalung. Es handelte sich offenbar um die Verlagerung eines Teils des Mauerwerks nach dem Abbruch der Kirche. Details der erhaltenen Putze deuten darauf hin, dass sie von Fenstern und von Rahmungen der Eingänge stammen, und helfen die Vorstellung von ihrem Aussehen zu vervollständigen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bratislava",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Basilika errichteten wahrscheinlich zwei Gruppen von Handwerkern. Die erste, die mit einem Bau ähnlichen Typs wahrscheinlich unerfahren war, errichtete die Steinmauern recht unregelmäßig, ohne rechtwinkliges System. Die zweite Gruppe von Erbauern vollendete die Kirche und verputzte die Oberfläche des Mauerwerks mit einem ausgleichenden Mörtel, der die Unterlage für einen feineren Putz mit Freskenschmuck bildete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Einordnung des Baus unter die sakralen spricht seine Disposition selbst, die Ostorientierung und die Gräber, die sich ringsum befanden. Der Brauch, bei der Kirche zu bestatten, war schon im 9. Jahrhundert üblich. Angesichts dessen, dass auf den Resten der älteren Kirche im 11. Jahrhundert eine zweite Kirche stand, die man bis in das erste Drittel des 13. Jahrhunderts nutzte, erstreckte sich um die Bauten ein intensiv genutztes Gräberfeld. Vom Beginn des 11. bis zum Beginn des 13. Jahrhunderts lagen auf ihm die Gräber in bis zu fünf Schichten. Dieses intensive Bestatten zerstörte wahrscheinlich einen Teil der älteren Gräber, deshalb sind die Funde aus dem 9. Jahrhundert nur in geringer Zahl vertreten. Die freigelegten Gräber des ältesten Horizonts befanden sich auf der Südseite des Baus, eines lag im Westen. Sie enthielten Schmuck, der zweifellos zum Kreis des großmährischen Schmucks gehört, und zwar zu solchem, wie er nur in den höher gestellten Schichten verwendet wurde. Es waren Ohrringe, die mit einem Anhänger in Form einer Weintraube verziert waren, sogenannte traubenförmige, Ohrringe mit Kügelchen, die auf der Oberfläche mit kleinen Körnchen verziert waren — mit Granulation — sowie einfache Ringohrringe. Alle waren aus Silber. Ein ausgeprägter Schmuck waren auch die Gombíks, die wahrscheinlich eher als Zierde und nicht zum Zusammenhalten der Kleidung verwendet wurden. Sie waren hohl, aus zwei bronzenen Blechhalbkugeln zusammengefügt und mit geritztem geometrischem Ornament verziert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bratislava",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zeitliche Einordnung der Reste des Kirchenbaus hängt in großem Maße von den Begleitfunden ab, denn der Bau selbst hat keine architektonischen Details, die seine Datierung erlauben würden. Diese Situation ist auch an anderen Fundstellen mit Funden sakraler Architektur im Raum Großmährens ähnlich. Nach den Grabfunden, die rings um den ältesten Bau auf dem Burgwall von Bratislava gefunden wurden, lässt sich seine Entstehung um die Mitte des 9. Jahrhunderts annehmen. Mit seiner dreischiffigen Disposition und einer Gesamtbreite von 13 m zählt er zu den größten Bauten des 9. Jahrhunderts im Raum Großmährens. Seine Länge kennen wir nicht, und wir wissen auch nicht, welchen Abschluss er im Osten hatte. Die Stärke der Umfassungsmauer bewegte sich um 90 cm, die Pfeiler hatten Maße von etwa 100 x 100 cm. Die Gliederung der Mauern durch Anten und die dreischiffige Disposition sowie die Gesamtmaße nähern den Bau von Bratislava am stärksten der dreischiffigen Basilika des hl. Johannes des Täufers an, die in Zalavár in der Lage Réceskút freigelegt wurde. Das deutet auch den Weg an, woher die Erbauer oder die Bauinspirationen beider Bauten wahrscheinlich kamen, d. h. aus dem dalmatinischen Raum. In der dortigen Architektur sind sowohl die Gesamtdisposition des Baus als auch die Gliederung der Mauern durch Anten üblich, und diese Strömung der Christianisierungstätigkeit deuten auch die Schriftquellen als sehr wahrscheinlich an."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "König Svatopluk ist endlich auf den Burgwall von Bratislava zurückgekehrt",
+    "alt": "König Svatopluk ist endlich auf den Burgwall von Bratislava zurückgekehrt",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Basilika ging irgendwann im Verlauf des 10. Jahrhunderts unter, als man auf ihren südlichen Teil eine Befestigung mit einem gemauerten Turm errichtete. Diese Befestigung sollte nur den höher gelegenen Teil des Burgwalls schützen, war aber wahrscheinlich nicht vollendet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg von Bratislava können wir aufgrund der genannten Funde als bedeutende großmährische Festung ansehen, die ein kirchliches wie weltliches Zentrum eines größeren Gebietes war. Auf ihr saß eine fürstliche Gefolgschaft und wahrscheinlich auch ein kirchlicher Würdenträger. Die bedeutende Stellung der Burg spiegelt sich auch darin, dass man ihren Namen als einen von drei bekannten Namen aus dem Raum Großmährens in den Salzburger Annalen als Brezalauspurc anführte. Der Annalist führte knapp an, dass sich unter ihr am 4. Juli 907 eine schreckliche Schlacht der bayerischen und der ungarischen Heere abspielte, die mit der völligen Niederlage der Bayern endete und den Ungarn den Weg nach Westen öffnete. Wahrscheinlich kurz danach oder schon in jener Zeit verlor der Burgwall von Bratislava für eine Zeit seine Funktion, obwohl ihn die Ungarn wahrscheinlich nicht eroberten, zumindest sind darüber keinerlei Anzeichen erhalten. Eine bedeutende Rolle erlangte die Burg erneut im 11. Jahrhundert, als sie zur Komitatsburg des Königreichs Ungarn und zum Sitz von Mitgliedern der königlichen Familie wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Suburbium und das Gebiet der heutigen Altstadt zur Zeit Großmährens"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine ältere Rekonstruktion der Basilika",
+    "alt": "Eine ältere Rekonstruktion der Basilika",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenüber den ausgeprägten Funden auf dem Burghügel sind die Belege der Besiedlung unter ihm im 9. Jahrhundert viel spärlicher. Wahrscheinlich verursacht das vor allem die starke spätere mittelalterliche und neuzeitliche Überbauung, die eine zusammenhängendere Ausgrabung verhindert. An mehreren Fundstellen nämlich, wo eine Ausgrabung durchgeführt werden konnte, fanden sich Belege des Lebens aus der großmährischen Zeit, auch wenn nur in einem fragmentarischen Bild. An vielen Stellen des westlichen Teils des Staré mesto (der Altstadt) wurde eine Siedlungsschicht festgestellt, doch da es in ihr nicht gelang, Befunde zu erfassen, geben die Funde nur eine Vorstellung vom Umfang der bewohnten Fläche, nicht von der Art der Besiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unmittelbar unter der Burg, am östlichen Hang des Burghügels, wurde bei der Ausgrabung nicht weit von der Kirche des hl. Nikolaus ein Teil einer Befestigung festgestellt, der zeitlich in das 9. Jahrhundert eingeordnet wird. Ihr Gesamtverlauf ist nicht bekannt, aber wahrscheinlich handelte es sich um die Befestigung einer Vorburg. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Typischer großmährischer Schmuck vom Burgwall",
+    "alt": "Typischer großmährischer Schmuck vom Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlung unter der Burg begann sich wahrscheinlich schon im 9. Jahrhundert zu entwickeln und konzentrierte sich in den Raum zwischen den späteren westlichen Stadtmauern und die Ventúrska-Straße. Auf der Innenseite der Stadtmauern, in ihrer nordwestlichen Ecke, wurde eine eingetiefte Behausung vom Ende des 9. und vom Beginn des 10. Jahrhunderts freigelegt. "
+       },
+       {
+        "type": "text",
+        "text": "Die Behausung war in das damalige Gelände etwa 70 cm eingetieft",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und hatte eine verhältnismäßig sehr gut erhaltene innere Füllung. In ihr blieb ein Torso einer verkohlten Holzkonstruktion erhalten, das es erlaubt, einige Baudetails zu rekonstruieren. Das Grubenhaus hatte einen quadratischen Grundriss mit einer Fläche von 320 cm². "
+       },
+       {
+        "type": "text",
+        "text": "Die Wände bildeten gespaltene Eichenbalken, die in klassischer Blockbautechnik errichtet waren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit Verband in der nordwestlichen und der südwestlichen Ecke; in der nordöstlichen und der südöstlichen Ecke setzte man die Enden der Balken jedoch in die Nut eines Eckpfostens ein. In der nordöstlichen Ecke war ein Ofen angeordnet, der auf der Außenseite eine lehmerne Isolierung gegenüber der hölzernen Konstruktion der Wand hatte. Das Öfchen war aus Stein. Ihm gegenüber, in der südöstlichen Ecke, war die Eingangsöffnung, über der wahrscheinlich ein schützendes Vordach war. Der Boden war mit einer dünnen zwei Zentimeter starken Schicht gelber lehmiger Erde hergerichtet. In der Behausung fanden sich nur drei Gefäße, nach denen sie auch zeitlich eingeordnet ist. Weitere Siedlungsfunde stammen aus der Kapitulská-Straße 18 und aus der Ventúrska-Straße 6, es sind jedoch nur Siedlungsgruben, die über die Anordnung der Siedlung nicht viel sagen, eher über ihren Umfang. Von den Funden stammt bisher nur Keramikmaterial, es gelang nicht, Belege von Produktionsbefunden oder handwerklicher Tätigkeit festzustellen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gombíks vom Burgwall von Bratislava (P. Dvořák: Stopy dávnej minulosti 3)",
+    "alt": "Gombíks vom Burgwall von Bratislava (P. Dvořák: Stopy dávnej minulosti 3)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dieser Sicht ist der Fund in der Ventúrska-Straße 3 im Gebäude der mittelalterlichen Universität Academia Istropolitana bemerkenswert. In dem Hof, den mehrere Häuser bilden, "
+       },
+       {
+        "type": "text",
+        "text": "fand sich ein Brunnen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", im unteren Teil mit Asche und Holzkohle gefüllt. Auf dieser Schicht "
+       },
+       {
+        "type": "text",
+        "text": "waren sieben Skelette erwachsener Männer aufgeschüttet. Auf dem Niveau der Skelettschicht lag am Rand des Brunnens ein nicht zusammenhängender Kranz von 13 Stück eiserner axtförmiger Eisenbarren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Der Fund wurde aufgrund einiger Scherbenbruchstücke zeitlich spätestens in die erste Hälfte des 10. Jahrhunderts eingeordnet. Bisher hat er jedoch auch im großmährischen Horizont nicht seinesgleichen. Die aufgeschütteten Skelette der Männer zeugen von ihrem gewaltsamen Tod, zu dem es während eines militärischen Zusammenstoßes gekommen sein könnte. Aus dieser Sicht käme ein Kampfgetümmel am Beginn des 10. Jahrhunderts in Betracht, das mit dem Vordringen ungarischer Kriegergefolgschaften zusammenhängen könnte. Bemerkenswert ist, dass"
+       },
+       {
+        "type": "text",
+        "text": " die Männer keinerlei Waffen und keine anderen Gegenstände hatten, die es erlauben würden, sie einer bestimmten gesellschaftlichen Gruppe zuzuordnen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Die axtförmigen Eisenbarren, die am Umfang des Brunnens unregelmäßig in einem Kranz angeordnet waren, sind ein eigenartiger Gegenstand, der die Funktion bestimmter Maßeinheiten hatte. Sie erfüllten auch die Funktion eines Zahlungsmittels in der Zeit vor der Einführung von Münzen. Der Name der Gegenstände ist von ihrer Form abgeleitet, die schlanken langen Äxten gleicht, mit einer Schneide auf der einen Seite und einem Nackenteil samt durchbohrter Öffnung auf der anderen Seite. Der Gegenstand war jedoch zu dünn und zerbrechlich, um funktionell als Axt verwendet werden zu können. Axtförmige Eisenbarren finden sich häufig in größerer Menge in Hortfunden, was nahelegt, dass in ihnen ein Rohstoff thesauriert war, der in jener Zeit wertvoll war. Die größte Konzentration in der Slowakei kennen wir vom Burgwall Pobedim bei Piešťany und seiner Umgebung, wo auch eine entwickelte Schmiedeproduktion belegt ist. Im Raum Bratislava ist es bisher der einzige größere Fund dieser Art. Abgesehen von der Art der Niederlegung der Barren rings um die aufgeschütteten Leichen der Männer im Brunnen ist er ein Beleg, wenn nicht ihrer Herstellung irgendwo am Rand der Siedlung, dann gewiss der Handelsbeziehungen, die die Siedlung im 9. Jahrhundert hatte. Da eiserne axtförmige Eisenbarren vor allem für die erste Hälfte des 9. Jahrhunderts charakteristisch sind, belegt ihr Fund eine verhältnismäßig frühe Handels- oder Marktsiedlung unter der Burg. Diese Erklärung ist natürlich angesichts dessen, dass nicht weit unter dem Südhang des Burghügels von alters her eine Furt über die Donau genutzt wurde, die gewiss zu Handelszwecken diente."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Münze Stephans I. um das Jahr 1000, die in Bratislava geprägt wurde. Auf ihr steht (B)reslava Civ",
+    "alt": "Die Münze Stephans I. um das Jahr 1000, die in Bratislava geprägt wurde. Auf ihr steht (B)reslava Civ",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlung aus dem 9. Jahrhundert im Raum zwischen den westlichen Stadtmauern und der Ventúrska-Straße hatte ihr "
+       },
+       {
+        "type": "text",
+        "text": "Gräberfeld nicht weit entfernt, im mittleren Teil der heutigen Panská-Straße",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", unter dem gotischen Palast der heutigen Städtischen Galerie. Der Bestand der Gräber liefert, obwohl er klein ist, wichtige Informationen für die Beurteilung seines Charakters. Eine "
+       },
+       {
+        "type": "text",
+        "text": "eiserne Axt",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die in einem Männergrab gefunden wurde, gehört zu der Gruppe, die als Bartäxte bezeichnet wird, nach dem ausgeschnittenen Körper und den recht hohen spitzen Stacheln bei der Öffnung für den Schaft. Der Nacken war langgezogen und gerundet, die Schneide gerade. Äxte dieser Form sind für das 9. Jahrhundert charakteristisch. Auf dem Gräberfeld wurde das "
+       },
+       {
+        "type": "text",
+        "text": "Grab eines Mannes — eines Kriegers, einer Frau und eines Kindes",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " festgestellt. Nach der Ausstattung mit Grabbeigaben und vor allem nach der Beigabe von Hahnenfüßen können wir vermuten, dass die Bestatteten "
+       },
+       {
+        "type": "text",
+        "text": "noch an heidnischen Bräuchen festhielten",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Das stützt auch das Grab eines Toten in Hockerlage, das davon zeugt, dass das Christentum, das im 9. Jahrhundert in der fürstlichen Schicht schon überwog, unter das einfache Volk nur langsam vordrang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bratislava",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der Siedlung unter der Burg am östlichen Hang des Burghügels, die auch zum Ausgangspunkt für die späte Entstehung der mittelalterlichen Stadt wurde, verzeichnete man eine kleine Siedlung auch am Fuß des Südhangs des Hügels. Bei der Ausgrabung des Gebäudes des sogenannten Wasserturms "
+       },
+       {
+        "type": "text",
+        "text": "legte man in der einstigen Vydrická-Straße ebenfalls ein in die Erde eingetieftes Grubenhaus frei",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". In das 9. Jahrhundert ordnen es die Keramikfunde ein. Das Grubenhaus mit quadratischem Grundriss war wahrscheinlich Teil einer kleinen Siedlung bei der Donaufurt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die letzten Funde von der Ausgrabung des Hauptplatzes in der Altstadt deuten darauf hin, dass die Siedlung bei den westlichen Stadtmauern nicht die einzige war. Ein eingetiefter Befund mit Keramik, die sich in das Ende des 9. und den Beginn des 10. Jahrhunderts einordnen lässt, zeugt davon, dass auch in dieser später zentralen Lage der mittelalterlichen Stadt am Ende des 9. Jahrhunderts eine Besiedlung bestand. Auf der Nordseite unter dem Burghügel wurde die Besiedlung aus dem 9. Jahrhundert in der "
+       },
+       {
+        "type": "text",
+        "text": "Siedlungsschicht bei der Dreifaltigkeitskirche und an der Einmündung der Partizánska-Straße in die Palisády",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " festgestellt. Hier wurde im Hof des einstigen Evangelischen Krankenhauses beim Umbau des Versorgungsnetzes ein "
+       },
+       {
+        "type": "text",
+        "text": "gestörter slawischer Befund",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " angetroffen, der Scherbenmaterial aus dem 9. Jahrhundert enthielt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bratislava",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Raum zwischen dem Burgwall von Bratislava und dem Burgwall von Devín (Theben) wurde eine dichtere Besiedlung festgestellt. Außer einzelnen Funden von Keramik oder Feuerstellen (Karlova Ves, Lage Kútiky, hinter dem Botanischen Garten) wurde auch ein Körpergräberfeld festgestellt. Im Gebiet von Karlova Ves (auf dem Gelände des Botanischen Gartens beim Bach Vydrica) legte es im Jahr 1954 Ľ. Kraskovská frei. Sie entdeckte auf ihm 15 Körpergräber. In zwei Gräbern wurde eine Auskleidung des Grabes mit Holzbrettern festgestellt. Das Inventar bestand aus Keramik und Zierstücken. Festgestellt wurden Ohrringe mit einer traubenförmigen Ähre über dem oberen Bogen oder mit granulierten Kränzchen, die einander gegenüber in der Mitte des Bogens angeordnet waren. Die Keramik von recht grober Form war auf einer langsam rotierenden Töpferscheibe hergestellt. Das Gräberfeld stammt wohl aus der Mitte des 9. Jahrhunderts.\""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das keltische Oppidum und der römische burgus"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Hof des Burgpalastes wie auch auf der Nordterrasse des Areals fanden die Archäologen des Städtischen Instituts für Denkmalschutz Reste einzigartiger Architekturen aus der Periode des 1. Jahrhunderts v. Chr. Die Funde erregten großes Aufsehen, in den Medien wurden sie teilweise auch als Entdeckung eines Schatzes gedeutet. Bestandteil des Fundes waren nämlich auch Goldmünzen mit der Aufschrift Biatec. Was die Bauten betrifft, haben ausländische Historiker die Datierung gebilligt und sind übereingekommen, dass es sich um den repräsentativsten Bau nördlich der Alpen aus der Spätlatènezeit handelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bratislava",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Burg befand sich also in der Vergangenheit die Hauptburg eines der bedeutendsten keltischen Burgwälle — eines Oppidums in Mitteleuropa. „Diese Befunde waren in römischer Bautechnik errichtet und sind ein einzigartiger Fund nicht nur unter dem Aspekt ihres Alters, sondern auch ihrer Qualität. In ihnen haben sich die ursprünglichen Innenputze und gegossene Fußböden mit Kieselverzierung erhalten, die in der Slowakei nicht ihresgleichen haben\", sagt Štassel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hof ist nach Štassel voll von römischen Bauten in keltischem Milieu, die mehrere Bauetappen haben. Die Nordterrasse der Burg, unter der eine Tiefgarage gebaut werden soll, hat mehrere selbstständige römische Bauten, die mehrgeschossig waren. Was allen Befunden gemeinsam ist, sind zum Beispiel erhaltene hochwertige gegossene Fußböden.\n\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

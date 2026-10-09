@@ -1,0 +1,260 @@
+{
+ "slug": "brodske-veles",
+ "data": {
+  "title": "Brodské – Veleš: ein Burgwall an der March und die Rätsel seiner Datierung",
+  "slug": "brodske-veles-burgwall-an-der-march",
+  "excerpt": "Die Erforschung der historischen Besiedlung verlangt auch einen guten Umgang mit problematischen Situationen – Brodské ist dafür ein Musterbeispiel. Funde eines Brandgräberfeldes wurden lange seiner Gemarkung zugeschrieben, stammen aber aus der Gemarkung von Břeclav. Der Burgwall auf dem Veleš nordwestlich des Ortes, benannt nach dem slawischen Gott Veles, ist einer von nur zwei archäologisch belegten großmährischen Burgwällen im Záhorie und bewachte wohl den südlichen Zugangsweg nach Pohansko.",
+  "metaTitle": "Brodské – Veleš, Burgwall und Rätsel seiner Datierung",
+  "metaDescription": "Die Fundstelle Brodské-Veleš zeigt, wie unterschiedliche Datierungen und unklare Lokalisierungen die Erforschung der frühen Besiedlung erschweren.",
+  "keyFacts": [
+   {
+    "label": "Lage des Burgwalls",
+    "value": "Fundstelle Veleš, nordwestlich des Ortsgebiets der Gemeinde Brodské",
+    "icon": "map"
+   },
+   {
+    "label": "Funktion",
+    "value": "wahrscheinlich eine Wachfunktion – Schutz des südlichen Zugangswegs zum Burgwall Břeclav-Pohansko",
+    "icon": "shield"
+   },
+   {
+    "label": "Verwandte Burgwälle im Záhorie",
+    "value": "einer von zwei archäologisch belegten großmährischen Burgwällen im Záhorie, zusammen mit Podbranč-Starý hrad",
+    "icon": "flag"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "Veleš – abgeleitet vom Namen des slawischen Gottes Veles, des Schützers der Herden und Herrschers des Jenseits",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7.–8. Jahrhundert",
+    "title": "Brandgräberfeld (ursprünglich fälschlich nach Brodské lokalisiert)",
+    "description": "Die 1922 und 1937 entdeckten Funde von vier Urnen und zwei kleineren Gefäßen aus dem 7.–8. Jahrhundert wurden lange der Gemarkung von Brodské zugeschrieben, schließlich jedoch in der Gemarkung der Stadt Břeclav lokalisiert.",
+    "type": "discovery"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawischer Burgwall auf dem Veleš",
+    "description": "Die Besiedlung in der Lage Veleš nordwestlich von Brodské wurde als ein von Graben und Wällen umgebener Burgwall interpretiert und in die Zeit des 9.–10. Jahrhunderts datiert; er konnte den südlichen Zugangsweg zum Burgwall Břeclav-Pohansko bewachen.",
+    "type": "construction"
+   },
+   {
+    "year": "um 1970",
+    "title": "Amateurgrabungen von Konštantín Jakubec",
+    "description": "Bei Amateurgrabungen auf dem Veleš fand er einen von Graben und Wällen umgebenen Burgwall, viele Scherben und Holzkohle und lokalisierte das Eingangstor des Burgwalls; etwa 300 m vom Burgwall entfernt grub er bei der Rotunde 10 Gräber aus.",
+    "type": "discovery"
+   },
+   {
+    "year": "1163",
+    "title": "Erste schriftliche Erwähnung von Pfarre und Kirche",
+    "description": "„Die Pfarre und die Kirche werden schon im Jahr 1163 erwähnt“, schreibt Konštantín Palkovič über Brodské unter Berufung auf Ľudovít Némethy und ältere Schematismen; der originale schriftliche Beleg ist jedoch nicht bekannt.",
+    "type": "event"
+   },
+   {
+    "year": "1989",
+    "title": "Oberflächenprospektion auf dem Veleš",
+    "description": "Durch eine Oberflächenprospektion wurde vom Veleš Scherbenmaterial aus dem 13.–14. Jahrhundert gewonnen, das von einer untergegangenen Besiedlung zeugen könnte, auf einer Fläche von etwa 3 ha.",
+    "type": "discovery"
+   },
+   {
+    "year": "1317",
+    "title": "Šaštín und Brodské für Abraham Rufus",
+    "description": "König Karl schenkte Šaštín (Saswar) zusammen mit Brodské (Barachka, Baracka) Abraham Rufus als Entschädigung für die Schäden, die er von Matúš Čák erlitten hatte.",
+    "type": "event"
+   },
+   {
+    "year": "1323",
+    "title": "Erste Erwähnung des Komitats Šaštín",
+    "description": "Zum Jahr 1323 wird das Komitat Šaštín erwähnt, die Burg hatte also ihren Bezirk schon ausgebildet.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6421,
+    "alt": "Ausschnitt aus einer historischen Karte mit dem Fluss March („March Fluss“) und dem Ort Broczka"
+   },
+   {
+    "mediaId": 3230,
+    "caption": "Brodské auf der Karte der 1. militärischen Landesaufnahme (1782–1784)",
+    "alt": "Brodské auf der Karte der 1. militärischen Landesaufnahme (1782–1784)"
+   },
+   {
+    "mediaId": 3231,
+    "alt": "Kopfzeile der Website Slovanské hradiská mit Logo und der Adresse hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Erforschung der historischen Besiedlung erfordert unter anderem auch einen guten Umgang mit problematischen Situationen. Komplikationen können in die Siedlungsforschung zum Beispiel die unterschiedliche zeitliche Einordnung derselben archäologischen Funde durch verschiedene Fachleute oder deren unklare Lokalisierung bringen. Ein solches Beispiel ist Brodské."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Literatur werden häufig (leider noch heute) Funde aus einem Brandgräberfeld angeführt, die aus der Gemarkung der Gemeinde Brodské (Lage Trnava) stammen sollten. Es handelt sich um vier Urnen und zwei kleinere Gefäße aus dem 7.–8. Jahrhundert, die in den Jahren 1922 und 1937 gefunden wurden. Neben Brodské wird ihr Fundort jedoch auch in das mährische Lanžhot verlegt. Die neuesten Erkenntnisse besagen, dass es sich weder um Brodské noch um Lanžhot handelt, sondern dass diese Gräberfeldfunde in Wirklichkeit aus der Gemarkung der Stadt Břeclav (Lundenburg) stammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nordwestlich des Ortsgebiets von Brodské liegt die Fundstelle Veleš. Schon der Name selbst weist auf einen alten slawischen Ursprung hin, abgeleitet vom Namen des Schützers der Herden, des Gottes des Überflusses und der Fruchtbarkeit und Herrschers des Jenseits, Veles. Im Jahr 1976 wurden hier bei Bauarbeiten Behausungen mit Steinfundamenten gestört und slawische Scherben gefunden. Diese Besiedlung wurde als Burgwall interpretiert und in die Zeit des 9.–10. Jahrhunderts datiert. Nach der Erzählung von Konštantín Jakubec fand er bei Amateurgrabungen auf dem Veleš einige Jahre vor dem genannten Fund (um 1970) einen von Graben und Wällen umgebenen Burgwall, viele Scherben und Holzkohle und lokalisierte das Eingangstor des Burgwalls. Etwa 300 m vom Burgwall entfernt befindet sich eine Rotunde, bei der er 10 Gräber ausgrub. Ausgehend von der Lage an der March nicht weit vom Burgwall Břeclav-Pohansko und vom Namen der Gemeinde, der vom Wort brod (Furt) abgeleitet ist, ließe sich an eine Wachfunktion des Burgwalls denken. Er konnte den südlichen Zugangsweg nach Pohansko bewachen. Leider wurde diese Fundstelle nicht fachlich und systematisch untersucht, deshalb ist es schwer, irgendwelche weiteren Hypothesen über sie zu äußern. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch das Záhorie zogen zwei wichtige Wege, und diese erlangten ab dem zweiten Drittel des 9. Jahrhunderts eine wesentlich breitere Bedeutung. Aus ihnen wurden Verbindungen zwischen den zentralen Siedlungen Großmährens. Der erste trat über den Bukovský-Pass in das Záhorie ein und führte in zwei Zweigen über Šaštín und Senica nach Mikulčice. Der zweite Weg verlief entlang der March von Bratislava (Pressburg) und Devín (Theben) über Stupava nach Kúty, überschritt in Brodské den Fluss March und setzte sich nach Pohansko fort. Diese Routen verband quer ein Weg von Brodské und Kúty, der über Stráže nach Senica führte, wo er in den Weg Jablonica – Holíč einmündete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Brodské auf der Karte der 1. militärischen Landesaufnahme (1782–1784)",
+    "alt": "Brodské auf der Karte der 1. militärischen Landesaufnahme (1782–1784)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Deshalb lässt sich auch die Anwesenheit von Kriegern in Skalica, in Brodské oder in Kopčany – auf dem linken Ufer der March – im 9. Jahrhundert durch ihre Schutzfunktion auf diesen Verkehrswegen vor den großmährischen Zentren (Břeclav-Pohansko, Mikulčice-Valy, Uherské Hradiště-Staré Město) erklären. Der Burgwall auf dem Veleš ist einer von zwei archäologisch belegten großmährischen Burgwällen im Záhorie (zusammen mit dem Burgwall Podbranč-Starý hrad). Die hypothetische Möglichkeit der Existenz zweier weiterer Burgwälle im 9. Jahrhundert geht von sprachlichen Belegen aus (Hradiště pod Vrátnom, Brezová pod Bradlom-Hrádok). Der Fall des Zámčisko bei Unín ist ungeklärt. \n „Die Pfarre und die Kirche werden schon im Jahr 1163 erwähnt“, schreibt Konštantín Palkovič über Brodské. Die Angabe stammt von Ľudovít Némethy, der sich auf ältere Schematismen beruft. Leider ist der originale schriftliche Beleg nicht bekannt. Der Name Veleš deutet auf einen heidnischen Kult hin. Das christliche Gotteshaus sollte wohl die heidnischen religiösen Relikte zurückdrängen, zu denen die Bewohner des Záhorie nach dem Untergang Großmährens in gewissem Maße zurückgekehrt sein konnten. Die Besiedlung dieses Gebietes kennen wir jedoch nur aus dem benachbarten Kúty, und diese ist in das 10.–11. Jahrhundert datiert. Deshalb bleibt die Geschichte von Brodské vom 10. bis zum 13. Jahrhundert ohne historische oder archäologische Belege. Im Jahr 1989 wurde vom Veleš durch eine Oberflächenprospektion Scherbenmaterial gewonnen, das von einer untergegangenen Besiedlung zeugen könnte. Die Scherben lagen auf einem relativ großen Gebiet (3 ha) und stammten aus dem 13.–14. Jahrhundert. Im Jahr 1317 erhielt Abraham Rufus Šaštín (Saswar) zusammen mit Brodské (Barachka, Baracka). König Karl schenkte sie ihm als Entschädigung für die Schäden, die er von Matúš Čák erlitten hatte. Zum Jahr 1323 wird das Komitat Šaštín erwähnt. Die Burg hatte also ihren Bezirk schon ausgebildet. Später wissen wir, dass dazu Dörfer auf beiden Seiten der Myjava gehörten – Brodské, Borský Mikuláš, Bílkové Humence, Borský Peter, Šajdíkové Humence, Čáry, Dojč, Koválov, Kuklov, Kúty, Smolinské, Stráže, Šaštín und Štefanov. Der Sitz der Herrschaft Šaštín ging später nach Holíč über. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Autor des Artikels: Mgr. Pavol Vrablec, PhD.; der Artikel wurde mit Zustimmung des Autors von der interessanten Website übernommen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.dejinyzahoria.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.dejinyzahoria.sk/"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Website "
+       },
+       {
+        "type": "link",
+        "url": "http://www.tik.gbely.sk/showpage.php?name=brodske",
+        "children": [
+         {
+          "type": "text",
+          "text": "TIK Gbely"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ist diese interessante Sage festgehalten, die sich an den Burgwall Veleš knüpft und bis in die Zeit Großmährens zurückreicht: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als die hl. Konstantin-Kyrill und Method nach Großmähren kamen, überraschte sie nachts im Schlaf eine Überschwemmung, die die Wasser der March verursacht hatten. Einheimische Fischer führten sie über die Furt auf trockenes Land. Von der Furt stammt auch der Name der Gemeinde Brodské. Im historisch überlieferten Gemeindewappen, das auf einem älteren Gemeindesiegel aufbaut, sind eben diese beiden Heiligen dargestellt. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

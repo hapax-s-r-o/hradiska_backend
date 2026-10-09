@@ -1,0 +1,222 @@
+{
+ "slug": "selce-hradok",
+ "data": {
+  "title": "Selce – Hrádok, eine kleine, aber bedeutende Burganlage auf Kalkfels",
+  "slug": "selce-hradok-burganlage-kalkfels",
+  "excerpt": "Am rechten Ufer des Selčiansky-Bachs liegt in einer Höhe von 780 m ü. M. die den Ausmaßen nach kleine, aber bedeutende Gipfel-Burganlage Hrádok. Auf der Kammantiklinale aus Kalkfelsen folgten die Lausitzer Kultur, die Púchov-Kultur, die Völkerwanderungszeit und das Mittelalter aufeinander; bekannt ist die Fundstelle vor allem durch den Hortfund silberner römischer Denare aus den 30er Jahren und den Fund von sechs weiteren Denaren im Jahr 1999.",
+  "metaTitle": "Selce – Hrádok, eine kleine Burganlage auf Kalkfelsen",
+  "metaDescription": "Die den Ausmaßen nach kleine, aber bedeutende Gipfel-Burganlage Hrádok (780 m ü. M.) auf einer Kammantiklinale aus Kalkfels über dem Selčiansky-Bach.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die Burganlage liegt am rechten Ufer des Selčiansky-Bachs in der Gemarkung der Gemeinde, in einer Höhe von 780 m ü. M.",
+    "icon": "map"
+   },
+   {
+    "label": "Geologischer Untergrund",
+    "value": "Die Burganlage ist eine Kammantiklinale aus Kalkfelsen, dessen Wände 2–7 m hoch und von einer dünnen lehmigen Decke bedeckt sind.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Von Südosten schützte die zwei kleinen Flächen auf dem Gipfel ein Wall, der heute nur noch sehr undeutlich ist.",
+    "icon": "shield"
+   },
+   {
+    "label": "Rätselhafte Gruben",
+    "value": "Im Bereich der Burganlage befinden sich zwei einige Meter tiefe und breite Gruben mit unklarem Zweck; es könnte sich etwa um Wasserzisternen aus neuzeitlicher oder älterer Zeit handeln.",
+    "icon": "water"
+   },
+   {
+    "label": "Hortfund römischer Münzen",
+    "value": "In den 30er Jahren ein Hortfund silberner römischer Denare mehrerer Kaiser (vor allem Marcus Aurelius) und zwei silberne Fibeln; 1999 kamen 6 weitere Denare von 117–195 n. Chr. hinzu, die Dr. Kolníková 2001 publizierte.",
+    "icon": "crown"
+   },
+   {
+    "label": "Besiedlung mehrerer Perioden",
+    "value": "Die Ausgrabung von Dr. Karol Pieta (AVANS 1988) belegte eine Besiedlung durch die Lausitzer Kultur (Spätbronzezeit), die Púchov-Kultur (Spätlatènezeit), die Völkerwanderungszeit und das Mittelalter.",
+    "icon": "building"
+   },
+   {
+    "label": "Slawische Funde",
+    "value": "In den fünfziger Jahren des 20. Jahrhunderts fand V. Budinský-Krička slawische Scherben der nachgroßmährischen Zeit; weitere Scherben aus der Begehung von P. Mosný datierte Dr. Mácelová in das 10.–11. Jahrhundert.",
+    "icon": "book"
+   },
+   {
+    "label": "Vermutete Funktion",
+    "value": "Die Funktion der Burganlage in slawischer Zeit ist unklar; sie konnte als Fliehburg, als Wachposten oder als Sitz eines Adligen dienen.",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätbronzezeit – Mittelalter",
+    "title": "Mehrschichtige Besiedlung der Burganlage",
+    "description": "Auf der Burganlage konnte eine Besiedlung in mehreren Perioden belegt werden: die Lausitzer Kultur der Spätbronzezeit, die Púchov-Kultur der Spätlatènezeit (eine eiserne Fibel), die Völkerwanderungszeit (eiserne dreikantige Pfeilspitzen) und mittelalterliche Funde.",
+    "type": "era"
+   },
+   {
+    "year": "1988",
+    "title": "Ausgrabung von Dr. Karol Pieta (AVANS 1988)",
+    "description": "Während der Ausgrabung von Dr. Karol Pieta wurde auf der Burganlage ein Bestand an Keramik und Metallgegenständen aus mehreren Perioden gewonnen, publiziert in AVANS 1988.",
+    "type": "discovery"
+   },
+   {
+    "year": "30er Jahre",
+    "title": "Fund eines Hortfundes römischer Münzen",
+    "description": "In den 30er Jahren wurde auf der Burganlage ein Hortfund silberner römischer Denare mehrerer Kaiser (vor allem Marcus Aurelius, aber auch Trajan und Didius Julianus) und zwei silberne Fibeln gefunden. ⚠ UNSICHER — der Text nennt das Jahrhundert nicht ausdrücklich, nur „in den 30er Jahren“; aus dem Zusammenhang (Bezug zum weiteren Fund von 1999 und zur Publikation von 2001) lässt sich auf das 20. Jahrhundert schließen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1999",
+    "title": "Weiterer Fund römischer Denare",
+    "description": "Am Hang der kleinen Burg wurden 6 Stück römischer Denare der Kaiser Septimius Severus und Trajan aus der Zeit der Jahre 117 bis 195 n. Chr. gefunden.",
+    "type": "discovery"
+   },
+   {
+    "year": "2001",
+    "title": "Publikation des Münzfundes (Dr. Kolníková)",
+    "description": "Dr. Kolníková publizierte den Fund der sechs Denare und schloss daraus, dass es sich nicht um einen einmalig verborgenen Hortfund handeln muss, sondern dass die Münzen in verschiedenen Zeitperioden verborgen worden sein könnten.",
+    "type": "event"
+   },
+   {
+    "year": "50er Jahre des 20. Jahrhunderts",
+    "title": "Begehung von V. Budinský-Krička",
+    "description": "V. Budinský-Krička fand hier slawische Scherben, die mit breiteren waagerechten Linien verziert waren und die er in die nachgroßmährische Zeit datierte.",
+    "type": "discovery"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Slawische Scherben aus der Begehung von P. Mosný",
+    "description": "Aus der Begehung von P. Mosný fanden sich unter dem Púchov-Material drei markante slawische Scherben vom Boden des Gefäßkörpers, die Dr. Mácelová rahmenhaft in das 10.–11. Jahrhundert datierte.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6435,
+    "alt": "Zeichnung einer zweiteiligen Burganlage mit Palisade, Blockhäusern und kleinen Feldern in einer Berglandschaft"
+   },
+   {
+    "mediaId": 2600,
+    "caption": "Teil einer Fibel vom Typ Almgren",
+    "alt": "Teil einer Fibel vom Typ Almgren"
+   },
+   {
+    "mediaId": 2603,
+    "caption": "Pfeilspitzen aus der Völkerwanderungszeit",
+    "alt": "Pfeilspitzen aus der Völkerwanderungszeit"
+   },
+   {
+    "mediaId": 2618,
+    "caption": "Der Hrádok auf 2 Fotos von J. Kapusta",
+    "alt": "Der Hrádok auf 2 Fotos von J. Kapusta"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am rechten Ufer des Selčiansky-Bachs, in der Gemarkung der Gemeinde, in einer Höhe von 780 m ü. M. liegt eine den Ausmaßen nach kleine, aber bedeutende Gipfel-Burganlage namens Hrádok. Es ist eine Kammantiklinale, gebildet aus Kalkfelsen, dessen Wände 2–7 m hoch sind. Der Kalkfelsen ist von einer dünnen lehmigen Decke bedeckt. Von Südosten schützte die zwei kleinen Flächen auf dem Gipfel ein Wall, der heute nur noch sehr undeutlich ist. Im Bereich der Burganlage befinden sich zwei einige Meter tiefe und breite Gruben, deren Zweck mir bislang unklar ist; ich weiß auch nicht, ob sie erst in der Neuzeit entstanden sind oder ob sie die ursprünglichen Bewohner z. B. als Wasserzisternen ausgehoben haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Selce – Hrádok",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den 30er Jahren wurde hier ein Hortfund silberner römischer Münzen (Denare) und zwei silberne Fibeln gefunden. Es handelt sich um Denare mehrerer römischer Kaiser, wobei die meisten Stücke Denare des Marcus Aurelius sind, der, wie wir wissen, an einem der Kriegszüge der römischen Armee unmittelbar auf dem Gebiet der Slowakei teilnahm. Weiter sind es Münzen Trajans und des Didius Julianus. Im Jahr 1999 wurden am Hang der kleinen Burg sechs Stück römischer Denare gefunden, die Dr. Kolníková im Jahr 2001 publizierte. Es handelt sich um Münzen der Kaiser Septimius Severus und Trajan, also um die Zeit der Jahre 117 bis 195 n. Chr., woraus Dr. Kolníková schließt, dass es sich nicht um einen einmalig verborgenen Hortfund handeln muss, sondern dass die Münzen in verschiedenen Zeitperioden verborgen worden sein könnten.  \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Ausgrabung von Dr. Karol Pieta (AVANS 1988) wurde auf der Burganlage ein Bestand an Keramik und Metallgegenständen der Lausitzer Kultur aus der Spätbronzezeit gewonnen, weiter Funde der Púchov-Kultur aus der Spätlatènezeit (eine eiserne Fibel), aus der Völkerwanderungszeit (eiserne dreikantige Pfeilspitzen) und mittelalterliche Funde.   \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den fünfziger Jahren des 20. Jahrhunderts führte V. Budinský-Krička eine Begehung durch. Er fand hier slawische Scherben, die mit breiteren waagerechten Linien verziert waren und die er in die nachgroßmährische Zeit datierte. Aus der Begehung von P. Mosný fanden sich unter dem Púchov-Material drei markante slawische Scherben vom Boden des Gefäßkörpers, die Dr. Mácelová rahmenhaft in das 10.–11. Jahrhundert datiert. Die Funktion der Burganlage in slawischer Zeit ist unklar; man kann annehmen, dass sie als Fliehburg, als Wachposten oder als Sitz eines Adligen diente.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Teil einer Fibel vom Typ Almgren",
+    "alt": "Teil einer Fibel vom Typ Almgren",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage ist in keiner Weise gekennzeichnet, und aufgrund ihrer Lage ist es auch etwas schwierig, sie zu finden, denn es führt kein markierter Wanderweg zu ihr. Trotzdem ist die Burganlage von Sondengängern ausgeplündert. Sie ist außerdem sehr dicht mit Sträuchern und Bäumen überwachsen. Einen Besuch empfehle ich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

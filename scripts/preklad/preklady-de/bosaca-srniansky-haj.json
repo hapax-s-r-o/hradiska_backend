@@ -1,0 +1,227 @@
+{
+ "slug": "bosaca-srniansky-haj",
+ "data": {
+  "title": "Bošáca – Srňanský háj, ein slawischer Wachburgwall im Bošáca-Tal",
+  "slug": "bosaca-srnansky-haj-slawischer-wachburgwall",
+  "excerpt": "Nach den Burgwällen Martákova skala und Hradišťá stellen wir einen weiteren Burgwall aus dem Bošáca-Tal vor: Srňanský háj. Der Sporn erhebt sich in den Gemarkungen von Bošáca und des benachbarten Dolné Srnie. Es handelt sich um eine slawische Höhensiedlung mit Wachcharakter und mit einer Befestigung, deren markanter Ursprung in der Zeit der Lausitzer Kultur in der Bronzezeit liegt. Untersucht wurde die Lage von Ľudovít Holuby und im Jahr 1930 von Štefan Janšák.",
+  "metaTitle": "Bošáca – Srňanský háj, Burgwall im Bošáca-Tal",
+  "metaDescription": "Slawische Höhensiedlung mit Wachcharakter auf dem Sporn Srňanský háj im Bošáca-Tal, mit markantem Ursprung in der Lausitzer Kultur der Bronzezeit.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "etwa 1 Hektar",
+    "icon": "map"
+   },
+   {
+    "label": "Umfassungswall",
+    "value": "insgesamt 420 m lang, stellenweise bis heute 1 Meter hoch erhalten",
+    "icon": "shield"
+   },
+   {
+    "label": "Graben im Sattel",
+    "value": "Der 55 m lange Wall f–g vertiefte den Verbindungssattel, wodurch ein 3 Meter tiefer Graben entstand",
+    "icon": "mountain"
+   },
+   {
+    "label": "Wallkonstruktion",
+    "value": "künstliche Konstruktion mit verkohlten Holzresten, umgeben von einer Erde-Stein-Aufschüttung",
+    "icon": "building"
+   },
+   {
+    "label": "Erste Untersuchungen",
+    "value": "Den Burgwall untersuchte Ľudovít Holuby, nach ihm Štefan Janšák im Jahr 1930",
+    "icon": "book"
+   },
+   {
+    "label": "Hortfund von Bronzegegenständen",
+    "value": "Die Bewohner von Bohuslavice fanden einen Topf mit Bronzegegenständen; Stefko Svetský rettete ihn und brachte ihn in das Museum in Martin",
+    "icon": "star"
+   },
+   {
+    "label": "Versteinertes Korallenriff",
+    "value": "Auf dem Grat des Srňanský háj entdeckte Holuby ein an Orgelpfeifen erinnerndes Riff, das bei seinem Besuch im Jahr 1859 selbst Dionýz Štúr nicht bemerkte",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Neolithikum",
+    "title": "Funde aus geschlagenem Stein",
+    "description": "Auf dem Burgwall fand sich eine große Anzahl von Werkzeugen aus geschlagenem Stein und deren Bruchstücken sowie einige Kerne, die in das Neolithikum datiert werden.",
+    "type": "discovery"
+   },
+   {
+    "year": "Bronzezeit (Lausitzer Kultur)",
+    "title": "Ursprung des Burgwalls",
+    "description": "Der Burgwall hat seinen markanten Ursprung in der Zeit der Lausitzer Kultur in der Bronzezeit.",
+    "type": "founding"
+   },
+   {
+    "year": "1859",
+    "title": "Besuch von Dionýz Štúr",
+    "description": "Dionýz Štúr durchstreifte den Srňanský háj und sammelte Versteinerungen, auf das an Orgelpfeifen erinnernde Korallenriff stieß er jedoch nicht.",
+    "type": "event"
+   },
+   {
+    "year": "1930",
+    "title": "Untersuchung durch Štefan Janšák",
+    "description": "Štefan Janšák untersuchte den Burgwall und fand eine grobkörnige hallstattzeitliche Scherbe.",
+    "type": "discovery"
+   },
+   {
+    "year": "1983",
+    "title": "Archäologische Prospektion",
+    "description": "Die Archäologen fanden in einem Schnitt atypische Scherben und Scherben aus dem 9. und 10. Jahrhundert.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6403,
+    "alt": "Stilisierter Plan des Burgwalls auf Pergament mit Höhenlinien, Befestigungslinie und Windrose"
+   },
+   {
+    "mediaId": 3116,
+    "alt": "Ausschnitt aus der Karte der 2. militärischen Landesaufnahme mit der Lage Srňanský háj"
+   },
+   {
+    "mediaId": 3117,
+    "caption": "Steinwerkzeuge aus dem Burgwall. Foto: M. Krajčovič",
+    "alt": "Steinwerkzeuge aus dem Burgwall. Foto: M. Krajčovič"
+   },
+   {
+    "mediaId": 3118,
+    "caption": "Plan des Burgwalls nach Janšák",
+    "alt": "Plan des Burgwalls nach Janšák"
+   },
+   {
+    "mediaId": 3119,
+    "alt": "Steiniger Wall des Burgwalls im Laubwald"
+   },
+   {
+    "mediaId": 3120,
+    "alt": "Blick von der Wiese auf dem Burgwall in die Landschaft mit Feldern und einem Dorf"
+   },
+   {
+    "mediaId": 3121,
+    "alt": "Grasbewachsenes Plateau des Burgwalls mit Aussicht in das Tal"
+   },
+   {
+    "mediaId": 3122,
+    "alt": "Feldrand unter dem bewaldeten Grat des Burgwalls"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Burgwällen Martákova skala und Hradišťá stellen wir einen weiteren Burgwall aus dem Bošáca-Tal vor – Srňanský háj. Dieser Sporn erhebt sich in den Gemarkungen der Gemeinde Bošáca, aber auch des benachbarten Dolné Srnie, das die Mündung des Liesková-Tales bildet. Es handelt sich um eine slawische Höhensiedlung mit Wachcharakter, auch mit einer Befestigung, deren markanter Ursprung in der Zeit der Lausitzer Kultur in der Bronzezeit liegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Katastralgrenze zwischen den Gemeinden Bošáca und Dolné Srnie verläuft genau über die Wälle dieses Burgwalls. Als Erster untersuchte den Burgwall Ľudovít Holuby, nach ihm Štefan Janšák im Jahr 1930. Im Jahr 1983 fanden Archäologen in einem Schnitt atypische Scherben und Scherben aus dem 9. und 10. Jahrhundert. Geophysikalische Messungen und Bohrungen im Wall des Burgwalls stellten eine künstliche Wallkonstruktion mit verkohlten Holzresten fest, die von einer Erde-Stein-Aufschüttung umgeben ist. Die Holzkonstruktion liegt an der östlichen Seite des Walls 80–90 cm und an der südwestlichen Seite 40 cm unter der Oberfläche. Die Fläche des Burgwalls nimmt etwa 1 Hektar ein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Burgwall auf der Militärkarte",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Janšák weist darauf hin, dass die natürliche Sicherheit des Burgwalls nicht groß ist, weil seine Flanken auf allen Seiten begehbar sind. Deshalb war es nötig, dass die Erbauer die ganze Lage mit Wällen umgaben. Der natürliche Zugang zum Burgwall führte über den Grat und durch einen niedrigen Sattel in nordwestlicher Richtung von der Kote 348 (Špeciálka). Aus diesem Grund war das Areal des Burgwalls also durch einen doppelten Wall geschützt. Der erste Verteidigungsgürtel ist der 55 m lange Wall f, g, der den Verbindungssattel noch vertiefte, wodurch ein 3 Meter tiefer Graben entstand. Der Umfassungswall a d b h e i a, insgesamt 420 m lang, hat sich bis heute in einigen Abschnitten in einer Höhe von 1 Meter erhalten. An der südwestlichen Seite verschwindet er jedoch fast in einer unauffälligen Bodenwelle. In das Innere des Burgwalls führt kein Durchbruch im Wall, der auf die Stelle hinweisen würde, an der das Tor lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Steinwerkzeuge aus dem Burgwall. Foto: M. Krajčovič",
+    "alt": "Steinwerkzeuge aus dem Burgwall",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Oberfläche des Burgwalls neigt sich nach Norden und ist damit allen Unwettern ausgesetzt. Nur ein schmaler Streifen an der südöstlichen Seite, etwa von der Linie a d b a umschlossen, bildet einen kleinen Kessel, der durch den überhöhten Gipfel (Höhenlinie 332) gegen Norden geschützt ist. Hier lag der Kern des Burgwalls, was auch die Funde bestätigen. Janšák fand auf dem Burgwall eine grobkörnige hallstattzeitliche Scherbe sowie eine große Anzahl von Werkzeugen aus geschlagenem Stein und deren Bruchstücken wie auch einige Kerne, die wir in das Neolithikum datieren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ľudovít Holuby berichtet über den Burgwall Folgendes: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "An der Westseite des Bošáca-Tales zieht sich von Bohuslavice nach Norden hin der Kalksteingrat „Srňanský Háj“, der aber ebenso kahl ist wie die Haluzická Hájnica. Der nach Norden abfallende Ausläufer des Srňanský Háj trägt den Namen „Hradisko“, und noch jetzt ist gut zu erkennen, dass dieser Platz mit einem Wall umhegt und von Süden, wo der Eingang in die Umhegung lag, mit einem quer gezogenen tiefen Graben umgraben war. Vorzeiten, als ringsumher dichter Wald stand, war dieses kleine Hradisko eine sehr gelegene Zuflucht seiner Urbewohner, denn nach Osten, Norden und Westen fällt jene Anhöhe steil in das Tal ab, nur von Süden hängt sie mit dem Grat des Srňanský Háj zusammen; und hier lag eben die Achillesferse dieses Hradiskos, denn von jener Seite konnte der Feind am leichtesten hineingelangen. Nur das kommt mir sonderbar vor, dass es weder in jenem kleinen Hradisko noch irgendwo auf dem ganzen Grat ergiebige Quellen gab, und ohne Wasser konnten seine Urbewohner doch nicht auskommen. Es gibt freilich nicht weit vom Hradisko auf dem Grat der Anhöhe eine kleine Vertiefung, die eine verschüttete Zisterne zu sein scheint, wo wasserliebende Pflanzen darauf hinweisen, dass unter einer dünnen Erdschicht Wasser steht, und unterhalb der Anhöhe liegt zwischen den Äckern eine Erosionsrinne mit einem Bächlein, das aber im schwülen Sommer austrocknet. Freilich, als dort vorzeiten dichter Wald stand, sah es auch mit dem Wasser dieses Bächleins anders aus, und wo heute nur eine schwache Quelle geblieben ist, dort war damals ein Sumpf mit reichen Quellen, auf den noch heute die spärlich mit Schilf bewachsenen Stellen hinweisen. Aus einer Erosionsrinne des Srňanský Háj erhielt ich eine schöne bronzene Lanzenspitze, nur an der Spitze abgebrochen, und auf dem Hradisko fand ich ein stark patiniertes Blechplättchen. Als die Bohuslavicer vor ein paar Jahren am Fuße des südlichen Hanges dieser Anhöhe Stein als Baumaterial brachen, wälzten sie mit einem Felsstück auch eine große Tonscholle fort und fanden dort einen vollen Topf verschiedener, mehr oder weniger zerbrochener Bronzegegenstände. Sobald unser rühriger Stefko Svetský in Srnie davon erfuhr, lief er in das nahe Bohuslavice hinüber, suchte den Besitzer dieses Massenfundes auf, kaufte ihm den ganzen Fund ab und trug ihn in das Martiner Museum. Hätten wir in jedem Tal wenigstens einen so aufmerksamen Stefko Svetský, so wäre mancher wertvolle altertümliche Fund gerettet worden. Auch Mammutknochen finden sich dort, wie ebenso in der mächtigen Tonschicht im Haluzicer Graben. Als ich kreuz und quer über den kahlen Grat des Srňanský Háj wanderte, stieß ich auf ein langes, im Bogen gekrümmtes Riff von Orgelpfeifen ähnlichen versteinerten Korallen, die stellenweise aus der Erde hervorragen und sich mit bloßer Hand in recht ansehnlichen Stücken herausbrechen lassen. Als im Jahr 1859 unser Dionys Stúr auch über den Srňanský Háj wanderte und hier Versteinerungen aus den Felsen herausklopfte, kam er auf dieses Korallenriff nicht. Ich hatte ihm darüber Nachricht gegeben und ein Stück jener Korallen geschickt. Auch der Apotheker E. Keller aus Nové Mesto, der eifrig Versteinerungen sammelte und eine ganze Kiste davon dem Budapester Museum sandte, wusste von diesen Korallen nichts, die zu entdecken mir nur durch Zufall gelang.",
+    "author": "Ľudovít Holuby",
+    "source": "Národopisný Věstník Českoslovanský XVII. 1924"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

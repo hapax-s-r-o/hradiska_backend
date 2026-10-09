@@ -1,0 +1,751 @@
+{
+ "slug": "obisovce-straza",
+ "data": {
+  "title": "Obišovce – Stráža, eine der größten Burganlagen der Ostslowakei",
+  "slug": "obisovce-straza-grosse-burganlage-ostslowakei",
+  "excerpt": "Die Burganlage Obišovce – Stráža gehört zu den größten Burganlagen der Ostslowakei und ist ein nationales Kulturdenkmal. Sie liegt im Massiv der Čierna hora über dem Zusammenfluss von Hornád und Svinka und umfasst einen Bergrücken mit zwei Gipfeln in 484 und 510 m ü. M.; ihre Länge übersteigt 1000 m, die Breite beträgt 481 m, die Fläche etwa 47 ha. Die Datierung der Wälle bleibt offen – erwogen werden die Bronzezeit oder die großmährische Zeit.",
+  "metaTitle": "Obišovce – Stráža, Burganlage der Ostslowakei",
+  "metaDescription": "Nationales Kulturdenkmal und eine der größten Burganlagen der Ostslowakei (ca. 47 ha, über 1000 m lang) im Massiv der Čierna hora über dem Hornád.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Katastralgebiet der Gemeinde Obišovce, Massiv der Čierna hora, über dem Zusammenfluss von Hornád und Svinka",
+    "icon": "map"
+   },
+   {
+    "label": "Höhenlage",
+    "value": "484 und 510 m (zwei Gipfel)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße der Burganlage",
+    "value": "Länge über 1000 m, Breite 481 m, Fläche ca. 47 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Denkmalstatus",
+    "value": "nationales Kulturdenkmal, Burganlage Nr. ÚZPF 4418/0",
+    "icon": "shield"
+   },
+   {
+    "label": "Typ der Burganlage",
+    "value": "Höhentyp – langgezogene unregelmäßige Ellipse mit quer angelegter Hauptburg auf der Westseite",
+    "icon": "shield"
+   },
+   {
+    "label": "Herkunft des Namens Stráža",
+    "value": "von der Funktion des Bewachens – Bewachung der Grenzen und der Handelswege durch die Täler von Hornád, Svinka und Torysa in Richtung Polen",
+    "icon": "flag"
+   },
+   {
+    "label": "Wasserquelle",
+    "value": "innerhalb der befestigten Fläche auf der Südseite beim Wall, durch steile Hohlwege geschützt",
+    "icon": "water"
+   },
+   {
+    "label": "Gestohlener Hortfund aus Obišovce",
+    "value": "Es soll sich um ca. 60 Bronzegefäße und goldene Zierstücke aus der Bronzezeit gehandelt haben, von Raubgräbern um die Jahrtausendwende gestohlen",
+    "icon": "crown"
+   },
+   {
+    "label": "Im Jahr 2020 entdeckter Hortfund",
+    "value": "13 Metallgegenstände, von denen 11 Artefakte rekonstruiert werden konnten",
+    "icon": "star"
+   },
+   {
+    "label": "Aufbewahrung des Hortfunds",
+    "value": "Ostslowakisches Museum in Košice",
+    "icon": "building"
+   },
+   {
+    "label": "Materialanalyse (XRF)",
+    "value": "weist auf recyceltes Material aus karpatischen und alpinen Kupfererzlagerstätten hin",
+    "icon": "custom"
+   },
+   {
+    "label": "Quelle der Forschungsdokumentation",
+    "value": "Denkmalamt Bratislava / Kreisdenkmalamt Košice, PUSR Obišovce, Košice 2014",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Bronzezeit (unsichere Datierung)",
+    "title": "Unklare Datierung der Entstehung der Wälle",
+    "description": "Die genaue Datierung der Entstehung der Wälle ist nicht gesichert; erwogen werden die Bronzezeit oder die großmährische Zeit, da die bisherigen Ausgrabungen aus den 1960er und 1990er Jahren keine Erkenntnisse über ihre Konstruktion erbrachten.",
+    "type": "construction"
+   },
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Funde zweier bronzener Spiralen",
+    "description": "Auf der Burganlage wurden zwei bronzene Spiralen aus der jüngeren Bronzezeit entdeckt.",
+    "type": "discovery"
+   },
+   {
+    "year": "Wende von der jüngeren zur späten Bronzezeit",
+    "title": "Zeitstellung der Burganlage Stráža und ein möglicher Zusammenhang mit dem Hortfund",
+    "description": "Die Burganlage Stráža wird an die Wende von der jüngeren zur späten Bronzezeit gesetzt; nach der Studie lässt sich ein Zusammenhang des nahe gelegenen Bronzehortfundes gerade mit dieser Burganlage nicht ausschließen.",
+    "type": "event"
+   },
+   {
+    "year": "ältere Eisenzeit (Hallstattzeit)",
+    "title": "Hallstattzeitliche Funde",
+    "description": "Auf der Burganlage wurden Funde aus der älteren Eisenzeit – der Hallstattzeit – entdeckt.",
+    "type": "discovery"
+   },
+   {
+    "year": "römische Kaiserzeit, 3. Jahrhundert n. Chr.",
+    "title": "Fund einer Münze der Herennia Etruscilla",
+    "description": "Entdeckt wurden ein bronzener Beschlag, ein Fingerring und eine Münze der Herennia Etruscilla, der Gattin des Kaisers Traianus Decius, aus dem 3. Jahrhundert n. Chr.",
+    "type": "discovery"
+   },
+   {
+    "year": "Zeit des Fürstentums Neutra",
+    "title": "Funde aus der Zeit des Fürstentums Neutra",
+    "description": "Auf der Burganlage wurden Funde aus der Zeit des Fürstentums Neutra entdeckt.",
+    "type": "discovery"
+   },
+   {
+    "year": "großmährische Zeit und Untergang Großmährens",
+    "title": "Funde aus der Zeit Großmährens",
+    "description": "Entdeckt wurden Keramik, eine Pfeilspitze mit Tülle und eine bronzene Riemenzunge aus der Zeit Großmährens und seines Untergangs.",
+    "type": "discovery"
+   },
+   {
+    "year": "Mittelalter",
+    "title": "Übermittlung von Signalen mit Feuer und Rauch",
+    "description": "Im Mittelalter, bei der Formierung des ungarischen Staates, wurden vom Gipfel der Stráža Signale mit Feuer und Rauch zur Lysá Stráž bei Terňa und von dort weiter zum Gipfel der Sľubica im südlichen Teil des Branisko auf der Zipser Seite übermittelt.",
+    "type": "event"
+   },
+   {
+    "year": "Mittelalter",
+    "title": "Mittelalterliche Funde von Pfeilspitzen",
+    "description": "Auf der Burganlage wurden Pfeilspitzen aus dem Mittelalter entdeckt.",
+    "type": "discovery"
+   },
+   {
+    "year": "1960er und 1990er Jahre",
+    "title": "Archäologische Ausgrabungen der Burganlage",
+    "description": "In diesen Jahren wurden Ausgrabungen der Burganlage durchgeführt, die jedoch keine Erkenntnisse über die Konstruktion der Wälle und keine genaue Datierung ihrer Entstehung erbrachten.",
+    "type": "event"
+   },
+   {
+    "year": "in der Vergangenheit",
+    "title": "Raubgrabungen auf der Burganlage",
+    "description": "Die Burganlage wurde in der Vergangenheit von Sondengängern intensiv ausgeraubt.",
+    "type": "destruction"
+   },
+   {
+    "year": "Jahrtausendwende",
+    "title": "Diebstahl des gewaltigen Hortfundes aus Obišovce",
+    "description": "Einen gewaltigen Hortfund – es soll sich um 60 Bronzegefäße und goldene Zierstücke aus der Bronzezeit gehandelt haben – stahlen Raubgräber um die Jahrtausendwende; ein Teil der Gegenstände tauchte später auf zwei ausländischen Auktionen auf.",
+    "type": "destruction"
+   },
+   {
+    "year": "Jahr 2020",
+    "title": "Entdeckung des Hortfundes aus Obišovce",
+    "description": "Der Hortfund von Bronzegegenständen wurde als archäologischer Zufallsfund im Waldkataster an einem felsigen Hang über dem Dorf entdeckt; der Finder meldete ihn dem Kreisdenkmalamt Košice.",
+    "type": "discovery"
+   },
+   {
+    "year": "12.6.2026",
+    "title": "Ergänzung des Artikels um einen Beitrag des Kreisdenkmalamtes Košice",
+    "description": "Der Artikel wurde auf der Grundlage eines Facebook-Beitrags des Kreisdenkmalamtes Košice ergänzt.",
+    "type": "event"
+   },
+   {
+    "year": "13.06.2026",
+    "title": "Öffentliche Präsentation des Hortfundes im Ostslowakischen Museum",
+    "description": "Im Ostslowakischen Museum in Košice findet eine öffentliche Veranstaltung mit der ersten Präsentation des Hortfundes aus Obišovce statt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6383,
+    "alt": "Blick über eine Wiese auf den bewaldeten Rücken der Burganlage im herbstlichen Gegenlicht"
+   },
+   {
+    "mediaId": 1742,
+    "alt": "Höhenlinienkarte mit dem schwarzen Umriss der archäologischen Fundstelle"
+   },
+   {
+    "mediaId": 1743,
+    "caption": "Teil des Rückens mit der westlichen Hauptburg (Kveta)",
+    "alt": "Teil des Rückens mit der westlichen Hauptburg (Kveta)"
+   },
+   {
+    "mediaId": 1744,
+    "caption": "Blick auf den Teil des Rückens mit der Burganlage und der östlichen Hauptburg vom gegenüberliegenden Rücken über Licartovce. Dieser Rücken ist von der Stráža durch das Tal der Svinka getrennt (Kveta)",
+    "alt": "Blick auf den Teil des Rückens mit der Burganlage und der östlichen Hauptburg vom gegenüberliegenden Rücken über Licartovce. Dieser Rücken ist von der Stráža durch das Tal der Svinka getrennt (Kveta)"
+   },
+   {
+    "mediaId": 1745,
+    "caption": "Die westliche Hauptburg (Kveta)",
+    "alt": "Die westliche Hauptburg (Kveta)"
+   },
+   {
+    "mediaId": 1746,
+    "caption": "Das Tor in die westliche Hauptburg (Kveta)",
+    "alt": "Das Tor in die westliche Hauptburg (Kveta)"
+   },
+   {
+    "mediaId": 1747,
+    "alt": "Panorama bewaldeter Hügel mit eingezeichneter westlicher und östlicher Hauptburg und der Burg Kysak"
+   },
+   {
+    "mediaId": 1748,
+    "caption": "Terrasse unterhalb der westlichen Hauptburg (Kveta)",
+    "alt": "Terrasse unterhalb der westlichen Hauptburg (Kveta)"
+   },
+   {
+    "mediaId": 1749,
+    "caption": "Plan der Burganlage nach Slivka/Vallašek, 1991",
+    "alt": "Plan der Burganlage nach Slivka/Vallašek, 1991"
+   },
+   {
+    "mediaId": 1750,
+    "caption": "Foto: Michal Novák",
+    "alt": "Foto: Michal Novák"
+   },
+   {
+    "mediaId": 1751,
+    "alt": "Zeichnungstafel von Keramikfragmenten und Drahtspiralen mit Maßstab"
+   },
+   {
+    "mediaId": 1752,
+    "caption": "Haarspirale aus der Bronzezeit. Das Foto stellte für die Monografie über die Gemeinde Obišovce Dr. Miroššayová zur Verfügung",
+    "alt": "Haarspirale aus der Bronzezeit. Das Foto stellte für die Monografie über die Gemeinde Obišovce Dr. Miroššayová zur Verfügung"
+   },
+   {
+    "mediaId": 1753,
+    "alt": "Zeichnungen von Lanzen- und Pfeilspitzen und bronzenen Beschlägen mit Maßstab"
+   },
+   {
+    "mediaId": 1754,
+    "caption": "Herennia Etruscilla",
+    "alt": "Herennia Etruscilla"
+   },
+   {
+    "mediaId": 1755,
+    "alt": "Hang der Burganlage mit dem Wallkörper im unbelaubten Wald"
+   },
+   {
+    "mediaId": 1756,
+    "alt": "Bronzene Situla mit Henkeln und eine Gruppe bronzener Schälchen auf weißem Hintergrund"
+   },
+   {
+    "mediaId": 1757,
+    "alt": "LiDAR-Schummerungsrelief mit gut lesbaren Linien der Wälle"
+   },
+   {
+    "mediaId": 1758,
+    "alt": "Buchenwald auf dem Plateau der Burganlage im Herbst"
+   },
+   {
+    "mediaId": 1759,
+    "alt": "Mit Laub bedeckter Wall der Burganlage im Buchenwald"
+   },
+   {
+    "mediaId": 1760,
+    "alt": "Graben und Wall im herbstlichen Buchenwald"
+   },
+   {
+    "mediaId": 1761,
+    "alt": "Herbstlicher Buchenwald auf dem Scheitel der Burganlage"
+   },
+   {
+    "mediaId": 1762,
+    "alt": "Wallkörper im Buchenwald mit Wurzeln an der Oberfläche"
+   },
+   {
+    "mediaId": 1763,
+    "alt": "Herbstlicher Buchenwald am Hang der Burganlage"
+   },
+   {
+    "mediaId": 1764,
+    "alt": "Graben der Burganlage im herbstlichen Wald im Gegenlicht"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage Obišovce – Stráža gehört zu den größten Burganlagen der Ostslowakei. Sie ist ein nationales Kulturdenkmal. Sie befindet sich im westlichen Teil des Katastralgebiets der Gemeinde Obišovce – im Massiv der Čierna hora, über dem Zusammenfluss von Hornád und Svinka. Gebildet wird sie von einem Teil eines Bergrückens mit zwei Gipfeln. Diese befinden sich in einer Höhe von 484 und 510 m. Die maximale Länge der Burganlage übersteigt 1000 m, die Breite beträgt 481 m. Sie nimmt eine beachtliche Fläche ein – ca. 47 ha."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Obišovce – Stráža",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Benennung Stráža ist von der Funktion des Bewachens abgeleitet. In der Vergangenheit war es die Bewachung von Grenzen und eines wichtigen Gebietes, in unserem Fall ging es aber wahrscheinlich um die Bewachung des Durchgangs durch die Täler von Hornád, Svinka, aber auch Torysa, durch die die antiken und dann auch die mittelalterlichen Handelswege weiter nach Norden bis nach Polen führten. Gerade von dem genannten Gipfel wurden im Mittelalter, bei der Formierung des ungarischen Staates, Signale mit Feuer und Rauch zur Lysá Stráž bei Terňa und von dort weiter zum Gipfel der Sľubica im südlichen Teil des Branisko auf der Zipser Seite übermittelt. (Information von der Webseite der Gemeinde Obišovce übernommen)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die Forschungsdokumentation des Denkmalamtes in Bratislava (Pressburg) anführt (für ihre Bereitstellung und die Zustimmung zur Veröffentlichung einiger Teile gilt großer Dank Mgr. Martin Pristáš vom Kreisdenkmalamt Košice), "
+       },
+       {
+        "type": "text",
+        "text": "„handelt es sich um den Höhentyp einer Burganlage. Den Grundriss der Burganlage bildet eine langgezogene unregelmäßige Ellipse, auf der Westseite mit quer angelegter Hauptburg. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Hintergrund die Stráža. Der Hügel im Vordergrund ist das Zámčisko mit der kleinen Burg von Obišovce (Kveta)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wall verbindet die Gipfel der Stráža so, dass er auf der Ostseite direkt über den Gipfel verläuft und auf der Westseite das Gipfelplateau umschließt. Das westliche Gipfelplateau ist von einem weiteren Wall umschlossen, der die Hauptburg bildet. Auf der Nordseite der Burganlage (außerhalb ihrer umwallten Fläche) befinden sich zwei parallele Geländekanten, die sowohl Überrest von Wällen als auch von Terrassen sein können. Weitere auffällige Geländekanten, die auch als Waldwege genutzt werden, liegen auf der Nordostseite der Burganlage, und zwar ebenfalls in zwei Linien. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Teil des Rückens mit der westlichen Hauptburg (Kveta)",
+    "alt": "Teil des Rückens mit der westlichen Hauptburg (Kveta)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wall der Burganlage ist an mehreren Stellen unterbrochen, und zwar teils in kürzeren, teils in längeren Abschnitten. Den Wall kreuzen an mehreren Stellen Waldwege. Es ist wahrscheinlich, dass sich einer dieser Durchgänge an der Stelle des ursprünglichen Eingangs befindet, wobei vor allem der Eingang auf der Nordseite der Burganlage in Betracht kommt. Der Wall ist auf einem bestimmten Abschnitt auf der Ostseite schwer lesbar (an den Stellen steilen Geländeabfalls) und auf der Südseite bzw. Südwestseite fehlt er. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mächtigkeit bzw. Höhe und Breite der Wälle unterscheiden sich an den einzelnen Stellen. Die mächtigsten Wälle befinden sich auf der Westseite der Burganlage. Die Wälle der Hauptburg sind relativ unauffällig und erreichen stellenweise nur ca. 0,5 m (vor allem auf der Ostseite). Der Innenraum der Burganlage wird von dem beide Gipfel verbindenden Rücken und den Südhängen gebildet. Innerhalb der befestigten Fläche, jedoch außerhalb der Hauptburg, befindet sich auf der Südseite, in der Nähe des Walls, eine Wasserquelle.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bisherigen Ausgrabungen, die in den 1960er und 1990er Jahren durchgeführt wurden, erbrachten keine Erkenntnisse über die Konstruktion der Wälle. Auch die Datierung ihrer Entstehung ist nicht genau gesichert. Erwogen werden die Bronzezeit oder die großmährische Zeit. Es wurden hier jedoch Funde aus mehreren historischen Perioden entdeckt. Es handelt sich um Funde aus der jüngeren Bronzezeit (2 bronzene Spiralen), der älteren Eisenzeit – der Hallstattzeit, der römischen Kaiserzeit (ein bronzener Beschlag, ein Fingerring, eine Münze der Herennia Etruscilla – der Gattin des Kaisers Traianus Decius – 3. Jahrhundert n. Chr.), der Zeit des Fürstentums Neutra, Großmährens und seines Untergangs (Keramik, eine Pfeilspitze mit Tülle, eine bronzene Riemenzunge) und dem Mittelalter (Pfeilspitzen). Die Burganlage wurde in der Vergangenheit von Sondengängern intensiv ausgeraubt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Teil des Rückens mit der Burganlage und der östlichen Hauptburg vom gegenüberliegenden Rücken über Licartovce. Dieser Rücken ist von der Stráža durch das Tal der Svinka getrennt (Kveta)",
+    "alt": "Blick auf den Teil des Rückens mit der Burganlage und der östlichen Hauptburg vom gegenüberliegenden Rücken über Licartovce. Dieser Rücken ist von der Stráža durch das Tal der Svinka getrennt (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was den heutigen Zustand betrifft, schreibt unsere Mitarbeiterin Kvetka M., von der auch mehrere Fotografien stammen, über die Burganlage: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Südseite traversiert heute ein schon breiter Weg, der dem Wall folgt. Bevor man ihn vor einigen Jahren verbreitert und befestigt hat, war zu sehen, dass er über den Wall verläuft. Zu diesem Wall münden mehrere steile, durch den Wall geschützte Hohlwege von der Südost- und der Südseite. Einer von ihnen ist im unteren Teil auch für schwerere Maschinen befahrbar. Die erwähnten Hohlwege waren stellenweise in den Felsen gehauen. Das Gelände unterhalb des Südwalls ist sehr steil, deshalb mussten die Hohlwege zwangsläufig geschützt werden. Dieser Südwall schützte auch die Wasserquellen, die am Hang etwa in der Mitte des befestigten Areals entspringen. Das Wasser ist dort heute untrinkbar, weil sich dort immer irgendwelche Tierkadaver finden. Die Jäger haben sich in der Nähe des Wassers Hochsitze gebaut, die Quellen pflegen sie aber nicht. In der Mitte des Hanges verliert sich das Wasser. Es ist möglich, dass die Quellen früher ergiebiger waren, denn unter jenem Teil des Hanges liegt eine tiefe Schlucht. In diese haben wiederum die Holzfäller Astwerk geworfen, um nach sich „aufzuräumen“. Das Gelände von Nordwesten bildet einen breiten, nur leicht gewellten Bergrücken, zu dem man von Norden bequem gelangen kann, deshalb musste die Burganlage von dieser Seite geschützt werden. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die westliche Hauptburg (Kveta)",
+    "alt": "Die westliche Hauptburg (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bearbeitet von Orgoň. Großer Dank für die Hilfe bei der Entstehung des Artikels gilt Martin Schuster und Kveta M. Ergänzung des Artikels durch einen Beitrag von der "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/kultura.vychodu",
+        "children": [
+         {
+          "type": "text",
+          "text": "Facebook-Seite"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Die Burganlage ist durch keine Informationstafel gekennzeichnet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "DER HORTFUND AUS OBIŠOVCE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Tor in die westliche Hauptburg (Kveta)",
+    "alt": "Das Tor in die westliche Hauptburg (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obišovce gehört zu den bedeutenden archäologischen Fundstellen. Aber leider mit einem traurigen Ruf. In tieferer Vergangenheit wurden hier bronzene Räder eines Streitwagens entdeckt. Eines von ihnen gelangte nach Großbritannien, wo es die Bombardierung durch die nationalsozialistische Luftwaffe nicht überlebte. Ein weiteres ging wahrscheinlich irgendwo in Übersee verloren. Den härtesten Schlag sollte das Schicksal der Geschichte dieses Ortes aber erst noch versetzen. Einen gewaltigen Hortfund stahlen Raubgräber um die Jahrtausendwende. Es soll sich um 60 Bronzegefäße und goldene Zierstücke aus der Bronzezeit gehandelt haben. Auf zwei ausländischen Auktionen, auf die Gegenstände aus diesem illegal gewonnenen Hortfund gelangten, wurden zumindest einige der wertvollen Stücke dokumentiert. Es handelte sich um bronzene Eimer, Kessel und Tassen sowie um eine massive, mit Vogelmotiven verzierte Situla. Außer ihnen sollen sich hier auch Tassen aus Gold befunden haben, diese konnten jedoch nicht dokumentiert werden. Solche Gegenstände dienten als Trinkservice beim Servieren von Alkohol zu besonderen Anlässen oder gehörten der örtlichen Nobilität. Dokumentiert werden konnten auch goldene Schläfenringe, bronzene Spiralen und Halsringe sowie ein goldenes „Zepter“ westeuropäischer Herkunft. Mehr Glück hatte ein kleinerer Bronzehortfund, den ein ehrlicher Finder meldete. Dieser ist gegenwärtig Gegenstand der Forschung. Die dokumentierten Funde von den Auktionen wurden veröffentlicht, doch sind sie leider, gemeinsam mit weiteren unbekannten Dutzenden von Funden aus Obišovce, für immer verloren. Die örtliche Elite, die an diesem Ort auf der Burganlage lebte, muss außerordentlich reich und bedeutend gewesen sein. Illegale Raubgräber machen uns leider das Studium unserer gemeinsamen und ungeheuer reichen Geschichte unmöglich und bestehlen die ganze Gesellschaft um unsere gemeinsame Vergangenheit. Seien Sie deshalb verantwortungsbewusst und wenden Sie sich bei einem Zufallsfund an ein Museum, an das Denkmalamt oder an das Archäologische Institut. Der Lohn ist in solchen Fällen nicht nur ein gutes Gefühl. Auf der Fotografie befindet sich ein Teil des verlorenen Hortfundes aus Obišovce. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos von Michal Novák: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ergänzt am 12.6.2026 auf der Grundlage eines Facebook-Beitrags des Kreisdenkmalamtes Košice ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "DER EINZIGARTIGE HORTFUND VON OBIŠOVCE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Rahmen der Europäischen Tage der Archäologie stellen wir Ihnen exklusiv zum ersten Mal in vollem Umfang die Geschichte des Komplexes bronzener Gegenstände aus Obišovce (Bezirk Košice-okolie) vor."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der heute schon als „Hortfund aus Obišovce“ bekannte Komplex wurde ursprünglich als archäologischer Zufallsfund im Waldkataster an einem felsigen Hang über dem Dorf im Jahr 2020 entdeckt. Der Finder meldete die Entdeckung dem Kreisdenkmalamt Košice (Kaschau), das dort anschließend eine Besichtigung durchführte, und aus der Felsspalte wurden alle einzelnen Artefakte des Hortfundes fachgerecht geborgen. Dem ehrlichen Finder sprach das Denkmalamt der Slowakischen Republik im Verwaltungsverfahren einen Finderlohn zu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es handelt sich um ein Musterbeispiel der Zusammenarbeit von Archäologen aus verschiedenen Institutionen im Prozess eines gemeldeten archäologischen Zufallsfundes. Nach den behördlichen Verfahren (Kreisdenkmalamt, Denkmalamt) folgt die fachliche Bearbeitung (Denkmalamt, Slowakisches Nationalmuseum, Archäologisches Institut der Slowakischen Akademie der Wissenschaften), und am Ende steht die Deponierung und Präsentation im zuständigen Museum (Ostslowakisches Museum in Košice)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der wertvolle Komplex enthielt 13 Stück Metallgegenstände, von denen 11 Artefakte rekonstruiert werden konnten. Es sind dies zwei gezahnte Plättchen, die an beiden Enden mit einer länglichen Fläche mit Öffnung abschließen, ein gegossenes Plättchen in Fischgrätform mit kreisförmigem Abschluss (oder in Form einer stilisierten menschlichen Figur) und mit zwei Ösen auf der Unterseite, ferner eine originelle kleine Plastik in Form eines Wasservogels mit breiter Öffnung sowie ein spiralförmiger ringförmiger Schmuck (ein Armring?), dazu auch zwei kleinere und zwei größere Zierscheiben mit einer Öse auf der Unterseite und ein zu einem Röhrchen gerolltes Blech."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle Gegenstände wurden auch einer Analyse der Elementzusammensetzung der Legierung mittels der Methode der Röntgenfluoreszenz (XRF) unterzogen, und das mit interessanten Ergebnissen. Einige von ihnen wiesen nämlich sehr hohe Zinnwerte auf, wobei es bei den dekorativen Stücken gerade um eine Absicht des Herstellers gegangen sein könnte. Auf der Grundlage des Vorhandenseins von Spurenelementen scheint es außerdem, dass die analysierten Gegenstände aus recyceltem Material hergestellt wurden, das aus karpatischen und alpinen Kupfererzlagerstätten stammt – eine Hypothese, an deren Überprüfung und Präzisierung weiter gearbeitet wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obišovce gehört zu den bedeutenden Fundorten von Hortfunden aus Buntmetall aus der Bronzezeit. In der Vergangenheit wurden dort Prestigegegenstände mit Herkunft in entfernten Regionen Mittel- und Westeuropas entdeckt. Die analysierten Bronzeartefakte waren Bestandteil der Kleidung und/oder des Pferdegeschirrs. Von ihnen liefern einige Gegenstände, die für dieses Gebiet typisch sind, weitere Belege für Kontakte mit entfernteren Gebieten und unterstreichen die Bedeutung des Gebietes des heutigen Obišovce in der jüngeren und späten Bronzezeit. Dieses konnte Teil eines wirtschaftlichen oder religiösen Zentrums mit einer ausgeprägten Stellung innerhalb des ostslowakischen Raumes sein. Im Hinblick auf den Fundort lässt sich ein Zusammenhang des Hortfundes mit der nahe gelegenen Burganlage Stráža von der Wende der jüngeren zur späten Bronzezeit (mehr als 45 ha, mit einer ausgedehnten Fortifikation) nicht ausschließen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hortfund bronzener Gegenstände aus Obišovce liefert wertvolle Informationen über die Dynamik der gesellschaftlichen Entwicklung, die Redistribution von Metallen und potenzielle Fernkontakte in der Region. Gleichzeitig unterstreicht er die Notwendigkeit einer systematischen Erforschung der Höhenareale und Burganlagen, die sich in unmittelbarer Nähe von Hortfunden aus Buntmetall befinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Text schöpft aus der neuesten fachlichen Studie mehrerer Autoren (Makarová – Olšav – Pristáš), online verfügbar "
+       },
+       {
+        "type": "link",
+        "url": "https://www.archeologickemuzeum.sk/swift_data/source/archeologicke_muzeum/zborniky/z35/06-Makarova-Olsav-Pristas.pdf",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ":"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die öffentliche Veranstaltung mit der ersten Präsentation des Hortfundes findet schon diesen Samstag, den 13.06.2026, im Ostslowakischen Museum in Košice statt – für Sie "
+       },
+       {
+        "type": "link",
+        "url": "https://www.vsmuzeum.sk/l/europske-dni-archeologie2/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hier"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ":"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": "Literatur:",
+    "items": []
+   }
+  ]
+ }
+}

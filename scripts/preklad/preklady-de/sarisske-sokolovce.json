@@ -1,0 +1,826 @@
+{
+ "slug": "sarisske-sokolovce",
+ "data": {
+  "title": "Šarišské Sokolovce – ein slawischer Burgwall im Čergov-Gebirge",
+  "slug": "sarisske-sokolovce-slawischer-burgwall-cergov",
+  "excerpt": "Der Burgwall auf dem Kamm Lazíky nördlich von Šarišské Sokolovce gehört durch seine Lage und sein System von Wällen zu den klassischen Beispielen eines slawischen Burgwalls in der Ostslowakei. Entdeckt hat ihn J. Macák, untersucht wurde er ab 1965 von V. Budinský-Krička. Die Ausgrabungen erbrachten burgwallzeitliche Keramik, einen Feuerstahl, der auf Kontakte mit dem Marchgebiet hinweist, Pfeilspitzen und eine Lanzenspitze des 9. Jahrhunderts sowie Eisenschlacke als Zeugnis der Schmiedearbeit.",
+  "metaTitle": "Šarišské Sokolovce – slawischer Burgwall im Čergov-Gebirge",
+  "metaDescription": "Slawischer Burgwall auf dem Kamm Lazíky im Čergov-Gebirge, ab 1965 von V. Budinský-Krička untersucht: Wälle, Keramik, Feuerstahl und Waffenfunde.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "3 km nördlich von Šarišské Sokolovce, auf dem höchsten Punkt des Kammes Lazíky im Čergov-Gebirge",
+    "icon": "mountain"
+   },
+   {
+    "label": "Maße",
+    "value": "Größte Länge des Burgwalls 253 m, größte Breite 125 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Wallsystem",
+    "value": "Mehrere Wälle unterschiedlicher Konstruktion und Entstehungszeit — Wall der Hauptburg (Holzkonstruktion, 9. Jahrhundert), umlaufender Wall, Wall quer durch die Vorburg, Gräben",
+    "icon": "shield"
+   },
+   {
+    "label": "Entdeckt von",
+    "value": "J. Macák, anhand des volkstümlichen Bergnamens, der Wälle und Gräben und einer von Traktorrädern aufgedeckten dunklen Kulturschicht",
+    "icon": "star"
+   },
+   {
+    "label": "Schmiedearbeit",
+    "value": "Stücke Eisenschlacke (bei über 1200 °C verarbeitete Eisenoxide) belegen auf dem Burgwall Schmiedearbeit, nicht Verhüttung",
+    "icon": "crown"
+   },
+   {
+    "label": "Funde",
+    "value": "Feuerstahl, kleines Messer, drei Pfeilspitzen mit rückwärtigen Flügeln, blattförmige Lanzenspitze (9. Jahrhundert), burgwallzeitliche Keramik, vorslawische Scherbe der jüngeren Bronzezeit",
+    "icon": "scroll"
+   },
+   {
+    "label": "Forscher",
+    "value": "V. Budinský-Krička (Ausgrabung 1965, Publikation 1967) und J. Béreš (Fortsetzung der Ausgrabung, 1974)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "jüngere Bronzezeit (BD – HA – HB)",
+    "title": "Älteste Besiedlung — Gáva-Kultur",
+    "description": "Das typologisch älteste Material auf dem Burgwall gehört zur Gáva-Kultur, die von Süden in die Ostslowakei expandierte; der erste, die Hauptburg umschließende Wall zeugt von dieser ältesten Besiedlung.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Errichtung des ersten Walls der Hauptburg",
+    "description": "Ein Wall mit hölzerner Tragkonstruktion (verkohltes Holz, rot gebrannte Erde), typisch für die ältere großmährische Periode — der Fund einer blattförmigen Lanzenspitze lässt sich chronologisch in das 9. Jahrhundert einordnen.",
+    "type": "construction"
+   },
+   {
+    "year": "10. Jh., spätestens Anfang des 11. Jh.",
+    "title": "Hauptphase der slawischen Besiedlung",
+    "description": "V. Budinský-Krička datierte die Besiedlung des Burgwalls aufgrund der Keramik- und Eisenfunde vorläufig in diese Zeit.",
+    "type": "event"
+   },
+   {
+    "year": "nachgroßmährische Zeit",
+    "title": "Feuerstahl mit Bezug zum Marchgebiet",
+    "description": "Ein ungewöhnlicher Feuerstahl komplizierter Form belegt die Kontakte der Ostslowakei mit dem Marchgebiet; diese altertümliche Form des slawischen Schlagfeuerzeugs lebte in der Ostslowakei bis zum Anfang des 10. Jahrhunderts fort.",
+    "type": "event"
+   },
+   {
+    "year": "1965",
+    "title": "Sondagegrabung von V. Budinský-Krička",
+    "description": "Die erste archäologische Ausgrabung, angeregt durch die Entdeckung J. Macáks (Wälle, Gräben und eine von Traktorrädern aufgedeckte dunkle Kulturschicht).",
+    "type": "discovery"
+   },
+   {
+    "year": "1967",
+    "title": "Veröffentlichung der Ausgrabungsergebnisse",
+    "description": "V. Budinský-Krička publiziert Pokusný výskum na slovanskom hradisku v Šarišských Sokolovciach (Nové obzory 9).",
+    "type": "discovery"
+   },
+   {
+    "year": "1974",
+    "title": "Fortsetzung der Ausgrabung durch J. Béreš",
+    "description": "J. Béreš publiziert Výsledky doterajšieho výskumu slovanského hradiska v Šarišských Sokolovciach (Nové obzory 16).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6362,
+    "alt": "LiDAR-Aufnahme des Geländes mit erkennbaren Umrissen der Wälle und Gräben des Burgwalls"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall nicht weit von Šarišské Sokolovce, von J. Macák entdeckt, gab durch seine Lage und seine Befestigung mit einem System von Wällen bereits im Jahr 1965 den Anstoß zu einer Sondagegrabung, die der verdienstvolle Forscher V. Budinský-Krička durchführte. Auf dieses bemerkenswerte slawische Denkmal machten J. Macák sowohl der volkstümliche Name des Berges als auch die Wälle und Gräben des Burgwalls und die dunkle Kulturschicht an jenen Stellen aufmerksam, an denen sie von den Rädern eines Traktors gestört und aufgedeckt worden war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall liegt 3 km nördlich von Šarišské Sokolovce im südlichen Teil des Čergov-Gebirges. Errichtet wurde er auf dem höchsten Punkt des steilen, bergigen Kammes Lazíky, der sich zwischen dem Bernátske-Tal und dem Bodovské-Tal in Nord-Süd-Richtung erstreckt, auf einer kegelförmigen Kuppe, der sogenannten hradová hura. Zugänglich ist er von Šarišské Sokolovce durch das Bernátske-Tal, von Bodovce über den Kamm des Berges Lazíky und von der Gemeinde Hradisko aus dem Tal der Ternianka. Der Burgwall ist erhalten und größtenteils durch dichten Waldbestand geschützt. Durch seine Lage und seine Befestigungen gehört er zu den klassischen Beispielen eines slawischen Burgwalls in der Ostslowakei. Die größte Länge des Burgwalls beträgt 253 m, die größte Breite 125 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An die nordöstliche Biegung des Walls schließt ein Wiesenstück an, das sich leicht nach Westen neigt. Etwa in seiner Mitte wurde bei der Probegrabung an der Oberfläche eine dunkle Kulturschicht festgestellt. Im oberen Teil der Kulturschicht fanden sich relativ wenige Fragmente burgwallzeitlicher Keramik, aus den tieferen Teilen der Schicht wurden dagegen viele Scherben dieser Keramik gewonnen. Das reiche Auftreten von Scherben an der Stelle der Probeschnitte hängt offenbar mit der Nähe der Reste einer großen Feuerstelle zusammen. Außer Gefäßfragmenten fanden sich in der Kulturschicht stellenweise auch größere oder kleinere Holzkohlestücke sowie einzelne Fragmente von gebranntem Lehm und zwei Stücke Eisenschlacke. Tierknochen enthielt sie nicht. Nach den Keramikfunden verdienen jedoch die Eisengegenstände aus dem unteren Teil der Kulturschicht die größte Aufmerksamkeit. Ein Feuerstahl, ein kleines Messer und die Torsi dreier Gegenstände unbekannter Bestimmung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Probeschnitten gewann V. Budinský-Krička archäologisches Material aus dem Innenareal des Burgwalls, ebenso außerhalb davon auf dem Wiesenstück, das auf der Nordostseite an den Wall anschließt. Die größte Menge der Funde bildete Scherbenmaterial, das mit Wellenbändern und eingeritzten Linien verziert war. Die geringe Zahl der Eisengegenstände bildeten ein unvollständiger Feuerstahl, ein unvollständiges kleines Messer, ein stabförmiges Fragment eines Beschlags, ein Fragment eines Eimerreifens und ein Messerfragment. Auf der Grundlage des gewonnenen Materials datierte V. Budinský-Krička die Besiedlung vorläufig in das 10. Jahrhundert n. Chr., spätestens an den Anfang des 11. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit der Grabung wurde in der Vorburg begonnen, wo mit dem 40 Meter langen Schnitt 1 der die Vorburg in zwei Teile teilende Wall, der Graben und die Fläche in Richtung des Nivellierpunktes durchschnitten wurden. Damit wurden die Konstruktion des Walls, das Profil des Grabens und auch die Möglichkeit einer Besiedlung auf der zum Wall hin abfallenden Fläche verfolgt. Da auf dieser Fläche keine Spuren von Siedlungsbefunden festgestellt werden konnten, wurde der Schnitt bis hinter die Außenseite des Walls verlängert, wo sich eine Terrasse befand, um zu klären, ob von dieser Seite nicht Siedlungsbefunde an den Wall anschlossen. Auch diese Verlängerung von Schnitt 1 erbrachte keine Belege für eine Besiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Šarišské Sokolovce"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Profil des Walls zeigte, dass er aus Erde und Stein aufgeschüttet worden war. Der Stein diente vor allem zu seiner Sicherung gegen das Abrutschen von Erde in den Graben. Im Inneren des Walls kam Stein in geringerer Menge vor, ohne ein System der Lagerung, also nur locker eingeschüttet. Das Fundinventar aus Wall und Graben bildeten Scherben und Tierknochen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schnitt 2 mit einer Länge von 85 Metern wurde so gewählt, dass mit seiner Grabung der umlaufende Wall mit dem Graben, der die Hauptburg umschließende Wall mit Graben und ein Teil der Hauptburg durchschnitten wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Profil des umlaufenden Walls zeigte, dass auch er aus Erde und Stein aufgeschüttet worden war. Der Stein diente vor allem zu seiner Sicherung gegen das Abrutschen von Erde in den Graben. Ein Novum im Konstruktionssystem seiner Aufschüttung war die Feststellung von Spuren verkohlten Holzes samt einem schmalen Streifen rot gebrannten Lehms. Es handelt sich hier wahrscheinlich um ein Nachklingen des Befestigungssystems der älteren slawischen Periode. Das System der Wallaufschüttung und das gewonnene Scherbenmaterial, eine eiserne Pfeilspitze mit rückwärtigen Flügeln und das Torso einer weiteren Pfeilspitze liefern uns den Beleg dafür, dass er von den Slawen offenbar in einer jüngeren Periode als der erste, die Hauptburg umschließende Wall errichtet wurde. In dem an den Wall anschließenden Graben fand sich außer dem typischen slawischen Scherbenmaterial, das bei der Sondagegrabung sowie bei der Grabung von Schnitt 1 gewonnen wurde, eine Scherbe mit einem warzenartigen Buckel, die eine Besiedlung des Burgwalls bereits in der vorslawischen Zeit, namentlich in der jüngeren Bronzezeit ("
+       },
+       {
+        "type": "text",
+        "text": "BD – HA – HB",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "), belegt. Außer Scherbenmaterial und Tierknochen wurden im Graben weitere Eisengegenstände entdeckt: eine unvollständige Pfeilspitze mit rückwärtigen Flügeln und ein ("
+       },
+       {
+        "type": "text",
+        "text": "Halbfabrikat?",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") in Hammerform ohne durchgeschlagenes Loch für einen Holzstiel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Šarišské Sokolovce"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Profil des ersten, die Hauptburg umschließenden Walls zeigte, dass er auf andere Weise errichtet worden war als die beiden bereits erwähnten Wälle "
+       },
+       {
+        "type": "text",
+        "text": "(der die Vorburg in zwei Teile teilende Wall und der umlaufende Wall",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). Auch seine Funde unterscheiden sich von dem Material, das in den beiden letztgenannten Wällen gewonnen wurde. Die Grundlage bildete, nach den erhaltenen Resten verkohlten Holzes und rot gebrannter Erde zu urteilen, offenbar eine hölzerne Tragkonstruktion. Dieses System der Wallaufschüttung war für die ältere großmährische Periode typisch. Das aus ihm gewonnene Scherbenmaterial stammte ausschließlich aus der jüngeren Bronzezeit ("
+       },
+       {
+        "type": "text",
+        "text": "BD – HA – HB",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). Diese Tatsache erlaubt die Ansicht, dass der erste, die Hauptburg umschließende Wall von der ältesten slawischen Besiedlung dieses Teils zeugt. Das Scherbenmaterial und die Pfeilspitze mit rückwärtigen Flügeln, die bei der Grabung des Schnitts im abfallenden Teil des Geländes in Richtung des an den umlaufenden Wall anschließenden Grabens gewonnen wurden, sind zusammen mit dem Scherbenmaterial aus dem zum ältesten Wall des Burgwalls gehörenden Graben jünger als die Zeit der Aufschüttung dieses Walls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Grabung des Teils von Schnitt 2 auf der Hauptburg konnten, ebenso wie in den erwähnten Fällen von Schnitt 1, keine Spuren von Siedlungsbefunden gewonnen werden. Dieser Umstand führte dazu, dass Schnitt 3 auf einer ebenen Lichtung in südöstlicher Richtung vom Nivellierpunkt eingemessen und auf einer Länge von 10 Metern ausgegraben wurde. Bei seiner Grabung wurde unter der humosen Geländeschicht eine Kulturgrube entdeckt, die Scherbenmaterial enthielt. Unmittelbar daneben befand sich eine rot gebrannte Fläche samt verkohlten Holzresten, die auf einen Teil des Fußbodens einer Hütte hinwies. Da sie über die Breite des Schnitts hinausreichte, war es zu ihrer vollständigen Erfassung nötig, einen Teil von Schnitt 4 einzumessen und auszugraben. In ihrer unmittelbaren Nähe fanden sich flach und quer verlegte Steine in Form eines unregelmäßigen Rechtecks, die mit dem Fußboden wahrscheinlich einen Komplex bildeten. Der Autor hält sie vorläufig für die Steinverkleidung eines Ofens (K"
+       },
+       {
+        "type": "text",
+        "text": "amins?",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). Diese Annahme und der Zusammenhang mit dem Teil des Hüttenfußbodens werden durch die Fortsetzung der Ausgrabung überprüft werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der zweiten Vorburg wurden die Schnitte 5 und 6 mit einer Länge von 45 Metern angelegt, die mit Unterbrechungen gegraben wurden. Mit ihnen sollte die Situation auf der freien Fläche des Wiesenstücks im Areal des Burgwalls geklärt werden. In beiden Schnitten fanden sich außer Scherbenmaterial Fragmente von Lehmbewurf und Eisenschlacke. In keinem von ihnen wurden Spuren von Siedlungsbefunden oder einer Schmiedeesse erfasst, obwohl die Fragmente von Lehmbewurf und die Stücke Eisenschlacke hier ihr Zeugnis sind. Das hängt wahrscheinlich damit zusammen, dass die Bauten im Areal des Burgwalls ebenerdig oder nur leicht in den Boden eingetieft waren, aus Holz und Flechtwerk gefertigt und mit Lehm verputzt. Nach dem Ende der Funktion des Burgwalls kam es im Laufe der Jahrhunderte auch zu ihrer Zerstörung, ohne dass Spuren erhalten blieben ("
+       },
+       {
+        "type": "text",
+        "text": "Abschwemmung der Kulturschicht",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ")."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schnitt 7 mit einer Länge von 20 Metern wurde auf dem Waldweg eingemessen, der durch das Areal des Burgwalls zur Hauptburg führt, und zwar so, dass er den Wall mit Graben am Hang der Hauptburg und der ersten Vorburg durchschnitt. Seine Grabung sollte die Konstruktion des Walls und den chronologischen Zusammenhang mit dem ersten, die Hauptburg umschließenden Wall sowie mit den übrigen Wällen des Burgwalls klären. In diesem Schnitt wurden erneut Spuren einer hölzernen Wallkonstruktion "
+       },
+       {
+        "type": "text",
+        "text": "(verkohltes Holz)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " festgestellt, ferner Scherbenmaterial aus der jüngeren Bronzezeit und aus der slawischen Periode sowie eine gut erhaltene eiserne blattförmige Lanzenspitze "
+       },
+       {
+        "type": "text",
+        "text": "(Tiefe 75 cm",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). Die erhaltenen Reste verkohlten Holzes aus der Wallkonstruktion, die Scherben der jüngeren Bronzezeit, eine einzelne slawische Scherbe sowie die eiserne blattförmige Lanzenspitze erlauben die Ansicht, dass ihn die auf der Hauptburg siedelnde Bevölkerung noch vor dem 10. Jahrhundert errichtete, um den leichten Zugang zur Hauptburg von der Nordwestseite zu verhindern. Eine genauere chronologische Einordnung der einzelnen Wälle, in denen Spuren einer Holzkonstruktion gefunden wurden, werden sicherlich Analysen der Reste verkohlten Holzes erbringen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Analyse des Fundinventars I. Keramik Das keramische Material, das durch die bisherigen Ausgrabungen des Burgwalls in Šarišské Sokolovce gewonnen wurde, bildet den zahlreichsten Bestandteil des Fundinventars. Es besteht aus zahlreichen markanten Fragmenten, aus denen sich keine ganzen Gefäße rekonstruieren ließen. Da es sich um Funde handelt, die aus Profilen durch Wälle und Gräben sowie aus Schnitten außerhalb von ihnen stammen, wo sich Fragmente typologisch älterer Gefäße mit Fragmenten jüngerer Keramik mischten, und nicht um Funde aus geschlossenen Siedlungsbefunden, gehen wir auch bei der Gliederung, vor allem des slawischen Materials, von diesem Aspekt aus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "a)",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Das typologisch älteste Material, das auf dem Burgwall bei den bisherigen Ausgrabungen überhaupt gefunden wurde, ist Material aus dem älteren Abschnitt der jüngeren Bronzezeit ("
+       },
+       {
+        "type": "text",
+        "text": "BD – HA – HB",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "), das in der Ostslowakei derzeit der Gáva-Kultur zugerechnet wird, die von Süden hierher expandierte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bemerkenswert ist vor allem das grobere Scherbenmaterial von blassbrauner Farbe mit glattem Überzug an der Oberfläche, das wahrscheinlich von größeren topfförmigen Gefäßen stammt. Meist war es unverziert. Nur vereinzelt trat auf ihm eine Verzierung in Form eines einfachen ovalen Buckels auf. Es traten auch einzelne Keramikreste auf, die Typen von Gefäßrändern vertreten, und in einem Fall ein Teil eines Bodens. Eine dünnere Scherbe von hellbrauner Farbe mit leicht nach innen gerundetem Rand stammt offenbar von einer Schale. Zwei Randscherben, von denen eine einen groberen gerundeten Rand und die andere einen breiteren nach außen umgeschlagenen Rand hat, stammten von topfförmigen Gefäßen. Die Scherbe vom Gefäßboden hatte eine poröse Oberfläche und einen grob geformten unebenen Boden. Als Vertreter eines vielleicht einheimischen jüngeren Piliny-Ethnikums betrachtet der Autor eine einzelne grobere Scherbe von dunkelgrauer Farbe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "b)",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Bei der Gliederung des bisher gewonnenen slawischen Keramikmaterials vom Burgwall zeigt sich, dass ein kleinerer Teil davon noch eng mit der mittelburgwallzeitlichen Keramik zusammenhängt. Der größere Teil gehört jedoch zur jüngeren burgwallzeitlichen Keramik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Scherben der älteren slawischen Keramik stammen von dünn- und dickwandigen Töpfen brauner, braungrauer und dunkelgrauer Farbe mit rauer Oberfläche, gut gebrannt, aus Ton mit einer Beimischung von Kalkstein, Sand und Glimmer gefertigt. Die Gefäßhälse waren, nach einigen Randscherben zu urteilen, nicht weit geöffnet und am Rand senkrecht oder schräg abgeschnitten. An einigen Fragmenten ist bereits ein Ansatz zur Profilierung des Gefäßrandes erkennbar. Das Ornament auf den Scherben besteht aus mehrfachen Wellenbändern und aus Bändern waagerechter Linien."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur älteren Fundgruppe aus Šarišské Sokolovce gehört vielleicht auch ein Fragment vom Boden eines braungrauen Gefäßes mit dem schwach sichtbaren Teil einer wahrscheinlich rechteckigen plastischen Marke. Es ist der zweite abweichende Typ des Auftretens einer plastischen Marke, der bei der bisherigen Ausgrabung des Burgwalls gewonnen wurde. Im ersten Fall war es der Teil einer plastischen Marke in Form eines Quadrats."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur älteren slawischen Keramik rechnen wir eine Scherbe, die mit schrägen umlaufenden Bändern verziert ist, die durch Einstiche mit einem Kammgerät ausgeführt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Erkenntnissen aus dem Marchgebiet und aus anderen Gebieten ist es durchaus möglich, dass zur älteren Keramik des Burgwalls auch Gefäßfragmente gehören, die mit grob und einzeln eingeritzten Wellenbändern und waagerechten Linien verziert sind, und umgekehrt einige Fragmente altertümlichen Charakters vielleicht schon mit der jüngeren slawischen Phase auf dem Burgwall zusammenhängen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die größte Menge der bei der bisherigen Ausgrabung des Burgwalls gewonnenen Scherben gehört zur fortgeschrittenen burgwallzeitlichen Keramik. Es sind Gefäßfragmente bereits mit deutlicheren Merkmalen der Randprofilierung oder mit Leistenrand, manchmal schon der mittelalterlichen Keramik sehr nahe. Der Verzierung nach gehören hierher vor allem Scherben von Gefäßen, die am Hals und darunter mit einem grob eingeritzten Wellenband oder mit Wellenbändern und am Körper mit waagerechten Linien verziert sind, einmal spärlich, ein andermal dichter oder ganz durchgehend die gesamte Oberfläche bedeckend. Die durchgehende Rillung des Gefäßkörpers erzeugte manchmal eine deutlich gefurchte Oberfläche. Mit dieser Form der Verzierung kamen diese Gefäße der mittelalterlichen Keramik bereits erheblich näher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gefäße wurden wahrscheinlich schon auf einer schneller gedrehten Scheibe hergestellt, wovon vor allem feine waagerechte Züge oder Rillen im Überzug der Scherben zeugen. Der Ton sowie die Farbe der Keramikfragmente unterscheiden sich nicht von der typologisch älteren Keramik. Einige Randscherben haben an der Innenseite Spuren einer Bearbeitung mit einem gezahnten Gerät. Anhand der Verzierung der Keramik lässt sich schließen, dass die Verzierung mit einem stumpfen Stäbchen, ausnahmsweise auch mit einem kammartigen Gerät, in den Überzug der Gefäße eingeritzt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Davon, dass die Keramik auf dem Burgwall in Šarišské Sokolovce auch in der jüngeren Periode ein wichtiger Artikel war und in höchstem Maße genutzt wurde, zeugt ein Gefäßfragment, das zur Sicherung einer gesprungenen Stelle durchbohrt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In mehreren Fällen blieben an der Innenseite der Scherbenwände Reste einer schwarzen organischen Substanz erhalten ("
+       },
+       {
+        "type": "text",
+        "text": "vielleicht Speisereste)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Durch eine chemische Analyse ließe sich wahrscheinlich bestimmen, um welche Art von Nahrung es sich handelt, und auf dieser Grundlage könnte man auch teilweise in die „Küche“ unserer slawischen Vorfahren blicken, die auf dem Burgwall in Šarišské Sokolovce lebten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "II. Eisengegenstände Von den Funden dieser Art, die im Außenareal des Burgwalls gewonnen wurden, ist unzweifelhaft das Torso eines Feuerstahls komplizierter Form mit dreifach umgebogenen Ärmchen das bemerkenswerteste und wichtigste; es ist 8,6 cm lang und 3,6 cm breit. Der Feuerstahl ist von einem ganz anderen Typ als die bisherigen Grabfunde eiserner Schlagfeuerzeuge der slawisch-awarischen und der altungarischen Periode in der Ostslowakei."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Feuerstahl aus Šarišské Sokolovce ist somit ein weiteres interessantes und bedeutendes Denkmal, das auf die Kontakte der Ostslowakei in der Burgwallzeit mit dem Marchgebiet hinweist. Wenn er sich nach den Keramikfunden vom Burgwall bis in die nachgroßmährische Zeit datieren lässt, dann ist es bemerkenswert, dass diese altertümliche Form des slawischen Schlagfeuerzeugs gerade in der Ostslowakei bis zum Anfang des 10. Jahrhunderts fortlebte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem kleinen Messer ist die Spitze abgebrochen, und von der Angel seines Griffs ist nur ein geringer Teil erhalten. Der Rücken der Klinge ist leicht gebogen und von der Angel durch einen schrägen Absatz getrennt. Die Schneide des Messers verläuft annähernd in gerader Linie parallel zur unteren Kante des Griffs. Das Torso ist 9 cm lang und 1,8 cm breit. Es ist ein nicht genauer datierbares kleines Messer burgwallzeitlicher Form, das eher in die Mittelburgwallzeit gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der flache, stabförmige Eisengegenstand in Form eines langen Trapezes ist das Fragment eines Beschlags oder eines Geräts unbekannter Bestimmung; er ist 8,8 cm lang und höchstens 2,1 cm breit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die übrigen zwei Eisengegenstände sind atypisch; einer von ihnen ist gleichsam das Fragment eines Eimerreifens ("
+       },
+       {
+        "type": "text",
+        "text": "Länge 3,7 cm)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", der andere, mit bogenförmiger Schneide, ist vielleicht das Fragment eines Messers ("
+       },
+       {
+        "type": "text",
+        "text": "Länge 4,3 cm und max. Breite 2,1 cm",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ")."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde dieser Art im Innenareal bildeten im Vergleich zur gewonnenen Menge an Keramik nur eine geringe Zahl. Ihre kleine typologische Spanne bestand aus drei mit einer Tülle abschließenden Pfeilspitzen mit rückwärtigen Flügeln, aus dem Torso einer eisernen Pfeilspitze, einer blattförmigen Lanzenspitze mit kürzerer runder Tülle und einem Eisengegenstand ("
+       },
+       {
+        "type": "text",
+        "text": "Halbfabrikat?",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") in Hammerform, dem das durchgeschlagene Loch für einen Holzstiel fehlt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eiserne Pfeilspitzen mit rückwärtigen Flügeln und Tülle eigneten sich für die Jagd wie für den Kampf, denn sie verursachten eine Risswunde und beschleunigten so das Verbluten. Da es sich um Waffen handelte, die gewöhnlich nur einmal verwendet werden konnten, wurde bei ihrer Herstellung kein aufwendiges Verfahren angewandt. Diese Art von Pfeilspitzen ist schon seit der Spätlatènezeit bekannt und lebt über die römische Kaiserzeit und die Burgwallzeit bis ins Mittelalter fort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Fund der blattförmigen Lanzenspitze mit kürzerer, konisch erweiterter Tülle und breiterem, verstärktem Blatt können wir chronologisch in das 9. Jahrhundert einordnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Eisengegenstand, ("
+       },
+       {
+        "type": "text",
+        "text": "Halbfabrikat?",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") der Form nach zu urteilen, sollte ursprünglich ein Hammer sein. Da ihm jedoch das durchgeschlagene Loch für einen Holzstiel fehlt, hält ihn der Autor für ein Halbfabrikat, das nach den deutlichen Schlagspuren am Nacken sowie nach dem unebenen Ende des verjüngten Teils wahrscheinlich als Durchschlag verwendet wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer den eisernen Bestandteilen der Bewaffnung und einem Arbeitsgerät fanden sich bei der Ausgrabung des Burgwalls auch Stücke Eisenschlacke in der zweiten Vorburg. Diese Funde sind zusammen mit ähnlichen, die bei der Sondagegrabung außerhalb des Burgwallareals auf dem unmittelbar daran anschließenden Wiesenstück gewonnen wurden, ein Zeugnis für das Bestehen von Schmiedearbeit sowohl im Areal des Burgwalls als auch in dem zu ihm gehörenden Teil hinter der Befestigung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "III. Eisenschlacke R. Pleiner vom Archäologischen Institut der Tschechoslowakischen Akademie der Wissenschaften (ČSAV) in Prag äußerte die Ansicht, dass es sich um Abfall aus einer Schmiedewerkstatt handelt. Es handelt sich im Wesentlichen um Eisenoxide, die bei einer Temperatur von über 1200 °C verarbeitet wurden. Sie bezeugen das Bestehen von Schmiedearbeit auf dem Burgwall, nicht die Verhüttung von Eisen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "IV. Holzkohlen Proben von Holzkohlen aus der Kulturschicht, die auf der Fläche außerhalb des Walls des Burgwalls aufgedeckt wurde, bestimmte E. Krippel vom Dionýz-Štúr-Institut für Geologie in Bratislava (Pressburg) in zwei Fällen als von der Ulme ("
+       },
+       {
+        "type": "text",
+        "text": "Ulmus",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") und in einem Fall als von der Buche ("
+       },
+       {
+        "type": "text",
+        "text": "Fagus",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") stammend. Diese Feststellung ist vor allem deshalb bemerkenswert, weil auf dem Burgwall und in seiner Umgebung im Waldbestand heute die Hainbuche vorherrscht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Herkunft der Reste einer schwarzen, verkohlten, strukturlosen organischen Substanz von den Wänden einiger Gefäße "
+       },
+       {
+        "type": "text",
+        "text": "(es handelt sich wohl um Speisereste)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " ließe sich nach E. Krippel vielleicht auf chemischem Wege bestimmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Šarišské Sokolovce"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

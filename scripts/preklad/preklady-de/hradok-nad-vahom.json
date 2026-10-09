@@ -1,0 +1,250 @@
+{
+ "slug": "hradok-nad-vahom",
+ "data": {
+  "title": "Hrádok nad Váhom – ein großmährischer Burgwall mit Eisenbarren-Hortfund",
+  "slug": "hradok-nad-vahom-grossmaehrischer-burgwall",
+  "excerpt": "Den Burgwall hat als Erster der slowakische Wissenschaftler Štefan Janšák im Jahr 1930 beschrieben, vermessen und gezeichnet. Der nordwestliche Teil der Gemeinde Hrádok, in dem auch die Kirche steht, war bereits in der Eisenzeit besiedelt; zur Zeit Großmährens entstand hier ein bedeutender Burgwall. Berühmt wurde er 1955 durch den Hortfund von 247 axtförmigen Eisenbarren – lange Zeit der größte in der ganzen Tschechoslowakei.",
+  "metaTitle": "Hrádok nad Váhom – großmährischer Burgwall an der Waag",
+  "metaDescription": "Burgwall bei Hrádok nad Váhom, 1930 von Štefan Janšák beschrieben: besiedelt seit der Eisenzeit, berühmt durch den Hortfund von 247 Eisenbarren.",
+  "keyFacts": [
+   {
+    "label": "Maße des Sporns",
+    "value": "200 m lang, durchschnittlich 40 m breit, 10 m über die Umgebung aufragend",
+    "icon": "map"
+   },
+   {
+    "label": "Hortfund axtförmiger Eisenbarren",
+    "value": "247 Stück, Gesamtgewicht nach dem Fund ca. 65 kg, 114 Exemplare von 250–300 mm Länge",
+    "icon": "star"
+   },
+   {
+    "label": "Tiefe der Niederlegung des Hortfundes",
+    "value": "ca. 100 cm, die Grube reichte 40 cm in den Lössuntergrund, überdeckt von einer mittelalterlichen Aufschüttung des 13.–14. Jahrhunderts",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Fund slawischer Scherben bei der Kirche",
+    "description": "Beim Ausheben einer Abfallgrube im Pfarrgarten stieß man im Jahr 1954 auf eine Siedlungsschicht, aus der eine eiserne Schnalle, ein Teil einer Trense und slawische Scherben stammen, die in das 9. Jahrhundert datiert werden.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Niederlegung des Hortfundes axtförmiger Eisenbarren",
+    "description": "Der Fund des großen Hortes von 247 eisernen axtförmigen Barren (lange Zeit der größte Eisenbarren-Hortfund in der Tschechoslowakei) wird in das 9. Jahrhundert datiert; seine Niederlegung kann mit den unruhigen Zeiten des Konflikts zwischen Fürst Pribina und Mojmír zusammenhängen.",
+    "type": "event"
+   },
+   {
+    "year": "1954",
+    "title": "Fund einer Siedlungsschicht bei der Kirche",
+    "description": "Beim Ausheben einer Abfallgrube im Pfarrgarten stieß man auf eine Siedlungsschicht mit slawischen Funden.",
+    "type": "discovery"
+   },
+   {
+    "year": "1955",
+    "title": "Entdeckung des Hortfundes axtförmiger Eisenbarren",
+    "description": "Berühmt wurde der Burgwall vor allem durch den Fund des großen Hortes axtförmiger Eisenbarren beim Ausheben der Fundamente für die neue Umfriedung des Areals des Örtlichen Nationalausschusses.",
+    "type": "discovery"
+   },
+   {
+    "year": "1930",
+    "title": "Janšáks Beschreibung des Burgwalls",
+    "description": "Den Burgwall hat als Erster Štefan Janšák im Jahr 1930 beschrieben, vermessen und gezeichnet.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3298,
+    "caption": "Plan des Burgwalls von Š. Janšák",
+    "alt": "Plan des Burgwalls von Š. Janšák"
+   },
+   {
+    "mediaId": 3299,
+    "caption": "Der Burgwall auf der 2. militärischen Landesaufnahme",
+    "alt": "Der Burgwall auf der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 3300,
+    "caption": "slawische Pfeilspitzen vom Burgwall (AVANS 2000)",
+    "alt": "slawische Pfeilspitzen vom Burgwall (AVANS 2000)"
+   },
+   {
+    "mediaId": 3301,
+    "alt": "Schwarz-Weiß-Fotografien eines Bündels eiserner Barren vor und nach der Konservierung"
+   },
+   {
+    "mediaId": 3302,
+    "caption": "zugänglich ist nur der Teil, der zur Kirche gehört, und dann etwa in der Mitte des Burgwalls der Teil, auf dem das Gemeindeamt steht",
+    "alt": "zugänglich ist nur der Teil, der zur Kirche gehört, und dann etwa in der Mitte des Burgwalls der Teil, auf dem das Gemeindeamt steht"
+   },
+   {
+    "mediaId": 3303,
+    "caption": "hoher und scharfer Rand des Burgwalls auf der Nordseite",
+    "alt": "hoher und scharfer Rand des Burgwalls auf der Nordseite"
+   },
+   {
+    "mediaId": 3304,
+    "caption": "gleich hinter der Kirche beginnen die Höfe privater Häuser. Wer weiß, was dort alles beim Ausheben der Fundamente gefunden wurde",
+    "alt": "gleich hinter der Kirche beginnen die Höfe privater Häuser. Wer weiß, was dort alles beim Ausheben der Fundamente gefunden wurde"
+   },
+   {
+    "mediaId": 3305,
+    "caption": "der nördliche Rand ist durch flaches Pflügen umgepflügt.",
+    "alt": "der nördliche Rand ist durch flaches Pflügen umgepflügt."
+   },
+   {
+    "mediaId": 3306,
+    "caption": "der nordöstliche Rand",
+    "alt": "der nordöstliche Rand"
+   },
+   {
+    "mediaId": 3307,
+    "caption": "der Graben verläuft quer durch die Mitte des Burgwalls",
+    "alt": "der Graben verläuft quer durch die Mitte des Burgwalls"
+   },
+   {
+    "mediaId": 3308,
+    "caption": "der südöstliche Teil des Burgwalls",
+    "alt": "der südöstliche Teil des Burgwalls"
+   },
+   {
+    "mediaId": 3309,
+    "caption": "auf dem Weg lagen urgeschichtliche Scherben herum, niemand beachtet sie",
+    "alt": "auf dem Weg lagen urgeschichtliche Scherben herum, niemand beachtet sie"
+   },
+   {
+    "mediaId": 3310,
+    "caption": "Weg zum Burgwall",
+    "alt": "Weg zum Burgwall"
+   },
+   {
+    "mediaId": 3311,
+    "caption": "das Gemeindeamt, auf dem Weg dorthin wurde der Hortfund von Eisenbarren gefunden",
+    "alt": "das Gemeindeamt, auf dem Weg dorthin wurde der Hortfund von Eisenbarren gefunden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Burgwall hat als Erster der geniale slowakische Wissenschaftler Štefan Janšák im Jahr 1930 beschrieben, vermessen und gezeichnet. Der nordwestliche Teil der Gemeinde Hrádok, in dem sich auch die Kirche befindet, war bereits in der Eisenzeit besiedelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für uns ist wichtig, dass unsere slawischen Vorfahren in diesem Teil der Gemeinde zur Zeit Großmährens einen bedeutenden Burgwall errichteten. Štefan Janšák führt in seiner Beschreibung des Burgwalls an, dass der zungenförmige Sporn, 200 m lang, durchschnittlich 40 m breit und 10 m über die Umgebung aufragend, ein sehr günstiger Ort für eine alte Besiedlung war. Der Burgwall (siehe Abbildung unten) erstreckte sich etwa auf der Fläche a-b-e-c-d-f-a. Die Partie a-b-e-f-a konnte der Kern gewesen sein, von der übrigen Oberfläche durch eine natürliche Stufe an der Stelle e-f getrennt. Über die Vertiefung c-d, die sich bei der Kirche befindet und durch die heute eine Dorfstraße führt, lässt sich heute nicht mit Bestimmtheit sagen, ob sie künstlich oder natürlich ist. In jedem Fall diente sie dem Burgwall jedoch nur zum Vorteil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die historische Steinburg aus späterer Zeit stand in der Partie a-b-e-f-a, wo sich in den 30er Jahren ein Gehöft mit Garten und bebautem Feld befand. Gegenwärtig befinden sich im Raum des Burgwalls Gärten, Häuser und die erwähnte Kirche. Štefan Janšák fand auf dem Burgwall mehrere Scherben, die er der Hallstattzeit zuordnete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan des Burgwalls von Š. Janšák",
+    "alt": "Plan des Burgwalls von Š. Janšák",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hortfund axtförmiger Eisenbarren auf dem Burgwall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Ausheben einer Abfallgrube im Pfarrgarten stieß man im Jahr 1954 auf eine Siedlungsschicht, aus der eine eiserne Schnalle, ein Teil einer Trense und slawische Scherben stammen, datiert in das 9. Jahrhundert. Berühmt wurde der Burgwall jedoch vor allem durch den Fund eines großen Hortes axtförmiger Eisenbarren im Jahr 1955, der lange Zeit der größte Eisenbarren-Hortfund in der ganzen Tschechoslowakei war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall auf der 2. militärischen Landesaufnahme",
+    "alt": "Der Burgwall auf der 2. militärischen Landesaufnahme",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf den Hortfund stieß man beim Ausheben der Fundamente für die neue Umfriedung des Areals des Örtlichen Nationalausschusses im Einschnitt des Weges in einer Tiefe von ca. 100 cm. Die Fundstelle liegt unmittelbar im Areal des großmährischen Burgwalls. Die Grube, in der der Hortfund niedergelegt war, reichte 40 cm in den Lössuntergrund. Der obere Teil des Hortfundes war von einer mittelalterlichen Aufschüttung des 13.–14. Jahrhunderts überdeckt. Der Hortfund enthielt 247 eiserne axtförmige Barren überwiegend mittlerer Größe (114 Exemplare von 250–300 mm Länge) und 68 kleinere Exemplare von 165–1200 mm Länge. Den Rest bildeten Barrenfragmente. An einigen Barren ist das absichtliche Abtrennen eines Teils zu erkennen, gegebenenfalls auch trapezförmige oder dreieckige Ausschnitte. Einige tragen auch Spuren des Umschmiedens. Der Hortfund wog nach dem Fund ca. 65 kg, und die Barren waren in ihm in Häufchen von je 20 Stück geschichtet. Der Fund wird in das 9. Jahrhundert datiert, und seine Niederlegung kann mit den unruhigen Zeiten des Konflikts zwischen Fürst Pribina und Mojmír zusammenhängen, ähnlich wie es im Fall des nicht weit entfernten Pobedim war. Ein Bewohner des Burgwalls – vielleicht ein Händler, der die Barren als Zahlungsmittel verwendete, oder ein anderer, zweifellos reicher Bewohner des Waagtals – legte den Schatz aus Furcht nieder, sein Vermögen zu verlieren. Da niemand mehr für diesen Schatz zurückkam, der zur Zeit des Fürstentums Neutra einen sehr hohen Wert gehabt haben muss, verlor sein Besitzer offenbar etwas Kostbareres als die Barren – das eigene Leben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

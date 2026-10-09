@@ -1,0 +1,1142 @@
+{
+ "slug": "nitrianske-pravno-jasenovo-vysehrad",
+ "data": {
+  "title": "Nitrianske Pravno/Jasenovo – die Burganlage Vyšehrad auf dem Kamm des Žiar",
+  "slug": "vysehrad-burganlage-ziar-gebirge",
+  "excerpt": "Auf dem Kamm des bewaldeten Žiar-Gebirges, der die Grenze zwischen dem Turz und der Region Nitra bildet, liegt in 829 m ü. M. die Burganlage Vyšehrad — eine der bedeutenden archäologischen und naturkundlichen Fundstellen des oberen Neutratals und des Turz. Ihre vier durch Wälle getrennten Höfe tragen Spuren der Bronze- und Hallstattzeit, der Latènezeit, Großmährens und einer mittelalterlichen Burg; dazu kommen Janšáks Beschreibung von 1928, ein Volkslied und drei Sagen.",
+  "metaTitle": "Vyšehrad – die Burganlage auf dem Kamm des Žiar-Gebirges",
+  "metaDescription": "Die Burganlage Vyšehrad (829 m ü. M.) auf dem Kamm des Žiar-Gebirges bewachte den Übergang von der oberen Neutra in den Turz — vier Höfe, vier Epochen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Kamm des Žiar-Gebirges, Grenze zwischen dem Turz und der Region Nitra, 829 m ü. M.; Katastralgebiet von Nitrianske Pravno, nahe der Gemeinde Jasenovo",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche",
+    "value": "Gesamtfläche 455 Ar, durch Wälle in vier selbstständige Höfe geteilt",
+    "icon": "shield"
+   },
+   {
+    "label": "Erster Hof",
+    "value": "Höchstgelegener Teil, ca. 40 m lang — hier stand eine mittelalterliche kleine Burg (12.–14. Jahrhundert), wahrscheinlich schon in großmährischer Zeit und in der Urgeschichte befestigt und bewohnt",
+    "icon": "crown"
+   },
+   {
+    "label": "Zweiter Hof",
+    "value": "Fast regelmäßige rechteckige Form von 60 × 40 m mit Eingangstor von Nordwesten; slawische, mittelalterliche und urgeschichtliche Besiedlung",
+    "icon": "building"
+   },
+   {
+    "label": "Vierter Hof",
+    "value": "Der tiefstgelegene (770 m ü. M.), ein selbstständiges Gebilde von 23 × 50 m aus dem 15. Jahrhundert — in der letzten Periode des Bestehens der Burganlage errichtet",
+    "icon": "shield"
+   },
+   {
+    "label": "Strategische Bedeutung",
+    "value": "Lage an der Scheide von Turz und der Region Nitra an einem uralten Handelsweg (Salz-/Bernsteinstraße) — möglicherweise das ursprüngliche Stammeszentrum der hiesigen Slawen",
+    "icon": "star"
+   },
+   {
+    "label": "Mündliche Überlieferung",
+    "value": "Ein erhaltenes Lied vom Vyšehrad (an den Tatareneinfall 1241–1242 gebunden) und mehrere Sagen vom verzauberten Fräulein und vom Schatz von Vyšehrad",
+    "icon": "scroll"
+   },
+   {
+    "label": "Forscher",
+    "value": "K. A. Medvecký (erste Ausgrabung), Š. Janšák (Beschreibung und Vermessung, 1928), Marta Remiášová (systematische Ausgrabung, 70er Jahre des 20. Jahrhunderts)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 700 v. Chr.",
+    "title": "Älteste Besiedlung",
+    "description": "Die älteste Bevölkerung siedelte im tiefstgelegenen Teil der Burganlage; belegt durch bronzene Nadeln, eine Sichel, eine Pfeilspitze und hallstattzeitliche Keramik.",
+    "type": "founding"
+   },
+   {
+    "year": "jüngere Eisenzeit (Latènezeit)",
+    "title": "Deutliche latènezeitliche Besiedlung",
+    "description": "Die Anlage ist den latènezeitlichen Höhensiedlungen der oberen Neutra zuzurechnen, die von der Expansion der keltisch-dakischen Bevölkerung zeugen; die Befestigung dieser Zeit wurde auf der Südseite der Anlage entdeckt (Púchov-Kultur).",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Umbau zum slawischen Burgwall",
+    "description": "Die slawische Bevölkerung baute die ursprüngliche latènezeitliche Befestigung nach ihren Bedürfnissen um; die bedeutendsten Funde (Sporen, Äxte, ein axtförmiger Eisenbarren) stammen aus dem 9. und 10. Jahrhundert.",
+    "type": "construction"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Weniger deutliche Etappe der Besiedlung",
+    "description": "Die vier Höfe der Burganlage wurden in dieser Zeit weniger intensiv genutzt als in großmährischer Zeit.",
+    "type": "event"
+   },
+   {
+    "year": "12.–14. Jahrhundert",
+    "title": "Umbau zur mittelalterlichen Burg",
+    "description": "Das gesamte Areal der Burganlage wurde an der Stelle der älteren Wallbefestigung umgebaut und instand gesetzt; aus dieser Zeit stammt eine große Menge an Funden, darunter Waffen und Reiterausrüstung.",
+    "type": "construction"
+   },
+   {
+    "year": "1235–1277",
+    "title": "Ende der Herrschaft der Diviackovci",
+    "description": "Nach dem Tatareneinfall (1277) wird der Vyšehrad nur noch als ehemalige Burg erwähnt; zusammen mit der Herrschaft der Diviackovci auf dem Vyšehrad erlosch sein Ruhm.",
+    "type": "destruction"
+   },
+   {
+    "year": "1458–1467",
+    "title": "Zuflucht des Heeres der Bratríci",
+    "description": "Ein Teil der verfolgten hussitischen Bratríci flüchtete auf den Vyšehrad und verschanzte sich dort für eine Zeit; die königlichen Heere vernichteten die Bratríci allmählich.",
+    "type": "event"
+   },
+   {
+    "year": "15. Jahrhundert",
+    "title": "Endgültiger Weggang der letzten Bewohner",
+    "description": "Münzen aus der zweiten Hälfte des 15. Jahrhunderts, die über das gesamte Areal verstreut lagen, beweisen, dass der Weggang der letzten Bewohner des Vyšehrad nicht freiwillig war.",
+    "type": "destruction"
+   },
+   {
+    "year": "1928",
+    "title": "Janšáks Beschreibung der Burganlage",
+    "description": "Štefan Janšák beschrieb und vermaß den Vyšehrad ausführlich und verglich seinen Grundriss mit einer menschlichen Fußspur.",
+    "type": "discovery"
+   },
+   {
+    "year": "70er Jahre des 20. Jahrhunderts",
+    "title": "Archäologische Ausgrabung von Marta Remiášová",
+    "description": "Die ordentliche archäologische Ausgrabung erfasste die mittelalterliche und die slawische Besiedlung in allen vier Teilen der Burganlage.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6371,
+    "alt": "Modell der Burganlage mit Holzpalisade, Torturm und Wall"
+   },
+   {
+    "mediaId": 501,
+    "caption": "Vyšehrad, eingezeichnet auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Vyšehrad, eingezeichnet auf der Karte der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 502,
+    "caption": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "mediaId": 503,
+    "caption": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "mediaId": 504,
+    "caption": "Vyšehrad. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Vyšehrad. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "mediaId": 505,
+    "caption": "Plan der Burganlage von Štefan Janšák aus dem Jahr 1928",
+    "alt": "Plan der Burganlage von Štefan Janšák aus dem Jahr 1928"
+   },
+   {
+    "mediaId": 510,
+    "caption": "Aus dem Buch: Pavel Dvořák: Odkryté dejiny",
+    "alt": "Aus dem Buch: Pavel Dvořák: Odkryté dejiny"
+   },
+   {
+    "mediaId": 512,
+    "caption": "Ausschnitt aus der genannten Karte von 1779 mit Horné vráta und Dolné vráta",
+    "alt": "Ausschnitt aus der genannten Karte von 1779 mit Horné vráta und Dolné vráta"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der südwestliche Teil der Kleinen Fatra geht im Süden in das bewaldete Žiar-Gebirge über. Auf dem Kamm des Žiar-Gebirges, der die Grenze zwischen dem Turz und der Region Nitra bildet, befindet sich in einer Höhe von 829 m ü. M. die auf einer Anhöhe gelegene Burganlage Vyšehrad, die zu den bedeutenden archäologischen und naturkundlichen Fundstellen des oberen Neutratals und des Turz gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Vyšehrad, eingezeichnet auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Vyšehrad, eingezeichnet auf der Karte der 2. militärischen Landesaufnahme"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der bequemste und historisch bedeutendste Übergang von der oberen Neutra in den Turz ist jener, der über den mittleren Teil des Žiar bei der Gemeinde Nedožery und in einer Höhe von etwa 300 m über die Gemeinde Brezany fast in östlicher Richtung über den Grat bis auf den Kamm des Žiar-Gebirges in einer Höhe von 689 m führt. Etwa auf der Hälfte des Weges stand in der Vergangenheit ein Einkehrgasthaus. Dieser Weg ist jedoch nicht der einzige Übergang von der oberen Neutra in den Turz, der an die sogenannte Salz- oder Bernsteinstraße anknüpft. Der zweite Übergang führte von Nitrianske Pravno über Vyšehradné unterhalb des Vyšehrad in die Gemeinde Jasenovo, und der Weg setzte sich in Richtung Slovenské Pravno fort, wo heute die Hauptstraße verläuft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wegen seiner naturkundlichen Besonderheit, seiner historischen Bedeutung und seiner außerordentlich wichtigen geographischen und strategischen Stellung an der Scheide zweier Landschaften bei einem uralten Handelsweg wurde der Vyšehrad zu einem geschützten Natur- und archäologischen Denkmal. Er gehört zum Katastralgebiet von Nitrianske Pravno, in größerer Nähe liegt jedoch die Gemeinde Jasenovo."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Beschreibung der Burganlage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage ist auf der Süd- und der Ostseite von steilen Felsen begrenzt, aber auch von der Westseite ist der Zugang relativ schwierig. Die Gesamtfläche beträgt 455 Ar. Das gesamte Areal der Burganlage besitzt eine mächtige Wallbefestigung und ist durch ein System von Wällen in vier selbstständige Teile gegliedert, in denen wir deutlich Höfe erkennen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", höchstgelegene Teil der Befestigung, etwa 40 m lang, ist durch einen niedrigen Wall geteilt. Vom zweiten Hof ist dieser Teil durch einen Wall und einen tiefen Graben getrennt. In diesem Teil der Burganlage stand zweifellos im 12.–14. Jahrhundert eine mittelalterliche kleine Burg bzw. deren höchster Teil; aus der Logik und den Grundsätzen der Nutzung der Geländegegebenheiten zum Zweck der Verteidigung und der Befestigung ist jedoch offensichtlich, dass der obere Teil auch in den vorangehenden Perioden — Großmährens, der Latènezeit und der Hallstatt-/Bronzezeit — befestigt und bewohnt sein musste. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", selbstständige Teil ist durch seine fast regelmäßige rechteckige Form (60 × 40 m) mit einem Eingangstor von der NW-Seite interessant. In diesem Teil wurde slawische, mittelalterliche und urgeschichtliche Besiedlung festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der dritte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Teil der Burganlage hat das am stärksten gegliederte Gelände, das von der Südseite in Richtung Norden terrassenartig abfällt. Auch dieser Hof ist von den übrigen durch einen Wall getrennt. Auch dieser Teil der Burganlage wurde von den Slawen in der Zeit Großmährens und auch nach dessen Untergang genutzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der vierte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Teil der Burganlage ist der tiefstgelegene. Seine Höhe über dem Meer bewegt sich um 770 Meter. In diesem Teil liegt auch der Zugang zur Burganlage von der Nordseite. Auf der SW-Seite befindet sich hier ein selbstständiges Gebilde mit den Maßen 23 × 50 m, das von der Ost- und der Nordseite deutlich durch einen Wall und einen Graben begrenzt ist, bei dessen Aushebung auch ein niedriger äußerer Wall entstand. Es ist wahrscheinlich auch funktional ein selbstständiger Teil der Burganlage, der in der letzten Periode des Bestehens des Vyšehrad errichtet wurde, was sich aufgrund der archäologischen Funde in das 15. Jahrhundert einordnen lässt. Es fanden sich hier jedoch auch Gegenstände vom Ende der Bronzezeit.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Modell der Burganlage nach M. Remiášová. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als erster führte K. A. Medvecký eine Ausgrabung der Burganlage durch und fand dort Keramikreste, Ofenkacheln, eine eiserne Pfeilspitze und Nägel. Die Beschreibung und die Vermessung des Vyšehrad nahm der uns gut bekannte Š. Janšák ebenfalls am Ende der zwanziger Jahre vor. Von älteren Aufzeichnungen über den Vyšehrad wissen wir durch T. Lehotský, P. Petic, J. Novák und P. Florek. Eine kleinere Ausgrabung führte hier auch Dr. A. Petrovský-Šichman im Jahr 1963 durch.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Štefan Janšák beschrieb die Burganlage im Jahr 1928 folgendermaßen:"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die geographische Gestalt der Oberfläche des Vyšehrad hat große Ähnlichkeit mit einer in den Sand gedrückten menschlichen Fußspur: die SO-Seite bildet ihre Zehen, die NW-Seite ihre Ferse. Dieser natürlichen Gestalt passte sich auch die Führung der Wälle an, durch die eigentlich zwei völlig selbstständige Burgwälle gebildet werden: der auf der unteren Plattform, die 49 m tiefer als der Gipfel des Vyšehrad liegt, und die Höfe II, III, IV, V, die zusammen die zweite Gruppe bilden. Der Burgwall ist im NO und SO von doppelten parallelen Wällen a b c umgeben, 75 m lang, im rechten Winkel gebrochen. Auf den beiden übrigen Seiten ist eine Felsklippe, die auf ihrer ganzen Länge fast waagerecht verläuft. Die Höhe der Wälle und die Tiefe des Grabens zwischen ihnen ist unbedeutend, kaum 50 cm. Der aus den Höfen II bis V zusammengesetzte Burgwall ist auf der Außenseite von Umfassungswällen und von Querwällen umgeben, jedoch in vier Höfe geteilt. Die Höhenverhältnisse dieser Wälle sind interessanter. Der Umfassungswall hat seine niedrigste Stelle auf der Kote 790 und steigt von dort auf beiden Seiten bis zur Kote 829 an. Ähnlich haben auch die Querwälle ein beträchtliches Gefälle, indem sie sich den Unebenheiten der Oberfläche anpassen. Nur die Gipfelwälle haben im Kern der Burganlage eine fast waagerechte Lage. Die relative Höhe der Umfassungswälle auf der Innenseite beträgt 2 bis 2,5 m. Der Boden des Grabens liegt etwa 3 m unter dem Kamm des Walls. Die Wälle, die die Höfe IV, V umschließen, sind 0,5 bis 1 m hoch. (Anm. Orgoň: Die Archäologen erwähnen in den siebziger Jahren den Wall zwischen dem IV. und dem V. Hof nicht mehr) Nach außen hin kann man freilich von einer Höhe nicht sprechen, da der künstlich geschaffene Hang der Wälle mit der angrenzenden natürlichen Bergflanke verschmilzt. Die Länge der Wälle dieses zweiten Burgwalls beträgt: Umfassungswälle 460 m, Querwälle 120 m.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Vyšehrad. Autor der Fotografie: Pavol Remiáš, TASR",
+    "alt": "Vyšehrad. Autor der Fotografie: Pavol Remiáš, TASR"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dr. Marta Remiášová führt in ihrem Artikel die sehr interessante Überlegung an, dass der Name Vyšehrad, seine außerordentlich wichtige geographische und strategische Stellung an der Scheide zweier Landschaften und an einem uralten Weg in das Weichselgebiet vermuten lassen, dass hier das ursprüngliche Stammeszentrum der hiesigen Slawen zu suchen ist. Pavel Dvořák wiederum führt in seinen Stopy dávnej minulosti 4 auf Seite 68 an, dass "
+       },
+       {
+        "type": "text",
+        "text": "„die Poznanovci ihren Hauptsitz in der oberen Neutra hatten, möglicherweise auf dem Vyšehrad“.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung von Dr. Remiášová"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine ordentliche archäologische Ausgrabung auf der Burganlage führte Marta Remiášová in den siebziger Jahren des 20. Jahrhunderts durch. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1970 erfasste man im höchstgelegenen Teil der Burganlage eine mittelalterliche Besiedlung mit einer hölzernen Befestigung, die ein Brand zerstörte. Die jüngste Phase der Besiedlung bestimmen Münzen des 15. Jahrhunderts. Der Brand zerstörte auch einen Ofen, der durch eine konzentrierte Menge an Keramikmaterial und Ofenkacheln belegt ist. Der Schnitt, der den Wall durchschnitt, wies darauf hin, dass der Wall, in dessen tiefster Schicht latènezeitliche Scherben lagen, im Mittelalter umgebaut wurde, was auch die Münzfunde belegten. Der innere Wall des oberen Teils der Burganlage hatte eine Holzkonstruktion, und von der Ost- und der Nordseite befand sich hinter dem Wall auf der Außenseite ein Graben. Durch das Ausheben des Grabens entstand wahrscheinlich der äußere Wall, der nicht deutlich ausgeprägt ist. Die Funde aus diesem Teil stammen überwiegend aus dem 12. bis 15. Jahrhundert; es fand sich hier eine Menge verschiedener Gegenstände aus Eisen: Pferdegeschirre, Türbänder, Schlüssel, Ketten, Stichel, ein Säbelgriff, Ringe, Keile, Messer und eine große Zahl von Nägeln. Aus anderem Material gab es hier Knochenschmuck, tönerne Spinnwirtel und 25 Münzen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Plan der Burganlage von Štefan Janšák aus dem Jahr 1928",
+    "alt": "Plan der Burganlage von Štefan Janšák aus dem Jahr 1928"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Rahmen der Sondagegrabung "
+       },
+       {
+        "type": "text",
+        "text": "fand sich im zweiten und teilweise im dritten Teil der Burganlage slawisches Material",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Es gelang hier, Keramikmaterial und Holzreste vor allem vom Tor und vom Wall zu gewinnen. Das bedeutendste Material war gerade das "
+       },
+       {
+        "type": "text",
+        "text": "aus dem 9. und 10. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", vertreten durch "
+       },
+       {
+        "type": "text",
+        "text": "Sporen, Äxte, einen axtförmigen Eisenbarren und einige Eisengegenstände (Nägel, Messerchen, Teile des Pferdegeschirrs",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "). Auch in diesem Teil der Burganlage ist das 13.–15. Jahrhundert vertreten. Mit der Ausgrabung gelang es, das "
+       },
+       {
+        "type": "text",
+        "text": "Eingangstor",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in den zweiten Teil der Burganlage mit Pfostengruben für die Torpfosten und einen Teil des Weges mit Steinpflaster zu erfassen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An den Stellen der Südseite der Burganlage, an denen die Wälle zusammentreffen und die Möglichkeit eines Zugangs in den slawischen Teil der Burganlage andeuten, wurde eine Befestigung aus der Zeit der latènezeitlichen Besiedlung durch die Púchov-Kultur festgestellt. Zur Zeit des Baus der Befestigung handelte es sich höchstwahrscheinlich um einen Wall, der entlang der Südseite der Burganlage verlief, die relativ schwer zugänglich ist. Der Wall wurde im 9. Jahrhundert unterbrochen und befestigt. Ursprünglich war der Wall aus großen Steinen errichtet, die mit kleinem Steinmaterial und Lehm verfüllt waren. Funde von Pfostengruben und Reste von Balken weisen darauf hin, dass"
+       },
+       {
+        "type": "text",
+        "text": " die Steinmauer eine Holzkonstruktion hatte.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im tiefstgelegenen Teil der Burganlage wurde die älteste Phase der Besiedlung erfasst, die wir durch Funde bronzener Nadeln, eine bronzene Sichel, eine bronzene geflügelte Pfeilspitze und Reste hallstattzeitlicher Keramik belegt haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zusammenfassung der Ausgrabungen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die mehrjährige archäologische Ausgrabung bestätigt uns eindeutig, dass das Leben auf dem Vyšehrad sehr lebhaft pulsierte. "
+       },
+       {
+        "type": "text",
+        "text": "Die Entstehung der Burganlage",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " können wir aufgrund einiger Funde bronzener Gegenstände bis an "
+       },
+       {
+        "type": "text",
+        "text": "das Ende der Bronzezeit und den Beginn der Eisenzeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " setzen. Das bestätigen vor allem bronzene Sicheln, bronzenes Rohmaterial, Nadeln, Ringe und Keramikreste. Das Gebiet der oberen Neutra hatte stets eine günstige Lage und günstige klimatische Bedingungen, und daher ist auch der Vyšehrad eine von vielen Fundstellen, die schon im ersten Jahrtausend v. Chr., um das Jahr 700 v. Chr., besiedelt waren. Die älteste Bevölkerung auf dem Vyšehrad siedelte "
+       },
+       {
+        "type": "text",
+        "text": "im tiefstgelegenen Teil des Areals der Burganlage",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Wesentlich deutlicher war die Anlage in der jüngeren Eisenzeit "
+       },
+       {
+        "type": "text",
+        "text": "(Latène)",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " besiedelt, und den Hauptteil des Materials bildet Keramik in Fragmenten von großen Vorratsgefäßen und von vasenartigen Gefäßen. Von den übrigen Materialien sind es Fragmente von Glasarmringen, Fibeln, Ringe, ein großes Eisenmesser und andere kleine Eisengegenstände des täglichen Bedarfs. Für diese Besiedlungsperiode lässt sich die Fundstelle den übrigen latènezeitlichen Höhensiedlungen der oberen Neutra zurechnen, die ein Zeugnis der Expansion der "
+       },
+       {
+        "type": "text",
+        "text": "keltisch-dakischen Bevölkerung sind.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dass "
+       },
+       {
+        "type": "text",
+        "text": "der Vyšehrad in der Zeit Großmährens ein bedeutendes Zentrum der slawischen Bevölkerung war",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und teilweise auch nach dessen Zerfall, beweisen aussagekräftige datierende Funde aus dieser Zeit. Hinweisen kann man auf "
+       },
+       {
+        "type": "text",
+        "text": "Keramik, eiserne Geräte, kleine Äxte, Messerchen, Eimerbeschläge, Sporen, einen axtförmigen Eisenbarren, eine eiserne Schale ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "und die übrigen Gegenstände. Bei der Ausgrabung wurde auch festgestellt, dass die slawische Bevölkerung die ursprüngliche latènezeitliche Höhensiedlung nach ihren Bedürfnissen umbaute. Auf der Burganlage fanden sich Befunde mit Resten von Feuerstellen und Lehmbewurf sowie eine Menge landwirtschaftlicher und handwerklicher Geräte. Hier lebten und arbeiteten Bauern, Hirten, Schmiede, Weber und andere Handwerker. Waffen sowie Ausrüstung und Bewaffnung von Reitern sind ein Beweis für die Existenz einer Gefolgschaft, die die Bevölkerung schützte, die auf der Burganlage und in den umliegenden slawischen Siedlungen lebte. Die vier aneinander anschließenden Höfe der Burganlage wurden in den einzelnen Perioden, für die wir die Existenz einer Bevölkerung erfasst haben, nicht gleichmäßig genutzt. Weniger deutliche Etappen der Besiedlung haben wir aus dem 10. und 11. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im "
+       },
+       {
+        "type": "text",
+        "text": "12.–14. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " findet der Vyšehrad erneut seine Verwendung, und das gesamte Areal der Burganlage, ihre Befestigung, wurde an der Stelle der vorangehenden Wallbefestigung umgebaut und instand gesetzt. Aus dieser ganzen Zeit stammt eine große Menge an Funden. Es sind Keramik, Eisengegenstände des täglichen Bedarfs, Teile der Reiterausrüstung, handwerkliche Geräte und Erzeugnisse, Bestandteile der Kleidung und landwirtschaftliche Geräte, in nicht geringem Maße sind es Waffen. Alle diese Gegenstände beweisen das aktive Leben der Bevölkerung auf der Burg. Nach der festgestellten Situation nehmen wir an, dass hier eine Burg errichtet wurde, in deren Areal Blockbauten standen. Schon aus dem 13. Jahrhundert kennen wir schriftliche Nachrichten über den Vyšehrad, als die ganze Umgebung — ein Teil des Turz und der Neutraer Seite — eine besondere Verwaltungseinheit bildete, die "
+       },
+       {
+        "type": "text",
+        "text": "das Geschlecht der Diviackovci verwaltete",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Aus dem Jahr 1277 existiert eine Nachricht, dass der Vyšehrad nach dem Tatareneinfall nur noch als ehemalige Burg erwähnt wurde. Ladislaus IV. gibt dem Magister Barleo von Diviaky und seinen Brüdern Bošany im Austausch für Güter im Turz, unter ihnen auch den Vyšehrad, den ihnen noch sein Vorgänger Béla IV. (1235–1270) mit dem Versprechen einer Entschädigung entzogen hatte. Zusammen mit der Herrschaft der Diviackovci auf dem Vyšehrad erlosch in den Jahren 1235 bis 1277 auch sein Ruhm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das fünfzehnte Jahrhundert war politisch unruhig. "
+       },
+       {
+        "type": "text",
+        "text": "Die Hussitenzüge",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " griffen bedeutend auch in das Leben der oberen Neutra ein. Träger der Nachklänge der hussitischen Bewegung in der Slowakei war wegen seiner Revolutionsgesinnung und seines demokratischen Charakters das Heer der Bratríci. Als es wegen seines antifeudalen Charakters für die weltliche und die göttliche Ordnung gefährlich wurde, vernichteten es die königlichen Heere in den Jahren 1458–1467 allmählich. In dieser Zeit flüchtete ein Teil der verfolgten Bratríci auch auf den Vyšehrad, wo er sich für eine Zeit verschanzte. In diese unruhigen Jahre ist das "
+       },
+       {
+        "type": "text",
+        "text": "archäologische Material des 15. Jahrhunderts",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu setzen, das Waffen, verschiedene Eisengegenstände, Ketten, Keile, Beschläge und Geräte, Bestandteile von Pferdegeschirren, Keramik und ein Signalhorn, vor allem aber Münzen aus der zweiten Hälfte des 15. Jahrhunderts umfasst. Bei der Ausgrabung stellten wir fest, dass der Weggang der letzten Bewohner des Vyšehrad nicht freiwillig war, denn gerade die Münzen, die uns diese Zeit belegen, lagen über das gesamte Areal der Burganlage verstreut. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Aus dem Buch: Pavel Dvořák: Odkryté dejiny",
+    "alt": "Aus dem Buch: Pavel Dvořák: Odkryté dejiny"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An dieser Stelle könnten wir unsere Erzählung über den Vyšehrad ohne Bedenken beenden. Damit würden wir die Leser jedoch um außerordentlich interessante Informationen bringen, die Peter Petic in seinem Artikel von 1929 veröffentlichte und die die Geschichte des Vyšehrad so betreffen, wie der Autor sie am Ende der zwanziger Jahre des 20. Jahrhunderts wahrnahm. Zunächst bringe ich einige Zitate aus seinem Artikel, die ohne Zweifel Beachtung verdienen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Bis heute erzählt man unter dem Volk in Pravenec (einem Dörfchen unterhalb des Vyšehrad von der Neutraer Seite), dass „an den Montagen die Burschen aus Pravenec auf den Vyšehrad hinaufzogen, sich Haken machten und läuteten“. Es müssen dort also noch recht lange Türme und Glocken gestanden haben. In Lieština unterhalb des Vyšehrad findet sich bis heute viel „marunka“; nach der Überlieferung des Volkes hatte dort die Vyšehrader Herrschaft ihre Gärten. \"",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Im Stadtarchiv von Nemecké Pravno (Deutsch-Proben) befindet sich eine alte Karte des Vyšehrad aus dem Jahr 1779, die mit einem lateinisch-slowakischen Text versehen ist. Wir finden auf ihr folgende Benennungen: „Rivulus subterraneus — der versickernde Bach von Jasenovo“, „Nasedlovom“, „Nakrížikách“, „Lještina“, „Horné vráta“, „Navá-penici“ usw. Es erhebt sich für uns die Frage, warum diese Namen schon damals slowakisch sind? Wie auch die Benennung „Vyšehrad“ selbst, so bezeugen auch diese slowakischen Namen nur das eine, dass die Burg aus dem IX.–XI. Jahrhundert stammt und dass sie von Slowaken bewohnt war.\" ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein slowakischer Gespan auf dem Vyšehrad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Der Zweck unseres Vyšehrad war ursprünglich ausschließlich nur die Verteidigung und die Sicherheit des gesamten zu ihm gehörenden Gebietes. Hier saß der Burggraf (comes castrensis) bzw. der Gespan, der in friedlicher Zeit der Verwalter der Burg und der zu ihr gehörenden Gemeinden und in stürmischen Zeiten der Befehlshaber der Streitmacht war. Alle Bewohner dieses Gebietes bildeten die Vyšehrader Burggemeinde, und zweifellos schufen sie selbst sich durch freiwilligen Beschluss ihre Burg, denn der Adel war in diesen Gegenden noch unbekannt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Vyšehrader Burggrafen konnte kaum der Anführer von Zvolen (Altsohl) Befehle und Direktiven geben, der in einer Person auch persönlicher Hauptmann und Obergespan von Zvolen war und der ebenfalls unter den Arpaden Oberbefehlshaber mehrerer Komitate und der in ihnen befindlichen Burgen war, denn wozu hätte damals Béla IV. in der Mitte des XIII. Jahrhunderts von den Diviakovci den Vyšehrad verlangt, wenn er schon länger in königlicher Gewalt gewesen wäre, die er jedoch auch nicht aus der Hand gelassen hätte. Hier verlieren sich die Spuren der slawischen Herren des Vyšehrad, dessen sich fremde Eroberer bemächtigen, und diese sind die Diviakovci.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Ausschnitt aus der genannten Karte von 1779 mit Horné vráta und Dolné vráta",
+    "alt": "Ausschnitt aus der genannten Karte von 1779 mit Horné vráta und Dolné vráta"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer den oben angeführten wertvollen Beobachtungen und Überlegungen hat der Autor für uns im Jahr 1929 auch das Bild des Vyšehrad im Bewusstsein des slowakischen Volkes am Beginn des 20. Jahrhunderts festgehalten, und zwar in Form eines Liedes und von Sagen, die sich an diesen großartigen Ort binden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Lied vom Vyšehrad, von dem er schon damals nur 2 Strophen aufzeichnen konnte und das sich nach seiner Meinung noch an die Zeit des Tatareneinfalls in die Slowakei (1241–1242) bindet:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "1. Vyšehrad, Vyšehrad,\nVyšehrader Brücken,\ndort liegen verstreut\nder jungen Burschen Knochen.\n\n2. Der Pravenecer Vyšehrádok grünt,\nauf ihm wächst ein Rosmarin, er wird nicht gepflückt,\nich werde ihn pflücken gehen,\nwenn er welken will.",
+    "author": null,
+    "source": null,
+    "title": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Sagen über den Vyšehrad"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Sage (Vom verzauberten Fräulein von Vyšehrad):",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \"Auf dem Vyšehrad lebte ein Fräulein. Und da sie schön war, hatte sie nicht einen, sondern zwei Bewerber und Liebhaber. Einer grub ihr aus Liebe dort oben einen tiefen Brunnen, kleidete ihn mit gebrannten Ziegeln aus und wartete bei ihm, wann das weiße Fräulein kommen würde, um Wasser zu schöpfen. Sie kam jedoch weder bei Tag noch bei Nacht. Nach langem Warten verlor der Eifersüchtige die Geduld und verwünschte im Zorn den ganzen Vyšehrad, der sogleich versank, aber auch das Fräulein blieb verzaubert.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bewohner von Pravenec gingen in den Wald nach Mistel, Holz und Himbeeren. Die Männer sagten, wenn sie aus dem Wald kamen: „Wir haben die weiße Jungfrau gesehen.“ Die Jungfrau war herrschaftlich in Weiß gekleidet, am Gürtel klirrte ihr ein Bund Schlüssel, die langen schwarzen Haare hatte sie frei über die Schultern herabhängen, und auf dem Kopf trug sie ein weißes Hütchen. Wenn Schnee fiel, stand sie unter einer Tanne, und wenn er aufgehört hatte zu fallen, ging sie darauf umher und ließ die Spuren weißer Pantöffelchen hinter sich.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einmal, als die Bewohner von Pravenec so nach Mistel gingen, sahen sie jene weiße Jungfrau auf der „klomca“ der Mistel sitzen. Der Pravenecer Einwohner „Hrnčiare der Alte“ rief ihr zu: „Anička, was machst du denn dort?“ Er meinte, es sei seine schöne Tochter, aber Anička antwortete freilich nicht. Um zwölf Uhr, wenn geläutet wird, kommt die weiße Frau heraus und läuft mit den Schlüsseln durch den Wald. Wem sie begegnet, dem bietet sie sie an. Dabei sagt sie: „Schlagen Sie mich dreimal mit dem Handrücken mit diesen Schlüsseln.“ Die Leute wollen das jedoch nicht tun, denn sie meinen, damit würde die Frau entzaubert und erlöst, und wem sie die Schlüssel übergäbe, der bliebe verzaubert und müsste mit diesen Schlüsseln ewig umhergehen. Damit erschrecken die Bewohner von Pravenec die Kinder, damit sie sich fürchten, in den Wald zu gehen.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einmal zeigte sie sich auch Hirten und Himbeersammlerinnen. Als sie einen Greis vor sich sah, rief sie ihm zu: „Alter, kommen Sie her, ich gebe Ihnen etwas“, und fügte hinzu: „Hier werden Sie haben, was Sie nur wollen.“ Der Alte aber antwortete, als er bei ihr den Klumpen Schlüssel sah, folgendermaßen: „Ach, ich gehe nicht hin, junge Frau, Sie sind dort wohl verzaubert, und wenn ich hinginge, würde ich Sie befreien und ich würde dort verdammt werden.“ Die Frau überredet den zitternden Greis: „Sie gehen also nicht?“ — „Ich gehe nicht“, antwortete der Alte. Da öffnete sich ein Türchen an der Rückseite der Höhle, die Frau lief hinein, und niemand sah sie mehr, denn da kam ihr Bräutigam, der sie im Augenblick entzauberte und befreite.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Sage (Vom verzauberten Fräulein von Vyšehrad):",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \"Eine andere Sage sagt wiederum, dass die Vyšehrader Frau beständig durch die Wälder geht, gekleidet in ein schönes, bis zum Boden reichendes schwarzes Gewand. Unter diesem Gewand sieht man ihre Hühnerkrallen hervorschauen. Mit ihr geht ein schwarzer Hund, der die Schlüssel im Maul schleppt, aus dem ihm der Schaum quillt, sodass er der leibhaftige Teufel zu sein scheint. Einmal ergriff diese Frau einen Mann und führte ihn zu einem großen Baum, der vom Boden bis zum Wipfel keine Rinde hatte, und es war auch kein Laub an ihm. Sie zeigte ihm diesen Baum mit den Worten: „In diesem Baum ist von unten bis oben lauteres Gold. Dieses Gold wird dein sein, wenn du mich mit jenen Schlüsseln dreimal mit dem Handrücken schlägst. Ja, wenn dir dieses Gold zu wenig wäre, gebe ich dir noch von dem, das im Felsen ist.“ Der Mann erschrak und floh, da er die Teufel in der Nähe ahnte. Deshalb geht die schwarze Frau noch heute durch die Wälder und sucht und wartet, wer sie befreien würde. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Sage (Von den armen Ehegatten und dem Schatz von Vyšehrad): ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\"Es geschah, dass in einem Dörfchen zwei arme Ehegatten lebten. Sie litten große Not und sehnten sich daher nach einem besseren Leben. Da hörten sie von den Schätzen von Vyšehrad, die sich nun im siebten Jahr öffnen sollten. Der Mann machte sich am Karfreitag zum Felsen auf. Damals sollte sich der Felsen für die Schätze öffnen. Er wartete, aber er wartete vergeblich, denn der Felsen öffnete sich nicht. Enttäuscht machte er sich nach Hause, doch in der Hoffnung auf eine glücklichere Zeit machte er sich am Heiligen Abend auf. Als er dort ankam, war der Felsen geöffnet, und in ihm lagen undurchdringliche Haufen von Gold und Silber. Er sprang hinein, nahm und nahm in die Säcke, so viel er nur konnte, ja er wusste nicht einmal, von welchem Haufen er nehmen sollte. Er lief den Schätzen nach bis an das Ende der Höhle, da schloss sich der Felsen, und der gute Kerl blieb darin. Dort wiegten ihn dann verzauberte Menschen ganze sieben Jahre in einer eisernen Wiege, bis sich der Felsen wieder öffnete. Seine Frau wusste nicht, wohin ihr Mann geraten war. Sie ahnte jedoch, dass er im Felsen eingeschlossen war, wartete also geduldig sieben Jahre und nahm dann Säcke und lief zum Vyšehrader Felsen. Tatsächlich öffnete sich der Felsen nach einer Stunde. Sie sprang hinein und scharrte gleich vom Rand her die Schätze in den Sack und trug sie sogleich hinaus. Zwei Säcke Geld scharrte sie sich zusammen und zog schließlich auch den armen Mann aus der eisernen Wiege, der schon ganz von Moos überwachsen war, und sprang mit ihm hinaus. Sie freute sich, denn sie hatte sowohl das Gold als auch den Mann.\"",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Neuer Artikel über die Burganlage: "
+       },
+       {
+        "type": "link",
+        "url": "http://scriptorius.sk/sk/blog/2014/03/08/vysehrad-centralne-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "Jozef Šebest: Vyšehrad: Centrálne hradisko?"
+         }
+        ],
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

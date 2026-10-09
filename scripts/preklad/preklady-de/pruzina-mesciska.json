@@ -1,0 +1,847 @@
+{
+ "slug": "pruzina-mesciska",
+ "data": {
+  "title": "Mesciská bei Pružina – ein 1856 beschriebener und dann vergessener Burgwall",
+  "slug": "pruzina-mesciska-burgwall-riedka",
+  "excerpt": "Über die sogenannte Umwallung von Pružina schrieb bereits 1856 Anton Intibus, einer der ersten slowakischen Archäologen – sein Artikel blieb fast 150 Jahre unbeachtet, und erst Ende der 1990er Jahre wurde die Anlage auf dem Kalksteinsporn über dem Weiler Riedka wiederentdeckt. Die zwei Wallbefestigungen von zusammen etwa 2,6 ha galten lange als bloße Fliehburg. Dann kam ein Hortfund eiserner Gegenstände des 9. Jahrhunderts, den Dr. Karol Pieta als den größten slawischen des Landes bezeichnet.",
+  "metaTitle": "Mesciská bei Pružina – 1856 beschrieben, dann vergessen",
+  "metaDescription": "Die Wälle von Pružina (Mesciská) beschrieb schon 1856 Anton Intibus. Sein Artikel blieb fast 150 Jahre unbeachtet; heute kennt man hier einen Hortfund.",
+  "keyFacts": [
+   {
+    "label": "Gesamtfläche",
+    "value": "etwa 2,6 ha (Mesciská I. – 2,03 ha, Mesciská II. – 0,58 ha)",
+    "icon": "map"
+   },
+   {
+    "label": "Lage",
+    "value": "Felsiger Kalksteinsporn am Zusammenfluss des Mojtínsky- und des Strážovský-Baches über dem Weiler Riedka, Gelände etwa 20–25 m über den Bächen",
+    "icon": "mountain"
+   },
+   {
+    "label": "Zwei selbständige Befestigungen",
+    "value": "Der Burgwall besteht aus zwei Teilen, Mesciská I. und Mesciská II., die eine tiefere Runse voneinander trennt",
+    "icon": "shield"
+   },
+   {
+    "label": "Maße des Walles",
+    "value": "Wall von Mesciská I. 260 m lang, in der Krone 3–4 m breit, 1,5–7 m hoch, Umfang des Burgwalls 611 m",
+    "icon": "building"
+   },
+   {
+    "label": "Archäologische Funde",
+    "value": "Slawische, Púchov- und latènezeitliche Scherben, Spuren von Eisenschlacke beim Osttor und mögliche Reste einer verkohlten Palisade unterhalb des Hanges",
+    "icon": "custom"
+   },
+   {
+    "label": "Großmährischer Hortfund",
+    "value": "Auf dem Burgwall wurde ein Hortfund von mindestens 4 Steigbügeln, 8 Sporen, axtförmigen Eisenbarren, Äxten, Schlüsseln, Trensen und Ackergeräten des 9. Jahrhunderts entdeckt – laut Dr. Karol Pieta der größte slawische Hortfund der Slowakei",
+    "icon": "star"
+   },
+   {
+    "label": "Vergessene Entdeckung",
+    "value": "Der Artikel von Anton Intibus aus dem Jahr 1856 blieb fast 150 Jahre von der Fachwelt unbeachtet",
+    "icon": "book"
+   },
+   {
+    "label": "Örtliche Sagen",
+    "value": "Die benachbarte Pivničenská skala ist in Sagen mit Räuberschätzen und mit einer türkischen Hängebrücke aus Riemen über das überflutete Riedka verbunden",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1856",
+    "title": "Erste schriftliche Erwähnung der Umwallung von Pružina",
+    "description": "Anton Intibus, einer der ersten slowakischen Archäologen, schrieb als Erster über die sogenannte Umwallung von Pružina (Mesciská).",
+    "type": "discovery"
+   },
+   {
+    "year": "Spätlatènezeit",
+    "title": "Besiedlung durch die Púchov-Kultur",
+    "description": "Auf dem Burgwall fanden sich Funde der Púchov-Kultur aus der Spätlatènezeit.",
+    "type": "era"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawische Besiedlung in großmährischer Zeit",
+    "description": "Auf dem Burgwall fanden sich slawische Scherben, die in das 9. Jahrhundert datiert werden, also in die Zeit des Bestehens Großmährens.",
+    "type": "era"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Mögliche Nutzung des Burgwalls in Zeiten militärischer Bedrohung",
+    "description": "Die Nutzung des Burgwalls kann mit den Eroberungszügen der Altungarn in das nördliche Waagtal oder mit Angriffen anderer feindlicher Heere im 9. und 10. Jahrhundert zusammenhängen.",
+    "type": "battle"
+   },
+   {
+    "year": "Ende der 1990er Jahre",
+    "title": "Wiederentdeckung des Burgwalls",
+    "description": "Mitglieder des archäologischen Zirkels MO MS in Považská Bystrica entdeckten unter der Leitung von Š. Meliš die Wallbefestigung in der Gemarkung der Gemeinde Pružina erneut; den Fund überprüften anschließend die Archäologen Dr. Moravčík und Dr. Pieta.",
+    "type": "discovery"
+   },
+   {
+    "year": "14. Juli 1996",
+    "title": "Geländeuntersuchung und Vermessung des Burgwalls Mesciská",
+    "description": "Der archäologische Zirkel MO MS in Považská Bystrica führte Vermessung, Skizze und vorläufige Untersuchung des Burgwalls oberhalb des Weilers Riedka durch; den Bericht verfasste Martin Olšovský am 4. 8. 1996.",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Erscheinen von Po stopách predkov mit dem Forschungsbericht",
+    "description": "Martin Olšovský gab im Selbstverlag die Sammlung von Dokumenten und Fotografien Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek heraus, die den Bericht über die Untersuchung des Burgwalls Mesciská enthält, in einer Auflage von 4 Stück.",
+    "type": "event"
+   },
+   {
+    "year": "Juni 2013",
+    "title": "Aufstellung der Informationstafel",
+    "description": "Mitglieder des Bürgervereins Hradiská stellten vor dem Burgwall eine Informationstafel auf.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6431,
+    "alt": "Wiese unter dem bewaldeten Hang, auf dem der Burgwall liegt"
+   },
+   {
+    "mediaId": 2190,
+    "alt": "Seite der alten Zeitung Svetozor mit einem Artikel über Denkmäler in der Slowakei"
+   },
+   {
+    "mediaId": 2191,
+    "alt": "Farbiger Plan des Burgwalls Mesciská bei Pružina mit eingezeichneten Wällen und Siedlungen"
+   },
+   {
+    "mediaId": 2192,
+    "caption": "Eine großartige künstlerische Visualisierung des Burgwalls, die für unsere Seite unser Mitarbeiter Peter Bros geschaffen hat",
+    "alt": "Eine großartige künstlerische Visualisierung des Burgwalls, die für unsere Seite unser Mitarbeiter Peter Bros geschaffen hat"
+   },
+   {
+    "mediaId": 2193,
+    "caption": "Unsere Informationstafel auf dem Burgwall",
+    "alt": "Unsere Informationstafel auf dem Burgwall"
+   },
+   {
+    "mediaId": 2194,
+    "alt": "Luftbild des schneebedeckten Burgwalls im bewaldeten Tal"
+   },
+   {
+    "mediaId": 2195,
+    "alt": "Luftbild des schneebedeckten Burgwallplateaus, von Wald umgeben"
+   },
+   {
+    "mediaId": 2196,
+    "caption": "Ein erstaunlicher Fund – ein Hortfund eiserner Waffen und anderer Gegenstände aus der Zeit Großmährens, der auf dem Burgwall entdeckt wurde. Die Fotografie schickte uns Dr. Karol Pieta – einer der bedeutendsten Archäologen der Gegenwart. Der Fund ist bisher nicht offiziell publiziert. Wir danken",
+    "alt": "Ein erstaunlicher Fund – ein Hortfund eiserner Waffen und anderer Gegenstände aus der Zeit Großmährens, der auf dem Burgwall entdeckt wurde. Die Fotografie schickte uns Dr. Karol Pieta. Der Fund ist bisher nicht offiziell publiziert"
+   },
+   {
+    "mediaId": 2197,
+    "alt": "Hortfund eiserner Gegenstände in der Vitrine: Sicheln, Äxte, Pfannen und Beschläge"
+   },
+   {
+    "mediaId": 2198,
+    "caption": "Könnte es sich um einen keltischen Opferplatz handeln? Die Archäologen haben es bisher nicht bestätigt…",
+    "alt": "Könnte es sich um einen keltischen Opferplatz handeln? Die Archäologen haben es bisher nicht bestätigt…"
+   },
+   {
+    "mediaId": 2199,
+    "caption": "Den nordöstlichen Teil des Burgwalls schützte ein mächtiger, mehrere Meter hoher Wall",
+    "alt": "Den nordöstlichen Teil des Burgwalls schützte ein mächtiger, mehrere Meter hoher Wall"
+   },
+   {
+    "mediaId": 2200,
+    "caption": "Blick auf den Wall von der Außenseite des Burgwalls (Nordosten)",
+    "alt": "Blick auf den Wall von der Außenseite des Burgwalls (Nordosten)"
+   },
+   {
+    "mediaId": 2201,
+    "alt": "Wall des Burgwalls im frühlingshaften Buchenwald"
+   },
+   {
+    "mediaId": 2202,
+    "caption": "Der Burgwall ist so zugewachsen wie der Bart von Karl Marx",
+    "alt": "Der Burgwall ist so zugewachsen wie der Bart von Karl Marx"
+   },
+   {
+    "mediaId": 2203,
+    "caption": "Noch einmal einige Blicke auf den nordöstlichen Wall",
+    "alt": "Noch einmal einige Blicke auf den nordöstlichen Wall"
+   },
+   {
+    "mediaId": 2204,
+    "alt": "Graben und Wall des Burgwalls im grünen Wald"
+   },
+   {
+    "mediaId": 2205,
+    "caption": "Der Wall im südöstlichen Teil des Burgwalls war kleiner",
+    "alt": "Der Wall im südöstlichen Teil des Burgwalls war kleiner"
+   },
+   {
+    "mediaId": 2206,
+    "alt": "Krone des Walles im jungen Buchenbestand"
+   },
+   {
+    "mediaId": 2207,
+    "caption": "Wieder eine Visitenkarte eines unbekannten Sondengängers",
+    "alt": "Wieder eine Visitenkarte eines unbekannten Sondengängers"
+   },
+   {
+    "mediaId": 2208,
+    "alt": "Wall des Burgwalls am Rand der Wiese im frühlingshaften Wald"
+   },
+   {
+    "mediaId": 2209,
+    "caption": "Eine hölzerne Palisade auf der Krone des Walles (?)",
+    "alt": "Eine hölzerne Palisade auf der Krone des Walles (?)"
+   },
+   {
+    "mediaId": 2210,
+    "caption": "Der Wall im Südosten. Von dieser Seite war der Abhang recht steil, d. h. es war nicht nötig, einen allzu hohen Wall zu errichten",
+    "alt": "Der Wall im Südosten. Von dieser Seite war der Abhang recht steil, d. h. es war nicht nötig, einen allzu hohen Wall zu errichten"
+   },
+   {
+    "mediaId": 2211,
+    "alt": "Eine Gestalt steht auf dem Wall des Burgwalls im frühlingshaften Wald"
+   },
+   {
+    "mediaId": 2212,
+    "caption": "Auf der Krone des Walles",
+    "alt": "Auf der Krone des Walles"
+   },
+   {
+    "mediaId": 2213,
+    "caption": "Der nordöstliche Wall von der Innenseite",
+    "alt": "Der nordöstliche Wall von der Innenseite"
+   },
+   {
+    "mediaId": 2214,
+    "caption": "Der Eingang in den Burgwall",
+    "alt": "Der Eingang in den Burgwall"
+   },
+   {
+    "mediaId": 2215,
+    "alt": "Steiler Wall des Burgwalls mit Baumwurzeln"
+   },
+   {
+    "mediaId": 2216,
+    "alt": "Plateau des Burgwalls mit jungen Buchen im Frühling"
+   },
+   {
+    "mediaId": 2217,
+    "caption": "Blick auf den Burgwall vom Weiler Riedka",
+    "alt": "Blick auf den Burgwall vom Weiler Riedka"
+   },
+   {
+    "mediaId": 2218,
+    "alt": "Wallkörper im frühlingshaften Wald mit herabgefallenen Ästen"
+   },
+   {
+    "mediaId": 2219,
+    "caption": "Die südöstliche Spitze – man sieht, wie die Befestigung umbiegt",
+    "alt": "Die südöstliche Spitze – man sieht, wie die Befestigung umbiegt"
+   },
+   {
+    "mediaId": 2220,
+    "caption": "Die Innenfläche des Burgwalls – eine ideale Ebene",
+    "alt": "Die Innenfläche des Burgwalls – eine ideale Ebene"
+   },
+   {
+    "mediaId": 2221,
+    "alt": "Wall des Burgwalls mit einer Gestalt in roter Jacke als Maßstab"
+   },
+   {
+    "mediaId": 2222,
+    "alt": "Wall des Burgwalls im frühlingshaften Wald mit entblößtem Boden"
+   },
+   {
+    "mediaId": 2223,
+    "alt": "Grasbewachsene Wiese unter dem Burgwall im Frühling"
+   },
+   {
+    "mediaId": 2224,
+    "alt": "Moosbewachsene Steine des Walles im unbelaubten Wald"
+   },
+   {
+    "mediaId": 2225,
+    "alt": "Mit Laub bedeckter Graben des Burgwalls im unbelaubten Wald"
+   },
+   {
+    "mediaId": 2226,
+    "alt": "Plateau des Burgwalls mit trockenem Gras zwischen unbelaubten Bäumen"
+   },
+   {
+    "mediaId": 2227,
+    "alt": "Eine Gruppe von Menschen geht im Winter über das Plateau des Burgwalls"
+   },
+   {
+    "mediaId": 2228,
+    "alt": "Mit Laub bedeckter Wallkörper im unbelaubten Wald"
+   },
+   {
+    "mediaId": 2229,
+    "alt": "Krone des Walles mit einem alten Baum am Rand des Plateaus"
+   },
+   {
+    "mediaId": 2230,
+    "alt": "Graben unter dem Wall im winterlichen Wald"
+   },
+   {
+    "mediaId": 2231,
+    "alt": "Steiler Hang des Burgwalls über der Wiese mit einer Gestalt im Suburbium"
+   },
+   {
+    "mediaId": 2232,
+    "alt": "Wall des Burgwalls an der Grenze von Wiese und Wald"
+   },
+   {
+    "mediaId": 2233,
+    "alt": "Wiese unter dem Burgwall mit Wald im Hintergrund"
+   },
+   {
+    "mediaId": 2234,
+    "alt": "Steiler Grashang des Burgwalls am Waldrand"
+   },
+   {
+    "mediaId": 2235,
+    "alt": "Mit Laub bedeckter Wall des Burgwalls im unbelaubten Wald"
+   },
+   {
+    "mediaId": 2236,
+    "alt": "Erhebung des Burgwalls zwischen Bäumen im Winter"
+   },
+   {
+    "mediaId": 2237,
+    "alt": "Informationstafel auf einem Holzgestell am Weg zum Burgwall"
+   },
+   {
+    "mediaId": 2238,
+    "alt": "Blick vom Burgwall auf die Wiese und die Nadelbäume"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Erster schrieb über die sogenannte Umwallung von Pružina (die Wälle von Pružina) im Jahr 1856 Anton Intibus, einer der ersten slowakischen Archäologen. Über Mesciská schreibt er Folgendes: „… "
+       },
+       {
+        "type": "text",
+        "text": "hinter dem Dorfe Pružiná erheben sich an der Grenzscheide zwischen dem Čičmaner und dem Trsťaner Bezirke, oberhalb Chmelisko, einer aus einigen Hütten bestehenden Ansiedlung, bei dem genannten Mlýnisko die urgeschichtlichen Siedlungen, Městisko genannt.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pružina - Mesciská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser Artikel blieb jedoch fast 150 Jahre von der Fachwelt unbeachtet, und seine Entdeckung geriet buchstäblich in Vergessenheit. Erst Ende der 1990er Jahre wurde diese Wallbefestigung in der Gemarkung der Gemeinde Pružina bei einer Begehung durch Mitglieder des archäologischen Zirkels MO MS in Považská Bystrica unter der Leitung von Š. Meliš wieder entdeckt. Den Fund überprüften anschließend die Archäologen Dr. Moravčík und Dr. Pieta durch eine Geländebesichtigung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es handelt sich um die Befestigung eines felsigen Kalksteinsporns am Zusammenfluss des Mojtínsky- und des Strážovský-Baches, auf dem der Einzelhof Riedka liegt. Sie hat die Gestalt von zwei geschlossenen Wallbefestigungen, die durch eine tiefere Runse voneinander getrennt sind. Das Gelände liegt gegenüber dem Niveau der Bäche um etwa 20–25 Meter höher. Der Innenraum ist zu einem kleinen Teil von Wald, größtenteils von Wiesen bedeckt. Die Burgwallanlage nimmt nach der Vermessung der Entdecker eine Fläche von etwa 2,6 ha ein (2,03 + 0,58 ha). Markante und gut erhaltene Wallschüttungen liegen an den Rändern des Plateaus über den steilen Hängen. Monumentale Ausmaße hat der Südwall der größeren Befestigung. Von den vier heutigen Durchlässen scheint der westliche Zugang das ursprüngliche Tor zu sein, wo die Wallschüttung leicht verstärkt ist und teilweise nach außen vortritt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall fanden sich mehrere slawische Scherben, die in das 9. Jahrhundert datiert werden, also in die Zeit des Bestehens Großmährens. Weitere gehörten der Púchov-Kultur der Spätlatènezeit an. Darüber hinaus wurden Produktionsbefunde festgestellt, die durch Funde von Eisenschlacke am Ostwall unweit des Osttores der Befestigung belegt sind. Mächtige Wälle umschließen die größere der beiden hiesigen Befestigungen mit einer Gesamtfläche von etwa 2,03 ha. Dr. Moravčík führte an, dass es auch nach mehrfachen Sondagen auf der gesamten Fläche der Befestigung zur Zeit der Sondagegrabung nicht gelang, eine Kulturschicht nachzuweisen. Deshalb wird der Burgwall im derzeitigen Stand der Forschung eher für eine Fliehburg gehalten, ohne zusammenhängende und vor allem ohne längere Besiedlung. Die slawischen Vorfahren der heutigen Einwohner von Pružina errichteten den Burgwall (bzw. erneuerten ihn im Frühmittelalter) also offenbar deshalb, um in Zeiten der Gefahr einen Zufluchtsort vor dem Feind zu haben. Die Nutzung des Burgwalls kann mit den Eroberungszügen der Altungarn in das nördliche Waagtal oder mit Angriffen anderer feindlicher Heere im 9. und 10. Jahrhundert zusammenhängen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pružina - Mesciská",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Umgebung des Burgwalls liegen mehrere bedeutende archäologische Fundstellen. Über dem Tal erhebt sich das Massiv des Berges Stráža (Gemarkung Tŕstie) mit einer befestigten Höhensiedlung der Púchov-Kultur. Die Fortifikation ist jedoch eher mit der Konzentration der slawischen Besiedlung (Beluša-Pechová, Beluša-Pod Malenicou) und mit den nahe gelegenen Hügelgräberfeldern in den Gemarkungen der Gemeinden Beluša, Visolaje, Sverepec und Dolný Lieskov in Verbindung zu bringen. Aus dem Bereich des Burgwalls soll ein bedeutender Hortfund von Eisengegenständen aus großmährischer Zeit stammen, doch ist es mir bisher nicht gelungen, dazu Fotografien vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften in Nitra (Neutra) zu bekommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit freundlicher Erlaubnis der Herren Martin Olšovský, Štefan Meliš und Jozef Moravčík – Mitglieder des ehemaligen archäologischen Zirkels in Považská Bystrica – bringen wir Ihnen deren Bericht über die Untersuchung des Burgwalls aus dem Jahr 1996. Es handelt sich um einen amateurhaften, nicht um einen offiziellen Forschungsbericht, doch die Qualität seiner Bearbeitung ist auf hohem Niveau. Der Bericht erschien in einer außergewöhnlichen Sammlung von Dokumenten und Fotografien mit dem Titel Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek, die Herr Martin Olšovský im Jahr 2008 im Selbstverlag in einer Auflage von 4 Stück herausgab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„BURGWALL MESCISKÁ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Forschungsbericht des archäolog. Zirkels MOMS in Považská Bystrica ) ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Datum: 14. Juli 1996 Ziel: - Vermessung, Skizze und vorläufige Untersuchung des Burgwalls oberhalb des Weilers Riedka in der Gemarkung der Gemeinde Pružina. - Ermittlung der verfügbaren Angaben zur Fundstelle, Sammlung von Angaben über bemerkenswerte Funde, Fundstellen und Sagen aus der Umgebung ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Untersuchung erfolgte auf Anregung von Herrn Ľudovít Berhan aus Považská Bystrica",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Teilnehmer: Štefan Meliš, Ing. Vojtech Miko, Vincent Krivý, Martin Olšovský.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine großartige künstlerische Visualisierung des Burgwalls, die für unsere Seite unser Mitarbeiter Peter Bros geschaffen hat",
+    "alt": "Eine großartige künstlerische Visualisierung des Burgwalls, die für unsere Seite unser Mitarbeiter Peter Bros geschaffen hat",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Festgestellte Tatsachen:",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "I. Burgwall M E S C I S K Á",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall liegt auf einem Spornausläufer des Berges Svrčinovec über dem Zusammenfluss des Mojtínsky- und des Strážovský-Baches, unmittelbar über dem Weiler Riedka (Ritka) im Katastergebiet der Gemeinde Pružina, Bezirk Považská Bystrica. Den Namen der Fundstelle – Mesciská - können die Grundstückseigentümer im Areal nicht erklären (Frau Alžbeta Kozáková, 88 J., und ihr Sohn Alojz Kozák, 42 J.). Der Name ist wahrscheinlich von dem Wort „mesto“ (Stadt) abgeleitet - mundartlich „dve veľké mestá“ (zwei große Städte) = mesciská, in unserem Fall zwei Siedlungen, zwei Burgwälle nebeneinander. Der Burgwall besteht nämlich aus zwei relativ selbständigen Einheiten:",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mesciská I.: ",
+        "bold": true,
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der größere der beiden Burgwälle auf der NO-Seite der leicht nach NW abfallenden Terrasse hat einen äußeren Umfang von 611 m und eine Fläche von etwa 2,03 ha. Die Befestigung bildet auf der NW-, SW- und SO-Seite ein mächtiger durchlaufender Wall von 260 m Länge, in der Krone 3–4 m breit und 1,5–7 m hoch (1). Ein niedrigerer oberirdischer Wall von etwa 20 m Länge befindet sich auch im N-Ausläufer des Burgwalls (2). An der SO-Außenseite des Walles liegt ein flacher Graben (0,8 -1 m) von 2,5–3 m Breite und 90 m Länge (3). Ein kleinerer Graben begleitet den Wall auf etwa 30 m Länge auch von der Innenseite im W-Bogen der Befestigung (4). Den restlichen Umfang des Burgwalls von etwa 330 m Länge bildet die Kante des Plateaus mit steilen felsigen Hängen. Dieser natürliche Wall ist an mehreren Stellen auf der NW- und NO-Seite durch steinerne Stützmäuerchen verstärkt (5,6,7). Die Befestigung ist an 4 Stellen unterbrochen (wahrscheinlich Eingangstore), wo bis heute gut erkennbare Wege einmünden (8,9,10,11). Im jetzt bewaldeten SO-Teil des Burgwalls liegen drei stufenförmige Terrassen, wahrscheinlich die Hauptburg (12). Am SW-Bogen des Walles befindet sich eine bemerkenswerte Stelle: - in einen Felsen von etwa 3x2x0,7 m Größe sind längliche Öffnungen von etwa 8x20 cm sowie größere rechtwinklige Öffnungen von rechteckiger Form und etwa 15x60 cm Größe eingemeißelt. Die Lage dieser Stelle im Areal und die Bearbeitung des natürlichen Felsgebildes könnten auf einen Kultplatz - einen Opferplatz? - hinweisen (13). Im mittleren Teil des Burgwalls befinden sich zwei größere Haufen unbearbeiteter Steine örtlicher Herkunft (14,15). Nach Angaben der Gewährsleute (der Grundstückseigentümer) handelt es sich um Steine, die von den bewirtschafteten Grundstücken zusammengetragen wurden. Nach der Lage der Steinriegel auf der Fläche des Burgwalls lässt sich vermuten, dass sich unter ihnen die Fundamente von Burg- oder Sakralbauten befinden. Der größte Teil der Burgwallfläche (außer dem bewaldeten SO-Teil) ist von hohem Gras überwachsen, was die Sondage erschwert. Auch aus diesem Grund sind die unmittelbaren Funde bisher spärlich: Š. Meliš fand am steilen NO-Hang unmittelbar an der Kante der Befestigung eine untypische Scherbe der Púchov-Keramik (16), an der Oberfläche eine untypische latènezeitliche Graphitscherbe (17), eine Randscherbe eines slawischen Gefäßes - 9. Jh. (18), eine typische slawische Scherbe mit feiner Rille und Wellenband (19) und eine untypische slawische Scherbe (20). Die Scherben fanden sich zusammen mit Lehmbewurf und durchglühten Steinen (?) seicht unter der Oberfläche in der Humusschicht. Ein Gewährsmann gab an, dass unterhalb des NO-Hanges im Tal beim Ausheben eines Grabens für die Wasserleitung in etwa 2 m Tiefe dicke verkohlte Balken gefunden wurden, die aus dem schlammigen Untergrund herausragten - konservierte Überreste einer Palisade? (21). Bei der Bewirtschaftung der Grundstücke im Areal des Burgwalls habe man angeblich ein ganzes Keramikgefäß gefunden, man kann dazu jedoch keine Einzelheiten und keine Fundumstände angeben. Die Fundstelle wird von den Gewährsleuten mit den Türken in Verbindung gebracht (jedoch nicht im Zusammenhang mit dem Burgwall, den sie überhaupt nicht erwähnen, sondern mit angeblich verborgenen Schätzen - wohl in der Lage 13).",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere Informationstafel auf dem Burgwall",
+    "alt": "Unsere Informationstafel auf dem Burgwall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mesciská II.: ",
+        "bold": true,
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser Teil des Areals ist deutlich kleiner: -Umfang 305 m, Fläche etwa 0,58 ha. Er liegt im SW-Ausläufer der Terrasse. Die Teilung des Burgwalls in zwei Teile verursachte wahrscheinlich die Geländekonfiguration: -die anprallenden reißenden Wasser vom N-Hang des Svrčinovec zerstörten offenbar den Wall in jenem Abschnitt, wo sich jetzt der Einzelhof Berhanovci befindet (22). Die ebene obere Fläche des Burgwalls wurde künstlich angelegt. Von W und NW schützen sie steile felsige Hänge, die NO-Seite war erdig, deshalb ist sie heute zu einem sanften Hang verflacht (23). Auf der SO-Seite, zum Berg hin, schützt das Plateau ein markanter Wall (Breite 3–4 m, Höhe 1–1,5), 70 m lang (24), auf der W-Seite mit einem Vorsprung abgeschlossen - Turm, Tor? (25). Hinter ihm tritt aus der Ecke des Burgwalls deutlich ein Weg heraus (26). Ein ähnlicher Vorsprung befindet sich auch in der gegenüberliegenden Ecke der Befestigung über der Runse, die die Burgwälle trennt (27). Der Wall ist auf der O-Seite durch die Rückwand eines Wirtschaftsgebäudes senkrecht abgeschnitten. Die gesamte Fläche des Burgwalls ist von Grasbewuchs bedeckt. Funde sind bisher nicht bekannt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schlussfolgerung: Aus der günstigen Lage, der imposanten Fläche (zusammen 2,61 ha) und der mächtigen Befestigung lässt sich schließen, dass es sich um einen der bedeutendsten Burgwälle der NW-Slowakei handelt. Die spärlichen Funde erlauben bisher keine genauere Bestimmung der zeitlichen Spanne der Besiedlung, man kann jedoch eine latènezeitliche, eine der Púchov-Kultur und eine slawische annehmen, und auch eine Besiedlung der Burgwälle im Mittelalter ist nicht auszuschließen - ja der Name Mesciská legt das geradezu nahe. Andere Fundstellen im Weiler Riedka:",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pružina - Mesciská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Bereich zwischen der Hütte der Makyta Púchov und dem kleinen Wasserwerk unterhalb des Waldes, etwa 100 m südlich der Hütte, fand man beim Ausheben eines Wasserleitungsgrabens angeblich vor etwa 30 Jahren menschliche Schädel und bei ihnen ganze kleine Gefäße, feiner Machart, glatt. Menschliche Schädel fanden sich auch beim Ausheben der Fundamente des Forsthauses etwa 120 m NW von der Hütte und 20 m vom Forsthaus in Richtung Chmelisko.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den Gewährsleuten überlieferte Sagen:",
+        "bold": true,
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pivničenská skala (Räuberfelsen).",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein etwa 15 m hoher Felsen gegenüber dem Weiler Riedka, der Abschluss des Massivs der Stráža. Angeblich verbirgt er geheimnisvolle Schätze von Räubern, in einer tiefen Grube - einem Keller - sollen sich Dämonen verbergen, böse, den Menschen schädliche Kräfte. Eine kurze Begehung zeigte, dass die Sagen eine vorbeugend-erzieherische Bedeutung hatten: -damit die Kinder nicht auf die gefährlichen steilen Felsen kletterten, die von der Stráža aus über einen Pfad leicht zugänglich sind.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere mit der Pivničenská skala verbundene Sage erzählt, dass Riedka in alten Zeiten von den Wassern eines natürlichen Sees überflutet war, der durch die Versperrung der Engstelle in der Nähe des Steinbruchs zwischen Riedka und Tŕstie entstand. Die Türken hätten vom Burgwall auf den Felsen der Pivničenská skala eine Hängebrücke aus Riemen errichtet, über die sie das Wasserhindernis überwanden.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Považská Bystrica, 4.8.1996",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aufgezeichnet: Martin Olšovský Leiter des Zirkels: Štefan Meliš“",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pružina - Mesciská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und zum Schluss noch eine aktuelle Information. Auf dem Burgwall wurde ein Hortfund entdeckt – d. h. ein Massenfund einer Menge großartiger Eisengegenstände, die sich grob in das 9. Jahrhundert datieren lassen – d. h. in die Zeit des Bestehens des Großmährischen Reiches, gegebenenfalls noch in die Zeit des Fürstentums Neutra. Der Fund umfasst mindestens 4 sehr gut erhaltene Steigbügel, 8 Sporen, eine große Menge großmährischer Zahlungsmittel – axtförmige Eisenbarren –, Äxte, Schlüssel, Trensen, landwirtschaftliche Geräte und eine Menge weiterer Gegenstände. Der Fund wurde bisher nicht offiziell publiziert, wobei es sich nach der Äußerung von Dr. Karol Pieta für unsere Seite um den größten slawischen Hortfund im Gebiet der heutigen Slowakei handelt. Dieser Fund wird das bisherige Verständnis des Burgwalls von Pružina als einer nur wenig bedeutenden Fliehburg offenbar revidieren, und man wird wohl über seine größere Bedeutung in großmährischer Zeit nachdenken.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gleichzeitig möchte ich die Einwohner von Pružina bitten, sich bei mir per E-Mail zu melden, falls sie auf dem Burgwall in der Vergangenheit einen interessanten Gegenstand gefunden haben.\n \n Im Juni 2013 haben die Mitglieder des Bürgervereins Hradiská vor dem Burgwall diese großartige Informationstafel aufgestellt: "
+       },
+       {
+        "type": "link",
+        "url": "/blog/informacna-tabula-pruzina",
+        "children": [
+         {
+          "type": "text",
+          "text": "/blog/informacna-tabula-pruzina"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

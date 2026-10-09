@@ -1,0 +1,470 @@
+{
+ "slug": "detva-kalamarka",
+ "data": {
+  "title": "Detva – Kalamárka, der einzige frühmittelalterliche Burgwall des Beckens von Detva",
+  "slug": "detva-kalamarka-wachburgwall-ueber-detva",
+  "excerpt": "Die Höhenlage Kalamárka etwa 5 km nördlich von Detva, im Detvaer Vorgebirge der Poľana, untersuchte Peter Šalkovský. Es ist die einzige bisher bekannte frühmittelalterliche Fundstelle im Becken von Detva – ein kleiner Burgwall, der den Gebirgsübergang aus dem Eipeltal in das Becken von Zvolen bewachte. Besiedelt war der säulenartige Andesitfelsen aber schon seit der Spätbronzezeit; sein frühmittelalterlicher Wall wurde auf den Resten der urgeschichtlichen Befestigung errichtet.",
+  "metaTitle": "Detva – Kalamárka, Burgwall im Vorgebirge der Poľana",
+  "metaDescription": "Die Kalamárka über Detva ist die einzige bekannte frühmittelalterliche Fundstelle des Beckens von Detva. Untersucht hat die Höhenlage Peter Šalkovský.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "säulenartiger Andesitausläufer, 803–816 m ü. M., ca. 5 km nördlich von Detva",
+    "icon": "mountain"
+   },
+   {
+    "label": "Gipfelplateau",
+    "value": "ca. 0,9 ha, von drei Seiten (ca. 88 % des Umfangs) durch 8–25 m hohe Felswände geschützt",
+    "icon": "map"
+   },
+   {
+    "label": "Analysiertes Keramikmaterial",
+    "value": "2040 Keramikscherben",
+    "icon": "scroll"
+   },
+   {
+    "label": "Bedeutendster Fund",
+    "value": "ein eisernes zweischneidiges Schwert (SA 1975)",
+    "icon": "sword"
+   },
+   {
+    "label": "Gesamtbreite des Walls",
+    "value": "440–450 cm im oberen Teil, Länge etwa 50 m",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ausgang der Bronzezeit",
+    "title": "Älteste Befestigung",
+    "description": "Wie die archäologische Ausgrabung zeigte, stammt die älteste Befestigung auf der Kalamárka erst aus dem Ausgang der Bronzezeit; erstmals besiedelt wurde sie von der Lausitzer und der Kyjatice-Kultur.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Drittel bis 1. Hälfte des 9. Jahrhunderts",
+    "title": "Funde des Blatnica-Mikulčice-Horizonts",
+    "description": "Die Funde einer zungenförmigen Gürtelriemenzunge und eines Riemendurchzugs, die sich zum Blatnica-Mikulčice-Horizont bekennen, weisen auf die Anwesenheit einer sozial privilegierten Schicht hin; die Ausgrabung stellte jedoch keine Spuren einer Befestigung aus dieser Zeit fest.",
+    "type": "discovery"
+   },
+   {
+    "year": "Ende des 9. bis 10. Jahrhunderts",
+    "title": "Errichtung des frühmittelalterlichen Walls",
+    "description": "Durch Keramikfunde in der Füllung und in der Unterlageschicht des Walls lässt sich seine Errichtung in die spätgroßmährische bis nachgroßmährische Zeit datieren.",
+    "type": "construction"
+   },
+   {
+    "year": "ab dem Beginn des 9. Jahrhunderts",
+    "title": "Wachfunktion des Burgwalls",
+    "description": "Die Fundstelle lässt sich als kleiner Burgwall in Höhenlage interpretieren, der den Gebirgsübergang aus dem Eipeltal durch das Tal von Kriváň in das Becken von Zvolen bewachte und bereits ab dem Beginn des 9. Jahrhunderts bewohnt war.",
+    "type": "era"
+   },
+   {
+    "year": "10. bis 1. Hälfte des 11. Jahrhunderts",
+    "title": "Zeit der altungarischen Bedrohung und des Fürstentums der Weißkroaten",
+    "description": "Der Burgwall erfüllte seine Wachfunktion sicher in der Zeit der altungarischen Bedrohung, in der Zeit des sogenannten Fürstentums der Weißkroaten und vielleicht auch später in den Zeiten der böhmischen und polnischen Eingriffe.",
+    "type": "era"
+   },
+   {
+    "year": "1018",
+    "title": "Polnisch-ungarischer Ausgleich",
+    "description": "Aus den kargen schriftlichen Quellen zum 10. und 11. Jahrhundert lässt sich herauslesen, dass die mittel- und nordslowakischen Regionen erst nach dem sogenannten polnisch-ungarischen Ausgleich von den Arpaden besetzt und dem Königreich Ungarn angeschlossen wurden.",
+    "type": "event"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Ende der strategischen Bedeutung des Burgwalls",
+    "description": "Nach der Stabilisierung der staatsbildenden Situation im Karpatenbecken verlor der Burgwall in Detva seine strategische Bedeutung und war nicht mehr besiedelt.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6424,
+    "alt": "Felsen im blattlosen Wald im abendlichen Licht"
+   },
+   {
+    "mediaId": 3312,
+    "alt": "Zwei Schwarzweißaufnahmen des freigelegten frühmittelalterlichen Walls und der Mauer im Schnitt"
+   },
+   {
+    "mediaId": 3313,
+    "alt": "Höhenlinienplan des Burgwalls Detva-Kalamárka mit Maßstab"
+   },
+   {
+    "mediaId": 3314,
+    "alt": "Zeichnerische Rekonstruktion des Walls des frühmittelalterlichen Burgwalls auf der Kalamárka"
+   },
+   {
+    "mediaId": 3315,
+    "alt": "Tafel mit Funden: Bronzeanhänger und Schläfenring, Fragmente gläserner Armringe, Nadel, Gombíks und Axt"
+   },
+   {
+    "mediaId": 3316,
+    "caption": "Schwert aus Detva, wohl aus dem Burgwall Kalamárka. (SA 1975)",
+    "alt": "Schwert aus Detva, wohl aus dem Burgwall Kalamárka. (SA 1975)"
+   },
+   {
+    "mediaId": 3317,
+    "alt": "Plan des Burgwalls mit eingezeichnetem Verlauf des Walls und Profil mit Rekonstruktion der Befestigung"
+   },
+   {
+    "mediaId": 3318,
+    "caption": "Blick auf die Kalamárka von Südosten",
+    "alt": "Blick auf die Kalamárka von Südosten"
+   },
+   {
+    "mediaId": 3319,
+    "caption": "Der Zugang ist nur von der südöstlichen Seite möglich, so war es auch im 9.–10. Jahrhundert",
+    "alt": "Der Zugang ist nur von der südöstlichen Seite möglich, so war es auch im 9.–10. Jahrhundert"
+   },
+   {
+    "mediaId": 3320,
+    "alt": "Informationstafel über die archäologische Fundstelle Kalamárka mit Zeichnungen der Funde"
+   },
+   {
+    "mediaId": 3321,
+    "caption": "Auf der einzigen zugänglichen Seite errichteten die Kelten und danach die Slawen einen mächtigen Wall, dessen Reste auch heute sichtbar sind",
+    "alt": "Auf der einzigen zugänglichen Seite errichteten die Kelten und danach die Slawen einen mächtigen Wall, dessen Reste auch heute sichtbar sind"
+   },
+   {
+    "mediaId": 3322,
+    "alt": "Buchenwald auf der Kuppe des Burgwalls, bedeckt mit gefallenem Laub"
+   },
+   {
+    "mediaId": 3323,
+    "alt": "Gerahmtes Plakat mit Zeichnungen von Keramik, Werkzeugen und Schmuck aus der Fundstelle"
+   },
+   {
+    "mediaId": 3324,
+    "caption": "Slawischer Verteidiger der Kalamárka – Starý Detvan",
+    "alt": "Slawischer Verteidiger der Kalamárka – Starý Detvan"
+   },
+   {
+    "mediaId": 3325,
+    "caption": "Blick vom Gipfel des Burgwalls",
+    "alt": "Blick vom Gipfel des Burgwalls"
+   },
+   {
+    "mediaId": 3326,
+    "alt": "Moosbewachsener Felsen zwischen Bäumen"
+   },
+   {
+    "mediaId": 3327,
+    "caption": "Im linken Teil ist der Wall sichtbar",
+    "alt": "Im linken Teil ist der Wall sichtbar"
+   },
+   {
+    "mediaId": 3328,
+    "caption": "Gipfelplateau des Burgwalls",
+    "alt": "Gipfelplateau des Burgwalls"
+   },
+   {
+    "mediaId": 3329,
+    "caption": "Die Felsen der Kalamárka",
+    "alt": "Die Felsen der Kalamárka"
+   },
+   {
+    "mediaId": 3330,
+    "caption": "Die Zisterne sicherte den Verteidigern im Fall einer Belagerung einen ausreichenden Wasservorrat",
+    "alt": "Die Zisterne sicherte den Verteidigern im Fall einer Belagerung einen ausreichenden Wasservorrat"
+   },
+   {
+    "mediaId": 3331,
+    "alt": "Wasserpfütze in einer Vertiefung auf der Kuppe des Burgwalls im herbstlichen Wald"
+   },
+   {
+    "mediaId": 3332,
+    "caption": "Bei einem etwaigen Kampf um den Burgwall würde ich sicher lieber an dieser Stelle stehen als unten",
+    "alt": "Bei einem etwaigen Kampf um den Burgwall würde ich sicher lieber an dieser Stelle stehen als unten"
+   },
+   {
+    "mediaId": 3333,
+    "caption": "Reste der Palisadenbefestigung … Verzeihung, Reste des Geländers für Touristen",
+    "alt": "Reste der Palisadenbefestigung … Verzeihung, Reste des Geländers für Touristen"
+   },
+   {
+    "mediaId": 3334,
+    "alt": "Informationstafel zwischen blattlosen Bäumen am Rand des Plateaus"
+   },
+   {
+    "mediaId": 3335,
+    "caption": "Steine der Steinfront des Walls",
+    "alt": "Steine der Steinfront des Walls"
+   },
+   {
+    "mediaId": 3336,
+    "caption": "Majestätische Felsen",
+    "alt": "Majestätische Felsen"
+   },
+   {
+    "mediaId": 3337,
+    "caption": "Hohe Felsen schützten das Plateau des Burgwalls von drei Seiten",
+    "alt": "Hohe Felsen schützten das Plateau des Burgwalls von drei Seiten"
+   },
+   {
+    "mediaId": 3338,
+    "alt": "Felsspalte mit Moos und geschichteten Platten"
+   },
+   {
+    "mediaId": 3339,
+    "alt": "Senkrechte Felswand unterhalb des Burgwalls im Frühlingswald"
+   },
+   {
+    "mediaId": 3340,
+    "caption": "Abend auf der Kalamárka …",
+    "alt": "Abend auf der Kalamárka …"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Untersuchung der Höhenlage Kalamárka etwa 5 km nördlich von Detva, im Detvaer Vorgebirge der Poľana, führte Peter Šalkovský durch. Es handelt sich um die einzige bisher bekannte frühmittelalterliche Fundstelle im Becken von Detva (östlich von Zvolen [Altsohl]), die in der Vergangenheit mehrfach im Mittelpunkt des Interesses von Amateur-„Forschern“ stand, wodurch ihr Aussagewert fortwährend gemindert wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Šalkovský führt an, dass die Lage von einem säulenartigen Andesitausläufer (803–816 m ü. M.) mit einem Gipfelplateau (ca. 0,9 ha) gebildet wird, das von drei Seiten (ca. 88 % des Umfangs der Fundstelle) durch 8–25 m hohe senkrechte Felswände geschützt ist. Nur von Osten, wo es hangartig in einen flachen Bergsattel übergeht, war es nötig, einen etwa 50 m langen Wall oberhalb der natürlichen Geländekante zu errichten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Burgwall Kalamárka",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kalamárka, manchmal auch unter dem Namen Chrapková oder Hrabková, ist eine der am längsten bekannten archäologischen Fundstellen der Mittelslowakei, Interesse an ihr bestand schon im 19. Jahrhundert. Die neuzeitliche Forschung bestätigte eine mehrfache Besiedlung der Fundstelle von der Spätbronzezeit über die Hallstattzeit, die Latènezeit, die römische Kaiserzeit und die Völkerwanderungszeit bis zum Frühmittelalter. Ganze 91 % der Funde stammen aus dem Innenareal, davon die meisten aus dem Streifen hinter dem Wall (56 %) und aus dem zentralen Teil der Hauptburg (27 %), wo auch der einzige Siedlungsbefund freigelegt wurde – ein eingetiefter Bau auf einem Trockenmauerunterbau (5,7 × 3,2 m). Am wenigsten Funde (8 %) stammen aus dem südwestlichen Ausläufer der Kalamárka. Nur 9 % der Funde aus dem flachen Sattel unterhalb des Burgwalls und keine Funde aus den Sondagen westlich des Burgwalls zeugen von einem minimalen Interesse, die Flächen außerhalb des geschützten Areals für Siedlungszwecke zu nutzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan des Burgwalls Kalamárka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die strategisch günstig gelegene Kalamárka lockte den Menschen schon in der Urgeschichte. Allmählich wurde sie von mehreren Kulturen besiedelt, erstmals bereits in der Spätbronzezeit von der Lausitzer und der Kyjatice-Kultur. Wie die archäologische Ausgrabung zeigte, stammt die älteste Befestigung erst aus dem Ausgang der Bronzezeit. Besiedelt wurde sie auch von den Kelten, und später nutzten sie auch die germanischen Quaden in jenen Zeiten, als der römische Kaiser Marcus Aurelius im Gebiet der heutigen Slowakei gegen sie kämpfte. Zum Gegenstand der Aufmerksamkeit der Slawen wurde sie bereits in der Zeit des Untergangs des Awarenkhaganats und der Entstehung des Fürstentums Neutra, was neben der Keramik auch die Funde einer zungenförmigen Gürtelriemenzunge und eines Riemendurchzugs belegen, die sich zum Blatnica-Mikulčice-Horizont bekennen und mehrere Analogien aus dem Umfeld des 1. Drittels bis zur 1. Hälfte des 9. Jahrhunderts aus der Südwestslowakei und aus Mähren haben. Obwohl die Ausgrabung keine Spuren einer Befestigung aus dieser Zeit feststellte, weisen die genannten Funde des Blatnica-Mikulčice-Typs auf die Anwesenheit einer sozial privilegierten Schicht hin. Der Schwerpunkt der Besiedlung und die belegte Befestigungstätigkeit gehören in die spätgroßmährische bis nachgroßmährische Zeit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der frühmittelalterliche Wall wurde auf markanten Resten einer urgeschichtlichen bzw. protohistorischen Befestigung errichtet, deren Oberfläche offenbar teilweise bearbeitet und eingeebnet worden war. Die Gesamtbreite des Walls betrug im oberen Teil 440–450 cm. Das Innere des Walls war mit Erde gefüllt, die meist sekundär stark durchbrannt war, und durch eine nicht näher bestimmte, vielleicht querliegende Rostkonstruktion verstärkt, auf die sporadische Eichenholzkohlen und der Rest eines Balkens hinweisen. Die Gesamtlänge des Walls betrug etwa 50 Meter; in seinem südlichen, sehr schlecht erhaltenen Teil lässt sich eine Unterbrechung durch einen Eingang vermuten. Wälle ähnlicher, sogenannter Schalenkonstruktion stellen den Haupttyp der großmährischen Befestigungen dar, der auf vielen Burgwällen vom Ende des 8. bis zum 10. Jahrhundert im ganzen mittleren Donauraum und auch in Böhmen angewandt wurde. Ein atypisches Element in der Detvaer Konstruktion ist die Verwendung einer inneren Steinmauer, die in Andeutungen nur vereinzelt vorkommt (Majcichov, Spišské Tomášovce, Strachotín) und meist durch eine Holzwand ersetzt war. Der genannte Mauertyp, ursprünglich als přemyslidisch bezeichnet, war mit verschiedenen Abweichungen im ganzen westslawischen Gebiet verbreitet. Durch Keramikfunde in der Füllung und in der Unterlageschicht des Walls lässt sich seine Errichtung in die spätgroßmährische bis nachgroßmährische Zeit datieren (Ende des 9. bis 10. Jahrhunderts).\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Wall des Burgwalls Kalamárka",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Archäologische Funde aus dem Burgwall Kalamárka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer Analyse wurden 2040 Keramikscherben unterzogen. Die archaischsten Keramiktypen haben ihre Vorbilder in Siedlungen und Burgwällen (8. Jahrhundert bis 1. Hälfte des 9. Jahrhunderts: Prša, Sliač, Vyškovce nad Ipľom, Hradec). Es handelt sich um einfach profilierte kleinere Töpfe mit abgerundetem oder einfach schräg abgeschnittenem Rand, relativ unvollkommen nachgedreht und unkunstvoll verziert. Den größten Teil der Keramik bildet eine technologisch weiter entwickelte Töpferproduktion, wie wir sie von Siedlungen der 2. Hälfte des 9. bis 10. Jahrhunderts kennen (Ipelský Sokolec, Slovenské Ďarmoty, Zvolen, Bojnice, Tlmače, Hronský Beňadik), stärker profiliert, mit vollkommenerer, vor allem Kammverzierung. Das jüngste und technologisch fortschrittlichste Material ist gleichzeitig auch das am wenigsten zahlreiche. Es handelt sich vor allem um größere Töpfe mit schräg bis senkrecht abgeschnittenen, gesimsartig ausgezogenen Randkanten oder mit verstärktem, gerilltem Rand, verziert mit mehreren Rillen und Spirallinien. Dieses Material lässt sich nicht höher als in das 10./11. Jahrhundert einordnen (Hronský Beňadik, Bíňa). In der Gruppe der übrigen Artefakte (72 Stück) sind Waffen vertreten – der interessanteste von ihnen ist ein eisernes zweischneidiges Schwert, (Ausrüstungsteile, Pfeilspitzen, Schnallen, eine Riemenzunge, ein Hufeisen) sowie landwirtschaftliche und handwerkliche Werkzeuge und Hausgeräte (wie eine Sichel, eine Drehmühle, Meißel, Schlagfeuerzeuge, Wetzsteine, Spinnwirtel, Messerchen, eine Axt), Bau- und Hängebeschläge wie Nägel, Krampen, ein Schlüssel, die sich grob in das 9. bis 11. Jahrhundert einordnen lassen. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zusammenfassung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Schwert aus Detva, wohl aus dem Burgwall Kalamárka. (SA 1975)",
+    "alt": "Schwert aus Detva, wohl aus dem Burgwall Kalamárka. (SA 1975)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der durchgeführten Untersuchungen führt Šalkovský an, dass wir die Fundstelle insgesamt als einen kleinen Burgwall in Höhenlage interpretieren können, der in vorgeschobener, strategisch günstiger Lage den Gebirgsübergang aus dem Eipeltal durch das Tal von Kriváň in das Becken von Zvolen bewachte und bereits ab dem Beginn des 9. Jahrhunderts bewohnt war, sicher jedoch in der Zeit der altungarischen Bedrohung, in der Zeit des sogenannten Fürstentums der Weißkroaten und vielleicht auch später in den Zeiten der böhmischen und polnischen Eingriffe und der machtpolitischen Beherrschung der Slowakei (10. bis 1. Hälfte des 11. Jahrhunderts). Die markante defensive militärisch-politische Aktivität der späten großmährischen Machtstrukturen und ihrer Erben in der an mineralischen Rohstoffen reichen Region der zentralen Slowakei verdeutlichen neben dem Detvaer Burgwall auch weitere Befestigungen, wie zum Beispiel der 20 km westlich entfernte Burgwall in Zvolen-Móťová (10.–11. Jahrhundert) an der Ausmündung des Weges von Krupina nach Zvolen sowie das System dreier Burgwälle in Tlmače, Malé Kozmálovce und Hronský Beňadik (Ende des 9. bis 10. Jahrhunderts), die den Weg durch das Grantal in die Mittelslowakei abriegelten.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschließend führt Šalkovský an, dass sich aus den kargen schriftlichen Quellen zum 10. und 11. Jahrhundert herauslesen lässt, dass die mittel- und nordslowakischen Regionen erst nach dem sogenannten polnisch-ungarischen Ausgleich (im Jahr 1018) und nach dem Tod Bolesławs des Tapferen in der 2. Hälfte des 11. Jahrhunderts von den Arpaden besetzt und dem Königreich Ungarn angeschlossen wurden. Nach der Stabilisierung der staatsbildenden Situation im Karpatenbecken verlor der Burgwall in Detva seine strategische Bedeutung und war nicht mehr besiedelt. Die Ausnahmestellung und die historische Bedeutung des Detvaer Wachburgwalls unterstreicht seine vorgeschobene Lage am östlichen Rand des Beckens von Detva, das bis zum Spätmittelalter nur ein wenig besiedelter Teil des Komitats Zvolen war. Der Kern der Besiedlung, dem der Burgwall diente, liegt 20 bis 30 km weiter westlich im Gebiet des Grantals, das eine siedlungs- und landwirtschaftlich günstigere Lage hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang und Beschilderung:",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Die Bedeutung des Burgwalls Kalamárka stellt gegenwärtig ein Lehrpfad vor. Zugang mit dem Fahrrad oder mit dem Auto zum Parkplatz unterhalb des Forsthauses über die Betonplattenstraße von der Siedlung Stavanisko; zu Fuß auf der rot markierten Wanderroute von der Siedlung Stavanisko. Mit dem Auto kommen Sie praktisch bis etwa 200 m an den Burgwall heran. Auf dem Burgwall stehen mehrere schön gestaltete Informationstafeln, aus denen der Besucher die nötigen Informationen über die Geschichte dieses außergewöhnlichen Ortes erfährt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

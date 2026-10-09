@@ -1,0 +1,221 @@
+{
+ "slug": "lipt-stiavnica-lucny-hrib",
+ "data": {
+  "title": "Liptovská Štiavnica – Lúčny Hríb, eine Burganlage auf einem Dolomitfelsen",
+  "slug": "liptovska-stiavnica-lucny-hrib-dolomitfels",
+  "excerpt": "Die Burganlage Lúčny Hríb in einer Höhe von 642 m ü. M. liegt auf einer kleinen Felserhebung im südlichen Teil des Katastralgebiets von Liptovská Štiavnica, an der Mündung des Zemianska-Tals, als vereinzelt aufragender Dolomitfelsen. Bewohnt war der Hügel schon in der Hallstattzeit; Karol Pieta fand hier 1967 spätlatènezeitliche Keramik mit Spuren intensiver Hitze, und die slawische Keramik der Jahre 1968–1969 lässt sich sicher in das 9. Jahrhundert datieren.",
+  "metaTitle": "Liptovská Štiavnica – Lúčny Hríb auf dolomitischem Felsen",
+  "metaDescription": "Die Burganlage Lúčny Hríb (642 m ü. M.) auf einem vereinzelt aufragenden Dolomitfelsen an der Mündung des Zemianska-Tals bei Liptovská Štiavnica.",
+  "keyFacts": [
+   {
+    "label": "Höhe über dem Meer",
+    "value": "642 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Lage",
+    "value": "Südlicher Teil des Katastralgebiets der Gemeinde Liptovská Štiavnica, an der Mündung des Zemianska-Tals",
+    "icon": "map"
+   },
+   {
+    "label": "Gestein",
+    "value": "Dolomitischer Kalkstein von grauer und grauweißer Farbe, ein vereinzelt aufragender Felsen mit dünnen Kalzitadern",
+    "icon": "custom"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Die nördliche und östliche Seite der Gipfelfläche war wahrscheinlich von einem Wall umgeben",
+    "icon": "shield"
+   },
+   {
+    "label": "Älteste Besiedlung",
+    "value": "Hallstattzeit",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung der slawischen Keramik",
+    "value": "9. Jahrhundert",
+    "icon": "book"
+   },
+   {
+    "label": "Entfernung von Ružomberok",
+    "value": "Etwa 10 km",
+    "icon": "map"
+   },
+   {
+    "label": "Funde von Karol Pieta (1967)",
+    "value": "Fragmente eiserner Gegenstände, ein Schläfenring aus Bronzedraht und spätlatènezeitliche Keramik",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattzeit",
+    "title": "Erste Besiedlung des Hügels",
+    "description": "Dank des flachen Bodens und der Zerklüftung des Gesteins war der Ort ein sehr trockener Standort, was dazu beitrug, dass ihn bereits in der Hallstattzeit unsere Vorfahren bewohnten, die ihn später befestigten und als Burganlage nutzten.",
+    "type": "founding"
+   },
+   {
+    "year": "1967",
+    "title": "Ausgrabung von Karol Pieta",
+    "description": "Bei der Untersuchung der Fundstelle durch Karol Pieta wurden Fragmente eiserner Gegenstände, ein Schläfenring aus Bronzedraht und spätlatènezeitliche Keramik gefunden, wobei sowohl die Schicht als auch die Keramik Spuren intensiver Hitze trugen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1968–1969",
+    "title": "Archäologische Arbeiten auf der Burganlage",
+    "description": "Bei den archäologischen Arbeiten wurden auf der Burganlage einige Fragmente slawischer Keramik gefunden; die Fundstelle wurde in der Vergangenheit auch durch amateurhafte Grabungen gestört, aus der gestörten Befestigung stammen unauffällige Funde der späthallstattzeitlichen und spätlatènezeitlichen Periode.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Datierung der slawischen Keramik",
+    "description": "Die Überreste der slawischen Besiedlung mit Fragmenten von Keramik, die mit einem Wellenband verziert ist, fanden sich unmittelbar über der heutigen Oberfläche, und ihre Entstehung lässt sich mit Sicherheit in das 9. Jahrhundert datieren.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2720,
+    "alt": "Grasbewachsener Berg mit Felsgrat und Fichten, im Hintergrund ein Gebirge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage Lúčny Hríb in einer Höhe von 642 m ü. M. liegt auf einer kleinen Felserhebung im südlichen Teil des Katastralgebiets der Gemeinde Liptovská Štiavnica, an der Mündung des Zemianska-Tals, als vereinzelt aufragender Dolomitfelsen. Manche Autoren äußern die Vermutung, der Name stamme davon, dass die Form der Burganlage an die Form eines Pilzes (slowakisch hríb) erinnern könne. Näher an der Wahrheit wird jedoch offenbar eine Benennung liegen, die vom Wortstamm „hrb“ (Buckel) abgeleitet ist, hier offenkundig in der Bedeutung „markanter Hügel“, was auch der Name der Fundstelle stützt, der auf der zweiten militärischen Landesaufnahme angeführt ist (Luzy Wrch). \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Lipt. Štiavnica – Lúčny Hríb",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser Hügel erhebt sich nämlich mehrere Dutzend Meter (etwa 20–30) über das umliegende Gelände. Er stellt den letzten Ausläufer des Gebirges nach Norden in das Liptauer Becken dar und hat eine langgezogene Form. Das Gestein ist ein dolomitischer Kalkstein von grauer und grauweißer Farbe, mittelstark verwittert. Es enthält zahlreiche dünne Kalzitadern. Der steile Hügel ist von einem Bewuchs aus Gräsern, einzelnen Sträuchern und Bäumen bedeckt. In der Nähe des Hügels fließt ein Bach, der in der Vergangenheit bedeutend an seiner Modellierung mitwirkte. Dank des flachen Bodens und der Zerklüftung des Gesteins ist dies ein sehr trockener Standort, der offenbar dazu beitrug, dass ihn bereits in der Hallstattzeit unsere Vorfahren bewohnten, die ihn später befestigten und als Burganlage nutzten.    \n \n \n Der Archäologe Martin Furman führt über sie an, dass die Burganlage häufig durch amateurhafte Grabungen und durch Steinabbau gestört wurde, was die ursprüngliche Geländegestaltung der Felserhebung verzerrt. Die Westseite bildet ein steiler Hang, im Norden und Osten schließt sie an eine Terrasse an, von der der Zugang zur Gipfelfläche am einfachsten ist. Den höchsten, südlichen Punkt der Burganlage bildet eine kleine Kuppe, an die sich ein steil abfallender scharfer Grat des Dolomitfelsens anschließt. Die natürlich begrenzte Gipfelfläche wird von Terrassen gebildet, die für eine zeitweilige Besiedlung geeignet sind. Wahrscheinlich war die nördliche und östliche Seite des Gipfelplateaus von einem Wall umgeben, da in diesen Teilen der Höhenunterschied zwischen der Terrasse und dem Gipfel der Burganlage am geringsten ist. Undeutlich zeigt sich das auch im Gelände. Das bekannte archäologische Material erlaubt es, die Entstehung dieser Fundstelle bereits den Burganlagen der Hallstattzeit zuzuordnen. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Lipt. Štiavnica – Lúčny Hríb",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei den archäologischen Arbeiten auf der Burganlage wurden dort in den Jahren 1968 und 1969 einige Fragmente slawischer Keramik gefunden. In der Vergangenheit wurde diese Fundstelle durch amateurhafte Grabungen gestört, und aus der gestörten Befestigung wurden einige unauffällige Funde aus der späthallstattzeitlichen und der spätlatènezeitlichen Periode gewonnen. Die Überreste der slawischen Besiedlung fanden sich in einer dünnen steinigen Schicht unmittelbar über der heutigen Oberfläche. Es ist eine Kollektion von Keramikfragmenten, in der Scherben Aufmerksamkeit verdienen, die mit einem mehrfachen hohen Wellenband verziert sind und Spuren eines deutlichen Nachdrehens auf der Töpferscheibe tragen, sowie ein Gefäßfragment mit kurzem, wie abgerundetem Rand und mit der Verzierung eines niedrigen doppelten Wellenbands am Halsansatz. Auch wenn sich nur wenige Keramikfragmente erhalten haben, lässt sich ihre Entstehung mit Sicherheit in das 9. Jahrhundert datieren.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1967 wurden bei der Untersuchung der Fundstelle durch Karol Pieta Fragmente eiserner Gegenstände, ein Schläfenring aus Bronzedraht und spätlatènezeitliche Keramik gefunden. Die Schicht, in der die Gegenstände gefunden wurden, befindet sich unter einem kleinen Wall, der die Gipfelfläche schützt. Sowohl die Schicht als auch die hier gefundene Keramik tragen Spuren einer intensiven Hitze. Unter der gewonnenen Keramik ist vor allem Grafitkeramik mit senkrechtem Kammstrich und breitem, aber flachem Rand. Der Fund eines Fragments eines auf der Töpferscheibe hergestellten Gefäßes mit weißer Verzierung erweitert die Zahl der Funde dieser Keramikart in der Nordslowakei. Solche Funde wurden auch in Batizovce und Liptovská Mara gemacht.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Lipt. Štiavnica – Lúčny Hríb",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieses Naturdenkmal ist von Ružomberok, von dem es etwa 10 km entfernt ist, leicht erreichbar. Zusammen mit einer Besichtigung der wertvollen mittelalterlichen Allerheiligenkirche vor Ludrová und des Herrenhauses in Liptovská Štiavnica ist es ein dankbares Ziel für einen kurzen Nachmittagsausflug mit dem Fahrrad. Die Attraktivität des Ortes erhöht im Sommer noch die nahe gelegene Sennhütte (salaš), auf der man zu einem guten Preis Schafskäse und Žinčica (Schafsmolke) kaufen kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto (und besonderen Dank an): "
+       },
+       {
+        "type": "text",
+        "text": "Víťazoslav Struhár",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

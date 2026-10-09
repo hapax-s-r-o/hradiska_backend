@@ -1,0 +1,407 @@
+{
+ "slug": "kusin",
+ "data": {
+  "title": "Kusín – ein mächtiger slawischer Burgwall auf dem Berg Hradek",
+  "slug": "kusin-slawischer-burgwall-auf-dem-hradek",
+  "excerpt": "Der Berg Hradek erhebt sich zwischen den Koten 590 und 666 in der Wasserscheide zwischen dem Kusínsky potok und dem Suchý potok. Schon der Name ließ eine archäologische Fundstelle vermuten – Begehung und Sondagegrabung bestätigten hier einen mächtigen slawischen Burgwall mit Wehr- und Zufluchtscharakter, errichtet über dem wichtigen Weg, der das Ostslowakische Tiefland mit dem Gebiet nördlich des Vihorlat verband.",
+  "metaTitle": "Kusín – slawischer Burgwall auf dem Berg Hradek",
+  "metaDescription": "Auf dem Berg Hradek über Kusín liegt ein mächtiger slawischer Burgwall mit Wehr- und Zufluchtscharakter, datiert ab der Wende vom 9. zum 10. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Der Berg Hradek zwischen den Koten 590 und 666 m, in der Wasserscheide von Kusínsky potok und Suchý potok",
+    "icon": "mountain"
+   },
+   {
+    "label": "Typ der Anlage",
+    "value": "Mächtiger slawischer Burgwall mit Wehr- und Zufluchtscharakter, strategisch über dem Weg errichtet, der das Ostslowakische Tiefland mit dem Gebiet nördlich des Vihorlat verband",
+    "icon": "shield"
+   },
+   {
+    "label": "Datierung der Besiedlung",
+    "value": "Rahmenhaft von der Wende vom 9. zum 10. Jahrhundert bis zum Beginn des 11. Jahrhunderts",
+    "icon": "book"
+   },
+   {
+    "label": "Älteste Funde",
+    "value": "Einzelne atypische Scherben der jüngeren Bronzezeit, wahrscheinlich der Gáva-Kultur",
+    "icon": "custom"
+   },
+   {
+    "label": "Slawische Keramik",
+    "value": "Zahlreiche Fragmente entwickelter slawischer Keramik mit waagerechten Rillen und Wellenbändern, darunter eine Scherbe mit plastischer Marke und das Fragment einer kegelförmigen Schale",
+    "icon": "custom"
+   },
+   {
+    "label": "Seltener Fund",
+    "value": "Eiserner Aufhängebeschlag eines Eimers, 7,7 cm lang, ohne Nietlöcher – wahrscheinlich der östlichste Fund seiner Art im Karpatenbecken",
+    "icon": "star"
+   },
+   {
+    "label": "Ausgrabung und Publikation",
+    "value": "Begehung und Sondagegrabung bearbeitete V. Budinský-Krička, publiziert in der Zeitschrift Nové obzory 25, Košice 1983, S. 97–111",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Jüngere Bronzezeit",
+    "title": "Erste Spuren der Besiedlung des Berges",
+    "description": "Aus der jüngeren Bronzezeit stammen einzelne, meist atypische Scherben, wahrscheinlich der Gáva-Kultur; in dieser Zeit war der Burgwall kaum dauerhafter besiedelt, mit einem gewissen Vorbehalt lässt sich jedoch annehmen, dass die Anfänge der Befestigung des Berges bereits in diese Zeit zurückreichen.",
+    "type": "era"
+   },
+   {
+    "year": "Wende 9./10. Jh. – Anfang 11. Jh.",
+    "title": "Slawische Besiedlung des Burgwalls",
+    "description": "Nach den bisherigen Funden lässt sich die slawische Besiedlung des Burgwalls (seiner Plateaufläche) rahmenhaft in die Zeit von der Wende vom 9. zum 10. Jahrhundert bis zum Beginn des 11. Jahrhunderts datieren.",
+    "type": "founding"
+   },
+   {
+    "year": "Wende 9./10. Jh. – Anfang 11. Jh.",
+    "title": "Errichtung der umfangreichen Fortifikation",
+    "description": "In diesen Zeitabschnitt fällt auch die umfangreiche Fortifikation des Burgwalls, die von einer sorgfältig organisierten und in militärstrategischer Hinsicht aufwendigen Arbeit seiner Bewohner zeugt.",
+    "type": "construction"
+   },
+   {
+    "year": "Wende 9./10. Jh. – Anfang 11. Jh.",
+    "title": "Zusammenhang mit dem Vordringen der altungarischen Stämme",
+    "description": "Die Errichtung des Burgwalls wird mit dem Vordringen des altungarischen Stammesverbandes in das Medzibodrožie und mit dem Eindringen der ersten Kriegergefolgschaften des entstehenden ungarischen Staates in den Süden der Ostslowakei in Zusammenhang gebracht.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6419,
+    "alt": "Luftbild eines schneebedeckten blattlosen Waldes mit den Umrissen der Wälle des Burgwalls"
+   },
+   {
+    "mediaId": 2051,
+    "caption": "Grundriss des Burgwalls nach Dr. Slivka",
+    "alt": "Grundriss des Burgwalls nach Dr. Slivka"
+   },
+   {
+    "mediaId": 2052,
+    "caption": "Scherben, die Herr Budinský-Krička auf dem Burgwall fand",
+    "alt": "Scherben, die Herr Budinský-Krička auf dem Burgwall fand"
+   },
+   {
+    "mediaId": 2053,
+    "caption": "Slawische Scherbe mit Wellenband. Foto: Š. Olšav",
+    "alt": "Slawische Scherbe mit Wellenband. Foto: Š. Olšav"
+   },
+   {
+    "mediaId": 2054,
+    "alt": "LiDAR-Schummerungsrelief mit den Umrissen der Befestigung und der Gräben"
+   },
+   {
+    "mediaId": 2475,
+    "alt": "Schneebedeckter Buchenwald auf dem Burgwall im Gegenlicht"
+   },
+   {
+    "mediaId": 2476,
+    "alt": "Luftbild des schneebedeckten Waldes mit deutlich lesbarer Walllinie"
+   },
+   {
+    "mediaId": 2477,
+    "alt": "Luftbild des bewaldeten Burgwalls mit schneebedecktem Graben"
+   },
+   {
+    "mediaId": 2478,
+    "alt": "Blick aus der Höhe auf den schneebedeckten blattlosen Wald des Burgwalls und die Landschaft im Hintergrund"
+   },
+   {
+    "mediaId": 2055,
+    "caption": "Ein Schnitt durch den Wall, angelegt offenbar von Forstarbeitern, die den Wall an einer Stelle durchbrachen.",
+    "alt": "Ein Schnitt durch den Wall, angelegt offenbar von Forstarbeitern, die den Wall an einer Stelle durchbrachen."
+   },
+   {
+    "mediaId": 2056,
+    "alt": "Steiniger Wall des Burgwalls mit Wurzeln im Laubwald"
+   },
+   {
+    "mediaId": 2057,
+    "alt": "Flache Terrasse des Burgwalls mit Steinen im frühlingshaften Buchenwald"
+   },
+   {
+    "mediaId": 2058,
+    "alt": "Hang des Burgwalls im Buchenwald im Frühling"
+   },
+   {
+    "mediaId": 2059,
+    "alt": "Langgestreckter Wallkörper im jungen Buchenwald"
+   },
+   {
+    "mediaId": 2060,
+    "alt": "Graben zwischen den Wällen im Buchenwald"
+   },
+   {
+    "mediaId": 2061,
+    "caption": "Blick vom Wall in den Graben.",
+    "alt": "Blick vom Wall in den Graben."
+   },
+   {
+    "mediaId": 2062,
+    "alt": "Steinschutt des Walls im frühlingshaften Wald"
+   },
+   {
+    "mediaId": 2063,
+    "alt": "Wall des Burgwalls mit umgestürztem Baum im Buchenwald"
+   },
+   {
+    "mediaId": 2064,
+    "caption": "Künstlicher Graben an der flachsten Stelle",
+    "alt": "Künstlicher Graben an der flachsten Stelle"
+   },
+   {
+    "mediaId": 2065,
+    "alt": "Hang des Burgwalls im frühlingshaften Buchenwald"
+   },
+   {
+    "mediaId": 2066,
+    "caption": "Blick auf den Wall aus dem Graben.",
+    "alt": "Blick auf den Wall aus dem Graben."
+   },
+   {
+    "mediaId": 2067,
+    "alt": "Flache Terrasse des Burgwalls im jungen Buchenwald"
+   },
+   {
+    "mediaId": 2068,
+    "alt": "Wallkörper mit umgestürzten Bäumen im frühlingshaften Wald"
+   },
+   {
+    "mediaId": 2069,
+    "caption": "Wallkrone",
+    "alt": "Wallkrone"
+   },
+   {
+    "mediaId": 2070,
+    "caption": "Den Zugang zum Burgwall bewacht diese altehrwürdige Sphinx",
+    "alt": "Den Zugang zum Burgwall bewacht diese altehrwürdige Sphinx"
+   },
+   {
+    "mediaId": 2071,
+    "caption": "Durchbrochener Wall",
+    "alt": "Durchbrochener Wall"
+   },
+   {
+    "mediaId": 2072,
+    "caption": "Blick vom Wall",
+    "alt": "Blick vom Wall"
+   },
+   {
+    "mediaId": 2073,
+    "caption": "Mächtiger nördlicher Wall mit künstlichem Graben",
+    "alt": "Mächtiger nördlicher Wall mit künstlichem Graben"
+   },
+   {
+    "mediaId": 2074,
+    "caption": "Der gewachsene Felsen ließ es nicht zu, den Graben an dieser Stelle tiefer auszuheben",
+    "alt": "Der gewachsene Felsen ließ es nicht zu, den Graben an dieser Stelle tiefer auszuheben"
+   },
+   {
+    "mediaId": 2075,
+    "caption": "Wir gehen auf dem Nordwall weiter nach Osten",
+    "alt": "Wir gehen auf dem Nordwall weiter nach Osten"
+   },
+   {
+    "mediaId": 2076,
+    "caption": "Wallkrone",
+    "alt": "Wallkrone"
+   },
+   {
+    "mediaId": 2077,
+    "caption": "Für den Schnitt durch den Wall sorgte leider schweres Gerät",
+    "alt": "Für den Schnitt durch den Wall sorgte leider schweres Gerät"
+   },
+   {
+    "mediaId": 2078,
+    "caption": "Detail des Schnitts – es scheint, dass stellenweise auch trocken gesetzte Steine vorhanden sind, aber es ist verwüstet",
+    "alt": "Detail des Schnitts – es scheint, dass stellenweise auch trocken gesetzte Steine vorhanden sind, aber es ist verwüstet"
+   },
+   {
+    "mediaId": 2079,
+    "caption": "Gut sichtbare Zerstörung des Walls",
+    "alt": "Gut sichtbare Zerstörung des Walls"
+   },
+   {
+    "mediaId": 2080,
+    "caption": "Blick vom inneren Ostwall auf den niedriger gelegenen äußeren",
+    "alt": "Blick vom inneren Ostwall auf den niedriger gelegenen äußeren"
+   },
+   {
+    "mediaId": 2081,
+    "caption": "Innenfläche des Burgwalls – eine schöne Ebene",
+    "alt": "Innenfläche des Burgwalls – eine schöne Ebene"
+   },
+   {
+    "mediaId": 2082,
+    "caption": "Geheimnisvoller flacher Stein... wozu mag er gedient haben?",
+    "alt": "Geheimnisvoller flacher Stein... wozu mag er gedient haben?"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Berg Hradek erhebt sich in der Wasserscheide zwischen dem Kusínsky potok, der in die Zemplínska šírava mündet, und dem Suchý potok, einem Zufluss des Kamenický potok, der in den Laborec fließt, zwischen den Koten 590 und 666. Schon dem Namen Hradek nach ließ sich vermuten, dass sich auf dem Berg eine archäologische Fundstelle erstreckt. Davon überzeugten wir uns bei der Begehung und der Sondagegrabung, bei der wir dort einen mächtigen slawischen Burgwall feststellten, am ehesten mit Wehr- und Zufluchtscharakter und von strategischer Bedeutung, errichtet über einem wichtigen Weg, der das Ostslowakische Tiefland mit dem Gebiet nördlich des Vihorlat verband."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Fundmaterial aus der Oberflächenaufsammlung und aus den Sondageschnitten besteht aus einzelnen Scherben der jüngeren Bronzezeit und aus einer großen Menge von Fragmenten entwickelter slawischer Keramik; außer ihnen fand sich ausnahmsweise auch ein eiserner Halterungsbeschlag eines Eimers."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Scherben der jüngeren Bronzezeit, meist atypisch, gehören am ehesten der Gáva-Kultur an. Von den markanteren Fragmenten stammen einige von den Randpartien nicht näher bestimmbarer Gefäßformen, weitere von amphorenartigen Gefäßen, von denen eines auf der Bauchung mit Rillen und ein anderes am Hals mit einem Band waagerechter Ritzlinien verziert war. Nach den vereinzelten Funden der genannten Keramikfragmente zeigt sich, dass der Burgwall in der jüngeren Bronzezeit kaum dauerhafter besiedelt war. Dennoch lässt sich mit einem gewissen Vorbehalt annehmen, dass die Anfänge der Befestigung des Berges bereits in diese Zeit zurückreichen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss des Burgwalls nach Dr. Slivka",
+    "alt": "Grundriss des Burgwalls nach Dr. Slivka",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von einer dauerhafteren slawischen Besiedlung des Burgwalls zeugen deutlich die zahlreichen Funde slawischer Keramikfragmente. Es handelt sich um Fragmente topfartiger, meist dünnwandiger Gefäße, die aus feinem sandigem Ton mit Hilfe der Drehscheibe hergestellt wurden, von brauner, braungrauer, gelbbrauner und dunkelgrauer Farbe. Der Rand einiger Töpfe war, nach ihren Fragmenten zu urteilen, schmal und senkrecht oder schräg abgeschnitten, bei anderen breiter, leistenartig geformt, dabei manchmal überhängend oder auch profiliert, und bei weiteren gerundet und verstärkt. In der sich auf den Fragmenten abzeichnenden Verzierung überwiegen deutlich waagerechte Rillen, nach ihnen folgen mehrfache Wellenbänder, in der Regel kombiniert mit Bändern waagerechter Ritzlinien. Seltener erscheinen auf den Scherben einfache Wellenbänder, manchmal kombiniert mit waagerechten Rillen, Reihen von Einstichen oder Zickzacklinien, zusammengesetzt aus mit dem Kämmchen eingedrückten Abschlüssen. Besonders hebt sich ein Gefäßfragment hervor, das beiderseits einer plastischen Rippe mit einfachen Wellenbändern verziert ist. Fragmente von Gefäßunterteilen zeugen von Töpfen mit innen gerundetem Boden. Unter diesen Fragmenten verdient zweifellos eine Scherbe mit einer plastischen Marke besondere Aufmerksamkeit, die aus einem doppelten, von einem Kreuz durchzogenen quadratischen Rahmen mit einem Kreis in der Mitte besteht. Von den Funden slawischer Keramik ist schließlich noch besonders auf ein Fragment einer braunen kegelförmigen Schale hinzuweisen, die auf der Drehscheibe hergestellt wurde, denn Gefäße dieser Art sind auch auf anderen slawischen Siedlungen in der Ostslowakei eine Seltenheit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Scherben, die Herr Budinský-Krička auf dem Burgwall fand",
+    "alt": "Scherben, die Herr Budinský-Krička auf dem Burgwall fand",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit der slawischen Besiedlung des Burgwalls in Kusín steht neben den zahlreichen Keramikfragmenten auch der einzige Eisengegenstand in Zusammenhang – ein seitlicher Aufhängebeschlag eines Eimers, gefunden in der Kulturschicht bei der Sondagegrabung auf seiner Plateaufläche. Er hat die Form eines langgezogenen Dreiecks mit einem etwas abgesetzten Blechplättchen an der Verbindung mit der Öse zum Aufhängen; sein Ende überdeckte ursprünglich ("
+       },
+       {
+        "type": "text",
+        "text": "noch vor der Konservierung des Gegenstandes",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") geringfügig den Rand des Beschlagplättchens. Das bogenförmige untere Ende des Beschlagblechs ist zurückgebogen und angeschmiedet. Das Beschlagplättchen ist 1,5 mm dick und seine Öse 4 mm, der Beschlag ist 7,7 cm lang, seine maximale Breite beträgt 26,5 mm. Besonders hinzuweisen ist darauf, dass er keine Nietlöcher aufweist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawische Besiedlung des Burgwalls in Kusín ("
+       },
+       {
+        "type": "text",
+        "text": "seiner Plateaufläche",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ") lässt sich nach den bisherigen Funden rahmenhaft in die Zeit von der Wende vom 9. zum 10. Jahrhundert bis zum Beginn des 11. Jahrhunderts datieren. In diesen Zeitabschnitt würde demnach auch die umfangreiche Fortifikation des Burgwalls fallen, die von einer sorgfältig organisierten und in militärstrategischer Hinsicht aufwendigen Arbeit seiner Bewohner zeugt. Zweifellos ist auch der Fund des Aufhängebeschlags eines Eimers als gleichzeitig mit dem slawischen Keramikmaterial vom Burgwall anzusehen, und daher datieren wir ihn in den genannten weiteren Zeitabschnitt. Dieser Beschlag verdient besondere Aufmerksamkeit vor allem deshalb, weil er gegenwärtig wahrscheinlich der östlichste Fund seiner Art im Karpatenbecken, wenn nicht im weiteren mitteleuropäischen Raum ist, aber auch deshalb, weil er auf das lange Fortbestehen einer der ältesten Formen von Aufhängebeschlägen slawischer Eimer hinweist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Scherbe mit Wellenband. Foto: Š. Olšav",
+    "alt": "Slawische Scherbe mit Wellenband. Foto: Š. Olšav",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Errichtung des mächtigen slawischen Burgwalls im Vihorlat-Gebirge könnte, wenn wir seine vorläufige Datierung annehmen, nicht nur mit dem Vordringen des altungarischen Stammesverbandes in das Medzibodrožie in Zusammenhang gebracht werden, sondern am ehesten auch mit den darauf folgenden Bewegungen und mit dem Eindringen der ersten Kriegergefolgschaften des entstehenden ungarischen Staates in den Süden der Ostslowakei. Der slawische Burgwall in Kusín erweist sich mit seinen Erdbefestigungen und mit den Funden, die bereits seine erste Begehung und Ausgrabung erbrachte, als eine weitere bedeutende archäologische Fundstelle dieser Art in der Ostslowakei."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

@@ -793,6 +793,217 @@ autora a nemecký čitateľ ho tak prečíta. Zakázané ostáva iba „naše ú
 **Rod autorky.** `Autor` → **Autorin**, keď je autorkou žena; nemčina rod
 rozlišuje a slovenský label to nepovie.
 
+**Polabskí a pobaltskí Slovania (32. dávka).** Nemecká literatúra má pre tieto
+kmene vlastné ustálené tvary; slovenské sa neprepisujú.
+
+| slovensky | nemecky |
+|---|---|
+| Vilčania / Veleti | **die Veleten** (*die Wilzen* len tam, kde autor rozlišuje obe pomenovania) |
+| Retrania | **die Redarier** |
+| Črezpeňania | **die Zirzipanen** |
+| Chyžania | **die Kessiner** |
+| Dolania | **die Tollenser** |
+| Ráni, Rujani | **die Ranen** |
+| Nakonovci | **die Nakoniden** |
+| Milčania | **die Milzener** |
+| Lužičania | **die Lusizer** |
+| Dedošania | **die Dadosesanen** |
+| Trebovania | **die Trebovanen** |
+| Bobrania | **die Bobranen** |
+| Slezania | **die Slensanen** |
+| Stodorania | **die Stodoranen** |
+| Dosania | **die Dossanen** |
+| Plonovia | **die Plonen** |
+| Kolodici | **die Kolodizen** |
+
+**Rieky v Polabí.** Platí §1 — nemecké meno, nie slovenský prepis: *rieka
+Damme* je **die Dahme**.
+
+**Hradské obvody.** „Hradský obvod" aj „hradská župa" → **der Burgbezirk**
+(tvar je už v slovenskom texte v zátvorke). „Gardové/hradové
+miestodržiteľstvá – Burgwarde –" → **Burgstatthaltereien – Burgwarde –**:
+nemecký odborný tvar *Burgward* ostáva, lebo ho uvádza sám prameň.
+
+**„Hlavný hrad" × akropola.** Keď autor hovorí o ústrednom hrade kniežatstva
+(nie o opevnenej hornej časti hradiska), je to **die Zentralburg**; *Hauptburg*
+je podľa §11.3 vyhradené akropole. Rozlíšiť podľa toho, či sa porovnáva s
+predhradím (akropola), alebo s ostatnými hradmi v krajine (Zentralburg).
+
+**Olomouc** → **Olmütz** pri prvom výskyte (exonym podľa §1), ďalej Olmütz.
+
+**Rody bez doloženého exonyma.** Poznanovci, Huntovci a podobné rodové
+pomenovania ostávajú v slovenskom tvare. Nemecká literatúra pozná jednotlivcov
+(*Hunt*, *Poznan*), ale pre rod sa tvar bez potvrdenia nevymýšľa — bolo by to
+dopĺňanie podľa §14.
+
+**Dialektové a rozprávačské slová (povesti).** Prekladá sa podľa kontextu, nie
+podľa slovníka — a zapíše sa sem, aby ďalší článok použil to isté:
+
+| slovensky | nemecky | poznámka |
+|---|---|---|
+| hiľheň (kamenný) | **der Felsrücken** | dialektové, význam z kontextu („kamenný hiľheň Šúvaliek") |
+| samota — jedno obydlie | **die Einöde**, *der Einzelhof* | |
+| horská samota — osada s menom | **die Bergsiedlung** | „opustená horská samota Orgoňovce" |
+| bedač (v oslovení) | **du Habenichts** | v priamej reči povesti; o skupine *das arme Volk* |
+| perepúť | **das ausgelassene Gefolge** | |
+| krompáč | **die Spitzhacke** | |
+
+**Hornonitrianske múzeum** → **das Hornonitrianske-Museum in Prievidza**
+(podľa vzoru Považské-Museum: názov sa neprekladá, pripojí sa *-Museum*).
+
+**Terén a opevnenie (31., 35. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| obtočník | **der Umlaufberg** |
+| berma | **die Berme** |
+| šijovitá priekopa | **der Abschnittsgraben** |
+| obvodový val | **der Umfassungswall** |
+| premyslovský typ hradby | **přemyslidischer Mauertyp** |
+| hradištná kultúra | **die Burgwallkultur** |
+| záhradkárska osada (dnešná) | **die Kleingartensiedlung** |
+| kopanice | **Rodungssiedlungen** |
+
+**Nálezy a remeslo.**
+
+| slovensky | nemecky |
+|---|---|
+| zberové nálezy | **Lesefunde** |
+| hrebeňovanie | **der Kammstrich** |
+| ostrivo | **die Magerung** |
+| okružie | **der Kragenrand** |
+| tkáčske závažie | **das Webgewicht** |
+| štiepaný kameň | **geschlagener Stein** |
+| ocieľka | **der Feuerstahl** |
+| osličky | **Wetzsteine** |
+| nôž s volútovým ukončením | **Messer mit volutenförmigem Griffende** |
+| bočnica zubadla | **der Trensenknebel** |
+| prevliečka (na remeň) | **der Riemendurchzug** |
+| ataša (z vedierka) | **die Attasche** |
+| šatová spona | **die Gewandfibel** |
+| lunicovitý prívesok | **lunulaförmiger Anhänger** |
+| gombíkovitý prívesok | **gombíkartiger Anhänger** |
+| kovolejárska práca | **die Gussarbeit** |
+| erbovité pole | **wappenförmiges Feld** |
+| kroj | **die Tracht** |
+
+**Step a Skýti (A. Námerová).**
+
+| slovensky | nemecky |
+|---|---|
+| kurhan | **der Kurgan** |
+| zrubová kultúra | **die Holzkistengrabkultur** (*Srubna-Kultur*) |
+| katakombová kultúra | **die Katakombengrabkultur** |
+| kráľovskí Skýti | **die Königsskythen** |
+| zvierací štýl | **der Tierstil** |
+| skýtska triáda | **die skythische Trias** |
+| goryt | **der Goryt** |
+
+**Cirkevná architektúra a kult (M. Szőke, H. Chorvátová).**
+
+| slovensky | nemecky |
+|---|---|
+| pútnický kostol s vonkajšou kruhovou kryptou | **Pilgerkirche mit äußerer Ringkrypta** |
+| ambit-krypta | **die Umgangskrypta** |
+| chórová prepážka | **die Chorschranke** |
+| oltárište | **der Altarraum** |
+| penitenciál | **das Pönitentiale** |
+| vedma | **die weise Frau** |
+| prírodné národy | **Naturvölker** |
+
+**Slovanská mytológia (M. Demko).** Božstvá majú v nemčine ustálený prepis:
+Mokoš → **Mokosch**, Lutici-Ratari → **Liutizen-Redarier**, kolty →
+**Kolty**, Rod a rožanice → **Rod und die rožanice**, noc filipojakubská →
+**die Walpurgisnacht**. *Povesť vremennych let* ostáva v prepise s glosou
+**(Nestorchronik)** pri prvom výskyte.
+
+**Zemepisné názvy (31., 35. dávka).** Platí §1 — pohoria a doliny dostávajú
+nemeckú skladbu, obce a regióny bez doloženého exonyma ostávajú:
+Vihorlatské pohorie → **das Vihorlat-Gebirge**, Ondavská vrchovina → **das
+Ondava-Hügelland**, Zvolenská kotlina → **das Becken von Zvolen**, Poiplie →
+**das Eipeltal**, Haluzický jarok → **der Haluzicer Graben**, rieka Laborec →
+**der Laborec**, Javorníky → **die Javorníky**, Záhorie → **das Záhorie**,
+Turiec (región) → **die Region Turiec**, Krakovsko → **das Krakauer Land**,
+Šaštínsky komitát → **das Komitat Šaštín**.
+
+**Kultúry a kniežatstvá.** Dákovia → **die Daker**, *dácky* →
+**dakisch**; blatnicko-mikulčický horizont → **der
+Blatnica-Mikulčice-Horizont**; Bielochorvátske kniežatstvo → **das Fürstentum
+der Weißkroaten**.
+
+**Latinské mená v prameni.** Abrahám Rúfus → **Abraham Rufus** (latinská
+podoba, nie slovenský prepis).
+
+**Slovná hračka v názve obce.** Keď význam miestneho názvu nesie vetu
+(Brodské – *brod*), dá sa raz glosa podľa §11f: *brod (Furt)*. Inde sa názov
+neprekladá.
+
+**Dialektové slovo v citáte ostáva.** *dedkovia* v citovanom úryvku ostáva
+**die dedkovia** — vysvetlenie podáva sám citát, prekladateľ ho nedopĺňa.
+
+**Opevnenie a stavby (30. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| dvorec (nádvorie hradiska) | **der Hof** |
+| hrádok (stredoveký na temene hradiska) | **die kleine Burg** |
+| podhradie | **das Suburbium** (× predhradie = *Vorburg*) |
+| čelná plenta | **die Steinfront** |
+| priečka (hradby) | **die Quermauer** |
+| predprseň | **die Brustwehr** |
+| obranná chodba | **der Wehrgang** |
+| klinová priekopa | **der Spitzgraben** |
+| roštovo-skriňová konštrukcia | **Rost-Kasten-Konstruktion** |
+| dvojkolová konštrukcia | **Zweipfostenkonstruktion** |
+| mačina | **Rasensoden** |
+| vrátnica na moste | **das Pforthaus** |
+
+**Nálezy (30. dávka).** Ocieľka je **der Feuerstahl**, celé kresadlo
+**das Schlagfeuerzeug** — nie je to to isté. Ďalej: strelka so spätnými
+krídelkami → **Pfeilspitze mit rückwärtigen Flügeln**, tuľajka → **die
+Tülle**, plastická značka → **die plastische Marke**, rošt hrnčiarskej pece →
+**der Rost**, železné zliatky → **eiserne Schmelzklumpen**, korčule
+(kostené) → **Knochenschlittschuhe**.
+
+**Kultúry a procesy.** Gávska kultúra → **die Gáva-Kultur**, mladopilinské
+etnikum → **Piliny-Ethnikum**, oravská skupina → **die Arwaer Gruppe**,
+etatizácia → **die Staatsbildung**.
+
+**Výskum.** Pokusný výskum → **die Probegrabung**, nivelačný bod → **der
+Nivellierpunkt**, Krajský pamiatkový úrad Košice → **Kreisdenkmalamt Košice
+(Kaschau)**.
+
+**Zemepis a exonymá (30. dávka).** Oravský hrad → **die Arwaburg**, Orava
+(región) → **die Arwa**, rieka Turiec → **die Turz**, Čergovské pohorie →
+**das Čergov-Gebirge**, Pomoravie → **das Marchgebiet**, potiská cesta →
+**der Theiß-Fernweg**, slepé rameno → **der Altarm**, Nemecké Pravno →
+**Deutsch-Proben**, Liberec → **Reichenberg**. Oravská vrchovina, Oravská
+Magura a Chočské vrchy nemecké exonymum nemajú a ostávajú po slovensky.
+Oravské múzeum → **das Oravské-Museum** (vzor Považské-Museum).
+
+**Zemplín.** Región ostáva **Zemplín**; dobové nemecké meno župy sa píše iba
+pri komitáte: **das Komitat Zemplín (Semplin)**. Samostatne sa *Semplin*
+nepoužíva.
+
+**Polabské hradiská v nemeckom texte.** Pri nemeckých lokalitách sa vracia
+nemecký tvar bez slovenskej glosy: **Groß Raden**, **Rügen** (nie „Rugen"),
+**Starigard**, a kmene podľa 32. dávky plus **die Warnower**, **die
+Wagrier**, **die Ukranen**, **die Heveller**, **die Sprewanen**. V citáte
+z prameňa ostávajú jeho vlastné tvary: **Magnopolis (Veligrad)**,
+**Racesburg (Ratibor)**.
+
+**Dobový citát ako výnimka §11.9.** Keď článok cituje text z roku 1929 alebo
+nápis na pamätnej tabuli, *slowakisch* a *Slowaken* v ňom ostávajú — citát sa
+prekladá verne (§14). Kontrola `nemcina-kontrola.mjs` má na také miesta
+menovitý zoznam výnimiek, nie vypnuté pravidlo.
+
+**Anglická vsuvka v slovenskom článku.** Nadpis „English:" pred anglickým
+resumé sa v nemeckej verzii mení na **„Zusammenfassung:"** a text sa prekladá
+do nemčiny; nenecháva sa po anglicky.
+
+**Áre.** 455 árov → **455 Ar** (nemecká jednotka má tvar *Ar*, nie *Are*
+v odbornom zápise s číslom).
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

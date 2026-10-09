@@ -1,0 +1,1671 @@
+{
+ "slug": "bojna-vyznamne-velkomoravske-centrum",
+ "data": {
+  "title": "Bojná – ein bedeutendes großmährisches Zentrum im Považský Inovec",
+  "slug": "bojna-grossmaehrisches-zentrum-povazsky-inovec",
+  "excerpt": "Der Burgwall Bojná I – Valy entstand wahrscheinlich an der Wende vom 8. zum 9. Jahrhundert auf einem Felsvorsprung des Gebirges Považský Inovec in 390 – 430 m ü. M. Er beherrschte die Wege zwischen dem Neutratal und dem Waagtal und wirkte dabei wohl auch als eine Art Zollstation. Erhalten blieben vergoldete Plaketten eines Tragaltars, drei Glocken, 201 axtförmige Eisenbarren und Fragmente von Kettenhemden — Funde, die Bojná zu einer der bedeutendsten Fundstellen Großmährens machen.",
+  "metaTitle": "Bojná-Valy – großmährisches Zentrum im Považský Inovec",
+  "metaDescription": "Der Burgwall Bojná I–Valy im Považský Inovec von der Wende des 8. zum 9. Jahrhundert — ein großmährisches Zentrum zwischen Neutra- und Waagtal.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls Bojná I",
+    "value": "Nierenförmiger Grundriss, Länge etwa 600 m, Breite 200 – 300 m, Gesamtfläche der Hauptburg mit der Vorburg fast 14 ha",
+    "icon": "shield"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall in Rostkonstruktion mit trocken gelegter Steinfront, Höhe 3 – 5 m von innen und bis zu 10 m von außen, Basis 18,5 m breit; zwei Zangentore mit der Funktion einer Art Zollstation",
+    "icon": "shield"
+   },
+   {
+    "label": "Plaketten und Tragaltar",
+    "value": "6 vergoldete Plaketten (kreis- und kreuzförmig, mit Engel- bzw. Christusgestalten) + 3 Einfassungen, Teil eines Tragaltars mit Bezügen zum adriatischen Raum",
+    "icon": "crown"
+   },
+   {
+    "label": "Die Glocke aus Bojná",
+    "value": "Höhe 160 mm, Durchmesser 192 mm, Gewicht 2180 g — Analogien in Italien (Canino, Vatikan) und Deutschland (Verden, Oldenburg), datiert an die Wende 8./9. und den Beginn des 9. Jahrhunderts",
+    "icon": "star"
+   },
+   {
+    "label": "Militärische Funde",
+    "value": "Axtförmige Eisenbarren (201 Stück in einem Hortfund), Fragmente von Kettenhemden, ein mit Gold tauschierter Sporn, Endbeschlag einer Schwertscheide mit Falken, der gestohlene Helm eines slawischen Kriegers",
+    "icon": "shield"
+   },
+   {
+    "label": "Siedlungskomplex",
+    "value": "Agglomeration von vier Burgwällen (Bojná I – Valy, II, III, IV), wobei II und III eine ergänzende Wachfunktion bei der Kontrolle des Weges über den Považský Inovec erfüllten",
+    "icon": "building"
+   },
+   {
+    "label": "Dauer des Burgwalls",
+    "value": "Gesamtdauer des Bestehens auf 120 Jahre geschätzt, mit zwei Zerstörungshorizonten (Beginn des 9. Jahrhunderts und nach dem Jahr 906)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "zweite Hälfte des 2. Jahrhunderts",
+    "title": "Fliehburg auf Bojná II",
+    "description": "In der Zeit der Markomannenkriege diente die Höhensiedlung Hradisko (Bojná II) als Zuflucht; gefunden wurden Denare des Marcus Aurelius und ein Hortfund von 15 Münzen mit der Endprägung Valentinians I.",
+    "type": "event"
+   },
+   {
+    "year": "zweite Hälfte des 5. Jahrhunderts",
+    "title": "Besiedlung in der Völkerwanderungszeit",
+    "description": "Eine bronzene Bügelfibel datiert das Ende dieser Besiedlungsphase von Bojná II; Funde römischer bzw. föderatischer Militärgürtel belegen Kontakte mit dem Limesgebiet.",
+    "type": "event"
+   },
+   {
+    "year": "780 – 820 (Datierung der Plaketten)",
+    "title": "Tragaltar mit Plaketten",
+    "description": "Ein Satz von 6 vergoldeten Plaketten und 3 Einfassungen, wahrscheinlich Teil eines altare portabile mit einer zentralen (nicht erhaltenen) siebten Plakette, die Christus darstellte.",
+    "type": "event"
+   },
+   {
+    "year": "796",
+    "title": "Synode an den Ufern der Donau",
+    "description": "Eine fränkische Synode bereitete das Programm der Christianisierung des Gebietes der von den Franken besiegten Awaren vor, womit sich der Weg für bayerische und aquileische Missionare auch in das Neutratal öffnete.",
+    "type": "event"
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Entstehung des Burgwalls Bojná I – Valy",
+    "description": "Errichtet als Teil einer ausgedehnten Agglomeration (Bojná I, II, III, IV); nierenförmiger Grundriss, Wall 3 – 10 m hoch, zwei Zangentore auf der Längsachse.",
+    "type": "founding"
+   },
+   {
+    "year": "Beginn des 9. Jh. (Fürstentum Pribinas)",
+    "title": "Erste Blüte und erste Zerstörung",
+    "description": "Bojná erlebte die größte Blüte und wurde zugleich zum ersten Mal durch einen Brand zerstört — beide Bauphasen des Walles wurden durch Feuer zerstört.",
+    "type": "destruction"
+   },
+   {
+    "year": "894",
+    "title": "Neue Befestigungsarbeiten",
+    "description": "Ein dendrochronologisch datierter Balken vom Rand einer Kammer der Mauer — das Todesjahr des Königs Svatopluk und des Thronantritts Svatopluks II.; die alten Balken wurden durch neue ersetzt.",
+    "type": "construction"
+   },
+   {
+    "year": "nach 906 (Schlacht bei Bratislava)",
+    "title": "Zweite Zerstörung des Burgwalls",
+    "description": "Wahrscheinlich Angriffe altungarischer Heere, möglicherweise in Zusammenarbeit mit einheimischen Befehlshabern — in der Zerstörungsschicht findet sich neben ungarischen Pfeilspitzen auch eine Menge nichtungarischer.",
+    "type": "destruction"
+   },
+   {
+    "year": "2008",
+    "title": "Freilegung des mittleren Teils des Burgwalls",
+    "description": "Eingetiefte und ebenerdige Wohnbefunde mit steinernen und lehmernen Öfen, Produktionswerkstätten und ein großer Bau mit steinernem Unterbau.",
+    "type": "discovery"
+   },
+   {
+    "year": "2009",
+    "title": "Neue Interpretation von Karol Pieta",
+    "description": "Vedecká cukráreň (27. 10. 2009) — Bojná wird als ausgedehnte Agglomeration bezeichnet, die Bojná I, II, III und IV umfasst und mit Mikulčice und Pompeji verglichen wird.",
+    "type": "discovery"
+   },
+   {
+    "year": "2012 – 2014",
+    "title": "Fortsetzung der finanzierten Ausgrabung",
+    "description": "Die SAV und die Agentur zur Förderung von Forschung und Entwicklung stellten Mittel für die Feldforschung in Bojná und an weiteren Fundstellen bereit (Bíňa, Pobedim, Majcichov).",
+    "type": "discovery"
+   },
+   {
+    "year": "2011",
+    "title": "Geplantes archäologisches Freilichtmuseum",
+    "description": "Das Archäologische Institut der SAV und die Gemeinde Bojná kündigten das Vorhaben an, eine Replik eines slawischen Hauses und später einen ganzen Archäopark beim Ranč pod Babicou zu errichten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 984,
+    "caption": "Bojná. Autor: Naj",
+    "alt": "Bojná. Autor: Naj"
+   },
+   {
+    "mediaId": 985,
+    "caption": "Tagesanbruch (Naj)",
+    "alt": "Tagesanbruch (Naj)"
+   },
+   {
+    "mediaId": 986,
+    "caption": "Blick auf den Burgwall von Osten (Naj)",
+    "alt": "Blick auf den Burgwall von Osten (Naj)"
+   },
+   {
+    "mediaId": 987,
+    "caption": "Blick auf Bojná und die Umgebung vom Berg Marhát (Naj)",
+    "alt": "Blick auf Bojná und die Umgebung vom Berg Marhát (Naj)"
+   },
+   {
+    "mediaId": 988,
+    "caption": "Ausgrabung des Walles",
+    "alt": "Ausgrabung des Walles"
+   },
+   {
+    "mediaId": 989,
+    "caption": "Foto von Juni 2013 von V. Satko - das zweite slawische Blockhaus ist fast fertig",
+    "alt": "Foto von Juni 2013 von V. Satko - das zweite slawische Blockhaus ist fast fertig"
+   },
+   {
+    "mediaId": 990,
+    "caption": "Der Helm offenbar eines slawischen Kriegers aus Bojná und ein Teil des Ringgehänges des Helms. Dieses europäische Unikat hat ein Sondengänger vom Burgwall gestohlen und anschließend auf einer Auktion verkauft. Die Slowakei hat so ein außerordentlich wertvolles Artefakt aus der alten slawischen Geschichte verloren. Für Informationen, die zum Auffinden des Helms führen, bieten wir eine Belohnung in Höhe von einigen Hundert Euro. (Foto aus dem Buch K. Pieta u. a.: Bojná 2)",
+    "alt": "Der Helm offenbar eines slawischen Kriegers aus Bojná und ein Teil des Ringgehänges des Helms — von einem Sondengänger vom Burgwall gestohlen und auf einer Auktion verkauft."
+   },
+   {
+    "mediaId": 991,
+    "caption": "Fesseln aus Bojná",
+    "alt": "Fesseln aus Bojná"
+   },
+   {
+    "mediaId": 992,
+    "caption": "Eine der Möglichkeiten der Visualisierung des Tragaltars (K. Pieta)",
+    "alt": "Eine der Möglichkeiten der Visualisierung des Tragaltars (K. Pieta)"
+   },
+   {
+    "mediaId": 993,
+    "alt": "3D-Modell des Burgwalls Bojná mit Wall, Tor und Bebauung in der Landschaft"
+   },
+   {
+    "mediaId": 994,
+    "alt": "3D-Modell des Burgwalls Bojná aus der Vogelperspektive mit der Linie der Befestigung"
+   },
+   {
+    "mediaId": 995,
+    "alt": "Rekonstruktion eines hölzernen Tores mit steinernem Unterbau im herbstlichen Wald"
+   },
+   {
+    "mediaId": 996,
+    "alt": "Luftbild des Geländes mit dem lesbaren Verlauf des Walles"
+   },
+   {
+    "mediaId": 997,
+    "alt": "Plan des Burgwalls Bojná I mit den eingezeichneten Fundstellen"
+   },
+   {
+    "mediaId": 998,
+    "alt": "Karte der frühmittelalterlichen Befestigungen im mittleren Teil des Považský Inovec"
+   },
+   {
+    "mediaId": 1001,
+    "caption": "Bojná II (http://hiking.sk/hk/ga/30367/hradisko_na_hradisku.html)",
+    "alt": "Bojná II (http://hiking.sk/hk/ga/30367/hradisko_na_hradisku.html)"
+   },
+   {
+    "mediaId": 999,
+    "alt": "Zeichnungstafel von Blechbeschlägen mit Ritzverzierung"
+   },
+   {
+    "mediaId": 1000,
+    "alt": "Die bronzene Glocke aus Bojná und eine Reihe eiserner Barren"
+   },
+   {
+    "mediaId": 1002,
+    "alt": "Zeichnung einer verzierten Riemenzunge mit Ornament und Maßstab"
+   },
+   {
+    "mediaId": 1003,
+    "alt": "Höhenlinienplan des Burgwalls Bojná II mit der Linie der Befestigung"
+   },
+   {
+    "mediaId": 1004,
+    "alt": "Zeichnungstafel von Pfeilspitzen und Bronzefunden mit Maßstab"
+   },
+   {
+    "mediaId": 1005,
+    "alt": "Der Wall des Burgwalls im sommerlichen Buchenwald"
+   },
+   {
+    "mediaId": 1006,
+    "alt": "Der Graben zwischen den Wällen im grünen Wald"
+   },
+   {
+    "mediaId": 1007,
+    "alt": "Der Wallkörper mit grünem Unterwuchs"
+   },
+   {
+    "mediaId": 1008,
+    "alt": "Plan des westlichen Teils der Befestigung des Burgwalls Bojná III"
+   },
+   {
+    "mediaId": 1009,
+    "alt": "Der Hang des Burgwalls mit Moos im sommerlichen Wald"
+   },
+   {
+    "mediaId": 1010,
+    "alt": "Der Graben des Burgwalls im lichtdurchfluteten Buchenwald"
+   },
+   {
+    "mediaId": 1011,
+    "alt": "Wall und Graben des Burgwalls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 1013,
+    "caption": "Teil eines verbrannten Balkens aus der Mauer",
+    "alt": "Teil eines verbrannten Balkens aus der Mauer"
+   },
+   {
+    "mediaId": 1014,
+    "caption": "Schmiedewerkzeuge",
+    "alt": "Schmiedewerkzeuge"
+   },
+   {
+    "mediaId": 1015,
+    "alt": "Ein kupferner Kessel mit Henkel, in einer Vitrine ausgestellt"
+   },
+   {
+    "mediaId": 1016,
+    "caption": "Der Hortfund axtförmiger Eisenbarren",
+    "alt": "Der Hortfund axtförmiger Eisenbarren"
+   },
+   {
+    "mediaId": 1017,
+    "caption": "Landwirtschaftliche Geräte",
+    "alt": "Landwirtschaftliche Geräte"
+   },
+   {
+    "mediaId": 1018,
+    "caption": "Teil einer Schwertklinge und eine Riemenzunge von der Scheide",
+    "alt": "Teil einer Schwertklinge und eine Riemenzunge von der Scheide"
+   },
+   {
+    "mediaId": 1019,
+    "alt": "Eisengegenstände und Kleinfunde in einer Vitrine auf rotem Untergrund"
+   },
+   {
+    "mediaId": 1020,
+    "caption": "Eine wunderschöne luxuriöse Riemenzunge der Schwertscheide",
+    "alt": "Eine wunderschöne luxuriöse Riemenzunge der Schwertscheide"
+   },
+   {
+    "mediaId": 1021,
+    "caption": "Fragmente eines wertvollen Kettenhemdes zeugen vom Aufenthalt des reichsten Adels auf dem Burgwall",
+    "alt": "Fragmente eines wertvollen Kettenhemdes zeugen vom Aufenthalt des reichsten Adels auf dem Burgwall"
+   },
+   {
+    "mediaId": 1022,
+    "alt": "Pfeil- und Lanzenspitzen in einer Vitrine auf rotem Untergrund"
+   },
+   {
+    "mediaId": 1023,
+    "alt": "Eine vergoldete Plakette mit geritzter Gestalt in einer Vitrine"
+   },
+   {
+    "mediaId": 1024,
+    "alt": "Eine vergoldete Plakette mit der Darstellung eines Engels in einer Vitrine"
+   },
+   {
+    "mediaId": 1213,
+    "caption": "Teil eines Pferdegeschirrs",
+    "alt": "Teil eines Pferdegeschirrs"
+   },
+   {
+    "mediaId": 1028,
+    "caption": "Riemenzungen von Gürteln",
+    "alt": "Riemenzungen von Gürteln"
+   },
+   {
+    "mediaId": 1029,
+    "caption": "Eine luxuriöse vergoldete Riemenschlaufe und ein Sporn",
+    "alt": "Eine luxuriöse vergoldete Riemenschlaufe und ein Sporn"
+   },
+   {
+    "mediaId": 1031,
+    "caption": "Ein ursprünglich dreizipfliger Beschlag vom Schwertgehänge",
+    "alt": "Ein ursprünglich dreizipfliger Beschlag vom Schwertgehänge"
+   },
+   {
+    "mediaId": 1032,
+    "caption": "Eine große Seltenheit - ein Beschlag zum Verschließen eines Buches",
+    "alt": "Eine große Seltenheit - ein Beschlag zum Verschließen eines Buches"
+   },
+   {
+    "mediaId": 1033,
+    "caption": "Lunula-Anhänger - Belege des heidnischen Glaubens unserer Vorfahren",
+    "alt": "Lunula-Anhänger - Belege des heidnischen Glaubens unserer Vorfahren"
+   },
+   {
+    "mediaId": 1215,
+    "caption": "Angeblich der älteste slawische Sporn in der Slowakei",
+    "alt": "Angeblich der älteste slawische Sporn in der Slowakei"
+   },
+   {
+    "mediaId": 1038,
+    "caption": "Ein Beschlag von einem Eimer",
+    "alt": "Ein Beschlag von einem Eimer"
+   },
+   {
+    "mediaId": 1040,
+    "caption": "Die Töpfermarken gehen offenbar auf die heidnische Symbolik zurück",
+    "alt": "Die Töpfermarken gehen offenbar auf die heidnische Symbolik zurück"
+   },
+   {
+    "mediaId": 1042,
+    "caption": "Feuerstähle zum Entfachen von Feuer",
+    "alt": "Feuerstähle zum Entfachen von Feuer"
+   },
+   {
+    "mediaId": 1043,
+    "caption": "Der Schlüssel von einer Truhe",
+    "alt": "Der Schlüssel von einer Truhe"
+   },
+   {
+    "mediaId": 1044,
+    "caption": "Schlüssel zum Öffnen von Eingangstüren",
+    "alt": "Schlüssel zum Öffnen von Eingangstüren"
+   },
+   {
+    "mediaId": 1216,
+    "caption": "Das Eingangstor zum Burgwall",
+    "alt": "Das Eingangstor zum Burgwall"
+   },
+   {
+    "mediaId": 1045,
+    "caption": "Im Schnitt durch den Wall ist durchgebranntes Holz sichtbar",
+    "alt": "Im Schnitt durch den Wall ist durchgebranntes Holz sichtbar"
+   },
+   {
+    "mediaId": 1049,
+    "caption": "Mächtige Wälle umspannen den ganzen Burgwall",
+    "alt": "Mächtige Wälle umspannen den ganzen Burgwall"
+   },
+   {
+    "mediaId": 1052,
+    "caption": "Die Menge verstreuter Steine zeugt offenbar von teilweise steinernen Bauten",
+    "alt": "Die Menge verstreuter Steine zeugt offenbar von teilweise steinernen Bauten"
+   },
+   {
+    "mediaId": 1053,
+    "caption": "Das erste rekonstruierte slawische Blockhaus auf dem Burgwall",
+    "alt": "Das erste rekonstruierte slawische Blockhaus auf dem Burgwall"
+   },
+   {
+    "mediaId": 1054,
+    "caption": "Hoffen wir, dass es viele solch großartiger Rekonstruktionen geben wird",
+    "alt": "Hoffen wir, dass es viele solch großartiger Rekonstruktionen geben wird"
+   },
+   {
+    "mediaId": 1056,
+    "caption": "Detail des Türriegels - genau hier wurden jene eigenartig geformten Schlüssel benutzt, die weiter oben abgebildet sind",
+    "alt": "Detail des Türriegels - genau hier wurden jene eigenartig geformten Schlüssel benutzt, die weiter oben abgebildet sind"
+   },
+   {
+    "mediaId": 1057,
+    "caption": "Das Haus hatte auch ein Obergeschoss mit Fenster",
+    "alt": "Das Haus hatte auch ein Obergeschoss mit Fenster"
+   },
+   {
+    "mediaId": 1058,
+    "caption": "Ofen",
+    "alt": "Ofen"
+   },
+   {
+    "mediaId": 1065,
+    "caption": "Das Tor auf der gegenüberliegenden Seite des Burgwalls",
+    "alt": "Das Tor auf der gegenüberliegenden Seite des Burgwalls"
+   },
+   {
+    "mediaId": 1067,
+    "caption": "Der freigelegte Teil des Walles",
+    "alt": "Der freigelegte Teil des Walles"
+   },
+   {
+    "mediaId": 1068,
+    "caption": "Der rekonstruierte Teil der Mauerfront",
+    "alt": "Der rekonstruierte Teil der Mauerfront"
+   },
+   {
+    "mediaId": 1070,
+    "caption": "Detaillierter Blick auf die Rekonstruktion des Walles",
+    "alt": "Detaillierter Blick auf die Rekonstruktion des Walles"
+   },
+   {
+    "mediaId": 1072,
+    "caption": "Der rekonstruierte Wall von der Innenseite",
+    "alt": "Der rekonstruierte Wall von der Innenseite"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "BOJNÁ I – Valy",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "  \n \n  Bojná I. – Valy, wie diese frühmittelalterliche Fundstelle eigentlich heißt, entstand wahrscheinlich an der Wende vom 8. zum 9. Jahrhundert oder in den ersten Dezennien des 9. Jahrhunderts. Sie liegt im Gebirge Považský Inovec auf einem Felsvorsprung des Hauptmassivs in einer Höhe von 390 – 430 m ü. M. In der mittleren Burgwallzeit war dieses Gebirge von vielen Wegen durchzogen, die die geeignetste Verbindung zwischen dem Neutratal und dem Waagtal darstellten. Die Wichtigkeit der betreffenden Übergänge unterstreicht die große Menge von Fundstellen jener Zeit auf beiden Seiten des Považský Inovec. In der Region Nitra sind es außer Bojná I. auch Bojná II. und III., Marhát, Úhrad oder Nitrianska Blatnica – Jurko. Auf der Waagseite liegen Pobedim, Ducové und Hrádok. Alle Fundstellen sind voneinander in einem kurzen Zeitabstand leicht erreichbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "vTjCaevLEW8",
+    "url": "https://www.youtube.com/embed/vTjCaevLEW8",
+    "caption": null
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bojná. Autor: Naj",
+    "alt": "Bojná. Autor: Naj",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn zu den oben erwähnten Tatsachen noch die dichte Besiedlung nicht nur auf der Hauptburg und der Vorburg, sondern auch außerhalb der Befestigungen hinzukommt, dazu die interessanten Funde, denen wir uns weiter unten widmen werden, und die Ergebnisse der Montanarchäologie, die ausgebeutete Eisenerzlagerstätten, verschiedene Steinbrüche und Abbaugruben entdeckt hat, dann ist es ganz berechtigt, Bojná I. zu den bedeutenden Fundstellen nicht nur im Rahmen des Fürstentums Neutra, sondern auch im Rahmen des ganzen großmährischen Reiches zu zählen. Wie die neuesten Interpretationen der Archäologen anführen (PhDr. Karol Pieta, DrSc., Vedecká cukráreň — eine Veranstaltungsreihe nach dem Muster des Wissenschaftscafés, 27. 10. 2009), lässt sich Bojná aufgrund der letzten Ausgrabungen als ausgedehnte Agglomeration bezeichnen, die nicht nur den Burgwall Bojná I umfasst, sondern auch Bojná II, III und neuerdings auch Bojná IV, das Karol Pieta in der erwähnten wissenschaftlichen Diskussion anführt. In gewisser Weise ließe sich Bojná mit Mikulčice vergleichen, und zwar aus dem Blickwinkel, dass es auf ähnlich plötzliche Weise unterging, vor allem aber — im Unterschied zu vielen weiteren Fundstellen in der Slowakei, wo auf den Grundlagen eines Burgwalls später mittelalterliche Städte entstanden und damit die ursprüngliche Bebauung oder wertvolle Gegenstände allmählich zerstört wurden — war Bojná eine der wenigen Fundstellen, wo nach dem Untergang keine dauerhafte Besiedlung mehr folgte und der zerstörte Burgwall allmählich in Vergessenheit geriet, samt allem Reichtum, der sich dort zur Zeit des plötzlichen Untergangs befand. Aus diesem Grund ist Bojná also, ähnlich wie Mikulčice oder Pompeji, eine erstaunliche Erkenntnisquelle für die heutige Archäologie. Schade ist nur, dass Bojná, noch bevor die Archäologen sich besannen, von verschiedenen Schatzsuchern entdeckt wurde, die zweifellos großen Schaden anrichteten, indem sie sich der interessantesten Funde bemächtigten. Andererseits muss man jedoch sagen, dass zum Beispiel die berühmten vergoldeten Plaketten gerade von einem solchen Sucher gefunden wurden, der die Plaketten abgab.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "RuzF8DTGhSo",
+    "url": "https://www.youtube.com/embed/RuzF8DTGhSo",
+    "caption": null
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "lefxElJopvY",
+    "url": "https://www.youtube.com/embed/lefxElJopvY",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hat nierenförmige Gestalt, die Längsachse ist etwa 600 m lang und die Querachsen haben von 200 bis 300 Meter. Die Gesamtfläche der Hauptburg samt der Vorburg erreicht fast 14 ha. Um das ganze Areal zieht sich ein sehr gut erhaltener Wall, der auf der Innenseite eine Höhe von 3 – 5 m und von außen bis zu 10 m erreicht, wobei seine Basis etwa 18,5 m breit ist. Der Haupt"
+       },
+       {
+        "type": "text",
+        "text": "wall ist in Rostkonstruktion errichtet und auf der Außenseite mit einer trocken gelegten Steinfront verblendet.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Vor dem Wall ist ein "
+       },
+       {
+        "type": "text",
+        "text": "Graben",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " vorgelagert; diese Art der Fortifikation wiederholt sich noch einmal in kleinerer Ausführung rund um den Burgwall, und im Westen gibt es noch einen weiteren Wall. Insgesamt wurde der Befestigung auf der Westseite viel mehr Zeit gewidmet, und auch die übrigen Burgwälle im Nitraer Teil haben in den westlichen Teilen eine verstärkte Fortifikation. Es ist klar, dass die Bewohner des Neutratals einen Angriff von der Waag her erwarteten; als potenzieller Feind kommt das mährische Fürstentum in Betracht, doch konnte es ebenso ein anderer bedeutender slawischer Stamm aus dem Waagtal sein, zum Beispiel der auf der Divinka bei Žilina (Sillein) ansässige. Die Hauptlinie des Walles ist in zwei gegenüberliegenden Toren unterbrochen, die auf der Längsachse des Burgwalls liegen. Beide haben Zangenform, sind also in das Areal hinein eingeknickt. Durch diese Tore führte ein Weg über den Burgwall. Auf ähnliche Weise war in ihren Anfängen auch die Prager Burg angelegt. Die besondere, ungewöhnliche Lage der Tore auf der Längsachse des Burgwalls und zugleich an dem Weg aus dem Neutratal in das Waagtal deutet darauf hin, dass Bojná unter anderem offenbar auch die Funktion einer Art Zollstation hatte — jeder (vor allem die Kaufleute), der durch diesen wichtigen Gebirgsübergang ziehen wollte, konnte Bojná nicht umgehen, musste hier haltmachen, zahlen und hatte zugleich Gelegenheit, seine Waren anzubieten oder andere zu kaufen. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Tagesanbruch (Naj)",
+    "alt": "Tagesanbruch (Naj)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.archeol.sav.sk/_stare_stranky/vyskumy_Pieta_Bojna.pdf",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nach dem Bericht von der Ausgrabung des Burgwalls"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aus dem Jahr 2008 wurden im mittleren Teil des inneren Areals des Burgwalls "
+       },
+       {
+        "type": "text",
+        "text": "eingetiefte und auch ebenerdige Wohnbefunde mit steinernen und lehmernen Öfen und Produktionswerkstätten, aber auch ein großer Bau mit steinernem Unterbau",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " freigelegt. Nach den Ergebnissen der Sondage war "
+       },
+       {
+        "type": "text",
+        "text": "die Vorburg durch einen breiten, in den Felsuntergrund eingetieften Graben und durch einen Wall mit innerer Rostkonstruktion und vorderer Steinfront geschützt.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Der große "
+       },
+       {
+        "type": "text",
+        "text": "Umfassungswall ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "wurde im östlichen Teil des Burgwalls durchschnitten, wo sein Profil vom Untergrund an 530 cm hoch war. "
+       },
+       {
+        "type": "text",
+        "text": "Sein Kern war mit hölzernen Rosten durchsetzt, die von beiden Seiten Reihen von Pfosten hielten, die durch ein Rutengeflecht verbunden waren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Der Frontteil über dem äußeren Graben war in Blockbautechnik errichtet. Von innen gab es in der Konstruktion Blockbaukammern. In mehreren von ihnen fanden sich Massenfunde. Beide Bauphasen des Walles wurden durch einen Brand zerstört. Während der Ausgrabung fanden sich eine Menge Keramik und 800 Inventarnummern von Gegenständen. Zu den bedeutenden Funden gehören der Klöppel einer weiteren Glocke, vergoldete Bronzebeschläge, zahlreiche Sporen und mehrere Fragmente eines Kettenpanzers. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Burgwall von Osten (Naj)",
+    "alt": "Blick auf den Burgwall von Osten (Naj)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2008 wurden im mittleren Teil des Burgwalls eingetiefte und auch ebenerdige Wohnbefunde mit steinernen oder lehmernen Öfen freigelegt. Ebenso fanden sich Produktionswerkstätten und ein großer Bau mit steinernem Unterbau.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hat "
+       },
+       {
+        "type": "text",
+        "text": "zwei Zerstörungshorizonte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Der erste von ihnen gehört in die Zeit des "
+       },
+       {
+        "type": "text",
+        "text": "Fürstentums Pribinas,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " also an den Beginn des 9. Jahrhunderts. In dieser Zeit erlebte Bojná wahrscheinlich die größte Blüte und wurde zugleich zum ersten Mal zerstört. Zum zweiten Mal verheerten den Burgwall zu Beginn des 10. Jahrhunderts "
+       },
+       {
+        "type": "text",
+        "text": "offenbar ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Angriffe altungarischer Heere.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Eine genauere Datierung wurde mit Hilfe der Dendrochronologie gewonnen, wobei nach Karol Pieta einer der Balken, der den Rand einer Kammer der Mauer bildete, mit Hilfe der Dendrochronologie in das Jahr 894 datiert wurde — das heißt in das Jahr, in dem König Svatopluk starb und auf den großmährischen Thron sein Sohn Svatopluk II. folgte. Daraus ist also ersichtlich, dass es im Jahr 894 in Bojná zu neuen Befestigungsarbeiten kam, bei denen offenbar die alten Balken, die damals schon einige Jahrzehnte alt waren und von denen man also annehmen kann, dass sie nicht in gutem Zustand waren, durch neue ersetzt wurden, wodurch sich die Verteidigungsfähigkeit des Burgwalls verbesserte. Wann es genau zur zweiten Zerstörung des Burgwalls kam, weiß man bisher nicht; man kann nur annehmen, dass es nach der Schlacht bei Bratislava (Pressburg) im Jahr 906 gewesen sein könnte. Da sich in der Zerstörungsschicht außer altungarischen Pfeilspitzen auch eine Menge nichtungarischer befindet, kann dies zu der Vermutung führen, dass die ungarischen Heere schon in dieser Zeit mit einigen einheimischen Befehlshabern bzw. Heeren zusammenarbeiteten. Es kann ein Abbild der inneren Instabilität Großmährens nach dem Tod des starken Herrschers sein, als einige Adlige offenbar kein Interesse am weiteren Bestehen der Zentralmacht hatten und sich zum Zweck ihrer Zerschlagung auch mit räuberischen Eindringlingen verbanden. Die Gesamtdauer des Bestehens des Burgwalls wurde bisher auf 120 Jahre festgelegt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf Bojná und die Umgebung vom Berg Marhát (Naj)",
+    "alt": "Blick auf Bojná und die Umgebung vom Berg Marhát (Naj)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Fundstelle Bojná – Valy I. stammen 5 Hortfunde, ein Satz von Plaketten, eine Glocke und eine Menge kleinerer Funde. Ein großer Teil von ihnen gehört in den Blatnica-Mikulčice-Horizont.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plaketten",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es fanden sich 6 Plaketten aus vergoldetem Kupfer mit unterschiedlichem Erhaltungsgrad und einige nicht zugeordnete Bruchstücke, wahrscheinlich von diesen Plaketten. Weiterhin 3 bandförmige Einfassungen, ebenfalls aus vergoldetem Kupfer, zu einem Kreis aus einem Stück Blech oder aus 2 bzw. mehreren Teilen zusammengefügt. Zwei von ihnen sind vollständig, die dritte ist in einem Fragment erhalten. Bei dem Versuch, die Anordnung der Plaketten und Einfassungen zu rekonstruieren, ging man von ihrer Zahl und von der gegenseitigen Abhängigkeit der einzelnen Artefakte aus, mit Betonung auf Symmetrie und Bedeutungshierarchie."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Plaketten haben zweifache Form und Größe. Es fanden sich 4 kreisförmige mit einem Durchmesser von 150 mm, 2 haben die Form eines gleicharmigen Kreuzes und einen Durchmesser von 133 mm. Die kreisförmigen Plaketten 1, 2 und 3 sind von einer Einfassung gesäumt, die abwechselnd mit leeren und mit Punktierung gefüllten Dreiecken verziert ist; die Plakette 4 unterscheidet sich von ihnen durch eine Säumung in Form einer Linie halbkreisförmiger Bögen. Die Ränder der kreuzförmigen Plaketten sind mit doppelten Bändern von Perlpunzierung abgeschlossen.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ausgrabung des Walles",
+    "alt": "Ausgrabung des Walles",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der wichtigen Fragen ist die Funktion der drei kreisförmigen Einfassungen, von denen zwei vollständige Exemplare gemeinsam mit den Plaketten abgegeben wurden und das unvollständige dritte Exemplar, das aus drei Fragmenten besteht, bei einer Revisionsausgrabung an der Stelle des früheren Fundes gefunden wurde. Eine der Möglichkeiten ist, dass ganze Kreise desselben Typs die Einfassung beider kreuzförmiger Plaketten dargestellt haben könnten. Sicher ist das jedoch nicht. Sie konnten nämlich auch den Rahmen anderer Bildfelder darstellen, die nicht erhalten sind, und konnten sogar auch aus organischem Material gewesen sein, zum Beispiel aus Textil. Nach dieser Rekonstruktion könnte der ursprüngliche Satz aus sieben Plaketten bestanden haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der wesentliche Teil der Einfassung 3 fand sich während der Ausgrabung unmittelbar an der Fundstelle, offenbar noch in der Lage in situ des ganzen Satzes. Es bleibt Gegenstand weiterer Überlegungen und Kombinationen, ob diese dritte Einfassung ebenso verwendet wurde wie die beiden anderen – zur Umrahmung weiterer Plaketten – oder ob sie die Bedeutung einer der kreisförmigen Plaketten als deren zweite, äußere Umrahmung hervorhob. Deshalb unterscheidet sie sich teilweise von den zwei kompletten Rähmchen; sie konnte auch Teil einer weiteren, vielleicht zentralen siebten Plakette gewesen sein, die im Hortfund nicht enthalten war bzw. nicht erhalten ist. Karol Pieta und Alexander Ruttkay neigen zu der These von 7 Plaketten, von denen 3 mit kreisförmigen Einfassungen umspannt waren. Die siebte Plakette sollte die zentrale sein und Christus darstellen. Der Satz war wahrscheinlich Teil eines Tragaltars, eines altare portabile. In solchen Schreinen wurden entweder liturgische Gegenstände oder Reliquien von Heiligen aufbewahrt. Manchmal enthielt der Schrein beides zusammen. Diese Tragaltäre waren gewöhnlich mit Szenen aus den Evangelien und mit Engeln oder anderen heiligen Wesen verziert. Die Fachleute schätzen seine Größe auf mindestens 300 × 600 × 300 (mm). Eine sehr interessante Entdeckung sind die Buchstaben auf zwei weiter unten erwähnten Plaketten. Sie gehören in die Sphäre des lateinischen westlichen Christentums, doch an den Buchstaben können wir griechischen Einfluss beobachten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto von Juni 2013 von V. Satko - das zweite slawische Blockhaus ist fast fertig",
+    "alt": "Foto von Juni 2013 von V. Satko - das zweite slawische Blockhaus ist fast fertig",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Datierung der Plaketten ist indirekt, sie beruht auf der Datierung der übrigen Funde aus Bojná I., die dem Beginn der ersten Hälfte des 9. Jahrhunderts angehören. Eine Gruppe deutscher Forscher, die es unternommen hat, den Tragaltar zu rekonstruieren, hat sich auf eine Datierung zwischen den Jahren 780 und 820 n. Chr. festgelegt.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Plaketten sind kreisförmig und kreuzförmig. Die kreisförmigen bildeten wahrscheinlich eine Art Einfassung für die kreuzförmigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kreisförmige Plaketten",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 1",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Helm offenbar eines slawischen Kriegers aus Bojná und ein Teil des Ringgehänges des Helms. Dieses europäische Unikat hat ein Sondengänger vom Burgwall gestohlen und anschließend auf einer Auktion verkauft. Die Slowakei hat so ein außerordentlich wertvolles Artefakt aus der alten slawischen Geschichte verloren. Für Informationen, die zum Auffinden des Helms führen, bieten wir eine Belohnung in Höhe von einigen Hundert Euro. (Foto aus dem Buch K. Pieta u. a.: Bojná 2)",
+    "alt": "Der Helm offenbar eines slawischen Kriegers aus Bojná und ein Teil des Ringgehänges des Helms — von einem Sondengänger vom Burgwall gestohlen und auf einer Auktion verkauft.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der betreffenden Plakette befindet sich die Gestalt eines Mannes mit dem Kopf en face, die im Hintergrund ein Gebilde hat, das an ein Malteserkreuz erinnert. Die Gestalt hat den linken Arm im rechten Winkel erhoben. Unter dem Ellbogen ragt wahrscheinlich Gefieder hervor. Auf der rechten Seite fehlt der Arm, dafür ist jedoch ein ganzer Flügel zu sehen. Die Gestalt ist in ein Röckchen gekleidet. Unter dem linken Arm befinden sich die lateinischen Buchstaben SVAVM. Wahrscheinlich handelt es sich um Christus mit Flügeln, den sogenannten Christus-Engel. Dieser Typ der Gestalt entstand wohl durch die Reduktion der Engel, die ursprünglich an ihren Seiten standen.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 2",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie stellt eine stehende männliche Gestalt mit erhobenen Armen dar. In der linken hält sie einen Gegenstand in Form des Buchstabens T mit erweiterter Basis. Im Hintergrund der Arme können wir wiederum Dreiergruppen von Federn bemerken, die Flügel darstellen. Diese Person könnte der hl. Antonius der Einsiedler sein, denn der erwähnte Gegenstand in T-Form kann das Antoniuskreuz in Kombination mit einem Glöckchen sein, was Attribute dieses Heiligen sind. Gerade der hl. Antonius steht am Anfang der christlichen Pilgertraditionen und der Entstehung von Klostergemeinschaften."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 3",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erheblich beschädigte Plakette hat im zentralen Teil symmetrisch angeordnet die Gestalt eines Mannes wiederum in der Position en face. Die Arme hat sie auf der Brust gefaltet und über den Schultern geöffnete Flügel. An der linken Seite hat die Gestalt die lateinischen Buchstaben ...NDE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 4",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die am stärksten beschädigte Plakette. Von den übrigen kreisförmigen Plaketten unterscheidet sie sich dadurch, dass die Einfassung nicht mit Dreiecken, sondern mit Bögchen gefüllt ist. Die Gestalt en face, die Arme sind in einem Adorationsgestus erhoben. Die Flügel sind unter den Armen zusammengelegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fesseln aus Bojná",
+    "alt": "Fesseln aus Bojná",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kreuzförmige Plaketten",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 5",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine praktisch im Ganzen erhaltene Plakette. In der Mitte ist eine männliche Gestalt mit leicht erhobenem Kopf dargestellt, von dem auf beiden Seiten nach oben gerundete Haare oder Flammen weisen. Auf der Brust hat die Gestalt entweder die Hände zum Gebet gefaltet, oder es ist ein Plastron, also ein doppeltes Brustschild. Die ausgebreiteten Flügel gehen unmittelbar aus den Schultern hervor."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Plakette 6",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie stellt eine aufrechte Gestalt dar. Sie hat zwei Paar Flügel, davon ein Paar auf der Brust zusammengelegt und das zweite an der rechten Seite des Rumpfes. Die Arme hat sie ausgebreitet mit steigender Tendenz. Den Satz ergänzen 3 Einfassungen mit einer Breite von 19 – 20 mm und einem Durchmesser von 190 – 192 mm. Die Verzierung besteht aus abwechselnden Dreiecken, ebenso wie auf den kreisförmigen Plaketten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Glocken",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Glocke wurde im nordöstlichen Teil des Burgwalls entdeckt. Sie ist als ein Ganzes erhalten, wenn wir den eisernen Klöppel nicht mitrechnen, der in unmittelbarer Nähe der Glocke gefunden wurde. Die Höhe der Glocke beträgt 160 mm, der äußere Durchmesser des Schlagrings 192 mm und die Wandstärke von 2 – 6 mm. Das Gewicht beträgt 2180 g. Der Klöppel ist 170 mm lang und wiegt 200 g. Die Glockenlegierung enthält einen überwiegenden Anteil Kupfer, ergänzt um Zinn, Blei, Eisen und Silber."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine der Möglichkeiten der Visualisierung des Tragaltars (K. Pieta)",
+    "alt": "Eine der Möglichkeiten der Visualisierung des Tragaltars (K. Pieta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Areal des Burgwalls fanden sich noch 2 Fragmente vom Mantel einer Glocke und ein zweiter Klöppel. Nach metallographischen Analysen wurde festgestellt, dass die Fragmente von 3 verschiedenen Glocken stammen. Geeignete Analogien zu der erhaltenen Glocke finden sich vor allem in Italien (Canino, Vatikan) und in Deutschland (Verden, Oldenburg — der Klöppel der erhaltenen Glocke aus Bojná ist mit dem Klöppel dieser Glocke typologisch übereinstimmend). Die italienischen Glocken werden an die Wende vom 8. zum 9. Jahrhundert und die deutschen an den Beginn des 9. Jahrhunderts datiert. Die Frage, warum 2 Glocken völlig zerschlagen wurden, kann mit möglichen religiösen Konflikten der alten heidnischen Religion mit dem aufkommenden Christentum zusammenhängen. Die Glocken konnten im Rahmen eines solchen Konflikts symbolisch zerstört worden sein. Die Möglichkeit eines gewissen heidnischen Aufstands könnte auch eine der Ursachen der ersten Zerstörung des Burgwalls in den Zeiten Pribinas sein — ob den Burgwall die Heere Mojmírs zerstörten, können wir bisher nicht mit Sicherheit sagen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein kurzer Film aus der Werkstatt von Herrn Dvořák - Die Glocke aus Bojná:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da sich in der Umgebung von Bojná Sakralbauten befinden (die Rotunden in Ducové und in Nitrianska Blatnica sind proportional der Kirche 6 in Mikulčice sehr ähnlich) mit Ursprung im adriatischen Raum, wird über eine Missionsreise gerade aus diesem Raum nachgedacht. Diese Vermutung kann auch die Tatsache bestätigen, dass im Jahr 796 unmittelbar im Binnenland der von den Franken besiegten Awaren eine Synode stattfand, irgendwo „an den Ufern der Donau“, und ihr Ziel war es, ein Programm der Christianisierung des betreffenden Gebietes vorzubereiten, womit sich der Weg auch in das Neutratal vor allem für bayerische und aquileische Missionare öffnete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere Funde",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "84ehAv7kQ-k",
+    "url": "https://www.youtube.com/embed/84ehAv7kQ-k",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den übrigen Funden ist gewiss eine bronzene vergoldete Riemenzunge erwähnenswert, die in Kerbschnitttechnik ausgeführt ist. Eine Besonderheit ist gewiss, dass eine nahezu identische Riemenzunge in der Grabausstattung eines Mannes aus Modrá bei Velehrad gefunden wurde. Es ist wichtig sich bewusst zu machen, dass wir aus dem Frühmittelalter außer diesem Fall keine zwei auch nur ähnlichen Gegenstände dieses Typs mit Kerbschnittverzierung kennen. Deshalb ist es möglich, dass beide Riemenzungen aus einer Werkstatt oder sogar von einem Meister stammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am zahlreichsten sind Bauelemente wie Klammern, Nägel und Haken. Weiterhin fanden sich hier 201 axtförmige Eisenbarren in einem Hortfund und in der näheren Umgebung des Burgwalls ebenfalls etwa die gleiche Zahl. Ebenso kommt hier eine Menge Messer, Äxte, Meißel, Sägen, Zugmesser, Löffelbohrer, eiserne Beschläge von Eimerchen und eine Kette aus 21 Gliedern vor; diese Gegenstände weisen auf eine im Ganzen entwickelte handwerkliche Produktion hin. Die oben erwähnte Eisengewinnung und ihre Verarbeitung sowie andere metallurgische Tätigkeit bestätigt eine Menge Schlacke, bronzene Gusskuchen, Schmiedeabfall und spezialisierte Werkzeuge für diese Tätigkeit.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Beleg der Landwirtschaft sind 2 Typen von Sicheln (ein gerundeter verlängerter Typ und ein Typ mit kurzer messerartiger Schneide), Pflugreuten, Seche, Hacken, Pflugschare und Schneidmesser. Von den Militaria fanden sich rhombische Pfeilspitzen mit Dorn, in geringerer Zahl Pfeilspitzen mit Rückhaken und langer Tülle, Äxte, Kreuzbeschläge und ein Lanzenschuh. Die Slawen schützten die Enden von Lanzen jedoch wahrscheinlich nicht auf diese Weise, es kann sich also um einen Import handeln. Vom Pferdegeschirr fanden sich Trensen, Steigbügel und Sporen. Einer der Sporen ist mit Gold tauschiert. Der neueste Fund sind mehrere Fragmente von Kettenhemden. Ebenso fand sich eine Menge metallener Trachtbestandteile, wie die schon erwähnte Riemenzunge oder Beschläge und Schnallen. Viele sind vergoldet oder mit Silber tauschiert. Wahrscheinlich ein Beleg des Handels sind zwei bronzene Gewichte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle Bojná I. – Valy läuft eine systematische Ausgrabung, es handelt sich nicht nur um zufällige Schnitte. Die Ziele der Ausgrabung hat der Leiter der Ausgrabung Karol Pieta vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften in Nitra zusammengefasst. „Wo eine Mission ist, dort ist auch eine Kirche. Sie konnte jedoch auch aus Holz sein, und dann müsste sie nicht erhalten geblieben sein\". Er nimmt an, dass sie darüber hinaus Häuser, Produktionswerkstätten, Friedhöfe und vielleicht auch Bauten vom Palasttyp finden werden. Pieta betonte, dass die Befestigung außerordentlich groß ist, weshalb die Ausgrabung technisch wie finanziell aufwendig sein wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich füge aktuelle Informationen über die weitere geplante Ausgrabung von Bojná hinzu (von den Seiten www.obnova.sk):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Die archäologische Ausgrabung in Bojná im Bezirk Topoľčany wird auch in den folgenden Jahren fortgesetzt. Die Slowakische Akademie der Wissenschaften hat in ihrem Haushalt Mittel für die Feldforschung für dieses Jahr bereitgestellt. Für die Jahre 2012, 2013 und 2014 ist es den Archäologen gelungen, Geld im Rahmen eines Projekts zu erhalten, das die Agentur zur Förderung von Forschung und Entwicklung genehmigt hat. Die Zuwendung ist zugleich auch für die Ausgrabungen weiterer bedeutender Fundstellen aus dem Frühmittelalter bestimmt, wie Bíňa, Pobedim oder Majcichov."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung in Bojná beginnt in der Regel im Juni und dauert bis in den späten Herbst. „In diesem Jahr planen wir die Ausgrabung der großen Befestigung des Burgwalls abzuschließen, die für die genaue zeitliche Einordnung der Fundstelle und für die Kenntnis der Bautechniken des neunten und des beginnenden zehnten Jahrhunderts sehr wichtig ist“, sagte der Agentur SITA der Leiter der Ausgrabung Karol Pieta vom Archäologischen Institut der SAV in Nitra. Ihre Aufmerksamkeit richten die Archäologen auch auf die slawischen Hügelgräber, von denen es hier bisher gelungen ist, fünf zu finden. Bislang haben sie nur das größte von ihnen mit einem Durchmesser von 15 Metern untersucht. „Leider handelt es sich offenbar nur um ein symbolisches Grab, und überdies war es auch ausgeraubt. Es ist jedoch unter dem Aspekt der Bestattungsrituale sehr interessant“, führte Pieta an. In dem Hügelgrab fanden sich Reste des Leichenbrandplatzes, des Leichenmahls, Tierknochen und Waffen. Wahrscheinlich bestattete man hier symbolisch einen Krieger, der außerhalb von Bojná gefallen war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der interessanteste Fund des Vorjahres war ein Endbeschlag einer Schwertscheide, reich mit Silber verziert. Dargestellt sind auf ihm auffliegende Falken. „Es ist ein Fund, zu dem es bisher nicht gelungen ist, irgendeine Parallele zu finden, und er belegt sicher die Anwesenheit der höchsten gesellschaftlichen Schicht jener Zeit“, wies Pieta hin. In der vergangenen Forschungssaison ist es den Archäologen zugleich gelungen, das System des Urbanismus der Siedlung zu präzisieren, die sich im Inneren des Burgwalls befand. In ihrer Mitte fanden sich zwei umfangreiche Befunde, von denen die Unterbauten der Fundamente erhalten sind. Durch ihre Größe und durch die Funde in ihrer Nähe lassen sie sich eindeutig mit der Anwesenheit der gesellschaftlichen Elite verbinden, stellte Pieta fest. Die Siedlung bildeten Gehöfte, die aus Grubenhäusern und ebenerdigen Wirtschaftsbauten bestanden. Die Grubenhäuser sind typische slawische Behausungen mit steinernem Öfchen, in den Felsuntergrund gemeißelt. Die am besten erhaltenen Befunde wollen die Wissenschaftler in Zukunft der Öffentlichkeit präsentieren.\""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "BOJNÁ II"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In unmittelbarer Nähe des Burgwalls Valy befinden sich weitere 2 Burgwälle, die als Bojná II und Bojná III bezeichnet werden. Pieta führt zum Burgwall Bojná II unter anderem an:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Die Erhebung „Hradisko\" (335 m ü. M.) im nördlichen Teil der Gemarkung der Gemeinde Bojná, Bezirk Topoľčany, beherrscht die Engstelle des Tales des Flüsschens Bojnianka, entlang dessen der alte, heute kaum genutzte Weg zwischen dem Waagtal und dem Neutratal über das Gebirge Považský Inovec führte. Die durch Sondagen gewonnenen Materialien haben eine Besiedlung vom Ende der älteren römischen Kaiserzeit, aus der Völkerwanderungszeit und aus dem Frühmittelalter, wahrscheinlich vom Beginn des 9. Jahrhunderts, bestätigt. Im Gelände ist ein verhältnismäßig gut sichtbares komplexes Befestigungssystem erkennbar, das den natürlichen Schutz dieses Ortes ergänzt — steile Abstürze auf der West- und der Südseite und eine tiefe Schlucht im Nordosten der Fundstelle (Abb. 2). Die Wallaufschüttung, die am Umfang des Plateaus verläuft, ist gegenüber dem leicht zugänglichen Bergsattel im Norden am höchsten. Die Fortifikation ist in diesem Teil ausgeprägt, sie wird von der Linie eines verdoppelten Systems aus Wall und Graben gebildet. Hier ist auch der Eingang in das Areal, der senkrecht zur Befestigung hindurchführt. Seine heutige Breite (wir wissen nicht, ob die ursprüngliche oder eine erst kürzlich verbreiterte) beträgt etwa 3 m. In Richtung Westen setzt sich die Befestigung nur 25 – 30 m fort und an sie knüpft eine Linie an, die über dem steilen Hang des Hügels endet. Der äußere Wall erreicht an diesen Stellen eine Höhe von 3 – 3,5 m. Weiter vom Eingang — in Richtung Osten — sinkt die Linie der Umfassungsbefestigung zusammen mit dem Hang leicht ab und wendet sich in Richtung Südosten. Von dieser Umfassungsbefestigung läuft senkrecht in nördlicher Richtung ein weiterer Wall mit einem Graben auf der Westseite aus, der etwa 85 m lang ist. So entstand eine befestigte Vorburg. Am Punkt der Verbindung beider Wälle ist im Gelände eine kleine Erhöhung zu sehen, die die Existenz eines Turmes nahelegt.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Hradisko fanden sich außer Keramik mehrere einzelne Münzen, Fibeln und die Attasche einer Bronzekanne. Zwei Denare des Marcus Aurelius und weitere Gegenstände gehören eindeutig in die zweite Hälfte des 2. Jahrhunderts. In dieser Zeit, als auf dem Gebiet der Slowakei die Germanen lebten und die etwa der Zeit der sogenannten Markomannenkriege entspricht, erscheint im nördlichen Teil des Karpatenbeckens eine ganze Reihe von Höhensiedlungen, wahrscheinlich Fliehburgen, und zwar auf dem Gebiet der suebischen Besiedlung in der West- und Mittelslowakei sowie auf den alten und funktionslosen Burganlagen der untergehenden Púchov-Kultur im Norden unseres Gebietes (Pieta 1994). Wir nehmen an, dass das Hradisko, ähnlich wie viele andere Lagen, in den unruhigen Zeiten der zweiten Hälfte des 2. Jahrhunderts als Höhensiedlung — als Fliehburg zum Schutz der örtlichen Gemeinschaften aus der dicht besiedelten Waagtalregion in der Umgebung von Pobedim oder aus der bisher nicht identifizierten Siedlungszone im angrenzenden Teil des Neutra-Einzugsgebietes — diente. In Bojná II sind die Funde aus der Völkerwanderungszeit am stärksten vertreten. Sie waren im Inneren, aber auch außerhalb der Fläche der Befestigung verstreut. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall fand sich auch ein wertvoller Münzhortfund, der aus fünfzehn abgegriffenen Bronzemünzen mit der Endprägung Valentinians I. bestand. Solche Massenfunde sind charakteristisch für die ältere Phase der Völkerwanderungszeit im nördlichen Teil des mittleren Donauraums, wo alte Münzen offenbar das fehlende Umlaufgeld ersetzten. Ein interessantes neues Element in dem betreffenden Milieu sind Bruchstücke metallener Bestandteile römischer bzw. föderatischer Militärgürtel — Schnallen mit Tierköpfchen und Zierbeschläge. Sie sind ein Beleg der Kontakte dieses abseitigen Vorgebirgsgebietes mit den Provinzen und vor allem mit dem Limesgebiet in der Endetappe der römischen Verwaltung. Für die Bestimmung des Endes der Besiedlung ist eine bronzene Bügelfibel mit drei Strahlen auf halbrunder Kopfplatte von Bedeutung, die wir zuverlässig in die zweite Hälfte des 5. Jahrhunderts datieren können. Einige Funde belegen Spuren der Anwesenheit einer höheren gesellschaftlichen Schicht. Höhensiedlungen sind ein charakteristisches Phänomen des Beginns der Völkerwanderungszeit, und zwar im Donaugebiet mit spätsuebischer Besiedlung sowie im Norden der Slowakei mit der Besiedlung der nordkarpatischen Gruppe. Erst in der letzten Zeit sind auch Fundstellen aufgetaucht, die offensichtlich auch um die Mitte des 5. Jahrhunderts bestanden. Nach einzelnen Funden wurden einige von ihnen auch am Ende des 5. und am Beginn des 6. Jahrhunderts genutzt. Ein gutes Beispiel ist die vorgestellte Siedlung Bojná II. Die bisherigen slawischen Funde aus der Lage Bojná II sind nicht zahlreich, doch in geringerem Maße sind sie immerhin vertreten. Die Befestigung in Bojná II mit der ausgeprägten doppelten Mauer auf der Nordseite ist bisher nicht datiert. Wir können jedoch annehmen, dass sie im Frühmittelalter errichtet bzw. erneuert oder umgebaut worden sein muss, als die Lage vor allem eine militärische Wachfunktion erfüllte. Das System verdoppelter Gürtel von Gräben mit Wällen wiederholt sich auch im Fall der beiden weiteren offensichtlich frühmittelalterlichen Fortifikationen in Bojná.\""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bojná II (http://hiking.sk/hk/ga/30367/hradisko_na_hradisku.html)",
+    "alt": "Bojná II (http://hiking.sk/hk/ga/30367/hradisko_na_hradisku.html)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos des Burgwalls Bojná II (Autor — Ľubomír Červený):\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "BOJNÁ III. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "K. Pieta hat die Erkenntnisse zum dritten Burgwall folgendermaßen zusammengefasst: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "\"Zwischen dem Hradská-Tal mit dem Burgwall Bojná I und dem Tal der Bojnianka liegt ein niedriger Bergrücken, der einen Teil des ausgedehnteren Massivs Zihľavník bildet. An der Stelle seiner beidseitigen Verengung wurde eine im Gelände verhältnismäßig wenig deutliche Erdbefestigung errichtet, die ein komplexes System von Gräben und Wällen bildet. Im Norden, im Süden und im Osten sind die Aufschüttungen mit Gräben nur stellenweise sichtbar, und ihr ganzer Verlauf ist bisher nicht sicher festgestellt und vermessen. Auf der Westseite (ähnlich wie im Fall von Bojná I) war das Areal mit einer doppelten Linie von Gräben und Wällen befestigt, mit zwei Durchgängen durch beide Fortifikationsgürtel. Der heutige Waldweg verläuft durch die Mitte quer über die Anhöhe der geführten Wälle durch einen Durchgang, der offenbar in neuer Zeit angelegt wurde. Der Bergrücken wird bis heute als bequemer Waldweg ohne große Höhenunterschiede genutzt. Es ist daher wahrscheinlich, dass diese Verbindung auch in der Vergangenheit genutzt wurde (möglicherweise vor allem in den Wintermonaten, wenn die Täler schwer passierbar waren). Die Befestigung III entstand, ähnlich wie im Fall von Bojná I und II, wegen der Kontrolle mehrerer Linien desselben Fernweges. Die Fortifikation wurde bisher nicht untersucht, und für die Datierung haben wir nur nicht sehr zahlreiche Funde von der Innenfläche des Burgwalls zur Verfügung. Es handelt sich zumeist um frühmittelalterliche Keramik und Eisengegenstände ohne die Möglichkeit einer genaueren zeitlichen Einordnung. Etwa in der Mitte des Areals wurde bei einer Sondage eine Grube mit ausgeprägter Keramik etwa aus dem 8.–9. Jahrhundert untersucht. In dem Bestand der Eisengegenstände überwiegen kleine Messer, Nägel, Baubeschläge und Bruchstücke von Schlüsseln. Es fehlen Spuren von Produktion. Die Waffen vertreten ein kleines Äxtchen, Pfeilspitzen mit Rückflügelchen und ein kleines Fragment eines Kettenhemdes mit großen genieteten Ringen. An der Fundstelle ist es gelungen, nur eine relativ kleine Zahl von Funden zu gewinnen. Ihre Zusammensetzung unterstreicht eher den militärischen als den Siedlungscharakter der Fundstelle. Das Bauwerk wurde wohl in Eile angelegt und nur kurzfristig genutzt. Die Burgwälle I und III hatten durchgängigen Charakter. Errichtet wurden sie in etwa demselben Gelände — auf einem Bergrücken, in einer Lage, die in den vorhergehenden Perioden für Verteidigungszwecke nicht gesucht wurde. Es scheint, dass im Fall dieser beiden Burgwälle das gemeinsame Motiv ihrer Errichtung die Kontrolle des Weges war, der über die Burgwälle führte. Es ist ein besonderes Phänomen, das gewiss größere Aufmerksamkeit bei einer ausführlicheren Auswertung des ganzen Siedlungsareals verdient. Im Vergleich mit dem großen Burgwall I mit wirklich außerordentlicher Befestigung erfüllten nach dem heutigen Stand der Forschung die beiden kleinen frühmittelalterlichen Fortifikationen Bojná II und III nur nebensächliche, aber zweifellos wichtige Aufgaben der Verteidigung des weiteren Raums dieses Teils des östlichen Vorgebirges des Považský Inovec und unterstützten strategisch die Sicherheit des Hinterlandes des zentralen Burgwalls. Wahrscheinlich waren sie nicht langfristig besiedelt. Die Richtung eines potenziellen Angriffs von der Waagseite über das Gebirge ist nach den verdoppelten Befestigungen auf den Valy wie auf dem Žihľavník klar. In dieser Richtung bietet sich als Erklärung die Notwendigkeit an, die Region Nitra gegen den historisch belegten Angriff von der mährischen Seite zu sichern (der Konflikt Mojmírs mit Pribina)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos des Burgwalls Bojná III (Autor — Ľubomír Červený): \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wird es in Bojná ein archäologisches Freilichtmuseum geben?",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich füge eine sehr interessante Pressemitteilung hinzu:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(06.08.2011; www.aktuality.sk; Regióny, 15.15, S.; TASR)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ergebnisse der archäologischen Ausgrabungen auf dem Burgwall der Adligen in Bojná werden in Zukunft auch die Besucher der Gemeinde oder der Fundstelle selbst mit eigenen Händen betasten können. Die Archäologen wollen hier gemeinsam mit dem Gemeindeamt Repliken slawischer Behausungen und ein archäologisches Freilichtmuseum errichten, in dem sie mit den Methoden der experimentellen Archäologie einen Teil einer großmährischen Siedlung aufbauen werden.  „Wir wollen einige schon untersuchte Flächen mit sehr anziehenden ursprünglichen Bauten für die Öffentlichkeit zugänglich machen. Wir wollen auch eines der slawischen Häuser rekonstruieren. Es sollte sich um ein solches gewöhnliches, übliches slawisches Haus handeln, um ein Grubenhaus.  Es waren kleine Häuschen, im Grundriss etwa drei mal drei Meter groß, die aus einem großen steinernen Kamin und einer Lagerstatt bestanden. Die Menschen verbrachten die meiste Zeit draußen, wo auch die gewöhnlichen Hausarbeiten verrichtet wurden, und in den Hütten wurde nur gekocht und geschlafen“, erklärte der Leiter der archäologischen Ausgrabung auf dem Burgwall in Bojná Karol Pieta. Wie er feststellte, hatten die Wissenschaftler darin Glück, dass die Fundamente mehrerer Häuser auch nach mehr als tausend Jahren gut erhalten blieben, zusammen mit der Einrichtung, die einst in ihnen war.  „Das bedeutet, dass wir beim Ofen Gefäße stehend gefunden haben, in der Ecke war eine Axt angelehnt, in der zweiten Ecke war ein Pferdegeschirr und Ähnliches. Wir haben also eine ganze Reihe solcher interessanten Details. Wir haben Reifen von einem hölzernen Fässchen gefunden, also wissen wir, dass es dort stand, auch wenn wir nicht mehr feststellen können, ob darin Bier, Wasser oder Met war“, sagte Pieta. In der ersten Phase wollen die Archäologen die Rekonstruktion einer typischen slawischen Hütte errichten. Sie wird unmittelbar im Areal des Burgwalls stehen. „Dieses Häuschen wird offen und zugänglich sein.  Es wird so gemacht sein, dass die Welt nicht zusammenbricht, wenn dort jemand gegebenenfalls auch übernachtet. Wir werden dort deshalb keine wertvolleren Gegenstände aufstellen“, erklärte er. Die Errichtung des archäologischen Freilichtmuseums ist seinen Worten nach schon ein wesentlich komplizierteres Vorhaben. Stehen sollte es in der Nähe des Ranč pod Babicou, und die Gemeinde sucht nach den Worten ihres Bürgermeisters Jozef Vančo schon ein geeignetes Grundstück.  Für den Bau des Freilichtmuseums ist schon eine Baugenehmigung und sind genügend finanzielle Mittel notwendig. Diese wollen das Archäologische Institut der SAV in Nitra und die Gemeinde Bojná aus EU-Fonds erhalten. „Ein Archäopark erfordert schon Infrastruktur, ein Informationszentrum und eine bestimmte Koordination. Wenigstens die Grundzüge dieses Projekts möchten wir bis zum Herbst fertig haben.  In solchen Parks oder Freilichtmuseen wird gewöhnlich sagen wir eine ganze Siedlung präsentiert, in der nicht nur Wohnhäuser wären, sondern auch Werkstätten, Wirtschaftsbauten, eine Kirche und Gräber. Einfach alles so, dass die Menschen eine allseitige Vorstellung davon hätten, wie man auf Bojná lebte. Wo am Glockenstuhl die bekannte Glocke von Bojná hängen würde und wo auch unmittelbar jene Funde präsentiert würden, die auf Bojná gefunden wurden. Sei es landwirtschaftliche Geräte, Handwerksgeräte, Pflüge, Sensen und alle jene Gegenstände, die die Slawen im gewöhnlichen Leben brauchten“, sagte Pieta. Drücken wir die Daumen, dass endlich auch in der Slowakei ein vollwertiges archäologisches Freilichtmuseum aus der Zeit Großmährens entsteht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná - ein bedeutendes großmährisches Zentrum",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

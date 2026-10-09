@@ -1,0 +1,262 @@
+{
+ "slug": "turcianske-jaseno-hradiste",
+ "data": {
+  "title": "Turčianske Jaseno – Hradište, eine Burganlage auf einem Bergsporn",
+  "slug": "turcianske-jaseno-hradiste-bergsporn",
+  "excerpt": "Die Kote 696 südöstlich von Turčianske Jaseno trägt den Namen Hradište. Die Burganlage erhebt sich plötzlich etwa 80 m über dem flachen Sattel auf einem Bergsporn über dem Tal des Bachs Vôdka; auf drei Seiten schützen sie Hänge von 35 bis 45 Grad, auf der vierten drei Wälle. Š. Janšák, der sie 1930 entdeckte und als erster publizierte, fand hier Scherben der Púchov-Kultur – dazu kommen slawische Keramik und eine Sage über den Untergang der Burg.",
+  "metaTitle": "Turčianske Jaseno – Hradište auf einem Bergsporn",
+  "metaDescription": "Hradište (Kote 696) südöstlich von Turčianske Jaseno erhebt sich etwa 80 m über einem Sattel – ein Bergsporn mit drei Wällen über dem Tal des Bachs Vôdka.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die Kote 696 (Hradište) liegt südöstlich von Turčianske Jaseno; südlich zieht sich das Tal des Bachs Vôdka hin, vom Berg Tlstý diel (862 m) nach Belá ein Bergrücken. Hradište erhebt sich etwa 80 m über dem flachen Sattel östlich von Horné Jeseno.",
+    "icon": "map"
+   },
+   {
+    "label": "Natürliche Verteidigung",
+    "value": "Auf drei Seiten schützte die Burganlage die Natur – Hänge mit einer Neigung von 35 bis 45 Grad (die Seiten b – c – e und d – e – f); ein freier, durch nichts behinderter Zugang bestand nur von Südwesten, im Streifen b – a – i.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Drei Wälle der Burganlage",
+    "value": "Drei Wälle: der deutliche Wall i – k – h von 112 m Länge im Norden, der vergangene Wall g – j, nur noch als 10–15 cm hohe Bodenwelle sichtbar, und der mächtige bogenförmige Wall d – 696 – f von 74 m Länge, außen 8 m, nach innen 6 m hoch.",
+    "icon": "shield"
+   },
+   {
+    "label": "Fläche der Burganlage",
+    "value": "Die Burganlage hatte eine Gesamtfläche von 5,2 ha: den äußeren Hof mit 5,04 ha und die waagerechte Hauptburg mit 0,16 ha, auf der vermutlich der bedeutendste Mann der Burg saß.",
+    "icon": "map"
+   },
+   {
+    "label": "Archäologische Funde",
+    "value": "Auf der Hauptburg und in der Umgebung des Walls i – h fand Š. Janšák grobkörnige und feinkörnige, an der Oberfläche grafitierte Scherben aus der Zeit der Púchov-Kultur.",
+    "icon": "star"
+   },
+   {
+    "label": "Potenziell slawischer Burgwall",
+    "value": "Der Fund slawischer Keramik führte Dr. Šalkovský und Dr. Hulínek dazu, die Burganlage zu den potenziell slawischen Burgwällen, den sogenannten „unsicheren befestigten Höhensiedlungen“, zu zählen.",
+    "icon": "scroll"
+   },
+   {
+    "label": "Sage Skaza Hradišťa",
+    "value": "Auf der Webseite der Gemeinde Turčianske Jaseno ist die Sage vom Untergang der Burganlage „Skaza Hradišťa“ erhalten, datiert in den Beginn des 10. Jahrhunderts; es ist eine Volkssage, kein gesicherter historischer Fakt.",
+    "icon": "book"
+   },
+   {
+    "label": "Erster Forscher",
+    "value": "Die Burganlage entdeckte und als erster publizierte Š. Janšák im Jahr 1930.",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Zeit der Púchov-Kultur",
+    "title": "Besiedlung in der Zeit der Púchov-Kultur",
+    "description": "Auf der Hauptburg und in der Umgebung des Walls i – h wurden Scherben gefunden, die in die Zeit der Púchov-Kultur gehören, in der die Burganlage schon besiedelt war.",
+    "type": "era"
+   },
+   {
+    "year": "⚠ UNSICHER",
+    "title": "Errichtung der Burganlage auf dem Bergsporn",
+    "description": "Der Bergsporn, der in Richtung des Hauptgefälles mit einem scharfen Zahn endet, wurde zur Errichtung der Burganlage genutzt; die genaue Zeit der Errichtung nennt der Text nicht.",
+    "type": "construction"
+   },
+   {
+    "year": "⚠ UNSICHER (slawische Zeit)",
+    "title": "Fund slawischer Keramik",
+    "description": "Auf der Burganlage wurde auch slawische Keramik gefunden, was Dr. Šalkovský und Dr. Hulínek dazu führte, die Burganlage zu den potenziell slawischen Burgwällen zu zählen.",
+    "type": "era"
+   },
+   {
+    "year": "1930",
+    "title": "Entdeckung und erste Publikation der Burganlage",
+    "description": "Die Burganlage entdeckte und als erster publizierte Š. Janšák im Jahr 1930.",
+    "type": "discovery"
+   },
+   {
+    "year": "1930",
+    "title": "Janšáks Scherbenfunde",
+    "description": "Auf der Hauptburg und in ihrer Umgebung fand Š. Janšák slawische und Púchov-Scherben, die die Besiedlung der Burganlage in dieser Zeit belegten.",
+    "type": "discovery"
+   },
+   {
+    "year": "Beginn des 10. Jh. (nach der örtlichen Sage)",
+    "title": "Legende vom Untergang des Hradište",
+    "description": "Nach der Dorfsage der Gemeinde Turčianske Jaseno ging die Burganlage am Beginn des 10. Jahrhunderts unter; es handelt sich um eine Volkssage, nicht um einen gesicherten historischen Fakt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2641,
+    "caption": "Kleiner Plan der Burganlage nach Š. Janšák",
+    "alt": "Kleiner Plan der Burganlage nach Š. Janšák"
+   },
+   {
+    "mediaId": 2642,
+    "caption": "Die Burganlage deutlich eingezeichnet auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die Burganlage deutlich eingezeichnet auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert"
+   },
+   {
+    "mediaId": 2643,
+    "caption": "LiDAR-Aufnahme der Burganlage",
+    "alt": "LiDAR-Aufnahme der Burganlage"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kote 696, die sich südöstlich der Gemeinde Turčianske Jaseno befindet, trägt den Namen Hradište. Südlich des Hradište liegt das Tal des Bachs Vôdka. Vom Berg Tlstý diel, Kote 862, in Richtung der Gemeinde Belá zieht sich ein Bergrücken hin, der östlich der Gemeinde Horné Jeseno von einem flachen Sattel unterbrochen wird. Das Hradište erhebt sich plötzlich in eine Höhe von etwa 80 m über diesen Sattel und fällt dann in das Tal des Vôdka-Bachs ab. Der Bergsporn endet in Richtung des Hauptgefälles mit einem mäßigen Hang, gegen das Gefälle mit einem scharfen Zahn, der zur Errichtung der Burganlage genutzt wurde. Die Burganlage entdeckte und als erster publizierte Š. Janšák im Jahr 1930."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Grundriss der Burganlage ist durch einen spitzen Winkel mit den Seiten b c e, i k e und dem Scheitel e gegeben. Die Seite b c e ist gleichzeitig die Kante, an der das Gelände bricht und unter einem Winkel von etwa 35 Grad abfällt. Ähnlich auch auf der Seite i h e, in der Partie h e. Der steilste Hang befindet sich in der Partie d e f, wo er unter einem Winkel von 45 Grad abfällt. Auf drei Seiten schuf die Natur also einen vollkommenen Schutz. Auf der südwestlichen Seite, im Streifen b a i, besteht ein freier, durch nichts behinderter Zugang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kleiner Plan der Burganlage nach Š. Janšák",
+    "alt": "Kleiner Plan der Burganlage nach Š. Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der deutliche Wall i k h von 112 m Länge liegt auf der Nordseite, in der Partie, wo die natürliche Geländestufe nicht steil und nicht hoch genug ist. Weiter befindet sich der vergangene Wall g j, der zweite Streifen der Befestigung, der mit dem vorherigen zusammenhängt. Er zeigt sich nur als 10–15 cm hohe Bodenwelle. Und schließlich finden wir hier den mächtigen bogenförmigen Wall d – 696 – f von 74 m Länge. In den Punkten d f schließt er an den steilen Abhang an und hat keine Höhe. Weiter von ihnen steigt er bis zur Kote 696 an. Nach außen, in Richtung Südwesten, ist er 8 m hoch, nach innen zur Gipfelfläche, in Richtung NO, 6 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Burganlage deutlich eingezeichnet auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die Burganlage deutlich eingezeichnet auf der Karte der 2. militärischen Landesaufnahme aus dem 19. Jahrhundert",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche der Burganlage beträgt 5,2 ha (zwischen den Linien a b c e i a) und lässt sich in zwei Teile gliedern. Der erste mit einer Fläche von 5,04 ha (I.) bildet den äußeren Hof, der vom höchsten Gipfel 696 in Richtung SW leicht abfällt. Für die Errichtung von Behausungen und eventuell die Unterbringung von Herden eignet er sich sehr gut, umso mehr, als er durch den Gipfel d e f und durch den künstlichen Wall gegen die Nordwinde geschützt ist. Der zweite Teil (II.), die vollkommen waagerechte Fläche d e f d mit einer Fläche von 0,16 ha, bildet den Kern oder die Hauptburg, von allen Seiten vollkommen geschützt, auf der offenbar der bedeutendste Mann der Burganlage saß."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Hauptburg fand Š. Janšák zwei Scherben, weitere fand er nordwestlich des Walls i h, unmittelbar unter ihm und auf den Feldern in seiner Nachbarschaft. Die Scherben sind grobkörnig und schwach gebrannt. Weitere Scherben sind feinkörnig, im Bruch und besonders noch an der Oberfläche grafitiert. Die Funde gehören in die Zeit der Púchov-Kultur, in der die Burganlage schon besiedelt war.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Aufnahme der Burganlage",
+    "alt": "LiDAR-Aufnahme der Burganlage",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dr. Šalkovský führt an, dass auf der Burganlage auch slawische Keramik gefunden wurde, weshalb er sie zu den potenziell slawischen Burgwällen zählt; konkret verwendet er den Begriff „unsichere befestigte Höhensiedlungen“. Zu den potenziell slawischen Burgwällen zählt sie auch Dr. Hulínek. Auf der Webseite der Gemeinde Turčianske Jaseno finden Sie diese großartige Sage über die Burganlage vom Beginn des 10. Jahrhunderts:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Untergang des Hradište (Skaza Hradišťa)",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Über Turčianske Jaseno erhebt sich die Anhöhe Hradište. Auf ihrem 695 Meter hohen Scheitel liegen Reste von Erdwällen. Vor einigen Jahren hob man hier einen Schacht aus. Man fand in ihm Reste verkohlter Balken, Zeugen einer alten Tragödie aus der Geschichte des Turzer Beckens.\n\nAn einem heißen Julitag im Jahre des Herrn 907 ging bei Bratislava (Pressburg) „der Ruhm der Slawen unter“. „Heidnische Horden strömten zusammen, hieben die slawische Schar nieder“ – so trauerte der Dichter Juraj Zvestoň Bulla über das Schicksal der Slowaken, über jene Helden, die im Donauland von den Lanzen altungarischer Reiter und den Schwertern bayerischer Ritter getötet zurückblieben. Großmähren fiel auf die Knie, auf den Trümmern altslawischer Behausungen wuchsen die Wohnstätten neuer ungarischer Grundherren.\n\nLange Zeit genügten ihnen diese neuen Lebensräume, es verlangte sie nicht hinauf in die Täler zwischen die Berge, wo dichte Wälder mit dem Widerstand der Einheimischen drohten. In den slowakischen Bergen lebte der Geist Großmährens noch in den kleinen Burgen und in den Burgwällen fort.\n\nZu den mächtigsten gehörte Vyšehrad, der zwischen dem Neutratal und dem Turzer Becken aufragte. Auf ihm saß der Adlige Zvan. Seiner Macht unterstanden die benachbarten kleinen Burgen, unter ihnen auch diese, die sich der Älteste Lysoň im nordöstlichen Winkel des Turzer Beckens auf einem steilen Hügel erbaute. Sie bot einen zureichenden Schutz, denn von drei Seiten umgab sie ein Steilhang, und nur ihre nördliche Anhöhe bot einen freieren Eingang zu ihr.\n\nWahrlich, man musste an die Verteidigung denken. Zvan mahnte auf den Beratungen der Ältesten immer häufiger: – Der Feind wird sich nicht zufriedengeben, solange er nicht auch die letzten Überreste unseres einst glorreichen Vaterlandes an sich gerissen hat. Man muss sich auf einen harten Kampf vorbereiten. Lasst wenigstens uns jenen Stolz und jene Tapferkeit bewahren, die uns unsere Vorfahren eingeprägt haben. Zeigen wir unseren Nachkommen, dass wir die Köpfe nicht vor dem Bösen senken, legen wir sie nicht einfach so unter das feindliche Schwert!\n\nZvan genügte eine solche Warnung nicht, und er fuhr fort. – Vergeblich werden wir uns jedoch zur Wehr setzen, wenn wir nicht weiterhin wie ein Mann zusammenhalten. Wir wissen doch gut, wie unser Großmährisches Reich gerade wegen der Zwistigkeiten und Streitigkeiten der Söhne des glorreichen Svatopluk in den Staub fiel!\n\nSolche weisen Worte fielen auch in den empfänglichen Sinn des Adligen Lysoň. Er hatte zwei Söhne – den älteren Jasoň und den jüngeren Klaboň. Die Söhne vermochten jedoch trotz der Zureden und Warnungen des Vaters kein brüderliches Verhältnis zueinander zu finden. Klaboň war launisch, unzufrieden, auf der kleinen Burg des Vaters war ihm immer etwas zu wenig. Besonders wurmte es ihn, dass ihm das Schicksal die Rolle des jüngeren Erben zugesprochen hatte, und so hasste er seinen Bruder Jasoň aus ganzer Seele.\n\nLysoň blieb nichts anderes übrig, als Klaboň eine eigene Behausung zu bauen. Auf einem steilen Hügel über dem Tal, wo von einer Seite aus dem Dickicht des Waldes die Katova skala weiß hervorschimmerte, wuchs eine neue kleine Burg, und es schien, dass dies den Zwist zwischen den Brüdern endgültig beigelegt hatte … Den Herrschern von der Donau ließen die Umrisse der Berge, die am nördlichen Horizont dunkelten, dennoch keine Ruhe. Sie lockten sie mit der Vorstellung, dass dort doch ihre Untertanen lebten und man diesen zeigen müsse, wer hier jetzt der Herr sei. Späher brachten ihnen Nachricht, dass dort weiterhin die Ordnungen des einstigen Reiches bestünden, dass ihre Adligen einträchtig wie ein Mann zusammenhielten und es nicht leicht sein werde, ihren Widerstand zu brechen. Sicher werde es am besten sein, einen solchen Bissen Stück für Stück zu verdauen, ihre Kraft zu zersplittern. Nun, und ein Weg werde sich schon finden, der beste aber wohl jener, der die größte Schwäche der Slawen nutzt, ihr Hadern und ihre Unverträglichkeit.\n\nAn einem Frühlingsabend klopfte ein fremder Pilger an das Tor von Klaboňs kleiner Burg. Er verlangte, mit dem Herrn zu sprechen, er bringe ihm, so sagte er, aus Nitra (Neutra) eine Botschaft …\n\nZvan auf dem Vyšehrad wusste schon gewiss, dass die Zeit gekommen war, sich zur Verteidigung zu rüsten. Er befahl, dass die Ältesten auf ihren Sitzburgen die Wachen verstärken sollten. Wenn sie fremde Bewaffnete erblickten, sollten sie die vorher vorbereiteten Holzstöße anzünden. Die Feuer und der Rauch würden melden, wohin man mit Hilfe ziehen müsse.\n\nEine Flut breitet sich jedoch nicht auf einem, sondern auf vielen Wegen aus. So erblickten eines Abends die Wachen auf Jasoňs kleiner Burg, wie am westlichen Horizont über dem Vyšehrad, aber auch über dem Vtáčnik im Süden, ja sogar auf der nahen Dedošová die Flammen der Warnfeuer aufloderten. Der neue Morgen über dem Lysec und der Jarabina kam nicht dazu, mit der Morgenröte aufzublitzen, als im Tal unter dem Steilhang der kleinen Burg ein Schwarm fremder Reiter erschien. Sie ließen die Pferde am Bach und begannen den Steilhang hinaufzuklettern.\n\nDie Verteidiger umstanden den Bau der kleinen Burg ringsum, nur den Weg von Norden ließen sie frei, von wo die Hilfe aus Klaboňs kleiner Burg kam. Schon schimmerten die Gewänder weiß, blitzten Schwerter und Äxte. Doch anstatt dass sich Klaboňs Leute auf den Feind geworfen hätten, fielen sie über Jasoňs entsetzte Krieger her.\n\nDer Verräter Klaboň durchstieß mit eigener Hand die Brust seines Bruders. Ein Glück, dass der Vater, der alte Lysoň, dies nicht mehr erlebte.\n\n- Jetzt werde ich Herr zweier Burgen sein! – verkündete Klaboň vor dem Befehlshaber des feindlichen Heeres. Dieser aber erwiderte. – Wenn du den eigenen Bruder verraten hast, kannst du leicht auch unsere ganze ungarische Heimat verraten! – Und Klaboň stürzte sich in ohnmächtiger Verzweiflung, als er seine ungeheure Schuld erkannte, in die Flammen, die begannen, seine heimatliche Wohnstätte zu verzehren. An seiner Stelle wuchsen später die Mauern der neuen Burg Sklabiňa.",
+    "author": null,
+    "source": "Skaza Hradišťa — eine Sage von der Webseite der Gemeinde Turčianske Jaseno"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

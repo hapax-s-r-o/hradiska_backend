@@ -1,0 +1,1170 @@
+{
+ "slug": "hradisko-svaty-jur-nestich",
+ "data": {
+  "title": "Neštich bei Svätý Jur – ein Burgwall mit zweitausendjähriger Besiedlung",
+  "slug": "nestich-svaty-jur-burgwall-sankt-georgen",
+  "excerpt": "Der Burgwall Neštich stellt die ältesten erhaltenen Baureste auf dem Gebiet der Stadt Svätý Jur dar. Darüber hinaus ist er ein Beleg für die kontinuierliche Besiedlung dieses Gebietes im Laufe von zwei Jahrtausenden und ein Ort, an den sich in Zeiten der Gefahr ganze Generationen der hiesigen Bewohner flüchteten. Sein Verteidigungssystem und seine enorme Fläche vermögen auch etwa 700 Jahre nach seiner Aufgabe noch zu überwältigen.",
+  "metaTitle": "Svätý Jur – Neštich: Burgwall mit 2000-jähriger Besiedlung",
+  "metaDescription": "Der Burgwall Neštich, die ältesten Baureste von Svätý Jur – ein mächtiges Verteidigungssystem und weite Zuflucht der Bewohner zweier Jahrtausende.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Teil der Pressburger Pforte, einer von vier Burgwällen zum Schutz der Südostgrenze Großmährens (neben Bratislava, Devín und Devínska Nová Ves)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche",
+    "value": "Insgesamt 3,26 ha (Höfe IV, III und Vorburgen I, II); nach dem Anbau der Vorburgen erreichte das befestigte Areal eine Länge von etwa 680 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion der Mauer der Hauptburg",
+    "value": "Erde mit Steinen, durch Holzbalken (Roste) verfestigt; Mauerbreite an der Vorburg mindestens 4,5 m, Graben konischer Form (Breite 2,6 m, Tiefe 1,5 m)",
+    "icon": "shield"
+   },
+   {
+    "label": "Funde der Oberschicht",
+    "value": "Bronzene Ohrringe (analog zum Gräberfeld Lupka in Nitra), Steigbügel, ein prächtiger Reitersteigbügel, ein Hortfund von sieben Ohrringen byzantinisch-orientalischen Stils",
+    "icon": "crown"
+   },
+   {
+    "label": "Handwerk",
+    "value": "Belegt sind Eisengewinnung, Schmiedezangen, axtförmige Eisenbarren als Zahlungsmittel, auf der Drehscheibe gedrehte Keramik – jedoch keine Handwerkswerkstätten",
+    "icon": "star"
+   },
+   {
+    "label": "Mittelalterliche Wasserleitung",
+    "value": "Tonrohrleitung von mehreren Kilometern Länge, die einzelnen Teile 55–58 cm lang, mit Schächtchen zur Entlüftung",
+    "icon": "building"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "Die eingehende archäologische Ausgrabung leitet PhDr. Július Vavák; die Ergebnisse wurden in Zo starších dejín Svätého Jura (2010) publiziert",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "kurz nach der Zeitenwende",
+    "title": "Das Königreich des Vannius",
+    "description": "Die Germanen schufen ein Staatsgebilde; Funde germanischer Eisenäxte und ein silberner Denar des Antoninus Pius (geprägt 138–161) – die Fundstelle diente wahrscheinlich nur als Fliehburg.",
+    "type": "founding"
+   },
+   {
+    "year": "720–750 (I. Phase der spätawarischen Zeit)",
+    "title": "Ältester Beleg für die Anwesenheit der Slawen",
+    "description": "Ein bronzener durchbrochener Beschlag mit der Darstellung eines Greifen (awarische Bronze, die auch bei den Slawen beliebt war), gefunden in der ersten Vorburg.",
+    "type": "discovery"
+   },
+   {
+    "year": "letzte Jahrzehnte des 8. Jahrhunderts",
+    "title": "Errichtung der ersten Befestigung",
+    "description": "Die vermutete ältere unbefestigte Siedlung wurde auf der Hauptburg teilweise mit Wällen umgeben; die Befestigung wurde zur Zuflucht für die angrenzende offene Siedlung.",
+    "type": "construction"
+   },
+   {
+    "year": "30er Jahre des 9. Jahrhunderts",
+    "title": "Entstehung des Burgwalls als Verteidigungselement",
+    "description": "Die wahrscheinlichste Entstehungszeit, zusammenhängend mit den Kämpfen zwischen dem Mährischen und dem Neutraer Fürstentum – der Burgwall als Verteidigungselement der Nordgrenze der Region Nitra.",
+    "type": "founding"
+   },
+   {
+    "year": "vor der Entstehung Großmährens",
+    "title": "Zentrum der regionalen Verwaltung",
+    "description": "Der Burgwall wurde zum Zentrum der regionalen Verwaltung, beherrscht von einer entstehenden Machtelite – zu dieser Zeit und in diesem Raum ohne Parallele außer Devín.",
+    "type": "event"
+   },
+   {
+    "year": "833",
+    "title": "Entstehung Großmährens – Aufschwung des Burgwalls",
+    "description": "Nach der Vereinigung der Länder folgt die Erweiterung der Befestigung um die erste Vorburg.",
+    "type": "construction"
+   },
+   {
+    "year": "2. Hälfte des 9. Jahrhunderts",
+    "title": "Errichtung der zweiten Vorburg",
+    "description": "Der Burgwall erlebt einen weiteren Aufschwung als regionales Zentrum und Handwerkszentrum; die Gesamtlänge des befestigten Areals erreichte etwa 680 m.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende des 9. – 1. Hälfte des 10. Jahrhunderts",
+    "title": "Untergang der Hütte mit dem Schmuckhortfund auf der Hauptburg",
+    "description": "Die Behausung mit einem Hortfund von sieben Ohrringen, einem Gombík, einem Fingerring, einem Gefäß, einer Speerspitze und einem Dolch ging durch einen Brand unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "Ende des 10. Jahrhunderts",
+    "title": "Unterbrechung der Besiedlung",
+    "description": "Die Funde auf dem Burgwall brechen zeitweilig ab; die folgenden etwa 200 Jahre diente der Burgwall nur als zeitweiliger Zufluchtsort während Angriffen.",
+    "type": "destruction"
+   },
+   {
+    "year": "Anfang des 13. – Ende des 14. Jahrhunderts",
+    "title": "Erneuerung durch die Grafen von Sankt Georgen und Bösing",
+    "description": "Die dauerhafte Besiedlung wurde erneuert, ein Palastbau, eine Wasserzisterne und eine Tonrohrleitung von etwa 3 km Länge errichtet; das Wallsystem wurde erneuert und um ein neues Tor ergänzt.",
+    "type": "construction"
+   },
+   {
+    "year": "nach dem Jahr 1241 (Tatareneinfall)",
+    "title": "Verlegung auf die Burg Biely Kameň",
+    "description": "Die Grafen gingen zum Bau einer steinernen Burg auf dem Hügel auf der anderen Seite des Tales über; auf dem Neštich wurde noch längere Zeit eine ständige Besatzung gehalten.",
+    "type": "event"
+   },
+   {
+    "year": "14. Jahrhundert",
+    "title": "Endgültige Aufgabe des Burgwalls",
+    "description": "Nach der Aufgabe gab es nie mehr eine dauerhafte Besiedlung, auch wenn das Wallsystem noch in späteren Kämpfen als Zuflucht dienen konnte.",
+    "type": "destruction"
+   },
+   {
+    "year": "2010",
+    "title": "Publikation der Grabungsergebnisse",
+    "description": "PhDr. Július Vavák veröffentlichte die aktuellen Grabungsergebnisse in der Kollektivmonografie Zo starších dejín Svätého Jura.",
+    "type": "discovery"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 842,
+    "alt": "Rekonstruktion eines langgestreckten Burgwalls mit zwei Höfen und einer Mauer, Blick aus der Vogelperspektive"
+   },
+   {
+    "mediaId": 844,
+    "caption": "Blick von der Wallkrone",
+    "alt": "Blick von der Wallkrone"
+   },
+   {
+    "mediaId": 845,
+    "caption": "Der Innenraum des Burgwalls, im Hintergrund der Wall",
+    "alt": "Der Innenraum des Burgwalls, im Hintergrund der Wall"
+   },
+   {
+    "mediaId": 846,
+    "caption": "Der Burgwall Neštich hatte mächtige Wälle",
+    "alt": "Der Burgwall Neštich hatte mächtige Wälle"
+   },
+   {
+    "mediaId": 847,
+    "caption": "Ein Reitersteigbügel aus der ersten Hälfte des 9. Jahrhunderts aus Neštich",
+    "alt": "Ein Reitersteigbügel aus der ersten Hälfte des 9. Jahrhunderts aus Neštich"
+   },
+   {
+    "mediaId": 851,
+    "caption": "Einer der neuesten Funde – ein lunulaförmiger Anhänger",
+    "alt": "Einer der neuesten Funde – ein lunulaförmiger Anhänger"
+   },
+   {
+    "mediaId": 861,
+    "caption": "Der nordwestliche Teil des Walles",
+    "alt": "Der nordwestliche Teil des Walles"
+   },
+   {
+    "mediaId": 862,
+    "caption": "Der westliche Wall",
+    "alt": "Der westliche Wall"
+   },
+   {
+    "mediaId": 863,
+    "caption": "Neštich ist einer der wenigen Burgwälle, auf denen noch immer eine Ausgrabung läuft (Dr. Vavák)",
+    "alt": "Neštich ist einer der wenigen Burgwälle, auf denen noch immer eine Ausgrabung läuft (Dr. Vavák)"
+   },
+   {
+    "mediaId": 864,
+    "caption": "Der südwestliche Wall",
+    "alt": "Der südwestliche Wall"
+   },
+   {
+    "mediaId": 865,
+    "caption": "Die aktuellen archäologischen Schnitte",
+    "alt": "Die aktuellen archäologischen Schnitte"
+   },
+   {
+    "mediaId": 868,
+    "caption": "Der südwestliche Wall",
+    "alt": "Der südwestliche Wall"
+   },
+   {
+    "mediaId": 869,
+    "caption": "Der nordwestliche Wall",
+    "alt": "Der nordwestliche Wall"
+   },
+   {
+    "mediaId": 870,
+    "caption": "Der Übergang zwischen Hauptburg und Vorburg",
+    "alt": "Der Übergang zwischen Hauptburg und Vorburg"
+   },
+   {
+    "mediaId": 871,
+    "caption": "Ein Schnitt durch den Wall; leider war mein „erfahrenes“ Auge hier nicht in der Lage, Spuren der inneren Holzkonstruktion zu erkennen",
+    "alt": "Ein Schnitt durch den Wall; leider war mein „erfahrenes“ Auge hier nicht in der Lage, Spuren der inneren Holzkonstruktion zu erkennen"
+   },
+   {
+    "mediaId": 872,
+    "caption": "Der südöstliche Wall",
+    "alt": "Der südöstliche Wall"
+   },
+   {
+    "mediaId": 873,
+    "caption": "Erneut der südöstliche Wall",
+    "alt": "Erneut der südöstliche Wall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Neštich stellt die ältesten erhaltenen Baureste auf dem Gebiet der Stadt Svätý Jur (Sankt Georgen) dar. Darüber hinaus ist er ein Beleg für die kontinuierliche Besiedlung dieses Gebietes im Laufe von zwei Jahrtausenden und ein Ort, an den sich in Zeiten der Gefahr ganze Generationen der hiesigen Bewohner flüchteten. Auch wenn wir etwa 700 Jahre nach seiner Aufgabe nur noch Reste seines einstigen Ruhms sehen können, vermögen uns sein Verteidigungssystem und seine enorme Fläche immer noch zu überwältigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burgwälle spielten in der Geschichte Großmährens eine unersetzliche Rolle. Außer der Verteidigungsfunktion dienten sie gleichzeitig auch als politische und Verwaltungszentren, als Sitze der höheren Gesellschaftsschicht, als Warenlager und als Orte, die für die Entwicklung der handwerklichen Produktion geeignet waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "3e470a798c9140979af104724bfbe46c",
+    "url": "https://sketchfab.com/models/3e470a798c9140979af104724bfbe46c/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im südöstlichen Abschnitt der großmährischen Grenzen, auch Pressburger Pforte genannt, erfüllten diese Aufgaben vier Burgwälle – in Bratislava (Pressburg), Devín (Theben), Devínska Nová Ves und auf dem Neštich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die vorslawische Besiedlung im Gebiet des Hradisko"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "50",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Kenntnissen über die Kulturen, die auf dem Gebiet der heutigen Slowakei lebten, wissen wir, dass der Bau von Burgwällen für die Slawen typisch war. Der Berg, auf dem sich heute der Burgwall befindet, zog jedoch mit seiner ausgezeichneten Lage auch die Aufmerksamkeit jener Völker an, die dieses Gebiet vor den Slawen bewohnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das wohl älteste dieser Völker waren die Germanen, die auf diesem Gebiet kurz nach der Zeitenwende lebten und hier ein Staatsgebilde namens Königreich des Vannius schufen. Aus ihrer Zeit stammen Funde germanischer Eisenäxte. Ebenso gehört hierher einer der neuesten Funde – ein silberner Denar des Antoninus Pius, geprägt in den Jahren 138–161. Da wir aus dieser Zeit nur eine kleine Menge an Funden kennen, ist es höchst wahrscheinlich, dass das Gebiet des Burgwalls nur als Fliehburg genutzt wurde – als zeitweilige Siedlung, die nur in Zeiten der Gefahr genutzt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen auf dem Hradisko"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wahrscheinlichste Entstehungszeit des Burgwalls sind die dreißiger Jahre des neunten Jahrhunderts. Gerade damals beginnen die Kämpfe zwischen dem Mährischen und dem Neutraer Fürstentum, und gerade damals konnte auch der Burgwall als Verteidigungselement der Nordgrenze des Fürstentums Neutra entstehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der älteste Teil des Burgwalls ist wahrscheinlich der ellipsenförmige Hof im höchsten Teil des Berges, der als Hof IV bezeichnet wird. Nach seiner Entstehung ließ sich hier eine ständige Besatzung nieder. Nach einem der Angriffe wurde allmählich auch der Hof III errichtet und bei der ständig wachsenden Spannung in den folgenden Jahrzehnten auch die Vorburgen I und II. Der ganze Komplex erreichte damit eine Fläche von 3,26 ha, wovon auf den Burgwall selbst etwa die Hälfte entfällt. Die Errichtung eines so ausgedehnten Baus ist ein Beweis für die Existenz einer organisierten Gesellschaft, aber auch für eine dichte Besiedlung des Gebietes, denn an dem Bau mussten große Mengen von Menschen im Laufe der langen Jahre der Errichtung arbeiten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick von der Wallkrone",
+    "alt": "Blick von der Wallkrone",
+    "width": "100",
+    "showCaption": true,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Komplex des Burgwalls war nach den damaligen Gewohnheiten so gegliedert, dass im höchsten (und gleichzeitig ältesten) Teil bedeutende Personen und Krieger wohnten. Gleichzeitig mussten hier auch reiche Frauen leben, wofür die Funde bronzener Ohrringe ein Beweis sind. Ähnliche Ohrringe sind nur vom Burgwall in Nitra (Neutra) bekannt (Gräberfeld Lupka), was von einer bestehenden Verbindung zwischen beiden Sitzen zeugt. Ebenso bedeutend sind auch die Funde eines Steigbügels, von Ohrringen mit doppeltem Anhänger sowie von zwei vollständig erhaltenen Gefäßen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im zweiten Teil des Burgwalls (Hof III) waren die gewöhnlichen Bewohner angesiedelt. Gleichzeitig mussten hier Wirtschaftsbauten stehen. Belegt ist die Gewinnung von Eisen, nicht aber seine Verarbeitung. Es gelang nicht, die Überreste einer einzigen Handwerkswerkstatt zu finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den Funden von den übrigen Burgwällen ist es höchst wahrscheinlich, dass sich auf dem Burgwall auch ein Sakralbau befinden musste. Wegen der riesigen Fläche ist seine baldige Entdeckung jedoch nur wenig wahrscheinlich. Gleichzeitig ist auch nicht sicher, ob er aus dauerhaftem Material errichtet wurde, dessen Überreste bis in die heutige Zeit überdauern konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Innenraum des Burgwalls, im Hintergrund der Wall",
+    "alt": "Der Innenraum des Burgwalls, im Hintergrund der Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neštich gehört zu den wenigen slawischen Burgwällen, auf denen gegenwärtig eine eingehende archäologische Ausgrabung unter der Leitung von PhDr. Július Vavák läuft. Die aktuellen Grabungsergebnisse erschienen in der Publikation „Zo starších dejín Svätého Jura“ 2010, Kollektivmonografie (sie ist zusammen mit weiteren Büchern im Kleinkarpatischen Museum in Pezinok (Bösing) zu kaufen). Die folgenden Erkenntnisse schöpfen vor allem aus dieser Publikation."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde – Die Zeit des Awarenkhaganats",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den ältesten Gegenständen, mit denen die Anwesenheit der Slawen verbunden werden kann, gehört das Fragment eines eisernen slawischen Hakensporns. Besonders wichtig sind die Funde der sogenannten awarischen Bronzen aus der Lage Hradisko, die auch bei den Slawen Beliebtheit fanden. Einer von ihnen ist ein bronzener durchbrochener Beschlag mit der Darstellung eines Greifen, gefunden in der ersten Vorburg, in der Nähe des Walles der Vorburg und des Walles der Hauptburg. Der Gegenstand ist bisher der älteste Fund, der mit dem Aufenthalt der Slawen auf dem Burgwall verbunden werden kann. Er gehört der I. Phase der spätawarischen Zeit an (zwischen den Jahren 720–750). Aus der Lage kennen wir auch jüngere awarische Beschläge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall Neštich hatte mächtige Wälle",
+    "alt": "Der Burgwall Neštich hatte mächtige Wälle",
+    "width": "100",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeit des Fürstentums Neutra und Großmährens",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Reitersteigbügel aus der ersten Hälfte des 9. Jahrhunderts aus Neštich",
+    "alt": "Ein Reitersteigbügel aus der ersten Hälfte des 9. Jahrhunderts aus Neštich",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere interessante Funde sind Artefakte westlicher Herkunft bzw. deren Derivate, die in die Zeit des sogenannten Blatnica-Mikulčice-Horizonts datiert werden können und deren Vorkommen sich teilweise mit der Zirkulation der awarischen Bronzen überschneidet. Ein mit Bronze tauschierter Steigbügel, gefunden im Wall der Vorburg, eiserne zungenförmige Riemenzungen von Gürteln, eine gegliederte Riemenschlaufe, ein mit Kerbschnitt verziertes Plättchen. Die spätawarischen Beschläge wie auch weitere Gegenstände aus der Umgebung des Burgwalls weisen offensichtlich auf ein Interesse an der Fundstelle hin, das spätestens um die Mitte des 8. Jahrhunderts belegt ist. Die vermutete, indirekt belegte ältere unbefestigte Siedlung konnte unmittelbar danach am wenigsten zugänglichen Teil – der Hauptburg – spätestens in den letzten Jahrzehnten des 8. Jahrhunderts teilweise mit Wällen umgeben worden sein. Die Befestigung wurde zur Zuflucht für die Bewohner der angrenzenden offenen Siedlung. Belege für den Zerstörungshorizont dieser offenen Siedlung sind durchgebrannte Keramik, Lehmbewurf, Tierknochen, ein karolingischer Steigbügel, gefunden im Wall der Vorburg, und schließlich auch die Verteilung der awarischen Bronzen. Die archäologische Ausgrabung und die Funde aus Privatsammlungen der letzten Jahre belegen klar die Annahme von V. Turčan, dass der Burgwall vor der Entstehung Großmährens zum Zentrum der regionalen Verwaltung wurde, beherrscht von einer entstehenden Machtelite, die über militärische Kraft verfügte. Der Charakter der Funde vom Burgwall weist sogar auf die Tatsache hin, dass es ein bedeutendes Zentrum war, das außer dem Burgwall auf dem Devín (Theben) in dieser Zeit und in diesem Raum keine Parallele hat. Nach der Entstehung Großmährens im Jahr 833 verfolgen wir einen weiteren Aufschwung des Burgwalls von Svätý Jur als regionales Zentrum und Handwerkszentrum. Wir sehen ihn in der Erweiterung der Befestigung um die Vorburg, die sich am wahrscheinlichsten nach der Vereinigung der Länder vollzog. In der Zeit der 2. Hälfte des 9. Jahrhunderts erlebt der Burgwall einen Aufschwung, der sich außer der Errichtung der ersten Vorburg auch in der Errichtung der zweiten Vorburg zeigte. Der Fortbestand des Burgwalls zeugt von seiner Bedeutung auch nach der Vereinigung der Länder, als die Region Nitra offenbar ein gewisses Maß an Selbstständigkeit bewahrte, das sich auch in den Konflikten der Neutraer Fürsten mit den mährischen zeigte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Waffen – ein Beleg für die Anwesenheit der herrschenden Schicht",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "50",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die militärische Komponente unter den Siedlern sind Funde von Waffen, Äxten, zahlreichen Pfeilspitzen, Lanzen/Speeren. Zwei Äxte kannten wir bisher aus der Lage Hradisko, eine schlanke Form und den Teil einer Bartaxt. In Privatsammlungen befinden sich jedoch weitere sieben Äxte von dieser Fundstelle. Von den neueren Funden verdienen vor allem die Lanzen/Speere Aufmerksamkeit. Von den Militaria sind die Pfeilspitzen am zahlreichsten vertreten, vor allem solche mit Flügelchen, seltener blatt- und dreiblattförmige Formen. Zur Ausrüstung des Reiters gehörte der erwähnte prächtige Steigbügel, der sicherlich einem Angehörigen der höheren Gesellschaftsschicht gehörte. Von den neueren Funden halten wir bei den Sporen und den Seitenstangen der Trensen inne. Gewöhnlichere Funde stellen Gürtelschnallen dar. Ein wichtiger Bestandteil der Kriegerausrüstung waren auch die kostspieligen Kettenhemden, von denen wir an mehreren Stellen des Burgwalls Ringe gefunden haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Werkzeuge",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall fanden sich auch zahlreiche Belege für das Leben seiner Bewohner, die Gegenstände des persönlichen Bedarfs repräsentieren, wie Keramikgefäße und ihre Fragmente, verschiedene Typen von Eimerbeschlägen, Messer, Feuerstähle. Interessant sind auch die Funde von Schlüsseln. Hakenförmige Typen vertreten Funde aus einer Privatsammlung. Handwerkliche Werkzeuge oder deren Teile kennen wir bisher (außer den Äxten) nur vom Burgwall. Vertreten werden sie durch Sägeblätter, Äxte, einen Bohrer (Abb. 10: 1, 2), eine Schere, Ahlen, keramische Gewichte und Spinnwirtel, steinerne Schleif- und Glättsteine. Diese Gegenstände belegen die Arbeit von Handwerkern, etwa die Holzbearbeitung, die Kleiderherstellung, die Keramikproduktion, indirekt belegt durch zahlreiche Funde von Scherbenmaterial, die auf der Drehscheibe gedreht und vor allem mit typischen Bündeln von Wellenlinien und Linien versehen war. Das Schmiedehandwerk belegen Funde von Zangen. Mit ihm hängt auch die Herstellung von Halbfabrikaten und gleichzeitig von Zahlungsmitteln zusammen – von axtförmigen Eisenbarren in verschiedenen Größen, die sowohl vollständig als auch oft in Fragmenten gefunden werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schmuck"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für den klassischen Horizont der großmährischen Zeit sind Funde von Frauenschmuck des Donautyps, repräsentiert durch fünf bronzene Ohrringe (einer vergoldet), gefunden in der ersten Vorburg, angeblich an der Stelle des Wallschnitts. In diesen Horizont fällt auch der Fund eines vergoldeten Gombíks (kugelförmiger Knopfanhänger) sowie ein Hortfund, bestehend aus sieben Ohrringen (zwei im byzantinisch-orientalischen Stil, von denen einer vergoldet, der andere versilbert ist), einem bronzenen Gombík und einem Fingerring, aus einer auf der Hauptburg gefundenen Hütte, gemeinsam mit einem vollständigen Gefäß, einer Speerspitze und einem Dolch. Es scheint, dass die Behausung durch einen Brand unterging. Angesichts des Inhalts des Hortfundes können wir über einen Untergang des Befundes irgendwann vom Ende des 9. bis im Laufe der 1. Hälfte des 10. Jahrhunderts nachdenken. Von den weiteren slawischen Schmuckstücken erwähnen wir eine scheibenförmige Glasperle, einen Gombík aus Glas, ein bronzenes, mit Treibarbeit verziertes Schildchen eines Fingerringes. Zu den neuesten Funden zählt der Fund eines Gombíks, der mit hochwertiger Filigrantechnik verziert ist, die für die großmährische Zeit typisch ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Behausungen und Wirtschaftsgebäude"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute wissen wir, dass die Bewohner ihre Behausungen an Stellen hergerichteter Terrassen sowie an Stellen natürlicher Plateaus errichteten. Eine relativ gute Vorstellung haben wir von den Behausungen der Bewohner, die Blockbauten vertraten. Was die Anzahl der Behausungen betrifft, ist sie schwer zu bestimmen. Größenordnungsmäßig konnten es Dutzende von Blockbauten sein, die im größten Aufschwung auch mehreren Hundert Bewohnern Unterkunft boten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall befanden sich auch einige nicht bewohnte, meist kleinere Befunde wirtschaftlichen Charakters. Es konnte sich um Schuppen, Schweineställe oder Stallungen handeln. Die Gruben stellten Kühlräume für Lebensmittel dar. Offensichtlich ist die Anwesenheit von Produktionsbefunden. Indirekt ist sie durch die Funde von Schmiedezangen und Schlacke belegt, die wir erwähnt haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Mauer",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Einer der neuesten Funde – ein lunulaförmiger Anhänger",
+    "alt": "Einer der neuesten Funde – ein lunulaförmiger Anhänger",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Mauer auf der Hauptburg wurde aus Erde mit Steinen gebildet, die durch übereinanderliegende Holzbalken – wohl Roste – verfestigt war. Von der Seite der Vorburg wurde eine Steinmauer festgestellt (Mauerbreite mindestens 4,5 m). Von der Außenseite war ein Graben konischer Form ausgehoben (Breite 2,6 m und Tiefe 1,5 m). Ein innerer Graben wurde hier nicht untersucht. Dieses älteste befestigte Areal war etwa 325 m lang und mindestens 170 m breit. Die Befestigung der ersten Vorburg ging durch einen Brand unter. Wann das geschah, ist schwer zu sagen. Auch nach der Aufgabe war der Burgwall während des restlichen Mittelalters eine Fliehburg. Der Wall der ersten Vorburg wurde zweimal umgebaut, errichtet aus Erde, die mit Pfosten und Balken fixiert war, und von der Außenseite mit einer Steinmauer versehen (ursprünglich 3 m, nach dem Umbau 4,5–5 m). Die Wirksamkeit der Befestigung erhöhte die Verdoppelung der Mauer der ersten Vorburg. Der Wall der zweiten Vorburg sowie der Umbau der ersten vollzogen sich offenbar im Laufe der zweiten Hälfte des 9. oder am Anfang des 10. Jahrhunderts. Bestandteil der Befestigung waren auch die vor den Wällen ausgehobenen Gräben. Die Gesamtlänge des befestigten Areals erreichte nach dem Anbau der Befestigungen der Vorburgen etwa 680 m, einschließlich des niedrigen Walles der zweiten Vorburg, der bisher nicht untersucht wurde. Die Eingangstore in den Burgwall sind ebenfalls in der Längsachse zu erwarten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die weitere Besiedlung des Burgwalls nach dem Untergang Großmährens",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Vertretung der Funde auf dem Burgwall ist am Ende des 10. Jahrhunderts zeitweilig unterbrochen. In den folgenden etwa 200 Jahren war er erneut nur ein zeitweiliger Zufluchtsort in Zeiten von Angriffen. Dieser Zustand änderte sich erst mit der Ankunft der Grafen von Sankt Georgen und Bösing, unter deren Eigentum sich die dauerhafte Besiedlung für die Zeit vom Anfang des 13. bis zum Ende des 14. Jahrhunderts erneuerte. Sie ließen einen Palastbau, eine Wasserzisterne und eine Tonrohrleitung von etwa 3 Kilometern Länge errichten. Gleichzeitig erneuerten sie auch das Wallsystem und ergänzten es um ein Tor, das den damaligen Trends im Bau von Adelssitzen entsprach."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe Július Vavák stellt den Burgwall und die interessantesten Funde von ihm vor:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "rXC4T2crmaU",
+    "url": "https://www.youtube.com/embed/rXC4T2crmaU",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obwohl die Grafen für den Umbau des Burgwalls sorgten, gingen sie schon einige Jahrzehnte später zum Bau einer steinernen Burg auf dem Hügel auf der anderen Seite des Tales über. Das geschah wahrscheinlich nach dem Tatareneinfall im Jahr 1241. Nach ihrer Umsiedlung auf die Burg Biely Kameň wurde auf dem ursprünglichen Burgwall noch längere Zeit eine ständige Besatzung gehalten. In den Ruinen der mittelalterlichen Wohngebäude gelang es, nur sehr wenige Funde zu finden, was von einem ruhigen Abzug der Bewohner vom Burgwall zeugt. Nach der Aufgabe des Burgwalls im Laufe des 14. Jahrhunderts gab es auf seinem Gebiet nie mehr eine dauerhafte Besiedlung, auch wenn es möglich ist, dass die Bewohner der umliegenden Siedlungen das bestehende Wallsystem auch bei einigen Kämpfen in den folgenden Jahrzehnten als Zuflucht nutzten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die mittelalterliche Wasserleitung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Zeit der mittelalterlichen Besiedlung war es notwendig, eine ständige Lieferung von Trinkwasser in die Räume des Burgwalls zu sichern. Dazu diente eine Tonrohrleitung, die in einer Länge von mehreren Kilometern gebaut wurde und die eine Verbindung des Burgwalls mit einer Quelle außerhalb des Wallsystems herstellte. Die Leitung war aus Ton hergestellt. Ihre einzelnen Teile maßen 55–58 cm; mit einer Lichtweite der Rohre von 8,5–13,0 und 7,7–13,0 passten die einzelnen Teile vollkommen ineinander. Außer den Rohren enthielt sie auch Schächtchen, die ihrer Entlüftung, aber auch dem Auffangen von Verunreinigungen und Schlamm dienten. Einzelne Teile der Leitung werden schon seit einigen Jahrzehnten bei verschiedenen Grabungsarbeiten entdeckt. Ein Teil der Entdeckungen landete im Stadtmuseum, aber auch in Privatsammlungen der Finder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Zugang zum Burgwall und seine Markierung: ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neštich gehört zu den slawischen Burgwällen mit relativ "
+       },
+       {
+        "type": "text",
+        "text": "einfachem Zugang und klarer und übersichtlicher Markierung. ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Sie fahren durch das Zentrum von Jur, am Kreisverkehr gerade, an der bekannten mittelalterlichen Kirche mit der erstaunlichen Akustik vorbei (hier wurden einige bedeutende, hochwertige CDs aufgenommen – z. B. das Projekt Mater von Godár), dann gabelt sich die Straße; mit dem Auto ist es einfacher, rechts zu fahren, und nach etwa 150 Metern ist ein Parkplatz. Weiter geht es auf einer Asphaltstraße mit Einfahrverbot. Rüstige Wanderer müssen sich nicht scheuen und können sich direkt quer über die Höhenlinien den steilen Hang hinauf aufmachen und gelangen unmittelbar auf den Burgwall; die bequemeren gehen auf der Asphaltstraße, wobei sich diese nach einigen hundert Metern gabelt. Hier muss man nach links abbiegen und auf dem Gipfel des Hügels erneut nach links, und Sie sind auf dem Burgwall. Vor dem äußeren Wall steht ein großer Stein mit der eingemeißelten Inschrift „Veľkomoravské hradisko“, und daneben finden wir eine sehr schön gestaltete"
+       },
+       {
+        "type": "text",
+        "text": " Informationstafel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zur Geschichte des Burgwalls. "
+       },
+       {
+        "type": "text",
+        "text": "Ich lobe es und bin froh, dass es bei uns auch so markierte Burgwälle gibt.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "100",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotogalerie von der Ausgrabung (5. 1. 2012)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der nordwestliche Teil des Walles",
+    "alt": "Der nordwestliche Teil des Walles",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der westliche Wall",
+    "alt": "Der westliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Neštich ist einer der wenigen Burgwälle, auf denen noch immer eine Ausgrabung läuft (Dr. Vavák)",
+    "alt": "Neštich ist einer der wenigen Burgwälle, auf denen noch immer eine Ausgrabung läuft (Dr. Vavák)",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der südwestliche Wall",
+    "alt": "Der südwestliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die aktuellen archäologischen Schnitte",
+    "alt": "Die aktuellen archäologischen Schnitte",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der südwestliche Wall",
+    "alt": "Der südwestliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der nordwestliche Wall",
+    "alt": "Der nordwestliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Übergang zwischen Hauptburg und Vorburg",
+    "alt": "Der Übergang zwischen Hauptburg und Vorburg",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Schnitt durch den Wall; leider war mein „erfahrenes“ Auge hier nicht in der Lage, Spuren der inneren Holzkonstruktion zu erkennen",
+    "alt": "Ein Schnitt durch den Wall; leider war mein „erfahrenes“ Auge hier nicht in der Lage, Spuren der inneren Holzkonstruktion zu erkennen",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der südöstliche Wall",
+    "alt": "Der südöstliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Erneut der südöstliche Wall",
+    "alt": "Erneut der südöstliche Wall",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hradisko Svätý Jur – Neštich",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": true,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

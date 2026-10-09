@@ -1,0 +1,550 @@
+{
+ "slug": "zvolen-motova-hradok-priekopa",
+ "data": {
+  "title": "Zvolen-Môťová – die kleine Burg Priekopa über dem Zusammenfluss der Slatina",
+  "slug": "zvolen-motova-kleine-burg-priekopa",
+  "excerpt": "Die Erforschung der frühmittelalterlichen Burgwälle im Zvolener Becken ist mit den Namen Štefan Janšák und Ján Eisner verbunden, die als Erste die kleine Burg Priekopa in Zvolen-Môťová beschrieben haben; Š. Janšák nahm sie überdies geodätisch auf. In der neueren Geschichte hat sich Marta Mácelová der Erforschung des Burgwalls gewidmet – von ihr stammt der folgende Artikel, in dem sie die wichtigsten Erkenntnisse zusammengefasst hat.",
+  "metaTitle": "Zvolen-Môťová – die kleine Burg Priekopa",
+  "metaDescription": "Der Burgwall Priekopa über dem Zusammenfluss von Slatina und Neresnica bei Zvolen, den Štefan Janšák und Ján Eisner als Erste beschrieben haben.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Über dem Zusammenfluss von Slatina und Neresnica in Môťová, etwa 1 km südöstlich des Schlosses von Zvolen, am Nordfuß des Gebirges Javorie",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße",
+    "value": "Unregelmäßiges Rechteck von max. 165 × 95 m, Fläche 9891 m², Fläche des Walls 1886 m²",
+    "icon": "shield"
+   },
+   {
+    "label": "Befestigung – 1. Phase",
+    "value": "1,60 m breite Steinmauer aus trocken verlegtem Bruchstein (biotitische Granolithe) an der Außenseite des Lehmkerns",
+    "icon": "shield"
+   },
+   {
+    "label": "Befestigung – 2. Phase",
+    "value": "1,40 m breite Kastenkonstruktion mit angefeuchtetem gelbem Ton; die Breite des Walls verdoppelte sich durch diesen Umbau",
+    "icon": "shield"
+   },
+   {
+    "label": "Befestigung – 3. Phase",
+    "value": "Umlaufende, mit Mörtel gemauerte Steinmauer (Breite 120 cm) über der Kastenkonstruktion, in das 11. Jahrhundert datiert",
+    "icon": "building"
+   },
+   {
+    "label": "Graben",
+    "value": "Spitzer Abschnittsgraben mit nachgewiesener Tiefe von 380 cm; gegenwärtige Höhe des Walls 290 cm, Breite am Fuß 18 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Gegenwärtiger Zustand",
+    "value": "Seit 1967 durch eine Kleingartensiedlung verwüstet – das Plateau parzelliert, der Graben teilweise verfüllt, Hütten unmittelbar auf der kleinen Burg errichtet",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Entstehung des Burgwalls",
+    "description": "Der Befund 1/90 ist aufgrund großmährischer Keramik in das 9. Jahrhundert datiert – der Burgwall erfüllte die Rolle eines lokalen Verwaltungszentrums, offenbar auch in den bewegten Zeiten des Untergangs Großmährens.",
+    "type": "founding"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Fortdauernde Besiedlung",
+    "description": "Die übrigen untersuchten Befunde enthalten für diese Zeit typische Keramik.",
+    "type": "event"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Dritte Bauphase der Befestigung",
+    "description": "Auf dem in der ersten Phase errichteten Lehm-Stein-Wall kam entlang des Umfangs eine gemauerte Steinmauer hinzu (Breite 120 cm); der Untergang der kleinen Burg wird mit dem Bau der Komitatsburg auf dem Pustý hrad in Zusammenhang gebracht.",
+    "type": "construction"
+   },
+   {
+    "year": "1263",
+    "title": "Urkunde Bélas IV. (irrig zugeordnet)",
+    "description": "Ursprünglich wurde angenommen, der Burgwall sei in dieser Urkunde belegt, doch es zeigte sich, dass sie sich auf Hrádok in Lieskovec und nicht auf Priekopa bezieht.",
+    "type": "event"
+   },
+   {
+    "year": "1336",
+    "title": "Erwähnung des Landes „Hradík“",
+    "description": "Die Nachricht über den Verkauf des Dorfes Sampor an den Komes Andreas erwähnt einen Teil des Landes „Hradík“ bei Zvolen (terre Hradik prope civitatem Zolium), den M. Ďurková mit der kleinen Burg Priekopa verbindet.",
+    "type": "event"
+   },
+   {
+    "year": "30er Jahre des 20. Jahrhunderts",
+    "title": "Erste Aufnahme und Laiengrabungen",
+    "description": "Š. Janšák nahm die Fundstelle auf (gemeinsam mit J. Eisner als Môťovský hrádok publiziert); der Lehrer Jozef Kabát und der Professor Jakub Trnka führten mit Schülern Laiengrabungen durch.",
+    "type": "discovery"
+   },
+   {
+    "year": "1958",
+    "title": "Verfüllung des Flussbetts der Slatina",
+    "description": "Das ursprünglich 6 m tiefe Flussbett der Slatina, das von der Ostseite natürlichen Schutz bot, wurde nach diesem Jahr verfüllt.",
+    "type": "destruction"
+   },
+   {
+    "year": "1967",
+    "title": "Zuweisung der Fundstelle an Kleingärtner",
+    "description": "Trotz der Eintragung in das Verzeichnis der geschützten Denkmäler wies der MsNV das Plateau der kleinen Burg dem Slowakischen Kleingärtnerverband zu – eine Verletzung des Gesetzes über den Schutz der Kulturdenkmäler.",
+    "type": "destruction"
+   },
+   {
+    "year": "1988–1990",
+    "title": "Systematische archäologische Ausgrabung",
+    "description": "Vier Grabungskampagnen unter der Leitung von Marta Mácelová legten das Wallprofil, zwei (später drei) Bauphasen der Befestigung und 12 Siedlungsbefunde frei.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6363,
+    "alt": "Luftaufnahme der Rekonstruktion des Burgwalls mit doppelter Palisade, Tor und einer Koppel mit Pferden"
+   },
+   {
+    "mediaId": 692,
+    "caption": "unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert – Autor Tomáš Humaj",
+    "alt": "unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert – Autor Tomáš Humaj"
+   },
+   {
+    "mediaId": 693,
+    "caption": "Plan des Burgwalls nach Š. Janšák",
+    "alt": "Plan des Burgwalls nach Š. Janšák"
+   },
+   {
+    "mediaId": 694,
+    "caption": "Unsere 3D-Rekonstruktion des Burgwalls (Dwarf digital und hradiska.sk)",
+    "alt": "Unsere 3D-Rekonstruktion des Burgwalls (Dwarf digital und hradiska.sk)"
+   },
+   {
+    "mediaId": 696,
+    "caption": "Môťová, Schnitt durch den Wall – die großen Bruchsteine stammen aus der 1. Befestigungsphase. Auf ihrer Zerstörungsschicht liegt der äußere Kasten, verstärkt durch eine Berme – ein Teil ist ganz rechts sichtbar",
+    "alt": "Môťová, Schnitt durch den Wall – die großen Bruchsteine stammen aus der 1. Befestigungsphase. Auf ihrer Zerstörungsschicht liegt der äußere Kasten, verstärkt durch eine Berme"
+   },
+   {
+    "mediaId": 697,
+    "caption": "Zerstörungsschicht des Steinwalls, links der lehmig-tonige Kern, rechts der durchgebrannte äußere Kasten und ein Teil der Berme",
+    "alt": "Zerstörungsschicht des Steinwalls, links der lehmig-tonige Kern, rechts der durchgebrannte äußere Kasten und ein Teil der Berme"
+   },
+   {
+    "mediaId": 698,
+    "caption": "der im südöstl. Teil durchschnittene Wall; schön zu sehen ist die erste Bauphase der Befestigung aus Bruchstein und auf ihrer Zerstörungsschicht die durchgebrannte Schicht des Kastens mit einem Pfosten",
+    "alt": "der im südöstl. Teil durchschnittene Wall; schön zu sehen ist die erste Bauphase der Befestigung aus Bruchstein und die durchgebrannte Schicht des Kastens mit einem Pfosten"
+   },
+   {
+    "mediaId": 699,
+    "caption": "die Kleingartenhütte ist auf dem einstigen Graben errichtet, hinter der Hütte ist die Tiefe des Grabens zu sehen",
+    "alt": "die Kleingartenhütte ist auf dem einstigen Graben errichtet, hinter der Hütte ist die Tiefe des Grabens zu sehen"
+   },
+   {
+    "mediaId": 702,
+    "caption": "Der Burgwall im Jahr 1950",
+    "alt": "Der Burgwall im Jahr 1950"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Erforschung der frühmittelalterlichen Burgwälle in der Slowakei und zugleich auch im Zvolener Becken ist mit den Namen Štefan Janšák und Ján Eisner verbunden, die als Erste die kleine Burg Priekopa in Zvolen-Môťová beschrieben haben; Š. Janšák hat sie überdies geodätisch aufgenommen. In der neueren Geschichte hat sich Marta Mácelová der Erforschung des Burgwalls gewidmet, von ihr stammt auch der folgende Artikel, in dem sie die wichtigsten Erkenntnisse über den Burgwall zusammengefasst hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der auf einer Anhöhe gelegene Burgwall Priekopa erhebt sich über dem Zusammenfluss von Slatina und Neresnica im Ortsteil Môťová, außerhalb des bebauten Gebiets auf der Parzelle Nr. 1411/4550/4. Er liegt etwa 1 km südöstlich des Schlosses von Zvolen (Altsohl), am Nordfuß des Gebirges Javorie. Die ursprüngliche Gestalt des (unversehrten) Burgwalls hatte samt den Befestigungsanlagen die Form eines unregelmäßigen Rechtecks mit einer max. Länge von 165 m und einer Breite von 95 m, bei einer Fläche von 9891 m². Der Körper des Wehrwalls nimmt eine Fläche von 1886 m² ein. Auf der Südseite, wo der Burgwall seine max. Breite erreichte, wurde seine Hauptverteidigung errichtet. Für die Verteidigung sorgte ein spitzer Abschnittsgraben. Unmittelbar dahinter, von außen gesehen, befindet sich der teilweise erhaltene, zerstörte Wehrwall aus Holz und Erde (gereinigte Breite am Fuß 14,5 m), dessen Höhe gegenwärtig 290 cm erreicht. "
+       },
+       {
+        "type": "text",
+        "text": "Den Burgwall zählen wir zu den lokalen Verwaltungszentren territorial-administrativer Einheiten (nach Hulínek), das heißt zu den bedeutenderen Burgwällen Großmährens, wobei er diese Rolle offenbar auch in den bewegten Zeiten seines Untergangs erfüllte. (Anm. Orgoň)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert – Autor Tomáš Humaj",
+    "alt": "unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert – Autor Tomáš Humaj",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trotz der Eintragung der archäologischen Fundstelle in das Staatliche Verzeichnis der Kulturdenkmäler (ŠZKP) bestimmte der Städtische Nationalausschuss (MsNV) die Fundstelle im Jahr 1967 für Zwecke der individuellen Kleingartennutzung und wies sie dem Slowakischen Kleingärtnerverband zu. Mit dieser Entscheidung wurde das Gesetz des Slowakischen Nationalrates Nr. 5/1958 Slg. über den Schutz der Kulturdenkmäler verletzt. Nach dem wirkungslosen Eingreifen der Denkmalbehörden nach dem Jahr 1968 wurde das Plateau der kleinen Burg parzelliert und 19 Kleingärtnern zur befristeten Nutzung überlassen, weitere drei Parzellen wurden an der Außenseite abgesteckt und auf dem verfüllten Graben zu Gärten umgestaltet. Die Kleingärtner haben durch die Nichtbeachtung der Grundsätze der Denkmalpflege und des Denkmalschutzes die Kulturschicht der Innenfläche sowie einen Teil des Wallkörpers verwüstet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle ist seit den 30er Jahren des 20. Jahrhunderts bekannt, als sie Š. Janšák aufnahm und gemeinsam mit J. Eisner als Môťovský hrádok (die kleine Burg von Môťová) publizierte. Als Burgwall Priekopa führte sie bereits Š. Janšák und später auch G. Balaša nach dem örtlichen Namen in die Literatur ein, der einen Teil des Befestigungssystems der Fundstelle bezeichnet. Interesse an der Fundstelle zeigten schon in den 30er Jahren des 20. Jahrhunderts der Fachlehrer Jozef Kabát und der Professor der Bürgerschule in Zvolen Jakub Trnka, der mit seinen Schülern auf der damals noch unbewaldeten kegelförmigen Erhebung Laiengrabungen unternahm. Zu seinen Schülern gehörte auch der einheimische Ján Tuhársky, der auch während der systematischen Ausgrabung im Jahr 1990 mit Ratschlägen reichlich half und uns auf die Stellen auf seiner Parzelle hinwies, an denen er bei der Bodenbearbeitung Scherbenmaterial findet. Die Parzelle stellte er zur Untersuchung zur Verfügung, und auf der von ihm abgesteckten Fläche fanden wir drei Befunde. Professor J. Trnka sandte Scherben von der kleinen Burg von Môťová an das Slowakische Nationalmuseum (SNM) in Martin und informierte J. Eisner über die Funde. In dieser Zeit erteilten die damaligen staatlichen Behörden die Genehmigung zur Errichtung einer Roma-Siedlung unterhalb des Westhangs des Burgwalls über dem Bach Neresnica. Als Baumaterial für ihren Aufbau wurde Stein aus dem Wallkörper verwendet, wovon die Fundamente des einzigen bis heute stehenden Hauses der Roma-Siedlung zeugen. Das war der erste Schritt zur Verwüstung der Fundstelle, weitere waren die Geländeveränderungen bei der Verfüllung des Flussbetts der Slatina, und mit dem Aufbau der Kleingartensiedlung wurde das Werk der Zerstörung vollendet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan des Burgwalls nach Š. Janšák",
+    "alt": "Plan des Burgwalls nach Š. Janšák",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung wurde in vier Grabungskampagnen auf der Grundlage der Empfehlungen der einleitenden Fachkommissionen bzw. der Empfehlungen der Abschlusskommission nach jeder Grabungskampagne durchgeführt. Im Jahr 1988 richtete sie sich auf die Reinigung des Zerstörungsschnitts – des rechten Arms des künstlichen Zugangs zum Burgwall – und auf die Freilegung des Wallprofils durch einen Vertikalschnitt. Mit drei Schnitten auf dem Plateau wurde die Mächtigkeit des unversehrten Kulturhorizonts ermittelt. Aufgabe der zweiten Grabungskampagne (1989) war es, die Konstruktionsverfahren beim Bau der Befestigung durch eine Flächenfreilegung festzustellen, und mit weiteren Schnitten wurde die Besiedlung der Innenfläche des Burgwalls verfolgt. Im Jahr 1990 wurde die Ausgrabung in der Innenfläche und auch an den Hängen der kleinen Burg durchgeführt. Die letzte Grabungskampagne im Jahr 1990 brachte Teilerkenntnisse über die westliche Hälfte des Burgwalls, wo das ursprüngliche Gelände mit frühmittelalterlichen Befunden verfolgt wurde, die durch die Einplanierung des Plateaus und durch Anschwemmungen konserviert worden waren. In der Zukunft bietet sich noch eine reale Chance, in diesem Teil den unversehrten Kulturhorizont festzustellen und gleichzeitig den vermuteten Zugang nachzuweisen. Das Unverständnis seitens der Nutzer ermöglichte es nicht, einige Befunde vollständig zu untersuchen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere 3D-Rekonstruktion des Burgwalls (Dwarf digital und hradiska.sk)",
+    "alt": "Unsere 3D-Rekonstruktion des Burgwalls (Dwarf digital und hradiska.sk)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Befestigungssystem"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall von Môťová gehört mit seiner Größe und einer Fläche von 9891 m² zu den kleineren befestigten Siedlungen. Das Naturgebilde, das als Umlaufberg bezeichnet wird – ein markanter Sporn, auf dem der Burgwall errichtet wurde –, liegt über dem Zusammenfluss von Slatina und Neresnica. Für den natürlichen Schutz auf der Ostseite sorgten ein steiler Abfall und das tiefe Flussbett der Slatina, das erst nach dem Jahr 1958 verfüllt wurde. Von der Westseite umfloss ihn der Bach Neresnica. Das Flussbett der Slatina erreichte vor der Regulierung eine Tiefe von ca. 6 m. Auf der Südseite, die an der Nordseite des Gebirges Javorie liegt und nicht geschützt war, errichteten sie ein mächtiges Befestigungssystem, bestehend aus einem Wall aus Stein sowie aus Lehm und Holz und aus einem Graben. Die gegenwärtige Höhe des Abschnittswalls beträgt 290 cm und die Gesamtbreite am Wallfuß 18 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1988–1989 richtete sich die Ausgrabung auf die Reinigung des künstlichen Zugangs zum Burgwall durch einen Vertikalschnitt, wodurch dessen Profil gewonnen wurde. In dem freigelegten Profil wurden zwei Bauphasen festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der ersten Phase wurde an der Außenseite des Lehmkerns eine 1,60 m breite steinerne Stirnmauer ohne Mörtelbindung errichtet. Das Material des Kerns stimmt mit dem Material überein, aus dem auch die Hänge südlich der Fundstelle bestehen. Die Steinmauer wurde aus trocken verlegtem Bruchstein – biotitischen Granolithen – errichtet. Die nächstgelegene Quelle eines typologisch nahen Gesteins stammt aus dem Steinbruch in Zvolen, Ortsteil Lieskovec. Die Mauer aus trocken verlegten Steinen schützte den Burgwall auf dem gesamten Umfang. Beim Bau dieser Befestigungsphase wurden außer dem Bruchstein wahrscheinlich auch Gerölle aus Pyroxenandesiten aus dem Fluss Gran verwendet. Die erhaltene Höhe der Mauer beträgt heute 1,20 m, die Breite des Stein-Lehm-Walls lag bei etwa 4 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zweite Bauphase der Befestigung bildet ein Wall mit Kastenkonstruktionen, wodurch sich seine Breite verdoppelte. Auf der Zerstörungsschicht der Außenseite der Mauer aus trocken verlegten Steinen wurde eine 1,40 m breite Kastenkonstruktion mit angefeuchtetem sandig-gelbem Ton errichtet. Dieser erhärtete nach dem Austrocknen. Es wurden auch verbrannte Reste der Pfostenkonstruktion des Kastens festgestellt. Auf beiden Seiten sind Spuren sekundär durchgebrannter Pfosten von 8 cm Durchmesser sichtbar, die eine grauschwarze bis ziegelrote Farbe haben. Die Wände des Kastens waren mit Spaltholz, Ästen und Flechtruten ausgeflochten, die sich als Abdrücke im Lehmbewurf erhalten haben. An der Außenseite stabilisierte eine Berme den Kasten. Die Grundlage der Kästen bildeten horizontal gelagerte Balken, die im Profil gut sichtbar sind. Diese wurden mit vertikalen Pfosten in einem Abstand von 40 cm voneinander stabilisiert und mit großen Steinen fixiert. Weitere beim Bau verwendete Konstruktionselemente wurden nicht festgestellt. In der inneren Hälfte des Walls nehmen wir angesichts der Breite der Zerstörungsschicht die Existenz von mindestens zwei Kästen an (eine mächtige Holzkonstruktion mit gestampftem Lehm). Diese Annahme hat die Ausgrabung jedoch nicht zu 100 % bestätigt.\n \n Fotodokumentation von der Ausgrabung und die Beschreibung dazu von Dr. Mácelová (für die Überlassung dieser Materialien für unsere Seite danken wir):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zvolen-Môťová, die kleine Burg Priekopa",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir nehmen an, dass beim Bau des Mittelteils des Walls viel Holz verbraucht wurde, denn die Verfüllung der Kästen bestand aus klumpigem, ziegelrot durchgebranntem Lehm. Im unteren Teil lag über den horizontal gelegten Balken eine Schicht aus Andesitsteinen, die offenbar mit der Konstruktion der Kastengrundlage zusammenhing. An der Wallkrone wurden in einer Mächtigkeit von 80–100 cm mächtige Blöcke aus gesintertem, durchgebranntem Lehm festgestellt, der mit Andesiten und Kalksteinen vermischt war. Die Andesite stammen aus dem nahe gelegenen Tal von Neresnica, die weißen Karbonatgesteine erinnern an gebrannten, gelöschten Kalk. Auf den durchgeschmolzenen Resten sind Abdrücke von Holz eingeprägt. Die schlackige Sinterbildung entstand wahrscheinlich unter Mitwirkung einer großen Menge Holz und eines mächtigen Brandes, und zwar der hölzernen Palisade und der Kastenkonstruktion im Inneren des Walls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch die Freilegung der äußeren Wallhälfte im südwestlichen Teil in der ehemaligen Roma-Siedlung bestätigte sich die gleiche Bautechnik des Walls. Die Befestigung mit durchgebrannten Kastenschichten wurde im nordwestlichen Teil der kleinen Burg durch eine Schuttverfüllung bestätigt. Auf der gesamten Ostseite fehlen Belege für die Existenz einer Kastenkonstruktion. Mit einem im südöstlichen Teil außerhalb des bebauten Gebiets abgesteckten Schnitt bestätigte sich die wahrscheinliche Tiefe des Grabens – 380 cm. Der größere Teil des einstigen Grabens wurde im Zusammenhang mit dem Durchbruch der Zufahrtsstraße zur kleinen Burg verfüllt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Môťová, Schnitt durch den Wall – die großen Bruchsteine stammen aus der 1. Befestigungsphase. Auf ihrer Zerstörungsschicht liegt der äußere Kasten, verstärkt durch eine Berme – ein Teil ist ganz rechts sichtbar",
+    "alt": "Môťová, Schnitt durch den Wall – die großen Bruchsteine stammen aus der 1. Befestigungsphase. Auf ihrer Zerstörungsschicht liegt der äußere Kasten, verstärkt durch eine Berme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch die Verfolgung der Befestigung mit je einem Schnitt im nordöstlichen und im südöstlichen Teil der kleinen Burg bestätigte sich die Existenz einer dritten Bauphase, bei der auf dem in der ersten Phase errichteten Lehm-Stein-Wall entlang des Umfangs eine gemauerte Steinmauer erbaut wurde. An der äußeren Wallhälfte wurde über der Kastenkonstruktion eine 60 cm hoch erhaltene umlaufende Steinmauer festgestellt, mit Mörtel gemauert. Die Breite des Mauerwerks beträgt 120 cm. Diese dritte Bauphase wurde auf der Südseite nicht festgestellt. Sie wurde auch auf der Südwestseite nicht nachgewiesen, da über die Wallkrone gegenwärtig der Drahtzaun der Kleingartensiedlung verläuft. Wir können die Frage nicht beantworten, ob diese Befestigung vollendet wurde; für ihre Datierung fehlt stützendes Material. Es fehlen auch relevante Belege für die Verbindung der letzten Befestigungsphase mit dem jüngsten Keramikhorizont des 11. Jahrhunderts. Den Zerstörungshorizont der kleinen Burg mit ihrer mächtigen Befestigung bringen wir mit dem Aufbau eines größeren Zentrums der sich formierenden Burgenorganisation, mit dem Bau der Komitatsburg auf dem Pustý hrad, in Zusammenhang. Nach Abschluss der Ausgrabung wurde das Wallprofil durch eine Verschalung mit Balken und das Aufschütten von 20 m³ Erde konserviert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zerstörungsschicht des Steinwalls, links der lehmig-tonige Kern, rechts der durchgebrannte äußere Kasten und ein Teil der Berme",
+    "alt": "Zerstörungsschicht des Steinwalls, links der lehmig-tonige Kern, rechts der durchgebrannte äußere Kasten und ein Teil der Berme",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Siedlungsbefunde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung im Inneren der Anlage wurde mit vierzehn Schnitten durchgeführt, in denen 12 Befunde bzw. Teile von ihnen festgestellt wurden. Die Verteilung der Schnitte war durch den gegenwärtigen Bestand an Bäumen, Sträuchern und anderem Bewuchs sowie durch die bestehenden Bauten in der Anlage bestimmt. Der Kulturhorizont war sehr stark gestört, und infolge der 20 Jahre andauernden Eingriffe der befristeten Nutzer in ihn wurde wahrscheinlich der größere Teil der materiellen Kultur, die sich in der östlichen Hälfte der Anlage befand, entwertet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Auswertung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unmittelbares Datierungsmaterial zu den einzelnen Bauphasen der Befestigung haben wir durch die Ausgrabung nicht gewonnen. Der Eingang in den Burgwall, der auf der Westseite vermutet wird, bestätigte sich im freigelegten Schnitt IV/90 nicht, da gerade auf der Westseite bei der Anlage der Kleingartensiedlung die stärkste Einplanierung des Geländes erfolgte. Während der vier Grabungskampagnen wurden in der Innenfläche des Burgwalls 12 Befunde untersucht, die durch die Eingriffe der Kleingärtner in den Kulturhorizont mehr oder weniger gestört waren. Ein Befund (1/90) ist aufgrund großmährischer Keramik in das 9. Jahrhundert datiert, in den übrigen Befunden war die Keramik für das 10.–11. Jahrhundert typisch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "der im südöstl. Teil durchschnittene Wall; schön zu sehen ist die erste Bauphase der Befestigung aus Bruchstein und auf ihrer Zerstörungsschicht die durchgebrannte Schicht des Kastens mit einem Pfosten",
+    "alt": "der im südöstl. Teil durchschnittene Wall; schön zu sehen ist die erste Bauphase der Befestigung aus Bruchstein und die durchgebrannte Schicht des Kastens mit einem Pfosten",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ursprünglich von der Autorin der Arbeit publizierte Ansicht, der Burgwall sei in der Urkunde Bélas IV. aus dem Jahr 1263 schriftlich belegt, mit der er den Einwohnern von Zvolen den vom Zvolener Gespan beschlagnahmten Boden zurückgibt, bezieht sich nicht auf die kleine Burg Priekopa, sondern auf Hrádok in Lieskovec. Aus dem Jahr 1336 wird in der Nachricht über den Verkauf des Dorfes Sampor an den Vizekastellan von Dobrá Niva, den Komes Andreas, ein Teil des Landes „Hradík“ bei Zvolen erwähnt (terre Hradik prope civitatem Zolium), den M. Ďurková mit der kleinen Burg Priekopa verbindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Burgwall Môťová ist eine interessante Sage aus dem 10. Jahrhundert verbunden – "
+       },
+       {
+        "type": "link",
+        "url": "/blog/sumrak-velkej-moravy-povest-z-10-storocia",
+        "children": [
+         {
+          "type": "text",
+          "text": "Die Dämmerung Großmährens"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ".\n \n Der gegenwärtige Zustand des Burgwalls: typisch slowakisch. Der Burgwall ist in keiner Weise gekennzeichnet, die Informationstafel, die sich im Eingangstor befindet, dient vielen Dingen, nur nicht der Information über den Burgwall, umzäunt, das Tor geschlossen. Den Kleingärtnern wünsche ich viele unbeschwerte Augenblicke in süßer Unwissenheit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "die Kleingartenhütte ist auf dem einstigen Graben errichtet, hinter der Hütte ist die Tiefe des Grabens zu sehen",
+    "alt": "die Kleingartenhütte ist auf dem einstigen Graben errichtet, hinter der Hütte ist die Tiefe des Grabens zu sehen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

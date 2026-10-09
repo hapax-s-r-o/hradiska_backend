@@ -1,0 +1,232 @@
+{
+ "slug": "kamenec-pod-vtacnikom-bystricany",
+ "data": {
+  "title": "Kamenec pod Vtáčnikom/Bystričany – die befestigte Höhensiedlung Hrádok",
+  "slug": "kamenec-pod-vtacnikom-hoehensiedlung-hradok",
+  "excerpt": "Belege für die Besiedlung des Gebietes des heutigen Kamenec pod Vtáčnikom bzw. der Gemeinde Bystričany stammen bereits aus der Zeit der Lausitzer Kultur. An der Grenze dieser beiden Gemeinden errichteten die Lausitzer um das 1. Jahrtausend vor Christus die befestigte Höhensiedlung Hrádok, die als Zuflucht diente. Später baute sie das Volk der Púchov-Kultur um, im 9. Jahrhundert erscheinen hier die Slawen, und in der Mitte der Anlage stand wahrscheinlich im 13. Jahrhundert ein Donjon.",
+  "metaTitle": "Kamenec pod Vtáčnikom – die Höhensiedlung Hrádok",
+  "metaDescription": "Die Höhensiedlung Hrádok zwischen Kamenec und Bystričany entstand um das 1. Jahrtausend v. Chr.; später baute sie die Púchov-Kultur um.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Die Höhensiedlung liegt auf dem oberen Plateau des Andesitfelsens Hrádok (Kote 880 bzw. 661), etwa 6 km südöstlich der Gemeinde Kamenec pod Vtáčnikom.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Das obere Plateau umschließen zwei Wallzüge, mit Eingangstoren vom Zangentyp im nordwestlichen und südöstlichen Teil des äußeren Walles.",
+    "icon": "shield"
+   },
+   {
+    "label": "Donjon",
+    "value": "In der Mitte der befestigten Fläche wurden die Fundamente eines quadratischen Steinbaus mit den Maßen 9,5 × 9,8 m freigelegt, der als Wohn- und gleichzeitig Wachturm diente.",
+    "icon": "building"
+   },
+   {
+    "label": "Volkstümlicher Name",
+    "value": "Die Bewohner der Gemeinde Bystričany nennen den ganzen Felsen mit dem Donjon bis heute Dvorčená skala.",
+    "icon": "custom"
+   },
+   {
+    "label": "Konstruktion der Wälle",
+    "value": "Der zweite Schnitt legte eine zusammenhängende Schicht aus Holzkohle und verbranntem Holz frei, was auf Wälle aus trocken gesetzten Steinen mit hölzerner Kastenkonstruktion hindeutet.",
+    "icon": "book"
+   },
+   {
+    "label": "Spuren römischen Einflusses",
+    "value": "Das auf dem Hrádok gewonnene Scherbenmaterial enthält neben Elementen der älteren Phase der Púchov-Kultur auch Elemente, die sich der Zeit der römischen Provinzen zuordnen lassen.",
+    "icon": "star"
+   },
+   {
+    "label": "Urgeschichtliche Besiedlung",
+    "value": "In der Umgebung der Höhensiedlung fand sich eine Menge Scherbenmaterial aus der keltisch-dakisch-púchovschen Besiedlung sowie aus der älteren Hallstattzeit.",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um das 1. Jahrtausend vor Christus",
+    "title": "Gründung der Höhensiedlung Hrádok",
+    "description": "Die Lausitzer errichteten an der Grenze der Gemeinden Kamenec pod Vtáčnikom und Bystričany die befestigte Höhensiedlung Hrádok, die als Zuflucht und Versteck vor Feinden diente.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Jh. v. Chr. – 2. Jh. n. Chr.",
+    "title": "Keltisch-dakisch-púchovsche Besiedlung",
+    "description": "Die Höhensiedlung baute das Volk der Púchov-Kultur um, das von keltisch-dakischen Stämmen beeinflusst wurde; diese lehrten die Bewohner, Eisenerz zu gewinnen und zu verarbeiten, die Töpferscheibe zu benutzen und zu reiten. In der Umgebung fand sich eine Menge Scherbenmaterial aus dieser Zeit.",
+    "type": "era"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawische Besiedlung und großmährischer Umbau",
+    "description": "Auf der Höhensiedlung erscheinen die Slawen, und zur Zeit des Großmährischen Reiches wurde die Anlage umgebaut und genutzt, da an strategischen Stellen Befestigungen erneuert oder neu errichtet wurden.",
+    "type": "event"
+   },
+   {
+    "year": "wahrscheinlich 13. Jahrhundert",
+    "title": "Bau des Donjons",
+    "description": "Im mittleren Teil der befestigten Fläche entstand ein quadratischer Steinbau mit den Maßen 9,5 × 9,8 m, der offenbar als Wohn- und gleichzeitig Wachturm (Donjon) diente.",
+    "type": "construction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6407,
+    "alt": "Stilisierte Karte der Höhensiedlung Kamenec pod Vtáčnikom mit Wällen, Wachturm und dem Bystričiansky-Bach"
+   },
+   {
+    "mediaId": 2041,
+    "alt": "Skizze der Höhensiedlung Kamenec pod Vtáčnikom im 9. Jahrhundert mit Wällen und Wachturm"
+   },
+   {
+    "mediaId": 2042,
+    "caption": "Die Höhensiedlung auf der LiDAR-Aufnahme (ZBIGS)",
+    "alt": "Die Höhensiedlung auf der LiDAR-Aufnahme (ZBIGS)"
+   },
+   {
+    "mediaId": 2043,
+    "caption": "Die Spezialkarte",
+    "alt": "Die Spezialkarte"
+   },
+   {
+    "mediaId": 2044,
+    "caption": "Einige Blicke auf die Lausitzer (slawischen?) Wälle",
+    "alt": "Einige Blicke auf die Lausitzer (slawischen?) Wälle"
+   },
+   {
+    "mediaId": 2045,
+    "alt": "Wallkörper im Buchenwald am Hang"
+   },
+   {
+    "mediaId": 2046,
+    "alt": "Graben und Wall der Höhensiedlung im grünen Wald"
+   },
+   {
+    "mediaId": 2047,
+    "alt": "Steiler Hang der Höhensiedlung mit Baumwurzeln"
+   },
+   {
+    "mediaId": 2048,
+    "caption": "Überreste des Donjons der mittelalterlichen kleinen Burg (13. Jahrhundert)",
+    "alt": "Überreste des Donjons der mittelalterlichen kleinen Burg (13. Jahrhundert)"
+   },
+   {
+    "mediaId": 2049,
+    "alt": "Steinschutt des Walles im blattlosen Wald"
+   },
+   {
+    "mediaId": 2050,
+    "alt": "Mit Moos überwachsene Steine des Walles im lichten Wald"
+   },
+   {
+    "mediaId": 1924,
+    "alt": "Kopfzeile der Website Slovanské hradiská mit Logo und der Adresse hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die Besiedlung des Gebietes des heutigen Kamenec pod Vtáčnikom bzw. der Gemeinde Bystričany stammen bereits aus der Zeit der Lausitzer Kultur. Die Lausitzer errichteten an der Grenze dieser beiden Gemeinden um das 1. Jahrtausend vor Christus eine befestigte Höhensiedlung – Hrádok, die als Zuflucht und Versteck vor Feinden diente. Die Anlage baute später das Volk der Púchov-Kultur um. Das Leben der Bewohner beeinflussten auch keltisch-dakische Stämme, denn diese lehrten sie, Eisenerz zu gewinnen und zu verarbeiten, die Töpferscheibe zu benutzen und zu reiten. In der Umgebung der Höhensiedlung fand sich eine Menge Scherbenmaterial aus der Zeit der keltisch-dakisch-púchovschen Besiedlung (2. Jh. v. Chr. – 2. Jh. n. Chr.) sowie aus der älteren Hallstattzeit. Im 9. Jahrhundert erscheinen auf der Anlage die Slawen. Zur Zeit des Großmährischen Reiches wurden an strategischen Stellen Befestigungen erneuert oder neu errichtet. Aus diesem Grund wurde auch die Anlage im heutigen Kamenec pod Vtáčnikom umgebaut und genutzt. Nach dem Zerfall des Großmährischen Reiches lässt sich die Entwicklung im Gebiet der oberen Neutra nur schwer verfolgen und eher nur im Kontext anderer historischer Ereignisse vermuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der Höhensiedlung",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung befindet sich auf dem oberen Plateau des Andesitfelsens Hrádok (Kote 880 bzw. 661), etwa 6 km südöstlich der Gemeinde Kamenec pod Vtáčnikom. Der mäanderförmige Andesitausläufer ist von der westlichen und südlichen Seite unzugänglich. Von den übrigen Seiten umschließen das obere Plateau zwei Wallzüge. Im nordwestlichen und südöstlichen Teil des äußeren Walles wurden Tore in das befestigte Areal festgestellt. Wir ordnen sie den Toren des Zangentyps zu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Ausgrabung wurden die Fundamente eines mittelalterlichen Objekts (eines Donjons) in der Mitte der befestigten Fläche freigelegt, und mit zwei Schnitten wurden auch die Struktur und die zeitliche Einordnung der Anlage selbst ermittelt. Die Schnitte durchquerten den äußeren Wall, und zwar an seinem nordwestlichen (Schnitt Nr. 1) und südöstlichen (Schnitt Nr. 2) Bogen. Mit Schnitt Nr. 1 gelang es, einen Teil der verblendeten Wand des Eingangstores zu erfassen, wo eine starke Destruktionsschicht lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im zweiten Schnitt, den man ebenfalls an der Stelle des vermuteten Eingangstores Nr. 2 anlegte, fand sich auf einem kurzen Abschnitt eine zusammenhängende Schicht aus Holzkohle und verbranntem Holz, die es erlaubt, an dieser Fundstelle Wälle aus trocken gesetzten Steinen und dazwischen eine hölzerne Kastenkonstruktion zu vermuten. In den Schnitten und auf der von Wällen befestigten Fläche der Anlage fand sich eine große Menge Scherbenmaterial, das auf den Beginn der Besiedlung auf dem Hrádok in der Hallstattzeit, eine Intensivierung der Besiedlung in der keltisch-dakisch-púchovschen Zeit und eine Phase slawischer Besiedlung im 9. Jahrhundert hindeutet. Das jüngste ist das Objekt, dessen steinerne Fundamente im mittleren Teil der befestigten Fläche der Anlage freigelegt wurden und das wahrscheinlich in das 13. Jahrhundert gehört. Es handelt sich um einen quadratischen Steinbau mit den Maßen 9,5 × 9,8 m, der offenbar als Wohn- und gleichzeitig Wachturm diente. Die Bewohner der Gemeinde Bystričany nennen den ganzen Felsen, auf dem der Donjon steht, bis heute Dvorčená skala. (Information direkt von der örtlichen Rusalka)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Höhensiedlung auf der LiDAR-Aufnahme (ZBIGS)",
+    "alt": "Die Höhensiedlung auf der LiDAR-Aufnahme (ZBIGS)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Scherbenmaterial, das aus den Schnitten 1 und 2 gewonnen wurde, befand sich wohl größtenteils bereits in sekundärer Lage. Die Stratigrafie, die im Profil der Schnitte festgestellt wurde, lieferte keinerlei Grundlagen für die Bestimmung der einzelnen Bau- und damit auch chronologischen Phasen der Entstehung der Wälle. Die Struktur und der Gesamtcharakter des inneren Walles, der einen kleinen Raum umschließt, sind bislang nicht bekannt, was gerade bei befestigten Höhensiedlungen der Púchov-Kultur eine häufige Erscheinung ist. Das Scherbenmaterial, das auf dem Hrádok gewonnen wurde, ist sehr wichtig, denn außer dem für die ältere Phase der Púchov-Kultur charakteristischen Material enthält es auch Elemente, die sich der Zeit der römischen Provinzen zuordnen lassen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

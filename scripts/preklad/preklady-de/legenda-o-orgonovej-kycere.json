@@ -1,0 +1,553 @@
+{
+ "slug": "legenda-o-orgonovej-kycere",
+ "data": {
+  "title": "Die Sage von der Orgoňova Kýčera",
+  "slug": "sage-von-der-orgonova-kycera",
+  "excerpt": "Eine alte Sage aus dem Tal von Mariková: Der alte Orgoň, einer der letzten Verehrer Peruns und der slawischen Götter, zog mit seiner Gefolgschaft tief in die Javorníky, gründete die Siedlung Orgoňovce – und verschwand nach einer Gewitternacht auf dem heiligen Gipfel. Geblieben ist der Name des Berges und ein geheimnisvoller, in die Felsen der Šúvalky gemeißelter Schriftzug.",
+  "metaTitle": "Die Sage von der Orgoňova Kýčera in den Javorníky",
+  "metaDescription": "Eine alte Sage aus dem Buch Kráľ Matej pod Manínom: Orgoň, einer der letzten Verehrer Peruns, verschwand auf der Orgoňova Kýčera in den Javorníky.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Štefan Meliš, Stanislav Muntág (Kráľ Matej pod Manínom, 2002)",
+    "icon": "book"
+   },
+   {
+    "label": "Ort",
+    "value": "Orgoňova Kýčera (960 m ü. M.), Javorníky – Tal von Mariková und Tal von Papradno",
+    "icon": "mountain"
+   },
+   {
+    "label": "Motiv",
+    "value": "Der letzte Verehrer Peruns und der slawischen Götter, ein geheimnisvoller Schriftzug im Felsen",
+    "icon": "star"
+   },
+   {
+    "label": "Quelle",
+    "value": "Kráľ Matej pod Manínom, Matica slovenská, 2002",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des Heidentums",
+    "title": "Die Orgoň-Sippe zieht in die Berge",
+    "description": "Der alte Orgoň, einer der letzten Verehrer der heidnischen Götter, zog nach dem Tod des polnischen Bolesław des Tapferen und angesichts der Ausbreitung des Christentums mit seiner Gefolgschaft tief in die Berge unter dem Javorník und gründete die Siedlung Orgoňovce.",
+    "type": "event"
+   },
+   {
+    "year": "nach Jahren",
+    "title": "Ankunft der Missionspriester und der Steuereinnehmer",
+    "description": "Die bei der Burg Trenčín sitzenden Adligen schickten in das Grenzland Missionspriester und Steuereinnehmer, die von den Orgoňovci den Zehnt für den Herrscher und für die Kirche forderten.",
+    "type": "event"
+   },
+   {
+    "year": "Gewitternacht",
+    "title": "Orgoňs Verschwinden",
+    "description": "Nach einer Gewitternacht auf dem heiligen Berg, als Orgoň die Götter vergeblich fragte, warum sie ihn verlassen hätten, verschwand er ohne Spur.",
+    "type": "event"
+   },
+   {
+    "year": "später",
+    "title": "Der geheimnisvolle Schriftzug auf den Šúvalky",
+    "description": "Nach Jahren entdeckte man auf einem der Steine der Šúvalky einen eingemeißelten geheimnisvollen Schriftzug, der für Orgoňs letzte Botschaft gehalten wird; der Berg trägt seither den Namen Orgoňova Kýčera.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "Gemälde eines bärtigen Mannes in Tunika und Mantel, der im Wald bei einem steinernen Idol auf einem Felsblock mit eingeritzten Zeichen sitzt"
+   },
+   {
+    "mediaId": 4076,
+    "caption": "Antonín Lacko: Der alte Orgoň",
+    "alt": "Antonín Lacko: Der alte Orgoň"
+   },
+   {
+    "mediaId": 4129,
+    "caption": "Orgoňs Zeichen auf den Felsen",
+    "alt": "Orgoňs Zeichen auf den Felsen"
+   },
+   {
+    "mediaId": 4132,
+    "caption": "Blick von der Orgoňova Kýčera in das Tal von Mariková",
+    "alt": "Blick von der Orgoňova Kýčera in das Tal von Mariková"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mir ist ein außergewöhnliches Buch in die Hände gekommen – "
+       },
+       {
+        "type": "link",
+        "url": "http://www.pantarhei.sk/knihy/melis-stefan/kral-matej-pod-maninom",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kráľ Matej pod Manínom"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", in dem die Autoren Štefan Meliš und Mgr. Stanislav Muntág mehrere alte Sagen und Legenden aus dem Tal von Mariková und dem Tal von Papradno gesammelt und bearbeitet haben. Für diese fantastische Tat gebühren den Autoren mein großer Respekt und mein Dank. Das Buch enthält auch einige Sagen, die die Zeit des endenden Heidentums in der Slowakei betreffen. Ich habe aus ihnen eine sehr interessante Sage ausgewählt – Das Geheimnis der Orgoňova Kýčera. Dieser Berg ist mit seiner Höhe von 960 m einer der höchsten Berge der Javorníky und in der Umgebung des Tals von Mariková und des Tals von Papradno der höchste. Gegenwärtig kann man auf seinen Gipfel zum einen von Besné aus gelangen, und zwar auf dem altertümlichen Weg, der über die Siedlung Bracinovce und Abovce, entlang des Besnianský-Bachs bis unter den Gipfel der Kýčera führt, wo er sich einige Dutzend Meter unter dem Gipfel verliert. Außerdem lässt sich der Gipfel auch auf der blauen Wandermarkierung sowohl von der Seite von Dolná als auch von Horná Mariková erreichen. Persönlich halte ich jedoch gerade jenen ursprünglichen alten Weg für viel aufregender, der von einer altertümlichen Steinmauer gesäumt ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Sage von der Orgoňova Kýčera",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit freundlicher Zustimmung der Buchautoren Štefan Meliš und "
+       },
+       {
+        "type": "link",
+        "url": "http://www.vydavatel.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Mgr. Stanislav Muntág"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bringen wir Ihnen die ganze Sage von der Orgoňova Kýčera, übernommen aus dem genannten Buch. Gleichzeitig weise ich darauf hin, dass eine weitere Reproduktion der Sage nur mit Zustimmung beider Autoren möglich ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Geheimnis der Orgoňova Kýčera"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tief im Schoß der Javorníky, nicht weit von der Mauer des Hauptkammes, erhebt sich ein weitläufiger Einzelgängerberg, breit ausgeästet, umschlossen von steilen Abstürzen, die in die engen Seitentäler des Tals von Mariková und des Tals von Papradno fallen. Auf der Sonnenseite des Berges beißt sich das Tälchen Rovné in seine Klauen hinein. Warum sie es so nannten, wenn Sie darin kaum eine ebene Stelle finden? Auch darauf gibt es eine Antwort, und die Sage kennt sie, doch davon an anderer Stelle. Am äußersten Ende von Rovné liegt die kleine Siedlung Orgoňovce, ein paar hölzerne Hütten, die sich unter dem weitläufigen Rücken der Orgoňova Kýčera zusammenducken. Orgoňovce hat allerlei Zeiten im Gedächtnis, auch jene urzeitlichen in der Morgenröte der Geschichte, als eine neue, mächtige Religion sich Städte und Dörfer unterwarf – mit der Kraft des Kreuzes und des Schwertes, der Liebe und der Gewalt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Sage von der Orgoňova Kýčera",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der alte Orgoň war einer der letzten Verehrer der heidnischen Götzen in unseren Gegenden. Beharrlich widersetzte er sich den neuen Ordnungen, bis zum letzten Atemzug hielt er am Glauben seiner Väter fest.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Orgoň, Orgoň, Gott kann man sich nicht widersetzen! - tadelten ihn immer wieder die Freunde, von denen er immer weniger hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Dem König auch nicht! - fügten manche hinzu.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Solange das Land nördlich der Burg Trenčín (Trentschin) teils Niemandsland war, teils unter der Oberherrschaft des polnischen Bolesław des Tapferen, der sich eilig das Gebiet des zerfallenen Fürstentums Neutra bis zur Donau unterwarf, vermochten Orgoň und seinesgleichen der Übermacht des neuen Glaubens und seiner Verbreiter zu widerstehen – der Missionspriester, der Bischöfe, der Adligen, die sich die neuen Ordnungen zu eigen gemacht hatten und bestrebt waren, sie in ihren Herrschaften durchzusetzen. Nach dem Tod des tapferen und gewaltsamen Abenteurers Bolesław zerfiel jedoch sein zerbrechliches Reich wie ein Kartenhaus, und die südlichen Machthaber – die Nachfolger des berühmten Königs Stephan – erweiterten Schritt für Schritt entlang der Waag ihre Herrschaft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Orgoň und seine Glaubensgenossen kamen schlechte Zeiten. Umsonst riefen sie ihre göttlichen Beschützer an – den donnergewaltigen Perun, den stämmigen Veles mit dem Ochsenkopf, den sonnigen Svarog, den siegreichen Svantovit. Umsonst huldigten sie der schönen Vesna, ja selbst die kalte Morena beschworen sie, sie möge den Tod über ihre Verfolger senden. Die einst mächtigen Gottheiten waren auf einmal wie taub und blind, gelähmt von der Kraft irgendeines fremden dreiköpfigen Gottes, der nicht einmal eine Gestalt hatte; niemand wusste, wie er aussieht, ja er soll gar irgendwo am Kreuz gestorben sein und unterwirft sich nun die ganze Welt. Wer sich ihm nicht fügte, sich nicht taufen ließ, der Kirche den Zehnt nicht abgab, den verfluchten die Priester der neuen Religion. Der Herrscher vertrieb ihn von dem Boden, den er bebaute."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aber Orgoň war ein harter Schädel. Lieber ging er selbst. Kaum hatten sie im Frühling die Morena hinausgetragen und die Zeichen der ewig jungen Vesna geehrt, machte er sich mit seiner Gefolgschaft auf, mit einem Häuflein der den alten Göttern Treuen; sie packten, was sie konnten, trieben das Vieh aus den Gehegen und zogen unbekannten Schicksalen entgegen. Tief in den Bergen, in einem Tal unter dem Javorník, nicht weit von den Grenzen des Königreichs Böhmen, stießen sie auf ein wildes Niemandsland, auf eine unwirtliche Einöde inmitten der Wälder am Fuß eines steilen Berges, der weit und breit über die anderen hinausragt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier ließen sie sich nieder. Sie rodeten den Urwald, brannten das Gebüsch ab, um Weiden für das Vieh zu gewinnen. Sie pflügten die steilen Hänge am südlichen Fuß des Berges und säten Getreide. Inmitten der Berge gründeten sie eine Siedlung – Orgoňovce. In dem Tal auf der anderen Seite des hohen Berges stand ein heiliger Hain mit verwitterten hölzernen Standbildern altslawischer Gottheiten. In der Umgebung lagen verstreut die Gehöfte anderer Altgläubiger. Auf dem kahlen Scheitel des Berges stand ein uralter Opferplatz. Die Orgoňovci errichteten hier einen riesigen Bratspieß und steckten den schönsten Ochsen darauf. Der alte Opferpriester leitete die Opferzeremonie. Sie opferten Perun, damit er sie schütze, und Veles, damit er ihnen die Ernte gewähre."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und die Götter blickten nachsichtig auf ihr Opfer. Die Frühlingsregen tränkten das Feld, der sonnige Svarog stemmte sich mit seiner Wärme in den Südhang und trieb die Getreidehalme in die Höhe. Am Ende des Sommers wurden die gelbenden Ähren schwer vom Korn. Die Orgoňovci freuten sich über die gute Ernte und opferten aus Dankbarkeit dafür den Göttern. Sie versammelten sich an der heiligen Stätte, auf dem Gipfel des Berges, feierten das Ende der Ernte und sangen altehrwürdige Lieder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So verlebten sie viele Jahre in der Abgeschiedenheit, im rauen Schoß der Berge. Doch die neuen Ordnungen drangen unaufhaltsam überall ein, auch in die menschenleeren Bergtäler. Die Missionspriester kamen gemeinsam mit den Steuereinnehmern. Geschickt hatte sie der Adlige, dem der Herr der Burg Trenčín das Grenzgebiet im Norden seiner Herrschaft zugeteilt hatte. Dem König, der irgendwo auf den fruchtbaren Ebenen hinter der Donau saß, lag die Festigung der Grenzen jenes großen Reiches am Herzen, das die unlängst noch nomadischen, frisch christianisierten ungarischen Stämme auf den Trümmern der altberühmten Region Nitra gegründet hatten. Die ganze Welt ringsum unterwarf sich allmählich den neuen Ordnungen, die der fremde Glaube mit sich brachte. In den Tempeln der neuen Religion rief man in einer unbekannten Sprache einen unbekannten Gott an, und seine Priester lehrten die Leute irgendeine unbekannte Schrift, die angeblich die ganze Welt versteht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Doch Orgoň verstand diese Schrift, all diese neuen Ordnungen nicht und wollte sie nicht verstehen. Die Steuereinnehmer nahmen ihnen den zehnten Teil der Ernte für den Herrscher und einen weiteren Zehntel für die Priester der neuen Religion. Orgoň loderte vor Zorn und griff unwillkürlich nach dem Schwert, das ihm an der Hüfte baumelte. Doch die Steuereinnehmer begleitete eine Gefolgschaft bis an die Zähne bewaffneter Soldaten. Wie sollte man einer solchen Übermacht widerstehen? Da machte sich Orgoň auf die andere Seite des Berges auf, zu der verfallenen Hütte, in der sich der alte heidnische Priester vor der Welt der Übelwollenden verbarg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Vater, rate mir. Schon meine Nächsten wenden sich von mir ab. Heute haben sie mich gezwungen, den Priestern die Abgabe zu zahlen, die das Volk zu einem fremden Glauben bekehren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Priester nickte stumm mit dem Kopf.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Unten in Pagaňovo findet man schon niemanden mehr, der unseren Glauben nicht verraten hätte! - fuhr Orgoň traurig fort. - Meine geliebte Lesana blickt verliebt auf einen Burschen von den Hecejovci. Und die haben wahrlich auch schon den Glauben ihrer Väter verlassen … Wir sind allein geblieben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Priester schweigt, nickt mit dem grauen Kopf und blickt unverwandt auf die üppigen Bäume des heiligen Haines, die still ihr Abendlied rauschen. Orgoň scheint es, als hätte auf der runzligen, windzerzausten Wange des greisen Priesters eine Träne aufgeblitzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Vater, sage mir, wo sind unsere mächtigen Götter, wenn sie nicht eingreifen? Warum züchtigt Perun unsere Feinde nicht, wenn sie seine Opferplätze zerstören? Uns, die ihm treu sind, besucht er mit dem Blitz, verbrennt uns die Ernte, und jene bestraft er nicht?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Priester nickt wieder stumm mit dem Kopf, als fürchtete er sich, die Antwort auszusprechen, die er ahnt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Wohin sind unsere Götter gegangen? - drängt Orgoň unermüdlich, fragt sich selbst, fragt die Götter, bittet verzweifelt mit den Augen, beschwört sie im Geist, dass sie es sagen, dass sie sprechen, dass sie sich zumindest aus der Ferne melden, aus dem Unbekannten, in dem sie auf einmal unaufhaltsam verschwanden. Ich weiß es nicht, - antwortet der Priester leise, und doch bleibe ich ihnen treu bis in den Tod, beendet er fast unhörbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es dämmerte, über den Bergen hingen bleierne Wolken. Orgoň klettert langsam durch die steile Schlucht des Bachs auf den steinernen Felsrücken der Šúvalky und über ihn bis auf den Scheitel des heiligen Berges. Er setzt sich auf den verlassenen Opferplatz, zu dem riesigen Bratspieß, auf dem sie den Göttern blutige Gaben darbrachten. Dort bleibt er auch bei den ersten Donnerschlägen sitzen. Schweigend, ergeben sitzt er, als Perun zornig spricht und vom dunklen Himmel Blitze auf die Gipfel der Berge schleudert. Er sitzt dort wie ein Menschenopfer, sich der erzürnten Gottheit anbietend, sich selbst anbietend für die Erklärung jenes Rätsels. Wohin seid ihr gegangen, unsere Götter? Und wohin geraten wir ohne euch?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Seit jener Gewitternacht war Orgoň nicht mehr da. Niemand wusste, wohin er geraten war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach Jahren entdeckten sie auf einem der Steine der Šúvalky einen seltsamen Schriftzug. Es war in den Zeiten, als das Christentum auch die letzten Nester des heidnischen Götzendienstes rings um den einstigen heiligen Berg beseitigte. Irgendwie verbreitete sich das Gerücht, dass dieser Schriftzug, in den Felsen in irgendeiner unbekannten, altertümlichen Schrift gemeißelt, Orgoňs letzte Botschaft sei. Die Botschaft eines Menschen, der gemeinsam mit seinen Göttern verschwand, man weiß nicht wohin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Geblieben ist nach ihm nur der Name des Berges – Orgoňova Kýčera. Die Stelle, auf der der Opferplatz stand, heißt bis heute Rožeň. Auf der einen Seite des Berges duckt sich die verlassene Bergsiedlung Orgoňovce, auf der anderen Seite zieht sich das Tal Modlatín hin – einst heiliger Sitz der heidnischen Götzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und nur der geheimnisvolle Schriftzug auf einem der Steine der Šúvalky.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es finden sich auch solche, die behaupten, dass es doch nicht Orgoňs Botschaft ist. Nach ihnen wird es wohl eher eine Geheimschrift sein, mit der der Räuber Šmarhan, einer der späteren Bewohner dieser Einöde, das Versteck bezeichnete, in das er einen kupfernen Topf mit einem goldenen Schatz gelegt hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer weiß! Vielleicht kommt einmal jemand, der den geheimnisvollen Schriftzug entziffert und das Geheimnis der Orgoňova Kýčera löst.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Antonín Lacko: Der alte Orgoň",
+    "alt": "Antonín Lacko: Der alte Orgoň",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,743 @@
+{
+ "slug": "nacelnici-kniezata-a-krali-slovanskych-veletov-a-obodritov-peter-salkovsky",
+ "data": {
+  "title": "Häuptlinge, Fürsten und Könige der slawischen Wilzen und Abodriten (Peter Šalkovský)",
+  "slug": "haeuptlinge-fuersten-und-koenige-der-wilzen-und-abodriten",
+  "excerpt": "Der Archäologe Peter Šalkovský verfolgt die Herrschaft der Elbslawen östlich der Elbe: von der Civitas Dragaviti, der ersten im Jahr 789 schriftlich belegten slawischen Burg, über das Priesterkollegium der Liutizen bis zu Pribislav, dem letzten König der Abodriten, dessen Nachkommen bis 1918 zu den führenden Fürsten des Deutschen Reiches zählten.",
+  "metaTitle": "Šalkovský: Fürsten und Könige der Wilzen und Abodriten",
+  "metaDescription": "Der Archäologe Peter Šalkovský über die Eliten der Elbslawen: Häuptlinge, Fürsten und Könige der Wilzen und Abodriten vom 8. bis zum 12. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "PhDr. Peter Šalkovský, DrSc. (Archäologisches Institut der Slowakischen Akademie der Wissenschaften)",
+    "icon": "users"
+   },
+   {
+    "label": "Gebiet",
+    "value": "Vorpommern, Mecklenburg, Holstein und Brandenburg (heutiges Nordostdeutschland)",
+    "icon": "map"
+   },
+   {
+    "label": "Stämme",
+    "value": "Wilzen (Liutizen) und Abodriten",
+    "icon": "flag"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "8.–12. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "531",
+    "title": "Untergang des Thüringer Reiches",
+    "description": "Nach dem Untergang des Thüringer Reiches blieben im Gebiet östlich der Elbe und der Saale nur einzelne Gruppen der germanischen Sachsen und Thüringer zurück, was später die Besiedlung durch die Slawen ermöglichte.",
+    "type": "event"
+   },
+   {
+    "year": "789",
+    "title": "Civitas Dragaviti",
+    "description": "Die erste schriftlich belegte slawische Burg im heutigen Nordostdeutschland, der Sitz des wilzischen Fürsten Dragovit, wird in den Annalen des Fränkischen Reiches erwähnt. Im selben Jahr erlag der wilzische Stammesverband dem Feldzug Karls des Großen mit Unterstützung der Abodriten.",
+    "type": "event"
+   },
+   {
+    "year": "810",
+    "title": "Tod des Fürsten Dražko",
+    "description": "Der abodritische Fürst Dražko, der den Verband von der Mündung der Havel bis zur Nordsee ausweitete, starb eines gewaltsamen Todes.",
+    "type": "event"
+   },
+   {
+    "year": "823",
+    "title": "Fürst Ljub",
+    "description": "Die Annalen des Fränkischen Königreichs verzeichneten bei den Wilzen den Fürsten Ljub (Liub), der im Krieg gegen die Abodriten fiel.",
+    "type": "event"
+   },
+   {
+    "year": "844",
+    "title": "Feldzug Ludwigs des Deutschen",
+    "description": "Kaiser Ludwig der Deutsche teilte nach dem Tod des abodritischen Hauptfürsten Gostomysl das Gebiet unter die vier abodritischen Hauptstämme mit eigenen Fürsten auf.",
+    "type": "event"
+   },
+   {
+    "year": "955",
+    "title": "Niederschlagung des Aufstands Stoignevs",
+    "description": "Der Aufstand des abodritischen Adligen Stoignev wurde niedergeschlagen.",
+    "type": "event"
+   },
+   {
+    "year": "983",
+    "title": "Großer Aufstand der Veleten",
+    "description": "Der Aufstand der heidnischen Veleten (die von dieser Zeit an Liutizen genannt wurden) brachte die Erneuerung ihres Stammesverbandes und die Unabhängigkeit der slawischen Gebiete östlich der Elbe vom Deutschen Königreich für fast 200 Jahre. Dem Aufstand schlossen sich auch die Abodriten an.",
+    "type": "event"
+   },
+   {
+    "year": "1018",
+    "title": "Vertreibung des Fürsten Mstivoj",
+    "description": "Der abodritische Fürst Mstivoj (Mstislav) wurde bei einem Versuch der Christianisierung vertrieben.",
+    "type": "event"
+   },
+   {
+    "year": "1056",
+    "title": "Innere Kämpfe der Liutizen",
+    "description": "Innere Konflikte und blutige Machtkämpfe zwischen den Hauptstämmen des veletischen Verbandes (den Redariern, Zirzipanen und Kessinern), die in den Jahren 1056–1057 gipfelten, bedeuteten den Beginn des Untergangs des liutizischen Stammesverbandes.",
+    "type": "event"
+   },
+   {
+    "year": "1066",
+    "title": "Mord am Fürsten Gottschalk",
+    "description": "Der nakonidische Fürst Gottschalk wurde von heidnischen Rebellen auf der Burg Lenzen ermordet.",
+    "type": "event"
+   },
+   {
+    "year": "1131",
+    "title": "Teilung der Herrschaft zwischen Pribislav und Niklot",
+    "description": "Pribislav, der Sohn des abodritischen Fürsten Budivoj, und sein Verwandter Niklot teilten die Herrschaft nach Gebieten auf – Pribislav erhielt das Land der Wagrier und der Polaben, Niklot herrschte im Land der Abodriten.",
+    "type": "event"
+   },
+   {
+    "year": "1138",
+    "title": "Zerstörung der Burg Alt Lübeck",
+    "description": "Die Burg Alt Lübeck (Liubice) wurde von den Ranen zerstört.",
+    "type": "event"
+   },
+   {
+    "year": "1149",
+    "title": "Fall Starigards",
+    "description": "Starigard (Oldenburg) verlor seine politische Bedeutung, als ihn die Dänen eroberten und verwüsteten, und seine massive sächsische Kolonisation begann.",
+    "type": "event"
+   },
+   {
+    "year": "1164",
+    "title": "Schlacht bei Verchen",
+    "description": "Der letzte abodritische Fürst Pribislav wurde nach der verlorenen Schlacht bei Verchen Christ und Vasall des sächsischen Fürsten Heinrich des Löwen.",
+    "type": "event"
+   },
+   {
+    "year": "1168",
+    "title": "Fall Arkonas",
+    "description": "Der Stamm der Ranen auf der Insel Rügen erlag endgültig den Dänen, die zentrale Burg Arkona wurde erobert, geplündert und verbrannt.",
+    "type": "event"
+   },
+   {
+    "year": "1170",
+    "title": "Pribislav wird Reichsfürst",
+    "description": "Pribislav wurde Reichsfürst, wobei er sich weiterhin als Slawe und Abodrit fühlte.",
+    "type": "event"
+   },
+   {
+    "year": "1178",
+    "title": "Tod des Fürsten Pribislav",
+    "description": "Pribislav von Mecklenburg, Fürst der Slawen, letzter König der Abodriten und christlicher Patron Mecklenburgs, starb.",
+    "type": "event"
+   },
+   {
+    "year": "1918",
+    "title": "Ende der mecklenburgischen Monarchie",
+    "description": "Die Nachkommen Pribislavs, die Herzöge und später Großherzöge von Mecklenburg, waren bis zum Ende der Monarchie in diesem Jahr führende Fürsten des Deutschen Reiches.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4467,
+    "caption": "Abb. 1. Siedlungsraum der elbslawisch-pommerschen slawischen Stämme des 8.–10. Jahrhunderts. Legende: 1 – Hauptburgen; 2 – westliche Grenze der Ausbreitung der Slawen nach den sprachwissenschaftlichen Quellen; 3 – westliche Grenze der Ausbreitung der Slawen nach den archäologischen Funden. A–D – Areale der wichtigsten Stammesgruppierungen im 8.–10. Jahrhundert. A – Abodriten; B – Wilzen (Liutizen); C – hevellisch-sprewanische Stämme; D – Sorben.",
+    "alt": "Abb. 1. Siedlungsraum der elbslawisch-pommerschen slawischen Stämme des 8.–10. Jahrhunderts. Legende: 1 – Hauptburgen; 2 – westliche Grenze der Ausbreitung der Slawen nach sprachwissenschaftlichen Quellen; 3 – nach archäologischen Funden."
+   },
+   {
+    "mediaId": 4468,
+    "caption": "Abb. 2. Niklot. Monumentale Reiterstatue des Fürsten Niklot an der Vorderfassade des Schlosses in Schwerin",
+    "alt": "Abb. 2. Niklot. Monumentale Reiterstatue des Fürsten Niklot an der Vorderfassade des Schlosses in Schwerin"
+   },
+   {
+    "mediaId": 4469,
+    "caption": "Abb. 3. Ein Bier mit dem Namen „Fürst Niklot“",
+    "alt": "Abb. 3. Ein Bier mit dem Namen „Fürst Niklot“"
+   },
+   {
+    "mediaId": 4470,
+    "caption": "Abb. 4. Grabstein in der Pribislav-Kapelle in der evangelischen Hauptkirche in Bad Doberan in Mecklenburg mit der Inschrift: Pribislav von Mecklenburg, Fürst der Slawen, letzter König der Abodriten, christlicher Patron Mecklenburgs (+1178), und Ruhestätte weiterer fast drei Dutzend Fürsten von Mecklenburg und Werle.",
+    "alt": "Abb. 4. Grabstein in der Pribislav-Kapelle in der evangelischen Hauptkirche in Bad Doberan in Mecklenburg mit der Inschrift: Pribislav von Mecklenburg, Fürst der Slawen, letzter König der Abodriten, christlicher Patron Mecklenburgs (+1178)."
+   },
+   {
+    "mediaId": 4471,
+    "caption": "Abb. 5. Statue Heinrich Borwins II. in Güstrow.",
+    "alt": "Abb. 5. Statue Heinrich Borwins II. in Güstrow."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe Peter Šalkovský hat für unser Portal den folgenden interessanten Beitrag zur Geschichte der Slawen in Deutschland geschrieben:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Untergang des Thüringer Reiches im Jahr 531 blieben im Gebiet östlich der Elbe und der Saale nur einzelne Gruppen der germanischen Sachsen und Thüringer zurück. In der Folge wurde dieses Gebiet bis zum Ende des 6. Jahrhunderts n. Chr. machtpolitisch wohl zu einem Niemandsland, was sich auch im Desinteresse der zeitgenössischen frühmittelalterlichen Autoren niederschlug. Und erst in dieser Zeit konnten die Slawen aus dem böhmischen Elbgebiet beginnen, weiter in den frei gewordenen Raum entlang der Elbe, der Saale und der Havel bis nach Mitteldeutschland zu übersiedeln. Angesichts des Mangels an Funden wissen wir bislang nicht genauer, wann dies geschah."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Gebiet Sachsens und des östlichen Thüringens zwischen Saale und Elbe wird der Beginn der slawischen Besiedlung mit der slawischen Kultur des sogenannten Prager Typs an das Ende des 6. bis in die erste Hälfte des 7. Jahrhunderts gesetzt. Der übrige Teil der östlichen Gebiete des heutigen Deutschlands etwa bis zur Elbe und dessen Norden – Vorpommern bis nach Rügen und das östliche Holstein – wurde wohl etwas später besiedelt, und zwar allmählich in mehreren Wellen vor allem aus dem Nordwesten durch die frühslawische Sukow-Dziedzice-Kultur, die wahrscheinlich eine regionale nördliche Ableitung der Kultur des Prager Typs war und aus der sich im Laufe des 8. und 9. Jahrhunderts die einzelnen pommerschen, wilzisch-liutizischen und abodritischen Stämme „entwickelten“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Zeit vom 9. bis zum 11. Jahrhundert werden in den Gebieten der nordwestlichen Slawen in verschiedenen Urkunden und Chroniken namentlich über 70 Stammesgebiete und Kleinstämme genannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der wilzische Stammesverband, der im südlichen Vorpommern, im östlichen Teil Mecklenburgs und im Norden Brandenburgs saß, verfügte spätestens in der zweiten Hälfte des 8. Jahrhunderts über eine starke Zentralgewalt. An ihrer Spitze stand Fürst Dragovit. Sein als Civitas Dragaviti bekannter Sitz, die überhaupt erste schriftlich belegte slawische Burg im heutigen Nordostdeutschland, die im Jahr 789 in den Annalen des Fränkischen Reiches erwähnt wird, wird mit der Fundstelle Vorwerk-Alte Schanze bei Demmin in Vorpommern mit einer Fläche von etwa 2,5 ha gleichgesetzt. Im Jahr 789 erlag der veletische (wilzische) Stammesverband dem Feldzug Karls des Großen mit Unterstützung der Abodriten. Diese Niederlage schwächte die zentrale veletische Herrschaft so weit, dass sich die einzelnen Stämme des Verbandes selbstständig machten bzw. fast hundert Jahre in einem Tributverhältnis zum Ostfränkischen Reich lebten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1. Siedlungsraum der elbslawisch-pommerschen slawischen Stämme des 8.–10. Jahrhunderts. Legende: 1 – Hauptburgen; 2 – westliche Grenze der Ausbreitung der Slawen nach den sprachwissenschaftlichen Quellen; 3 – westliche Grenze der Ausbreitung der Slawen nach den archäologischen Funden. A–D – Areale der wichtigsten Stammesgruppierungen im 8.–10. Jahrhundert. A – Abodriten; B – Wilzen (Liutizen); C – hevellisch-sprewanische Stämme; D – Sorben.",
+    "alt": "Abb. 1. Siedlungsraum der elbslawisch-pommerschen slawischen Stämme des 8.–10. Jahrhunderts. Legende: 1 – Hauptburgen; 2 – westliche Grenze der Ausbreitung der Slawen nach sprachwissenschaftlichen Quellen; 3 – nach archäologischen Funden.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Bayerischen Geographen hatten die Wilzen (Uuilci Wieleten), auch als Veleten (Wilzen, Vuilci) bezeichnet, im 9. Jahrhundert 95 Burgen und vier Stammesgebiete. Sie wurden von einer Versammlung geleitet, die die Vertreter der vier Hauptstämme um den Fluss Peene bildeten. Die wichtigsten wilzischen Stämme waren die Redarier (Ratari, Redarier), die Zirzipanen (Circipanen), die Kessiner (Kessinen) und die Tollenser (Tollensanen)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Annalen des Fränkischen Königreichs verzeichneten zum Jahr 823, dass bei den Wilzen ein gewisser rex Wilzorum namens Ljub (Liub) herrschte, der im Krieg gegen die Abodriten fiel. Ljub herrschte offenbar über eine der wilzischen regiones und bekleidete in der Zeit des Krieges gegen die Abodriten das Amt des obersten Heerführers. Ljub genoss offenbar hohes Ansehen, das auch nach seinem Tod fortdauerte, was in die Wahl seines ältesten Sohnes Milogast durch die Stammesversammlung (populus Wilzorum) mündete. Milogast, vielleicht nicht so fähig wie sein Vater, wurde einige Monate nach seiner Wahl von der Stammesversammlung abgesetzt, weil er die Herrschaft „unangemessen ausübte“, und seinen Platz nahm auf Wunsch der Versammlung sein jüngerer Bruder Čedodrag ein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für den Rest des 9. Jahrhunderts, des dunklen Jahrhunderts der wilzischen Geschichte, erlosch die zentrale Fürstenmacht und es kam zu einer deutlichen Schwächung der Fürsten, über die wir in den Schriftquellen nichts mehr erfahren. Erneut gewann die Stammesversammlung an Bedeutung, und vor allem das Priesterkollegium, das sich in dieser Krisenzeit großen Einfluss auf das Funktionieren des gesamten Verbandes erkämpfte. Die Fürsten der einzelnen regiones wurden im Laufe der zweiten Hälfte des 9. Jahrhunderts entweder beseitigt, oder es blieb ihnen nur ein unbedeutender Bruchteil der Macht in den Angelegenheiten des gesamten Verbandes. Die neue politische Ordnung des wilzischen Verbandes beruhte auf gemeinsamen Versammlungen der Vertreter der Priester der einzelnen civitates und regiones. Seinen Einfluss hielt das Priesterkollegium durch ein weitreichendes Netz heidnischer Tempel in den einzelnen Stammesbezirken aufrecht, die regelmäßige Abgaben nach Rethra lieferten. Obwohl die Wilzen viele, auch sehr große Burgen besaßen (Feldberg, Liepen, Neu Niekör, Sternberger Burg, Sukow, Vorwerk, Wildberg und Kastorf u. a.), hatten sie wohl kein fürstliches Hauptherrschaftszentrum, bzw. bildete es das heidnische Heiligtum in Rethra (Riedigost). Nach dessen Untergang verlagerte sich das Zentrum auf die Burg Arkona mit dem monumentalen Tempel des Gottes Svantovit auf der Insel Rügen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erst der große Aufstand der weiterhin heidnischen Veleten im Jahr 983, nach dem sie sich Liutizen zu nennen begannen, bedeutete nicht nur die Erneuerung ihres Stammesverbandes, sondern auch die Erlangung der Unabhängigkeit der slawischen Gebiete östlich der Elbe vom Deutschen Königreich für einen langen, fast 200 Jahre dauernden Zeitraum. Der veletische Verband, der den Aufstand ausgelöst hatte, erhob sich aus den Trümmern und wurde im 11. Jahrhundert zu einer bedeutenden militärischen Kraft im Norden Mitteleuropas. Innere Konflikte und blutige Machtkämpfe zwischen den Hauptstämmen des Verbandes, den Redariern, Zirzipanen und Kessinern, die in den Jahren 1056–1057 gipfelten, bedeuteten den Beginn des Untergangs des liutizischen Stammesverbandes, seiner Zersplitterung, der allmählichen Beherrschung durch die Abodriten und die sächsischen Herzöge und der Assimilation durch die deutschen Zuwanderer."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2. Niklot. Monumentale Reiterstatue des Fürsten Niklot an der Vorderfassade des Schlosses in Schwerin",
+    "alt": "Abb. 2. Niklot. Monumentale Reiterstatue des Fürsten Niklot an der Vorderfassade des Schlosses in Schwerin",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Stamm der Ranen, der Rujanen nördlich der Wilzen auf der Insel Rügen in Norddeutschland, war ebenfalls lange ein Anhänger der heidnischen Religion. Er widerstand mehrfachen Kriegsversuchen vor allem der Dänen, bis er ihnen im Jahr 1168 endgültig erlag. Die zentrale Burg Arkona wurde erobert, geplündert und verbrannt. Die damaligen Stammesherrscher Jaromar I. und Teslaw, die auf der Burg im nicht weit entfernten Charenza (Garz, Venz?) saßen, ergaben sich nach dem Fall Arkonas dem dänischen König Waldemar und wurden bis zum Jahr 1325 (Wisław III.) seine Vasallen. Später waren sie von dem westpommerschen deutschen Fürstentum abhängig, in das sie nach dem Tod Warcisławs X. (1478) eingegliedert wurden. Die slawischen Rujanen wurden im Laufe von drei Jahrhunderten nicht nur vollständig christianisiert, sondern auch von der neu zugewanderten deutschen Bevölkerung assimiliert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Abodriten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wohl meisten schriftlichen Angaben besitzen wir zum abodritischen Stammesverband, der im westlichen Mecklenburg und im südöstlichen Holstein, also westlich des veletischen Verbandes, wohl schon im 8. Jahrhundert aus verschiedenen, namentlich unbekannten Kleinstämmen entstand, die ihrem Ursprung nach offenbar verwandt waren und an deren Spitze eigene Häuptlinge oder – wie es in den fränkischen Quellen heißt – Kleinkönige (regulus) standen. Aus ihren Reihen wählten und bestimmten sie den Hauptheerführer des Verbandes, einen Fürsten, der manchmal auch König genannt wurde und der mit Zustimmung der Versammlung entschied. Der Verband, der im Bereich der Außenpolitik manchmal auch in westliche und östliche Abodriten geteilt wurde, besaß keine Souveränität, denn die Kleinstämme an der Küste der Ostsee hatten eigenständige Beziehungen zum skandinavischen Umfeld, vor allem zu den Dänen. Die übrigen Gebiete unter der Herrschaft des Verbandsfürsten Vlčan (Witzan) waren spätestens im Jahr 780 Vasallen der Franken und ihre Verbündeten gegen die damals noch heidnischen Sachsen. Wahrscheinlich wurden auch die weiteren abodritischen Fürsten Dražko (Drasco), Slavomír (Sclaomir) und Sedrag (Ceadrag) mit Unterstützung der fränkischen Herrscher gewählt bzw. eingesetzt, und ihre Aufgabe war es, die rechtsseitigen Gebiete der Elbe östlich der Grenze des Fränkischen Reiches zu kontrollieren. Seine größte Ausdehnung, die von der Mündung der Havel bis zur Nordsee reichte, hatte der abodritische Verband unter der Herrschaft von Vlčans Sohn Dražko (795/804–810), als er auch die Angliederung der damals von den Dänen beherrschten Gebiete und Häfen anstrebte. In den Diensten der Franken hielt er jahrelang bis zu seinem gewaltsamen Tod im Jahr 810 die noch heidnischen Sachsen und die Dänen im Zaum. Als Beispiel eines der kleineren Fürsten unter der Herrschaft Dražkos wird Goidelaib erwähnt. Diese Fürsten sollen in den einzelnen Fürstenbezirken geherrscht haben, von denen Goidelaib zwei beherrschte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch diese abodritischen Fürsten müssen bereits ähnliche Sitze gehabt haben wie ihr Zeitgenosse, der erwähnte wilzische Dragovit (Civitas Dragaviti, 789). Wir wissen, dass die großen zentralen Burgen wie Oldenburg, Mecklenburg, Hitzacker und weitere, die in der abodritischen Sphäre lagen, zumindest nach der klassischen Datierung ihre Anfänge bereits im 8. Jahrhundert haben. Doch die ersten, nicht zahlreichen dendrochronologischen Untersuchungen datieren einen Teil von ihnen etwas später (zum Beispiel Alt Lübeck in das Jahr 818, Scharstorf in das Jahr 835, Bosau in das Jahr 837 und Ilow in das Jahr 840). Weitere bedeutende Burgen der Abodriten waren die jüngeren Burgen Ilow, Dobin am Schweriner See oder Friedrichsrühe bei Parchim."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im 9. Jahrhundert soll die abodritische Konföderation (Nortabtrezi) nach dem Bayerischen Geographen insgesamt 53 Burgen in vier Gebieten gehabt haben. Ihre Mitglieder waren zu verschiedenen Zeiten vom 8. bis zum 12. Jahrhundert außer den Abodriten selbst im engeren Sinne zwischen der Wismarer Bucht und dem Schweriner See auch die Wagrier, die am weitesten westlich im heutigen östlichen Holstein saßen. Ebenso die Polaben, die sich im 11. Jahrhundert von den Wagriern abtrennten, weiter die Warnower, die östlich am oberen Lauf der Warnow saßen, und schließlich die südlicher an der Elbe sitzenden Drewanen (Travunjani). Als Satellitenstämme außerhalb des abodritischen Siedlungsgebietes, bzw. südlich und östlich davon, gehörten zeitweise auch die Linonen zu ihnen, ebenso andere kleinere Stämme, in bestimmten Zeiten auch die mit den Wilzen in Verbindung gebrachten Kessiner, Zirzipanen und Morizanen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 3. Ein Bier mit dem Namen „Fürst Niklot“",
+    "alt": "Abb. 3. Ein Bier mit dem Namen „Fürst Niklot“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die positiven Beziehungen der Franken zu den Abodriten endeten nach deren Versuchen (unter der Herrschaft von Dražkos Bruder Slavomír und seinem Sohn Sedrag), ein Bündnis mit den Dänen gegen das Fränkische Reich zu schließen. Die zentralisierende Entwicklung der abodritischen Konföderation hielten für längere Zeit weitere Feldzüge des Kaisers Ludwig des Deutschen um das Jahr 844 auf, der nach dem Tod ihres Hauptfürsten Gostomysl das Gebiet unter die vier abodritischen Hauptstämme mit eigenen Fürsten an der Spitze aufteilte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Jahrhundert später erstarkten die Abodriten trotz der sich wandelnden Lage und der tributären Abhängigkeit vom Reich erneut. Im Jahr 955 wurde ein weiterer Aufstand unter der Führung des abodritischen Adligen Stoignev niedergeschlagen. Erst im Jahr 983, als sie sich dem Aufstand der Liutizen gegen die Deutschen und die Christianisierung anschlossen, erlangten auch sie für lange Zeit die Unabhängigkeit. Einzelne Angehörige der herrschenden Geschlechter versuchten jedoch abwechselnd erneut die Christianisierung – wie der später, im Jahr 1018, vertriebene Fürst Mstivoj (Mstislav) –, ebenso die Zusammenarbeit mit dem deutschen Staat oder umgekehrt die Wiederbelebung des heidnischen Kultes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im 10. Jahrhundert erfahren wir von den Hauptteilen dieses neuen abodritischen Gebildes. Es handelte sich um die Stämme der Wagrier und der Polaben, die neu abgetrennte Gruppen vom früheren Großstamm darstellten, und um die Abodriten selbst, über die offenbar weiterhin dieselbe Fürstenfamilie oder deren entfernte Verwandte herrschten. Diese drei Einheiten bildeten den Stammeskern, doch ihr innerer Aufbau war nicht gleich. Bei den zwei „jüngeren Stämmen“ erhielt sich die ältere Stammesstruktur, in der es zu einem unregelmäßigen Wechsel der Herrschaft von Fürsten (Principes Sclavorum), von denen wir einige sogar namentlich kennen, und von Stammesversammlungen kam."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Gegensatz dazu kam es bei den Abodriten, die den Kern des früheren Großstammes im Gebiet Mecklenburgs darstellten, zu einer Stärkung der Fürstenmacht und zur Beseitigung der Stammesversammlung, worauf ihre Ersetzung durch eine Versammlung der mächtigsten Einzelpersonen folgte, die an der Spitze der niederen Stammeseinheiten standen (nobiles, sociis) und eine große fürstliche Gefolgschaft bildeten. Der engere Kreis dieser Gefolgschaft stellte den nächsten Umkreis des Fürsten dar, dessen Stellung sich unter anderem gerade auf ihre Ergebenheit stützte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 4. Grabstein in der Pribislav-Kapelle in der evangelischen Hauptkirche in Bad Doberan in Mecklenburg mit der Inschrift: Pribislav von Mecklenburg, Fürst der Slawen, letzter König der Abodriten, christlicher Patron Mecklenburgs (+1178), und Ruhestätte weiterer fast drei Dutzend Fürsten von Mecklenburg und Werle.",
+    "alt": "Abb. 4. Grabstein in der Pribislav-Kapelle in der evangelischen Hauptkirche in Bad Doberan in Mecklenburg mit der Inschrift: Pribislav von Mecklenburg, Fürst der Slawen, letzter König der Abodriten, christlicher Patron Mecklenburgs (+1178).",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Sitz der wohl bekanntesten abodritischen Dynastie der Nakoniden, die sich vom 10. Jahrhundert an ein Jahrhundert lang (mit Unterbrechungen) um die Gründung eines eigenen Staates bemühte, und die Hauptbastion der Abodriten war die Burg in Dorf Mecklenburg, die wahrscheinlich ursprünglich Veligrad oder Michelsburg genannt wurde. Außer den Worten Ibrahim ibn Jaqubs, der sie als Nakons Burg beschreibt, die mit den Fürstenburgen der Bulgaren oder der Polen vergleichbar sei, bestätigen auch archäologische Funde ihre außergewöhnliche Stellung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer der bekanntesten nakonidischen Fürsten war Gottschalk, bekannt durch seine wechselnde Hinwendung zum Heidentum und zum Christentum; er wurde im Jahr 1066 von heidnischen Rebellen auf der Burg Lenzen ermordet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zentrum der Wagrier war wiederum der bekannte Starigard (Oldenburg). Obwohl mehrfach niedergebrannt, bestand er bis ins 12. Jahrhundert und war damals in seiner Innenbebauung mit den zeitgleichen karolingischen Burgen vergleichbar. Starigard verlor seine politische Bedeutung im Jahr 1149, als ihn die Dänen eroberten und verwüsteten und seine massive sächsische Kolonisation begann. Zu Beginn des 13. Jahrhunderts wurden die Ruinen der slawischen Burg zum neuen Sitz der Grafen von Holstein umgebaut, und ihr Suburbium erhielt das Stadtrecht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alt Lübeck (Liubice), ebenfalls eine bedeutende abodritische Burg, wurde in der Mitte des 11. Jahrhunderts zur Residenzstadt der letzten abodritischen nakonidischen Fürsten. Sie wurde umgebaut, erweitert, und auf Initiative des Fürsten Gottschalk entstand hier ein großer Baukomplex. Die Blüte der Burg setzte sich unter dem abodritischen „König“ Heinrich von Alt Lübeck fort, als sie städtischen Charakter annahm und aus der Burg, dem Hafen und drei Vorburgen bestand. Im Jahr 1138 wurde die Burg von den Ranen zerstört. Ihr Name Liubice wurde auf die Hafenstadt übertragen, die auf einer nicht weit entfernten Insel gegründet wurde und aus der das heutige Lübeck entstand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu Beginn der 30er Jahre des 12. Jahrhunderts, wahrscheinlich im Jahr 1131, teilten Pribislav, der Sohn des abodritischen Fürsten Budivoj, und sein wahrscheinlicher Onkel oder naher Verwandter Niklot die Herrschaft (principatus) nicht nach Stämmen, sondern nach deren Gebiet auf. Pribislav erhielt das Land (provinciam) der Wagrier und der Polaben, und Niklot herrschte im Land der Abodriten. Gegenstand der Teilung wurden also nicht die Menschen, sondern ihre Länder. Niklot wurde in der Folge von Helmold außer mit dem traditionellen Titel „princeps Obotritorum oder princeps Slavorum“ im Zusammenhang mit dem Land der Abodriten auch als „Niclotus princeps terrae Obotritorum“ bezeichnet. Heute hat er nicht nur eine im Jahr 1855 an der Vorderfassade des Schlosses in Schwerin errichtete monumentale Reiterstatue, sondern seinen Namen trägt auch ein Bier – „Fürst Niklot – Premium Quality“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zentrale abodritische Burg Mecklenburg mit einer Fläche von 1,4 ha, von einem sehr massiven Wall aus Holz und Lehm umgeben, wurde nach den zunächst erfolgreichen Kriegen gegen die deutschen und dänischen Feudalherren in den Jahren 1147–1164 zerstört. Obwohl sie dem heutigen Land Mecklenburg den Namen gab, ist aus ihr heute das Dorf Dorf Mecklenburg geworden. Ein ähnliches Schicksal traf auch andere abodritische Burgen, unter ihnen Behren-Lübchin im Jahr 1171; es half auch nicht das Bemühen eines Teils der herrschenden Schicht der Abodriten um die Christianisierung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der zweiten Hälfte des 12. Jahrhunderts erlag schließlich auch die abodritische Stammeskonföderation den Angriffen der sächsischen Herzöge. Der letzte abodritische Fürst Pribislav wurde nach der verlorenen Schlacht bei Verchen im Jahr 1164 Christ und Vasall des sächsischen Fürsten Heinrich des Löwen und erhielt einen großen Teil seines früheren Fürstentums als Lehen Terra Obodritorum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 5. Statue Heinrich Borwins II. in Güstrow.",
+    "alt": "Abb. 5. Statue Heinrich Borwins II. in Güstrow.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1170 wurde er Reichsfürst. Weiterhin fühlte er sich jedoch als Slawe und Abodrit, ähnlich wie seine nächsten Nachfolger, wovon auch die schriftlichen Aufzeichnungen über die Namen ihrer treuen Adligen zeugen, mit denen sie sich umgaben – Sirizlaf, Wolcowitz, Wartiz, Bizpraw, Radomir, Chubanze, Veneiko, Woiwoto, Damascho, Paliz, Gusiz, Zlauteich, Chemko, Dursico, Janeke, Stoislav, Dargatz, Jarozlav und weitere."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Praktisch im Laufe des gesamten betrachteten Zeitraums vom Ende des 9. bis zum Ausgang des 12. Jahrhunderts wurden die abodritischen Fürsten außer mit Begriffen wie dux Obotritorum oder princeps Obotritorum auch als dux Slavis, princeps Slavorum oder princeps Winulorum tituliert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Jahr 1200 begann in Mecklenburg eine intensive Kolonisation durch deutsche Siedler aus Westfalen, Niedersachsen, Friesland und Holstein, in deren Verlauf die Mehrheit der mecklenburgischen Städte gegründet wurde. Die spätmittelalterliche territorial-administrative Gliederung des Landes, die Organisation der sogenannten Burgstatthaltereien – Burgwarde –, d. h. der Gebiete, die ein Statthalter als Bevollmächtigter des Fürsten oder Königs in einem Zentrum mit einer Burg verwaltete, beruhte zumindest in den abodritisch-liutizischen Territorien des östlichen Holsteins, Lauenburgs, Mecklenburgs und Vorpommerns auf der älteren Gliederung in alte slawische Burgbezirke (civitates, Burgbezirke) und in spätabodritische wie spätliutizische Fürstentümer und Kastellaneien des 11.–12. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obwohl die Dynastie der abodritischen Fürsten die Stellung von Erbherrschern mit dem ausschließlichen Recht auf die oberste Herrschaft, über das die Přemysliden oder die Piasten verfügten, nicht erreichte – zumindest nicht in vollem Umfang –, vermochte sie durch ihre Macht und ihren Einfluss mehrfach ihre verlorenen Positionen wiederzuerlangen. Die Nachkommen Pribislavs, die Herzöge und später auch Großherzöge von Mecklenburg, waren bis zum Ende der Monarchie im Jahr 1918 führende Fürsten und Akteure des Deutschen Reiches, und ihre abodritische „königliche“ Herkunft wurde in den Chroniken lange hervorgehoben. Ein monumentales Denkmal hat die mecklenburgische Dynastie in der evangelischen Hauptkirche in Bad Doberan in Mecklenburg erhalten, wo sich die Grabstätten und die Grabtafel der mecklenburgischen Herrscher von Pribislav bis Heinrich Borwin II. befinden. Heinrich Borwin II. (1219–1226), dem Fürsten von Mecklenburg, Herrn von Rostock und Gründer der Stadt Güstrow, wurde hier am Borwinbrunnen schon im Jahr 1889 eine Statue errichtet. Wir können nur bedauern, dass wir Slowaken fast keine Denkmäler „unserer“ berühmten Persönlichkeiten (Grafen, Fürsten, Könige, aber auch Künstler, Wissenschaftler, Generäle …) besitzen, die zwischen der Donau und der Tatra lebten und wirkten und denen wir unsere Achtung und unseren symbolischen Dank bezeugen könnten – ohne Rücksicht darauf, ob sie sich als Slowaken, Ungarn oder Deutsche fühlten, ob sie die slowakische Sprache beherrschten oder auf der Gegenseite kämpften (wie die Mehrheit der elbslawisch-pommerschen Häuptlinge und Fürsten) oder ob sie, wie zum Beispiel Fürst Niklot, sogar als Gegner im Kampf fielen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "PhDr. Peter Šalkovský, DrSc., Archäologisches Institut der Slowakischen Akademie der Wissenschaften."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Verwendete Literatur"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Biermann, F.: Slawische Besiedlung zwischen Elbe, Neiße und Lubsza. Bonn 2000."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Brather, S.: Archäologie der westlichen Slawen: Siedlung, Wirtschaft und Gesellschaft im früh- und hochmittelalterlichen Ostmitteleuropa. Berlin – New York 2009."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tomášek, J.: Obodritský státotvorný proces ve středoevropské dimenzi (789–1178). Praha 2013."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wieczorek, A./Hinz, H. M. (Hrsg.): Europas Mitte um 1000. Beiträge zur Geschichte, Kunst und Archäologie. I–II. Stuttgart 2000."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Herrmann, J.: Od Hradčian po Vinetu. Rané kultúry západných Slovanov. Martin 1973."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

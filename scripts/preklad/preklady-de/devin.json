@@ -1,0 +1,1211 @@
+{
+ "slug": "devin",
+ "data": {
+  "title": "Devín – die großmährische Dowina aus dem Eintrag der Fuldaer Annalen",
+  "slug": "devin-dowina-grossmaehrischer-burgwall",
+  "excerpt": "Devín (Theben) liegt auf einem Sporn über dem Zusammenfluss von Donau und March, dort wo sich die Bernsteinstraße und die Donaustraße kreuzten. Im Jahr 864 belagerte König Ludwig der Deutsche hier nach den Fuldaer Annalen Rastislav in der Stadt Dowina — und wagte keinen Sturm. Zur Agglomeration gehörten mindestens drei Burgwälle, ein triconchaler Kirchenbau und drei Gräberfelder außerhalb der Befestigung.",
+  "metaTitle": "Devín – die großmährische Dowina der Fuldaer Annalen",
+  "metaDescription": "Devín — Dowina, wo König Ludwig im Jahr 864 nach den Fuldaer Annalen Rastislav belagerte; ein Ort mit dichter Konzentration archäologischer Funde.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Spornlage über dem Zusammenfluss von Donau und March, an der Kreuzung der Bernsteinstraße und der Donaustraße",
+    "icon": "mountain"
+   },
+   {
+    "label": "Das Brot von Devín",
+    "value": "Ein verkohlter runder Laib (Durchmesser etwa 23 cm, etwa 1 kg) aus germanischer Zeit, aus Weizenmehl mit einer Beimischung von Roggenmehl gebacken",
+    "icon": "star"
+   },
+   {
+    "label": "System von drei Burgwällen",
+    "value": "Der zentrale Burgwall (die heutige Burg) sowie die Satellitenburgwälle Na pieskoch und Nad lomom auf der Devínska kobyla, beide mit Rostkonstruktion der Befestigung und Spuren eines zerstörenden Brandes",
+    "icon": "shield"
+   },
+   {
+    "label": "Triconchaler Kirchenbau",
+    "value": "Ein dreiapsidialer Sakralbau aus dem 9. Jahrhundert, die Mauern mit weißem Kalkputz bedeckt, der Innenraum mit Malereien verziert",
+    "icon": "building"
+   },
+   {
+    "label": "Drei Gräberfelder außerhalb des Burgwalls",
+    "value": "Mladošovičov vinohrad (13 Gräber, J. Eisner), Staré Vinohrady (24 Gräber, 1953, Ľ. Kraskovská) und Za kostolom (122 Gräber, I. Keller)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Schriftquellen",
+    "value": "Die Fuldaer und die Bertinianischen Annalen, die Xantener Annalen und die Geschichte der fränkischen Könige erwähnen Dowina/Devín im Zusammenhang mit dem Zug Ludwigs des Deutschen im Jahr 864",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zugang",
+    "value": "Die Burgwälle Na pieskoch und Nad lomom sind bis heute ohne jegliche touristische Kennzeichnung ihrer großmährischen Bedeutung",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Jungsteinzeit",
+    "title": "Älteste Besiedlung des Burghügels",
+    "description": "Die Linearbandkeramik, die Badener Kultur, das Volk der Schnurkeramik und die Maďarovce-Kultur hinterließen kultische Artefakte; das Volk der Maďarovce-Kultur errichtete die erste Befestigung der Hauptburg mit einem Wall aus Holz und Erde, der an den Fundamenten bis zu 4 m stark war.",
+    "type": "founding"
+   },
+   {
+    "year": "Latènezeit",
+    "title": "Keltische Besiedlung",
+    "description": "Der Fund eines Krugs mit 70 keltischen Münzen (Nachahmungen römischer Denare, geprägt von den Eraviskern und den Azalen) im Hof der Mittelburg.",
+    "type": "event"
+   },
+   {
+    "year": "3. – 4. Jahrhundert",
+    "title": "Römische Bauten",
+    "description": "Die Römer errichteten einen gemauerten Wachturm auf der Hauptburg und ein umfangreicheres Gebäude mit vier Räumen und einer Apsis im Hof der Mittelburg, Teil des Systems des Limes Romanus.",
+    "type": "construction"
+   },
+   {
+    "year": "8. Jahrhundert",
+    "title": "Der erste slawische Burgwall",
+    "description": "Er nutzte die Überreste einer älteren römischen Fortifikation (den Wall auf der Nordseite); in dieser Periode verlagerte sich der Schwerpunkt der Besiedlung wahrscheinlich von Devínska Nová Ves in das Gebiet von Devín.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende des 7. Jahrhunderts",
+    "title": "Devín als Stützpunkt der Awaren",
+    "description": "Nach dem Historiker Ján Steinhübel beherrschten die Awaren von hier aus die Slawen in Mähren; das belegen die Zunahme von Reitergräbern in der Umgebung und das reich ausgestattete Grab eines awarischen Reiters unmittelbar in der Gemeinde Devín.",
+    "type": "event"
+   },
+   {
+    "year": "Beginn des 9. Jahrhunderts",
+    "title": "Die mährischen Fürsten bemächtigen sich Devíns",
+    "description": "Nach der Schwächung der awarischen Macht unterwarfen die mährischen Fürsten Devín erneut und begannen es zu einer der bedeutendsten Festungen umzubauen.",
+    "type": "construction"
+   },
+   {
+    "year": "846 – 870 (Herrschaft Rastislavs)",
+    "title": "Rastislavs Devín — der Höhepunkt der Bedeutung",
+    "description": "Devín schützte den Übergang über die Donau aus der Ostmark und auch die Grenze gegen die Region Nitra; rings um den zentralen Burgwall entstanden die Satellitenburgwälle Na pieskoch und Nad lomom auf der Devínska kobyla.",
+    "type": "construction"
+   },
+   {
+    "year": "864",
+    "title": "Die Belagerung von Dowina durch König Ludwig den Deutschen",
+    "description": "Die Fuldaer Annalen zeichnen auf, wie der fränkische König Rastislav in der Stadt Dowina belagerte; Rastislav legte schließlich einen (nicht eingehaltenen) Vasalleneid ab — die Befestigung von Devín erwies sich als so imposant, dass Ludwig nicht einmal einen Versuch unternahm, sie mit Gewalt zu erobern.",
+    "type": "event"
+   },
+   {
+    "year": "1984 – 1985",
+    "title": "Entdeckung des dreiapsidialen Sakralbaus",
+    "description": "Der triconchale Kirchenbau wurde in der Lage „Nad prístaviskom\" freigelegt, in einem Zug errichtet (im Verband gemauerte Mauern), mit bemaltem Putz verziert, ähnlich wie die Kirchen in Mikulčice und auf der Burg von Bratislava.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. Jahrhundert (Begleitgräber)",
+    "title": "Das Gräberfeld bei der Kirche",
+    "description": "Erhalten blieben 6 in das 9. Jahrhundert datierte Gräber bei dem Sakralbau; das spätere Gräberfeld über den Mauern der Kirche (11. – 13. Jh.) belegt, dass der Bau schon in Ruinen lag.",
+    "type": "discovery"
+   },
+   {
+    "year": "1953",
+    "title": "Freilegung des Gräberfeldes Staré Vinohrady",
+    "description": "Ľ. Kraskovská legte 24 Gräber frei, darunter drei symbolische (Kenotaphe).",
+    "type": "discovery"
+   },
+   {
+    "year": "60er – 70er Jahre des 20. Jahrhunderts",
+    "title": "Das größte Gräberfeld „Za kostolom\"",
+    "description": "I. Keller legte 122 Gräber frei, nahezu die Hälfte davon waren Kindergräber.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6357,
+    "alt": "Rekonstruktion des Burgwalls mit Palisade auf dem Sporn über dem Zusammenfluss der Flüsse"
+   },
+   {
+    "mediaId": 1218,
+    "caption": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert. Weitere Bilder HIER",
+    "alt": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert. Weitere Bilder HIER"
+   },
+   {
+    "mediaId": 1219,
+    "caption": "Devín in den Zeiten des Fürsten Rastislav im 9. Jahrhundert nach der Vorstellung eines Malers aus den 30er Jahren",
+    "alt": "Devín in den Zeiten des Fürsten Rastislav im 9. Jahrhundert nach der Vorstellung eines Malers aus den 30er Jahren"
+   },
+   {
+    "mediaId": 1220,
+    "caption": "Altslawisches Lager in Devín, Autor: Anton Pinkava. 1937",
+    "alt": "Altslawisches Lager in Devín, Autor: Anton Pinkava. 1937"
+   },
+   {
+    "mediaId": 1221,
+    "caption": "Der Fund keltischer Münzen",
+    "alt": "Der Fund keltischer Münzen"
+   },
+   {
+    "mediaId": 1222,
+    "caption": "Slawische Frauen — sie schmückten Devín schon vor mehr als 1100 Jahren",
+    "alt": "Slawische Frauen — sie schmückten Devín schon vor mehr als 1100 Jahren"
+   },
+   {
+    "mediaId": 1223,
+    "caption": "Der Burgwall von Devín im 9. Jahrhundert nach Štefanovičová",
+    "alt": "Der Burgwall von Devín im 9. Jahrhundert nach Štefanovičová"
+   },
+   {
+    "mediaId": 1224,
+    "caption": "1. Zentraler Burgwall (die heutige Burg), 3. Na Pieskach, 4. Nad Lomom",
+    "alt": "1. Zentraler Burgwall (die heutige Burg), 3. Na Pieskach, 4. Nad Lomom"
+   },
+   {
+    "mediaId": 890,
+    "caption": "Die Fundamente der großmährischen Kirche mit einem Modell",
+    "alt": "Die Fundamente der großmährischen Kirche mit einem Modell"
+   },
+   {
+    "mediaId": 896,
+    "caption": "Slawische Funde aus Devín",
+    "alt": "Slawische Funde aus Devín"
+   },
+   {
+    "mediaId": 898,
+    "caption": "Glasmalereiverzierung des Kirchenfensters (Harmadyová 2020)",
+    "alt": "Glasmalereiverzierung des Kirchenfensters (Harmadyová 2020)"
+   },
+   {
+    "mediaId": 912,
+    "caption": "Blick auf beide Burgwälle. Im Vordergrund Piesky, im Hintergrund Lom",
+    "alt": "Blick auf beide Burgwälle. Im Vordergrund Piesky, im Hintergrund Lom"
+   },
+   {
+    "mediaId": 927,
+    "caption": "Piesky",
+    "alt": "Piesky"
+   },
+   {
+    "mediaId": 929,
+    "caption": "Blick auf die Innenfläche des Burgwalls Piesky",
+    "alt": "Blick auf die Innenfläche des Burgwalls Piesky"
+   },
+   {
+    "mediaId": 931,
+    "caption": "Ein gut erhaltener Teil des Walles im Nordwesten",
+    "alt": "Ein gut erhaltener Teil des Walles im Nordwesten"
+   },
+   {
+    "mediaId": 933,
+    "caption": "Der Innenraum des Burgwalls - im Hintergrund der unterbrochene nordwestliche Wall",
+    "alt": "Der Innenraum des Burgwalls - im Hintergrund der unterbrochene nordwestliche Wall"
+   },
+   {
+    "mediaId": 935,
+    "caption": "Blick auf den östlichen Teil des Burgwalls",
+    "alt": "Blick auf den östlichen Teil des Burgwalls"
+   },
+   {
+    "mediaId": 939,
+    "caption": "Eine Kulturschicht?",
+    "alt": "Eine Kulturschicht?"
+   },
+   {
+    "mediaId": 943,
+    "caption": "Gesamtblick auf die Fläche des Burgwalls",
+    "alt": "Gesamtblick auf die Fläche des Burgwalls"
+   },
+   {
+    "mediaId": 945,
+    "caption": "Der Verlauf des Walles im Nordosten",
+    "alt": "Der Verlauf des Walles im Nordosten"
+   },
+   {
+    "mediaId": 949,
+    "caption": "Der bekannte Sandberg, er liegt unmittelbar unter dem Burgwall Na Pieskách",
+    "alt": "Der bekannte Sandberg, er liegt unmittelbar unter dem Burgwall Na Pieskách"
+   },
+   {
+    "mediaId": 961,
+    "caption": "Eine einzigartige alte Fotografie hält das ursprüngliche Aussehen des Burgwalls mit sichtbaren Wällen fest (Pamiatky a múzeá 1/1995)",
+    "alt": "Eine einzigartige alte Fotografie hält das ursprüngliche Aussehen des Burgwalls mit sichtbaren Wällen fest (Pamiatky a múzeá 1/1995)"
+   },
+   {
+    "mediaId": 963,
+    "caption": "Gesamtblick auf den Burgwall Lom",
+    "alt": "Gesamtblick auf den Burgwall Lom"
+   },
+   {
+    "mediaId": 965,
+    "caption": "Detail des Burgwalls mit dem rechts sichtbaren Teil der Wallbefestigung",
+    "alt": "Detail des Burgwalls mit dem rechts sichtbaren Teil der Wallbefestigung"
+   },
+   {
+    "mediaId": 967,
+    "caption": "Blick auf beide Burgwälle aus der Richtung von Devín",
+    "alt": "Blick auf beide Burgwälle aus der Richtung von Devín"
+   },
+   {
+    "mediaId": 969,
+    "caption": "Der erhaltene Wall im östlichen Teil des Burgwalls Nad Lomom",
+    "alt": "Der erhaltene Wall im östlichen Teil des Burgwalls Nad Lomom"
+   },
+   {
+    "mediaId": 971,
+    "caption": "Blick vom Burgwall Nad Lomom auf den Burgwall Na Pieskách",
+    "alt": "Blick vom Burgwall Nad Lomom auf den Burgwall Na Pieskách"
+   },
+   {
+    "mediaId": 973,
+    "caption": "Wieder einige Fotos - ausgezeichnete Aussicht - in Richtung Marchfeld",
+    "alt": "Wieder einige Fotos - ausgezeichnete Aussicht - in Richtung Marchfeld"
+   },
+   {
+    "mediaId": 975,
+    "caption": "Das altberühmte Devín vom Burgwall Nad Lomom",
+    "alt": "Das altberühmte Devín vom Burgwall Nad Lomom"
+   },
+   {
+    "mediaId": 979,
+    "caption": "Blick auf den Wall im östlichen (gut zugänglichen) Teil des Burgwalls",
+    "alt": "Blick auf den Wall im östlichen (gut zugänglichen) Teil des Burgwalls"
+   },
+   {
+    "mediaId": 983,
+    "caption": "Die Sandgewinnung auf dem Burgwall Na Pieskách hat an einigen Stellen die gut sichtbare Steinfront des großmährischen Walles freigelegt",
+    "alt": "Die Sandgewinnung auf dem Burgwall Na Pieskách hat an einigen Stellen die gut sichtbare Steinfront des großmährischen Walles freigelegt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "König Ludwig zog im Monat August mit einem großen Heer über die Donau und belagerte Rastislav in einer Stadt, die in der Sprache jenes Volkes Dowina genannt wird. Jener (Rastislav) aber, da er es nicht wagte, sich den Heeren des Königs zu stellen, und da er sah, dass er keinen Weg hatte, auf dem er entkommen könnte, war in der Bedrängnis gezwungen, so viele Geiseln und in solcher Zahl zu stellen, wie der König befahl. Darüber hinaus bekräftigte er noch mit einem Eid, dass er mit allen seinen (Rastislavs) Adligen dem König alle Tage die Treue halten werde, auch wenn er sie bis dahin nicht gehalten hatte.",
+    "author": null,
+    "source": "Fuldaer Annalen, Jahr 864"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Devín (Theben) ist für ihre dichte Konzentration archäologischer Funde aus allen archäologischen Perioden bekannt. Wie der Historiker Anton Hrnko in dem ausgezeichneten Büchlein Devín-božská perla Slovenska anführt: „Die Einzigartigkeit des Ortes am Zusammenfluss der March mit der Donau verstärkt die Tatsache, dass sich gerade unter ihm die zwei bedeutendsten europäischen antiken Straßenzüge kreuzten, die sogenannte Bernsteinstraße und die Donaustraße. Von den ältesten Zeiten an trafen sich unter dem Burgfelsen und in seiner Umgebung Kaufleute, die den Tauschhandel zwischen Nord- und Südeuropa vermittelten, mit jenen, die sich mit Waren entlang der Donau aus Nordwesteuropa auf den Balkan und von dort weiter über Anatolien bis in den Nahen Osten und nach China begaben und umgekehrt. Bernstein, Zinn, Kupfer, Salz, Gold, Nahrungsmittel, Stoffe und andere benötigte Güter, die sich in einem Winkel der Welt befanden, wurden an das andere Ende der Handelsrouten gebracht, um dort gegen andere nützliche Dinge getauscht zu werden und auf denselben Wegen, nur in umgekehrter Richtung, zu wandern. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute können wir nur staunen, welch enorme Entfernungen schon die antiken Kaufleute überwanden, um die benötigte Ware aus einem Teil Europas in den anderen zu bringen. Wie heute, so brauchte der Handel auch damals Schutz und die Instandhaltung der Handelswege. Strategische Orte an den viel befahrenen Routen der Kaufleute wurden deshalb immer befestigt, und ihre Bewohner bewachten im notwendigen Maße die Verbindungswege und hielten sie in brauchbarem Zustand. Den Kaufleuten wurde so der notwendige Schutz zuteil, und sie ließen dafür einen Teil ihres Gewinns in Form verschiedener Zölle und Abgaben bei den Beschützern. Der Nutzen war also auf beiden Seiten. Trafen bei einem strategischen Ort überdies mehrere Fernwege zusammen, so stieg die Bedeutung eines solchen Punktes deutlich. Das war auch der Fall von Devín.“ Weiter führt er an, dass „schon die ältesten Bewohner des Burghügels in der Jungsteinzeit (Linearbandkeramik, Badener Kultur, Volk der Schnurkeramik oder Volk der Maďarovce-Kultur) Artefakte hinterließen, die kultischen Zwecken dienten. Während der Ansiedlung des Volkes der Maďarovce-Kultur kam es auch zur ersten Befestigung der Hauptburg von Devín mit einem Wall aus Holz und Erde, der an den Fundamenten eine Stärke von bis zu vier Metern erreichte.“ In Devín fand sich weiterhin eine Menge von Funden aus späteren Zeiten, die von der häufigen kultischen und militärischen Nutzung Devíns durch viele Kulturen zeugen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert. Weitere Bilder HIER",
+    "alt": "Unsere künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert. Weitere Bilder HIER",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.poem",
+    "text": "Děvín, lieber Děvín, Burg, so waisenhaft,\nsag uns doch, wann standen deine Mauern fest?\n\nMeine Mauern standen in den Zeiten Rastislavs:\ner war eurer Väter, er war meiner Mauern Ruhm.\n\nRuhm, mein Ruhm, wo ruhest du mir nun?\nAch, umsonst, du Windchen, streust du seinen Staub!",
+    "title": null,
+    "author": "Štúrovci (Štúr-Generation) 1836",
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fotograf "
+       },
+       {
+        "type": "link",
+        "url": "http://amf.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Vladimír Malý"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " hat für unsere Seite diese einzigartigen Fotos der Burg (des Burgwalls) Devín aus der Vogelperspektive zur Verfügung gestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kelten",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Devín in den Zeiten des Fürsten Rastislav im 9. Jahrhundert nach der Vorstellung eines Malers aus den 30er Jahren",
+    "alt": "Devín in den Zeiten des Fürsten Rastislav im 9. Jahrhundert nach der Vorstellung eines Malers aus den 30er Jahren",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den ersten historisch bekannten Völkern, die in Devín lebten, gehören natürlich die Kelten, die uns eine Menge interessanter Funde hinterließen, unter denen besonders der Münzfund hervorsticht. Hrnko führt zu diesem bedeutenden Fund an, dass sich auf den Überresten römischer Bauten im Hof der Mittelburg zwischen dem Renaissance-Palast und dem Brunnen ein Krug fand, der bis zu 70 Stück keltischer Münzen enthielt. Die Münzen waren nicht einheimisch, ja nicht einmal von den Prägungen, die damals die bedeutende keltische Münze auf dem Gebiet des heutigen Bratislava (Pressburg) hervorbrachte. Sie gehörten zu den Nachahmungen römischer Denare, die keltische Stämme auf dem Gebiet Transdanubiens mit dem Zentrum im heutigen Budapest prägten — die Eravisker und die Azalen. An dem Fund ist außer seinem numismatischen Wert interessant, dass nicht ersichtlich ist, wer ihn eigentlich in die Erde legte. Versteckte ihn dort ein bedrohter keltischer Kaufmann, der sich mit Fernhandel befasste? In diesem Fall müssen die Römer, die das Gelände für ihren Bau herrichteten, jedoch sehr unachtsam gewesen sein; man würde sagen, nahezu blind. Oder verbarg ihn dort irgendein Römer als seine Beute oder seinen Handelsgewinn und kehrte aus unbekannten Gründen nicht mehr zurück? "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Germanen",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Altslawisches Lager in Devín, Autor: Anton Pinkava. 1937",
+    "alt": "Altslawisches Lager in Devín, Autor: Anton Pinkava. 1937",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Zeiten nach der Wende der Zeitrechnung besetzten germanische Stämme das Gebiet der Slowakei, vor allem die Markomannen und die Quaden. Aus den Zeiten ihres Aufenthalts in Devín haben wir einen sehr raren und bedeutenden Fund dokumentiert — antikes Brot. Das Brot von Devín fand sich in der Verfüllung der Grube eines zerstörten Ofens zusammen mit mehreren Getreidearten und weiteren Brotscheiben. Die Fundumstände zeugen davon, dass es an Ort und Stelle aus Mehl zubereitet wurde, das irgendwo in der Nähe aus Korn gemahlen werden musste. Der runde Laib von etwa 23 cm Durchmesser mit einer Dicke von etwa 6,5 cm konnte zur Zeit des Backens ein Gewicht von etwa 1 kg gehabt haben. Nach der Analyse war er aus Weizenmehl mit einer Beimischung von Roggenmehl gebacken. Die erhaltenen Scheiben zeugen davon, dass die damaligen Menschen das Brot nach römischem Vorbild nicht schnitten, sondern die Stücke von Hand vom Laib abbrachen. Zur Zerstörung des Ofens und zum anschließenden Verkohlen des Brotes und des Getreides um ihn kam es wahrscheinlich bei einer gewaltsamen, unerwarteten Aktion, am ehesten bei einer militärischen Erstürmung des Burgberges, was in der betreffenden unruhigen Zeit nichts Ungewöhnliches gewesen wäre. Nun, und wie konnte das damalige Brot schmecken? Wahrscheinlich unterschied es sich in vielem nicht von den heutigen dunklen Weizen-Roggen-Broten. War es gut durchgebacken, so haben es sich die damaligen Bewohner der Burg gewiss schmecken lassen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Römer",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Fund keltischer Münzen",
+    "alt": "Der Fund keltischer Münzen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Germanen stellten eine große Gefahr für das Römische Reich dar, und wegen dieser Gefahr errichtete die römische Armee außer an anderen Orten auch entlang des Donaulaufs ein System von Befestigungen, das Limes Romanus genannt wird. Schon nach dem ersten Kontakt mit dem slowakischen Gebiet wurden sich die Römer der außergewöhnlichen Bedeutung der Burganhöhe von Devín bewusst, und deshalb errichteten sie auf der Hauptburg einen gemauerten Wachturm, dessen Fundamente es gelang, in den Räumen des Hofes der Mittelburg freizulegen. \n   Den Archäologen ist es gelungen, zwei umfangreichere römische Bauten auf dem Burghügel und eine römische Villa in der nicht weit entfernten Dúbravka, im Tal am gegenüberliegenden Hang der Devínska kobyla, zu dokumentieren. Der umfangreichste Bau befand sich im Hof der Mittelburg, und ich habe von ihm schon im Zusammenhang mit dem Fund der keltischen Münzen gesprochen. Es handelte sich um ein Gebäude aus dem 3. bis 4. Jahrhundert, das aus vier Räumen bestand, von denen einer mit einer Apsis abgeschlossen war. Durch die Disposition erinnert es an ein Bad, doch erscheint es unlogisch, dass sich ein solcher Befund auf einem Hügel ohne unmittelbare Wasserzuleitung befinden sollte. Der Zweck des Baus blieb so trotz einer Revisionsausgrabung bisher offen. Es ist erfreulich, dass nach der Freilegung der Befunde in der Mitte der neunziger Jahre des vorigen Jahrhunderts bei den anfänglichen finanziellen Schwierigkeiten schließlich Geld dafür gefunden wurde, dass diese Befunde den Besuchern der Burg präsentiert werden können. Der zweite größere römische Befund befindet sich am Nordhang, von ihm werden wir jedoch gesondert sprechen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Ankunft der Slawen im Gebiet der heutigen Slowakei siedelten sich diese natürlich auch in Devín und in seiner Umgebung an. Devín setzen einige Historiker mit dem sagenhaften Wogastisburg gleich, wobei dieses Thema in einem eigenen Artikel behandelt wird. Nach dem Tod des Herrschers Samo beherrschten die Awaren dieses Gebiet erneut teilweise, auch wenn ihr Verhältnis zu den Slawen nicht mehr so übergeordnet war wie vor der Entstehung des Reiches des Samo; es handelte sich eher um ein Zusammenleben mit den Slawen, die die Awaren letztlich völlig aufsogen. Ein bedeutender Stützpunkt der Awaren, von dem sie nach dem Historiker Ján Steinhübel die Slawen in Mähren (dem späteren mährischen Fürstentum) beherrschten, war gerade Devín. Ihre Anwesenheit in Devín in dieser Periode dokumentiert die deutliche Zunahme von Reitergräbern auf dem Gräberfeld in Devínska Nová Ves und in Záhorská Bystrica, aber auch das einzelne, reich ausgestattete Grab eines awarischen Reiters im Zentrum der Gemeinde Devín. Nach dem genannten Historiker war das Anwachsen der Macht der Awaren am Ende des 7. Jahrhunderts von einer Konsolidierung der Macht der slawischen Fürsten in Mähren und in der Region Nitra begleitet, die von den Awaren nicht unmittelbar besetzt waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Frauen — sie schmückten Devín schon vor mehr als 1100 Jahren",
+    "alt": "Slawische Frauen — sie schmückten Devín schon vor mehr als 1100 Jahren",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hrnko schreibt, dass \"nach den Zwistigkeiten im Inneren des Awarenreiches, die in die Ermordung des Khagans in der Mitte der neunziger Jahre des 8. Jahrhunderts mündeten, der Tudun versuchte, sich durch den Übertritt auf die Seite der Franken zu retten. Karl der Große nahm ihn zwar an, doch am Gesamtschicksal der awarischen Herrschaft an der mittleren Donau änderte das schon nichts. Der neue Khagan war nicht fähig, die Zentralmacht wiederherzustellen, und obwohl er nach zermalmenden Niederlagen die fränkische Oberhoheit und auch das Christentum annahm, verhinderte er das unabwendbare Ende der awarischen Herrschaft nicht. Die slawischen Fürsten in Mähren und in der Region Nitra nutzten die fränkischen Siege über die Awaren zur eigenen Stärkung und beseitigten die Macht der einstigen Unterdrücker in ihrer Reichweite unbarmherzig. Schon am Beginn des 9. Jahrhunderts beklagten sich die Awaren über Angriffe der Slawen, und der Kaiser war gezwungen, ihnen neue Sitze außerhalb deren Reichweite zuzuweisen. In dieser Periode bemächtigten sich die mährischen Fürsten wahrscheinlich erneut Devíns und begannen es zu einer ihrer bedeutendsten Festungen umzubauen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall von Devín im 9. Jahrhundert nach Štefanovičová",
+    "alt": "Der Burgwall von Devín im 9. Jahrhundert nach Štefanovičová",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Rastislavs Devín",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die endgültige Niederlage der Awaren beschleunigte den staatsbildenden und den nationsbildenden Prozess der mitteleuropäischen Slawen. Auf dem Gebiet des heutigen Mähren und des nördlich der Donau gelegenen Teils Niederösterreichs bis zum Fluss Kamp bildete sich das altmährische Fürstentum mit einem wahrscheinlichen Zentrum in Mikulčice. Auf dem Gebiet der Slowakei östlich der Kleinen und der Weißen Karpaten bis zu den Slánske vrchy, mit einem Übergreifen in das heutige Ungarn bis zum Mátra-Gebirge, formierte sich das Fürstentum Neutra mit dem Zentrum in Nitra. Beide Fürstentümer stellten die Anfangsphase eines feudalen Staates dar, in dem sich die Stellung des Sippenfürsten in die eines feudalen Souveräns wandelte und die Angehörigen der Kriegergefolgschaften sich zum Keim der künftigen feudalen herrschenden Klasse – des Adels – umformten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Nachbarschaft des altmährischen Fürstentums auf der rechten Seite der Donau erstreckte sich die Ostmark als Vorfeld des mächtigen Frankenreiches, von dem aus die Nachfolger Karls des Großen die Gebiete im Alpen-Karpaten-Raum zu beherrschen suchten. Die mährischen Fürsten errichteten zur Verteidigung gegen potenzielle militärische Einfälle mächtige Burgwälle im Grenzgebiet wie auch im Inneren des Landes. Einer der bedeutendsten Grenzburgwälle der Mährer war Devín, der nicht nur den Übergang über die Donau aus der Ostmark schützte, sondern auch die Grenze gegen die benachbarte Region Nitra, die eine ebenso starke Festung im Raum der heutigen Burg von Bratislava hatte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "1. Zentraler Burgwall (die heutige Burg), 3. Na Pieskach, 4. Nad Lomom",
+    "alt": "1. Zentraler Burgwall (die heutige Burg), 3. Na Pieskach, 4. Nad Lomom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Devín war nicht nur eine einfache Grenzfestung, die den Zugang in das Innere des altmährischen Fürstentums von der südlichen und der östlichen Seite schützte. Auch angesichts seiner vorhergehenden Vergangenheit als einstiger Sitz lokaler slawischer und awarischer Fürsten gehörte er weiterhin zu den zentralen Fürstenburgen. Davon zeugt einerseits die Form der Befestigung und der Besiedlung des Burghügels, aber auch der Bau von Satellitenburgwällen auf den Erhebungen der Devínska kobyla, die die Verteidigungsfähigkeit des zentralen Burgwalls stärkten. Die untersuchten Burgwälle in den Lagen Na pieskoch und Nad lomom, die unter der Herrschaft des Fürsten Rastislav errichtet wurden, und die dichte Besiedlung des ganzen Raums der südwestlichen Spitze der heutigen Slowakei und der angrenzenden Teile des heutigen Österreichs zeugen von der unerhörten Bedeutung Devíns im 9. Jahrhundert. Das belegen auch die zahlreichen reich ausgestatteten Gräber, die entweder unmittelbar im Raum der heutigen Burg oder in der weiteren Umgebung entdeckt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rastislav hat sich außerordentlich auch um den Aufbau Devíns als Fürstenburg und als Festung gegen die Franken verdient gemacht, denen seine selbstständige und souveräne Politik überhaupt nicht gefiel. Seit dem Jahr 855 führten sie deshalb mit ihm nahezu unablässig Krieg mit dem Ziel, die vasallische Abhängigkeit Großmährens vom Ostfränkischen Reich zu erhalten, das aus dem östlichen Teil des Reiches Karls des Großen auf der Grundlage des Vertrags von Verdun aus dem Jahr 843 entstanden war. Eines der vielen militärischen Zusammentreffen Rastislavs mit den Heeren des ostfränkischen Königs Ludwig des Deutschen spielte sich, wie ich schon im ersten Kapitel erwähnt habe, bei Devín im Jahr 864 ab. Wahrscheinlich war es Ludwigs Reaktion auf die Ankunft der byzantinischen Mission, doch aus der Sicht der Franken endete es mit einem Misserfolg, obwohl sie den Kompromissfrieden als ihren Sieg deuteten. Rastislav musste sich selbst vertrauen und vor allem musste er dem ganzen befestigten Komplex der Mährer bei der Devíner Pforte vertrauen, wenn er sich im Burgwall von einem gewiss mächtigen und zahlreichen Heer umschließen ließ und nicht in das Binnenland zurückwich. Die Mauern von Devín sahen wahrscheinlich wirklich furchterregend aus, wenn der ostfränkische König nicht einmal einen Versuch unternahm, sie mit Gewalt zu überwinden, und eine Kompromissvereinbarung mit einer formellen Ablegung des Vasalleneids durch Rastislav wählte, von dem beide wussten, dass er keinerlei Wert haben würde. Das beste Zeugnis für den Misserfolg dieses Zuges ist die Tatsache, dass schon der fränkische Annalist bei der Aufzeichnung des Ereignisses den Bruch des Eides durch den großmährischen Herrscher feststellte, vor allem aber die Fortsetzung des Missionswerks von Konstantin und Method."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Fundamente der großmährischen Kirche mit einem Modell",
+    "alt": "Die Fundamente der großmährischen Kirche mit einem Modell",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemarkung der Gemeinde stehen auf einer Spornlage über dem Zusammenfluss der Flüsse Donau und March die Überreste einer mittelalterlichen Burg, in deren Areal ältere Spuren von Befestigungsarbeiten entdeckt wurden. Sehr bedeutend sind die Funde der slawischen Besiedlung. Wahrscheinlich war schon im 8. Jahrhundert an der Stelle der heutigen Burg ein Burgwall errichtet, der die Überreste einer älteren Fortifikation nutzte (der Wall auf der Nordseite, der in der römischen Kaiserzeit ausgehoben wurde). Aus den „Fuldaer Annalen\" erfahren wir zum Jahr 864 wahrscheinlich von dem Burgwall von Devín (Dowina). Der Burgwall nahm nahezu die ganze Fläche der jetzigen mittelalterlichen Burg ein. Während der Herrschaft des Fürsten Rastislav (846 – 870) gehörte der Burgwall samt der umliegenden Besiedlung, wenn er nicht unmittelbar das Zentrum des Reiches war, so gewiss zu den bedeutendsten großmährischen Sitzen, was die angeführte schriftliche Erwähnung bestätigt. Außer einer großen Menge von Funden, die die Schriftquellen bestätigen, der in den Jahren 1984 – 1985 in der Lage „Nad prístaviskom\" freigelegte dreiräumige Sakralbau."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall wurde ein dreiapsidialer (triconchaler) Sakralbau belegt — die Umfassungsmauern und die Trennwände waren im Verband gemauert, was die Errichtung des ganzen Baus in einem Zug ohne nachfolgenden Anbau beweist. Auf der Außenseite waren die Mauern mit weißem Kalkputz bedeckt. Die Wände im Inneren waren mit Putz bedeckt, der mit Malereien in erdigen Farben verziert war (ähnlich waren zum Beispiel die Kirche auf der Burg von Bratislava und die Sakralbauten in Mikulčice verziert). Der Bau gehört mit seiner Ausführung zu der Architektur, die im 9. Jahrhundert in Großmähren entstand. Bei der Datierung halfen die Gräber (6 von ihnen sind erhalten), die sich südlich in der Nähe des Baus befanden und die nach dem Begleitmaterial in das 9. Jahrhundert eingeordnet wurden. Zur zeitlichen Einordnung des Baus half auch ein Gräberfeld, von dem einige Gräber die Mauern der Kirche überdeckten. J. Eisner datierte das Gräberfeld aufgrund des Begleitmaterials und der Münzen in das 11. und den Beginn des 13. Jahrhunderts, was andeutet, dass auf dem Gräberfeld zu einer Zeit bestattet wurde, als der Bau schon untergegangen war (in Ruinen lag). Außer dem Sakralbau mit dem angrenzenden Gräberfeld wurde im Areal des Burgwalls eine dicht mit Siedlungsbauten bebaute Fläche festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Siedlungsbauten wurden auf der ganzen Fläche des Burgwalls festgestellt, mit der überwiegenden Konzentration in der nordwestlichen Ecke. Als Behausungen dienten quadratische ebenerdige Hütten in Blockbaukonstruktion. Blockbauhütten wurden zum Beispiel am nördlichen Wall und am östlichen Hang festgestellt. Die Siedlung, die sich im Areal des Burgwalls befand, war in der zweiten Hälfte des 9. Jahrhunderts und am Beginn des 10. Jahrhunderts erheblich entwickelt; sie entstand möglicherweise schon im 8. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außerhalb des Burgwalls wurde eine ebenso intensive Besiedlung belegt. Außer mehreren kleineren Funden treten drei Gräberfelder in der Gemarkung der Gemeinde Devín in den Vordergrund, die eine größere Zahl von Bewohnern andeuten, als es für das 9. Jahrhundert üblich ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gräberfeld in der Lage „Mladošovičov vinohrad\" untersuchte J. Eisner. Er legte hier nur 12 Gräber frei, doch trotzdem wies die Ausgrabung darauf hin, dass das Gräberfeld umfangreicher war; da es sich jedoch im Bereich von Kulturboden befand, war es nicht möglich, die Ausgrabung fortzusetzen. Später wurde noch ein Grab freigelegt. Die Gräber weisen trotz ihrer geringen Zahl eine reiche Ausstattung auf. Nur ein Grab war ohne Funde. Außer Keramik und einigen Eisengegenständen war beim Schmuck vor allem der traubenförmige Ohrring vertreten. Im Grab Nr. 9 wurden Ohrringe und eine Halskette aus Glasperlen mit einem halbmondförmigen Anhänger entdeckt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Funde aus Devín",
+    "alt": "Slawische Funde aus Devín",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1953 legte Ľ. Kraskovská das zweite Gräberfeld in der Lage „Staré Vinohrady\" frei. Ebenso wie auf dem vorhergehenden Gräberfeld wurden auch auf diesem 24 Gräber freigelegt, auch wenn es sich um ein umfangreicheres Gräberfeld handelte. In einigen Gräbern wurden Reste einer Holzkonstruktion oder einer Holzauskleidung festgestellt. Unter den Gräbern wurden auch drei symbolische Gräber (Kenotaphe) freigelegt. In der Orientierung der Gräber wurde Uneinheitlichkeit festgestellt. Die an der Fundstelle entdeckte Keramik war außer mit einem Wellenband auch mit einer geritzten waagerechten Linie verziert. Ein häufiger Fund in den Gräbern war ein eisernes Messerchen. In den Männergräbern tauchten Waffen auf (eine Lanze, Äxte vom Typ der sogenannten Bartäxte). Bei dem Grab Nr. 17 wurde ein eiserner Sporn mit verbreiterten Armen und kurzem Stachel entdeckt (datiert in die erste Hälfte des 9. Jahrhunderts); wahrscheinlich handelte es sich um einen Angehörigen der Kriegergefolgschaft. Die Frauengräber enthielten ein spärlicheres Inventar, meist einfache Ringohrringe oder solche mit einem Knötchen in der Mitte des Bogens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Glasmalereiverzierung des Kirchenfensters (Harmadyová 2020)",
+    "alt": "Glasmalereiverzierung des Kirchenfensters (Harmadyová 2020)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das bisher größte Gräberfeld wurde in der Lage „Za kostolom\" freigelegt. Untersucht hat es in den 60er – 70er Jahren I. Keller. Es wurden hier 122 Gräber freigelegt, bei einigen wurde eine hölzerne Auskleidung der Grabgrube festgestellt. Nahezu die Hälfte der Gräber (40 %) stellen Kindergräber dar. Nur in 58 Gräbern wurden Funde festgestellt, von denen den überwiegenden Teil Keramik und eiserne Messer darstellen. In den Frauengräbern waren einfache Ringohrringe vertreten, manchmal mit einem Knötchen oder mit Wülsten. Außer den einfacheren Ohrringen wurden die (vor allem im 9. Jahrhundert) beliebten traubenförmigen Ohrringe entdeckt.\n \n  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die deutliche Konzentration größerer Fundstellen weist auf die Wichtigkeit des Gebietes von Devín im 9. Jahrhundert hin. Wahrscheinlich verlagerte sich im Verlauf des 8. Jahrhunderts der Schwerpunkt der Besiedlung von Devínska Nová Ves in das Gebiet von Devín. Die Gräberfelder außerhalb des Areals des Burgwalls dienten wahrscheinlich der Bevölkerung im Suburbium, und das Gräberfeld beim Sakralbau (bei der Kirche) im Areal des Burgwalls konnte den Angehörigen der Gefolgschaft eines Adligen gedient haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Raum von Devínska Nová Ves blieb trotz der Konzentration der Besiedlung in Devín nicht leer. Wahrscheinlich konnte es sich um eine „Peripherie\" handeln. Darauf könnten zwei Burgwälle hinweisen, die in unmittelbarer Nähe errichtet wurden. Sie waren auf dem westlichen Ausläufer der Devínska Kobyla in der Lage „Na pieskach\" (Abb. 6) und in der Lage „Nad lomom\" (Abb. 7) errichtet. Beide hat Ľ. Kraskovská systematisch untersucht. Wahrscheinlich bestanden sie nicht gleichzeitig, und es ist nicht möglich zu bestimmen, welcher früher errichtet wurde. Die Burgwälle hatten wahrscheinlich eine Verteidigungs- und eine Funktion als Fliehburg, sie hatten die Aufgabe, den Zugang nach Devín zu bewachen. Der Burgwall „Na pieskoch\" war mit einer Rostkonstruktion befestigt. Der vordere abgeschrägte Teil der Mauer war mit dicken Balken verstärkt. Die ganze Konstruktion verfestigten trocken gelegte Steine. Vor der Befestigung war ein Graben ausgehoben; der bei seinem Ausheben gewonnene Lehm konnte zum Verfüllen der Rostkonstruktion verwendet worden sein. Der nördliche Teil des Walles war nicht mit einer hölzernen Konstruktion verstärkt, sondern bestand nur aus einer Erdaufschüttung. Eine komplexere Befestigung musste hier nicht errichtet werden, da der Burgwall von Norden durch einen unzugänglichen steilen Hang geschützt war. Beide Burgwälle waren auf dieselbe Weise befestigt. Ein solcher Befestigungstyp entspricht slawischen Burgwällen des 9. – 10. Jahrhunderts. Auf dem Burgwall „Nad lomom\" wurden zwei Befunde in Blockbaukonstruktion freigelegt. In dem Befund II. wurden 3 Öfen festgestellt. Auf beiden Burgwällen wurden Spuren eines Brandes entdeckt, der wahrscheinlich ihren Untergang verursachte.\""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie auch aus dem angeführten Artikel ersichtlich ist, lässt sich Devín in den Zeiten Großmährens nicht als ein einzelner selbstständiger Burgwall begreifen, sondern eher als ausgedehnte Agglomeration, die mehrere Siedlungen mit wirtschaftlichem Hinterland umfasst und zugleich ein System von mindestens drei Burgwällen, die nicht nur als Fliehburgen dienten, sondern einer von ihnen zweifellos als Sitz eines Adligen (der Raum der heutigen Burg) bzw. sogar als Fürstensitz. Dass die Theorie von der fürstlichen Bedeutung Devíns nicht nur Fiktion ist, legen die Aufzeichnungen aus den zeitgenössischen Chroniken nahe, die Devín unmittelbar im Zusammenhang mit dem Krieg Rastislavs gegen den fränkischen König Ludwig den Deutschen erwähnen. Daran, dass die in der Chronik erwähnte Dowina gleich Devín ist, braucht man nicht zu zweifeln; gerade die Ausdehnung, die strategische Lage und die nahezu Unbezwingbarkeit der Burgwälle von Devín bieten sich unmittelbar als außerordentlich günstiger Ort für die Organisation einer Verteidigung gegen ein starkes deutsches Heer an. Ich erlaube mir, einen Auszug aus einem Artikel zu zitieren, der sich den Aufzeichnungen in den Fuldaer und den Bertinianischen Annalen widmet, die Devín und seine Bedeutung für unsere Vorfahren betreffen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "König Ludwig zog im Monat August mit einem großen Heer über die Donau und belagerte Rastislav in einer Stadt, die in der Sprache jenes Volkes Dowina genannt wird. Jener (Rastislav) aber, da er es nicht wagte, sich den Heeren des Königs zu stellen, und da er sah, dass er keinen Weg hatte, auf dem er entkommen könnte, war in der Bedrängnis gezwungen, so viele Geiseln und in solcher Zahl zu stellen, wie der König befahl. Darüber hinaus bekräftigte er noch mit einem Eid, dass er mit allen seinen (Rastislavs) Adligen dem König alle Tage die Treue halten werde, auch wenn er sie bis dahin nicht gehalten hatte.",
+    "author": null,
+    "source": "Fuldaer Annalen, Jahr 864"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem betreffenden Text eröffnen sich uns mehrere Fragen mit verschiedenen möglichen Interpretationen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich frage mich, wie es möglich ist, dass der König nach so vielen Intrigen, die Rastislav Ludwig bereitete — ich meine das Schließen von Bündnissen mit Karlmann (im Jahr 861) —, bereit war, Rastislav weiter herrschen zu lassen? Rastislav und Karlmann fielen damals mit eigenen Heeren in Bayern ein, unmittelbar in das Gebiet des Königs Ludwig. Sie verwüsteten, brannten, töteten, bis zum Fluss Inn. Und nicht nur die Verbindung mit Karlmann, sondern auch das ganze kyrillo-methodianische Werk begann schon Gestalt anzunehmen. Wie konnte Ludwig diese großen Verfehlungen Rastislavs ignorieren? Ludwig war gewiss ausgezeichnet von Boten informiert und wusste sicher, was in Großmähren geschah. Gewiss erhielt er Nachrichten darüber, dass Konstantin und Method den lateinischen Einfluss in diesem Gebiet zu stören beabsichtigten. Wie konnte der ostfränkische König nach diesen schwerwiegenden Ereignissen Rastislav herrschen lassen? Nun, bei mir stimmt da etwas nicht ..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Man muss die Tendenziosität der Fuldaer Annalen in Betracht ziehen. Er konnte Rastislav wirklich belagern, vermochte ihn aber nicht zu demütigen — die Passage über das unmögliche Entkommen aus der Stadt kann erfunden sein. Ebenso auch das Nichtwagen eines Zusammentreffens — eher umgekehrt — Ludwig wagte es nicht, sie zu erstürmen und dabei unnötig das Blut vieler Soldaten zu vergießen. Als der König sah, dass er Rastislav nicht demütigen kann, entschloss er sich, mit ihm zu verhandeln. Die erwähnte Bedrängnis könnten wir jedoch unter geographischem Aspekt in Betracht ziehen. Devín befindet sich in schwer zugänglichem Gelände, die großmährische Hauptburg unmittelbar auf dem steilen Burghügel von Devín. Der freigelegte Grundriss der Kirche deutet an, dass sie entweder einen Raum hatte, der als Baptisterium (als Taufkapelle) diente, oder einen Raum für weltlich-herrschaftliche Zwecke. Und selbst wenn sie keine weltlichen Wohnräume gehabt hätte, existiert ein Teil der Hauptburg heute schon nicht mehr — jener Teil, auf dem sich ein weltlicher Bau, der Rastislavs, während der Belagerung von Dowina ausgebreitet haben könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Ludwig, der König Germaniens, zog mit einem Heer gegen den bulgarischen Khagan namens (...), der versprach, Christ zu werden; von dort wollte er aufbrechen, um die Mark der Winden einzurichten, wenn er sähe, dass ihm Erfolg gewährt werde.",
+    "author": null,
+    "source": "Bertinianische Annalen, Jahr 864"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erfolg wurde ihm jedoch nicht gewährt. Auch die Mark richtete er nicht ein. Aus den Fuldaer Annalen ergibt sich zwar, dass Rastislav dem König Gehorsam versprach, dieser war jedoch nicht nur formell, sondern auch nicht eingehalten. Doch heute können wir vergleichen und feststellen, ob die Fuldaer Annalen recht hatten. Die Mark der Winden (der mährischen Slawen) konnte nicht eingerichtet werden. Andere, die Xantener Annalen, erwähnen zwar zum Jahr 869, dass Ludwig im Osten über die Slawen, in Bayern, in Alemannien, in Churrätien, in Sachsen, in Schwaben und in Thüringen herrschte. Sie könnten ein Beweis sein, dass sich Rastislav wirklich unterwarf. Aber warum titulieren sie dann den unterworfenen Herrscher Rastislav als „rex“??? — Rasticius rex Margorum. Eine andere Quelle — die Geschichte der fränkischen Könige — sagt zum Jahr 865, dass Ludwig der Deutsche Karlmann Noricum gab, das heißt Bayern und die Marken gegen die Winden — Karlmann hatte nicht die Mark der Winden (der Slawen), nur die Marken, die sie ihm erst erkämpfen sollten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und das ist wichtig — die Fuldaer Annalen führen zum Jahr 864 in die Irre. Dowina ergab sich nicht, das Gebiet Rastislavs war nicht unterworfen. Noch ein Jahr nach dem Zug gegen Dowina haben wir ja eine unmittelbare Nachricht über die Unberührtheit des Gebietes der mährischen Slawen. Und ebenso wollten uns auch die Xantener Annalen auf den falschen Weg führen. Sie erwähnen die Mark der Winden, widersprechen sich dabei jedoch und titulieren Rastislav als König und seine Herrschaft als Königreich — regnum. Im 9. Jahrhundert waren regna doch unabhängige Gebiete. Deshalb wird zum Beispiel auch Svatopluks Region Nitra — regnum Zuentibaldi — als regnum erwähnt, denn sie war in den letzten Jahren der Herrschaft Rastislavs praktisch eigenständig. Man muss aber auch hinzufügen, dass es irrig ist, wenn jemand meint, die regna des 9. Jahrhunderts seien dieselben Königreiche wie das ungarische, das polnische und das böhmische Königreich zwei – drei Jahrhunderte später (Ďurica 1997, Zrubec 1991, Irša 2008)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Devín",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und das sind wichtige Dinge. Wie zu sehen ist, versuchten die fränkischen Annalisten um jeden Preis, den Sieg auf ihre Seite zu wenden. Doch dank einigen von ihnen können wir beweisen, dass es nicht immer so gewesen sein kann. Dowina, also Devín, war ein wirkliches Zentrum, eine Agglomeration von Devínska Nová Ves über das Marchfeld bis zu Carnuntum, bis zum heutigen Bratislava, und mit dem Zentrum auf dem Burgfelsen von Devín. Die Archäologie und die richtige Interpretation der Schriftquellen können das beweisen. Die günstig verteilten Burgwälle, die die Archäologen nachgewiesen haben, und der schwer zu erobernde Felsen am Zusammenfluss von Donau und March haben sehr zu der Entscheidung beigetragen, Devín nicht zu erstürmen. Die Fuldaer Annalen haben, um den Misserfolg der eigenen Seite unter den Teppich zu kehren, diesen Misserfolg auf die Seite Rastislavs gedreht — er habe in der Bedrängnis keinen Weg zur Flucht gehabt und sich deshalb unterworfen. Eher war Ludwig, bedrängt von den Flüssen March und Donau, ihren Sümpfen und Armen und auch von der Devínska Kobyla mit ihren Wachburgwällen, erfolglos."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aufgrund dieser Tatsachen halte ich das Gebiet des heutigen Devín für eine Agglomeration vom Typ „civis Dowina\".\""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Na Pieskách:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": " Der Zugang zum Burgwall ist einfach: von Devínska Nová Ves — von der Straße Pod Lipovým führt ein grüner Wanderweg, der Sie nach 10 Minuten Gehzeit auf den Gipfel des Burgwalls bringt. Für eine unbegreifliche und unentschuldbare Ignoranz halte ich jedoch, dass "
+       },
+       {
+        "type": "text",
+        "text": "keine Richtungstafel darauf hinweist",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", dass der Weg über einen Burgwall führt. Ebenso ist es sehr traurig, dass Sie im Raum des Burgwalls "
+       },
+       {
+        "type": "text",
+        "text": "nicht einmal eine Erwähnung dessen finden, dass Sie sich auf einem großmährischen Burgwall befinden!",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Nad Lomom:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf beide Burgwälle. Im Vordergrund Piesky, im Hintergrund Lom",
+    "alt": "Blick auf beide Burgwälle. Im Vordergrund Piesky, im Hintergrund Lom",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang: ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Noch einfacher als zum Burgwall Na Pieskách. Über den gelben Wanderweg (gegebenenfalls von der anderen Seite über den blauen) kommen Sie zum Sandberg, wobei Sie zur linken Hand jene erstaunlichen Sandformationen sehen, die eine große Menge Versteinerungen enthalten, und zur rechten Hand liegt ein Hügel, der über der Straße und über dem Fluss March aufragt — das ist der Burgwall Nad Lomom. Auf dem Gipfel des Burgwallhügels steht ein hässlicher Bau der Wasserwerksgesellschaft — wirklich einen besseren Ort für seine Errichtung konnten sie sich zur Zeit des Sozialismus nicht aussuchen. Ich muss mich lobend über die neue Informationstafel äußern, die zwischen beiden Burgwällen liegt. Sie enthält sogar ein 3D-Modell des Burgwalls Lom, was in unseren Verhältnissen offenbar ein Unikum ist.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,1342 @@
+{
+ "slug": "nitra",
+ "data": {
+  "title": "Nitra – der Sitz des Fürstentums Neutra und sechs Burganlagen",
+  "slug": "nitra-fuerstentum-neutra-burganlagen",
+  "excerpt": "Nitra war ohne Zweifel seit dem 8. Jahrhundert die bedeutendste Agglomeration der Slowakei, und ihre außerordentliche Bedeutung übernahm auch das frühmittelalterliche Königreich Ungarn. Sie war der Sitz des Fürstentums Neutra, in dem Fürst Pribina und später Svatopluk herrschten. Sechs Fundstellen — Burg, Martinský vrch, Lupka, Zobor, Mačací hrádok und Šindolka — zeigen, wie weit sich diese Agglomeration erstreckte.",
+  "metaTitle": "Nitra – Sitz des Fürstentums Neutra, Pribina und Svatopluk",
+  "metaDescription": "Sitz des Fürstentums Neutra und Wohnsitz des Königs Svatopluk — seit dem 8. Jahrhundert „Haupt aller Länder“ und bedeutendste Agglomeration der Slowakei.",
+  "keyFacts": [
+   {
+    "label": "Zahl der Fundstellen",
+    "value": "6 wichtigste archäologische Fundstellen in Nitra und Umgebung (Burg, Martinský vrch, Lupka, Zobor, Mačací hrádok, Šindolka)",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche des Martinský vrch",
+    "value": "20 ha, befestigt mit Steinwall, Graben und doppelten Palisaden (Pfosten bis 60 cm Durchmesser)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Burganlage Zobor",
+    "value": "Etwa 15 ha, drei Tore, Höhe der Befestigung im Nordwesten bis 7 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche des Burgwalls Lupka",
+    "value": "3,6 ha; Wall 7,5 m hoch und 3,5 m breit, Graben 3 m tief",
+    "icon": "mountain"
+   },
+   {
+    "label": "Wall der Nitraer Burg",
+    "value": "Gesamtbreite 5 m — Steinmauern (1 m) + Lehmaufschüttung (3 m), verfestigt mit eichener Rostarmierung",
+    "icon": "shield"
+   },
+   {
+    "label": "Kirche auf dem Martinský vrch",
+    "value": "20,1 × 7,6 m, Apsis 5,4 m, Fundamentmauerwerk bis 1–1,3 m breit",
+    "icon": "building"
+   },
+   {
+    "label": "Zoborer Urkunde (1111)",
+    "value": "Älteste erhaltene Urkunde aus dem Gebiet der Slowakei — Streit um die Zollerhebung",
+    "icon": "scroll"
+   },
+   {
+    "label": "Gräberfeld beim Amphitheater",
+    "value": "Beim Bau ~1000 Gräber aus dem 10.–11. Jahrhundert zerstört, nur 165 gerettet",
+    "icon": "users"
+   },
+   {
+    "label": "Töpferöfen auf der Lupka",
+    "value": "13 entdeckte Öfen — erster archäologischer Fund dieser Art auf slawischem Gebiet im 9. Jahrhundert",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "10.–8. Jahrhundert v. Chr.",
+    "title": "Entstehung der Burganlage Zobor",
+    "description": "Die bronzezeitliche Gipfelburganlage legte das Volk der Lausitzer Kultur in der jüngeren Phase der Spätbronzezeit an.",
+    "type": "founding"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Anlage des Burgwalls Lupka",
+    "description": "Ein alter slawischer Burgwall, von einem mächtigen Steinwall umgeben, der den Zugang nach Nitra von Norden bewachte.",
+    "type": "founding"
+   },
+   {
+    "year": "zweites Drittel des 9. Jahrhunderts",
+    "title": "Umfangreiche Umbauten auf der Nitraer Burg",
+    "description": "Das besiedelte Areal auf dem Burghügel wurde mit einem mächtigen Stein-Lehm-Wall in Schalenkonstruktion befestigt.",
+    "type": "construction"
+   },
+   {
+    "year": "50er Jahre des 9. Jahrhunderts",
+    "title": "Svatopluk hat seinen Sitz in Nitra",
+    "description": "Svatopluk hatte hier als Teilfürst seinen Sitz, noch vor seinem Antritt auf den großmährischen Thron.",
+    "type": "event"
+   },
+   {
+    "year": "855?–870",
+    "title": "Svatopluks Teilfürstentum in Nitra",
+    "description": "Nach den Fuldaer Annalen führte Svatopluk ein Teilfürstentum, wahrscheinlich mit Sitz in Nitra.",
+    "type": "event"
+   },
+   {
+    "year": "862/863",
+    "title": "Svatopluk wird Mitherrscher Rastislavs",
+    "description": "Svatopluk wurde für einige Zeit Mitherrscher seines Onkels Rastislav.",
+    "type": "event"
+   },
+   {
+    "year": "871–873",
+    "title": "Entstehung der Schrift Die Bekehrung der Bayern und Karantanen",
+    "description": "Erste schriftliche Erwähnung Nitras und seines Herrschers Pribina; sie entstand am Hof des Salzburger Erzbischofs Adalwin.",
+    "type": "event"
+   },
+   {
+    "year": "871–894",
+    "title": "Svatopluks Herrschaft über das vereinigte Nitra und Mähren",
+    "description": "Nach der Niederlage der fränkischen Markgrafen vereinigten sich der Nitraer und der mährische Teil des Staates erneut unter Svatopluks Herrschaft.",
+    "type": "event"
+   },
+   {
+    "year": "827–828 (am wahrscheinlichsten)",
+    "title": "Weihe der Kirche auf dem Martinský vrch",
+    "description": "Handelt es sich um die Kirche Pribinas, so weihte sie Erzbischof Adalram, der in den Jahren 821–836 Salzburger Erzbischof war.",
+    "type": "construction"
+   },
+   {
+    "year": "Wende vom 11. zum 12. Jahrhundert",
+    "title": "Bau der kleinen Kirche auf der Nitraer Burg",
+    "description": "Sie überdeckt einen Teil eines älteren etagenweise angelegten Gräberfeldes; ihre Existenz stützt die Annahme eines älteren großmährischen Burgwalls.",
+    "type": "construction"
+   },
+   {
+    "year": "1. Hälfte des 11. Jahrhunderts",
+    "title": "Brand der großmährischen Burg",
+    "description": "Ein umfangreicher Brand unterbrach die Blüte der Burg auf dem Burghügel; die genaue Ursache ist nicht bekannt.",
+    "type": "destruction"
+   },
+   {
+    "year": "1046–1060",
+    "title": "Errichtung des neuen Kastenwalles",
+    "description": "Eine neue Befestigung mit einer ähnlichen Konstruktion wie der großmährische Wall ersetzte die ursprüngliche Befestigung der Burg.",
+    "type": "construction"
+   },
+   {
+    "year": "1111",
+    "title": "Urkunde der Abtei Zobor",
+    "description": "Älteste erhaltene Urkunde aus dem Gebiet der Slowakei — der Zoborer Abt verklagt darin die königlichen Steuereinnehmer.",
+    "type": "discovery"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Untergang des repräsentativen Komplexes auf der Burg",
+    "description": "Der gemauerte Bau (möglicher Sitz Svatopluks) ging vor der Errichtung des Nordflügels des Palastes unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "1928",
+    "title": "Štefan Janšák entdeckt den Burgwall Lupka",
+    "description": "Janšák beschrieb den Burgwall und ordnete ihn der geographischen Kategorie II zu.",
+    "type": "discovery"
+   },
+   {
+    "year": "1968–1995",
+    "title": "Ausgrabung der Siedlung in Šindolka",
+    "description": "Entdeckt wurden 32 eingetiefte Siedlungsbefunde und 20 Gruben aus der Latènezeit.",
+    "type": "discovery"
+   },
+   {
+    "year": "1986–1987",
+    "title": "Sondagegrabung der Burganlage Zobor",
+    "description": "Auf einer Fläche von 14 Ar wurden wahrscheinliche Lehmböden zweier Behausungen und eine Feuerstelle festgestellt.",
+    "type": "discovery"
+   },
+   {
+    "year": "1993",
+    "title": "Archäologische Ausgrabung auf dem Martinský vrch",
+    "description": "Teile der Fundstelle wurden nach der Ausgrabung an der Oberfläche konserviert.",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Fund einer silbernen Bügelfibel am Zobor",
+    "description": "Die Fibel wird bis in das 7. Jahrhundert datiert — erster Fund dieser Art aus Nitra, veröffentlicht im AVANS 2008.",
+    "type": "discovery"
+   },
+   {
+    "year": "Zweiter Weltkrieg",
+    "title": "Zobor als Zuflucht der Verfolgten",
+    "description": "Die Winzer vom Zobor errichteten für die Verfolgten in der Zeit des Holocaust einen einfachen Unterstand und versorgten sie mit Nahrungsmitteln.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6353,
+    "alt": "Rekonstruktion eines großen Burgwalls mit Hauptburg und dichter Bebauung über dem Fluss"
+   },
+   {
+    "mediaId": 3022,
+    "caption": "Die Nitraer Burganlagen",
+    "alt": "Die Nitraer Burganlagen"
+   },
+   {
+    "mediaId": 3023,
+    "caption": "Auf der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert sind die Lagen (von unten nach oben) Na vŕšku, Burg und Martinský vrch zu sehen",
+    "alt": "Auf der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert sind die Lagen (von unten nach oben) Na vŕšku, Burg und Martinský vrch zu sehen"
+   },
+   {
+    "mediaId": 3024,
+    "caption": "Die Schrift „Die Bekehrung der Bayern und Karantanen“",
+    "alt": "Die Schrift „Die Bekehrung der Bayern und Karantanen“"
+   },
+   {
+    "mediaId": 3070,
+    "caption": "Pribina — der erste bekannte Fürst von Nitra",
+    "alt": "Pribina — der erste bekannte Fürst von Nitra"
+   },
+   {
+    "mediaId": 3074,
+    "caption": "Unsere Visualisierung des möglichen Aussehens des zentralen Nitraer Burgwalls auf dem Burghügel in der Zeit des Fürstentums Neutra. Autor: Tomáš Humaj.",
+    "alt": "Unsere Visualisierung des möglichen Aussehens des zentralen Nitraer Burgwalls auf dem Burghügel in der Zeit des Fürstentums Neutra. Autor: Tomáš Humaj."
+   },
+   {
+    "mediaId": 3071,
+    "caption": "Rekonstruktion des Walles Nitra — Burg",
+    "alt": "Rekonstruktion des Walles Nitra — Burg"
+   },
+   {
+    "mediaId": 3072,
+    "caption": "Nitra — slawische Behausungen",
+    "alt": "Nitra — slawische Behausungen"
+   },
+   {
+    "mediaId": 3026,
+    "caption": "Grundriss und wahrscheinliches Aussehen der Kirche",
+    "alt": "Grundriss und wahrscheinliches Aussehen der Kirche"
+   },
+   {
+    "mediaId": 3027,
+    "caption": "3D-Rekonstruktion der Kirche nach dem AÚ SAV",
+    "alt": "3D-Rekonstruktion der Kirche nach dem AÚ SAV"
+   },
+   {
+    "mediaId": 3031,
+    "caption": "Großmährische Ohrringe Nitra — Lupka",
+    "alt": "Großmährische Ohrringe Nitra — Lupka"
+   },
+   {
+    "mediaId": 3032,
+    "caption": "Die Lupka vom blauen Wanderweg von Dražovce aus",
+    "alt": "Die Lupka vom blauen Wanderweg von Dražovce aus"
+   },
+   {
+    "mediaId": 3033,
+    "caption": "Die Wälle sind dort, wo es heute gründlich zugewachsen und schwer zu fotografieren ist; was ein Stück weiter liegt, ist schon nicht mehr zu sehen.",
+    "alt": "Die Wälle sind dort, wo es heute gründlich zugewachsen und schwer zu fotografieren ist; was ein Stück weiter liegt, ist schon nicht mehr zu sehen."
+   },
+   {
+    "mediaId": 3034,
+    "caption": "Blick von unten auf den höchsten Wall",
+    "alt": "Blick von unten auf den höchsten Wall"
+   },
+   {
+    "mediaId": 3035,
+    "caption": "Der Ringwall — Kvetka hat versucht, ihm zu folgen und ihn zu vermessen, aber ohne Erfolg; er setzt sich in undurchdringlichem Bewuchs mit Dornen und Windbruch fort … dorthin müsste jemand Stärkerer mit einer Machete gehen, aber wer weiß, ob er darf, denn die ganze Lupka liegt heute in einem Schutzgebiet und es führt kein richtiger Weg durch sie",
+    "alt": "Der Ringwall — Kvetka hat versucht, ihm zu folgen und ihn zu vermessen, aber ohne Erfolg; er setzt sich in undurchdringlichem Bewuchs mit Dornen und Windbruch fort … dorthin müsste jemand Stärkerer mit einer Machete gehen, aber wer weiß, ob er darf"
+   },
+   {
+    "mediaId": 3036,
+    "caption": "Terrasse mit Wall",
+    "alt": "Terrasse mit Wall"
+   },
+   {
+    "mediaId": 3037,
+    "caption": "Innenfläche des Burgwalls",
+    "alt": "Innenfläche des Burgwalls"
+   },
+   {
+    "mediaId": 3053,
+    "caption": "Konstruktion des Walles der Burganlage Zobor",
+    "alt": "Konstruktion des Walles der Burganlage Zobor"
+   },
+   {
+    "mediaId": 3054,
+    "caption": "Slawische Behausung auf der Burganlage",
+    "alt": "Slawische Behausung auf der Burganlage"
+   },
+   {
+    "mediaId": 3055,
+    "caption": "Funde vom Zobor, veröffentlicht im AVANS 2008",
+    "alt": "Funde vom Zobor, veröffentlicht im AVANS 2008"
+   },
+   {
+    "mediaId": 3057,
+    "caption": "Das Eingangstor zur Burganlage",
+    "alt": "Das Eingangstor zur Burganlage"
+   },
+   {
+    "mediaId": 3061,
+    "caption": "Wall",
+    "alt": "Wall"
+   },
+   {
+    "mediaId": 3062,
+    "caption": "Wall",
+    "alt": "Wall"
+   },
+   {
+    "mediaId": 3064,
+    "caption": "Zisterne",
+    "alt": "Zisterne"
+   },
+   {
+    "mediaId": 3067,
+    "caption": "Heute stehen an der Fundstelle Šindolka Einfamilienhäuser und eine Landwirtschaftliche Fachschule. Der einzige Zeuge der Vergangenheit ist vielleicht nur die Quelle, die dort entspringt. Leider ist das Wasser nach der letzten Analyse nicht trinkbar, ebenso auch das Wasser aus der Svorad-Quelle am Zobor, und dabei war es gutes, gesundes Wasser, das sich auch für Säuglinge eignete",
+    "alt": "Heute stehen an der Fundstelle Šindolka Einfamilienhäuser und eine Landwirtschaftliche Fachschule. Der einzige Zeuge der Vergangenheit ist vielleicht nur die Quelle, die dort entspringt. Leider ist das Wasser nach der letzten Analyse nicht trinkbar"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.quote-block",
+    "text": "Nitra, liebe Nitra, du hohe Nitra, wo sind denn jene Zeiten, in denen du geblüht hast?\nNitra, liebe Nitra, du slowakische Mutter! Wenn ich dich anschaue, muss ich weinen.\nDu warst einst das Haupt aller Länder, durch die Donau, Weichsel und March fließen.\nDu warst der Wohnsitz des Königs Svatopluk, als hier seine mächtige Hand herrschte.",
+    "author": null,
+    "source": "Slovenské Spevy, hrsg. in Turč. Sv. Martin 1883"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nitra (Neutra) war ohne Zweifel seit dem 8. Jahrhundert die bedeutendste Agglomeration der Slowakei, und ihre außerordentliche Bedeutung übernahm auch das frühmittelalterliche Königreich Ungarn. Sie war der Sitz des Fürstentums Neutra, in dem bedeutende Persönlichkeiten unserer nationalen Geschichte herrschten, vor allem Fürst Pribina (bis zum Jahr 833, als er von dem mährischen Fürsten Mojmír vertrieben wurde) und der Fürst und später wahrscheinlich König Großmährens Svatopluk, der hier schon seit den 50er Jahren des 9. Jahrhunderts seinen Sitz hatte. Von Nitra und auch von ihrem ersten bekannten Herrscher Pribina erfahren wir zum ersten Mal aus der Schrift "
+       },
+       {
+        "type": "link",
+        "url": "/blog/spis-o-obrateni-bavorov-a-korutancov-na-vieru-9-storocie",
+        "children": [
+         {
+          "type": "text",
+          "text": "Die Bekehrung der Bayern und Karantanen"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", die wahrscheinlich zwischen den Jahren 871–873 (manchmal wird 828–873 angegeben) am Hof des Salzburger Erzbischofs Adalwin entstand. In der Schrift heißt es unter anderem: \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Als sich jedoch inzwischen eine Gelegenheit bot, erhielt Pribina auf Bitte der Getreuen des genannten Königs einen Teil Niederpannoniens um den Fluss, der Sala genannt wird, zu Lehen. Daraufhin ließ er sich dort nieder und begann in einem sumpfigen Hain am Ufer der Sala eine Befestigung zu errichten. Von allen Seiten sammelte er Leute und vermehrte die Zahl seiner Untertanen. Ihm (Pribina) hatte einst Erzbischof Adalram auf seinem eigenen Besitz jenseits der Donau eine Kirche an dem Ort geweiht, der Nitrava genannt wird",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": " \n In Nitra befinden sich 6 wichtigste archäologische Fundstellen, die die Anfänge der Entwicklung der Besiedlung und des Lebens in Nitra und ihrer Umgebung belegen. Ihre Besiedlung ist natürlich viel älter und reicht tief in die Urgeschichte zurück. Eine befestigte Höhensiedlung hatte hier zum Beispiel schon das Volk der Maďarovce-Kultur.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Nitraer Burganlagen",
+    "alt": "Die Nitraer Burganlagen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das mittelalterliche Nitra bildete ein System von Burgwällen und natürlich der zu ihnen gehörenden Siedlungen. Eine Reihe mehrerer Ausgrabungen in Nitra ermöglichte den Archäologen, ein weit genaueres Bild von ihrer Gestalt in der Zeit zu gewinnen, als sie in großmährischer Zeit und im Mittelalter der Sitz der Nitraer Fürsten war. Es zeigt sich wirklich, dass es eine riesige Agglomeration war. Fasst man die Kenntnisse zusammen, die wir aus den einzelnen kleineren Ausgrabungen in der Stadt haben, so bestätigt sich uns die Bedeutung und Einzigartigkeit dieser großen Agglomeration des großmährischen und nachgroßmährischen Nitra. Sie war größer als das heutige Nitra und bestand in diesem Zustand bis in das 13. Jahrhundert.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Bedeutung Nitras führt Drahoslav Hulínek in der Historická Revue 11-12 2006 an, dass "
+       },
+       {
+        "type": "text",
+        "text": "„sie in der Zeit des großmährischen Staates außer unbefestigten Siedlungen handwerklich-produktiven oder landwirtschaftlichen Charakters von einem Burgwall zentraler Bedeutung auf dem Nitraer Burghügel gebildet wurde. Zu ihm gehörte wahrscheinlich auch die Vorburg Na vŕšku (eventuell war es ein eigenständiger Burgwall) sowie zwei befestigte Siedlungen mit möglicher Wachfunktion in den Lagen Lupka und Martinský vrch. Als Fliehburg wurde möglicherweise der ursprünglich urgeschichtliche Burgwall auf dem Berg Zobor und in der Lage Šibeničný vrch genutzt.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Der Kern der Nitraer Siedlungsagglomeration war ein besiedelter Raum nichtagrarischen Charakters, den die Lagen Burg (im Grunde der ganze Burghügel), Na vŕšku und das Areal der heutigen Altstadt darstellten. In der Nitraer Siedlungsagglomeration lagen nach den bisherigen Feststellungen 18 unbefestigte Siedlungen und 13 Gräberfelder aus dem 9.–10. Jahrhundert. Nach dem slowakischen Archäologen Matej Ruttkay lässt sich über das frühmittelalterliche Nitra feststellen, dass „das Gebiet der heutigen Burg (des damaligen Burgwalls) bis zur Markthalle und von der Straße Fraňa Mojtu bis zur Párovská-Straße eine einzige große Siedlungsagglomeration bildete, die man ohne Zögern mit den größten mitteleuropäischen Metropolen jener Zeit vergleichen kann“.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Nitra erfüllte neben der bedeutenden politisch-machtpolitischen und wirtschaftlichen Funktion auch die Rolle eines geistlichen Zentrums mit einem schriftlich belegten Bistum. Dabei hatte sie innerhalb Großmährens eine besondere Stellung, da sie die bedeutendste zentrale Siedlung des Nitraer Teils Großmährens war. In ihr hatte noch vor seinem Antritt auf den großmährischen Herrscherthron Svatopluk als Teilfürst in der Region Nitra seinen Sitz. Diese bewahrte sich auch nach dem Jahr 833 innerhalb dieses westslawischen Reiches eine gewisse Autonomie und erfüllte die Funktion eines Teilfürstentums. Im Rahmen ihrer langfristigen Bedeutung erfüllte Nitra auch die Rolle eines Sitzes einiger Familienangehöriger der im ganzen Großmähren herrschenden Dynastie. Das belegt auch die Nachricht in den Fuldaer Annalen über das erwähnte Teilfürstentum Svatopluks wahrscheinlich in Nitra (855?–870). Dieser Mann war schon damals ein wichtiges Mitglied der Mojmiriden-Dynastie. Svatopluk, der Neffe Rastislavs, war sogar einige Zeit sein Mitherrscher — seit dem Jahr 862/863, wenn nicht schon früher —, schon seit den 50er Jahren des 9. Jahrhunderts, seit denen er wahrscheinlich in Nitra herrschte. Denn auch in den mährisch-pannonischen Legenden heißt es in der Methodvita, dass Fürst Rastislav gemeinsam mit Svatopluk eine Gesandtschaft mit der Bitte um christliche Lehrer und einen Bischof an den byzantinischen Kaiser Michael schickte. Diese ihre gemeinsame Aktivität gipfelte in der Ankunft der byzantinischen Mission. Unter anderem kann diese Schriftquelle auch auf eine gewisse machtpolitische Anerkennung der Mitherrschaft des in Nitra ansässigen Svatopluk hinweisen. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Nitra war wahrscheinlich auch der Sitz des gegen die Franken aufständischen Slavomír. Damals geriet der mährische Teil Großmährens infolge der fränkischen Oberherrschaft in die Hände der Markgrafen der Ostmark Wilhelm II. und Engilschalk. Nach seiner Rückkehr nach Großmähren zog Svatopluk in die alte, von den Franken eroberte Burg Rastislavs ein — entweder nach Mikulčice oder, was weniger wahrscheinlich ist, nach Staré Město — Uherské Hradiště. Heimlich verbündete er sich mit dem aufständischen Slavomír, gemeinsam zerschlugen sie das Heer Karlmanns (Karlmann, Sohn Ludwigs des Deutschen), wobei beide fränkischen Markgrafen umkamen. Dadurch vereinigten sich der Nitraer und der mährische Teil des Staates erneut unter einer einheitlichen Herrschaft, diesmal an der Spitze mit Fürst Svatopluk (871–894). Die gesellschaftlich-politische Bedeutung Nitras rundet auch die Tatsache ab, dass hier mit größter Wahrscheinlichkeit der jüngere Sohn Svatopluks I. seinen Sitz hatte. Es war der Nitraer Woiwode bzw. Fürst Svatopluk II. — der Gegner seines älteren Bruders, des großmährischen Herrschers Mojmír II., des Nachfolgers Svatopluks I.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Ich empfehle: ",
+        "italic": true
+       },
+       {
+        "type": "link",
+        "url": "http://svetgeografie.blogspot.com/2011/07/nase-mesta-na-al-idrisiho-mape-tabula.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Die älteste Darstellung Nitras — auf einer Karte aus dem 12. Jahrhundert"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert sind die Lagen (von unten nach oben) Na vŕšku, Burg und Martinský vrch zu sehen",
+    "alt": "Auf der 1. militärischen Landesaufnahme aus dem 18. Jahrhundert sind die Lagen (von unten nach oben) Na vŕšku, Burg und Martinský vrch zu sehen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Nitra — Burg"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Der dominierende Sitz der Nitraer Agglomeration war spätestens ab der zweiten Hälfte des 9. Jahrhunderts das befestigte Areal auf dem Burghügel. Die Anfänge seiner Besiedlung im Frühmittelalter reichen vielleicht schon in den Ausgang der frühslawischen Periode zurück. Darauf deuten die wenigen Scherben hin, die auf dem Gipfel des Burghügels gefunden wurden.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Spätestens im zweiten Drittel des 9. Jahrhunderts kam es auf der Burg zu umfangreichen Umbauten. Das besiedelte Areal am mäßig geneigten Südhang des Hügels wurde mit einem Wall befestigt (Abb. 3). Ihn bildeten etwa 1 m breite Steinmauern aus trocken gelegten Steinen, die eine etwa 3 m breite Aufschüttung aus Lehm umschlossen (die Gesamtbreite des Walles betrug 5 m). Den Wall verfestigte eine hölzerne Rostarmierung aus Reihen waagerecht liegender Eichenbalken, die dicht nebeneinander quer zum Verlauf der Befestigung gelegt waren. Die bisher untersuchten Teile des Walles bezeugen, dass der Wall nicht nur den nördlichen Teil des Hügels schützte, sondern das gesamte besiedelte Areal auf dem Burghügel, d. h. auch den heute als sogenanntes Horné mesto (Oberstadt) bezeichneten Teil.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Schrift „Die Bekehrung der Bayern und Karantanen“",
+    "alt": "Die Schrift „Die Bekehrung der Bayern und Karantanen“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Ausgrabung des Walles wurde noch eine weitere wichtige Sache festgestellt. In einem Teil der steinernen Wände des Walles war Bauschutt aus einem abgetragenen gemauerten Steinbau sekundär verwendet. Das könnte darauf hindeuten, dass es zur Zeit der Errichtung des großmährischen Walles zum Abtragen oder zum Umbau eines älteren gemauerten Steinbaus kam, der schon vor dem Bau des Walles auf dem Gipfel des Hügels stand.“ (Bednár)"
+       },
+       {
+        "type": "text",
+        "text": "\n \n Während der Ausgrabungen wurde festgestellt, dass sich auf dem Burgwall ursprünglich ein umfangreicher repräsentativer Baukomplex befand — offenbar der Sitz des Fürsten —, der gemauert war und für dessen Errichtung sehr hochwertiger Mörtel sowie Quader aus Lithothamnienkalk verwendet wurden, der zur Zeit des Baus des Komplexes im Leithagebirge in Niederösterreich gebrochen wurde. Aus den erhaltenen Fragmenten ist ersichtlich, dass die gemauerten Bauten zugleich mit gemeißelten Pflanzenmotiven geschmückt waren und dass zumindest ein Teil des Baus verputzt und mit Fresken verziert war. Ähnliche Fresken stammen aus der Umgebung der dreiapsidialen Basilika in Devín (Theben). Der Bau ging vor der Errichtung des Nordflügels des Palastes irgendwann im Verlauf des 13. Jahrhunderts unter. Es könnte sich also um Gebäude handeln, in denen Svatopluk selbst wohnte.\n \n \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Pribina — der erste bekannte Fürst von Nitra",
+    "alt": "Pribina — der erste bekannte Fürst von Nitra",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Innenfläche des Burgwalls war offenbar in mehrere Teile gegliedert, worauf die Spuren einer Palisade im Inneren des Befundes hindeuten. In unmittelbarer Nähe der Innenwand des Walles standen ebenerdige Bauten, in denen Vorräte gelagert wurden. Außer ihnen nutzte man auch in die Erde eingetiefte Vorratsgruben. Die Bewohner des Burgwalls betrieben wahrscheinlich selbst keine Landwirtschaft, und die Feldfrüchte wurden auf den Burgwall schon verarbeitet bzw. gereinigt geliefert. Auf dem Burgwall wurden die Überreste einer Metallgießerwerkstatt erfasst. Weitere Funde bezeugen, dass hier im 9. Jahrhundert und zu Beginn des 10. Jahrhunderts eine Schmuckwerkstatt arbeitete.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch archäologische Ausgrabungen noch in den 30er Jahren des 20. Jahrhunderts wurde festgestellt, dass die kleine Kirche auf der Burg, die heute an die Wende vom 11. zum 12. Jahrhundert datiert wird, einen Teil eines älteren, etagenweise angelegten Gräberfeldes überdeckt. Ihre Existenz wie auch die Situation des Burghügels erlauben zusammen mit den historischen Quellen über die Errichtung des Bistums die Annahme, dass die Burg bereits als bedeutender großmährischer Burgwall mit entsprechend zahlreichen Architekturen erbaut wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere Visualisierung des möglichen Aussehens des zentralen Nitraer Burgwalls auf dem Burghügel in der Zeit des Fürstentums Neutra. Autor: Tomáš Humaj.",
+    "alt": "Unsere Visualisierung des möglichen Aussehens des zentralen Nitraer Burgwalls auf dem Burghügel in der Zeit des Fürstentums Neutra. Autor: Tomáš Humaj.",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die letzten Ausgrabungen an dieser Fundstelle haben ebenfalls bestätigt, dass die heutige Kirche des hl. Emmeram nicht die Kirche Pribinas ist. Die Beweise liegen unter dem mittelalterlichen Friedhof bei der Kirche. Die letzten Ergebnisse der archäologischen Ausgrabungen und der geophysikalischen Prospektion, die mit dem Georadar im Inneren der heute stehenden Kirchen durchgeführt wurde, deuten auf eine mögliche Lokalisierung der großmährischen Kirche hin.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bednár führt an, dass „die Blüte der großmährischen Burg auf dem Burghügel zu einem nicht näher bestimmten Zeitpunkt ein umfangreicher Brand unterbrach. Seine Spuren erfassen wir an allen untersuchten Teilen des Walles auf dem Gipfel des Hügels. Wann er entstand und was seine Ursache war, wissen wir nicht. Es konnte ein unglücklicher Zufall im Inneren des befestigten Areals gewesen sein, aber ebenso ein gewaltsamer Eingriff von außen. Bislang haben wir nicht genug Funde, die uns wenigstens annähernd bestimmen würden, wann es zu diesem Ereignis kam. Aus den Funden, die wir haben, wissen wir, dass es spätestens in der ersten Hälfte des 11. Jahrhunderts dazu kommen musste, als man im südlichen Teil mit dem Bau einer neuen Befestigung mit einer ähnlichen Konstruktion begann, wie sie der großmährische Wall hatte. Ihr Bau wurde jedoch aus uns bisher unbekannten Gründen abgebrochen, und befestigt wurde nur der südliche, leichter zugängliche Teil des Hügels. Wesentlich ist, dass dieser Wall seine Funktion bis zum Bau der neuen Befestigung erfüllte — eines breiten Kastenwalles, der auf der Burg zwischen den Jahren 1046–1060 errichtet wurde (Bednár/Samuel 2001).“  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion des Walles Nitra — Burg",
+    "alt": "Rekonstruktion des Walles Nitra — Burg",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Ausgrabung der Nitraer Burg und des Burghügels brachte mehrere überzeugende Beweise für seine ununterbrochene Existenz und Entwicklung schon seit dem Beginn des 9. Jahrhunderts, wobei festgestellt wurde, dass er im 9.–11. Jahrhundert die Residenzburg des großmährischen und später des ungarischen Fürstentums und wahrscheinlich auch der Sitz des großmährischen Bistums von Nitra war.    Auf dem Gipfel des Hügels fand sich eine große Menge indirekter Belege für die Existenz gemauerter Steinarchitektur. Ihr Vorkommen konzentrierte sich auf dem Gipfel des Burghügels in der Umgebung des Palastes und der Kirche. Mindestens einer dieser Bauten muss ein umfangreicher prunkvoller und repräsentativer Baukomplex gewesen sein. Das bestätigt zum einen die Art des Steins, aus dem er errichtet wurde — es handelte sich um eine besondere Kalksteinart, die in der Umgebung Nitras nicht vorkommt. Ihre nächsten genutzten Lagerstätten liegen etwa 80–100 km von Nitra entfernt. Außerdem stammen aus diesem Bau mehrere Bruchstücke von Putz mit Freskenschmuck sowie prunkvoll verzierte steinerne Architekturglieder, die darauf hindeuten, dass an dem Bau dieses Komplexes eine Steinmetzwerkstatt aus dem Frankenreich beteiligt gewesen sein könnte.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Nitra — slawische Behausungen",
+    "alt": "Nitra — slawische Behausungen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da wir die Geschichte des Fürstentums Neutra kennen, wissen wir, dass die Stelle des ursprünglichen Burgwalls im Verlauf des Mittelalters dauerhaft besiedelt und genutzt, vor allem aber mehrmals umgebaut wurde. Gerade die vielen Baueingriffe im Verlauf des Mittelalters führten zur Störung bzw. auch zur vollständigen Zerstörung der archäologischen Befunde. Heute lässt sich auf dem Burghügel nur ein unbedeutender Bruchteil des ursprünglichen Burgwalls sehen — ein Teil des Walles mit der Steinfront. Zu sehen ist das auf dem folgenden Bild:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich muss an dieser Stelle feststellen, dass auf der Nitraer Burg erst in den letzten Jahren das enorme Potenzial einer möglichen Präsentation dieses aus der Sicht unserer nationalen Geschichte überaus bedeutenden Ortes allmählich genutzt wird. Noch vor etwa 4 Jahren war das Areal der Burg für Touristen buchstäblich eine uneinnehmbare Festung, in der man über die Wichtigkeit des Ortes und seine Geschichte so gut wie nichts erfahren konnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Nitra — Martinský vrch",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitra",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Areal war von mehreren Kulturen bereits in der Urgeschichte besiedelt. Heute sind hier die Überreste eines alten slawischen Burgwalls mit einer Fläche von 20 ha sichtbar. Der Burgwall war mit einem Steinwall, einem Graben und doppelten mächtigen Palisaden befestigt, deren Pfosten einen Durchmesser von bis zu 60 cm hatten. Auf dem Burgwall wurden die Fundamente einer romanischen Kirche aus dem 9. Jahrhundert entdeckt und genau lokalisiert, über der im 11.–12. Jahrhundert die Kirche des hl. Martin entstand. In der Nähe der Kirche lag ein Gräberfeld mit wertvollen Funden aus dem 9.–11. Jahrhundert /eine karolingische Münze aus dem 9. Jahrhundert, die als Totenobolus im Mund eines Individuums entdeckt wurde, und Kleiderzierden aus dem 11. Jahrhundert/."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Vorburg wurden mehrere slawische Behausungen und eine breite /10–12 m/ und lange /800 m/ steinerne Straße aus dem 9. Jahrhundert freigelegt. Freigelegt wurden hier eine Menge von Getreidegruben und slawische Handwerkswerkstätten aus dem 9. Jahrhundert zur Herstellung von Gegenständen aus Eisen, Knochen und Stein. Das zu dieser Kirche gehörende Dorf lag wahrscheinlich im Ortsbereich der einstigen Gemeinde Chrenová.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitra",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss und wahrscheinliches Aussehen der Kirche",
+    "alt": "Grundriss und wahrscheinliches Aussehen der Kirche",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erwähnte Kirche war gemauert, hatte ein bis zu 1–1,3 m breites Fundamentmauerwerk, war 20,1 m lang und 7,6 m breit, mit einer Apsis von 5,4 m. Kleine Putzreste verraten einen farbigen Freskenschmuck der Kirche. In den Fundamenten dieser alten Kirche fanden sich Schmuck und das Grab eines Erwachsenen, der eine Münze aus der Zeit Karls des Kahlen (840–877) im Mund hatte. Es ist möglich, dass dies die in historischen Dokumenten erwähnte Kirche Pribinas war, direkte Beweise für diese Behauptung gibt es jedoch nicht. Wäre dies wahr, so wurde die Kirche irgendwann in den Jahren 821–836 errichtet, denn das sind die Jahre, in denen Adalram Salzburger Erzbischof war, und aus den historischen Nachrichten wissen wir, dass Adalram diese Kirche geweiht hat. (die wahrscheinlichsten Jahre sind 827–828) Die Technik des Fundamentbaus der Kirche ist ähnlich wie bei der Kirche, die auf der Burg von Bratislava (Pressburg) entdeckt wurde, und auch bei der Kirche in Blatnohrad (Mosaburg, heute Zalavár in Ungarn), die Pribina später in seinem Fürstentum in Pannonien errichten ließ. All dies würde bedeuten, dass der Burgwall auf dem Martinský vrch am Hang des Zobor der Sitz Pribinas war, wo er auch einen Fürstenpalast haben konnte.   In dem Areal wurde im Jahr 1993 eine archäologische Ausgrabung durchgeführt. Teile der Fundstelle wurden an der Oberfläche konserviert. Heute gehört dieses Areal dem Verteidigungsministerium der Slowakischen Republik und ist für die Öffentlichkeit nicht zugänglich.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Nitra — Lupka",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser alte slawische Burgwall, der von einem mächtigen Steinwall aus dem 8.–9. Jahrhundert umgeben ist, wurde von den Slawen der großmährischen Zeit angelegt. Er bewachte den Zugang nach Nitra von Norden. Außer dem eigentlichen Areal, das durch einen 7,5 m hohen und 3,5 m breiten Steinwall und einen 3 m tiefen Graben auf der Innenseite geschützt war, hatte er auch ein ausgedehntes Suburbium am südlichen Fuß des Berges befestigt. In nordwestlicher Richtung war unter dem teilweise erhaltenen Wall eine 6 m breite Terrasse angelegt und darauf waren Töpferöfen eingebaut."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Štefan Janšák entdeckte den Burgwall im Jahr 1928 und schreibt darüber Folgendes"
+       },
+       {
+        "type": "text",
+        "text": ": Der Burgwall befindet sich auf halbem Weg zwischen der Stadt Nitra und der Gemeinde Dražovce, von beiden etwa 3 km entfernt und etwa 100 m über dem Niveau der genannten Komitatsstraße. Er bildet den letzten südwestlichen Ausläufer des Zoborer Bergmassivs, das hier in die Talebene der Neutra übergeht. Der geographischen Form nach gehört der Burgwall zur Kategorie II, indem er sich auf einem Hügel von fast regelmäßiger Laibform erstreckt, der auf der nordöstlichen Seite durch einen flachen Sattel mit dem Massiv des Zobor zusammenhängt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "3D-Rekonstruktion der Kirche nach dem AÚ SAV",
+    "alt": "3D-Rekonstruktion der Kirche nach dem AÚ SAV",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall besteht aus triassischen Schichten von Buntsandstein und Mergel. Die natürliche Sicherheit des Burgwalls ist unbedeutend, und man kann von ihr nur auf der Ostseite sprechen, wo sich eine steile Felsstufe von 3–4 m Höhe auf einer Länge von etwa 100 m zwischen den beiden Steinbrüchen L und M befindet. Es handelt sich hier wahrscheinlich um eine Art entfernte Vorburg des Zobor oder um einen Standort für eine zahlreichere Wache, weshalb weder an die natürliche Sicherheit noch an die künstlichen Befestigungen so große Anforderungen gestellt sind wie bei dauerhaft bewohnten Burgwällen. Die künstlichen Wälle bilden eine fast regelmäßige Ellipse mit Achsen, die sich in ihrer Länge nur wenig unterscheiden. Die Wälle entstanden durch das Abgraben eines ziemlich breiten Streifens auf der Innenseite des Burgwalls, sodass sie keinen parallelen Graben haben, der die Solidität der Befestigung erhöhen würde. Die Höhe der Wälle beträgt zum Inneren des Burgwalls hin 0,80–1 m, nach außen hin 2, höchstens 3 m, und die Länge (der Umfang) 680 m. Heute sind die Wälle erheblich abgeflacht, was auch dem Umstand zuzuschreiben ist, dass sie in der Partie in d und c den Nitraer Ausflüglern als Spazierweg dienen. Der niedrigste Punkt der Wälle ist die Kote 225 im Punkt c, von dem sie in beiden Richtungen ansteigen, bis sie im Punkt b die Kote 337 erreichen und sich über einer 4 m hohen Felsstufe erheben. Die Wälle sind an zwei Stellen von den Steinbrüchen L und M unterbrochen. Außerdem sind an mehreren Stellen Eingänge in sie durchgebrochen, offenbar jüngeren Datums. Durch den Eingang o von der südöstlichen Seite führt ein bequemer Aufstieg auf den Burgwall.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitra",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Flächenausdehnung der Oberfläche beträgt 3,6 ha. Angesichts seiner Form und der nach allen Himmelsrichtungen gleichmäßigen Neigung der Oberfläche bietet kein Teil des Burgwalls besondere Vorzüge, weder für das Wohnen noch im Hinblick auf die Sicherheit.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Öfen hatten eine untere Heiz- und eine obere Brennfläche, sie stammen aus dem 9. Jahrhundert. Im ganzen Areal fand sich eine große Menge hochwertiger altslawischer Keramik aus dieser Zeit, die auf schnell drehenden Töpferscheiben hergestellt wurde, was von der großen Tüchtigkeit unserer Vorfahren im Töpferhandwerk zeugt. Die Keramik war mit einem schönen feinen Wellenband zwischen Bündeln feiner und stärkerer Rillen verziert. Südöstlich der Öfen lag in Richtung Stadt, unmittelbar unter dem Wall, ein kleineres Gräberfeld, auf dem die ersten bisher bekannten Töpfer und Handwerker aus dem Gebiet der heutigen Slowakei bestattet waren. Es handelt sich um ein wertvolles großmährisches Gräberfeld, dessen Funde von einem entwickelten Schmuckhandwerk zeugen: komplizierte Typen von Ohrringen, Fingerringen und Gombíks aus Gold, Silber und Bronze. Der Burgwall diente in Zeiten der Kriegsgefahr als Fliehburg für die umliegende Bevölkerung, ansonsten saß hier eine kleinere Besatzung, die die Zugangsstraße zum fürstlichen Burgwall von dieser Seite schützte. Vor einigen Jahren wurde hier eine Fundstelle mit 13 Töpferöfen, kleinen Öfen ohne Rost und Ähnlichem freigelegt. Die Töpferöfen beim Burgwall Lupka sind der erste archäologische Fund dieser Art auf slawischem Gebiet im 9. Jahrhundert. Heute sind im Waldbestand die Wälle der Befestigung noch gut sichtbar, und die gesamte Fundstelle ist zugleich ein Naturschutzgebiet für Pflanzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitra",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotogalerie Lupka 2010 (Kvetka M.)"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Nitra — Zobor",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Gipfelburganlage aus der Bronzezeit (Lausitzer Kultur) und aus dem Mittelalter (9. Jahrhundert). Es handelt sich um die erste befestigte Höhensiedlung im Tal der Neutra, und mit ihrer Fläche von etwa 15 ha gehört sie in dieser Region zu den größten. Die Befestigung umschließt die ganze Kuppe des Massivs, die Pyramide wie auch den eigentlichen Gipfel des Zobor, die voneinander durch einen ausgeprägten Sattel getrennt sind. Die Höhe der Befestigung erreicht auf der Nordwestseite etwa 7 m. In die Anlage trat man durch drei Tore ein, die im östlichen, nördlichen und westlichen Teil des Walles lagen. Angesichts der dominanten Lage und der Fläche sollte die Anlage in der Zeit der Lausitzer Kultur außer als Fliehburg für die Bewohner der umliegenden Siedlungen auch eine organisatorisch-administrative oder kultische Funktion erfüllen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Großmährische Ohrringe Nitra — Lupka",
+    "alt": "Großmährische Ohrringe Nitra — Lupka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "dd4a1743ea4149eea2b58861cc225e5b",
+    "url": "https://sketchfab.com/models/dd4a1743ea4149eea2b58861cc225e5b/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entstehung der Burganlage Zobor wird in die Spätbronzezeit datiert (10. bis 8. Jahrhundert v. Chr.). Die älteste Besiedlung der Höhensiedlung Zobor (HZ) ist mit dem Volk der Lausitzer Kultur (weiter LK) verbunden, das in der jüngeren Phase der Spätbronzezeit ausgedehnte befestigte Höhensiedlungen errichtete. Die Besiedlung dauerte hier bis zum Beginn der älteren Eisenzeit (der Hallstattzeit), als die befestigten Höhensiedlungen und offenen Siedlungen der LK untergehen (nach einer der Hypothesen verursachte das die Ankunft berittener Kriegergefolgschaften aus dem Gebiet der nordpontischen Steppen und des nördlichen Kaukasus). Immer noch unbeantwortet ist die Frage der Besiedlung der HZ in großmährischer Zeit. In dieser Zeit konnte die ältere Befestigung als Fliehburg (Zuflucht) und Wachposten genutzt werden. Die neuesten Funde vom Zobor deuten jedoch darauf hin, dass "
+       },
+       {
+        "type": "text",
+        "text": "wir die Besiedlung des Zobor auch in die slawische Zeit vorverlegen können",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Es fand sich hier (veröffentlicht im AVANS 2008) "
+       },
+       {
+        "type": "text",
+        "text": "eine silberne Bügelfibel mit Strahlenkopf",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die bis in das 7. Jahrhundert datiert wird. Die Bügelfibel ist der erste Fund dieser Art aus Nitra, auch wenn in der Vergangenheit auf dem Gebiet der Stadt mehrere Siedlungen und Gräber aus dieser Zeit festgestellt wurden. Der Fund unterstreicht mit seiner Qualität die Bedeutung dieser Agglomeration unmittelbar hinter der Nordgrenze der Verbreitung awarischer Gräberfelder. Auch die weiteren frühmittelalterlichen Funde, die im Jahr 2008 veröffentlicht wurden, waren bei den bisherigen Ausgrabungen an der Fundstelle nur in begrenzter Menge erfasst. Während "
+       },
+       {
+        "type": "text",
+        "text": "ein Messer mit angedeuteter Hohlkehle",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " unter der Kante der Klinge zu den gewöhnlichen Erzeugnissen gehört, finden wir "
+       },
+       {
+        "type": "text",
+        "text": "lange Messer mit gerader, schmaler und massiver Klinge",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " eher auf awarischen Gräberfeldern. Wichtig ist ein Exemplar mit volutenartig abgeschlossenem "
+       },
+       {
+        "type": "text",
+        "text": "verziertem Griff",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Nach den Beobachtungen mehrerer Forscher tritt dieses charakteristische Werkzeug während eines langen Zeitraums vom 6. bis zum 9. Jahrhundert auf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Lupka vom blauen Wanderweg von Dražovce aus",
+    "alt": "Die Lupka vom blauen Wanderweg von Dražovce aus",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage Zobor hatte eine strategische Stellung, sie war die erste als Puffer dienende Anlage im Gebiet des unteren Neutratals mit guter und weiter Rundsicht und mit der Möglichkeit, ein großes Gebiet zu beobachten und zu kontrollieren. Sie war Teil eines Kettensystems von Burganlagen, die eine Signal-, Verteidigungs- und Verständigungsfunktion erfüllten. Dazu gehörten auch die nicht weit entfernten Anlagen Žibrica, Veľký Lysec, Veľký Tríbeč und Krnča-Tábor. Die Befestigung der HZ und das schwer zugängliche Gelände boten in Zeiten der Bedrohung Zuflucht für die Bewohner der umliegenden offenen Siedlungen an den Hängen des Zobor und im Tal der Neutra (zum Beispiel die Siedlungen im Areal des Fachkrankenhauses des hl. Svorad, in Šindolka oder oberhalb von Nitrianske Hrnčiarovce), die ihr wirtschaftliches Hinterland bildeten. Außerdem hatte die HZ wahrscheinlich auch Funktionen organisatorisch-administrativen, wirtschaftlichen und kultischen Charakters. Der eigentliche Wehrwall bestand aus einer Aufschüttung von Steinen und Lehm, die im unteren Teil durch eine hölzerne Konstruktion verfestigt war. Auf dem Kamm des Walles stand eine Palisade aus Holzpfosten. Auf der Innenseite des Walles ist fast auf der ganzen Länge eine Vertiefung sichtbar, die durch die Gewinnung des Materials für seinen Bau entstand.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Wälle sind dort, wo es heute gründlich zugewachsen und schwer zu fotografieren ist; was ein Stück weiter liegt, ist schon nicht mehr zu sehen.",
+    "alt": "Die Wälle sind dort, wo es heute gründlich zugewachsen und schwer zu fotografieren ist; was ein Stück weiter liegt, ist schon nicht mehr zu sehen.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die drei Zugänge zur Anlage bildeten teilweise Zangentore, und in sie mündeten die ursprünglichen Wege jener Zeit. Heute mündet in das westliche Tor der rote Wanderweg und zugleich eine Fahrstraße. In das nördliche Tor mündet der blaue Wanderweg von der Lyžiarska lúka. Durch das östliche Tor führt eine Rückegasse nach Nitrianske Hrnčiarovce. Die Tore waren hölzern, wahrscheinlich verdoppelt, stark befestigt und mit einem Wachturm verbunden.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Umgebung der Anlage war aus taktischem Grund entwaldet, wegen der besseren Sicht und auch wegen der Nutzung des Holzes als Brennstoff und Baumaterial. In der weiteren Umgebung befinden sich weitere weniger deutliche Wehrwälle, die die Zugänge zur Anlage an den am leichtesten zugänglichen Stellen schützten.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Inneren der Anlage befanden sich wahrscheinlich hölzerne Behausungen, Wirtschafts- und Vorratsbauten zur Lagerung von Nahrungsmitteln. Die bisher durchgeführten archäologischen Ausgrabungen haben keine erhöhte Konzentration von Siedlungsbefunden bestätigt. Die Zisterne zum Auffangen von Regenwasser entstand durch das Absperren einer Runse mit dem Wehrwall im westlichen Teil der Anlage. Aufgrund von Parallelen von anderen Burganlagen können wir annehmen, dass der Gipfel des Zobor als natürliche Geländedominante für die Bewohner der LK wahrscheinlich die Hauptburg war, die der höchsten Schicht der sozial differenzierten Gesellschaft vorbehalten war.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick von unten auf den höchsten Wall",
+    "alt": "Blick von unten auf den höchsten Wall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Ausgrabung und ihre Funde datieren die Entstehung der Anlage Zobor in die Spätbronzezeit. Die Mehrheit der Funde bildeten Fragmente keramischer Gefäße, und nur eine kleine Menge bildeten Metallgegenstände (eine bronzene Lanze, zwei eiserne Messerchen und Bruchstücke bronzener Gegenstände). Ein länger bekannter Fund ist eine bronzene Tüllenaxt. Durch eine archäologische Sondagegrabung in den Jahren 1986–1987 wurden auf einer insgesamt untersuchten Fläche von 14 Ar höchstwahrscheinlich die Lehmböden zweier Behausungen und eine Feuerstelle festgestellt. Die Anlage Zobor und ihre nahe Umgebung bot nicht nur den Menschen in alten Zeiten Zuflucht, sondern auch den Verfolgten in der Zeit des Zweiten Weltkriegs und des Holocaust. Die Winzer vom Zobor errichteten für sie einen einfachen Unterstand, versorgten sie hier mit Nahrungsmitteln und halfen ihnen zu überleben. Mehreren half man über den Flugplatz Nitra über die Grenze.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Zobor ist auch die älteste erhaltene Urkunde aus dem Gebiet der Slowakei verbunden, die sogenannte Urkunde der Abtei Zobor aus dem Jahr 1111, in der der Zoborer Abt die königlichen Steuereinnehmer verklagt, weil sie der Abtei ihre Rechte auf die Erhebung des Zolls im Gebiet von Nitra, der Waag und Trenčín (Trentschin) nehmen wollen. In der Urkunde sind mehrere Namen angesehener Nitraer Bürger verzeichnet, die an dem Gericht teilnahmen. Einige von ihnen sind über 80 Jahre alt. Der hohe Gerichtsfunktionär trägt einen slowakischen Namen, der Kanoniker ebenfalls, und von allen genannten Namen sind 14 slowakisch, 4 sind deutsch und der Rest ist allgemein christlich.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Ringwall — Kvetka hat versucht, ihm zu folgen und ihn zu vermessen, aber ohne Erfolg; er setzt sich in undurchdringlichem Bewuchs mit Dornen und Windbruch fort … dorthin müsste jemand Stärkerer mit einer Machete gehen, aber wer weiß, ob er darf, denn die ganze Lupka liegt heute in einem Schutzgebiet und es führt kein richtiger Weg durch sie",
+    "alt": "Der Ringwall — Kvetka hat versucht, ihm zu folgen und ihn zu vermessen, aber ohne Erfolg; er setzt sich in undurchdringlichem Bewuchs mit Dornen und Windbruch fort … dorthin müsste jemand Stärkerer mit einer Machete gehen, aber wer weiß, ob er darf",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Nitra — Mačací hrádok",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "  Es ist eine wertvolle römische und burgwallzeitliche archäologische Fundstelle sowie eine mittelalterliche kleine Burg mit Eisen- und Glasherstellung. Die Fundstelle wird in das 12.–13. Jahrhundert datiert. Durch archäologische Ausgrabungen wurde ein eigenes Suburbium mit wichtiger handwerklicher Schmiedeproduktion festgestellt sowie ein ausgedehntes Gräberfeld, das von einfachem Schmuck begleitet war. Das Gelände war auch für die Verteidigung des Areals der Anlage vorteilhaft. Es war mit doppelten mächtigen Palisaden befestigt, die einzelnen Pfosten hatten einen Durchmesser von bis zu 60 cm. Die Häuschen hatten überwiegend einen steinernen Unterbau. Die Fundstelle ist auch ein reicher Fundort verschiedener Steingegenstände wie durchbohrter Äxte, Feuersteinbruchstücke, Stücke flacher, gut geglätteter Töpfe und anderer. Gefunden wurden hier auch verschiedene Eisengegenstände, Gefäße, Reifen und Ähnliches.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Nitra — Šindolka",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Terrasse mit Wall",
+    "alt": "Terrasse mit Wall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine großflächige Fundstelle mit Funden einer mehrkulturigen Siedlung mit überwiegender Besiedlung in der Mittellatènezeit und im Mittelalter. In der Mittellatènezeit befand sich in Šindolka eine Siedlung, die zu den größten bisher untersuchten Siedlungen in der Slowakei gehört. In den Jahren 1968–1995 wurden 32 eingetiefte Siedlungsbefunde und 20 Gruben entdeckt. Das grundlegende Baumaterial waren Holz und Lehm. Die Wände der Hütten waren entweder in Blockbauweise errichtet oder aus Ruten geflochten und mit Lehm ausgefüllt, der sich als Lehmbewurf erhalten hat. Von der Innenausstattung der Bauten hat sich wenig erhalten. Meist sind es Lehmvorsprünge, die wir für Bänke halten. Einige Bauten hatten auch eine produktive, wirtschaftliche oder kombinierte Funktion, sodass der Raum in einen Wohn-, Arbeits- und Vorratsteil gegliedert war. Die Gruben hatten eine Vorrats- bzw. Abbaufunktion. Die archäologischen Funde sind durch bronzene und eiserne Fibeln, gläserne und Lignit-Armringe sowie kleine Eisengegenstände vertreten. Aus der Latènezeit stammen die bei der Ausgrabung freigelegten Brandgräber, die wahrscheinlich der Rest eines Gräberfeldes sind.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Mittelalter befanden sich in Šindolka eine Siedlung und Gräberfelder. Im 9.–10. Jahrhundert war hier eine Bauern- und Handwerkersiedlung, im 11.–13. Jahrhundert ein mittelalterliches Dorf, das jedoch in den Schriftquellen nicht identifiziert ist. Durch archäologische Ausgrabungen wurden Wohnbefunde mit steinernen und lehmernen Öfen, Produktionsbefunde, in das Gelände eingetiefte Öfen sowie Vorrats- und Abfallgruben freigelegt. Im Areal der Siedlung wurden Gräber aus dem 10.–11. Jahrhundert gefunden, von denen einige Arpaden-Münzen, S-förmige Schläfenringe, Glasperlen, silberne Fingerringe und einen bronzenen Fingerring enthielten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Viele Funde in Nitra belegen, dass Nitra nach dem Untergang des alten Mähren nicht ausstarb, sondern weiterhin dicht besiedelt war. Beim Bau des Naturamphitheaters wurde ein großes altslawisches Gräberfeld aus dem 10. bis 11. Jahrhundert zerstört, auf dem die Gräber schön in Reihen orientiert waren und von dem man annimmt, dass es hier etwa 1000 gewesen sein könnten. Die Bauarbeiter zerstörten fast alles, gerettet wurden nur 165 Gräber mit verschiedenem Inventar, aber auch mit Schmuck, der in Nitra hergestellt worden war. In der Nähe muss hier eine große Siedlung gewesen sein, und auf diesem alten Friedhof muss ein kirchlicher Bau oder eine Kirche gestanden haben, die vielleicht schon im 9. Jahrhundert errichtet wurde. Es ist klar, dass unsere Vorfahren hier nicht erst im 10. Jahrhundert auftraten, auch wenn die in den Gräbern gefundenen Gegenstände und somit auch die in den Gräbern bestatteten Menschen aus dem 10. bis 11. Jahrhundert stammten. Gerettet wurde jedoch nur ein kleiner Teil des Friedhofs, der ältere Teil wurde wahrscheinlich zusammen mit den Fundamenten der Kirche zerstört. Auch die angenommene Größe des Gräberfeldes bzw. Friedhofs verrät, dass hier schon längere Zeit bestattet worden sein muss. Leider lassen sich diese Annahmen nicht mehr bestätigen und auch nicht widerlegen, da der Baubetrieb für die vollständige Zerstörung fast der gesamten Fundstelle sorgte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Innenfläche des Burgwalls",
+    "alt": "Innenfläche des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Umgebung Nitras befinden sich sehr viele Fundstellen, an denen verschiedene altslawische archäologische Funde des ersten Jahrtausends gemacht wurden. Die überwiegende Mehrheit dieser Funde bildet dabei nur eine Rettungsgrabung der jeweiligen Fundstelle nach der Störung durch irgendeine Bautätigkeit. Es handelt sich also um ganz zufällige Funde ohne weitere systematische Ausgrabung. Dennoch sehen wir eine große Dichte der Besiedlung dieses Gebietes durch unsere Vorfahren seit dem 5. Jahrhundert."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": " "
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos der Burganlage Zobor und von Šindolka:",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Anna Halčinová"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

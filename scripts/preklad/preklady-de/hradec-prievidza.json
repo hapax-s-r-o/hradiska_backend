@@ -1,0 +1,376 @@
+{
+ "slug": "hradec-prievidza",
+ "data": {
+  "title": "Hradec bei Prievidza – eine keltisch-dakische Höhensiedlung und ein slawischer Burgwall",
+  "slug": "hradec-prievidza-hoehensiedlung-und-burgwall",
+  "excerpt": "Den slawischen Burgwall in unmittelbarer Nähe der Gemeinde Hradec (Bezirk Prievidza) entdeckte Š. Janšák; im Jahr 1956 fand hier eine archäologische Ausgrabung statt. Schon um die Mitte des 1. Jahrhunderts v. Chr. stand auf dem steilen Felsenhügel eine keltisch-dakische befestigte Höhensiedlung – die nördlichste, an der dakische Einflüsse zu erkennen sind. Der bemerkenswerteste Fund ist ein kleiner vergoldeter Gürtelbeschlag mit Vogelmotiv, wohl um 800 in Salzburger Werkstätten hergestellt.",
+  "metaTitle": "Hradec bei Prievidza – Burgwall auf dem Felsenhügel",
+  "metaDescription": "Der slawische Burgwall bei Hradec (Bezirk Prievidza), entdeckt von Š. Janšák und 1956 untersucht, liegt auf einem steilen, von einem Steinbruch gestörten Hügel.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "steiler felsiger Hügel, der östliche Teil teilweise durch einen alten Steinbruch gestört",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "niedriger Wall aus Andesit- und Tuffsteinen, mit schwarzer Erde vermischt, zur Zeit der Untersuchung etwa 50 cm hoch",
+    "icon": "shield"
+   },
+   {
+    "label": "Bedeutendster Fund",
+    "value": "bronzener vergoldeter Gürtelbeschlag mit Vogelmotiv, Abmessungen 18 × 40 mm, Dicke 1–1,5 mm",
+    "icon": "star"
+   },
+   {
+    "label": "Funktion des Burgwalls",
+    "value": "Wachposten an einem wichtigen Weg, der durch das Neutratal in die Region Turiec und von dort in das Krakauer Land führte",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um die Mitte des 1. Jahrhunderts v. Chr.",
+    "title": "Keltisch-dakische befestigte Höhensiedlung",
+    "description": "In der jüngeren Eisenzeit erstreckte sich auf der Fundstelle eine keltisch-dakische befestigte Höhensiedlung, genauer eine keltische mit einigen dakischen Elementen – die nördlichste Anlage, an der dakische Einflüsse zu erkennen sind.",
+    "type": "founding"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Slawische Besiedlung des Burgwalls",
+    "description": "Die günstige Lage des Burgwalls nutzten im Frühmittelalter auch die Slawen, was Funde typischer slawischer Keramik und weiterer Gegenstände belegen (eine deltoide Pfeilspitze, ein Gürtelbeschlag, ein Messer, ein Teil einer Sense).",
+    "type": "era"
+   },
+   {
+    "year": "um 800 / Beginn des 9. Jahrhunderts",
+    "title": "Bronzener vergoldeter Gürtelbeschlag",
+    "description": "Der bemerkenswerteste Fund ist ein kleiner bronzener vergoldeter Gürtelbeschlag mit stilisiertem Vogelmotiv; er zählt zu den frühkarolingischen Erzeugnissen mit Tierornamentik nach angelsächsischen Vorlagen und wurde wahrscheinlich in Salzburger Werkstätten hergestellt.",
+    "type": "discovery"
+   },
+   {
+    "year": "1928",
+    "title": "Entdeckung des Burgwalls durch Š. Janšák",
+    "description": "Den slawischen Burgwall in unmittelbarer Nähe der Gemeinde Hradec entdeckte Š. Janšák, der auch als Erster seine kurze Beschreibung veröffentlichte.",
+    "type": "discovery"
+   },
+   {
+    "year": "1956",
+    "title": "Archäologische Ausgrabung",
+    "description": "Im Jahr 1956 fand auf dem Burgwall eine archäologische Ausgrabung statt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6423,
+    "alt": "Schwarzweiß-Stich einer Felsenfestung mit Ruinen auf dem Gipfel"
+   },
+   {
+    "mediaId": 3206,
+    "caption": "Zeichnung des Burgwalls nach Š. Janšák aus dem Jahr 1928",
+    "alt": "Zeichnung des Burgwalls nach Š. Janšák aus dem Jahr 1928"
+   },
+   {
+    "mediaId": 3207,
+    "caption": "Foto: Vladislav Padyšák",
+    "alt": "Foto: Vladislav Padyšák"
+   },
+   {
+    "mediaId": 3208,
+    "caption": "Slawische Scherben",
+    "alt": "Slawische Scherben"
+   },
+   {
+    "mediaId": 3209,
+    "alt": "Bewaldeter Hügel des Burgwalls mit Felsen über den Feldern"
+   },
+   {
+    "mediaId": 3210,
+    "alt": "Höhenlinienplan des Burgwalls Hradec bei Prievidza mit eingezeichneten Wällen und Schnitten"
+   },
+   {
+    "mediaId": 3211,
+    "alt": "Zeichnungen von Fragmenten latènezeitlicher Keramik mit Profilen"
+   },
+   {
+    "mediaId": 3212,
+    "alt": "Zeichnerische Rekonstruktion eines latènezeitlichen Gefäßes aus Fragmenten"
+   },
+   {
+    "mediaId": 3213,
+    "alt": "Hügel des Burgwalls mit Felsgrat unter Gewitterhimmel"
+   },
+   {
+    "mediaId": 3214,
+    "caption": "Eisenfunde aus der ersten Hälfte des 9. Jahrhunderts (Fürstentum Neutra)",
+    "alt": "Eisenfunde aus der ersten Hälfte des 9. Jahrhunderts (Fürstentum Neutra)"
+   },
+   {
+    "mediaId": 3215,
+    "alt": "Schwarzweißaufnahme des bronzenen vergoldeten Beschlags mit Umzeichnung des Vogelmotivs"
+   },
+   {
+    "mediaId": 3216,
+    "caption": "Die Reste der Wallbefestigung sind schon relativ unauffällig – Höhe maximal 0,5 Meter",
+    "alt": "Die Reste der Wallbefestigung sind schon relativ unauffällig – Höhe maximal 0,5 Meter"
+   },
+   {
+    "mediaId": 3217,
+    "caption": "Ein weiterer Blick auf den Wall",
+    "alt": "Ein weiterer Blick auf den Wall"
+   },
+   {
+    "mediaId": 3261,
+    "alt": "Wall des Burgwalls im frühlingshaften Laubwald"
+   },
+   {
+    "mediaId": 3262,
+    "alt": "Graben zwischen den Wällen des Burgwalls im grünen Wald"
+   },
+   {
+    "mediaId": 3263,
+    "caption": "Wieder einige Blicke auf den Wall aus einem anderen Winkel",
+    "alt": "Wieder einige Blicke auf den Wall aus einem anderen Winkel"
+   },
+   {
+    "mediaId": 3264,
+    "alt": "Flache Terrasse des Burgwalls, mit Laub bedeckt, zwischen Bäumen"
+   },
+   {
+    "mediaId": 3265,
+    "alt": "Lichter Wald auf der Kuppe des Burgwalls im Frühling"
+   },
+   {
+    "mediaId": 3266,
+    "caption": "Auf dem Gipfel des Burgwalls ragen zwei Andesitfelsen auf",
+    "alt": "Auf dem Gipfel des Burgwalls ragen zwei Andesitfelsen auf"
+   },
+   {
+    "mediaId": 3267,
+    "caption": "Blicke vom Gipfel des Burgwalls",
+    "alt": "Blicke vom Gipfel des Burgwalls"
+   },
+   {
+    "mediaId": 3268,
+    "alt": "Aussicht vom Burgwall auf grüne Hügel, Felder und das Dorf"
+   },
+   {
+    "mediaId": 3269,
+    "alt": "Panorama vom Gipfelfelsen auf das Dorf im Tal"
+   },
+   {
+    "mediaId": 3270,
+    "caption": "Der steinerne Stuhl des Herrn des Burgwalls",
+    "alt": "Der steinerne Stuhl des Herrn des Burgwalls"
+   },
+   {
+    "mediaId": 3271,
+    "alt": "Blick vom Burgwall auf das Dorf und das Gebirge im Hintergrund"
+   },
+   {
+    "mediaId": 3272,
+    "alt": "Hang des Burgwalls im frühlingshaften Wald im Gegenlicht"
+   },
+   {
+    "mediaId": 3273,
+    "caption": "Gesamtansicht des Burgwalls",
+    "alt": "Gesamtansicht des Burgwalls"
+   },
+   {
+    "mediaId": 3274,
+    "caption": "Eine Art Hauptburg",
+    "alt": "Eine Art Hauptburg"
+   },
+   {
+    "mediaId": 3275,
+    "caption": "An diesen Stellen zwischen den beiden Felsen wurde eine Menge von Funden entdeckt",
+    "alt": "An diesen Stellen zwischen den beiden Felsen wurde eine Menge von Funden entdeckt"
+   },
+   {
+    "mediaId": 3276,
+    "caption": "Wieder zwei Blicke auf den Wall",
+    "alt": "Wieder zwei Blicke auf den Wall"
+   },
+   {
+    "mediaId": 3277,
+    "alt": "Lichter Buchenwald auf dem Plateau des Burgwalls"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den slawischen Burgwall in unmittelbarer Nähe der Gemeinde Hradec (Bezirk Prievidza) südlich des Ortes entdeckte Š. Janšák, der auch als Erster seine kurze Beschreibung veröffentlichte. Im Jahr 1956 fand auf dem Burgwall eine archäologische Ausgrabung statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zeichnung des Burgwalls nach Š. Janšák aus dem Jahr 1928",
+    "alt": "Zeichnung des Burgwalls nach Š. Janšák aus dem Jahr 1928",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall liegt auf einem relativ steilen felsigen Hügel, dessen östlicher Teil durch einen alten Steinbruch teilweise gestört ist. Den Gipfel des Hügels bildet ein kleines Plateau, das im Norden und Nordwesten von zwei steilen Andesitfelsen begrenzt wird. Von den übrigen Seiten schließt das Plateau ein niedriger Wall ab, der in einem langgezogenen Bogen beide Felsen verbindet. Etwa in der Mitte ist der Wall von einem Tor unterbrochen, wobei beide Wallarme in das Innere des Areals hineingezogen sind. Während der Untersuchungen gelang es nicht, auf dem Gipfel des Burgwalls mit Schnitten irgendwelche Baubefunde freizulegen. Der Wall bestand aus großen Andesit- und Tuffsteinen, die mit schwarzer Erde vermischt waren, und erreichte zur Zeit der Untersuchung eine Höhe von etwa 50 cm. Der Wall wurde durch das Ausheben einer schmalen Vertiefung an seiner Innenseite aufgeschüttet. In der Kulturschicht fanden sich Gegenstände aus der Latènezeit (der jüngeren Eisenzeit – im Gebiet der heutigen Slowakei vor allem mit den Kelten und den Dakern verbunden) und dann aus dem 8.–9. Jahrhundert, also aus der Zeit der Existenz des Fürstentums Neutra und Großmährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kelten und Daker"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Latènezeit vertreten vor allem Funde von Keramikscherben fassförmiger, vasenförmiger und Vorratsgefäße. In der jüngeren Eisenzeit, konkret um die Mitte des 1. Jahrhunderts v. Chr., erstreckte sich auf der Fundstelle also eine keltisch-dakische befestigte Höhensiedlung, oder genauer eine keltische mit einigen dakischen Elementen. Es ist die nördlichste Anlage, an der dakische Einflüsse zu erkennen sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto: Vladislav Padyšák",
+    "alt": "Foto: Vladislav Padyšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hradec gehört zu den zahlreichen befestigten Höhensiedlungen im gebirgigen Teil der Slowakei, die auf steilen kegelförmigen Hügeln oder unzugänglichen Felsen liegen und durch ihre kleine Fläche gekennzeichnet sind. Die unzureichende Erforschung dieser Höhensiedlungen erlaubt es bisher nicht, ihre ursprüngliche Funktion sicher zu bestimmen. Es konnte sich jedoch um Sitze einer Gruppe von Menschen mit außergewöhnlicher sozialer und wirtschaftlicher Stellung handeln. Im Fall von Hradec fehlen dafür jedoch Funde von Wohn- und Wirtschaftsbefunden. Die Sondagegrabung in Hradec brachte keine Funde, die bestätigen würden, dass die Höhensiedlung in der Zeit der Kelten dauerhafter besiedelt war. Hradec ist deshalb auch als Fliehburg und Wachburg einer nicht weit entfernten Siedlung anzusehen. Die Errichtung dieser kleinen, nicht selten wohl zeitweiligen Befestigungen zeugt sicher von einer unruhigen Zeit und von Bevölkerungsbewegungen. Die kleinen Höhenburgen, die oft in unmittelbarer Nähe ausgedehnter späthallstattzeitlicher befestigter Höhensiedlungen errichtet wurden (Mních bei Ružomberok, Skalka nad Vyšným Kubínom), bestätigen, dass die einzelnen Siedlungen am Ende der Latènezeit und während der römischen Kaiserzeit in diesem Gebiet eine viel kleinere Fläche hatten als die Siedlungen der vorhergehenden Zeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die günstige Lage des Burgwalls nutzten im Frühmittelalter auch die Slawen, was Funde typischer slawischer Keramik und weiterer Gegenstände belegen, auf deren Grundlage sich die großmährische Zeit datieren lässt. Von den Metallgegenständen fanden sich eine deltoide Pfeilspitze mit Dorn und ein kleiner Gürtelbeschlag, weiter ein Teil eines Eimerhenkels und ein meißelförmiger Gegenstand mit Tülle. Ebenfalls gefunden wurden mit Wellenlinien verzierte slawische Scherben, ein gut erhaltenes Messer, ein Teil einer Sense von der Wende des 8. zum 9. Jahrhundert und einige weitere Gegenstände."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Scherben",
+    "alt": "Slawische Scherben",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der bemerkenswerteste Fund aus dem Burgwall ist unbestreitbar ein kleiner bronzener vergoldeter Gürtelbeschlag. Der Beschlag besteht aus zwei horizontal gegeneinander gestellten wappenförmigen Feldern, die durch einen Quersteg verbunden sind, auf dem sich Öffnungen für drei Nieten befinden. Der Beschlag hat eine langgezogene rechteckige Form (Abmessungen 18 × 40 mm). Auf ihm ist ein stilisiertes Motiv eines Vogels mit zurückgewendetem Kopf dargestellt. Der Beschlag ist eine feine Gussarbeit (Dicke 1–1,5 mm), deren Wirkung ein tiefer Kerbschnitt und die Vergoldung unterstreichen, die auf die Verstärkung des optischen Effekts von Licht und Schatten ausgerichtet sind. Vergleichbare Beschläge ordnen wir dem Kreis frühkarolingischer Erzeugnisse mit Tierornamentik nach angelsächsischen Vorlagen zu, die in den Beginn des 9. Jahrhunderts datiert werden. Ein ähnlicher Beschlag wurde zum Beispiel in Modrá, aber zum Beispiel auch in Perugia gefunden. Seine Entstehung datieren die Archäologen um das Jahr 800, und wahrscheinlich wurde er irgendwo in Salzburger Werkstätten hergestellt. In das Gebiet der Slowakei konnte er durch Handel, aber auch als Kriegsbeute oder als Geschenk an einen Adligen aus dem Gebiet der heutigen Slowakei gelangen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Untersuchung in Hradec erbrachte keinen Nachweis, dass die Slawen seine Befestigung errichtet hätten; wahrscheinlicher ist, dass sie die älteren keltischen Wälle reparierten und nutzten. Es ist aber offensichtlich, dass der Burgwall in der Zeit Großmährens die Funktion eines Wachpostens erfüllte, der an einem wichtigen Weg lag, der durch das Neutratal in die Region Turiec und von dort bis in das Krakauer Land führte. In der Umgebung von Prievidza sowie des Turiec konnten am Beginn des 8. Jahrhunderts bedeutende Stammeszentren liegen, die sich allmählich in das Fürstentum Neutra eingliederten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

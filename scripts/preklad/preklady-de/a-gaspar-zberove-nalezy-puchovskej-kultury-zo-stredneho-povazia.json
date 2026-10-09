@@ -1,0 +1,708 @@
+{
+ "slug": "a-gaspar-zberove-nalezy-puchovskej-kultury-zo-stredneho-povazia",
+ "data": {
+  "title": "A. Gašpar: Lesefunde der Púchov-Kultur aus dem mittleren Waagtal",
+  "slug": "a-gaspar-lesefunde-puchov-kultur-mittleres-waagtal",
+  "excerpt": "Anlässlich der Aufstellung einer Informationstafel des Bürgervereins Hradiská übergab S. Flimmelová dem Autor eine Reihe von Funden, die sie unbeabsichtigt während Ausflügen zu bekannten befestigten Höhensiedlungen aufgesammelt hatte. Die Artefakte stammen aus zwei Lagen bei Höhensiedlungen, die in der Literatur bereits erwähnt wurden, deren Keramikmaterial jedoch bisher nicht ausreichend zeichnerisch publiziert war. Die Funde sind im Heimatmuseum in Považská Bystrica aufbewahrt.",
+  "metaTitle": "A. Gašpar: Lesefunde der Púchov-Kultur aus dem Waagtal",
+  "metaDescription": "Fachliche Vorlage von Lesefunden der Púchov-Kultur aus zwei befestigten Höhensiedlungen im mittleren Waagtal in der Bearbeitung von A. Gašpar.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "A. Gašpar",
+    "icon": "users"
+   },
+   {
+    "label": "Fundorte",
+    "value": "Hatné (Hrádek) und Košeca-Nozdrovice (Pod Hradišťom), Bez. Považská Bystrica und Ilava",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Spätlatènezeit bis frühe römische Kaiserzeit, Púchov-Kultur",
+    "icon": "calendar"
+   },
+   {
+    "label": "Funde",
+    "value": "26 Stück Keramik, Bronzefibel des Typs Almgren 237, Webgewicht",
+    "icon": "star"
+   },
+   {
+    "label": "Aufbewahrung",
+    "value": "Heimatmuseum in Považská Bystrica",
+    "icon": "building"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4428,
+    "caption": "Abb. 1. – Lesefunde der Púchov-Kultur aus dem mittleren Waagtal. 1-7 – Hatné (Hrádek); 8-14 – Košeca-Nozdrovice (Pod Hradišťom). 1-7, 10-14 – typische Keramikfunde; 8 – erhaltene Bronzefibel des Typs Almgren 237; 9 - Bruchstück eines Webgewichts.",
+    "alt": "Abb. 1. – Lesefunde der Púchov-Kultur aus dem mittleren Waagtal. 1-7 – Hatné (Hrádek); 8-14 – Košeca-Nozdrovice (Pod Hradišťom). 1-7, 10-14 – typische Keramikfunde; 8 – Bronzefibel des Typs Almgren 237; 9 - Bruchstück eines Webgewichts."
+   },
+   {
+    "mediaId": 4429,
+    "caption": "Abb. 2. – Typische Keramikfunde der Púchov-Kultur aus Košeca-Nozdrovice (Pod Hradišťom).",
+    "alt": "Abb. 2. – Typische Keramikfunde der Púchov-Kultur aus Košeca-Nozdrovice (Pod Hradišťom)."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anlässlich der Aufstellung einer Informationstafel, die der Bürgerverein Hradiská organisierte, hat mir S. Flimmelová die unten angeführten Funde übergeben. Die Gegenstände fand sie unbeabsichtigt während Ausflügen zu bekannten befestigten Höhensiedlungen. Die Artefakte stammen aus zwei Lagen, die zu bereits in der Literatur erwähnten befestigten Höhensiedlungen gehören, aus denen das Keramikmaterial jedoch bisher nicht ausreichend zeichnerisch publiziert wurde. Die Funde sind im Heimatmuseum in Považská Bystrica aufbewahrt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Hatné (Bez. Považská Bystrica), Lage Hrádek – bzw. südlich der Felserhebung am rechten Ufer des Baches Mariková, Siedlung, Aufsammlung, Spätlatènezeit bis frühe römische Kaiserzeit, Púchov-Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch eine nichtselektive Oberflächenaufsammlung wurden aus der bereits bekannten Lage am rechten Ufer des Baches Mariková (Moravčík 1992, 77; Petrovský-Šichman 1965, 68–69) 7 Stück typische Keramik aufgesammelt (Abb. 1: 1–7)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Aufsammlung wurde auf dem angrenzenden Feld (gegenwärtig eine Wiese) in Richtung Süden von der Stelle des ehemaligen Steinbruchs durchgeführt, durch den in der Vergangenheit der größere Teil der etwa 20 m hohen Felserhebung zerstört wurde, auf der sich die gleichzeitige befestigte Höhensiedlung der Púchov-Kultur erstreckte (Moravčík 2002, 10; Petrovský-Šichman 1965, 68–69). Die Information über die Besiedlung der Lage ergänzen auch die unlängst aufgesammelten Funde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1. – Lesefunde der Púchov-Kultur aus dem mittleren Waagtal. 1-7 – Hatné (Hrádek); 8-14 – Košeca-Nozdrovice (Pod Hradišťom). 1-7, 10-14 – typische Keramikfunde; 8 – erhaltene Bronzefibel des Typs Almgren 237; 9 - Bruchstück eines Webgewichts.",
+    "alt": "Abb. 1. – Lesefunde der Púchov-Kultur aus dem mittleren Waagtal. 1-7 – Hatné (Hrádek); 8-14 – Košeca-Nozdrovice (Pod Hradišťom). 1-7, 10-14 – typische Keramikfunde; 8 – Bronzefibel des Typs Almgren 237; 9 - Bruchstück eines Webgewichts.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Beschreibung der Funde",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Mächtiger, umgeschlagener Rand von 6 cm Breite mit drei flachen Rillen – Kragenrand eines großen Vorratsgefäßes (Abb. 1: 1). Innerer Mündungsdurchmesser etwa 35 cm. Die Scherbe ist graubraun, mit Beimengung von Glimmer und mittleren bis sehr groben Quarzkörnern (1–5 mm)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Fragment mit keulenförmigem bis leicht umgeschlagenem Rand eines fassförmigen Topfgefäßes (Abb. 1: 5). Mündungsdurchmesser 21 cm. Die Scherbe ist grau, feinkörnig, mit Beimengung von Graphit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Fragment mit unprofiliertem Rand eines tieferen schalenförmigen Gefäßes mit leicht bikonischer Profilierung (Abb. 1: 4). Mündungsdurchmesser etwa 22 cm. Die Scherbe ist orangebraun, mit mittelgrober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Randfragment einer handgeformten flachen Schale (Abb. 1: 3)? Mündungsdurchmesser etwa 25 cm. Die Scherbe ist graubraun, mit Beimengung von Glimmer und groben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Wandfragment eines Topfgefäßes mit feinem und dichterem, senkrechtem bis leicht zusammenlaufendem Kammstrich (Abb. 1: 7). Die Scherbe ist grauschwarz, im Bruch graubraun, porös, mit mittelgrober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Wandfragment eines Topfgefäßes mit feinen, stellenweise dichten senkrechten Ritzlinien (Abb. 1: 2). Die Scherbe ist von der Außenseite graubraun, von der Innenseite dunkelgrau, geglättet, mit mittelgrober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Wandfragment eines Topfgefäßes mit einem Teil einer eingeritzten Wellenlinie (Abb. 1: 6). Die Scherbe ist von der Außenseite orange, von der Innenseite braun, mit grober, an der Oberfläche deutlich hervortretender Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das gewonnene Siedlungsmaterial aus dem Umland der gleichzeitigen befestigten Höhensiedlung auf der Felserhebung lässt sich (nach der Chronologie in der Arbeit Pieta 1982) in groben Umrissen in das 1. Jahrhundert v. Chr. bis zum Beginn des 1. Jahrhunderts n. Chr. datieren (Stufen LTD – B1a). Der Komplex hat Analogien auch unter den Funden von dem etwa 3 km entfernten Opferplatz in Prosné, der in groben Umrissen der Stufe LTD1 zugeordnet wird (Pieta/Moravčík 1980)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Košeca – Nozdrovice (Bez. Ilava), Lage Pod Hradišťom, Siedlung, Spätlatènezeit bis frühe römische Kaiserzeit, Púchov-Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fundkomplex wurde selektiv aufgesammelt, d. h. es wurden nur ausgewählte Keramikstücke aufgesammelt (größere, mit Verzierung …). Insgesamt enthielt er 21 Stück Keramik, davon 18 St. typische (Abb. 1: 10–14; 2), wobei es bei der Bearbeitung gelang, zwei typische Fragmente zusammenzukleben (Abb. 2: 10), und 3 St. untypische. Weiterhin ein Bruchstück eines Webgewichts (Abb. 1: 9), ein kleineres Stück Eisenschlacke (5 × 2 × 1,5 cm) und eine erhaltene Bronzefibel des Typs Almgren 237, datiert in den Ausgang der Latènezeit bis in die frühe römische Kaiserzeit (Abb. 1: 8)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gegenstände fanden sich am Hang unterhalb des Walls an der Südwestseite des Hügels Hradište/Dúbrava, ausgegraben bei Fuchsbauten (mehreren Gängen), die offenbar einen Befund (Befunde) gestört haben. Im gesamten westlichen Teil des Hangs unterhalb der kleineren Höhenburg der Púchov-Kultur erstreckte sich eine in der Literatur schon vor längerer Zeit erwähnte ausgedehnte gleichzeitige Siedlung (Petrovský-Šichman 1965, 55). Aus der Lage ist heute eine Menge von Funden bekannt – Fibeln und auch Münzen, die von Schatzsuchern gewonnen wurden und die von der Bedeutung der Siedlung und ihrer Lage im Waagtal in weiteren geografischen Zusammenhängen in der Zeit des 1. Jahrhunderts v. Chr. und des 1. Jahrhunderts n. Chr. zeugen (Kolníková 1998; Pieta 2008, 71, 74, Abb. 33)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Beschreibung der typischen Funde",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Erhaltene Bronzefibel mit durchbrochenem Nadelhalter mit einer kreisförmigen und zwei eckigen Öffnungen. Der Bügel ist nahezu gerade, mit einem Knoten beim Nadelhalter und einem zweiten Knoten am oberen Teil des Bügels, am Beginn des trapezförmigen, gewölbten Kopfes. Äußere Sehne, im Haken des Kopfes befestigt. Spiralwicklung zweiseitig, asymmetrisch 3:4. Länge der Fibel: 10,2 cm, Höhe: 2,8 cm (Abb. 1: 8)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Fragment des oberen Teils eines pyramidenförmigen Webgewichts (4,5 × 4,5 × 6,5 cm). Am inneren Bruch hat sich ein Teil der Öffnung erhalten (Abb. 1: 9). An der Oberfläche ist es orangebraun, im Bruch grau bis dunkelorange, aus feinem geschlämmtem Ton hergestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Fragment eines abgerundeten, nach außen ausbiegenden Randes eines fassförmigen Topfgefäßes mit einem erhaltenen kleinen Fragment der Kammstrichverzierung (Abb. 1: 13). Mündungsdurchmesser etwa 30 cm. Die Scherbe ist orangebraun, mit Beimengung von Glimmer und mittelgroben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Fragment eines leicht verdickten Randes eines Topfgefäßes mit einer flachen Rille zwischen Rand und Schulter und mit Kammstrichverzierung (Abb. 1: 12). Mündungsdurchmesser 19 cm. Die Scherbe ist graubraun, mit Beimengung von Glimmer und gröberen Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Fragment eines waagerecht abgestrichenen, leicht nach innen eingezogenen Randes eines Topfgefäßes mit zwei umlaufenden Ritzlinien an der Schulter des Gefäßes (Abb. 1: 10). Mündungsdurchmesser 20 cm. Die Scherbe ist von der Außenseite graubraun, von der Innenseite graubraun bis braunschwarz und im Bruch dunkelorange, mit Beimengung grober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Fragment eines einfachen Randes eines handgeformten schalenförmigen Gefäßes mit einer eingeritzten Linie am Hals und mit senkrecht eingeritzten Linien am Körper (Abb. 1: 14). Mündungsdurchmesser 28 cm. Die Scherbe ist braunschwarz, mit Beimengung grober bis sehr grober Magerung, überwiegend Quarz."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Fragment eines einfachen eingezogenen Randes eines handgeformten fassförmigen Gefäßes (Abb. 1: 11). Mündungsdurchmesser 18 cm. Die Scherbe ist von graubrauner Farbe, mit Beimengung grober bis sehr grober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "8. Fragment vom Übergang zwischen Rand und Schulter eines Topfgefäßes mit einer flachen Rille (Abb. 2: 9). Die Scherbe ist von der Außenseite hellbraun und von der Innenseite braunschwarz, mit Beimengung von Glimmer und gröberen Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "9. Wandfragment eines Topfgefäßes mit zwei senkrecht eingeritzten Linien (Abb. 2: 6). Die Scherbe ist von der Außenseite graubraun und von der Innenseite grau, mit Beimengung von Glimmer und mittelgrober Magerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2. – Typische Keramikfunde der Púchov-Kultur aus Košeca-Nozdrovice (Pod Hradišťom).",
+    "alt": "Abb. 2. – Typische Keramikfunde der Púchov-Kultur aus Košeca-Nozdrovice (Pod Hradišťom).",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "10. Größeres Wandfragment eines handgeformten Topfgefäßes (2 St. zusammengeklebt) mit senkrecht eingeritzten Linien („zerfallener“ Kammstrich; Abb. 2: 10). Die Scherbe ist von der Außenseite rotbraun und von der Innenseite braun, mit Beimengung grober Quarzkörner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "11. Wandfragment eines handgeformten Topfgefäßes mit senkrecht eingeritzten Linien (Abb. 2: 2). Die Scherbe ist von der Außenseite dunkelorange und von der Innenseite schwarz („pechartiger“ Überzug), mit Beimengung grober und sehr grober Quarzkörner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "12. Wandfragment eines handgeformten Topfgefäßes mit senkrecht eingeritzten Linien (Abb. 2: 8). Die Scherbe ist dunkelbraun, mit Beimengung grober Quarzkörner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "13. Fragment der Schulter und der Wand eines Topfgefäßes mit dichtem Kammstrich (Abb. 2: 7). Die Scherbe ist von der Außenseite orangebraun und von der Innenseite braunschwarz, mit Beimengung von Glimmer und groben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "14. Wandfragment eines Topfgefäßes mit dichtem Kammstrich (Abb. 2: 4). Die Scherbe ist von der Außenseite dunkelbraun und von der Innenseite braun, mit Beimengung von Glimmer und groben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "15. Kleineres Wandfragment eines Topfgefäßes mit dichtem Kammstrich (Abb. 2: 5). Die Scherbe ist von der Außenseite orange und von der Innenseite dunkelbraun, mit Beimengung von Glimmer und groben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "16. Kleineres Wandfragment eines Topfgefäßes mit sehr dichtem Kammstrich (Abb. 2: 3). Die Scherbe ist von der Außenseite dunkelbraun und von der Innenseite braunschwarz, mit Beimengung grober Quarzkörner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "17. Größeres Wandfragment eines Vorratsgefäßes, an der Außenseite sind feine Linien erkennbar – Textilabdrücke? (Abb. 2: 1). Die Scherbe ist dunkelbraun, mit Beimengung von Glimmer und mittelgroben Quarzkörnern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "18. Bodenfragment eines auf der Drehscheibe hergestellten kleineren flaschenförmigen Gefäßes mit Andeutungen einer eingeritzten Verzierung (Abb. 2: 11). Bodendurchmesser 4 cm. Die Scherbe ist an der Oberfläche dunkelgrau, im Bruch dunkelbraun, fein geglättet, aus fein geschlämmtem Ton hergestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "19. Bodenfragment eines Vorratsgefäßes (Abb. 2: 12). Bodendurchmesser 33 cm. Die Scherbe ist von der Außenseite graubraun, von der Innenseite und auf beiden Seiten am Boden schwarz („pechartiger“ Überzug), mit Beimengung grober und sehr grober Quarzkörner."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde lassen sich aufgrund der gefundenen Fibel, aber auch aufgrund des breiteren Spektrums des Keramikmaterials in groben Umrissen in die Spätlatènezeit bis in die frühe römische Kaiserzeit datieren. Abschließend ist zu erwähnen, dass die Lage fortwährend von Sondengängern beschädigt wird, weshalb häufigere Begehungen wohl angebracht wären."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "RESÜMEE:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "LESEFUNDE DER PÚCHOV-KULTUR AUS DEM MITTLEREN WAAGTAL. Die Funde fand S. Flimmelová unbeabsichtigt während Ausflügen zu bekannten befestigten Höhensiedlungen. Die Funde stammen aus zwei Lagen, die zu befestigten Höhensiedlungen gehören, die in der Literatur bereits erwähnt wurden. Der Komplex ist im Heimatmuseum in Považská Bystrica aufbewahrt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Hatné (Bez. Považská Bystrica), Lage Hrádek – bzw. südlich der Felserhebung am rechten Ufer des Baches Mariková, Siedlung, Aufsammlung, Spätlatènezeit, Púchov-Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch eine nichtselektive Oberflächenaufsammlung wurden 7 Stück typische Keramik aufgesammelt (Abb. 1: 1–7). Gefunden wurden sie in Richtung Süden von der Felserhebung, auf der sich die gleichzeitige befestigte Höhensiedlung der Púchov-Kultur erstreckte (Moravčík 2002, 10). Der Komplex lässt sich in groben Umrissen in das 1. Jahrhundert v. Chr. bis zum Beginn des 1. Jahrhunderts n. Chr. datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nozdrovice (Bez. Ilava), Lage Pod Hradišťom, Siedlung, Spätlatènezeit bis frühe römische Kaiserzeit, Púchov-Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Komplex wurde selektiv aufgesammelt. Er enthielt außer einem breiteren Spektrum des Keramikmaterials (Abb. 1: 10–14; 2) ein Bruchstück eines Webgewichts (Abb. 1: 9), ein kleineres Stück Eisenschlacke (5 × 2 × 1,5 cm) und eine erhaltene Bronzefibel des Typs Almgren 237 (Abb. 1: 8). Die Funde fanden sich am Hang unterhalb des Walls an der Südwestseite des Hügels Hradište/Dúbrava, ausgegraben bei Fuchsbauten (mehreren Gängen). Aus der Lage ist heute eine Menge von Funden bekannt – Fibeln und auch Münzen, die von Schatzsuchern gewonnen wurden und die von der Bedeutung der Siedlung und ihrer Lage im Waagtal in der Zeit des 1. Jahrhunderts v. Chr. und des 1. Jahrhunderts n. Chr. zeugen (Kolníková 1998; Pieta 2008, 71, 74, Abb. 33)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "AUTOR: A. Gašpar: Zberové nálezy púchovskej kultúry zo stredného Považia. AVANS 2013, im Druck."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

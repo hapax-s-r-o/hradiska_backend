@@ -1,0 +1,461 @@
+{
+ "slug": "turie-hradek",
+ "data": {
+  "title": "Turie – Hrádek, die vor dem Steinbruch gerettete Höhenburg im Tal von Rajec",
+  "slug": "turie-hradek-hoehenburg-tal-von-rajec",
+  "excerpt": "Im Tal von Rajec gibt es mehrere bedeutende archäologische Fundstellen, besonders aber ragt unter ihnen eine Befestigung in der Gemarkung von Turie heraus. Von der älteren Eisenzeit bis ins Hochmittelalter bewachte der Hrádek – mit Unterbrechungen – den Zugang in das Becken von Žilina. Beinahe hätte ihn ein Kalksteinbruch verschlungen: Erst 1949 setzte der örtliche Lehrer Prof. Hollý dem Abbau ein Ende.",
+  "metaTitle": "Turie – Hrádek, Höhenburg im Tal von Rajec",
+  "metaDescription": "Eine bedeutende Befestigung bei Turie im Tal von Rajec, die 1949 nur dank dem Einsatz des örtlichen Lehrers Prof. Hollý vor dem Steinbruch gerettet wurde.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Der Hrádek liegt in der Gemarkung der Gemeinde Turie im verengten Teil des Tals von Rajec, wo er den Zugang in das Becken von Žilina bewachte.",
+    "icon": "map"
+   },
+   {
+    "label": "Art der Befestigung",
+    "value": "Wälle haben sich keine erhalten – den Hrádek schützte wohl nur eine hölzerne Palisade, die die von Natur aus geschützte Lage mit steilen Hängen nutzte.",
+    "icon": "shield"
+   },
+   {
+    "label": "Einzigartiger Fund",
+    "value": "Eine Münze Georgs von Podiebrad aus der zweiten Hälfte des 15. Jahrhunderts gehört zu den wertvollsten Funden der Fundstelle.",
+    "icon": "star"
+   },
+   {
+    "label": "Römischer Import",
+    "value": "Auf dem Hrádek gelang es auch, Scherben importierter Keramik aus den römischen Provinzen zu entdecken.",
+    "icon": "custom"
+   },
+   {
+    "label": "Schriftquellen",
+    "value": "Über die Burgwälle dieses Gebiets berichten fränkische Schriftquellen bereits aus dem 9. Jahrhundert.",
+    "icon": "book"
+   },
+   {
+    "label": "Älteste schriftliche Erwähnung der Siedlung",
+    "value": "1416 wird in den Quellen die Adelssiedlung Tres Curiae – Drei Höfe erwähnt, die später an die Gemeinde Turie angeschlossen wurde.",
+    "icon": "book"
+   },
+   {
+    "label": "Rettung der Fundstelle",
+    "value": "1949 stoppte der örtliche Lehrer Prof. Hollý den Kalkabbau in dem Steinbruch, der den ganzen Hügel mit der Befestigung zu zerstören drohte.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Erforschung der Fundstelle",
+    "value": "Den Hrádek untersuchten in der neueren Geschichte Dr. Anton Petrovský-Šichman, Ondrej Šedo und Dr. Karol Pieta.",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ausgang der Spätbronzezeit",
+    "title": "Mögliche Entstehung der ältesten Befestigung",
+    "description": "Es lässt sich nicht ausschließen, dass die erste Befestigung auf dem Hrádek bereits am Ausgang der Spätbronzezeit entstand.",
+    "type": "founding"
+   },
+   {
+    "year": "ältere Eisenzeit",
+    "title": "Entstehung der ersten Befestigung",
+    "description": "Die ältesten Scherbenfunde der Lausitzer Kultur datieren mindestens in die ältere Eisenzeit, als hier offenbar die erste Befestigung entstand.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Befestigung des Volkes der Púchov-Kultur",
+    "description": "In den Tälern der Nordslowakei saß das Volk der Púchov-Kultur, das auf dem Hrádek in Turie eine kleine Befestigung zum Schutz der örtlichen Bevölkerung errichtete.",
+    "type": "construction"
+   },
+   {
+    "year": "Beginn des 1. Jahrhunderts n. Chr.",
+    "title": "Untergang der Befestigung beim Einfall der Germanen",
+    "description": "Der Einfall der Germanen zerstörte praktisch alle Befestigungen der Púchov-Kultur, darunter auch den Hrádek in Turie.",
+    "type": "destruction"
+   },
+   {
+    "year": "1.–2. Jahrhundert n. Chr.",
+    "title": "Erneuerung der Befestigung in der älteren römischen Kaiserzeit",
+    "description": "Der Hrádek wurde erneut hergerichtet und weist Funde aus dem 1.–2. Jahrhundert n. Chr. auf, darunter Scherben importierter römischer Keramik.",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert n. Chr.",
+    "title": "Erneute Nutzung als Befestigung",
+    "description": "Die Lage wurde neben weiteren kleineren Befestigungen der Region wieder als Befestigung genutzt; über die Burgwälle berichten fränkische Schriftquellen des 9. Jahrhunderts.",
+    "type": "era"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Belege für eine fortdauernde Besiedlung",
+    "description": "Auch in den Jahrhunderten nach dem Zerfall Großmährens gibt es an der Fundstelle Belege für eine Besiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "14.–15. Jahrhundert",
+    "title": "Höhepunkt der mittelalterlichen Besiedlung",
+    "description": "Die Besiedlung des Hrádek erreichte ihren Höhepunkt; aus dieser Zeit stammen die meisten Funde von Keramik und von Eisengegenständen.",
+    "type": "era"
+   },
+   {
+    "year": "1416",
+    "title": "Erste schriftliche Erwähnung der Siedlung Tres Curiae",
+    "description": "In den Schriftquellen wird die Adelssiedlung Tres Curiae – Drei Höfe erwähnt, die später an die Gemeinde Turie angeschlossen wurde.",
+    "type": "event"
+   },
+   {
+    "year": "zweite Hälfte des 15. Jahrhunderts",
+    "title": "Fund einer Münze Georgs von Podiebrad",
+    "description": "Auf dem Hrádek wurde eine einzigartige Münze Georgs von Podiebrad aus der zweiten Hälfte des 15. Jahrhunderts gefunden.",
+    "type": "discovery"
+   },
+   {
+    "year": "Wende vom 16. zum 17. Jahrhundert",
+    "title": "Kurzzeitige neuzeitliche Besiedlung",
+    "description": "Der Hrádek wurde kurzzeitig genutzt, wie Funde von Ofenkacheln mit gelbgrüner Glasur und Scherben glasierter Töpfe belegen.",
+    "type": "event"
+   },
+   {
+    "year": "1949",
+    "title": "Einstellung des Steinabbaus",
+    "description": "Dank dem örtlichen Lehrer Prof. Hollý wurde im Jahr 1949 der Kalkabbau in dem Steinbruch eingestellt, der den ganzen Hügel mit der Befestigung bedrohte.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2327,
+    "alt": "Aquarell eines weiten Tals mit Dorf, Feldern und einer Felsenburg im Hintergrund"
+   },
+   {
+    "mediaId": 2328,
+    "caption": "Das Aussehen des Hrádek im 19. Jahrhundert",
+    "alt": "Das Aussehen des Hrádek im 19. Jahrhundert"
+   },
+   {
+    "mediaId": 2329,
+    "caption": "Der Hrádek in den 1980er Jahren",
+    "alt": "Der Hrádek in den 1980er Jahren"
+   },
+   {
+    "mediaId": 2330,
+    "caption": "Anfang des 20. Jahrhunderts",
+    "alt": "Anfang des 20. Jahrhunderts"
+   },
+   {
+    "mediaId": 2331,
+    "caption": "Slawische Scherben, die P. Šichman auf der Burganlage fand",
+    "alt": "Slawische Scherben, die P. Šichman auf der Burganlage fand"
+   },
+   {
+    "mediaId": 2332,
+    "caption": "Keltische Fibel (Pieta 2020)",
+    "alt": "Keltische Fibel (Pieta 2020)"
+   },
+   {
+    "mediaId": 2333,
+    "caption": "Zwei Aufnahmen, zwischen denen vier Jahrzehnte liegen. Untere Aufnahme: Naj",
+    "alt": "Zwei Aufnahmen, zwischen denen vier Jahrzehnte liegen. Untere Aufnahme: Naj"
+   },
+   {
+    "mediaId": 2334,
+    "alt": "Ein Felsen über einer Wiese und einem Nadelwald"
+   },
+   {
+    "mediaId": 2335,
+    "alt": "Eine schneebedeckte Wiese unter dem Felsen der Burganlage"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Tal von Rajec haben wir mehrere bedeutende archäologische Fundstellen, besonders aber ragt unter ihnen eine Befestigung heraus, die in der Gemarkung der Gemeinde Turie liegt. Leider blieb auch dieser die ungünstige Hand des Schicksals nicht erspart: Einige Jahre bestand hier ein Steinbruch, in dem Kalkstein für das Zementwerk Lietavská Lúčka gebrochen wurde. Dank dem örtlichen Lehrer, Prof. Hollý, wurde der Steinabbau im Jahr 1949 eingestellt. Andernfalls wäre allmählich der ganze Hügel verschwunden, auf dem sich eine wichtige urgeschichtliche Befestigung befindet, die in mehreren Zeitabschnitten genutzt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Turské skaly",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle ist bereits seit dem Beginn des 20. Jahrhunderts bekannt. Die Befestigung entstand hier als Wachobjekt am Zugang in das Becken von Žilina (Sillein), frühestens in der älteren Eisenzeit, und wurde mit Unterbrechungen bis in die Zeit des Hochmittelalters genutzt. Die vorteilhafte Lage im verengten Teil des Tals von Rajec ermöglichte einen guten Schutz vor dem Feind. Funde von Keramikscherben, von Eisengegenständen und durchgebrannte Schichten von Brandlehm sprechen von einer intensiven Besiedlung der Lage, aber auch von ihrer mehrfachen Zerstörung. Ausgeprägte Wälle haben sich hier nicht erhalten, deshalb ist es mehr als wahrscheinlich, dass den Hrádek am ehesten eine hölzerne Palisade schützte, die die von Natur aus geschützte Lage mit ihren steilen Hängen nur noch betonte. Die Befestigung wurde über einen sehr langen Zeitraum genutzt, auch wenn sicherlich nicht ununterbrochen, denn die aus dieser Lage gewonnenen Funde bestätigen das bislang nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältesten Scherbenfunde der Lausitzer Kultur lassen sich mindestens in die ältere Eisenzeit datieren, als hier offenbar die erste Befestigung entstand. Es lässt sich jedoch nicht ausschließen, dass dies bereits in einer älteren Periode geschah – am Ausgang der Spätbronzezeit. Ein weiterer bedeutender Zeitraum, in dem der Hrádek erneut zum Schutz des umliegenden Gebiets genutzt wurde, ist vor allem das 1. Jahrhundert v. Chr. Damals saß in den Tälern der Nordslowakei das Volk der Púchov-Kultur, das hier Dutzende solcher kleinen Befestigungen, aber auch große zentrale befestigte Höhensiedlungen hinterließ. Eine dieser Befestigungen befand sich gerade auf dem Hrádek in Turie. Auch die umliegenden Ackerflächen auf der Süd- und Südostseite der Befestigung weisen intensive Siedlungsfunde auf – kleine Scherben, oft durch die langjährige Pflugarbeit und die Witterungsverhältnisse stark abgerollt. Das ist ebenfalls typisch für das 1. Jahrhundert v. Chr., als neben der Siedlung der Púchov-Kultur am Ende des Jahrhunderts eine kleine Befestigung entstand, die die örtliche Bevölkerung vor einem äußeren Feind schützen sollte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Aussehen des Hrádek im 19. Jahrhundert",
+    "alt": "Das Aussehen des Hrádek im 19. Jahrhundert",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie uns die Ergebnisse der bisherigen Beobachtungen jedoch sagen, widerstand keine einzige Befestigung dem Einfall der Germanen, die irgendwann zu Beginn des 1. Jahrhunderts n. Chr., beziehungsweise in den ersten zwei Jahrzehnten der neuen Zeitrechnung kamen. Damals gingen praktisch alle Befestigungen der Púchov-Kultur unter, einschließlich der großen zentralen befestigten Höhensiedlungen wie Liptovská Mara – Havránok, Divinka – Veľký vrch, Púchov – Skalka und weiterer. Nur einige von ihnen wurden auch in der folgenden Periode – in der älteren römischen Kaiserzeit – wieder erneuert. Zu diesen können wir erneut auch den Hrádek in Turie zählen, der Funde aufweist, die ebenfalls in das 1.–2. Jahrhundert n. Chr. datiert werden. Es gelang hier sogar, Scherben importierter Keramik aus den römischen Provinzen zu entdecken. Die Erneuerung der Befestigung spielte sich offenbar in einem kurzen Zeitabschnitt ab, denn aus der jüngeren römischen Kaiserzeit (3.–4. Jahrhundert n. Chr.) fehlen die Funde wieder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch im 9. Jahrhundert n. Chr. wurde diese Lage nicht vergessen, denn auch damals wurde sie wieder als Befestigung genutzt. Damals entstanden ähnliche kleinere Befestigungen auch an anderen strategischen Lagen, vor allem an jenen Stellen, an denen später die ersten mittelalterlichen Burgen errichtet wurden (Strečno, Hričov, Lednica, Vršatec). Der bedeutendste Burgwall befand sich jedoch erneut in Divinka auf dem Veľký vrch. Er erfüllte die Aufgabe eines zentralen Objekts des gesamten Beckens von Žilina und von Bytča, so wie es schon in den vorangehenden Perioden in der Spätbronzezeit und am Ende der jüngeren Eisenzeit der Fall war. Kleinere Befestigungen – kleine Höhenburgen – ergänzten nur das Gesamtsystem der Verteidigung, das aus bedeutenden großen Burgwällen bestand. Diese werden sogar in fränkischen Schriftquellen des 9. Jahrhunderts erwähnt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Gebiet Großmährens werden damals mindestens dreißig Burgwälle erwähnt, wie viele es aber von diesen kleineren Befestigungen gab, darüber können wir nur Vermutungen anstellen. Ohne eine ausführliche archäologische Ausgrabung sind wir nicht in der Lage zu bestimmen, ob auch die kleine Höhenburg in Turie nach dem Zerfall Großmährens unterging, denn bereits in den folgenden Jahrhunderten, dem 10.–11., haben wir hier wieder Belege für eine Besiedlung. Es ist daher möglich anzunehmen, dass die Besiedlung dieser Lage auch in dieser Zeit ununterbrochen fortdauerte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Hrádek in den 1980er Jahren",
+    "alt": "Der Hrádek in den 1980er Jahren",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier konnte sich bereits eine frühmittelalterliche kleine Burg des neu entstehenden mittelalterlichen Adels befinden, denn die Besiedlung der Lage dauerte auch in der folgenden Periode fort und erreichte im 14.–15. Jahrhundert ihren Höhepunkt. Aus diesem Zeitabschnitt stammen bisher auch die meisten Funde, nicht nur Keramikscherben, sondern auch Eisengegenstände. Neben den gewöhnlichen, oft unbestimmbaren Fragmenten sind es vor allem eiserne Messer, Armbrustbolzen, Nägel und Beschläge. Das Metallinventar ergänzt auch eine eiserne Gürtelschnalle, und ein einzigartiger Fund ist eine Münze Georgs von Podiebrad aus der zweiten Hälfte des 15. Jahrhunderts. Wie dieser Fund in das Gebiet der heutigen Slowakei gelangte, ist nicht bekannt. Er konnte Teil des Handelsaustausches zwischen der hiesigen Bevölkerung und den benachbarten Gemeinden auf der östlichen Seite Mährens gewesen sein. Oder auch Beute eines örtlichen Feudalherren, der an einem Kriegszug des Königs Matthias Corvinus teilnahm. Dieser griff häufig die Grenzgebiete Mährens an, er schloss dieses Gebiet, aber auch einen Teil Österreichs für kurze Zeit sogar an das Königreich Ungarn an."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Anfang des 20. Jahrhunderts",
+    "alt": "Anfang des 20. Jahrhunderts",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine dritte Möglichkeit ist die Ankunft einer Gruppe von Bewohnern aus dem Gebiet Mährens im Tal von Rajec mit dem Ziel, sich in diesem Raum dauerhaft niederzulassen. Diese konnten mit ihrem Besitz auch böhmisches Geld mitbringen. Als weitere Möglichkeit bleibt noch, dass es eine Münze ist, die hier die Heere der Bratríci hinterlassen konnten, die sich auf dem Gebiet der Slowakei über zwanzig Jahre lang bewegten, und das auch in der Zeit der Herrschaft von Matthias Corvinus und Georg von Podiebrad. Daher ist es nicht unwahrscheinlich, dass auch diese kleine Höhenburg von den Bratríci besetzt wurde und sie sich hier ein Feldlager errichteten, von dem aus sie ihre Züge in die weitere Umgebung unternahmen. Solcher Befestigungen der Bratríci wurden auf dem Gebiet der Slowakei mehrere festgestellt – z. B. Gajary in der Westslowakei, Zelená hora bei Hrabušice in der Ostslowakei. Bei uns in der Mittelslowakei können wir dazu die Bašta bei der Burg Strečno, das Hradisko in Gbeľany, die Posádka in Budatínska Lehota und weitere zählen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Scherben, die P. Šichman auf der Burganlage fand",
+    "alt": "Slawische Scherben, die P. Šichman auf der Burganlage fand",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kurzzeitig wurde der Hrádek in Turie offenbar auch an der Wende vom 16. zum 17. Jahrhundert genutzt, denn in diese Zeit lassen sich Funde von Ofenkacheln mit gelbgrüner Glasur einordnen, die von einem Kachelofen stammen. Diese Funde stehen hier jedoch nicht allein, denn neben ihnen fanden sich auch mehrere Scherben glasierter Töpfe. Welchen Umfang diese neuzeitliche Besiedlung hatte, können wir ohne eine umfassende archäologische Ausgrabung nicht mit Sicherheit sagen. Es lässt sich aber auch nicht ausschließen, dass hier der Sitz eines örtlichen Landadligen – eines kleineren Feudalherren – war, denn bereits im Jahr 1416 wird in den Schriftquellen die Adelssiedlung Tres Curiae – Drei Höfe erwähnt, die erst in der Mitte des 19. Jahrhunderts an die Gemeinde Turie angeschlossen wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da das gesamte Tal von Rajec im Wesentlichen zur Herrschaft Lietava gehörte, die ihren Hauptsitz auf der Burg Lietava hatte, konnte sich auf der kleinen Höhenburg in Turie nur ein örtlicher Verwalter aufhalten. Unter seiner Aufsicht hatte er die Siedlungen in unmittelbarer Nähe – Turie und Višňové. Zudem befand sich in Višňové auch ein zu Lietava gehörender Meierhof."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keltische Fibel (Pieta 2020)",
+    "alt": "Keltische Fibel (Pieta 2020)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So schloss sich das Schicksal der kleinen Höhenburg in Turie und sie blieb mehrere Jahrhunderte begraben, bis sich ihr zunächst Laiensucher und Altertümersammler und dann berufsmäßige Archäologen zu widmen begannen. In der neueren Geschichte untersuchten den Hrádek Dr. Anton Petrovský-Šichman, Ondrej Šedo und Dr. Karol Pieta."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Leider widmen dieser außergewöhnlichen Fundstelle ihre „fachliche“ Aufmerksamkeit auch verschiedene Schatzsucher, die das Gelände der Befestigung schon recht stark beschädigt haben, wobei nur einige von ihnen auch mit ihren Funden in unser Museum kamen, um sich zu rühmen. Tatsächlich befinden sich hier keine Schätze von solchem Wert, wie ihn diese „Forscher“ erwarteten. Es geht hier eher um „Schätze“ historischen Wertes – Keramik, kleine Gegenstände, den Befund, der jedoch durch unfachmännische Eingriffe deutlich vernichtet wird. Und wenn es in der Zukunft gelingt, auf dem Hrádek eine archäologische Ausgrabung durchzuführen, werden wir sicher unangenehm überrascht sein, was hier in den letzten hundert Jahren alles zerstört werden konnte. Den Steinbruch konnte man aufhalten, die menschliche Eitelkeit aber nicht! Sie weiß alle Hindernisse zu überwinden und vermag der Vision des „Reichtums“ auch dann nachzugehen, wenn diese und ähnliche archäologische Denkmäler unserer fernen Vergangenheit keine materiellen Güter bieten, die man zu Geld machen könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zwei Aufnahmen, zwischen denen vier Jahrzehnte liegen. Untere Aufnahme: Naj",
+    "alt": "Zwei Aufnahmen, zwischen denen vier Jahrzehnte liegen. Untere Aufnahme: Naj",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Scherben zerbrochener Gefäße und kleine, oft beschädigte Fragmente von Eisengegenständen haben noch niemandem Ruhm oder Reichtum gebracht. Deshalb rufen wir auch auf diesem Wege die breite Öffentlichkeit auf, das Areal der Befestigung nicht zu zerstören, denn hier befindet sich ein bedeutendes Denkmal der ältesten Geschichte des Tals von Rajec, das in ferner Vergangenheit mehrmals zu einer ausgeprägten Landmarke seines nördlichen Teils wurde. Das Tal von Rajec ist an solchen Denkmälern nicht reich. Deshalb sollten wir auch den kleinsten Beleg unserer Vergangenheit schützen. Denn die rücksichtslose Zerstörung solcher Objekte verarmt uns deutlich und reiht uns unter jene unkultiviert handelnden Gruppen von Geschöpfen ein, die sich "
+       },
+       {
+        "type": "text",
+        "text": "Homo sapiens",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – der weise Mensch – nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

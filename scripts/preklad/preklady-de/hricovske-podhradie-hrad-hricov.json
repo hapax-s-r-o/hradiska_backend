@@ -1,0 +1,199 @@
+{
+ "slug": "hricovske-podhradie-hrad-hricov",
+ "data": {
+  "title": "Hričovské Podhradie – die Burg Hričov auf einem viel älteren Burgberg",
+  "slug": "hricovske-podhradie-burg-hricov-burgberg",
+  "excerpt": "Die Burg Hričov hat eine lange und reiche Geschichte, die weit vor die Entstehung der gemauerten mittelalterlichen Burg zurückreicht. Archäologische Funde, die bereits am Ende der 40er Jahre des 20. Jahrhunderts entdeckt wurden, belegen eine viel ältere Besiedlung des Burgbergs: die Lausitzer Kultur der jüngeren Bronzezeit bis älteren Eisenzeit, vor allem aber die Púchov-Kultur vom Spätlatène bis zur älteren römischen Kaiserzeit, dazu slawische Keramik des 9. bis 11. Jahrhunderts.",
+  "metaTitle": "Hričov – Burgberg schon vor der mittelalterlichen Burg besiedelt",
+  "metaDescription": "Der Burgberg von Hričov war lange vor der gemauerten Burg besiedelt – die Funde reichen von der älteren Eisenzeit über die Púchov-Kultur bis zu den Slawen.",
+  "keyFacts": [
+   {
+    "label": "Höhle unter der Burg",
+    "value": "Etwa 15 m lang, mit einer Grube von 6 × 3,5 m und etwa 5 m Tiefe vor dem oberen Eingang",
+    "icon": "mountain"
+   },
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "Jahr 1254 – König Béla IV. schenkte die Burg Toluš, dem Sohn des Farkaš",
+    "icon": "book"
+   },
+   {
+    "label": "Älteste Besiedlung",
+    "value": "Funde der Lausitzer Kultur aus der jüngeren Bronzezeit bis älteren Eisenzeit",
+    "icon": "shield"
+   },
+   {
+    "label": "Púchov-Kultur",
+    "value": "Die meisten Funde vom Burgberg gehören der Púchov-Kultur vom Spätlatène bis zur älteren römischen Kaiserzeit an",
+    "icon": "star"
+   },
+   {
+    "label": "Einzigartiger Fund",
+    "value": "Eiserne Zange, 1961 gefunden – der erste Fund dieser Art in der Nordslowakei, heute Teil der Ausstellung in Púchov",
+    "icon": "custom"
+   },
+   {
+    "label": "Besitz des Bistums",
+    "value": "Hričov gehörte bereits seit dem Jahr 1208 dem Bistum Neutra",
+    "icon": "map"
+   },
+   {
+    "label": "Kleine Befestigung Dúbravy",
+    "value": "Oberhalb von Dolný Hričov liegt in der Lage Dúbravy eine kleinere Befestigung als Pendant zur mittelalterlichen Burg",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1208",
+    "title": "Hričov im Besitz des Bistums Neutra",
+    "description": "Das Gut Hričov war bereits zu Beginn des 13. Jahrhunderts (1208) Besitz des Bistums Neutra.",
+    "type": "event"
+   },
+   {
+    "year": "1254",
+    "title": "Erste schriftliche Erwähnung der Burg Hričov",
+    "description": "Die Burg wird erstmals im Jahr 1254 erwähnt, als sie König Béla IV. Toluš, dem Sohn des Farkaš, schenkte.",
+    "type": "founding"
+   },
+   {
+    "year": "1947",
+    "title": "Erste archäologische Funde an Budinský-Krička übergeben",
+    "description": "A. Petrovský-Šichman übergab die ersten Funde vom Burgberg Prof. V. Budinský-Krička, der sie der älteren Eisenzeit zuordnete; im selben Jahr entdeckte er auf dem Burgberg auch die erste slawische Keramik.",
+    "type": "discovery"
+   },
+   {
+    "year": "1949",
+    "title": "Erster Schnitt auf dem Mikov kopec",
+    "description": "A. Petrovský-Šichman legte an der Fundstelle Mikov kopec – Burgberg den ersten Schnitt an, in dem außer Scherben der Púchov-Kultur auch Fragmente slawischer Keramik und ein einzigartiger steinerner Spinnwirtel gefunden wurden; in diesem Jahr kamen hier auch weitere Hinterlassenschaften der Púchov-Kultur zum Vorschein.",
+    "type": "discovery"
+   },
+   {
+    "year": "1959",
+    "title": "Weiterer Fund slawischer Keramik",
+    "description": "F. Kvasník entdeckte auf dem Burgberg weitere slawische Keramik.",
+    "type": "discovery"
+   },
+   {
+    "year": "1961",
+    "title": "Fund einer eisernen Zange in der Höhle",
+    "description": "František Kvasník fand in der Höhle neben der Burg eine eiserne Zange und ein Fragment einer Drehmühle; die Zange wurde zum ersten Fund ihrer Art in der Nordslowakei und zu einem Teil der Ausstellung zur Púchov-Kultur in Púchov.",
+    "type": "discovery"
+   },
+   {
+    "year": "1969",
+    "title": "Fund mittelalterlicher Keramik in der Höhle",
+    "description": "Schüler der Berufsschule für Hochbau fanden in der Höhle des Burgfelsens Keramik, die in das 10.–11. und in das 12.–13. Jahrhundert datiert wird.",
+    "type": "discovery"
+   },
+   {
+    "year": "1993",
+    "title": "Archäologische Untersuchung der Höhle unter der Burg",
+    "description": "Mitglieder des archäologischen Zirkels aus Považská Bystrica untersuchten am 25. 8. 1993 die Höhle unter der Burg, aus der die eiserne Zange stammt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6438,
+    "alt": "Aquarell einer Burgruine auf einem Felsberg über einem weiten Tal"
+   },
+   {
+    "mediaId": 2541,
+    "caption": "Hričov auf einem Kupferstich von Justus van der Nypoort",
+    "alt": "Hričov auf einem Kupferstich von Justus van der Nypoort"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg Hričov hat eine lange und reiche Geschichte, die noch weiter zurückreicht als die Entstehung der gemauerten mittelalterlichen Burg. Archäologische Funde, die bereits am Ende der 40er Jahre des 20. Jahrhunderts entdeckt wurden, belegen eine viel ältere Besiedlung des Burgbergs als Mittelalter und Neuzeit. Die ersten davon übergab A. Petrovský-Šichman schon im Jahr 1947 Prof. V. Budinský-Krička, und dieser ordnete sie der älteren Eisenzeit zu. Ähnliche Hinterlassenschaften entdeckte auch O. Šedo in der Lage Komíny (Kote 532), die sich nördlich der Burg befindet. Alle diese Funde lassen sich in den Rahmen der Lausitzer Kultur einordnen, die in der jüngeren Bronzezeit bis zur älteren Eisenzeit die Besiedlung der Nordslowakei vertritt. Die meisten Hinterlassenschaften vom Burgberg gehören der Púchov-Kultur an. Sie werden vor allem durch Fragmente von Gefäßen mit senkrechter Riefung vertreten, die gerade für die Keramik der Púchov-Kultur aus der Zeit des Spätlatène typisch ist. Zu ihnen lassen sich auch Fragmente großer tönerner Vorratsgefäße zählen, in denen die damalige Bevölkerung der Nordslowakei ihre Nahrungsvorräte aufbewahrte. Die Funde von Keramik der Púchov-Kultur aus der Zeit des Spätlatène bis zur älteren römischen Kaiserzeit, die auf dem Gebiet von Hričovské Podhradie entdeckt wurden, sind ein Beweis dafür, dass dieses Gebiet am Ende der alten und zu Beginn der neuen Zeitrechnung bereits zusammenhängend besiedelt war. Hinterlassenschaften der Púchov-Kultur kamen auf dem Burgberg, der auch den Namen Mikov kopec trägt, auch im Jahr 1949 zum Vorschein. Mehrere auf dem Burgberg gefundene Keramikfunde der Púchov-Kultur übergab dem Považské-Museum auch der langjährige Mitarbeiter des Museums Štefan Meliš aus Považská Bystrica, und die meisten von ihnen gehören wiederum in den Kreis der Púchov-Kultur, vor allem aus der Zeit des Spätlatène und aus der älteren römischen Kaiserzeit. Im Jahr 1961 fand František Kvasník in der Höhle neben der Burg eine eiserne Zange und ein Fragment einer Drehmühle, die sich ebenfalls in den Kreis der Hinterlassenschaften der Púchov-Kultur einordnen lassen. Die eiserne Zange wurde damals überhaupt zum ersten Fund dieser Art in der ganzen Nordslowakei und wurde deshalb auch Teil der Ausstellung zur Púchov-Kultur in Púchov. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hričov auf einem Kupferstich von Justus van der Nypoort",
+    "alt": "Hričov auf einem Kupferstich von Justus van der Nypoort",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der letzten Begehungen des Areals der Burg Hričov führten Mitglieder des archäologischen Zirkels aus Považská Bystrica am 25. 8. 1993 durch, als auch die Höhle unter der Burg untersucht wurde, aus der die eiserne Zange stammt. Die Höhle ist etwa 15 m lang, und vor ihrem oberen Eingang war eine Grube von etwa 6 × 3,5 m Größe und ungefähr 5 m Tiefe ausgehoben, die alle Siedlungsschichten auf dem Burgberg durchschnitten hatte. Die Grube hob der örtliche Bürger Kabašta aus, der regelmäßig hierher kam und offenbar auch archäologische Funde mitnahm. Anhand der einzelnen Schichten ließ sich der Befund auf dem Burgberg wenigstens teilweise rekonstruieren. In der untersten Schicht lagen Hinterlassenschaften aus der Zeit des Spätlatène – also der Púchov-Kultur, in der Mitte des Aushubs befanden sich bereits Funde slawischer Keramik und in den oberen Schichten mittelalterliche Keramik. So wie die einzelnen Siedlungsschichten anwuchsen, füllte sich auch der Raum vor der Höhle, und so gelangten einige Funde auch in ihre Innenräume."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste slawische Keramik entdeckte auf dem Burgberg A. Petrovský-Šichman schon im Jahr 1947 und danach F. Kvasník im Jahr 1959. Im Jahr 1949 legte A. Petrovský-Šichman an der Fundstelle Mikov kopec – Burgberg den ersten Schnitt an, in dem außer Scherben der Púchov-Kultur auch Fragmente slawischer Keramik sowie ein einzigartiger steinerner Spinnwirtel von einer Spindel zum Aufwickeln des Garns gefunden wurden. Auch im Jahr 1969 fanden Schüler der Berufsschule für Hochbau in der Höhle des Burgfelsens Keramik aus mehreren Zeitabschnitten des Mittelalters, datiert in das 10.–11. Jahrhundert und dann in das 12.–13. Jahrhundert. Unter den von Š. Meliš an das Považské-Museum in Žilina (Sillein) übergebenen Funden befanden sich außer älteren Hinterlassenschaften auch Gefäßfragmente aus dem 9.–10. Jahrhundert und dann aus dem 10.–11. Jahrhundert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hričovské Podhradie – die Burg Hričov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wiederholt belegten Zeugnisse einer Besiedlung des Burgbergs vor der Entstehung der eigentlichen Burg, die erst im Jahr 1254 erwähnt wird, als sie König Béla IV. Toluš, dem Sohn des Farkaš, schenkte, sprechen eine klare Sprache davon, dass hier viel früher als in der Mitte des 13. Jahrhunderts eine ältere Befestigung bestanden haben könnte und erst danach die mittelalterliche Burg entstehen konnte. Von Funden mittelalterlicher Keramik spricht auch der Bericht von Prof. V. Budinský-Krička bei der Publikation des Bestandes an Hinterlassenschaften, die das Staatliche Archäologische Institut in den Jahren 1946–1947 gewonnen hatte. So scheint es, dass die Besiedlung des Burgbergs ununterbrochen auch in den folgenden Perioden fortdauerte, aus denen bereits schriftliche Quellen zur Verfügung stehen. Als Pendant zur mittelalterlichen Burg lässt sich auch die kleine Befestigung oberhalb von Dolný Hričov in der Lage Dúbravy zuordnen. Die kleinere Befestigung befindet sich auf dem Scheitel des Hügels, unmittelbar über der Kreuzung der Waagtalstraße mit ihrem kürzeren Ast, der über Ovčiarsko nach Žilina führt. Der westliche Fuß des Hügels trägt den Namen „Imramovec“, woraus A. Petrovský-Šichman ableitete, dass dieser Begriff vom Namen des hl. Emmeram stammt, dem der älteste christliche Bau auf dem Gebiet der Slowakei in Pribinas Nitrava geweiht war. Da das Gut Hričov bereits zu Beginn des 13. Jahrhunderts (1208) Besitz des Bistums Neutra war, konnte auch hier eine dem hl. Emmeram geweihte Kirche stehen. Der letzte Beitrag zur Besiedlung des Gebiets ist der Fund slawischer Keramik aus dem 9. und vielleicht auch aus dem 10. Jahrhundert im Bereich des Baus der Produktionshalle der Firma VITACO. Auch diese Funde stützen die Annahme einer langfristigen slawischen Besiedlung des Gebiets vor der Entstehung der eigentlichen Burg, mit deren Bau erst viel später, in der Mitte des 13. Jahrhunderts, begonnen wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,193 @@
+{
+ "slug": "o-starom-kristofovi",
+ "data": {
+  "title": "Vom alten Krištof – eine Sage vom Burgwall Kamenec",
+  "slug": "sage-vom-alten-kristof-burgwall-kamenec",
+  "excerpt": "Mit Zustimmung der Autorin Iveta Géczyová bringen wir die zweite Sage, die sich an den Burgwall Kamenec pod Vtáčnikom bindet: Der verwitwete Krištof holt im Jahr 1650 Holz im Wald des Burgherrn, wird dafür mit der Peitsche gezüchtigt – und eine geheimnisvolle Stimme führt ihn zu einem Schatz im feurigen Felsen. Dazu die aktuelle Gefahr, dass der Steinabbau die Fundstelle Hrádok beschädigt.",
+  "metaTitle": "Vom alten Krištof – eine Sage vom Burgwall Kamenec",
+  "metaDescription": "Die zweite Sage vom Burgwall Kamenec pod Vtáčnikom: der alte Krištof, die Peitsche des Burgherrn und ein Schatz im feurigen Felsen unter dem Vtáčnik.",
+  "keyFacts": [
+   {
+    "label": "Aufzeichnung der Sage",
+    "value": "Iveta Géczyová (Bearbeitung aus der Chronik)",
+    "icon": "book"
+   },
+   {
+    "label": "Ort",
+    "value": "Der Burgwall Hrádok über Bystričany (in der Sage tritt er als Herrensitz auf)",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Das Jahr 1650",
+    "icon": "calendar"
+   },
+   {
+    "label": "Motiv",
+    "value": "Ein im feurigen Felsen verborgener Schatz, eine geheimnisvolle Stimme und Krištofs Gespenst",
+    "icon": "fire"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1650",
+    "title": "Krištof geht in den herrschaftlichen Wald",
+    "description": "An einem Frühlingstag des Jahres 1650 machte sich der verwitwete Krištof mit sieben Kindern in den Wald des Burgherrn auf, um Holz zu sammeln, und wurde dabei erwischt und mit der Peitsche gezüchtigt.",
+    "type": "event"
+   },
+   {
+    "year": "nach der Strafe",
+    "title": "Die geheimnisvolle Stimme und der Schatz im Felsen",
+    "description": "Der verletzte Krištof hörte eine geheimnisvolle Stimme, die ihn zu einem feurigen Felsen führte; nachdem er den Felsblock mit der Spitzhacke durchgraben hatte, fand er goldene Dukaten, mit denen er seine Kinder versorgte.",
+    "type": "event"
+   },
+   {
+    "year": "später",
+    "title": "Krištofs Gespenst",
+    "description": "Nach der Sage erscheint Krištofs Gestalt mit der Spitzhacke bis heute bei großen Feuern in den Bergen über dem Dorf.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4121,
+    "alt": "Schwarz-weiß-Fotografie einer Felswand mit einem Felsblock auf dem Gipfel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung der Autorin PhDr. Iveta Géczyová, der Direktorin des Hornonitrianske-Museums in Prievidza, bringen wir Ihnen die zweite Sage, die sich an den Burgwall Kamenec pod Vtáčnikom/Bystričany bindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Zusammenhang weise ich auf ein Thema hin, das nicht wenige Interessenten für Geschichte, Wandern oder Klettern in der Umgebung des Hrádok bedrückt. Ein Bergbauunternehmen beabsichtigt dort, Andesit abzubauen, wobei die Gefahr droht, dass der Abbau auch die Fundstelle Hrádok selbst beschädigt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Vom alten Krištof"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Geheimnisvoll ist es in den Bergen über Bystričany. Alte, im Wind rauschende Bäume und dunkle schwarze Felsen, die in den Kurven der Wege hervorschauen, verbergen Rätsel und auch das längst vergessene Leben der Besitzer der Burg, die auf einem hohen Felsen errichtet wurde, sodass weit und breit ihre Schönheit zu sehen war. Die hohen Mauern und der Turm der Burg ragten in den Himmel und zeigten die Macht und das Vermögen des Herrschers. Ihm gehörte alles: die Wälder, die Wiesen, die Felder, ja auch jene Menschen, die auf den Äckerchen ein Stückchen Nahrung für ihre Kinder erarbeiteten, vor allem aber für ihn, den unfreundlichen, habgierigen Herrn. Nicht selten bettelten sie um eine Schnitte Brot, um ein wenig Brei oder Getreide, aber sein Herz blieb unbeugsam wie der Felsen, auf dem seine Burg stand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An einem der Frühlingstage des Jahres des Herrn 1650, als der Winter die Gegend noch nicht ganz verlassen hatte, ja der Gipfel des Vtáčnik immer noch weiß vom Schnee war, machte sich auch Krištof in den Wald auf, um ein paar Stücke Holz zu suchen. Seine Frau war ihm erst in diesem Winter gestorben, und ihm blieben daheim sieben Kinder. Er musste für sie sorgen. Das Blockhaus heizen, Essen beschaffen und die Kuh versorgen. Der Winter war hart, alles Holz, das er in jenem Herbst vorbereitet hatte, war schon aufgebraucht, und im Haus sprühte aus jeder Ecke die unbarmherzige Kälte. Er wusste wohl, dass er in den Wald ging, der dem Burgherrn gehörte. Er glaubte jedoch, es werde ihm gelingen, dessen Herz zu erweichen, wenn er ihn beim Holzsammeln fände. Es war noch früh am Morgen, und so beeilte er sich. Er ging also höher hinauf, wo ihn niemand entdecken sollte. Nicht einmal ein Beil nahm er mit, nur so eine kleine Spitzhacke, dass er sich damit wahrlich behelfen werde. Er hebelt die Wurzel eines geneigten, austrocknenden Baumes an, und den schleift er zum Haus. Er duckte sich und nur schnell, schnell das Holz beschaffen, und dann läuft er durch das dichte Gebüsch hinunter ins Dorf, schlüpft durch die erste Lücke zwischen den Häusern, und schon wird er in seinem Blockhaus sein. Niemand wird ihn sehen. Noch hielt er nicht einmal den ersten trockenen Ast in der Hand, da hörte er schon in der Ferne das Wiehern eines Pferdes. Und auf einmal ein Hufgetrappel, stärker und stärker, als käme Luzifer selbst mit seiner Rotte … Da stand der Burgherr mit dem ganzen ausgelassenen Gefolge auf dem Ross neben ihm. Spöttisch fragte er ihn: „Und weißt du denn, dass du von meinem nimmst, du Habenichts?“ „Ach, Herr, verzeiht“, begann er inständig zu betteln. „In diesem Winter starb meine Frau Anka, und die Kinder, meine Ärmsten, haben nichts zu essen. Der Winter ist hart, also wenigstens ein wenig von dem trockenen Holz in den Ofen …“, fuhr er mit seiner Bitte fort. Doch da ließ ihn der Herr der Burg schon nicht ausreden: „Nach Wärme hat es dich also verlangt, aber von meinem, das wahrlich niemals. Niemand wird jemals das haben, was allein mir gehört. Verstehst du? Mach dich fort von hier!“ Und schon hob er die Hand mit der Peitsche. Er schlug einmal, zweimal, dreimal zu, doch da fühlte Krištof schon nichts mehr. Tränen überfluteten sein Gesicht, und das Herz erstarb. Warum gibt es so viel Bosheit und Unrecht? Einer hat viel, ein anderer wenig und jener dritte nichts, ging es ihm durch den Sinn. Noch hörte er, wie der Herr mit den anderen beriet, was man mit ihm tun solle. Da warf jemand von der Herrschaft ein, man müsse diesen Nichtsnutz, diesen missratenen Dieb, dort liegen lassen, das Wild warte doch nur darauf. Das nahm Krištof jedoch schon nicht mehr wahr, denn der Gedanke an die Kinder war stärker. Sein Schicksal interessierte ihn nicht, und er dachte nur und nur an seine Kinder, was aus ihnen wird, wie sie ohne ihn leben werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vom alten Krištof",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er wusste nicht einmal, wie viele Stunden er im Wald bei dem gefallenen trockenen Baum gelegen hatte, als er auf einmal einen angenehmen Windhauch spürte, als streichelte ihn eine warme Menschenhand. Der Windhauch wurde stärker, und Krištof wusste nicht, ob ihm das alles nicht bloß träumte. Er stellte sich auf die Füße, und da begriff er in voller Tiefe, was geschehen war. Die Spitzhacke, die er immer noch in der Hand umklammerte, und die zertrampelte Erde ringsumher, das waren die Beweise, dass alles Wirklichkeit gewesen war. Seltsam war jedoch das Übrige: das Wehen des Windes und die aus der Ferne klingende Stimme, die seinen Namen rief: „Krištóóóf, Krištóóóf, mach dich auf hinter mir her.“ Er wusste nicht, was zu tun war. Irgendeine geheimnisvolle Kraft zog ihn zu einem mächtigen Felsen, den er niemals zuvor gesehen und von dem er auch niemals gehört hatte. Nun, Gott befohlen, dachte er und ließ sich von der Stimme und dem warmen Windhauch führen. Als er dem Felsen näher kam, sah er ein Lichtchen, ein winziges, aber helles, flackerndes, und ein immer helleres Leuchten blendete ihm die Augen. Furchtsam und ungläubig schritt er jedoch weiter, mit den Gedanken bei den Kindern. Und plötzlich schossen aus dem Felsen feurige Flammen hervor; er erschrak und wich zurück. Die geheimnisvolle Stimme befahl jedoch energisch: „Krištof, denk an die Kinder und an ihr Leben! Fürchte dich nicht und tu, was nötig ist!“ Der Gedanke an die Kinder weckte ihn wieder auf, und so ergab er sich der Stimme und ihren Weisungen. Zuerst überschritt er die feurigen Streifen und fand sich vor einem großen Felsblock. Die Stimme hieß ihn, die Spitzhacke fest zu packen und zu graben. Er schlug einmal, ein zweites und ein drittes Mal zu, und der Felsen rührte sich nicht. Er hörte auf zu zählen und grub stumm weiter. Er nahm die Zeit nicht wahr und grub nur. Als er den Rücken gerade richtete und sich den Schweiß von der Stirn wischte, erblickte er eine kleine Öffnung, nur so eine, durch die sich die Hand stecken ließ. Und so griff er mit der Hand in das offene Loch. Er ertastete etwas Festes, Rundes, fasste eine Handvoll von dem Kleinzeug und zog die Hand heraus. Ungläubig blickte er auf die goldenen Dukaten. Niemals hatte er so viel Gold gesehen, und so steckte er die Hand wieder unter den Stein und holte eine weitere Handvoll heraus und noch eine. Als er davon schon ein schönes Häufchen hatte, erklang die geheimnisvolle Stimme: „Krištof, lass auch den anderen etwas … Arme gibt es immer genug.“ Krištof band das Häufchen Geld in ein Bündel, fasste die Spitzhacke und machte sich ins Dorf auf. Er sah nicht, wie wieder feurige Flammenzungen aufschlugen, hörte das Tosen nicht, nahm nichts wahr. Er war wieder bei seinen Kindern und überlegte, wie er mit dem geheimnisvollen Schatz umgehen werde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von jenem Tag an begann es der Familie Krištofs besser zu gehen. Von dem geheimnisvollen Schatz, der, wie er sich selbst einredete, eine Entschädigung für die Unbilden des mächtigen Herrn war, kaufte er Felder und begann zu wirtschaften. Er kehrte nie mehr an jene Stelle zurück und offenbarte niemals jemandem, was im Wald über dem Dorf geschehen war. Die Leute schüttelten nur verständnislos die Köpfe, woher er so viel Vermögen genommen habe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und erst nach vielen Jahren, immer dann, wenn im Dorf ein großes Feuer auftauchte, war eine geheimnisvolle Gestalt mit einer Spitzhacke zu sehen, wie sie aus dem Dorf hinausgeht. Zweifellos war es Krištof. Wieder ging er in den Wald nach Holz und nach dem Schatz, der in den mächtigen Felsen unter dem Vtáčnik verborgen ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

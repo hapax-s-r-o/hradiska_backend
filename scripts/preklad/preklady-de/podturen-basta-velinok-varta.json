@@ -1,0 +1,585 @@
+{
+ "slug": "podturen-basta-velinok-varta",
+ "data": {
+  "title": "Podtureň – Bašta, Velínok und Varta, drei Befestigungen über dem Waagtal in der Liptau",
+  "slug": "podturen-basta-velinok-varta-befestigungen-liptau",
+  "excerpt": "Mit Zustimmung des Autors bringen wir Ihnen den ausgezeichneten Artikel von PhDr. Víťazoslav Struhár, der sich mit drei bemerkenswerten Befestigungen in der Gemeinde Podtureň in der Liptau befasst. Besonders interessant ist für uns die Angabe, dass mindestens eine von ihnen – die Bašta – im 9.–10. Jahrhundert auch von den Slawen genutzt wurde. Auf der Karte der slawischen Burgwälle können wir also einen weiteren Fundort im Norden der Slowakei vermerken.",
+  "metaTitle": "Podtureň – Bašta, Velínok und Varta in der Liptau",
+  "metaDescription": "Drei Befestigungen bei Podtureň in der Liptau; mindestens die Bašta diente im 9.–10. Jahrhundert den Slawen – ein weiterer Burgwall im Norden.",
+  "keyFacts": [
+   {
+    "label": "Drei Befestigungen bei Podtureň",
+    "value": "Bašta, Velínok und Varta – spornartige Befestigungen auf Kalkausläufern 130–150 m über dem Tal der Waag",
+    "icon": "mountain"
+   },
+   {
+    "label": "Slawische Besiedlung der Bašta",
+    "value": "Mindestens die Befestigung Bašta wurde im 9.–10. Jahrhundert auch von den Slawen genutzt",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung auf dem Velínok",
+    "value": "Die Wallbefestigung von 70 × 90 m hatte eine hölzerne Rostkonstruktion, verstärkt durch eine Steinfront, ein halbzangenförmiges Tor und einen Wachturm auf Steinfundamenten",
+    "icon": "building"
+   },
+   {
+    "label": "Ausgrabung vor dem Bau der Autobahn D1",
+    "value": "V. Hanuliak und K. Pieta untersuchten die Fundstelle in den Jahren 1975–76 im Zusammenhang mit dem Bau der Autobahn D1",
+    "icon": "book"
+   },
+   {
+    "label": "Herkunft des Namens Podtureň",
+    "value": "Der Name der Siedlung wird von den Wörtern bašta und turňa abgeleitet – der damaligen Bezeichnung für den Turm der hölzernen Architektur der kleinen Wachburg",
+    "icon": "custom"
+   },
+   {
+    "label": "Dauer der mittelalterlichen Burg",
+    "value": "Funde von Keramik, Armbrustbolzenspitzen, Schnallen, Hufeisen und ungarischen Münzen datieren die kleine Holz-Erde-Burg etwa vom 13. bis zum 15. Jahrhundert",
+    "icon": "shield"
+   },
+   {
+    "label": "Brandgräberfeld beim Velínok",
+    "value": "J. Neudeck legte unterhalb der Befestigung 25 Urnen mit Resten verbrannter Knochen, Asche und bronzenen Schmucks aus der jüngeren Bronzezeit frei",
+    "icon": "map"
+   },
+   {
+    "label": "Wehrsystem der Gräben",
+    "value": "Den Raum zwischen Velínok und Varta schützte ein dreifaches System von Spitzgräben in der Lage Fľak pod Vartou",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor mehr als 4000 Jahren",
+    "title": "Äneolithische Besiedlung der Umgebung der Varta",
+    "description": "Spärliche Keramikfunde am Fuß der Varta deuten darauf hin, dass sich in der Umgebung der heutigen Siedlung Träger der äneolithischen Badener Kultur niederließen, die aus den nördlichen Teilen des heutigen Ungarn hierher vordrangen.",
+    "type": "era"
+   },
+   {
+    "year": "Frühbronzezeit",
+    "title": "Fund eines Anhängers des Typs Hodejov auf dem Velínok",
+    "description": "Auf dem Velínok fand sich ein gerippter herzförmiger Anhänger des Typs Hodejov, ein Belegstück für Kontakte mit der Otomani-Kultur; den Fund veröffentlichte J. Neudeck.",
+    "type": "discovery"
+   },
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Brandgräberfeld beim Velínok",
+    "description": "Beim Bau der Eisenbahn wurde unterhalb der Befestigung ein Brandgräberfeld entdeckt; J. Neudeck legte hier 25 Urnen mit Resten verbrannter Knochen, Asche und bronzener Gegenstände (Nadeln, Fingerringe, Ohrringe, Spiralen) frei.",
+    "type": "discovery"
+   },
+   {
+    "year": "Spätlatènezeit",
+    "title": "Entstehung der ältesten Befestigung auf der Bašta",
+    "description": "Die ursprüngliche Besiedlung der Lage Bašta fällt in die Spätlatènezeit, als hier auch die älteste Befestigung entstand, die später durch weitere Eingriffe beschädigt wurde.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Jahrhundert n. Chr.",
+    "title": "Brand einer Hütte auf der Bašta",
+    "description": "Eine Hütte auf der Bašta wurde durch Feuer zerstört; ihr Inventar ist gemeinsam mit dem Fragment eines Armrings und der Spiralwindung einer bronzenen Fibel in das 1. Jahrhundert n. Chr. datierbar.",
+    "type": "destruction"
+   },
+   {
+    "year": "1932",
+    "title": "Fund von Keramik und eines Eisenmessers bei der Bašta",
+    "description": "Bei der Begehung der Siedlung unterhalb der Westseite der Bašta gewann P. Okoličány Scherben von Tongefäßen und ein Eisenmesser.",
+    "type": "discovery"
+   },
+   {
+    "year": "1975–1976",
+    "title": "Archäologische Ausgrabung vor dem Bau der Autobahn D1",
+    "description": "V. Hanuliak und K. Pieta stellten bei der Ausgrabung in Podtureň auf dem Gipfel des Velínok eine kleinere Wallbefestigung von 70 × 90 m fest, mit einer hölzernen Rostkonstruktion, die durch eine Steinfront verstärkt war, und mit einem halbzangenförmigen Torabschluss samt Wachturm.",
+    "type": "discovery"
+   },
+   {
+    "year": "Ende des 2. Jahrhunderts",
+    "title": "Verfall und Untergang der Púchov-Kultur",
+    "description": "Nach fast fünf Jahrhunderten der Blüte kommt es zum allmählichen Verfall der Púchov-Kultur und zum gewaltsamen Untergang der meisten Befestigungen; die Bevölkerung siedelte wahrscheinlich in die südlicheren Gebiete Pannoniens ab.",
+    "type": "destruction"
+   },
+   {
+    "year": "Wende vom 4. zum 5. Jahrhundert",
+    "title": "Germanische Besiedlung an der Stelle älterer Befestigungen",
+    "description": "Gruppen germanischer Stämme besetzten für kurze Zeit strategische Lagen an den Stellen älterer Befestigungen und nutzten die nahen Eisenerzvorkommen.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawische Besiedlung der Bašta",
+    "description": "Die dominierende Lage des Gipfels wurde erneut genutzt, wie die nicht zahlreichen sekundären Keramikfunde von der Fläche der Befestigung und von ihrem südwestlichen Fuß belegen.",
+    "type": "era"
+   },
+   {
+    "year": "13.–15. Jahrhundert",
+    "title": "Mittelalterliche kleine Holz-Erde-Burg",
+    "description": "Nach den Funden von Keramik, Armbrustbolzenspitzen, Schnallen, Hufeisen und Eisenmessern sowie nach mittelalterlichen ungarischen Münzen lässt sich die Dauer der kleinen Holz-Erde-Burg mit dem 13. bis 15. Jahrhundert eingrenzen.",
+    "type": "construction"
+   },
+   {
+    "year": "16. Jahrhundert",
+    "title": "Untergang der kleinen Wachburg",
+    "description": "Mit dem Untergang der kleinen Burg irgendwann im Laufe des unruhigen 16. Jahrhunderts verlor die Fundstelle ihre strategische Bedeutung.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6429,
+    "alt": "Blick von der Höhe auf die bewaldete Landschaft und das Gebirgszug im Hintergrund"
+   },
+   {
+    "mediaId": 2130,
+    "caption": "Kärtchen übernommen aus dem Buch von PhDr. Peter Laučík: Podtureň – brána do laténskeho Liptova. Marmota Press, 2006",
+    "alt": "Kärtchen übernommen aus dem Buch von PhDr. Peter Laučík: Podtureň – brána do laténskeho Liptova. Marmota Press, 2006"
+   },
+   {
+    "mediaId": 2131,
+    "caption": "Grundrissplan der Befestigungen in Podtureň aus dem Jahr 1880",
+    "alt": "Grundrissplan der Befestigungen in Podtureň aus dem Jahr 1880"
+   },
+   {
+    "mediaId": 2132,
+    "caption": "Die Befestigung Velínok nach der Zeichnung von J. Neudeck",
+    "alt": "Die Befestigung Velínok nach der Zeichnung von J. Neudeck"
+   },
+   {
+    "mediaId": 2133,
+    "caption": "Die Befestigung auf dem Velínok, vermessen während der Ausgrabung für die Autobahn 1975–76",
+    "alt": "Die Befestigung auf dem Velínok, vermessen während der Ausgrabung für die Autobahn 1975–76"
+   },
+   {
+    "mediaId": 2134,
+    "caption": "Die Höhensiedlung der Púchov-Kultur und die mittelalterliche Burg auf der Bašta, durch den Kalkabbau gestört",
+    "alt": "Die Höhensiedlung der Púchov-Kultur und die mittelalterliche Burg auf der Bašta, durch den Kalkabbau gestört"
+   },
+   {
+    "mediaId": 2135,
+    "caption": "Die Sammlung archäologischer Funde vom Velínok in der Publikation von J. Neudeck aus dem Jahr 1880",
+    "alt": "Die Sammlung archäologischer Funde vom Velínok in der Publikation von J. Neudeck aus dem Jahr 1880"
+   },
+   {
+    "mediaId": 2136,
+    "caption": "Siedlungskeramik der Púchov-Kultur aus der Befestigung auf der Bašta.",
+    "alt": "Siedlungskeramik der Púchov-Kultur aus der Befestigung auf der Bašta."
+   },
+   {
+    "mediaId": 2137,
+    "caption": "Podtureň-Bašta. Das Inventar der durch Feuer zerstörten Hütte aus dem 1. Jahrhundert n. Chr.",
+    "alt": "Podtureň-Bašta. Das Inventar der durch Feuer zerstörten Hütte aus dem 1. Jahrhundert n. Chr."
+   },
+   {
+    "mediaId": 2138,
+    "caption": "Bašta (Foto: Kvetka M)",
+    "alt": "Bašta (Foto: Kvetka M)"
+   },
+   {
+    "mediaId": 2139,
+    "caption": "Varta, Velínok, Bašta (Foto: Kvetka)",
+    "alt": "Varta, Velínok, Bašta (Foto: Kvetka)"
+   },
+   {
+    "mediaId": 2140,
+    "caption": "Bašta (Autor des Fotos: P. Bros)",
+    "alt": "Bašta (Autor des Fotos: P. Bros)"
+   },
+   {
+    "mediaId": 2141,
+    "alt": "Überwachsene Anhöhe der Befestigung mit trockenem Gras"
+   },
+   {
+    "mediaId": 2142,
+    "alt": "Steiler Hang der Befestigung über dem Dorf im Winterkleid"
+   },
+   {
+    "mediaId": 2143,
+    "alt": "Rücken der Befestigung mit Kiefern und offenem Boden"
+   },
+   {
+    "mediaId": 2144,
+    "alt": "Ausblick von der Befestigung auf das Dorf und das verschneite Gebirge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung des Autors bringen wir Ihnen den ausgezeichneten Artikel von "
+       },
+       {
+        "type": "link",
+        "url": "http://www.archeologiask.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "PhDr. Víťazoslav Struhár"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", der sich mit drei bemerkenswerten Befestigungen in der Gemeinde Podtureň befasst, die in der Liptau liegt. Besonders interessant ist für uns vor allem die Angabe, dass mindestens eine von diesen Befestigungen – die Bašta – im 9.–10. Jahrhundert auch von den Slawen genutzt wurde. Auf der Karte der slawischen Burgwälle können wir also einen weiteren Burgwall im Norden der Slowakei vermerken. Wir bringen den Artikel im vollen Wortlaut. Dem Autor gilt Dank für seine Zuvorkommenheit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.google.com/maps?dg=optperm&ie=UTF8&t=h&source=embed&ll=49.057529,19.701791&spn=0.004921,0.00912&z=16",
+        "children": [
+         {
+          "type": "text",
+          "text": "Größere Karte anzeigen"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die urgeschichtliche und frühgeschichtliche Besiedlung von Podtureň und seiner Umgebung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„"
+       },
+       {
+        "type": "text",
+        "text": "Jeden Krieger wie auch jeden Forscher, der sich mit dem antiken Bauwesen befasst, muss unstreitig die Befestigung bei der Siedlung Podtureň in der Liptau fesseln, die nicht nur das Tal der Waag, sondern auch die weite Umgebung beherrscht und sich auf einem 130–150 m hohen Hügel befindet, der im Norden von einer weiteren Anhöhe getrennt ist, die von Osten der Bach Jamníček umfließt.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Befestigung auf dem Velínok, vermessen während der Ausgrabung für die Autobahn 1975–76\n\n",
+    "alt": "Die Befestigung auf dem Velínok, vermessen während der Ausgrabung für die Autobahn 1975–76",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Etwa so beschrieb in den 1870er Jahren einer der bedeutenden Amateurarchäologen, Július Neudeck, das System der spornartigen Ausläufer der Waagterrasse über dieser ostliptauer Gemeinde. Von Beruf war er zwar Vermessungsingenieur beim Bau der Kaschau-Oderberger Bahn, in seiner Freizeit befasste er sich jedoch auch mit der Begehung prähistorischer Fundstellen. Sein Interesse erregten vor allem die befestigten kleinen Burgen und Burganlagen längs des Laufes der Waag, von denen er fast drei Dutzend vermaß, beschrieb und zeichnete. Gerade Podtureň widmete er in seiner zweiteiligen Studie über die germanischen Befestigungen am oberen Lauf der Waag besondere Aufmerksamkeit, denn das System der hiesigen Befestigungen und Siedlungen hielt er für eines der größten im Waagtal. Und er war damit nicht weit von der Wahrheit entfernt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstellen, die auch bei weiteren zeitgenössischen Historikern und Archäologen – Béla Majláth und József Mihalik – Aufmerksamkeit erregten, befinden sich auf den Ausläufern eines Kalksporns am rechten Ufer des Flusses Waag. Am weitesten nach Osten vorgeschoben ist der Berg namens Bašta, der sich über der Mündung des Baches Jamníček in die Waagaue erhebt. Westlich von ihm lag noch bis vor kurzem die Anhöhe Velínok, die beim Bau der Autobahn D1 zerstört wurde; der Steinbruch hat aber in beträchtlichem Maße auch die Bašta gestört. Die Dreiheit der Befestigungen schließt der Berg Varta mit einer bis heute nicht untersuchten Befestigung ab. Die bisherigen Erkenntnisse aus der archäologischen Ausgrabung belegen, dass die ausgeprägte Geländedominante mit ihrer strategischen Lage am Hauptverkehrsweg in Richtung Zips bereits die ältesten Bauern und Hirten anzog, die die Liptau am Ausgang der Steinzeit bewohnten. Spärliche Keramikfunde, die irgendwo am Fuß der Varta entdeckt wurden, deuten darauf hin, dass sich bereits vor mehr als vier Jahrtausenden in der Umgebung der heutigen Siedlung Träger der äneolithischen Badener Kultur niederließen, die irgendwo aus den nördlichen Teilen des heutigen Ungarn hierher vordrangen. Neben offenen Siedlungen (Liptovská Teplá, Bešeňová, Sliače) besiedelten sie auch höher gelegene Stellen (Lipt. Mara-Havránok, Lúčky) und einige Höhlen (Okno in Demänová, Vyvieračka in Prosiek, die Starhradská-Höhle). Die Analyse der Keramik und der Steinwerkzeuge belegte enge kulturelle Kontakte mit Polen, von wo in die Liptau auch besondere geschlagene Steinbeile gelangten, hergestellt aus einer eigenartigen Feuersteinvarietät – dem sog. Typ G. Ihre Funde kennen wir beispielsweise aus Bešeňová, Lipt. Michal, Dechtáre und Liptovský Trnovec. Ein Exemplar fand sich im Jahr 1933 auch in Uhorská Ves in der Lage „Vlčienec“ bzw. „Zadná Babka“, und seine Form und seine Maße sind mit dem Fund aus den Travertinen von Bešeňová fast identisch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der relativ dichteren Besiedlung am Ausgang der Steinzeit verzeichnen wir in der folgenden Frühbronzezeit in der Liptau nur sporadische Spuren anthropogener Aktivität. Die entwickelten frühbronzezeitlichen Zivilisationen, die im Laufe des 20. bis 15. Jahrhunderts v. Chr. bestanden, bevorzugten die fruchtbareren Gebiete der Ost- und der Südwestslowakei, eine starke Enklave der sog. Otomani-Kultur bildete sich jedoch auch in der benachbarten Zips, mit einem bedeutenden Zentrum in Spišský Štvrtok. Gerade von diesem Zentrum aus kam es gelegentlich auch zum Vordringen von Trägern der Otomani-Kultur in westlicher Richtung, wobei der Anstoß gerade die Prospektion von Kupfer und anderen Rohstoffen sein konnte, deren Lagerstätten sich in reicher Zahl auch im Massiv der Niederen Tatra befinden. Zeugnis der Anwesenheit des Volkes dieser Kultur westlich der Zips sind vereinzelte Funde von einigen Fundstellen. Dazu gehört etwa die Sammlung bronzener Schläfenringe aus der Liskovská-Höhle bei Ružomberok, vor allem aber der Fund eines gerippten herzförmigen Anhängers des Typs Hodejov, der auf dem Velínok gefunden und noch im vorigen Jahrhundert von J. Neudeck veröffentlicht wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Viel zusammenhängender und dichter begannen das Liptauer Becken ab der Mittelbronzezeit die Stämme der Lausitzer Kultur zu besiedeln, die sich auf einem ausgedehnten Gebiet von Deutschland über Polen verbreitete und fast den ganzen nördlichen Teil der Slowakei erfasste. Die meisten Siedlungen wurden auf den Terrassen der Bäche und Flüsse angelegt, während die wirtschaftlich-administrative und die Wehrfunktion befestigte Höhensiedlungen innehatten. Diese wurden am häufigsten auf den Gipfeln unzugänglicher Berge angelegt, gut geschützt durch natürliche steile Abstürze und künstlich errichtete Wallaufschüttungen. Eine solche gut geschützte Lage war auch die Fundstelle „Vislavce“, am linken Ufer der Waag gegenüber der Einmündung der Belá in die Waag gelegen, am Rand des heutigen Liptovský Hrádok. Neudeck stellte hier bei der Begehung im Jahr 1878 Überreste von Wällen fest, und an diesen Stellen soll in der Vergangenheit auch ein Bronzeschwert gefunden worden sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer der weiteren strategischen Punkte musste sich offenbar auch auf dem Berg Velínok befunden haben. Seine Befestigung ist zwar jüngeren Datums, aber die Funde bronzener Halsringe und eines Armrings mit eingeritzter Rippenverzierung, die, wie J. Neudeck anmerkt, „nach jedem Regen aus dem Profil herausfielen“, belegen die Nutzung dieses dominanten Ortes auch in der jüngeren Bronzezeit. Unmittelbar unterhalb der Befestigung wurde beim Bau der Eisenbahn auch ein Brandgräberfeld entdeckt, wo die hiesigen Siedler ihre Toten verbrannten und deren Reste anschließend in tönernen Urnen in die Erde legten. Neudeck legte an der Fundstelle, die nur einige Dutzend Meter von der Kurie der Familie Potúrňanský entfernt liegt, wo er mit seiner Frau Emma lebte, insgesamt 25 Urnen mit Resten verbrannter Knochen, Asche und Fragmenten von Gegenständen frei. Acht Urnengräber waren in einer Steineinfassung angelegt, und fast alle enthielten bronzene Nadeln, Fingerringe, Ohrringe, Spiralen, Fragmente von Nadeln sowie Perlen aus Glas und Knochen. Das interessanteste war ein reiches Grab, das bis zu drei ineinandergestellte Tongefäße enthielt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das genannte Gräberfeld beschreibt (unter der Fundstelle Uhorská Ves) in seinen Arbeiten ausführlich auch B. Majláth, der manchmal als Autor der Ausgrabung angeführt wird. Es ist daher wahrscheinlich, da er bereits Erfahrungen aus der Ausgrabung des zeitgleichen Gräberfeldes in Liptovská Ondrašová hatte, dass er mit Neudeck bei den Grabungen zusammenarbeitete und die gewonnenen Funde in seine „Bronzesammlung“ gelangten, um schließlich im Naturhistorischen Museum in Wien zu enden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ähnliche Schicksale trafen oftmals auch viele weitere Denkmäler aus der Zeit der Lausitzer Kultur, die im Laufe des 19. Jahrhunderts auftauchten, vor allem prachtvoller, künstlerisch wertvoller bronzener Schmuck und Schwerter des sog. Liptauer Typs, die wohl die eindrucksvollsten Erzeugnisse der nordslowakischen Bronzegießereien waren. Dies betrifft beispielsweise auch die heute schon verschollenen Gegenstände aus dem angeblichen Hortfund, der in Kráľova Lehota entdeckt wurde, von dem in die Sammlung Majláths ein Schwert mit Schalenknauf und ein prunkvoller Oberarmring des sog. Salgótarján-Typs gelangten. Glücklicherweise konnten viele andere Hortfunde gerettet werden, und die Fachleute hatten die Möglichkeit, sie eingehend zu untersuchen und zu dokumentieren. Dazu gehört auch der Hortfund bronzener Gefäße, der im Jahr 1969 in Liptovská Ondrašová entdeckt wurde und der neun Tassen enthielt, die in einem Kessel lagen, gemeinsam mit einer Lanzenspitze und einem sichelförmigen Gegenstand. Das einzigartigste Exemplar war ein Artefakt sichelförmiger Gestalt mit komplizierter eingeritzter Verzierung, das mit bestimmten Kultpraktiken zusammenhängen könnte und das entfernte Analogien bis im fernen Mesopotamien hat. Nach dem Archäologen Dr. Václav Furmánek lässt sich der Hortfund etwa in das 9. Jahrhundert v. Chr. datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keramik",
+    "alt": "Keramik",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die häufigen und reichen Funde bronzener Gegenstände deuten auf die Annahme hin, dass im nördlichen Teil der Slowakei am Ausgang der Bronzezeit bedeutende Produktionszentren funktionierten, die die benachbarten und auch entferntere Urnenfelderkulturen mit technologisch hervorragend beherrschten Erzeugnissen versorgten. Das hohe wirtschaftliche Niveau behielt die nordslowakische Lausitzer Bevölkerung auch in der folgenden älteren Eisenzeit (7.–4. Jahrhundert v. Chr.). In der materiellen Kultur der autochthonen sesshaften Bevölkerung der Gebirgsgebiete begannen sich immer stärker Einflüsse zu zeigen, die aus dem ostalpinen Gebiet kamen, wo zu dieser Zeit eine neue Epoche anbrach, repräsentiert durch die Hallstattkultur. Nach den charakteristischsten Fundorten der erwähnten Zeit erhielt diese Fazies der Lausitzer Kultur die Bezeichnung Orava-Gruppe. Zahlreiche Urnengräberfelder, die bei Ausgrabungen in der benachbarten Arwa erfasst wurden, informieren uns über das Niveau der Wirtschaft, die soziale Hierarchie und auch die handwerkliche Geschicklichkeit der hiesigen Bevölkerung. In der Liptau, wo in der Hallstattzeit die gleiche kulturelle Situation herrschte, kennen wir jedoch viel weniger Material, und Nekropolen sind fast unbekannt. Nur bruchstückhafte Erkenntnisse erbrachte die Ausgrabung von Brandgräbern in der Lage Konislavy bei Liptovský Trnovec, die in den Mantel eines offenbar älteren Hügelgrabes eingetieft waren. Mit einem typisch hallstattzeitlichen Gräberfeld lässt sich bisher nur in Liptovský Hrádok rechnen. Am Ufer des Flüsschens Belá, im Garten der Forstschule, stieß man, wie B. Majláth in der Arbeit Lipómegyei östelepek (1873) anführt, auf die Überreste eines Gräberfeldes, von dem angeblich 47 Urnen gerettet werden konnten. Nach der Abbildung zweier Gefäße mit typischer eingeritzter linearer Verzierung bestatteten hier ihre Toten Vertreter der Orava-Gruppe der Lausitzer Kultur, die in den umliegenden Siedlungen lebten. Eine von ihnen untersuchte mit großer Wahrscheinlichkeit in den Jahren 1886–1887 im Katastralgebiet von Liptovský Hrádok J. Mihalik, wobei er einige Feuerstellen entdeckte und eine Menge Keramik gewann. Nach seinen Angaben fand sich hier auch ein unverziertes Gefäß mit einem Inhalt aus Holzkohlestückchen und Asche, in dem eine Feuersteinklinge lag, was darauf hindeutet, dass es sich um ein Brandgrab handelte, das vielleicht auch Teil eines kleineren Gräberfeldes aus derselben Zeit sein konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch trotz des Fehlens breiterer Erkenntnisse über den Grabritus und einige Überbauphänomene wissen wir über die betreffende Zeit einige wichtige Informationen aus der zahlreichen Begehung befestigter Höhensiedlungen. Diese treten als neues Phänomen vor allem in höher gelegenen Gebirgslagen, oft bis in extreme Lagen der Niederen und der Westtatra sowie des Choč-Gebirges auf. Ihr charakteristisches Merkmal ist neben der strategischen und gut geschützten Lage oft auch das Vorhandensein einer mächtigen Befestigung. Eine starke Gruppierung dieser Fundstellen befand sich vor allem auf den Rücken der Niederen Tatra südlich von Liptovský Mikuláš, auf den Gipfeln der Iľanovská und der Demänovská Poludnica, des Končistý, der Bodová und der Siná. Bei der Ausgrabung auf der Demänovská Poludnica wurde eine durchgebrannte aschige Schicht mit Vorkommen von Keramik, Lehmbewurf und Granitgeröllen erfasst. Eine interessante Feststellung waren die Reste verkohlten Getreides, von Hülsenfrüchten und Holzkohlestückchen mehrerer Baumarten. Eine kleinere Sondagegrabung, die auf dem Gipfel des Mních über Bobrovec durchgeführt wurde, enthüllte wiederum einen massiven, über hundert Meter langen Wall mit einem einfachen Tor, auch wenn die Funde hier erheblich spärlicher waren. An archäologischen Funden arm waren jedoch auch die übrigen hochgebirgigen Höhensiedlungen, was gemeinsam mit dem Vorhandensein einer Befestigung vor allem auf ihren Wehrcharakter (Funktion einer Fliehburg) hinweist. Das gewöhnliche wirtschaftliche Leben spielte sich überwiegend in den Flachlandsiedlungen ab, die zentrale Burganlagen in ihrer Nähe beherrschten. Eine der wenigen hallstattzeitlichen Siedlungen konnte in Liptovský Mikuláš – Vrbica identifiziert werden. Auf einer nicht großen Fläche wurde eine Kulturschicht mit Holzkohlestückchen aufgedeckt, in der sich ein Tongewicht und eine bronzene Nadel mit einem Paar spiralförmiger Rosetten fanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Beispiel einer kleinen Siedlungsagglomeration kann etwa die Siedlung Chopce in Závažná Poruba mit der nahen kleinen Höhenburg bei Liptovský Ján sein, sicher aber vor allem die populäre Befestigung Roháčka bei Ploštín. Am westlichen Fuß der spornartigen Anhöhe bestand eine ausgedehnte Siedlung, die im Jahr 1970 Dr. Karol Pieta erfasste und aus deren einigen Befunden er Fragmente typischer, schwarz gebrannter polierter Keramik mit eingeritzten Mustern gemeinsam mit weiteren Gegenständen von Siedlungscharakter gewann. Auch auf dem Plateau der Roháčka fand sich eine Menge archäologischen Materials; dieses stammt vor allem aus den Grabungen von J. Volko-Starohorský, der hier auch eine Werkstatt zur Geweihverarbeitung fand. Schon vor ihm interessierte sich für diese bemerkenswerte und von Sagen umwobene Fundstelle J. Mihalik, der an ihrem Fuß im Jahr 1888 angeblich auch ein Urnengräberfeld entdeckte, von dem sich ein Gefäß im Museum in Martin befindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die Kenntnis des künstlerischen Ausdrucks der Hallstattzeit ist der Massenfund bronzener Gegenstände aus Liptovský Ján sehr bedeutend, der aus dem Jahr 1869 stammt und gegenwärtig in Budapest aufbewahrt wird. Außer drei bronzenen Fingerringen war auch eine anthropomorphe Plastik einer stehenden Figur sein Bestandteil, die etwas detaillierter die Figürchen nachahmt, die in der Sphäre der primären Hallstattkultur hergestellt wurden, und die die Wirkung von Einflüssen in der bildenden Kunst bis weit in das abgelegene Gebiet der nordslowakischen Becken betont. Der erwähnte Gegenstand ist jedoch nicht der einzige Beweis für das Eindringen nichtlausitzer Elemente in das autochthone Milieu, das von den Trägern der Orava-Gruppe bewohnt war. Die Funde dreikantiger Pfeilspitzen östlicher Herkunft von der Demänovská Poludnica und aus Vyšný Kubín deuten auf einen fremden Eingriff in die kontinuierliche Entwicklung der Lausitzer Kultur hin, der zweifellos gewaltsamen Charakter hatte und den Untergang der meisten Flachlandbefestigungen und auch der hoch gelegenen Fliehburgen verursachte. Davon zeugen Schichten mit Resten zerstörter Befunde und Brandspuren (sog. Zerstörungshorizonte), aber etwa auch die Menschenknochen von der Demänovská Poludnica, die Zeugnis von den „heißen Augenblicken“ der hier versteckten Bevölkerung geben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit den bedeutenden Veränderungen, die nach diesen katastrophalen Ereignissen eintraten, kommt es auch zur Entstehung einer neuen kulturellen Situation auf dem früheren Verbreitungsgebiet der Orava-Gruppe der Lausitzer Urnenfelder. In die nördlich gelegenen Gebiete begannen irgendwann im 4. Jahrhundert v. Chr. die ersten Anklänge der Latènekultur vorzudringen, die traditionell mit dem ethnischen Ausdruck der Donaukelten verbunden wird. Nach den ersten gegenseitigen Kontakten in der Früh- und am Beginn der Mittellatènezeit wird angenommen, dass es in ihrer jüngeren Periode auch zu direkten physischen Zusammenstößen kam, die in ein allmähliches Verschmelzen mit der ursprünglichen Lausitzer Bevölkerung mündeten. Das gegenseitige Zusammenleben ethnisch verschiedener Gruppen äußerte sich schließlich in der Entstehung einer charakteristischen Kultur, die die Bezeichnung Púchov-Kultur erhielt. Im materiellen Ausdruck und auch in den religiösen Traditionen kam es sicher zu einer Bereicherung des heimischen Untergrundes, und die Symbiose beider Elemente bedeutete einen ungewöhnlichen Aufschwung in der wirtschaftlichen Sphäre und auch in der Siedlungsstruktur. In den vorgeschobenen Linien der Gebirgszüge entstehen neue Befestigungen, in deren Umgebung offene agrarisch-handwerkliche Siedlungen errichtet werden. Eine der ausgedehntesten Siedlungsagglomerationen entstand auf dem Berg Havránok über dem heutigen Stausee Liptovská Mara und bestand aus einer Hauptburg und sechs umliegenden Siedlungen. Auf dem Gipfel des Berges befand sich eine durch einen mächtigen Wall befestigte Höhensiedlung, in deren Areal auch ein einzigartiges Heiligtum bestand. Mehrmals im Jahr kamen hier die Bewohner der ganzen Liptau zusammen, um an Feiern und religiösen Riten teilzunehmen, zu denen auch Menschenopfer und Brandopfer gehörten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus den Ergebnissen der archäologischen Ausgrabungen, die in den letzten Jahrzehnten durchgeführt wurden, haben wir an Quantität und Qualität reiche Erkenntnisse über das Leben der alten Púchov-Bevölkerung gewonnen. Bedeutende Informationen erbrachte auch die Ausgrabung in Podtureň, die hier die Archäologen V. Hanuliak und K. Pieta in den Jahren 1975–76 im Zusammenhang mit dem Bau der Autobahn D1 durchführten. Auf dem Gipfel des Velínok wurde eine kleinere Wallbefestigung mit den Maßen 70 × 90 festgestellt, die jedoch eine durchdacht errichtete hölzerne Rostkonstruktion hatte, verstärkt durch eine vorgeblendete Steinfront. In Richtung des Tores ging der Wall in eine Lehmaufschüttung mit eingebauter Steinmauer über. Eine Besonderheit der Konstruktion, die bei uns bisher keine Parallelen hat, ist der halbzangenförmige Abschluss des Tores und ein Wachturm, der auf Steinfundamenten errichtet war. Nach diesen Merkmalen lässt sich erwägen, dass die Befestigung auf dem Velínok eine dominante Rolle im Rahmen der übrigen Befestigungen in Podtureň innehatte und die östliche Grenze des Liptauer Beckens in der ältesten – latènezeitlichen – Phase der Púchov-Kultur sicherte. Zum Wehrkomplex gehörte weiter auch ein dreifaches System von Spitzgräben, das den Raum zwischen Velínok und Varta ausfüllte und dessen Verlauf durch eine Aufdeckung in der Lage Fľak pod Vartou identifiziert wurde. Ein Gewinn der Ausgrabung auf dieser Fläche war auch die Erfassung eines Siedlungsbefundes mit Pfostenkonstruktion und Feuerstelle, der einer der führenden Wohnbautypen im Verbreitungsgebiet der Púchov-Kultur war. Eine andere Art von Wohnbefunden war dann ein hölzernes Blockhaus mit verstrichenem Boden und Feuerstelle, dessen Form in der Volksarchitektur der nördlichen Slowakei praktisch bis in die Gegenwart fortdauerte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiteres Begleitmerkmal der Entwicklung der Púchov-Kultur in der Spät- und der ausgehenden Latènezeit ist auch die Errichtung eines Systems flächenmäßig nicht großer befestigter kleiner Burgen, die am häufigsten in den vorgeschobenen Linien der Gebirgsmassive und an den Eingängen in die Täler liegen. Auch in der weiteren Umgebung von Podtureň registrieren wir einige solcher kleinen Wachburgen. In Betracht kommt vor allem die Lage Hrádok bei Jakubovany und die gleichnamige Lage in Liptovský Ján oder die Fundstelle Kameničná, wo V. Uhlár eine nicht große Wallbefestigung entdeckte. In diese Kategorie lassen sich schließlich auch die Befestigungen einordnen, die auf den Gipfelplateaus der Varta und der Bašta angelegt wurden. Über den Charakter und die genauere Datierung der Besiedlung auf der Varta haben wir nur bruchstückhafte Informationen aus den älteren Begehungen von J. Volko, I. Houdek und A. Petrovský-Šichman, die von dort Material von Púchov-Charakter gewannen. Konkretere Kenntnisse haben wir jedoch von der Befestigung Bašta, wo eine eingehendere archäologische Ausgrabung stattfand. Die ursprüngliche Besiedlung dieser Lage fällt in die Spätlatènezeit, als hier auch die älteste Befestigung entstand, die durch spätere Eingriffe beschädigt wurde. Der Schwerpunkt der Besiedlung der Bašta fällt jedoch in die jüngere Púchov-Periode am Beginn der älteren römischen Kaiserzeit. In den Destruktionen der durch Feuer zerstörten Befunde wurden gut erhaltene Reste von Keramikgefäßen und kleinen Gegenständen entdeckt, unter anderem auch das Fragment eines Armrings und die Spiralwindung einer bronzenen Fibel, die in das 1. Jahrhundert n. Chr. datierbar sind. Unter einem der verbrannten Balken fand sich ein fast vollständiges vierhenkliges Gefäßchen, das nach K. Pieta auch eine bestimmte Form einer Opfergabe sein könnte, die den Schutz der hiesigen kleinen Wachburg gewährleisten sollte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der archäologischen Ausgrabung, die vorsorglich an den durch die Autobahn bedrohten Fundstellen durchgeführt wurde, gewannen die Fachleute neue Erkenntnisse über die Besiedlung dieser Region in urgeschichtlicher und frühgeschichtlicher Zeit. Nach der Bearbeitung ihrer Ergebnisse lässt sich feststellen, dass die erwähnten befestigten spornartigen Lagen Bašta, Varta und Velínok ein bedeutendes Element im Wehrsystem waren, das im Laufe der Dauer der Púchov-Kultur errichtet wurde. Gleichzeitig schützten sie auch die offenen Siedlungen, die sich in der näheren und weiteren Umgebung befanden. Von diesen lässt sich die Siedlung unterhalb der Westseite der Bašta erwähnen, wo bei der Begehung im Jahr 1932 P. Okoličány Scherben von Tongefäßen und ein Eisenmesser gewann, oder die Siedlung in der Lage „Závoz“, von wo nach V. Budinský-Krička germanische Keramik aus der jüngeren römischen Kaiserzeit stammt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keramik",
+    "alt": "Keramik",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach fast fünf Jahrhunderten des Aufschwungs der Púchov-Kultur kommt es am Ende des 2. Jahrhunderts zu ihrem allmählichen Verfall. Nach dem gewaltsamen Untergang der meisten Befestigungen wurden allmählich auch die Siedlungen verlassen, und die Bevölkerung siedelte wahrscheinlich in die südlicheren Gebiete Pannoniens ab, wobei dieser Prozess üblicherweise mit den Markomannenkriegen in Zusammenhang gebracht wird. Die Púchov-Kultur, in der jüngeren Periode um dakische, germanische und römische Elemente bereichert, ging unter, und das Gebiet der Liptau war für einige Jahrhunderte verlassen. Eine neue Besiedlungswelle erfasste diese Region erst an der Wende vom 4. zum 5. Jahrhundert, als Gruppen germanischer Stämme für kurze Zeit vor allem strategische Lagen an den Stellen älterer Befestigungen besetzten. In den Arealen der früheren Befestigungen (Havránok, Turík, Lazisko) bestanden Produktionssiedlungen, die die nahen Eisenerzvorkommen nutzten. Die intensive handwerkliche Tätigkeit belegen reiche Sammlungen landwirtschaftlicher Geräte und Arbeitsgeräte, von Waffen und Fibeln sowie die Spuren der Eisenverarbeitung, die etwa an der Fundstelle „Hrádok“ in Liptovský Ján erfasst wurden. Ein charakteristischer Ausdruck dieses Horizonts ist auch die Herstellung und Nutzung massiver tönerner Vorratsgefäße mit Kragenrand, die mit einem typischen mehrfachen Wellenband verziert sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Abzug der letzten germanischen Stämme, die sich im Zusammenhang mit der großen Völkerwanderung in die südlichen Teile Europas verlagerten, kommt es erneut zur Entsiedlung der Liptau, und dieser Zustand dauert praktisch bis in das 9. Jahrhundert fort. Bisher fehlen Belege für den ältesten slawischen Eingriff, der sich in der ersten Kolonisationswelle überwiegend auf die Flachlandgebiete der Südwest- und der Ostslowakei beschränkte. Zur zusammenhängenden und dauerhaften Besiedlung dieser Region kommt es eigentlich erst ab der großmährischen Zeit, als die ersten mittelalterlichen Siedlungen und die Keime der künftigen Städte entstehen. Zur Verteidigung des sich formierenden großmährischen und später frühungarischen Staates wurden an strategischen Stellen kleine befestigte Burgen mit militärischer Wachfunktion errichtet. Irgendwann im 9. bis 10. Jahrhundert wurde erneut auch die dominierende Lage des Gipfels der Bašta genutzt, wie wir auf der Grundlage der nicht zahlreichen sekundären Keramikfunde von der Fläche der Befestigung und von ihrem südwestlichen Fuß wissen. Bei der Ausgrabung der durch den Abbau beträchtlich beschädigten kleinen Burg wurde nur noch ein Teil der Hauptburg mit einem umlaufenden Graben und dem Vorfeld aufgedeckt. Es wurde festgestellt, dass die Fundstelle von Norden durch eine Palisade und steile Abstürze geschützt war, von Süden sicherte sie ein halbkreisförmiger Graben, der in den kalkigen Untergrund eingetieft war, wobei seine Tiefe 220–270 cm erreichte. Den Eingang in das Areal gewährleistete eine hölzerne Überbrückung, die an einen mit Flussgeröll gepflasterten Weg anschloss, der zum Fuß der Bašta führte. Nach den datierbaren Funden von Keramik, Armbrustbolzenspitzen, Schnallen, Hufeisen und Eisenmessern lässt sich die Dauer der hiesigen kleinen Holz-Erde-Burg mit dem 13. bis 15. Jahrhundert eingrenzen, was auch die Funde mittelalterlicher ungarischer Münzen bestätigen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Existenz der erwähnten hölzernen kleinen Burg hatte auch Einfluss auf die Benennung der Siedlung, die an ihrem Fuß entstand. Ihr Name lässt sich von den Synonymen bašta und turňa ableiten, was eigentlich die gebräuchliche Bezeichnung für einen Turm war, gewiss Bestandteil der hölzernen Architektur der hiesigen kleinen Wachburg. Mit ihrem Untergang irgendwann im Laufe des unruhigen 16. Jahrhunderts verlor die Fundstelle ihre strategische Bedeutung, und die weitere Geschichte der Gemeinde ist schon mit dem Geschlecht der Potornayi verbunden, die sich etwa einen Kilometer südlicher einen neuen Renaissance-Sitz errichteten.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

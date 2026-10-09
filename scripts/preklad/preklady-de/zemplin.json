@@ -1,0 +1,298 @@
+{
+ "slug": "zemplin",
+ "data": {
+  "title": "Zemplín – keltisch-dakische Siedlung und slawischer Burgwall am Bodrog",
+  "slug": "zemplin-burgwall-am-bodrog",
+  "excerpt": "Die Gemeinde Zemplín am rechten Ufer des Bodrog gehört zu den bedeutenden archäologischen Fundstellen Mitteleuropas. Die felsige Anhöhe Hradisko wurde seit dem 5. Jahrtausend v. Chr. wiederholt besiedelt und im 1. Jahrhundert v. Chr. befestigt: Es entstand ein keltisch-dakischer Siedlungskomplex, dessen Struktur als Typ Zemplín zum Modell der Forschung wurde. Vom Ende des 9. Jahrhunderts an nutzten die Slawen den Platz erneut, später wurde daraus die Komitatsburg der ungarischen Könige.",
+  "metaTitle": "Zemplín – keltisch-dakische Siedlung und Burgwall am Bodrog",
+  "metaDescription": "Zemplín am Bodrog: seit der Jungsteinzeit besiedelt, im 1. Jahrhundert v. Chr. keltisch-dakisches Zentrum, später slawischer Burgwall und Komitatsburg.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Anhöhe Hradisko am östlichen Ortsrand, Felssporn in 121 m Höhe, etwa 1,5 km vom Zusammenfluss der Ondava und der Latorica",
+    "icon": "mountain"
+   },
+   {
+    "label": "Maße der Burganlage",
+    "value": "Ovaler Grundriss von 240 × 150 m, Wall entlang der Ränder der Erhebung, Höhe etwa 4 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Wallkonstruktion",
+    "value": "Im Westen ein Erdwall mit Kern aus trocken gesetzten Steinen, im Osten (über dem Steilufer des Bodrog) eine Holzpalisade",
+    "icon": "shield"
+   },
+   {
+    "label": "Typ Zemplín",
+    "value": "Die Siedlungsstruktur wurde zum Modellbegriff für ähnliche Siedlungen im ostkeltischen Raum",
+    "icon": "star"
+   },
+   {
+    "label": "Handwerk",
+    "value": "Herstellung bemalter Keramik (Töpferwerkstatt mit einem Brennofen von bis zu 1,8 m Rostdurchmesser) und metallurgische Werkstätten",
+    "icon": "crown"
+   },
+   {
+    "label": "Ethnizität",
+    "value": "Gemischte keltisch-dakische Bevölkerung in der Kontaktzone zweier Kulturwelten",
+    "icon": "users"
+   },
+   {
+    "label": "Quelle",
+    "value": "Vladimír Turčan und Kollektiv: Archeologické pamiatky – Kultúrne krásy Slovenska, Dajama, 2009",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ab dem 5. Jahrtausend v. Chr.",
+    "title": "Wiederholte urgeschichtliche Besiedlung",
+    "description": "Die strategisch günstige Erhebung bot natürlichen Schutz vor Feinden und auch vor Überschwemmungen des angeschwollenen Bodrog.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Befestigung der Höhensiedlung",
+    "description": "Es entstand ein Siedlungskomplex mit ethnisch gemischter keltisch-dakischer Bevölkerung — eine befestigte Höhensiedlung mit ovalem Grundriss von 240 × 150 m, umgeben von kleineren handwerklichen Siedlungen, der sogenannte Typ Zemplín.",
+    "type": "construction"
+   },
+   {
+    "year": "um die Mitte des 1. Jahrhunderts v. Chr.",
+    "title": "Zeit der größten Blüte",
+    "description": "Wichtiges Zentrum der Herstellung bemalter Keramik, der Metallurgie und des Handels, das Kontakte zwischen Pannonien, der Nordslowakei und Kleinpolen vermittelte.",
+    "type": "event"
+   },
+   {
+    "year": "1. Jahrhundert n. Chr.",
+    "title": "Ende der keltisch-dakischen Besiedlung",
+    "description": "Die Besiedlung klang allmählich aus und endete am Ende des Jahrhunderts unter dem Druck der vordringenden Germanen, der Träger der Przeworsk-Kultur.",
+    "type": "destruction"
+   },
+   {
+    "year": "Ende des 9. – 11. Jahrhundert",
+    "title": "Die Slawen erneuern den Burgwall",
+    "description": "Die Slawen nutzten den Raum der einstigen keltisch-dakischen Höhensiedlung; die ältere Wallbefestigung ergänzten sie auf der Ostseite und verstärkten sie entlang des gesamten Umfangs.",
+    "type": "founding"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Umfangreicher Umbau der Befestigung",
+    "description": "Wahrscheinlich unter der Bedrohung durch Angriffe altungarischer Stämme erhöhten und verstärkten die Bewohner des Burgwalls den Wall auf dem gesamten Umfang.",
+    "type": "construction"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Großmährisches Grab am Szélmalomdomb",
+    "description": "Ein Grab aus großmährischer Zeit auf einem Hügelgräberfeld der römischen Kaiserzeit — es belegt, dass in Zemplín damals eine größere Zahl von Menschen lebte und ein umfangreicheres Gräberfeld bestanden haben muss.",
+    "type": "discovery"
+   },
+   {
+    "year": "Wende vom 12. zum 13. Jahrhundert",
+    "title": "Erwähnung beim Anonymus",
+    "description": "Der historische Roman des Anonymus berichtet, der Ort sei zur Zuflucht eines slawischen Befehlshabers geworden, der aus dem Burgwall Uh (dem heutigen Užhorod) vor den von Álmos geführten Altungarn floh.",
+    "type": "event"
+   },
+   {
+    "year": "Wende vom 11. zum 12. Jahrhundert",
+    "title": "Letzte Umgestaltung des Walls, Umbau zur Burg",
+    "description": "Der Burgwall begann zu einer Burg umgebaut zu werden — es entstanden ein steinernes Verwaltungsgebäude und wahrscheinlich auch eine Kirche kleineren Ausmaßes.",
+    "type": "construction"
+   },
+   {
+    "year": "1261",
+    "title": "Älteste Schriftquelle über die Gemeinde",
+    "description": "Die Gemeinde wird direkt als villa Zemplén genannt; sie entwickelte sich aus einer älteren Siedlung in unmittelbarer Nähe der frühfeudalen Burg.",
+    "type": "event"
+   },
+   {
+    "year": "bis zum Ende des 13. Jahrhunderts",
+    "title": "Besitz der ungarischen Könige",
+    "description": "Burg und Dorf waren Besitz der ungarischen Könige und Zentrum des Komitats Zemplín — eine bedeutende Festung an der Nordgrenze des sich formierenden ungarischen Staates.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 674,
+    "caption": "Foto aus dem Archiv des Kreisdenkmalamts Košice (Kaschau), zur Verfügung gestellt von Martin Pristáš",
+    "alt": "Foto aus dem Archiv des Kreisdenkmalamts Košice (Kaschau), zur Verfügung gestellt von Martin Pristáš"
+   },
+   {
+    "mediaId": 675,
+    "caption": "Grundriss der Burganlage nach Štefan Janšák",
+    "alt": "Grundriss der Burganlage nach Štefan Janšák"
+   },
+   {
+    "mediaId": 676,
+    "caption": "Der östliche Teil der Burganlage",
+    "alt": "Der östliche Teil der Burganlage"
+   },
+   {
+    "mediaId": 678,
+    "caption": "Blick vom Wall auf einen Altarm des Bodrog",
+    "alt": "Blick vom Wall auf einen Altarm des Bodrog"
+   },
+   {
+    "mediaId": 679,
+    "caption": "Zemplín von weitem",
+    "alt": "Zemplín von weitem"
+   },
+   {
+    "mediaId": 680,
+    "caption": "Die Kirchen stehen auf einer Erhebung inmitten der Burganlage. Vorne die neuere griechisch-katholische Kirche, hinten die ursprünglich romanisch-gotische, später umgebaute calvinistische Kirche. Dort, wo die Kirchen stehen, stand die steinerne Komitatsburg.",
+    "alt": "Die Kirchen stehen auf einer Erhebung inmitten der Burganlage: vorne die neuere griechisch-katholische Kirche, hinten die ursprünglich romanisch-gotische, später umgebaute calvinistische Kirche. Hier stand die steinerne Komitatsburg."
+   },
+   {
+    "mediaId": 684,
+    "caption": "Im Hintergrund der mächtige Wall der Burganlage",
+    "alt": "Im Hintergrund der mächtige Wall der Burganlage"
+   },
+   {
+    "mediaId": 688,
+    "caption": "Die Wallkrone",
+    "alt": "Die Wallkrone"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gemeinde Zemplín gehört zu den bedeutenden archäologischen Fundstellen Mitteleuropas. Sie liegt im südlichen Teil der gleichnamigen Region am rechten Ufer des Flusses, der ab dem Zusammenfluss der Ondava mit der Latorica aus unbekannten Gründen Bodrog heißt. Ihr Ortsgebiet und die nähere Umgebung wurden seit der Jungsteinzeit intensiv besiedelt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hauptgrund, warum die Menschen gerade an dieser Stelle ihre Siedlungen anlegten, waren die guten Bedingungen für die Entwicklung der Landwirtschaft und die strategisch günstige Lage in der Nähe des wichtigen Theiß-Fernwegs von Süden nach Norden. Einer seiner Zweige führte entlang des Bodrog und seiner Zuflüsse zu den Karpatenpässen. Die älteste Schriftquelle über die Gemeinde, in der sie direkt als villa Zemplén genannt wird, stammt aus dem Jahr 1261. Sie entwickelte sich aus einer älteren Siedlung, die in unmittelbarer Nähe der frühfeudalen Burg bestand. Bis zum Ende des 13. Jahrhunderts waren die Burg und das Dorf Besitz der ungarischen Könige und Zentrum des Komitats Zemplín (Semplin). Zu den unübersehbaren Denkmälern gehört die Anhöhe "
+       },
+       {
+        "type": "text",
+        "text": "Hradisko",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " am östlichen Ortsrand mit einer gut erhaltenen Wallbefestigung auf einer felsigen, spornartigen Erhebung in einer Höhe von 121 m ü. M. In der flachen Landschaft mit einer durchschnittlichen Höhe von etwa 100 m ü. M. stellt die Anhöhe eine dominante Geländeform dar, die etwa eineinhalb Kilometer vom Zusammenfluss der Ondava und der Latorica entfernt liegt. Die strategisch günstige Lage der Erhebung bot den Bewohnern natürlichen Schutz vor Feinden und zur Zeit der Überschwemmungen auch vor dem Wasser der angeschwollenen Bodrog-Arme; seit dem 5. Jahrtausend v. Chr. wurde sie wiederholt zur Besiedlung genutzt. Befestigt wurde sie allerdings erst im 1. Jahrhundert v. Chr. Zu dieser Zeit entstand auf dem Gebiet der heutigen Gemeinde ein Siedlungskomplex mit einer ethnisch gemischten keltisch-dakischen Bevölkerung. Der Komplex bestand aus einer befestigten Höhensiedlung, die von kleineren handwerklichen Siedlungen umgeben war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlungsstruktur von Zemplín, als Typ Zemplín bezeichnet, wurde zum Modell für die Benennung ähnlicher Siedlungen im ostkeltischen Raum. Die auf einem Felssporn errichtete befestigte Höhensiedlung von Zemplín mit ovalem Grundriss und einer Fläche von 240 × 150 m war von einem Wall umgeben, der den Rändern der Erhebung folgte. Die Konstruktion der Befestigung war nicht einheitlich. Der Erdwall auf der westlichen, leichter zugänglichen Seite hatte einen Kern aus trocken gesetzten Steinen. Auf der Ostseite, in dem Abschnitt, in dem die Felswand steil zum Bodrog abfiel, bestand nur eine hölzerne Palisade. Es wird angenommen, dass der Wall eine Höhe von etwa vier Metern erreichte und auf dem Kamm von einer Palisade abgeschlossen wurde. Das Haupttor der Höhensiedlung lag auf der Südseite. Im östlichen Teil der Höhensiedlung wurde eine teilweise eingetiefte Hütte mit rechteckigem Grundriss, einer Feuerstelle und der typischen Zweipfostenkonstruktion untersucht. Das wirtschaftliche Hinterland der keltisch-dakischen Höhensiedlung bildeten kleinere Siedlungszellen, die in unmittelbarer Nähe über die gesamte rechtsseitige Terrasse des Bodrog verteilt waren. In den Siedlungen wurde auch spezialisiertes Handwerk betrieben. Dazu gehörte vor allem die Herstellung bemalter Keramik; das Areal der Töpferwerkstätten erstreckte sich im nordwestlichen Teil der Gemeinde, wo eine Werkstatt mit einem großen Keramikbrennofen mit einem Rostdurchmesser von bis zu 1,8 m untersucht werden konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Foto aus dem Archiv des Kreisdenkmalamts Košice (Kaschau), zur Verfügung gestellt von Martin Pristáš",
+    "alt": "Foto aus dem Archiv des Kreisdenkmalamts Košice (Kaschau), zur Verfügung gestellt von Martin Pristáš"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Höhensiedlung waren außerdem metallurgische Werkstätten konzentriert. Zur Siedlungsagglomeration von Zemplín gehörte ein Kultplatz, der südwestlich der Höhensiedlung lag. In der Latènezeit erlangte Zemplín gegenüber den nahe gelegenen gleichzeitigen Siedlungen eine gesellschaftlich und wirtschaftlich übergeordnete Stellung. Die Bevölkerung von Zemplín war ethnisch gemischt, denn das Gebiet lag in der Kontaktzone zwischen zwei ethnisch und kulturell unterschiedlichen Welten – der keltischen und der dakischen. Seine größte Blüte erlebte es um die Mitte des 1. Jahrhunderts v. Chr. Damals wurde es zu einem wichtigen Zentrum der Herstellung hochwertiger bemalter Keramik, der Metallurgie und des Handels. Seine Bedeutung reichte über die Grenzen der Region hinaus. Es erfüllte die Rolle eines Vermittlers der Kontakte zwischen Pannonien, der Nordslowakei und Kleinpolen. Im 1. Jahrhundert n. Chr. klang die keltisch-dakische Besiedlung von Zemplín allmählich aus und ging am Ende des Jahrhunderts unter dem Druck der von Norden vordringenden Germanen, der Träger der Przeworsk-Kultur, unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Grundriss der Burganlage nach Štefan Janšák",
+    "alt": "Grundriss der Burganlage nach Štefan Janšák"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vom Ende des 9. bis ins 11. Jahrhundert nutzten die Slawen den Raum der einstigen keltisch-dakischen Höhensiedlung. Die ältere Wallbefestigung ergänzten sie auf der Ostseite und verstärkten sie entlang des gesamten Umfangs. Im 10. Jahrhundert gingen die Bewohner des Burgwalls, wahrscheinlich unter der Bedrohung durch Angriffe der in das Karpatenbecken eindringenden altungarischen Stämme, zu einem umfangreichen Umbau der Befestigung über, die sie auf dem gesamten Umfang erhöhten und verstärkten. Keramikfragmente, die die Kontinuität der Slawen belegen, finden sich an verschiedenen Stellen im Ortsgebiet und in der unmittelbaren Umgebung von Zemplín."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem Wohnbau von Kertalja belegt dies auch ein Grab aus dem 8.–9. Jahrhundert – der großmährischen Zeit –, das auf einem Hügelgräberfeld aus der römischen Kaiserzeit am Szélmalomdomb gefunden wurde. Es ist sicher, dass damals in Zemplín eine größere Zahl von Menschen lebte, es muss also auch ein umfangreicheres Gräberfeld bestanden haben. Der Burgwall wird im historischen Roman des sogenannten Anonymus von der Wende vom 12. zum 13. Jahrhundert erwähnt. Dieser Erwähnung nach wurde der Ort zur Zuflucht eines slawischen Befehlshabers, der aus dem Burgwall Uh (dem heutigen Užhorod) floh, den die Altungarn unter der Führung von Álmos angriffen. An der Stelle des slawischen Burgwalls entstand später eine Burg. Der Burgwall im 11. Jahrhundert und die Burg bis zum Ende des 13. Jahrhunderts gehörten den ungarischen Königen. Sie war eine bedeutende Festung an der Nordgrenze des sich formierenden ungarischen Staates, Sitz des Gespans und Zentrum des Komitats Zemplín. Zur letzten Umgestaltung des Walls kam es wahrscheinlich an der Wende vom 11. zum 12. Jahrhundert, als der Burgwall zu einer Burg umgebaut wurde. Man errichtete ein steinernes Verwaltungsgebäude und wohl auch eine Kirche kleineren Ausmaßes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Der östliche Teil der Burganlage",
+    "alt": "Der östliche Teil der Burganlage"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "slug": "breclav-pohansko",
+ "data": {
+  "title": "Břeclav-Pohansko – ein großmährischer Burgwall an der Thaya",
+  "slug": "breclav-pohansko-grossmaehrischer-burgwall-thaya",
+  "excerpt": "Der Burgwall liegt an der mährisch-österreichischen Staatsgrenze am linken Ufer der Thaya, etwa 4 km südlich von Břeclav. Er hat eine Fläche von 27 ha und nimmt zusammen mit mehreren Suburbien bis zu 100 ha ein. Errichtet wurde er am Anfang des 9. Jahrhunderts; im 11. Jahrhundert war er vollständig verlassen und vergessen. Freigelegt wurden eine dreischiffige Kirche mit Friedhof, ein Herrenhof, eine Handwerkersiedlung und ein heidnisches Heiligtum.",
+  "metaTitle": "Břeclav-Pohansko – großmährischer Burgwall an der Thaya",
+  "metaDescription": "Großmährischer Burgwall an der Thaya: 27 ha, mit den Suburbien bis zu 100 ha, erbaut am Anfang des 9. Jahrhunderts. Kirche, Herrenhof und heidnisches Heiligtum.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "27 ha der Burgwall selbst, mit den Suburbien bis zu 100 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Wälle",
+    "value": "2 km lang, bis zu 25 m breit – eine der größten frühmittelalterlichen Befestigungen Mitteleuropas",
+    "icon": "shield"
+   },
+   {
+    "label": "Kirche",
+    "value": "Dreischiffig, 18,6 m lang, 7,2 m breit, mit farbigen Fresken geschmückt",
+    "icon": "building"
+   },
+   {
+    "label": "Friedhof bei der Kirche",
+    "value": "~400 Gräber mit 800 Gegenständen, darunter 4 Gräber von Adligen mit Schwertern",
+    "icon": "users"
+   },
+   {
+    "label": "Herrenhof",
+    "value": "Fläche von fast 1 ha, von einer Holzpalisade umgeben, in zwei Phasen errichtet",
+    "icon": "crown"
+   },
+   {
+    "label": "Handwerkersiedlung",
+    "value": "Fläche über 2 ha, 260 großmährische Befunde (Holz-, Leder- und Metallbearbeitung, Schmiede- und Schmuckhandwerk)",
+    "icon": "star"
+   },
+   {
+    "label": "Heidnisches Heiligtum",
+    "value": "Pfostenbau mit einem Durchmesser von 260 cm, zum Sonnenaufgang am Tag der Sommersonnenwende hin geöffnet",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "6.–8. Jahrhundert",
+    "title": "Frühslawische und altburgwallzeitliche Besiedlung",
+    "description": "An zwei Stellen im nördlichen Teil des Burgwalls erfasst, mit einem benachbarten gleichzeitigen Körpergräberfeld.",
+    "type": "founding"
+   },
+   {
+    "year": "Anfang des 9. Jahrhunderts",
+    "title": "Errichtung des Burgwalls und des Herrenhofs",
+    "description": "Der Hof im nordwestlichen Teil des Burgwalls wurde in zwei Phasen errichtet.",
+    "type": "construction"
+   },
+   {
+    "year": "zweite Hälfte des 9. Jahrhunderts",
+    "title": "Mehrzahl der Gräber und Funde bei der Kirche",
+    "description": "Vier Gräber von Adligen mit Schwertern, Gold- und Silberschmuck ähnlich den Funden aus Mikulčice und Staré Město.",
+    "type": "event"
+   },
+   {
+    "year": "erste Hälfte des 10. Jahrhunderts",
+    "title": "Entstehung des heidnischen Heiligtums",
+    "description": "Ein Pfostenbau aus 8 Randgrübchen um ein Mittelgrübchen, von einer Palisade umgeben.",
+    "type": "construction"
+   },
+   {
+    "year": "11.–12. Jahrhundert",
+    "title": "Untergang der Kirche",
+    "description": "Die Kirche ging irgendwann in diesem Zeitraum unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "11. Jahrhundert",
+    "title": "Der Burgwall vollständig verlassen",
+    "description": "Später völlig vergessen; den Namen „Pohansko“ erhielt er erst später nach Funden, die einem alten heidnischen Volk zugeschrieben wurden.",
+    "type": "destruction"
+   },
+   {
+    "year": "2008",
+    "title": "Grabungskampagne",
+    "description": "Im nordöstlichen Teil des Burgwalls wurden die Fundamente eines weiteren Steinbaus mit vermutlich sakraler Funktion freigelegt.",
+    "type": "discovery"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6376,
+    "alt": "Rekonstruktion eines ausgedehnten befestigten Burgwalls mit Hunderten von Häusern in der Flussaue, Blick aus der Höhe"
+   },
+   {
+    "mediaId": 2861,
+    "caption": "Im Areal des Burgwalls sind mehrere kleinere Höfe und links der Herrenhof zu sehen (Autor: I. Balák)",
+    "alt": "Im Areal des Burgwalls sind mehrere kleinere Höfe und links der Herrenhof zu sehen (Autor: I. Balák)"
+   },
+   {
+    "mediaId": 322,
+    "caption": "Der Herrenhof (Autor: I. Balák)",
+    "alt": "Der Herrenhof (Autor: I. Balák)"
+   },
+   {
+    "mediaId": 323,
+    "caption": "Das Tor zum Hof mit turmartigem Aufbau",
+    "alt": "Das Tor zum Hof mit turmartigem Aufbau"
+   },
+   {
+    "mediaId": 324,
+    "caption": "Bestattung eines Toten im Herrenhof (Autor: I. Balák)",
+    "alt": "Bestattung eines Toten im Herrenhof (Autor: I. Balák)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall liegt an der mährisch-österreichischen Staatsgrenze am linken Ufer der Thaya, etwa 4 km südlich von Břeclav (Lundenburg). Er hat eine Fläche von 27 ha und nimmt zusammen mit mehreren Suburbien eine Fläche von bis zu 100 ha ein. Errichtet wurde er am Anfang des 9. Jahrhunderts. Darüber hinaus wurden in der Umgebung von Pohansko mehrere selbstständige Siedlungen aus derselben Zeit entdeckt. Irgendwann im 11. Jahrhundert wurde der Burgwall vollständig verlassen und vergessen. Den Namen „Pohansko“ erhielt er erst später, als die Menschen hier verschiedene Gegenstände fanden, von denen sie glaubten, ein altes heidnisches Volk habe sie hier hinterlassen. Er lässt sich zu den bedeutendsten Denkmälern des frühen Mittelalters nicht nur in der Tschechischen Republik, sondern in ganz Mitteleuropa zählen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die frühslawische und altburgwallzeitliche Besiedlung (6.–8. Jahrhundert) wurde an zwei Stellen im nördlichen Teil des Burgwalls erfasst. Im Laufe dreier Jahrhunderte verschob sich die in einzelne Höfe gegliederte Haufensiedlung allmählich. Südlich der Siedlung wurde ein gleichzeitiges Körpergräberfeld untersucht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Im Areal des Burgwalls sind mehrere kleinere Höfe und links der Herrenhof zu sehen (Autor: I. Balák)",
+    "alt": "Im Areal des Burgwalls sind mehrere kleinere Höfe und links der Herrenhof zu sehen (Autor: I. Balák)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir rechnen ihn zu den Burgwällen des Niederungstyps. Die Wehrwälle des Burgwalls waren 2 km lang und bis zu 25 m breit, sie müssen also sehr hoch gewesen sein. Es handelt sich somit um eine der größten frühmittelalterlichen Befestigungen in Mitteleuropa. Das befestigte Areal des Burgwalls schützten überdies von allen Seiten die Thaya und ihre Flussarme. Auf dem Burgwall wurden die Fundamente einer größeren, mit farbigen Fresken geschmückten Kirche freigelegt. Die Kirche war dreischiffig, 18,6 m lang und 7,2 m breit. Um die Kirche herum wurde ein großer Friedhof entdeckt, freigelegt wurden etwa 400 Gräber mit 800 Gegenständen. Es fanden sich hier vier Gräber von Adligen mit Schwertern, und die Gräber enthielten eine Menge an Gold- und Silberschmuck sowie an Gombíks (kugelförmige Knopfanhänger) ähnlichen Charakters, wie sie in den Gräbern auf dem Burgwall zwischen Kopčany und Mikulčice und in Staré Město gefunden wurden. Die Funde und Gräber stammen größtenteils aus der zweiten Hälfte des 9. Jahrhunderts. Kein Grab reicht unter die Fundamente der Kirche, es wurde hier also zuerst die Kirche errichtet und erst danach bestattet. Die Kirche ging irgendwann im 11. bis 12. Jahrhundert unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Břeclav - Pohansko",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im nordwestlichen Teil des Burgwalls wurde ein Herrenhof festgestellt, ein rechtwinkliges Siedlungsgebilde von fast 1 ha Fläche, von einer Holzpalisade umgeben und im 9. Jahrhundert in zwei Phasen errichtet. Im Inneren des Hofes befanden sich ein sakraler Bezirk mit Kirche und Gräberfeld, ein Wohnbezirk mit ein- und mehrräumigen Häusern auf Stein- und Mörtelunterbauten sowie ein Wirtschaftsteil mit Gehegen und Ställen, einer Scheune, Speichern usw."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer dem Hof wurden weitere ausgedehnte großmährische Siedlungsareale und ein kleineres Gräberfeld an verschiedenen Stellen im Inneren des Burgwalls sowie in der Vorburg untersucht. Die Handwerkersiedlung im nordöstlichen Teil des Burgwalls (in der ehemaligen Forstbaumschule etwa 100 m östlich der Ausgrabung des Herrenhofs) wurde auf einer Fläche von mehr als 2 ha untersucht, ohne dass dabei ihre Ränder erfasst worden wären (260 großmährische Befunde). In der Siedlung lassen sich anhand der Funde verschiedene Handwerkszweige belegen: etwa die Bearbeitung von Holz, Leder und Fellen, das Knochenhandwerk, die Buntmetallverarbeitung, das Schmiedehandwerk, das Schmuckhandwerk oder die Textilherstellung. Während der Grabungskampagne 2008 wurden in diesem Raum die auf Mörtel gelegten Fundamente eines weiteren Steinbaus freigelegt, bei dem ebenfalls eine sakrale Funktion vermutet wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Herrenhof (Autor: I. Balák)",
+    "alt": "Der Herrenhof (Autor: I. Balák)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das großmährische Siedlungsareal der südlichen Vorburg bildet drei Gruppierungen, deren Grundrissdispositionen von den bewohnten Grubenhäusern bestimmt werden. Die östliche (mit einem gemauerten Brunnen in der Mitte) hatte wohl handwerklich-produktiven Charakter. Die mittlere (mit reihen- bis straßenartiger Anordnung, mit Lagerräumen, zahlreichen Funden von Drehmühlen und Ähnlichem) könnte eine Siedlung von Hofdienern verschiedener Kategorien gewesen sein. Die westliche (mit Funden von Reiterausrüstung) war offenbar eine Siedlung der Gefolgschaft, die dem Adligen – einem fürstlichen Würdenträger – mit Sitz im Hof auf dem Burgwall zur Verfügung stand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Heidnisches Heiligtum"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Pohansko wurde bei den archäologischen Ausgrabungen auch ein altslawisches heidnisches Heiligtum entdeckt. Es handelt sich um einen Pfostenbau aus der 1. Hälfte des 10. Jahrhunderts, der aus 8 um ein Mittelgrübchen angeordneten Randgrübchen besteht und von einer Palisade umgeben ist, die einen etwa zu einem Viertel offenen Kreis mit einem Durchmesser von 260 cm bildet. Im archäologischen Freilichtmuseum, das im Areal des Burgwalls eingerichtet wurde, befindet sich eine Rekonstruktion dieses Heiligtums. Das Heiligtum steht am Ort seiner Entdeckung und entspricht in seiner Gesamtform dem ursprünglichen Befund. Die Palisade ist zur Stelle des Sonnenaufgangs am Tag der Sommersonnenwende (21. 6.) hin geöffnet. Der Bau erfüllte eine Kultfunktion, konnte aber auch als primitiver Kalender dienen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Tor zum Hof mit turmartigem Aufbau",
+    "alt": "Das Tor zum Hof mit turmartigem Aufbau",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "slug": "hradiste-pri-partizanskom",
+ "data": {
+  "title": "Hradište bei Partizánske – eine befestigte Höhensiedlung über der Nitrica",
+  "slug": "hradiste-bei-partizanske-hoehensiedlung-nitrica",
+  "excerpt": "Die befestigte Höhensiedlung von Hradište liegt an der engsten Stelle des Nitrica-Tales am rechten Ufer der Nitrica. Ihr kleinerer Teil, Pravdová genannt, besteht von Norden und Nordosten aus unzugänglichen dolomitischen Kalksteinen, den größten Teil des Areals nimmt heute Ackerland ein. Errichtet hat die Anlage vermutlich die Lausitzer Kultur, im 9.–10. Jahrhundert nutzten sie die Slawen. Štefan Janšák vermaß den rund 400 m langen Wall im Jahr 1928.",
+  "metaTitle": "Hradište bei Partizánske – Höhensiedlung über der Nitrica",
+  "metaDescription": "Befestigte Höhensiedlung an der engsten Stelle des Nitrica-Tales: Lausitzer Kultur, slawische Nutzung im 9.–10. Jahrhundert, Janšáks Beschreibung von 1928.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "engste Stelle des Nitrica-Tales, rechtes Ufer des Flusses Nitrica, Höhe 210–260 m ü. M.",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche der Höhensiedlung",
+    "value": "Oberfläche in zwei Teile gegliedert, Gesamtfläche 6,45 ha",
+    "icon": "building"
+   },
+   {
+    "label": "Befestigung (nach Janšák, 1928)",
+    "value": "Wall etwa 400 m lang, am höchsten Punkt 5 m hoch, an der Basis 60 m breit",
+    "icon": "shield"
+   },
+   {
+    "label": "Autor der Beschreibung",
+    "value": "Ing. Štefan Janšák, Begründer der slowakischen Archäologie, Historiker und Pädagoge",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "jüngere Bronzezeit – Hallstattzeit",
+    "title": "Errichtung durch das Volk der Lausitzer Kultur",
+    "description": "Die Höhensiedlung errichtete mit größter Wahrscheinlichkeit das Volk der Lausitzer Kultur (jüngere Bronzezeit und Hallstattzeit).",
+    "type": "founding"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Slawische Besiedlung der Höhensiedlung",
+    "description": "In der Zeit des 9.–10. Jahrhunderts nutzten die Anlage auch die Slawen.",
+    "type": "era"
+   },
+   {
+    "year": "1100",
+    "title": "Entstehung der romanischen Kirche des hl. Barnabas",
+    "description": "Auf der Höhensiedlung steht die romanische Kirche des hl. Barnabas, erbaut etwa im Jahr 1100, und um sie herum ein erhaltener Friedhof mit Grabplatten des 11. und 12. Jahrhunderts.",
+    "type": "construction"
+   },
+   {
+    "year": "1533",
+    "title": "Erste schriftliche Erwähnung des Dorfes Hradište",
+    "description": "Das Dorf ist ein Beispiel für eine alte Besiedlung, die in den Schriftquellen nicht erfasst ist – erwähnt wird es erst im Jahr 1533.",
+    "type": "event"
+   },
+   {
+    "year": "11.–15. Jahrhundert",
+    "title": "Siedlungshorizont in der Lage Pravdová",
+    "description": "In der Lage Pravdová wurde ein Siedlungshorizont vom 11. bis zum 14.–15. Jahrhundert lokalisiert.",
+    "type": "era"
+   },
+   {
+    "year": "15. Jahrhundert",
+    "title": "Burgruine auf der Pravdová",
+    "description": "Nach dem Lexikon Magyar országh varmegy (Nyitra) befand sich in Hradište auf dem Hügel über der Siedlung im 15. Jahrhundert eine Burgruine.",
+    "type": "destruction"
+   },
+   {
+    "year": "August 1926",
+    "title": "Entdeckung der Anlage durch Š. Janšák",
+    "description": "Nach Janšáks Beschreibung aus dem Jahr 1928 entdeckte Š. Janšák die Höhensiedlung im August 1926.",
+    "type": "discovery"
+   },
+   {
+    "year": "1928",
+    "title": "Janšáks Untersuchung und Beschreibung der Anlage",
+    "description": "Die Höhen- und Flächenparameter der Anlage vermaß im Jahr 1928 Ing. Štefan Janšák, der Begründer der slowakischen Archäologie, und beschrieb sie im Sammelband der Museumsgesellschaft.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3281,
+    "alt": "Luftbild des Dorfes mit Kirche und Friedhof auf einer Anhöhe über den Feldern"
+   },
+   {
+    "mediaId": 3282,
+    "caption": "Foto: Tomáš Kytka",
+    "alt": "Foto: Tomáš Kytka"
+   },
+   {
+    "mediaId": 3283,
+    "alt": "Luftbild der bewaldeten Anhöhe der Höhensiedlung über dem Dorf und der Straße"
+   },
+   {
+    "mediaId": 3284,
+    "alt": "Luftbild der Höhensiedlung zwischen Feldern und der Dorfbebauung"
+   },
+   {
+    "mediaId": 3285,
+    "alt": "Historischer Plan der Höhensiedlung bei Veľké Bielice mit Walllängen und Maßstab"
+   },
+   {
+    "mediaId": 3286,
+    "alt": "Längsschnitt durch die Höhensiedlung mit Höhen- und Längenmaßstab"
+   },
+   {
+    "mediaId": 3287,
+    "alt": "Federzeichnung der Höhensiedlung über der Ebene von Štefan Janšák"
+   },
+   {
+    "mediaId": 3288,
+    "caption": "Der Südwesthang der Höhensiedlung.",
+    "alt": "Der Südwesthang der Höhensiedlung."
+   },
+   {
+    "mediaId": 3289,
+    "caption": "Der Südhang der Höhensiedlung musste nicht befestigt werden.",
+    "alt": "Der Südhang der Höhensiedlung musste nicht befestigt werden."
+   },
+   {
+    "mediaId": 3290,
+    "caption": "Die von Westen bis nach Nordosten verlaufende Wallkrone ist von dichten Schlehen überwachsen.",
+    "alt": "Die von Westen bis nach Nordosten verlaufende Wallkrone ist von dichten Schlehen überwachsen."
+   },
+   {
+    "mediaId": 3291,
+    "caption": "Unebenheiten auf der Fläche der Höhensiedlung.",
+    "alt": "Unebenheiten auf der Fläche der Höhensiedlung."
+   },
+   {
+    "mediaId": 3292,
+    "caption": "Blick vom Fuß des westlichen Walles auf die Wallkrone. Die Höhe schwankt je nach den Unebenheiten zwischen 1,5 und 2 Metern.",
+    "alt": "Blick vom Fuß des westlichen Walles auf die Wallkrone. Die Höhe schwankt je nach den Unebenheiten zwischen 1,5 und 2 Metern."
+   },
+   {
+    "mediaId": 3293,
+    "caption": "Blick von der Hauptburg auf die Vorburg",
+    "alt": "Blick von der Hauptburg auf die Vorburg"
+   },
+   {
+    "mediaId": 3294,
+    "alt": "Überwachsener Wall der Höhensiedlung im winterlichen Gras"
+   },
+   {
+    "mediaId": 3295,
+    "alt": "Plateau der Höhensiedlung mit trockenem Gras und Gebüsch"
+   },
+   {
+    "mediaId": 3296,
+    "alt": "Blick vom Rand der Höhensiedlung auf die Einfamilienhäuser unterhalb des Hanges"
+   },
+   {
+    "mediaId": 3297,
+    "alt": "Grünes Feld unter dem bewaldeten Rücken der Höhensiedlung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung in Hradište ist eine natürliche Formation, die sich an der engsten Stelle des Nitrica-Tales am rechten Ufer des Flusses Nitrica befindet. Geologisch betrachtet besteht der kleinere Teil der Anlage, Pravdová genannt, von der nördlichen und nordöstlichen Seite aus unzugänglichen dolomitischen Kalksteinen. Der überwiegende Teil des Areals setzt sich aus sandigem Untergrund zusammen. Bedeckt ist er von lehmig-sandiger und lehmiger Erde, die heute als Ackerland dient."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das sandige Substrat auf der Südseite der Anlage wurde stärker als Baumaterial genutzt. Als sich der Sandabbau der Kirche näherte, wurden weitere Arbeiten aus Sicherheitsgründen verboten. Die Erdschicht über dem sandigen Substrat ist von unterschiedlicher Mächtigkeit. An manchen Stellen werden beim Tiefpflügen Steine herausgepflügt. In der Urgeschichte diente die Höhensiedlung als Siedlung menschlicher Gemeinschaften. Sie hatte eine Wehrfunktion und war von drei Seiten unzugänglich. Die Verteidigung des Hügels war auf der offenen Seite durch einen Erdwall verstärkt, dessen Reste bis heute erhalten sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Luftbild der befestigten Höhensiedlung Hradište (bei Partizánske)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anlage befindet sich in einer Höhe von 210 m, ihr höchster Punkt liegt bei 260 m. Sie hat eine unebene, sattelförmige Oberfläche, die sich in Ost-West-Richtung erstreckt. Die Fläche der Höhensiedlung, die zum kleineren Teil von Rasen bedeckt ist, wird zum Weiden von Vieh genutzt. Eine kleinere Fläche ist von der Kirche bebaut, in ihrer Nähe liegen der alte und der neue Friedhof. Die größte Fläche des Areals dient als Ackerland."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung der Höhensiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung errichtete mit größter Wahrscheinlichkeit "
+       },
+       {
+        "type": "text",
+        "text": "das Volk der Lausitzer Kultur (jüngere Bronzezeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und "
+       },
+       {
+        "type": "text",
+        "text": "Hallstattzeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "), und später, in der Zeit des 9.–10. Jahrhunderts, nutzten sie auch die "
+       },
+       {
+        "type": "text",
+        "text": "Slawen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Das Dorf ist ein Beispiel für eine alte Besiedlung, die in den Schriftquellen nicht erfasst ist. Erwähnt wird es erst im Jahr 1533, obwohl auf der Höhensiedlung die romanische Kirche des hl. Barnabas steht, erbaut etwa im Jahr 1100, und um sie herum ein erhaltener Friedhof mit Grabplatten des "
+       },
+       {
+        "type": "text",
+        "text": "11. und 12. Jahrhunderts.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Der romanische Taufstein befindet sich derzeit im Slowakischen Nationalmuseum (SNM) – im Schloss Bojnice."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhen- und Flächenparameter vermaß im Jahr 1928 Ing. Janšák, der Begründer der slowakischen Archäologie, Historiker und Pädagoge. Janšák beschreibt die Höhensiedlung folgendermaßen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der Burgwall in Hradište erstreckt sich auf dem oberen Ausläufer (Sporn) über dem Dorf Hradište, an der Landstraße Veľké Bielice–Vestenice, Komitat Neutra. Die eine Seite ist ein Felsen aus brüchigem Kalkstein, durch Gebirgsdruck gestört, zu Schotter und Sand zerfallend und deshalb von heftigen Regen in bröckelige Rinnen zerrissen. Der höchstgelegene Teil des Burgwalls ist ein steiler Felsen aus Kalktuff, der sich über das Niveau des Weges erhebt. Die dritte Seite ist eine leicht geneigte Weide, von Rinnen durchzogen und mit Gebüsch bewachsen. Ein Teil dieser Seite bildet Ackerfeld. Nach seiner geographischen Lage liegt der Burgwall auf einem Bergausläufer oder Sporn. Deshalb ist die westliche Seite am wenigsten von Natur geschützt, da sie durch einen freien und sehr flachen Rücken mit dem übrigen Gelände zusammenhängt. Sie ist mit einer starken Aufschüttung versehen, etwa 400 m lang und am höchsten Punkt 5 m hoch. Der Querschnitt ist an der Basis 60 m breit. Dieser Hang ist heute gegenüber der ursprünglichen Höhe wahrscheinlich bedeutend niedriger, denn es befinden sich auf ihm bebaute Ackerstücke. Infolgedessen verschiebt sich bei jedem Pflügen Erde vom Gipfel des Walles nach beiden Seiten hinab.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto: Tomáš Kytka",
+    "alt": "Foto: Tomáš Kytka",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der Wall verflacht sich ständig und wird niedriger. Wie viel ihm auf diese Weise von der ursprünglichen Höhe abgegangen ist, lässt sich nicht einmal annähernd angeben. Wenn wir bedenken, dass der Wall auf dem Kamm noch hölzerne Palisaden trug, so war ein etwa 2 m breiter Gang für den Fall einer notwendigen Verteidigung erforderlich. Es ist anzunehmen, dass der Wall von der Außenseite 10 m breit war und dass die innere Seite, auf der ein freier Zugang zu den Palisaden bestehen musste, eine sanftere Neigung hatte. Der Wall ist in seiner ganzen Länge sehr deutlich erhalten und macht auf den ersten Blick den Eindruck einer großen natürlichen Geländewelle. Erst bei aufmerksamer Beobachtung lässt sich feststellen, dass er von Menschenhand gemacht ist. An seinem Ende ist er von einem Weg unterbrochen, der sich in ihn einschneidet. Die Oberfläche des Burgwalls ist in zwei große Teile mit einer Gesamtfläche von 6,45 ha gegliedert. Der erste Teil, der an erhöhter Stelle liegt und am besten geschützt, also am sichersten ist, war der Ort, an dem sich die weltlichen und geistlichen Oberhäupter und Führer aufhielten. Nach Lage und Bedeutung konnte man ihn für eine Art Akropolis halten. Im zweiten Teil des Burgwalls liegt der Friedhof, auf dem auch heute bestattet wird.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Luftbild der befestigten Höhensiedlung Hradište (bei Partizánske)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Nördlich des Friedhofs steht die von einer Mauer umschlossene Kirche, und man darf annehmen, dass an den Stellen, wo heute die Kirche steht, einst heidnische Altäre standen, an denen die Urbewohner ihren Göttern Gaben opferten. Der Übergang vom Heidentum zum Christentum war nicht so plötzlich, wie er in den Geschichtslehrbüchern dargestellt wird. Die Gegensätze zwischen den Anhängern des Christentums und des ursprünglichen Heidentums wurden oft lange und vielleicht auch hart überwunden. Die neue christliche Lehre legte sich allmählich in die Herzen der Gläubigen. Diejenigen, die den christlichen Glauben annahmen, veränderten sich nicht nur innerlich, sondern auch äußerlich; die äußeren Veränderungen zeigten sich in den Siedlungen und in den Wohnstätten. Die Christen legten allmählich die heidnischen Sitten und Abergläuben ab. Die Funde wurden nur an der Oberfläche festgestellt, ohne Grabungen; es sind Scherben aus der ersten Eisenzeit, über die ganze Oberfläche des Burgwalls verstreut, hauptsächlich jedoch in seiner östlichen Hälfte. Massenhafte Scherbenfunde fanden sich an den Stellen aufgegrabener und vom Hang abrutschender Wälle. Das würde darauf hindeuten, dass die Wälle mehrmals ausgebessert und ergänzt wurden und auf diese Weise Gefäßreste in sie hineingelangten. Auf jener Seite sind Steinbrüche offen, und dem Burgwall droht von ihnen die Gefahr einer großen Beschädigung. Grabungen hat es weder versuchsweise noch systematisch gegeben, ja über diesen Burgwall findet sich nirgends in der Fachliteratur eine Erwähnung. Auf dem Friedhof finden sich in den frisch ausgehobenen Gräbern keine Kulturschichten, ja es wurden nicht einmal Scherben gefunden. An dieser Stelle ist die Erde sehr hart, mit grobem Schotter und Felsblöcken vermischt. Mancherorts liegt der Felsen nahe an der Oberfläche, wovon begonnene und unvollendete Gräber Zeugnis geben, die an anderer Stelle neu ausgehoben werden mussten. Der Burgwall wurde vom Autor im August des Jahres 1926 entdeckt.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Luftbild der befestigten Höhensiedlung Hradište (bei Partizánske)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dies ist ein verkürzter Text des Artikels, der im Jahr 1928 im Sammelband der Museumsgesellschaft veröffentlicht wurde. Der Autor schrieb in dem Artikel, dass die slawischen prähistorischen Burgwälle oder die Burgwälle aus dem Anbruch der historischen Zeiten in der Regel auf den Ausläufern von Gebirgsketten liegen, an der Grenze zwischen dem Gebirge und der Ebene oder dem Tal, das an es angrenzt. Die Höhensiedlung in Hradište hatte eine wehrhafte und eine wirtschaftliche Bedeutung. Die Beschreibung der Anlage ist in vielerlei Hinsicht anregend für die archäologische und historische Forschung. Bis heute wurde die Anlage archäologisch nicht umfassend untersucht. Bislang wurde auch die Bedeutung und Stellung der Anlage in der slawischen Zeit nicht eindeutig bestimmt. Alle Funde, die auf der Oberfläche der Anlage gemacht wurden, stammen aus Oberflächenaufsammlungen oder aus zufälligen bäuerlichen Pflugfunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Grundriss der Höhensiedlung nach Š. Janšák (1928)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hallstattzeitliches Material",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (Lausitzer Kultur) fand sich auf der ganzen Fläche der Anlage. In der Lage Pravdová wurde ein Siedlungshorizont lokalisiert, der vom "
+       },
+       {
+        "type": "text",
+        "text": "11. bis zum 14.–15. Jahrhundert reicht.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Diese Lage bildet nur einen Teil des hallstattzeitlichen Siedlungsareals. Geophysikalische Prospektionen (A. Ruttkay) deuten am Rand der Hauptburg auf das Vorhandensein eines Baus hin, der nicht untersucht wurde. Es ist möglich, dass es sich um Besitz des Johanniterkonvents des Königs Stephan in Gran (Esztergom) handelt, der in zwei Urkunden erwähnt wird, seine genaue Bestimmung ist jedoch nicht sicher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Mittelalterliche Burg",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Pravdová stand in alter Zeit eine Burg oder ein burgähnlicher Bau. Die Burg war Eigentum eines Adligen, der den altslawischen Namen Pravda trug. Die Erwähnung der Burg und ihres Eigentümers findet sich im Lexikon Magyar országh varmegy (Nyitra), wo geschrieben steht, dass sich in Hradište auf dem Hügel über der Siedlung im 15. Jahrhundert eine Burgruine befand. Die Reste der Fundamente des Baus waren in den dreißiger Jahren am Rand der nach Südwesten gerichteten Erhebung der Anlage zu sehen. In späteren Jahren wurden die Mauerreste von dem Rasen überdeckt, der die Oberfläche der Erhebung bildet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Und wir fügen noch eine Sage hinzu: ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Querschnitt der Höhensiedlung nach Š. Janšák (1928)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer alten Sage nach, die im Dorf Hradište von Generation zu Generation weitergegeben wird, stand auf der Pravdová eine Burg, in der ein Adliger namens Pravdapán lebte, dem die Siedlung unter der Burg sowie die Felder und Wälder in der nächsten Umgebung gehörten. Auch am linken Ufer der Nitrica auf dem Berg Chotoma stand eine Burg. Dort lebte ein anderer Adliger – Chotomapán, dem alle Wälder und Siedlungen nördlich von Hradište gehörten. Beide Adligen hielten untereinander Verbindung über eine Hängebrücke, die die Pravdová mit der Chotoma verband. Die Überbrückung war notwendig, weil zwischen den Burgen ein undurchdringliches, von Sümpfen und Auwald erfülltes Gelände lag. Der Sage von der Hängebrücke fehlt ein rationaler Kern. Beim damaligen Stand der technischen Möglichkeiten ließ sich ein solcher Bau nicht verwirklichen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto: Tomáš Kytka, Tomáš Humaj, Archäologisches Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

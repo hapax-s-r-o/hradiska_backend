@@ -76,11 +76,28 @@ const CISLA = [
   /* Desatinná BODKA (1.5 km). Pozor na nemecký tisícový oddeľovač `1.500` —
      ten má za bodkou práve tri cifry, desatinné miesto jednu či dve. */
   [/\b\d+\.\d{1,2}\s?(km|m|ha|kg|%)(?!\d)/g, 'desatinná bodka → v nemčine čiarka'],
-  [/\b\d{1,3}(,\d{3})+\b/g, 'tisícová čiarka → v nemčine bodka'],
+  /* Tisícová ČIARKA (35,000). Nesmie sa chytiť desatinná čiarka pred
+     jednotkou — `9,985 g` je správny nemecký zápis hmotnosti a rovnako
+     to má slovenský originál. */
+  [/\b\d{1,3}(,\d{3})+\b(?!\s?(g|kg|mg|mm|cm|dm|m|km|ha|l|%|°))/g, 'tisícová čiarka → v nemčine bodka'],
   /* Štvorciferné číslo s oddeľovačom (1.500) — nemčina ho nerozdeľuje,
      oddeľovač sa píše až od piatich cifier. */
   [/(?<!\d)[1-9]\.\d{3}(?!\d)/g, 'štvorciferné číslo s oddeľovačom → bez neho'],
 ];
+
+/* OVERENÉ VÝNIMKY. Kľúč je nemecký slug, hodnota začiatok hlásenia, ktoré
+   sa pri ňom nemá vypísať. Každá je prejdená ručne a dôvod je pri nej — nie
+   je to vypnutie pravidla, iba jeden článok a jeden termín.
+
+   Dobový citát sa prekladá verne (§14), takže zákazy §11.3 a §11.9 v ňom
+   neplatia: na pamätnej tabuli v Traismauer (1990) stojí „Dem slowakischen
+   Fürsten Pribina", Štefan Janšák písal o hradisku ako o „akropole". */
+const VYNIMKY = {
+  'mosaburg-pribinas-sitz-in-pannonien': ['slowakisch… pri dobových ľuďoch'],
+  'hradiste-bei-partizanske-hoehensiedlung-nitrica': ['Akropolis →'],
+  /* „u Slovincov božič" — článok tu hovorí o Slovincoch, nie o Slovanoch. */
+  'maros-demko-das-kiewer-pantheon-der-slawischen-goetter': ['Slowenen →'],
+};
 
 const textClanku = (clanok) => {
   const von = [];
@@ -141,10 +158,12 @@ async function main() {
       const najdene = t.match(vzor) || [];
       if (najdene.length) nalezy.push(`${popis}: ${najdene.slice(0, 3).join(', ')}`);
     }
-    if (nalezy.length) {
+    const povolene = VYNIMKY[c.slug] || [];
+    const zvysok = nalezy.filter((n) => !povolene.some((v) => n.startsWith(v)));
+    if (zvysok.length) {
       zle++;
       console.log(`• ${c.slug}`);
-      for (const n of nalezy) console.log(`    ${n}`);
+      for (const n of zvysok) console.log(`    ${n}`);
     } else if (VSETKO) {
       console.log(`  ${c.slug} · čistý (sk ${sk}, en ${en})`);
     }

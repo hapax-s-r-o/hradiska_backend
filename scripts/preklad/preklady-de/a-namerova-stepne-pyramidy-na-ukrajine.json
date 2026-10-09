@@ -1,0 +1,778 @@
+{
+ "slug": "a-namerova-stepne-pyramidy-na-ukrajine",
+ "data": {
+  "title": "A. Námerová: Steppenpyramiden in der Ukraine – die Kurgane der Skythen",
+  "slug": "a-namerova-steppenpyramiden-ukraine-kurgane-der-skythen",
+  "excerpt": "Der Titel ist dem Namen einer Ausstellung entlehnt, die 2007 in Krakau die Ergebnisse der Untersuchung des skythischen Kurgans Veľká Ryžanovka vorstellte. Die Denkmäler der skythischen Kultur liegen nicht ausschließlich in der Ukraine, dort sind sie jedoch dominant. Der Beitrag führt in die Geschichte der Region ein – in die Zeiten, als über dieses Gebiet die von den antiken Autoren als Skythen bezeichneten Nomaden hinwegzogen.",
+  "metaTitle": "A. Námerová: Steppenpyramiden – die Kurgane der Skythen",
+  "metaDescription": "Der skythische Kurgan Veľká Ryžanovka in der Ukraine — die „Steppenpyramiden“ und die Ergebnisse ihrer Erforschung, 2007 in Krakau vorgestellt.",
+  "keyFacts": [
+   {
+    "label": "Gebiet",
+    "value": "Nördlicher Schwarzmeerraum, Steppen und Waldsteppe der heutigen Ukraine (auch Krim, Kaukasus, Kuban)",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "8. Jahrhundert v. Chr. – 3. Jahrhundert n. Chr.",
+    "icon": "calendar"
+   },
+   {
+    "label": "Hauptquelle",
+    "value": "Das vierte Buch der Historien Herodots",
+    "icon": "scroll"
+   },
+   {
+    "label": "Charakteristische Merkmale",
+    "value": "Die skythische Trias – Pferdegeschirr, Bewaffnung und Tierstil",
+    "icon": "star"
+   },
+   {
+    "label": "Grabdenkmäler",
+    "value": "Kurgane (Hügelgräber) mit königlichen wie auch einfachen Gräbern",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "8. Jh. v. Chr.",
+    "title": "Ankunft der Skythen im nördlichen Schwarzmeerraum",
+    "description": "Elemente der skythischen Kultur treten zum ersten Mal in der Dnepr-Region und in der Waldsteppe auf; die Skythen kommen aus Asien mit einer schon entwickelten Kultur in die Schwarzmeersteppen.",
+    "type": "event"
+   },
+   {
+    "year": "734–714 v. Chr.",
+    "title": "Einfall der Kimmerier in Urartu",
+    "description": "Die Kimmerier, von den Skythen aus den Schwarzmeersteppen gedrängt, fielen unter der Herrschaft Rusas I. in das Reich Urartu ein.",
+    "type": "event"
+   },
+   {
+    "year": "680–669 v. Chr.",
+    "title": "Erste Einfälle der Skythen in den Nahen Osten",
+    "description": "Die ersten Einfälle der Skythen in die Gebiete des Nahen Ostens erfolgten unter der Herrschaft des assyrischen Königs Asarhaddon.",
+    "type": "event"
+   },
+   {
+    "year": "630–625 v. Chr.",
+    "title": "Bedrohung Ägyptens",
+    "description": "Die Skythen bedrohten Ägypten; Pharao Psammetich I. bewog sie mit Geschenken und Bitten, nicht weiter vorzudringen.",
+    "type": "event"
+   },
+   {
+    "year": "594 v. Chr.",
+    "title": "Ende der Oberherrschaft der Skythen in Vorderasien",
+    "description": "Der medische König Kyaxares beendete mit einer List die über achtundzwanzigjährige Oberherrschaft der Skythen im Orient.",
+    "type": "event"
+   },
+   {
+    "year": "515–513/512 v. Chr.",
+    "title": "Feldzug Dareios’ I. gegen die Skythen",
+    "description": "Der persische König Dareios I. zog gegen die Skythen; nach Herodot endete der Feldzug siegreich für die Skythen.",
+    "type": "event"
+   },
+   {
+    "year": "5.–4. Jh. v. Chr.",
+    "title": "Größte Blüte Skythiens",
+    "description": "Die Zeit der größten und sich nicht wiederholenden Blüte Skythiens, der Entwicklung der Handelsbeziehungen mit den Griechen und der Entstehung reicher königlicher Kurgane.",
+    "type": "event"
+   },
+   {
+    "year": "339 v. Chr.",
+    "title": "Niederlage des Königs Ateas",
+    "description": "Im Kampf zwischen Philipp II. von Makedonien und dem skythischen König Ateas an der Donau fiel der angeblich 90-jährige Ateas, was eine allgemeine politische Destabilisierung zur Folge hatte.",
+    "type": "event"
+   },
+   {
+    "year": "ab dem 3. Jh. v. Chr.",
+    "title": "Formierung der spätskythischen Kultur",
+    "description": "Die Skythen gehen allmählich zu einer sesshaften Lebensweise über; die Kultur hält sich auf der Krim nach einigen Forschern bis in das 3. Jahrhundert n. Chr.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4430,
+    "caption": "Skythische Krieger - zeitgenössische Darstellung",
+    "alt": "Skythische Krieger - zeitgenössische Darstellung"
+   },
+   {
+    "mediaId": 4431,
+    "caption": "Annäherungsweise Karte der skythischen Stämme und anderer Nomaden nach der Beschreibung Herodots. Aus dem Buch J. Bouzek 1978: Antické Černomoří, Praha.",
+    "alt": "Annäherungsweise Karte der skythischen Stämme und anderer Nomaden nach der Beschreibung Herodots. Aus dem Buch J. Bouzek 1978: Antické Černomoří, Praha."
+   },
+   {
+    "mediaId": 4432,
+    "caption": "Ein Skythe auf griechischer Keramik",
+    "alt": "Ein Skythe auf griechischer Keramik"
+   },
+   {
+    "mediaId": 4433,
+    "caption": "Rekonstruktion eines skythischen Reiters",
+    "alt": "Rekonstruktion eines skythischen Reiters"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Titel des Beitrags ist dem Namen einer Ausstellung entlehnt und teilweise abgewandelt, die bereits im Jahr 2007 in Krakau stattfand. Der breiten Öffentlichkeit wurden damals die Ergebnisse der Untersuchung des skythischen Kurgans* Veľká Ryžanovka vorgestellt, der sich in der Ukraine befindet. Die Denkmäler der skythischen Kultur befinden sich nicht ausschließlich in der Ukraine, dennoch ist dies das Gebiet, in dem sie dominant sind. Tauchen wir daher für einen Augenblick in die ältere Geschichte dieser Region ein – in die Zeiten, als über dieses Gebiet die von den antiken Autoren als Skythen bezeichneten Nomaden hinwegzogen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Gebiet der heutigen Ukraine, in der Region des nördlichen Schwarzmeerraums und auch in entfernteren Gebieten ragen viele Kurgane aus der skythischen Epoche auf. Allmählich entdeckten und untersuchten sie zunächst Laien und später Archäologen. Im neunzehnten Jahrhundert begann im damaligen Russland neben anderen bedeutenden archäologischen Entdeckungen die „Jagd nach den Schätzen der Skythen“. Die Hügelgräber gehörten oft der aristokratischen Schicht, und ihre Bestattungen enthielten Gegenstände aus Edelmetallen – Gold, Silber, Elektron. Es ist selbstverständlich, dass nicht jeder Laienentdecker des einen oder anderen Hügelgrabes so ehrlich war, die gefundenen wertvollen Objekte in ein Museum oder zum damaligen Stadtverwalter zu bringen. Wahrscheinlich haben wir auf diese Weise einen gewissen Teil der Funde verloren, die zu einer besseren Kenntnis der Kultur der Skythen beitragen könnten. Schon in der Antike zogen die gut sichtbaren Hügelgräber verschiedene Raubgräber an und wurden zum Ziel ihrer Plünderungen. In vielen von ihnen wurde jedoch bis in die Zeit des Mittelalters bestattet. Den gewinnsüchtigen Dieben verging daher aus Furcht vor der Entweihung für eine Zeit die Lust auf ein heimliches Eindringen in ihr Inneres. Ein großer Teil der entdeckten Gegenstände aus Edelmetallen, die der Zeit der Skythen zugeschrieben werden, wurde weltberühmt, und zwar vor allem dank der hervorragenden künstlerischen Ausführung. Mit eigenen Augen kann man viele wertvolle Gegenstände aus den Kurganen in der Ermitage im russischen Sankt Petersburg bewundern. Ein Teil der Originale wurde in den letzten Jahrzehnten auch in verschiedenen europäischen Metropolen ausgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Skythische Krieger - zeitgenössische Darstellung",
+    "alt": "Skythische Krieger - zeitgenössische Darstellung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei meinem Studium sowie bei Begegnungen mit dem Laienpublikum oder mit nahen Freunden stoße ich schon seit Jahren auf die Frage, die Ihnen im Zusammenhang mit den Skythen jeder als erste stellt. „Wer waren diese Skythen?“ Auch die Forscher selbst haben Schwierigkeiten, die Informationen über sie in einer kurzen Charakteristik zusammenzufassen. Verschiedene mit ihnen verbundene Aspekte behandelten und behandeln Archäologen, Historiker, Linguisten, teilweise Ethnologen, entfernter Kunsthistoriker und verwandte Wissenschaftsdisziplinen. Mit ihnen ist eine verhältnismäßig lange Geschichte verbunden, ebenso wie eine Menge an materieller Kultur und schriftlichen Belegen. Gelegentlich kann man auch auf den Begriff Skythologie stoßen, also wörtlich „Wissenschaft von den Skythen“. Wenn wir dennoch versuchen würden, einige Schlüsselwörter zu finden, die die Skythen am besten erfassen, führen wir die drei wichtigsten Wortverbindungen an – das Gebiet des nördlichen Schwarzmeerraums, Nomaden ohne festes Dach über dem Kopf und die skythische Trias. Zur Erklärung der einzelnen unbekannten Ausdrücke kommen wir in den folgenden Teilen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Annäherungsweise Karte der skythischen Stämme und anderer Nomaden nach der Beschreibung Herodots. Aus dem Buch J. Bouzek 1978: Antické Černomoří, Praha.",
+    "alt": "Annäherungsweise Karte der skythischen Stämme und anderer Nomaden nach der Beschreibung Herodots. Aus dem Buch J. Bouzek 1978: Antické Černomoří, Praha.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Geografische Lage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste erhaltene und vollständige Beschreibung des Gebiets der Skythen haben wir bereits aus der Zeit der Antike, von dem Historiker Herodot (IV. 101). Noch vor ihm war es Hekataios von Milet. Von seinem Werk haben sich uns jedoch nur Fragmente erhalten. Skythien beschrieb Herodot als ein Quadrat, bei dem jede Seite zwanzig Tagesmärschen entspricht und viertausend Stadien lang ist (etwa 700 heutige km). Durch ihr Gebiet flossen viele Flüsse, von denen nach Herodot vom Meer aus schiffbar waren: Istros /die heutige Donau/, Tyres /der heutige Dnjestr/, Hipanis /der heutige südliche Bug/, Borysthenes /der heutige Dnepr/, Pantikapes /die heutige Konka und Ingulec/, Hypakyris /der heutige Kalančak/, Gerros /die heutige Moločna oder die Konka/ und Tanais /der heutige Don/ (IV, 47). Der mächtigste von ihnen war die Donau, in die auch andere Flüsse münden. In heutiger geografischer Auffassung können wir sagen, dass es sich überwiegend um die Gebiete der Steppe und auch der Waldsteppe der Ukraine handelte, um die sog. nördliche Schwarzmeerregion. Aus der älteren Zeit lassen sich ihre Spuren auch in der Kuban-Region und sogar im Vorderen Orient erfassen. Im Süden reichten die Territorien der Skythen auf die Krim, im Nordosten begrenzte sie der Fluss Don, im Westen bildete in der Zeit der größten Ausdehnung die Donau die natürliche Grenze. Es ist selbstverständlich, dass sich während der einzelnen Abschnitte in der Geschichte der Skythen der Umfang ihres Gebiets änderte. Ihre Nachbarn waren im Laufe mehrerer Jahrhunderte zum Beispiel die Sarmaten, die Geten, die Griechen, die Taurer und später auch die Römer. So ließen sich die Ausdehnung und die Lage der Skythen in Kürze zusammenfassen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Frage der Genese."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer waren diese Nomaden? Woher gelangten sie in den Schwarzmeerraum? Kamen sie von Osten hierher, oder bewohnten sie diesen Raum seit alters her? Ähnliche Fragen stellten sich Forscher verschiedener Richtungen lange Zeit. Die Provenienz der Skythen interessierte auch die antiken Autoren – wieder Herodot. Die Frage der Genese wurde so für lange Zeit zu einem der am meisten diskutierten Themen. Wo es viele Fragen und wenige Antworten gibt, entstehen verschiedene Interpretationen. Es bildeten sich zwei Hauptansichten zu diesem Thema heraus. Es handelt sich um die sog. autochthone und die allochthone Theorie."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Verfechter der autochthonen These wiesen auf die Ähnlichkeit der materiellen Kultur der Skythen und der Träger der sog. Holzkistengrabkultur* (Srubna-Kultur) hin, die im Schwarzmeerraum präsent war. Diese bewohnten in der späten Bronzezeit einen weiten Raum zwischen dem Dnjestr und der heutigen Region Minussinsk. Nach dieser Ansicht lebten bereits im 8. Jahrhundert v. Chr. im Süden Osteuropas gemeinsam mit den Kimmeriern auch die nomadischen Skythen, die später die Kimmerier vertrieben und einen Teil von ihnen auf der Flucht bis nach Vorderasien verfolgten. Die Verfechter argumentierten auch, dass im südlichen Teil des einstigen Russlands im 7. Jahrhundert v. Chr. die Eisenzeit begann, während in Sibirien und im östlichen Teil Zentralasiens die Tradition der Bronzezeit noch lange fortlebte. Wenn die Skythen aus den Tiefen Asiens gekommen wären, hätten sie archaische Formen mitbringen müssen und nicht eine entwickelte Kultur der Eisenzeit. Die „Urheimat“ der Skythen lag so nach einigen Forschern östlich des Flusses Don, wo ihre Nachbarn anfangs vom Kaspischen Meer her die Massageten und die Issedonen waren. Die These vom autochthonen Ursprung der Skythen hatte viele Mängel und wurde in den siebziger Jahren des zwanzigsten Jahrhunderts zum Ziel der Kritik seitens der Fachleute für die skythische Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Skythe auf griechischer Keramik",
+    "alt": "Ein Skythe auf griechischer Keramik",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zweite Theorie lässt sich mit einem anderen Wort als Migrationstheorie bezeichnen. Sie rechnet damit, dass sich die „Skythen“ bereits im asiatischen Raum formierten und in das Gebiet des nördlichen Schwarzmeerraums migrierten, dass sie als eine Kultur mit den für sie charakteristischen Elementen hierher kamen. Die Urheimat der Skythen wurde bis in die 70er Jahre des zwanzigsten Jahrhunderts nur sehr allgemein in die „Tiefen Asiens“ verlegt. Den Verfechtern des Gedankens spielte auch Herodots Nachricht über den Druck der nomadischen Massageten in Asien auf sie in die Hände (Herodot, IV. 11). Den Verfechtern dieser These halfen deutlich die Funde großer königlicher Kurgane in Tuwa – Aržan I, Aržan II – und anderer Komplexe. In beiden war die skythische Trias vertreten. Das Bestattungsritual stimmt vollständig mit dem Ritual der Königsskythen aus dem Schwarzmeerraum überein. Ähnliche Erscheinungen und Funde kennen wir aus einem ausgedehnten Steppengebiet: aus dem Altai, aus Kasachstan, aus der asowschen, der kaukasischen und der pamirischen Region, von der oberen Ob, aus dem Minussinsker Becken, aus Transbaikalien und aus dem Ordos. Nach dem Forscher, der den Kurgan Aržan I freilegte, M. P. Grjaznov, war dieser Kurgan gleichzeitig mit der vorskythischen Zeit im nördlichen Schwarzmeerraum und stellt in Tuwa den frühesten Horizont der skythischen Kultur dar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die in Kürze vorgestellten zwei Hauptthesen und von ihnen vor allem die zweite, die immer mehr in den Vordergrund tritt, haben auch in der Gegenwart noch eine Menge an Diskussionspunkten. Offen bleiben die Frage und die Unklarheiten, mit welcher archäologischen Kultur die Skythen genetisch verbunden werden können. Ob es die Träger der Katakombengrabkultur waren, Nachkommen oder unmittelbare Träger der Holzkistengrabkultur, oder ob ihre ganze Kultur aus Zentralasien abzuleiten ist. Heute überwiegt die Ansicht, dass die Skythen in den nördlichen Schwarzmeerraum und in den Kaukasus, wo wir ihre Anwesenheit etwa ab dem 8. Jahrhundert v. Chr. belegen können, aus dem asiatischen Raum gelangten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion eines skythischen Reiters",
+    "alt": "Rekonstruktion eines skythischen Reiters",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Geschichte in Kurzform?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als kurz lässt sie sich leider nicht bezeichnen. Trotzdem versuchen wir einen kurzen Überblick über die wichtigsten und fesselndsten Ereignisse ihrer Geschichte, die chronologisch aneinander anknüpfen. Man kann sagen, dass die Geschichte im 8. Jahrhundert v. Chr. beginnt, als die Elemente der skythischen Kultur zum ersten Mal in der Dnepr-Region und in der Waldsteppe auftauchen. Wie wir schon schrieben, wird angenommen, dass die Skythen in die Schwarzmeersteppen aus Asien mit einer schon entwickelten Kultur kamen, spätestens im 7. Jahrhundert v. Chr."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "„Ein abenteuerlicher Zug nach Vorderasien und Ägypten“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Noch bevor sie ihre Dominanz über den nördlichen Schwarzmeerraum, über die weiten Steppen- und Waldsteppengebiete festigten, müssen wir ihre Teilnahme an der Geschichte Vorderasiens erwähnen. An der Schwarzmeerküste kam es am Ende des 8. Jahrhunderts v. Chr. zum Zusammenstoß der bereits am Rande erwähnten Kimmerier und der Skythen. Die Kimmerier, ihre Vorgänger in dem betreffenden Gebiet, wurden von den Skythen aus den Schwarzmeersteppen gedrängt, was zur Folge hatte, dass sich ein Teil von ihnen nach Vorderasien wandte. Ein Teil der Skythen machte sich an ihre Verfolgung. Das Ereignis erwähnt wieder der Schriftsteller Herodot (IV. 11). Bei dieser antiken „Hetzjagd“ fielen die Kimmerier in das Reich Urartu ein, und zwar unter der Herrschaft Rusas I. (734–714 v. Chr.). Ihre weiteren militärischen Aktionen und Bewegungen in dem betreffenden Gebiet lassen wir aus. Sie dauerten etwa bis in das 7. Jahrhundert v. Chr. Die ersten Einfälle der Skythen in die Gebiete des Nahen Ostens kamen erst ein Jahrhundert später, unter der Herrschaft des assyrischen Königs Asarhaddon (680–669 v. Chr.). Aufzeichnungen über bestimmte mit ihnen verbundene Ereignisse fanden die Forscher auch auf Keilschrifttafeln. In den Jahren 675–672 v. Chr. fand nach mehreren Quellen die Hochzeit des skythischen Königs Partatua (auch als Bartatua angeführt) mit der Tochter des Königs Asarhaddon statt. Von den Jahren 650 v. Chr. an können wir ihre Spuren in Vorderasien bereits auch mittels der Archäologie erfassen. Funde des sog. skythischen Typs fanden sich zum Beispiel in den Komplexen von Norşuntepe, Karmir-Blur, Ziwije und anderen. Zu den erfolgreichen Zügen der Skythen gehörte auch die Bedrohung Ägyptens in den Jahren 630–625 v. Chr. Pharao Psammetich I. (663–610 v. Chr.) kam ihnen mit Geschenken und Bitten entgegen und bewog sie, nicht weiter vorzudringen. Nach dem erfolgreichen „Zugriff“ auf Ägypten wandten sie sich zurück und vernichteten während der Herrschaft Rusas II. (625–585 v. Chr.) das Reich Urartu. Das Ende der Oberherrschaft der Skythen in Vorderasien setzte der medische König Kyaxares im Jahr 594 v. Chr. Den Sieg erreichte er nicht im unmittelbaren Kampf, sondern mit einer List. Er lud die führenden Befehlshaber zu einem Gastmahl, machte sie trunken, erschlug sie und vertrieb die übrigen aus dem Land. So endete die über achtundzwanzigjährige Oberherrschaft der Skythen im Orient."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die persische Rache"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Teil der Skythen kehrte nach der Niederlage in Vorderasien in das Gebiet des nördlichen Schwarzmeerraums zurück. Eine kleinere Gruppe hielt sich bis in das 6. Jahrhundert v. Chr. in der Kuban-Region und im nördlichen Kaukasus auf. Ihre damalige Anwesenheit lässt sich auch mit archäologischem Material aus Kurganen belegen, wie z. B. Kelermes, Kostromskaja und anderen. Fraglich ist, warum die Spuren der Skythen in diesem Gebiet im 5. Jahrhundert verschwinden. Der übrige Teil der Skythen im Gebiet des nördlichen Schwarzmeerraums festigte unterdessen seine Herrschaft über das Gebiet. Immer häufiger gerieten sie in Kontakt mit den griechischen Städten, die während der Großen Griechischen Kolonisation gegründet worden waren. In ihrer Nähe befand sich auch der Stamm der Taurer auf der Krim. Im Westen im Gebiet der Donau waren es die thrakischen Geten. Ihre Beziehungen zu den umliegenden Gemeinschaften waren meist friedlichen Charakters. Zu einem wichtigen historischen Ereignis wurde erst der Zug des persischen Königs Dareios I. gegen die Skythen in den Jahren 515–513/512 v. Chr. Die Episode des Dareios beschrieb Herodot in seinem vierten Buch und schilderte sie verhältnismäßig ausführlich. Trotzdem erhoben einige heutige Forscher Zweifel an der Wahrhaftigkeit des Feldzugs. Wenn wir bei Herodots Behauptung bleiben würden, dass der Zug tatsächlich stattfand, so endete er siegreich für die Skythen. In der antiken Welt erwarben sie sich für eine bestimmte Zeit den Ruf eines unbesiegbaren Volkes. Nach diesem Ereignis folgten einige weitere kleinere Bewegungen der Skythen in Richtung Westen, zum Stamm der Odrysen. Irgendwann in den Jahren 480–470 v. Chr. schloss sogar König Ariapeithes eine Ehe mit der Tochter des Königs der Odrysen. In den folgenden Jahrhunderten handelte es sich meist nur um kleinere Zwistigkeiten regionalen Charakters. Im 5.–4. Jahrhundert v. Chr. kam es auch zur größten und sich nicht wiederholenden Blüte Skythiens. Es entwickelten sich die Handelsbeziehungen zwischen ihnen und den hiesigen Griechen. In dieser Zeit treten die sog. reichen königlichen Kurgane auf, aus denen viele bekannte Gegenstände aus Edelmetallen stammen. Der langsame Verfall ließ jedoch nicht lange auf sich warten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Niederlage des größten skythischen Königs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 339 v. Chr. kam es in der Nähe der Donau zum Kampf zwischen Philipp II. von Makedonien und dem skythischen König Ateas. Ebenso wie über Dareios schrieben auch über den oben erwähnten Kampf antike Schriftsteller aus dem griechischen und römischen Umfeld. Diesmal fiel die Schlacht zum Nachteil der Skythen aus, denn im Kampf fiel der angeblich 90-jährige skythische König Ateas. Auf die Ursachen des Konflikts blicken die Forscher unterschiedlich. Die Schlacht hatte mehrere unheilvolle Folgen. Die Skythen verloren einen Teil des Gebiets in der Umgebung der Donau. Der Teil, der sich zu dieser Zeit in dem sog. Kleinskythien (dem Gebiet der Dobrudscha) aufhielt, blieb vom Rest seiner „Stammesgenossen“ abgeschnitten. Nach dem Fall des Ateas trat eine allgemeine politische Destabilisierung ein. Ab dem Jahr 339 v. Chr. können wir keinen sicheren und durch Quellen (sei es literarische oder archäologische) bezeugten König belegen. Erst im letzten Viertel des 4. Jahrhunderts v. Chr. verzeichnete der antike Autor Diodor von Sizilien (XX. 24) einen Herrscher namens Agar. Die Jahre seiner Herrschaft und das Gebiet, das er verwaltete, können wir jedoch nicht genau belegen. Sicher ist, dass gerade er die sog. Dynastie der Königsskythen abschließt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Sind die Skythen noch Skythen, oder die spätskythische Kultur auf der Krim"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ab dem 3. Jahrhundert v. Chr. kam es zur Formierung der sog. spätskythischen Kultur. Die Skythen gingen allmählich zu einer sesshaften Lebensweise über, was mit der Gründung von Siedlungen und Städten verbunden war. Die ganze neue Gruppierung ist jedoch von einer starken ethnischen Durchmischung geprägt. Die Mehrheit der Skythen verlagerte sich in das Gebiet im Tal des Flusses Dnepr, auf die Krim, und ein kleiner Teil blieb in der schon erwähnten Dobrudscha. In Kleinskythien (Dobrudscha) können wir den letzten „Atemzug“ der Skythen um das 1. Jahrhundert v. Chr. verzeichnen. Auf der Krim hielt sich die spätskythische Kultur nach einigen Forschern bis in das 3. Jahrhundert n. Chr. Auf die Ursachen ihrer Entstehung gibt es verschiedene Sichtweisen. Wieder können wir von zwei Haupttheorien sprechen. Die ältere Ansicht sieht in der spätskythischen Kultur eine genetische Anknüpfung an die vorangehende Kultur der Königsskythen. In diesem Zusammenhang begegnen wir dann unterschiedlichen Erklärungen, warum es bei ihnen zur sesshaften Lebensweise kam und warum das sog. Großskythien zu existieren aufhörte. Viele dieser Theorien rechnen mit dem Druck der ihnen nahestehenden iranischen Stämme der Sarmaten. Die Zunahme ihrer materiellen Kultur im vorherigen Gebiet der Skythen deutet darauf hin. Ein gewisser Teil der Forscher nimmt an, dass es möglicherweise auch zu einer Klimaveränderung kam, die einen Teil von ihnen zwang, in wärmere und fruchtbarere Gebiete umzuziehen. Die zweite Ansicht vertritt den Gedanken, dass keine Anknüpfung der spätskythischen Kultur an die Kultur Großskythiens existiert. Die materielle Kultur enthält nicht die Merkmale und Züge der klassischen skythischen Kultur. Die zweite Theorie geht von den neuesten Untersuchungen des Gebiets der Krim aus, und gegenwärtig wachsen die Reihen ihrer Verfechter. Ob wir die eine oder die andere wählen – Tatsache bleibt, dass die Skythen schon ab dem dritten Jahrhundert ihre Macht verlieren und es im Laufe der Zeit zu ihrer Assimilation kam."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schriftliche Zeugnisse über die Skythen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die schriftlichen Nachrichten, die über die Skythen berichten, können wir in drei Gruppen einteilen. Es sind die in Keilschrift geschriebenen Tafeln aus dem Vorderen Orient, die Zeugnisse der antiken Autoren und die epigrafischen Denkmäler aus den griechischen Kolonien an der Küste des Schwarzen Meeres. An dieser Stelle ist auf die sprachliche Zugehörigkeit der Skythen hinzuweisen. Sie werden der indoiranischen dialektalen Sprachgruppe zugeordnet, ohne literarische Denkmäler. Als Beispiel werden die erhaltenen Namen der skythischen Herrscher in den Werken der antiken Autoren und die Namen skythischer Amtsträger angeführt, die sich auf den Dekreten aus den oben genannten antiken Schwarzmeerstädten befinden. Eine Menge an Informationen über die Skythen haben gerade die antiken Autoren aufgezeichnet. Diese haben über die Skythen wirklich viel geschrieben, und die Informationen von ihnen sind unterschiedlichen Charakters. Zum ersten Mal treten sie im antiken Schrifttum bei Hesiod auf. Von ihm stammt ein Fragment, in dem er über sie als die Skythen schreibt, die Pferdemilch trinken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als wichtigste und bedeutendste Quelle zu den Skythen können wir Herodots viertes Buch aus seinem Werk Historien betrachten. Obwohl nach ihm viele andere Autoren sie erwähnten, schöpfte die Mehrheit der jüngeren Autoren fast immer aus seinen Informationen. Herodot führt zunächst eine knappe Geschichte der Skythen an, beschreibt drei verschiedene genealogische Legenden, nennt die geografische Lage Skythiens, die unterschiedlichen skythischen und nichtskythischen Stämme; interessant ist auch die Charakteristik der skythischen religiösen Rituale und ihres Pantheons im Vergleich mit dem griechischen. Teil des vierten Buches ist der Feldzug des persischen Königs Dareios gegen die Skythen im Jahr 513–512 v. Chr. Die einzelnen Zeugnisse Herodots wurden von vielen Forschern einer tieferen Analyse und einem Vergleich mit der Wirklichkeit unterzogen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was Herodot nicht erfasste, ergänzte der bekannte antike Arzt Hippokrates, konkret im Werk Peri aeron, hydaton, topon (Über Luft, Wasser und Orte). Er schreibt zum Beispiel darüber, dass reiche skythische Frauen oft an Fettsucht litten, die Männer an Unfruchtbarkeit und Ähnlichem."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den bedeutenden antiken Autoren, die sich ausführlicher über die „Skythen“ äußern, gehören zum Beispiel der griechische Geograf Strabon, Diodor von Sizilien, Lukian, Arrian, Plinius der Ältere, Ovid und andere. Diese Autoren gehören jedoch meist in die Zeit vom 1. Jahrhundert v. Chr. bis zum 2. Jahrhundert n. Chr. Sie schöpfen meist aus Herodot oder aus anderen vorangehenden Arbeiten. Gelegentlich bringen sie auch neue authentische Nachrichten aus dem Schwarzmeerraum. Nach dem Verfall Großskythiens beginnt in der Literatur ein neues Phänomen in den Vordergrund zu treten. Die Skythen erfüllen die Funktion eines beliebigen Nomadenstammes im Schwarzmeerraum. Vielfach können wir nicht bestimmen, ob der Autor wirklich die historischen Skythen meint oder ein anderes nomadisches Ethnikum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schluss"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Skythen und verschiedene Aspekte ihrer Geschichte, Archäologie oder Kunst existiert eine große Menge an Monografien, Studien, Berichten, Katalogen oder auch nur kurzen Artikeln. Die Vielfalt der Themen zeugt vom unablässigen Interesse seitens der Forscher verschiedener Richtungen. Zu den größten Fachleuten für ihre Problematik gehören russische und ukrainische Forscher. Schließlich befand sich das Gebiet der Königsskythen gerade im Raum der ehemaligen Sowjetunion. Für viele westliche und mitteleuropäische Forscher ist dieses Thema auf seine Weise „exotisch“. Ein Beweis dafür sind zum Beispiel auch die Übersetzungen originaler russischer Bücher ins Englische oder Deutsche. Sofern Sie das Thema interessiert hat, genügt es, die nächste Bibliothek zu besuchen, wo Sie sich über die ganze Problematik mehr anlesen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Erläuterungen zu den einzelnen Begriffen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die skythische Trias"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Schlüsselrolle beim Nachweis einer Kultur mit ähnlichen Merkmalen im Osten und auch im späteren europäischen Skythien spielte die Bestimmung gleicher Elemente. Es handelt sich um drei charakteristische Züge der Kultur der Skythen, die in den Kurganen, gegebenenfalls in den Siedlungen im nördlichen Schwarzmeerraum sowie weit in den Steppen Eurasiens präsent sind. Es sind das Pferdegeschirr, die Bewaffnung (Akinakes, Goryt, dreikantige Pfeilspitzen u. Ä.*) und der skythische Tierstil. Den Terminus verwendeten und legten zum ersten Mal in den 50er Jahren des 20. Jahrhunderts zwei russische Archäologen fest – A. I. Meľjukova und B. N. Grakov."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Tierstil"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist ein Kunststil, der die Skythen charakterisiert und zur skythischen Trias gehört. Er durchlief mehrere Entwicklungsetappen. Am Anfang spiegelte ihre Kunst das Empfinden der Steppennomaden in Asien wider, das zoomorph war. Später, bei den Feldzügen nach Kleinasien, war er von orientalischen Motiven inspiriert, wie den Sphingen, dem Lebensbaum, dem Skorpion und Ähnlichem. Nach der Ankunft im Schwarzmeerraum griffen in ihre ursprünglichen Vorstellungen griechische Kunstmeister ein, die diesen Stil um anthropomorphe Figuren bereicherten. Die einzelnen Entwicklungsphasen lassen sich an den Funden aus den Kurganen und an anderen Denkmälern verfolgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kurze Charakteristik der Holzkistengrabkultur"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Holzkistengrabkultur erhielt ihren Namen nach der Art der Bestattung der Toten in hölzernen Kammern – in Blockkisten. Die Träger dieser Kultur waren Halbnomaden mit Pferdezucht und fortgeschrittener Metallurgie (es wurde eine große Menge an kurzen Schwertern, Dolchen, Äxten, Messern u. a. gefunden)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kurze Charakteristik der Katakombengrabkultur"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Kultur der älteren Bronzezeit im Gebiet des nördlichen Schwarzmeerraums und des Kaukasus, datiert 3000–2200 v. Chr. Da das Gebiet ihrer Verbreitung groß war, bildeten sich innerhalb ihrer auch verschiedene regionale Varianten heraus. Ihre Benennung erhielt sie nach dem spezifischen Bestattungsritus. Unter dem aufgeschütteten Hügelgrab waren die Individuen in Katakomben bestattet. Üblicherweise lag der Tote in gestreckter Lage auf der rechten Seite, in seiner Nähe befanden sich Grabbeigaben in Form von Waffen aus verschiedenen Metallen – kleine Äxte, Pfeilspitzen, Messer, aber auch Körperschmuck (Fingerringe) und Keramikerzeugnisse. Eine Besonderheit sind die gelegentlichen Funde von Wagen in den Gräbern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kurgan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der russischen Literatur wird er auch als kurgan bezeichnet. Es ist eine alternative Benennung für ein Hügelgrab oder einen Tumulus. Im Falle der Kultur der Skythen wird am häufigsten die Bezeichnung Kurgan verwendet. Es ist eine größere künstliche Aufschüttung aus Erde, manchmal in Kombination mit Stein, die über einem Körpergrab, gegebenenfalls einem Brandgrab, oder über mehreren Gräbern aufgeschüttet wurde. In dem Hügelgrab wird üblicherweise ein zentrales Grab unterschieden, manchmal in einer besonders errichteten Kammer (oft ausgeraubt), und es werden Nebengräber unterschieden, die in den einzelnen Zeitabschnitten unterschiedliche Bedeutung hatten. Der Ort, an dem Hügelgräber auftreten, wird Hügelgräberfeld genannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A. Námerová: Steppenpyramiden in der Ukraine",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Goryt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist ein spezieller Köcher, der in zwei Teile gegliedert ist, in die Bogen und Pfeile gelegt wurden. Getragen wurde er am Gürtel hängend. Auf dem Bild oben ein goldener Goryt aus dem zentralen Grab des Kurgans Čertomlyk aus dem 4. Jahrhundert v. Chr. Hergestellt haben ihn auf Bestellung griechische Handwerker."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Akinakes ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "(gr. ἀκινάκης) – ein kurzes (40–60 cm) Schwert. Die Skythen verwendeten es, aber es war auch bei anderen iranischen Gemeinschaften beliebt, wie zum Beispiel bei den Saken, den Persern oder den Massageten. Durch die Skythen gelangte es in den Schwarzmeerraum, aber seine Funde dokumentieren wir auch im asiatischen Raum. Auf dem Bild ein Schwert in goldener Scheide aus einem skythischen Kurgan aus dem 4. Jahrhundert v. Chr., von der Fundstelle Velikaja Belozerka."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

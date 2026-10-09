@@ -1,0 +1,315 @@
+{
+ "slug": "klatova-nova-ves-siance",
+ "data": {
+  "title": "Klátova Nová Ves – Šiance, eine der größten befestigten Höhensiedlungen der Slowakei",
+  "slug": "klatova-nova-ves-siance-hoehensiedlung-tribec",
+  "excerpt": "Die Höhensiedlung Šiance liegt im Gebirge Tríbeč auf einer Höhenlage gleichen Namens (460,0 m), südlich der Gemeinde Klátova Nová Ves. Mit einer Fläche von 9,35 ha und einem außerordentlich mächtigen Wallsystem gehört sie zweifellos zu den größten in der Slowakei. Errichtet hat sie die Lausitzer Kultur in der ausgehenden Bronzezeit; im 8.–10. Jahrhundert bauten die Slawen die Anlage erneut aus und hinterließen hier einen reichen Hortfund von Metallgegenständen.",
+  "metaTitle": "Klátova Nová Ves – Šiance, Höhensiedlung im Tríbeč",
+  "metaDescription": "Die weiträumige Höhensiedlung Šiance (9,35 ha) im Tríbeč mit mächtigem Wall gehört zu den größten der Slowakei; erbaut von der Lausitzer Kultur.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Gebirge Tríbeč, südlich von Klátova Nová Ves, 460,0 m ü. M.",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche",
+    "value": "9,35 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Außerordentlich mächtiges Wallsystem, eines der größten in der Slowakei",
+    "icon": "shield"
+   },
+   {
+    "label": "Besiedelnde Kulturen",
+    "value": "Lausitzer Kultur (Bronzezeit, Hallstattzeit), Slawen (8.–10. Jahrhundert)",
+    "icon": "users"
+   },
+   {
+    "label": "Zugang zur Anlage",
+    "value": "Mindestens zwei Tore, die mächtigste Befestigung beim südwestlichen Tor",
+    "icon": "building"
+   },
+   {
+    "label": "Bedeutende Funde",
+    "value": "Schmiedewerkzeug, Pfeilspitzen, Bewaffnung und Pferdegeschirr mit awarischen Elementen",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ausgehende Bronzezeit",
+    "title": "Errichtung durch die Lausitzer Kultur",
+    "description": "Die Höhensiedlung errichtete das Volk der Lausitzer Kultur in der ausgehenden Bronzezeit.",
+    "type": "founding"
+   },
+   {
+    "year": "ältere Eisenzeit (Hallstattzeit)",
+    "title": "Nutzung in der Hallstattzeit",
+    "description": "Das Volk der Lausitzer Kultur nutzte die Höhensiedlung während der älteren Eisenzeit (der Hallstattzeit) weiter; die dichte Besiedlung belegt eine große Menge an Keramikfragmenten, die für die Lausitzer Kultur typisch sind.",
+    "type": "era"
+   },
+   {
+    "year": "Ende der Hallstattzeit, Latène-/röm. Kaiserzeit",
+    "title": "Die Anlage blieb ungenutzt",
+    "description": "Am Ende der Hallstattzeit ging die Lausitzer Kultur unter, und viele ihrer Befestigungen übernahm das Volk der Púchov-Kultur; von der Höhensiedlung Šiance kennen wir jedoch keine Funde aus der Latène- und der römischen Kaiserzeit, sodass sie damals offenbar nicht genutzt wurde.",
+    "type": "event"
+   },
+   {
+    "year": "8.–10. Jahrhundert",
+    "title": "Erneuerung der Anlage durch die Slawen",
+    "description": "Unsere Vorfahren, die Slawen, bauten die Höhensiedlung erneut aus und nutzten sie; nach ihnen blieb hier Scherbenmaterial sowie ein reicher Hortfund von Metallgegenständen zurück.",
+    "type": "construction"
+   },
+   {
+    "year": "8.–10. Jahrhundert",
+    "title": "Fund von Horten mit Metallgegenständen",
+    "description": "Auf der Höhensiedlung wurden zwei geschlossene Funde entdeckt – Schmiedewerkzeug (zwei Hämmer und ein Amboss) und acht Pfeilspitzen mit Tüllen und Rückhaken; weitere Funde umfassen Bewaffnung, Kleidung und Teile von Pferdegeschirr mit Elementen, die in awarisches Umfeld verweisen.",
+    "type": "discovery"
+   },
+   {
+    "year": "8.–10. Jahrhundert",
+    "title": "Die Anlage als zeitweilige Fliehburg",
+    "description": "Trotz der reichen Hortfunde zeugen die undeutlichen Siedlungsspuren im Inneren der Anlage davon, dass sie nicht ständig bewohnt war – die Archäologen nehmen an, dass die Slawen sie nur zeitweilig als Zuflucht in Zeiten der Bedrohung nutzten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 1858,
+    "caption": "Gut sichtbarer Wall im westlichen Teil der Höhensiedlung",
+    "alt": "Gut sichtbarer Wall im westlichen Teil der Höhensiedlung"
+   },
+   {
+    "mediaId": 1859,
+    "alt": "LiDAR-Schattenrelief mit dem Umriss der Wälle der Höhensiedlung"
+   },
+   {
+    "mediaId": 1860,
+    "alt": "Zwei bronzene Rasseln mit Öffnungen in einer Museumsvitrine"
+   },
+   {
+    "mediaId": 1861,
+    "alt": "Bronzene Rasseln aus Klátova Nová Ves in der Vitrine, Beschriftung auf Slowakisch und Ungarisch"
+   },
+   {
+    "mediaId": 1862,
+    "alt": "Zwei eiserne Lanzenspitzen in der Vitrine mit zweisprachiger Beschriftung"
+   },
+   {
+    "mediaId": 1863,
+    "alt": "Fragmente verzierter Beschläge aus Klátova Nová Ves in der Vitrine"
+   },
+   {
+    "mediaId": 1864,
+    "alt": "Schmiedehort: eiserne Axt, Hammer und Werkzeug in der Vitrine"
+   },
+   {
+    "mediaId": 1865,
+    "alt": "Eiserner Sporn mit langen Schenkeln in der Vitrine"
+   },
+   {
+    "mediaId": 1866,
+    "alt": "Eiserne Pflugschar auf hellem Untergrund"
+   },
+   {
+    "mediaId": 1867,
+    "alt": "Eiserner Steigbügel mit Öse für den Riemen in der Vitrine"
+   },
+   {
+    "mediaId": 1868,
+    "alt": "Lanzenspitze und drei Pfeilspitzen mit Rückflügeln"
+   },
+   {
+    "mediaId": 1869,
+    "alt": "Zehn eiserne Pfeilspitzen fächerförmig in der Vitrine angeordnet"
+   },
+   {
+    "mediaId": 1870,
+    "alt": "Drei beschädigte bronzene Rasseln in der Vitrine"
+   },
+   {
+    "mediaId": 1871,
+    "alt": "Eiserner Sporn mit langen Schenkeln, Seitenansicht"
+   },
+   {
+    "mediaId": 1872,
+    "alt": "Überwachsener Wallkörper im sommerlichen Wald"
+   },
+   {
+    "mediaId": 1873,
+    "alt": "Luftbild des bewaldeten Gebirges mit Wiese und Weg"
+   },
+   {
+    "mediaId": 1874,
+    "alt": "Keramikfragmente und eine Steinplatte auf einem Felsen"
+   },
+   {
+    "mediaId": 1875,
+    "alt": "Luftbild des bewaldeten Geländes mit Feldern und Wegen"
+   },
+   {
+    "mediaId": 1876,
+    "alt": "An der Oberfläche freiliegendes Keramikfragment im Lehm"
+   },
+   {
+    "mediaId": 1877,
+    "alt": "Grasbewachsener Graben unterhalb des Walles am Waldrand"
+   },
+   {
+    "mediaId": 1878,
+    "alt": "Abgeholzter Hang mit dem Wallkörper nach dem Holzeinschlag"
+   },
+   {
+    "mediaId": 1879,
+    "alt": "Wall der Höhensiedlung im blattlosen Buchenwald"
+   },
+   {
+    "mediaId": 1880,
+    "alt": "Wallkörper mit Baumwurzeln nach einem Windwurf"
+   },
+   {
+    "mediaId": 1881,
+    "alt": "Wall der Höhensiedlung im blattlosen Wald mit Ausblick in die Landschaft"
+   },
+   {
+    "mediaId": 1882,
+    "alt": "Wall und Graben am abgeholzten Hang unter einem Wolkenhimmel"
+   },
+   {
+    "mediaId": 1883,
+    "alt": "Waldweg entlang des Walles der Höhensiedlung mit Informationstafel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung Šiance befindet sich im Gebirge Tríbeč, auf einer Höhenlage namens Šiance (460,0 m), südlich der Gemeinde Klátova Nová Ves. Sie wurde über einem Bach im nördlichen Zug des Tríbeč errichtet, etwa 1 Kilometer Luftlinie vom Berg Javorový vrch entfernt. Es handelt sich um eine sehr weiträumige Anlage mit einer Fläche von 9,35 ha und einer außerordentlich mächtigen Wallbefestigung, die zweifellos zu den größten in der Slowakei gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung errichtete das Volk der Lausitzer Kultur in der ausgehenden Bronzezeit und nutzte sie während der älteren Eisenzeit (der Hallstattzeit). Die dichte Besiedlung der Anlage in dieser Zeit belegt eine große Menge an Keramikfragmenten, die für die Lausitzer Kultur typisch sind. Irgendwann am Ende der Hallstattzeit verschwindet die Lausitzer Kultur, und viele ihrer Befestigungen nutzte später das Volk der Púchov-Kultur in der Latène- und der römischen Kaiserzeit. Aus dieser Zeit kennen wir von der Anlage bislang jedoch keine Funde, sodass sie damals offenbar nicht genutzt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gut sichtbarer Wall im westlichen Teil der Höhensiedlung",
+    "alt": "Gut sichtbarer Wall im westlichen Teil der Höhensiedlung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihren erneuten Ausbau und ihre Nutzung haben unsere Vorfahren, die Slawen, im 8.–10. Jahrhundert zu verantworten; nach ihnen blieb hier außer Scherbenmaterial auch ein reicher Hortfund von Metallgegenständen zurück, der neben landwirtschaftlichen Geräten, einer Kampfaxt – einer Bartaxt – und anderen Dingen beispielsweise auch eine bis heute funktionsfähige Schelle enthielt. Zu den bemerkenswerten Funden gehören Teile der Bewaffnung und der Kleidung bzw. des Pferdegeschirrs. Viele von ihnen verweisen in awarisches Umfeld (eine durchbrochene Lanzenspitze, ein Steigbügel, ein Beschlag in Form eines Wildschweinkopfes, Gürtelbeschläge), und es könnte sich somit um enge Handelskontakte mit dem Gebiet des Awarenkhaganats oder um Kriegsbeute handeln, ebenso gut kann es sich aber um eine Rohstoffquelle für einen Handwerker handeln, der auf diese Weise die in der späteren – großmährischen – Zeit schon „unmodernen“ awarischen Gegenstände zur Weiterverarbeitung nutzen konnte. Weitere Funde (Hämmerchen, ein Amboss) belegen die Anwesenheit von Handwerkern auf der Anlage; ein Sporn, eine Bartaxt oder ein Steigbügel deuten wiederum auf die Anwesenheit von Kriegern hin. Es wurden auch zwei geschlossene Funde entdeckt: der erste enthielt die schon erwähnten Schmiedewerkzeuge – zwei Hämmer und einen Amboss –, im zweiten lagen acht Pfeilspitzen mit Tüllen und Rückhaken, die in slawischer Zeit verwendet wurden. Aufgrund der undeutlichen Siedlungsspuren im Inneren der Anlage nehmen die Archäologen jedoch trotz der reichen Hortfunde an, dass die Höhensiedlung im 8. bis 10. Jahrhundert nicht ständig bewohnt war und dass die Slawen sie nur zeitweilig als Fliehburg nutzten, das heißt als Ort, an dem sie sich in Zeiten der Bedrohung versteckten und gegen den Feind verteidigten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klátova Nová Ves – Šiance",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In die Anlage gelangte man durch mindestens zwei Tore, und auf ihrer Innenfläche fanden sich Siedlungsgruben, Feuerstellen und weitere Funde. Im Bereich des vermuteten südwestlichen Tores ist die Befestigung besonders mächtig, und in ihrer Nähe steht eine Informationstafel mit den grundlegenden Informationen über die Anlage. Diesen Umstand kann ich nur loben, auch wenn das Fehlen jeglicher Wegweiser (dazu eine im Gelände nicht markierte Wanderroute bzw. kein Lehrpfad) die Entdeckung der Anlage durch Touristen erheblich erschwert – sie ist verhältnismäßig gut tief in den Wäldern des Tríbeč verborgen. Aber man kann sich hier zumindest gut verlaufen, schließlich … sind Sie ja im Tríbeč …"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klátova Nová Ves – Šiance",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

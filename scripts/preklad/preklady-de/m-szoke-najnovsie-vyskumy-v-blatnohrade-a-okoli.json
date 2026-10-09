@@ -1,0 +1,1380 @@
+{
+ "slug": "m-szoke-najnovsie-vyskumy-v-blatnohrade-a-okoli",
+ "data": {
+  "title": "M. Szőke: Die neuesten Ausgrabungen in Mosaburg (Zalavár) und Umgebung",
+  "slug": "m-szoke-neueste-ausgrabungen-mosaburg-zalavar",
+  "excerpt": "Mit Zustimmung des ungarischen Archäologen Dr. Béla Miklós Szőke, der die slawische Besiedlung im Gebiet von Blatnohrad (Zalavár am Balaton) erforscht, bringen wir die Übersetzung seines 2007 in englischer Sprache erschienenen Fachartikels. Er fasst darin neue Erkenntnisse über die Besiedlung von Blatnohrad in den Zeiten des Fürsten Pribina und seines Sohnes Kocel zusammen – über die civitas, ihre Befestigung und ihre Kirchen.",
+  "metaTitle": "M. Szőke: Neueste Ausgrabungen in Mosaburg/Zalavár",
+  "metaDescription": "Übersetzung der Studie des ungarischen Archäologen Béla Miklós Szőke über die neuesten Ausgrabungen im slawischen Blatnohrad (Mosaburg/Zalavár am Balaton).",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Dr. Béla Miklós Szőke (ungarischer Archäologe)",
+    "icon": "users"
+   },
+   {
+    "label": "Übersetzung",
+    "value": "Robert Spytihnev Michalič",
+    "icon": "book"
+   },
+   {
+    "label": "Fundort",
+    "value": "Mosaburg/Zalavár (Blatnohrad, Westungarn)",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "9. Jahrhundert – Herrschaft der Fürsten Pribina und Kocel",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "791",
+    "title": "Untergang des Awarenkhaganats",
+    "description": "Zwischen den Jahren 791 und 811 wurde das Awarenkhaganat, die wichtigste Macht im Osten Mitteleuropas, vom Frankenreich Karls des Großen unterworfen und sein Gebiet in mehrere kleinere Regionen aufgeteilt.",
+    "type": "event"
+   },
+   {
+    "year": "850",
+    "title": "Bau von Kirchen im Komitat",
+    "description": "Unter der Herrschaft Pribinas und Kocels (ca. 850 – 870) wurden außerhalb der „Stadt“ (foric civitatem) 28 Kirchen errichtet, wobei jede von den nachfolgenden Erzbischöfen von Salzburg geweiht wurde.",
+    "type": "event"
+   },
+   {
+    "year": "865",
+    "title": "Weihe der Kirche in Zalaszabar-Borjúállás-sziget",
+    "description": "Die dem Protomärtyrer heiligen Stephan gewidmete Kirche wurde von Adalwin, dem Erzbischof von Salzburg, geweiht.",
+    "type": "event"
+   },
+   {
+    "year": "870",
+    "title": "Die wichtigsten Ereignisse des Komitats nach der Conversio",
+    "description": "Die wichtigsten Ereignisse des Komitats Mosaburg/Zalavár bis zu diesem Jahr sind ausführlich in der Conversio Bagoariorum et Carantanorum festgehalten. Um dieses Jahr wurde in der Kirche „der Märtyrer Hadrian“ zur letzten Ruhe gelegt.",
+    "type": "event"
+   },
+   {
+    "year": "1951",
+    "title": "Ausgrabungen bei der Kirche",
+    "description": "Die zwischen den Jahren 1951 und 1954 östlich und nördlich der vermuteten Lage der Kirche durchgeführten Ausgrabungen legten einen mehrschichtigen Friedhof frei.",
+    "type": "event"
+   },
+   {
+    "year": "1999",
+    "title": "Kontrollgrabung des Autors",
+    "description": "In den Jahren 1999 – 2000 führte der Autor eine Kontrollgrabung durch, um den Grundriss der Kirche zu klären; die Reste der Fundamentmauer wurden freigelegt und ausführlich dokumentiert.",
+    "type": "event"
+   },
+   {
+    "year": "2007",
+    "title": "Veröffentlichung des ursprünglichen Artikels",
+    "description": "Der ursprüngliche Fachartikel von Béla Miklós Szőke erschien in englischer Sprache.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4459,
+    "caption": "Abbildung 1",
+    "alt": "Abbildung 1"
+   },
+   {
+    "mediaId": 4460,
+    "caption": "Abbildung 2",
+    "alt": "Abbildung 2"
+   },
+   {
+    "mediaId": 4461,
+    "caption": "Abbildung 3",
+    "alt": "Abbildung 3"
+   },
+   {
+    "mediaId": 4462,
+    "caption": "Abbildung 4",
+    "alt": "Abbildung 4"
+   },
+   {
+    "mediaId": 4463,
+    "caption": "Abbildung 5",
+    "alt": "Abbildung 5"
+   },
+   {
+    "mediaId": 4464,
+    "caption": "Abbildung 6",
+    "alt": "Abbildung 6"
+   },
+   {
+    "mediaId": 4465,
+    "caption": "Abbildung 7",
+    "alt": "Abbildung 7"
+   },
+   {
+    "mediaId": 4466,
+    "caption": "Abbildung 8",
+    "alt": "Abbildung 8"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unseren Leserinnen und Lesern bringen wir etwas, das nach meinem Wissen in der Slowakei bisher nirgends in slowakischer bzw. tschechischer Sprache veröffentlicht wurde. Mit Zustimmung des ungarischen Archäologen Dr. Béla Miklós Szőke, der sich mit der Erforschung der slawischen Besiedlung im Gebiet von Blatnohrad (Zalavár am Balaton) befasst, haben wir für Sie eine gute Übersetzung seines Fachartikels angefertigt, der im Jahr 2007 in englischer Sprache erschien. Er hat darin außerordentlich interessante neue Erkenntnisse über die Besiedlung von Blatnohrad in den Zeiten des Fürsten Pribina und seines Sohnes Kocel zusammengefasst. Für die gute Übersetzung danken wir unserem Mitarbeiter Robert Spytihnev Michalič."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Béla Miklós Szőke: Neue Funde aus den Ausgrabungen in Mosaburg/Zalavár (Blatnohrad, Westungarn)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ursprünge des Komitats Pribinas und Kocels in Blatnohrad (Mosaburg/Zalavár)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Ende des achten Jahrhunderts begann in der Geschichte des Karpatenbeckens eine neue Etappe. Zwischen den Jahren 791 und 811 wurde das Awarenkhaganat, die wichtigste Macht im Osten Mitteleuropas,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote1sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "1"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " vom Frankenreich Karls des Großen unterworfen, und sein Gebiet wurde in mehrere kleinere Regionen aufgeteilt."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote2sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "2"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " An den nördlichen und südlichen Rändern des Reiches wurden Vasallenfürstentümer gegründet, während die zentrale Region westlich der Donau unmittelbar in das Frankenreich eingegliedert wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote3sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "3"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die Bevölkerung des einstigen Khaganats in den Gebieten östlich der Donau fiel, auch wenn sie politisch neutral war, wahrscheinlich unter die indirekte Herrschaft des Frankenreiches."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote4sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "4"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Pannonien, also das östliche Territorium des Reiches, wurde in mehrere Komitate aufgeteilt, die als kleinere Verwaltungseinheiten dienten. Ein solches Komitat wurde entlang der oberen Donau geschaffen; ein weiteres lag im Gebiet von Sabaria/Szombathely."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote5sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "5"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Ein weiteres Komitat mit Sitz in Mosaburg/Zalavár"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote6sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "6"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Blatnohrad) wurde jedoch zu relativ spätem Datum entlang des Flusses Zala in Niederpannonien gegründet, und zwar von Pribina, dem ehemaligen Herzog von Nitra (Neutra), und seinem Sohn Kocel. Die wichtigsten Ereignisse dieses Komitats bis zum Jahr 870 sind ausführlich in der Conversio Bagoariorum et Carantanorum (im Weiteren nur Conversio) festgehalten."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote7sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "7"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die in diesem Bericht enthaltenen Informationen und die Funde aus der Forschung, die in den letzten 50 Jahren im Sitz des Komitats durchgeführt wurde, erlauben es uns, zu einer neuen Analyse und einer neuen Interpretation der kulturellen Beziehungen der hier lebenden Bevölkerung und zu einem besseren Verständnis bestimmter Gebäude in Mosaburg/Zalavár/Blatnohrad zu gelangen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 1",
+    "alt": "Abbildung 1",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das kulturelle Umfeld der Bevölkerung in Mosaburg/Zalavár/Blatnohrad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als sich Pribina zu Beginn der vierziger Jahre des 9. Jahrhunderts in Mosaburg niederließ, „versammelte er Volk aus der ganzen Umgebung“."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote8sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "8"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Ein Teil dieser Bevölkerung lässt sich als awarisch-slawische Gruppen identifizieren, die in diesem Gebiet seit dem siebten Jahrhundert lebten und eine deutlich gemischte Kultur hatten, die unter dem Namen Pókaszepetk-Zalakomár-Gruppe bekannt ist."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote9sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "9"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Ein deutlich erkennbares Merkmal dieser Gruppe ist die birituelle Bestattungssitte: Die Slawen verbrannten ihre Toten, während die Awaren die Inhumation praktizierten. Die archäologischen Funde weisen ebenfalls auf eine reiche Diversität hin: Die Tracht zeigt das Vorhandensein slawischer, awarischer und westgermanischer Elemente, die in den Siedlungen gefundene Keramik deutet auf die Verwendung sowohl slawischer als auch awarischer Erzeugnisse hin."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote10sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "10"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die ethnischen Unterschiede der verschiedenen Bevölkerungsgruppen spiegelten sich noch am Beginn des neunten Jahrhunderts in den Bestattungsweisen und in ihren Trachten wider. Andererseits sind bestimmte Schmuckstücke, Geräte und Werkzeuge des Alltags für keine der genannten Kulturen spezifisch, sondern sie sind in ihrem Wesen „imperial“. Diese Erzeugnisse wurden in manufakturartigen Werkstätten massenhaft hergestellt und zeigen starke karolingische Einflüsse."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote11sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "11"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Diese zur Homogenität führende Tendenz verstärkte sich nach den vierziger Jahren des neunten Jahrhunderts; und einen Beleg dieser Tendenz können wir in den Funden finden, die unter allen gesellschaftlichen Schichten verbreitet sind."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote12sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "12"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die Verschiebung in den gesellschaftlichen Verhältnissen, die zur Entstehung einer neuen, frühfeudalen Aristokratie führte, beeinflusste ebenfalls die Erzeugnisse der verschiedenen Handwerke – die Handwerker mussten nämlich die Anforderungen der einzelnen herrschenden Sippenhöfe und ihrer Gefolgschaften erfüllen, eine breite Palette von Waffen und Sporen herstellen, ebenso wie einfallsreichen silbernen und goldenen Schmuck und aus Geweih geschnitzte Erzeugnisse. Die Funde des sogenannten „byzantinisch-orientalischen“ Horizonts (Anm. d. Übers.: es handelt sich um einen von der byzantinisch-orientalischen Kunst inspirierten Kunststil) wurden zunächst als Funde interpretiert, die einen für das Großmährische Reich charakteristischen Artefakttyp repräsentieren,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote13sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "13"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " wobei die Verbreitung dieses Typs als Abbild der Expansion Großmährens zur Zeit seiner größten territorialen Ausdehnung interpretiert wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote14sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "14"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " („Greater Moravia“)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wachsende Zahl von Funden an Schmuckerzeugnissen und anderen Artefakten des Alltags dieses Typs innerhalb des Territoriums des Komitats Mosaburg/Zalavár (Blatnohrad) deutet jedoch klar darauf hin, dass sich dieser Fundhorizont am besten als Ausdruck eher gesellschaftlicher als ethnisch-kultureller Beziehungen interpretieren lässt, da dieses Komitat niemals ein Teil des Mährischen Fürstentums war (Abbildung 1) Trotz der starken Tendenz zur kulturellen Angleichung an den Westen (Westernisierung) und zur Homogenität ab der Mitte des neunten Jahrhunderts sollte man die reiche Diversität der pannonischen Kultur nicht vergessen, die sie den unterschiedlichen ethnischen Hintergründen der „aus der ganzen Umgebung“ zusammengerufenen Menschen verdankt. Das Wirken der bulgarischen Kultur aus dem Donaugebiet (Danubian Bulgar Origin) können wir an einem künstlich deformierten Schädel in einem Männergrab sehen,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote15sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "15"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " an bestimmten Keramikformen und Dekorationen, an den in Ziegel eingeritzten Zeichen und Symbolen,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote16sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "16"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " sowie an den sehr bekannten/populären sog. traubenförmigen Ohrringen."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote17sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "17"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Über diese Donaubulgaren gelangte wahrscheinlich auch das gefundene byzantinische Schwert nach Blatnohrad."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote18sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "18"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Weitere kulturelle Einflüsse können wir an Schmuckerzeugnissen sehen, wie zum Beispiel an Ohrringen und Fingerringen aus den als Vor-Köttlach und Köttlach I bezeichneten Phasen,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote19sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "19"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " sowie an Ornamenten und Artefakten des Alltags, die in Mähren in großem Umfang verwendet wurden."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote20sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "20"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Für einen konkreten Bestattungsritus, der die Kremation in einem sogenannten Totenhaus einschließt und der im Gebiet von Mosaburg/Zalavár (Blatnohrad) dokumentiert wurde, finden wir die besten Parallelen unter den nordwestlichen Slawen (z. B. den Sorben"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote21sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "21"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "). Zusammenfassend können wir sagen, dass die kulturelle Diversität des pannonischen Komitats im neunten Jahrhundert die Diversität der Regionen östlich des Frankenreiches Karls des Großen widerspiegelt, von der Ostsee bis zum Pontus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 2",
+    "alt": "Abbildung 2",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Civitas Priwinae – Pribinas „Stadt“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigungen von Mosaburg wurden zu Beginn der fünfziger Jahre des zwanzigsten Jahrhunderts von Géza Fehér untersucht. Seiner Ansicht nach war die ganze Insel von einer Mauer umgeben, die aus zwischen zwei parallele Linien hölzerner Pfosten eingestampfter Erde errichtet und mit Flechtwerk verbunden war."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote22sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "22"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Reste einer Palisade aus Traubeneiche, die von Norden nach Süden verlaufen, legte Ágnes Cs. Sós frei."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote23sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "23"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " In der näheren Vergangenheit wurde ein etwa 2,5 Meter tiefer und 12 Meter breiter Graben freigelegt, der den „Hals“ der Insel in L-Form in Richtung von Westen nach Osten durchzog."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote24sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "24"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die Palisadenwand, die sich von Norden nach Süden erstreckt, setzte sich hinter diesem Graben nach Westen fort. Es sieht aus, als wäre die karolingische civitas in drei Teile gegliedert gewesen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das südliche Drittel, südlich des Grabens und der Mauern, bewohnte der Hof Pribinas und Kocels, und es kann mit dem in der Conversio beschriebenen munimen identifiziert werden. Die kirchlichen Würdenträger und die Priester lebten im nördlichen Teil der Insel, in einem ähnlich von einer Palisade umgebenen Areal. Der Salzburger Erzbischof und seine Begleitung waren während seiner Besuche in diesem Areal untergebracht. Östlich dieser beiden Höfe liegt ein bisher nicht untersuchtes Gebiet, das wahrscheinlich als eine Art Hof funktionierte und Raum für die Häuser der Handwerker und Händler oder für die befestigten Gehöfte der Getreuen Pribinas und Kocels bot. Die Ausgrabungen haben enthüllt, dass die Bewohner dieser civitas in großen, mehrräumigen Gebäuden lebten, die auf Pfosten errichtet waren (Anm. d. Übers.: sog. náklonnice), und nicht in den eingetieften Häusern, die für die ländlichen Siedlungen dieser Zeit typisch sind. Um diese Häuser herum waren Arbeitsgruben, Vorratsgruben, Brunnen, Öfen und Ähnliches verstreut."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote25sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "25"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 3",
+    "alt": "Abbildung 3",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirchen von Mosaburg/Zalavár/Blatnohrad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Conversio erwähnt drei Kirchen in Mosaburg. Die erste lag infra munimen Priwinae. Diese Kirche, der heiligen Maria, der Mutter Gottes, gewidmet, wurde von Liupram, dem Erzbischof von Salzburg, und zwar am 24. Januar des Jahres 850 n. Chr. geweiht."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote26sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "26"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die zweite Kirche, infra civitatem, in der der Märtyrer Hadrian begraben war (in qua ecclesia Adrianus martyr humatus pausat) und die daher für die Verehrung außerordentlich geeignet war, wurde auf Initiative Liuprams errichtet."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote27sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "27"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die dritte Kirche, in eadem civitate, war dem heiligen Johannes dem Täufer gewidmet."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote28sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "28"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Insgesamt wurden unter der Herrschaft Pribinas und Kocels (ca. 850 – 870) außerhalb der „Stadt“ (foric civitatem) 28 Kirchen errichtet, wobei jede von den nachfolgenden Erzbischöfen von Salzburg geweiht wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote29sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "29"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Ausgegraben wurden jedoch nur diese drei Kirchen. Der Grundriss einer vierten Kirche ist uns dank einer Tuschezeichnung von Giulio Turco bekannt. Die Lagen und die Identifizierungen der verschiedenen Orte und Kirchen, die in den schriftlichen Quellen erwähnt werden, sind leider unsicher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 4",
+    "alt": "Abbildung 4",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zalavár-Vársziget: Die Kirche auf der Tuschezeichnung Giulio Turcos (Abbildung 2)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Zeugnis der Zeichnung, die der Offizier des Militäringenieurwesens Giulio Turco im Jahr 1569 anfertigte, befand sich im südlichen Teil der Insel eine dreischiffige Kirche mit halbrunder Apsis von den Maßen ca. 22,5 – 24 Meter × 9 – 10 Meter. Sie lag nördlich des Klosters aus der Arpadenzeit, das während der osmanischen Zeit zu einer Grenzfestung umgebaut wurde. Dieses Gebäude wurde in den letzten Jahrhunderten vollständig zerstört. Heute befindet sich an der Stelle der Fundstelle der Kirche und der späteren Festung eine Sandgrube."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote30sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "30"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die zwischen den Jahren 1951 und 1954 östlich und nördlich der vermuteten Lage der Kirche durchgeführten Ausgrabungen brachten einen Friedhof mit mehreren Grabschichten ans Licht der Welt. Der Charakter der Gräber deutete darauf hin, dass sie ursprünglich Teil eines zur Kirche gehörenden Friedhofs waren. Die frühesten Gräber (Gräber mit großen Särgen) können wir in die Mitte des neunten Jahrhunderts datieren, während die späteren Gräber in die Arpadenzeit fallen."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote31sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "31"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die genaue Lage der einstigen Kirche kann aus Mangel an archäologischen Nachweisen nicht bestimmt werden, und die Grabfunde deuten nicht auf eine kontinuierliche Nutzung des Gräberfeldes im Laufe des zehnten Jahrhunderts hin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirche auf der Zeichnung von Giulio Turco kann mit größter Wahrscheinlichkeit mit der dem heiligen Hadrian geweihten Benediktinerkirche identifiziert werden, die mit dem im Jahr 1019 vom heiligen König Stephan I. gegründeten Kloster in Verbindung steht. Diese Kirche ist jedoch nicht identisch mit der dem heiligen Hadrian geweihten Kirche, die in der Conversio erwähnt wird. Zwischen civitas und munimen bestand im neunten Jahrhundert ein Unterschied, da das munimen als Hof Pribinas und Kocels im südlichen Teil der Insel beschrieben wird, und somit kann diese Kirche mit derjenigen identifiziert werden, die im neunten Jahrhundert der heiligen Maria geweiht und später, während der Arpadenzeit, zur Kirche des heiligen Hadrian umgeweiht wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote32sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "32"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 5",
+    "alt": "Abbildung 5",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zalavár-Vársziget: die Pilgerkirche mit äußerer Ringkrypta (Abbildung 3)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu Beginn der achtziger Jahre des 20. Jahrhunderts legte Ágnes Cs. Sós in der Mitte der Insel die Fundamente einer ungewöhnlich großen Kirche frei, mit Maßen von etwa 50 Meter × 24 Meter. Von dieser Kirche hat jedoch sehr wenig überdauert. Identifizieren ließen sich nur die Fundamentgräben (foundation trenches) unter dem einstigen Fußbodenniveau. Die Dokumentation der erhaltenen Überreste war jedoch nicht völlig genau, und daher erlaubten die Aufzeichnungen aus der Ausgrabung von Cs. Sós keine genaue Rekonstruktion des Grundrisses der Kirche."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote33sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "33"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " In den Jahren 1999 – 2000 habe ich daher eine Kontrollgrabung durchgeführt, um den Grundriss dieser Kirche zu klären. Die noch vorhandenen Reste der Fundamentmauer und das Innere der Kirche wurden freigelegt, und die Überreste wurden ausführlich dokumentiert. Das Ergebnis dieser Tätigkeit war die Rekonstruktion der Kirche an ihrem ursprünglichen Platz. Die dreischiffige Kirche hatte eine halbrunde Apsis. Die äußere Ringkrypta lag außerhalb der Nischenwand. Der sogenannte „Narthex“ lag im Westen und wahrscheinlich auch das Kloster mit einem quadratischen Hof, der von zwei Gebäuden gesäumt war. Ein runder Glockenturm stand beim westlichen Eingang. Innerhalb der halbrunden Umgangskrypta befanden sich drei Kapellen und vier Familiengrüfte. Die übrigen Familiengrüfte lagen entlang der nördlichen und der südlichen Seite der Kirche. Ein steinernes Reliquiengrab wurde unter dem Sanktuarium gefunden. Die Fundamentgruben der hölzernen Pfosten eines früheren Gebäudes wurden unter dem „Narthex“ freigelegt. Ágnes Cs. Sós interpretierte sie als Überreste einer Holzkirche."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obwohl sich uns aus dem Inneren der Basilika wenig erhalten hat, sind die wenigen Funde, die ans Licht der Welt gebracht wurden, insgesamt bemerkenswert. Die Fragmente, die aus dem breiten Graben gewonnen wurden, der Pribinas munimen schützte, deuten darauf hin, dass die Basilika einen Fußboden aus einem terrazzoähnlichen Material hatte, das in Mörtel eingelassen war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein einfaches, unverziertes Kapitell aus Sandstein von Würfelform, das in demselben Graben gefunden wurde, schmückte wahrscheinlich eine der Kirchensäulen (Abbildung 4)."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote34sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "34"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Fragmente farbigen Putzes wurden in der Verfüllung der Gräber gefunden. Eines der Gräber enthielt einige Bodenfliesen mit eingeritztem Flechtmuster. Weitere Nachweise der Innenausstattung der Kirche bestehen einerseits in den Funden von Bruchstücken gemalter und gefärbter Glasfensterscheiben, die Christus und verschiedene Heilige und Engel darstellen, und andererseits in einigen Buchstaben. Diese Bruchstücke wurden unter dem Ziegelboden/der Ziegelpflasterung der Krypta gefunden, die das Sanktuarium umgibt (Abbildung 5)."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote35sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "35"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Der Charakter und der Typ der Bruchstücke, auf denen eine figurale Szene gemalt war, deuten darauf hin, dass sie entweder Teil der Dekoration einer Fenestella oder eines reich verzierten Reliquienschreins waren, während die Bruchstücke farbigen Glases wahrscheinlich von den Fensterscheiben der Kirche stammen. Die Überreste einer Glaswerkstatt, in der auch diese Glasscheiben hergestellt wurden, wurden unweit der Apsis der Kirche freigelegt."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote36sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "36"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es kommt mir so vor, als hätte diese Kirche eine einzige Bauperiode gehabt und als wäre sie eine Pilgerkirche"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote37sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "37"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " gewesen, die für die Verehrung der Märtyrer errichtet wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote38sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "38"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Ihr Zweck"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote39sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "39"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " war der gleiche wie der Zweck ähnlicher zeitgleicher Kirchen in Sachsen, Thüringen und Bayern."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote40sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "40"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Man glaubte, dass die in diesen Kirchen begrabenen Heiligen mit Gottes Hilfe verschiedene Wunder vollbringen und so viele Menschen anlocken würden, deren Glaube dadurch erstarken werde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote41sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "41"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Diese imposante Kirche konnte nur von einer wohlhabenden und mächtigen Person errichtet worden sein, und es erscheint vernünftig anzunehmen, dass diese Person niemand anderer als Liupram, der Erzbischof von Salzburg, war. Die Kirche können wir somit als jene Kirche identifizieren, die der Conversio zufolge infra civitatem Priwinae zwischen den Jahren 850-854 und 859 errichtet wurde und in der um das Jahr 870 n. Chr. „der Märtyrer Hadrian zur letzten Ruhe gelegt“ wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Friedhof, der während mehrerer Perioden genutzt wurde, erstreckte sich um die Kirche. Die frühesten Gräber datieren in etwa die Mitte des neunten Jahrhunderts, die letzten wiederum in den Beginn des zehnten Jahrhunderts. Mit dem Anbruch der Arpadenzeit blieben nur die Ruinen der Kirche. Die Gräber aus dieser späten Periode, die an der südlichen Seite der Kirche liegen, können wir mit der Kirche in Zusammenhang bringen, die ein Stück weiter südlich lag. Diese Kirche, im neunten Jahrhundert der heiligen Maria geweiht, wurde am Beginn des elften Jahrhunderts zur Kirche des heiligen Hadrian neu geweiht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 6",
+    "alt": "Abbildung 6",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirche in Zalavár-Récéskút"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die dreischiffige Steinbasilika untersuchte Aladár Radnóti in den Jahren 1946, 1947 und 1953 und nach ihm ebenfalls Ágnes Cs. Sós in den Jahren 1961 und 1963. Die rechteckige Basilika mit drei halbrunden, in ihre Mauer eingetieften Apsiden, die auf einer Sandinsel nördlich von Zalavár-Vársziget errichtet wurde, maß 20,2 – 20,5 Meter × 12,1 Meter. Nach Aladár Radnóti können wir vier Bauperioden unterscheiden (Abbildung 6)."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote42sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "42"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Periode fällt in das neunte Jahrhundert n. Chr., und während dieser war es eine einschiffige Basilika mit drei Apsiden, einem Narthex und einem Baptisterium. Der Terrazzoboden in den Nischen lag etwas höher als der Steinboden des Schiffes. Die Wände der Nischen waren gemalt. In die Kirche konnte man durch den südlichen und den westlichen Eingang eintreten. Die erste Kirche brannte im neunten Jahrhundert ab und wurde im Rahmen ihrer zweiten Periode entweder kurz danach oder erst später im elften Jahrhundert wieder aufgebaut. Das Schiff wurde mit zwei Säulenreihen in drei Schiffe geteilt."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote43sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "43"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die dritte und die vierte Bauperiode stellen das Spätmittelalter dar."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote44sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "44"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ágnes Cs. Sós bemerkte, dass die Dokumentation Aladár Radnótis mehrere Fundamentgruben für Pfosten festgehalten hatte, deren Funktion unklar war. Sie führte daher eine Kontrollgrabung durch, um ihre Funktion zu bestimmen (Abbildung 7)."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote45sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "45"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Auf der Grundlage der aus ihrer Ausgrabung stammenden Funde rekonstruierte sie zwei weitere Bauperioden. Das erste sakrale Gebäude an dieser Stelle war eine Holzkirche, von der sehr wenig überdauert hat; ihre Maße konnten nur annähernd auf der Grundlage der Gräber rekonstruiert werden, die um das Gebäude lagen. Es sieht so aus, als hätte die Holzkirche etwa die gleichen Maße gehabt wie die spätere Steinbasilika. Die zweite Kirche konnte auf der Grundlage der Funde von Stein- und Ziegelbruchstücken rekonstruiert werden, die aus dem Niveau „R“ gewonnen wurden, das von den Fundamentgruben durchschnitten war, die für die zu einem weiteren Gebäude gehörenden Pfosten (mit 2 Meter großen Abständen zueinander) ausgehoben worden waren. Diese Basilika aus Holz und Stein war ein großes, dreischiffiges Gebäude mit den Maßen 30 Meter × 19,5 Meter. Ágnes Cs. Sós nahm an, dass die erste Kirche, die ganz aus Holz errichtet war, am Beginn des neunten Jahrhunderts erbaut wurde, während wir die zweite Kirche, aus Holz und Stein errichtet, in die zweite Hälfte des neunten Jahrhunderts datieren können. Die dritte Kirche vom Basilikatyp, die ganz aus Stein war, wurde im elften Jahrhundert errichtet. Eine scharfe Debatte über die Bauperioden und die Datierung der Kirche begann sogleich nach der Veröffentlichung des Fundberichts von Ágnes Cs. Sós."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote46sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "46"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die Dokumentation ihrer Ausgrabung deutet jedoch darauf hin, dass das Niveau „R“ den Bau der Steinbasilika postdatiert, und somit könnten die Fundamentgruben der Pfosten ebenfalls in eine spätere Zeit datiert werden. Sándor Tóth"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote47sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "47"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " nahm an, dass die Gruben für die Befestigung eines Gerüsts während der Rekonstruktion des Gotteshauses am Beginn der Arpadenzeit ausgehoben wurden."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote48sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "48"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Mir scheint, dass sich diese Pfosten so besser als Überreste eines Gebäudes aus dem zehnten Jahrhundert erklären lassen, das bereits keine sakrale Funktion mehr hatte, vor allem mit Blick auf die Kontroversen um die Gerüsttheorie (wie zum Beispiel die in den Gruben gefundenen Steine und das Fehlen von Gräbern aus der Arpadenzeit)."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote49sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "49"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist ebenfalls unklar, wem diese Kirche geweiht war und mit welcher der in der Conversio beschriebenen Kirchen sie identifiziert werden kann. Thomas von Bogyay identifizierte sie mit der dem heiligen Johannes dem Täufer geweihten Kirche im Hinblick auf das „Baptisterium“."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote50sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "50"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Das Vorhandensein eines „Brunnens“ im „Baptisterium“ ist jedoch nicht offenkundig, und nach Ágnes Cs. Sós lässt sich der „Brunnen“ besser als Fundamentgrube eines der Pfosten der zweiten Holz-Stein-Kirche interpretieren."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote51sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "51"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Die gegenteilige Ansicht vertraten Dezső Dercsényi,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote52sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "52"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Géza Entz"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote53sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "53"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und Sándor Tóth,"
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote54sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "54"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " die meinten, die Kirche könnte als erste Kirche aus der Arpadenzeit identifiziert werden, die dem heiligen Hadrian geweiht war. Diese Interpretation widerspricht jedoch den Tatsachen, dass um die Kirche keine Gräber aus der Arpadenzeit gefunden wurden und dass wir absolut keine Nachweise für irgendeine Bautätigkeit während dieser Zeit haben. Die dem heiligen Johannes dem Täufer geweihte Kirche, von der geschrieben wird, dass sie in eadem civitate stand, muss offensichtlich in der Fundstelle Zalavár-Vársziget gesucht werden. Aus dem oben Erwähnten ergibt sich, dass die in der Fundstelle Zalavár-Récéskút freigelegte Kirche mit keinem der in der Conversio erwähnten Gebäude identifiziert werden kann. Sie konnte die Privatkirche einer der Adelsfamilien aus der Gefolgschaft Pribinas und Kocels sein und erinnert an die Holzkirche, die in der Fundstelle Zalaszabar-Borjúállás-sziget freigelegt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 7",
+    "alt": "Abbildung 7",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirche in der Fundstelle Zalaszabar-Borjúállás-sziget (Abbildung 8)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Überreste einer einschiffigen Saalkirche (single nave hall church) mit rechteckigem Altarraum und einem Narthex, die 17 Meter × 7 Meter maß, legte Róbert Müller zu Beginn der achtziger Jahre des 20. Jahrhunderts frei. Die Holzkirche war im Stil ebenerdiger Blockbauten errichtet. Die schmale Steinmauer, die die Nische vom Schiff trennte, lässt sich wahrscheinlich als Fundament für eine Chorschranke interpretieren. Insgesamt wurden um die Kirche 850 Gräber freigelegt, die aus verschiedenen Zeiten stammen. Die überwältigende Mehrheit dieser Gräber stammt jedoch aus dem neunten Jahrhundert, wobei nur ein kleiner Teil in das zehnte fällt. Die Nutzung des Friedhofs endete vor dem Beginn der Arpadenzeit. Die Kirche lag in einem von einer Palisade umgebenen Gebiet, sodass man von einem befestigten Hof eines Adligen sprechen kann. Beim Eingang stand ein hölzernes Gebäude, das als Residenz des Adligen und seiner Familie diente. Róbert Müller identifizierte diese Kirche als das dem Protomärtyrer heiligen Stephan geweihte Gotteshaus, von dem in der Conversio geschrieben wird, dass es einem gewissen Wittimar gehörte und im Jahr 865 von Adalwin, dem Erzbischof von Salzburg, geweiht wurde."
+       },
+       {
+        "type": "link",
+        "url": "http://www.blogger.com/blogger.g?blogID=6818054921907446479#sdfootnote55sym",
+        "children": [
+         {
+          "type": "text",
+          "text": "55"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abbildung 8",
+    "alt": "Abbildung 8",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Fußnoten",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

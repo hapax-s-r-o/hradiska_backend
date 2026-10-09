@@ -1,0 +1,376 @@
+{
+ "slug": "molpir",
+ "data": {
+  "title": "Molpír – eine hallstattzeitliche Höhensiedlung über Smolenice",
+  "slug": "molpir-hallstattzeitliche-hoehensiedlung-smolenice",
+  "excerpt": "Auf dem Berg Molpír über Smolenice in den Kleinen Karpaten erstreckte sich im 6. Jahrhundert v. Chr. auf 12–14 Hektar eine große befestigte Höhensiedlung der Kalenderberg-Kultur: drei von Wällen geschützte Höfe, Türme, befestigte Tore und eine runde Bastei, auf der Hauptburg Hausterrassen, Backöfen, der älteste Rennofen im Gebiet der heutigen Slowakei und ein in den Felsen gehauener Kultplatz. Zwischen 570 und 560 v. Chr. ging die Siedlung gewaltsam unter; später nutzten sie die Slawen erneut.",
+  "metaTitle": "Molpír – hallstattzeitliche Höhensiedlung über Smolenice",
+  "metaDescription": "Auf dem Molpír über Smolenice lag im 6. Jahrhundert v. Chr. eine 12–14 ha große befestigte Höhensiedlung der Kalenderberg-Kultur mit Türmen und Toren.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6379,
+    "alt": "Blick vom Kamm der Höhensiedlung auf bewaldete Täler und Berge im Spätherbst"
+   },
+   {
+    "mediaId": 1581,
+    "caption": "Teilrekonstruktion des Eingangstores zur Hauptburg",
+    "alt": "Teilrekonstruktion des Eingangstores zur Hauptburg"
+   },
+   {
+    "mediaId": 1582,
+    "caption": "Rekonstruierter Teil der Befestigung",
+    "alt": "Rekonstruierter Teil der Befestigung"
+   },
+   {
+    "mediaId": 1583,
+    "caption": "Opferplatz",
+    "alt": "Opferplatz"
+   },
+   {
+    "mediaId": 1584,
+    "caption": "Zisterne",
+    "alt": "Zisterne"
+   },
+   {
+    "mediaId": 1585,
+    "caption": "Ausblicke von der Höhensiedlung",
+    "alt": "Ausblicke von der Höhensiedlung"
+   },
+   {
+    "mediaId": 1586,
+    "caption": "Teilrekonstruktion der Bastei",
+    "alt": "Teilrekonstruktion der Bastei"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Teilrekonstruktion des Eingangstores zur Hauptburg",
+    "alt": "Teilrekonstruktion des Eingangstores zur Hauptburg",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Berg Molpír über Smolenice in den Kleinen Karpaten erstreckte sich etwa im 6. Jahrhundert v. Chr. (ältere Eisenzeit – Hallstattzeit) auf einer Fläche von 12–14 Hektar eine große befestigte Höhensiedlung. Errichtet wurde sie von den Menschen der Kalenderberg-Kultur, die zum sogenannten osthallstättischen Kulturkreis gehört. Sie bestand aus drei von Wällen geschützten Höfen. Die imposante Befestigung war aus lose gesetzten Steinen erbaut, verstärkt durch Aufschüttungen und Holzkonstruktionen. Es fanden sich hier die Fundamente von Türmen, von befestigten Toren und einer runden Bastei. Von der Innenseite der höchsten Befestigung war eine Reihe hölzerner Blockbauten angebaut. Auf dem am besten geschützten, oberen Hof, der „Hauptburg“, befanden sich ebenfalls Reihen von Terrassen mit Wohnbauten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-molpir-narodna-kulturna-pamiatka-dd1ae50a6a014cc6af59342189eb6550?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradisko Molpír - národna kultúrna pamiatka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " von "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pamiatkovy_Urad_SR"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sketchfab"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bereits in den Jahren 1890 und 1895 untersuchte der Smolenicer Pfarrer N. Sándorfi die Lage Molpír am östlichen Ausläufer der Kleinen Karpaten. Er stellte eine Befestigung durch drei Wehrmauern sowie eine urgeschichtliche Besiedlung fest und untersuchte 23 Gräber der mitteldanubischen Hügelgräberkultur, meist mit Hügelaufschüttung. Das Grabinventar stellt bereits die klassische Hügelgräberkultur dar, mit einem Schwert mit Zungengriff (Typ Smolenice – Szombor) und einer Petschaftkopfnadel. Die Ausgrabung des Hügelgräberfeldes setzte in den Jahren 1970–72 das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) fort (Siegrid Dušeková); es legte 15 Hügelgräber mit 51 birituellen Gräbern frei, die Urnen- und Körpergräber hatten zahlreiche keramische und bronzene Beigaben (Rasiermesser, Schmuck, Messer), es fanden sich sogar goldene Drähtchen. Aus der slawischen Zeit stammen einige Hügelgräber und mehrere Funde aus vorgroßmährischer Zeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruierter Teil der Befestigung",
+    "alt": "Rekonstruierter Teil der Befestigung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung der Kalenderberg-Kultur wurde in den Jahren 1963–71 systematisch vom AÚ SAV untersucht (Mikuláš Dušek, ab 1967 mit Siegrid Dušeková). Ihr gesamtes Areal lässt sich in drei Bereiche gliedern, zwei Vorburgen und die Hauptburg, mit einer Gesamtfläche von 12 ha. Die Konstruktion der Fortifikation war überdurchschnittlich entwickelt: Der 2 m breite Wall hatte auf beiden Seiten trocken gesetzte Steinmauern von 0,5 m Breite mit einer Stein-Lehm-Füllung in der Mitte. Die Mauer der Hauptburg war durch eine hölzerne Kastenkonstruktion verstärkt, ihr Tor aus Stein war durch viereckige Türme verstärkt und von der Seite durch eine ovale Bastion geschützt."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bewohnt waren nur die obere Vorburg und die Hauptburg; die Häuser standen in einem Reihensystem auf künstlichen Terrassen. Auf der Hauptburg wurden sie auch von der Innenseite entlang der Befestigung errichtet. Sie waren 6–10 m lang, etwa 3 m breit, ein-, zwei- und dreiräumig. Erbaut waren sie in Blockbauweise auf steinernen Untermauerungen, die Wände waren von beiden Seiten mit Lehm verputzt, ähnlich war auch der Fußboden hergerichtet, manchmal mit flachen Steinen ausgelegt. Geheizt wurde mit einfachen Feuerstellen und mit Kuppelöfen. Außerhalb der Häuser standen auf der Hauptburg gemeinsam 6 Öfen, offenbar unter einem hölzernen Schutzdach, die zum Brotbacken dienten. Ein weiterer Ofen in der Nachbarschaft eines der Häuser enthielt Reste einer Verhüttung und eine eiserne Luppe – es handelt sich um den ältesten Rennofen im Gebiet der heutigen Slowakei. Auf der Hauptburg befand sich auch eine in den Felsen gehauene Zisterne (35,5 × 5,5 × 1,5 m), die möglicherweise auch einem anderen Zweck diente (mit Lehm verschmierte Wände). Der Kultplatz, der sogenannte Tempel, war in den Felsen gehauen (202 × 6 m). In ihm befanden sich drei rot gebrannte Opferplätze, bei ihnen der Schädel und die Knochen eines etwa 2-jährigen Kindes, zerbrochene mondförmige Idole und geometrische Idole in Form pyramidenförmiger Webgewichte. Ein weiterer Beleg des Kultes ist das Bauopfer in den Fundamenten eines der Häuser."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Opferplatz",
+    "alt": "Opferplatz",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wirtschaft der Siedlung beruhte auf handwerklicher Produktion (neben der Eisenverhüttung (Werkzeuge, Waffen, Messer) Bronzeguss (Tiegel), Herstellung steinerner Drehmühlen, Weberei) und auf Handel. Den Kontakt mit der entwickelten südhallstättischen Welt belegen kahnförmige Fibeln, Nadeln, Bernstein- und Glasperlen sowie Nachahmungen von Bronzegefäßen in Keramik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Untergang der Höhensiedlung steht mit einer großen Menge metallener Pfeilspitzen von der inneren und von der äußeren Seite der Wälle in Zusammenhang; das einzige Opfer des militärischen Konflikts ist jedoch ein im dritten Tor getöteter Verteidiger. Die Angreifer verwendeten dieselben Pfeilspitzen wie die Verteidiger. Den Untergang brachten also nicht Angreifer aus dem Osten, sondern gegenseitige Konflikte einheimischer Gruppen zwischen den Jahren 570 und 560 v. Chr., die wahrscheinlich mit der entstehenden Kultur der Nomaden im Karpatenbecken zusammenhingen, die als Vekerzug-Kultur bezeichnet wird. Anklänge an ihre Entstehung sind auch die ersten Gegenstände, die in einem abweichenden (Tier-)Stil verziert sind und die wir in den jüngsten Schichten der Höhensiedlung finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle wurde eine denkmalpflegerische Erneuerung und Präsentation von Teilen der Befestigung, des Tores, des Kultbaus und der Zisterne durchgeführt. Über die einzelnen Objekte informiert die Besucher der Text auf Tafeln, die Teil eines Lehrpfades sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zisterne",
+    "alt": "Zisterne",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine außergewöhnliche Stellung hatte dieser Ort vor allem in der älteren Eisenzeit (8.–7. Jahrhundert v. Chr.), als Molpír an einer Kreuzung von Handelswegen errichtet wurde und die Funktion einer zentralen befestigten Höhensiedlung mit entwickeltem wirtschaftlichem und religiös-kultischem Leben erfüllte. Er entstand an einem strategisch sehr günstigen Ort, durch den ein Handelsweg führte, der Südost- und Nordeuropa verband. Die Nähe des Jablonica-Passes ermöglichte auch eine unmittelbare Verbindung und kulturelle Kontakte zwischen dem Waagtal und dem Marchgebiet. Die reichen Funde von Molpír belegen vielfältige kulturelle Kontakte mit nahen und fernen Gebieten Europas, die im Fundmaterial aus Ton, Bronze, Eisen, Knochen und Geweih, aber auch aus Glas und Bernstein bezeugt sind. Schlüsselbedeutung haben einige einzigartige Gegenstände, die Parallelen in Südosteuropa und in Siebenbürgen sowie an der oberen Donau haben."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wiederaufgenommene archäologische Ausgrabung unter der Leitung von S. Stegmann-Rajtárová belegte außer der Besiedlung in der älteren Eisenzeit (Hallstattzeit) auch eine keltische und eine frühmittelalterliche Besiedlung. Ziel der Ausgrabung im Jahr 2008 war es daher, die Stratigrafie an der Fundstelle genauer zu erkennen und die einzelnen Besiedlungsphasen zu definieren. Die genaue Dokumentation der Siedlungsstrukturen ermöglichte es uns, ein Bild von der Entwicklung der Besiedlung zu gewinnen, und das reiche Fundmaterial brachte uns das Leben der Bewohner der Höhensiedlung insgesamt näher. Schon der begrenzte Umfang der Feldarbeiten bestätigte eindeutig, dass es sich um einen bedeutenden Ort handelt, der aufgrund der einzigartigen Funde nicht nur für die Slowakei, sondern für ganz Mitteleuropa wichtig ist. Gerade in der Zeit der Herausbildung der älteren Eisenzeit kam es zur ersten kulturellen Vereinheitlichung des mitteleuropäischen Raumes, deren Teil auch das Gebiet der Westslowakei war."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dvořák beschreibt die Anlage in dem Buch Stopy dávnej minulosti 2 folgendermaßen:"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Die Anlage hatte drei Teile, zwei Höfe und die Hauptburg. Getrennt wurden sie durch die bereits erwähnten Geländewellen. Man nahm an, es seien Reste von Wällen aus Stein und Lehm, aber bereits die ersten Schnitte, die Mikuláš Dušek aushob, zeigten, dass es steinerne Mauern waren, zwei Meter dick und etwa drei Meter hoch, auf der Krone wahrscheinlich mit einer hölzernen Palisade. Das erhöhte das Gewicht dieses Ortes deutlich, es setzte sich die Vorstellung durch, dass es der Sitz eines Bedeutenden war, vielleicht eines Fürsten. Die Außergewöhnlichkeit der Situation deuteten auch die Ergebnisse der archäologischen Ausgrabung an. Der erste Hof mit dem Tor war leer, es fand sich fast nichts, offenbar wohnte dort niemand dauerhaft, möglicherweise diente er nur in Zeiten der Gefahr als Zuflucht für die Bewohner der Umgebung. Auf dem zweiten Hof standen die Behausungen der Handwerker. Bemerkenswert ist, dass sie sie auf künstlichen, in den Hang gehauenen Terrassen errichteten, auf die wir noch zurückkommen werden. Den dritten Teil der Anlage, die Hauptburg, schützte eine durchdachte Mauer. Vorne stand eine Steinmauer und vier Meter weiter noch eine. Im Raum zwischen den Mauern befanden sich hölzerne Blockkammern, die mit Lehm gefüllt waren. Sie bildeten eine feste, dreieinhalb Meter hohe, gegen Feuer widerstandsfähige Mauer, wahrscheinlich mit einer hölzernen Palisade auf der Krone. Solche Mauern bauten die Kelten, aber erst Jahrhunderte später. ‚Murus gallicus‘, so nannte sie Gaius Iulius Caesar, der sie erobern musste. In vorkeltischer Zeit kannte sie nur der Mittelmeerraum mit den ersten europäischen Kulturen."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gleich hinter der Mauer befand sich eine Reihe von Häusern. Sie standen eines neben dem anderen, annähernd gleich groß, zehn Meter lang und dreieinhalb Meter breit. Weitere Häuser waren in der Mitte der Hauptburg errichtet, wiederum auf in den Hang gehauenen Terrassen. Sie waren nicht leer, in den Trümmern lagen Schmuck, bronzene Werkzeuge, Bernstein- und Glasperlen, schön verzierte Keramik. Eines der Häuser fiel aus allen übrigen heraus: Es hatte zwei Flügel und eine Gesamtlänge von fast 25 Metern. Vielleicht diente es als Sitz des Fürsten von Molpír, als Palast, aber im Unterschied zu den Häusern an den Mauern war es fast leer; ohne Gold, ohne Bronze, ohne Bernstein. Das war ein auffälliger Umstand, zudem war es unglaublich zerstört, eine unbekannte Kraft hatte die Mauern mehrere Meter weit verstreut. Es war nicht der einzige auffällige Umstand. Auf die Hauptburg gelangte man durch ein Tor, das freigelegt werden konnte, noch mit den in den Felsuntergrund eingefahrenen Spuren von Wagenrädern. Geschützt wurde es von zwei Wachtürmen zu beiden Seiten des Eingangs und von einer etwas abseits errichteten ovalen Bastei. Sie schützten, aber sie bewahrten nicht. Im Tor lag auf dem Bauch, mit dem Kopf zur Festung gewandt, ein toter Mann. Seinen Körper hatten die Steine des eingestürzten Tores verschüttet. Die archäologische Ausgrabung deutete immer stärker auf ein großes Drama hin. Auf dem Molpír konnten 62 Häuser untersucht werden, in mehreren lagen tote Menschen, die die Vorstellung von einer Tragödie und einem plötzlichen Verderben bestätigten."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://skfb.ly/6TQ9Y",
+        "children": [
+         {
+          "type": "text",
+          "text": "LIDAR"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ausblicke von der Höhensiedlung",
+    "alt": "Ausblicke von der Höhensiedlung",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Beispiel lagen in dem von den Archäologen als Nummer sieben bezeichneten Haus unter der eingestürzten Konstruktion neben der Feuerstelle zwei Skelette: auf der einen Seite ein erwachsener Mensch, auf der anderen ein Kind. Auch im Fürstenpalast fanden sich Reste eines Schädels und ein isolierter, möglicherweise abgetrennter Kopf eines etwa achtzehnjährigen Mädchens. Spuren der Katastrophe gab es auch an weiteren Stellen. Auf den Feuerstellen standen Töpfe, unter denen kurz vor dem Hereinbrechen des Verderbens noch geheizt worden war. Auch auf der Mauer waren Spuren von Feuer, von einem riesigen Brand, der die Steine des inneren Walls zu einer zusammenhängenden Decke verbacken hatte. Das Verderben kam plötzlich und verheerte mit absoluter Konsequenz. In den Häusern blieben die wertvollsten Dinge zurück: Schmuck, bronzene Werkzeuge, Bernstein- und Glasperlen, Keramik, Fibeln, Sicheln, ein Messer, eine Halskette, ein Oberarmring, aber auch ein Fischhaken, hunderte Spinnwirtel und eine ungeheure Menge Scherben, aus denen die Forscher Dutzende ganzer Gefäße zusammenkleben konnten. Zur Zeit des Überfalls waren sie also ganz, unzerbrochen; zerstört hat sie erst der Angriff oder die Zeit, die darauf folgte."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Erde traten Dinge hervor, die von der außergewöhnlichen Stellung der Anlage zeugten. Von der Anwesenheit von Reitern und von Fußkriegern sprachen Pferdetrensen, Äxte mit charakteristischen Lappen, Lanzenspitzen, Pfeilspitzen, Teile eines Bronzehelms, Schuppen eines Panzers.“"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie schon am Anfang erwähnt wurde, nutzten die Slawen die Anlage erneut, wobei gerade die Anlage auf dem Molpír zu den ältesten slawischen Burgwällen im Gebiet der heutigen Slowakei gezählt wird. Wie Drahoslav Hulínek und Michal Čajka anführen: „In die Zeit um das Jahr 800 können wir in der Slowakei die Anfänge der Nutzung und der wahrscheinlichen (bisher nicht eindeutig festgestellten) baulichen Umgestaltung der ursprünglichen Fortifikationen der befestigten urgeschichtlichen Siedlung in Smolenice-Molpír einordnen. Eine deutlichere gesellschaftliche Bedeutung der Anlage bestätigen mehrere Funde – eine gegossene Phalera mit plastischem Hundekopf, Sporen, ein wappenförmiger Beschlag, der mit einer Palmette auf punziertem Grund verziert ist, eine Trense, ein bronzener Armring mit rhombischem Querschnitt und offenen Enden sowie eine durchbrochene bronzene Riemenzunge von zungenförmiger Gestalt.“ Ebenso unterstreicht der Fund von Sporen die Bedeutung dieser Anlage in der Zeit des 8.–9. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Teilrekonstruktion der Bastei",
+    "alt": "Teilrekonstruktion der Bastei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

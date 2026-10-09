@@ -1,0 +1,1115 @@
+{
+ "slug": "pobedim",
+ "data": {
+  "title": "Pobedim – ein Burgwall aus der Zeit des Fürstentums Pribinas",
+  "slug": "pobedim-burgwall-fuerstentum-pribina",
+  "excerpt": "Pobedim ist eine bekannte archäologische Fundstelle. Die bedeutendste Entdeckung war die Freilegung eines slawischen Burgwalls aus der Zeit des Fürstentums Pribinas. Die archäologische Ausgrabung an der Fundstelle Hradištia leitete PhDr. Darina Bialeková CSc., die zur Ehrenbürgerin der Gemeinde wurde. Es handelt sich um einen der ältesten Burgwälle der Slawen nördlich der Donau, der den natürlichen Wasserhaushalt als Schutz nutzte und vor der Entstehung Großmährens gewaltsam unterging.",
+  "metaTitle": "Pobedim – Burgwall aus der Zeit des Fürstentums Pribinas",
+  "metaDescription": "Slawischer Burgwall in der Lage Hradištia aus der Zeit des Fürstentums Pribinas, untersucht von Darina Bialeková; die Besiedlung reicht bis in die Steinzeit.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Südwestlich der heutigen Gemeinde Pobedim, im Überschwemmungsgebiet von Dudváh und Dubová; ein Niederungsburgwall, der den Wasserhaushalt als Schutz nutzte (ähnlich wie Mikulčice, Pohansko bei Břeclav, Majcichov)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche",
+    "value": "Hradištia 4,1 ha, Podhradištia 3,9 ha – insgesamt nicht groß, aber einer der ältesten Burgwälle der Slawen nördlich der Donau",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion der Mauer (Hradištia)",
+    "value": "Kastenkonstruktion, Kästen ca. 4 × 4 m, Gesamtbreite mit der Steinmauer 5,5 m, Höhe ohne Palisade 2,4 m; Steinmauer aus Bruchstein, in den Fundamenten 1,5 m dick",
+    "icon": "shield"
+   },
+   {
+    "label": "Konstruktion der Mauer (Podhradištia)",
+    "value": "Einfacher, Kästen ca. 3 × 3 m, mit geflochtenen Wänden, Gesamtbreite 4,5 m, Höhe 2,3 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Graben",
+    "value": "Tiefe 2,05 m, Breite am oberen Rand 5,70 m, zugespitzte Form",
+    "icon": "mountain"
+   },
+   {
+    "label": "Materialverbrauch",
+    "value": "Die Errichtung der Befestigung auf den Hradištia (812 lfm) erforderte etwa 49.300 Arbeitsschichten – bei 190 Menschen und einem 10-Stunden-Tag etwa 260 Tage Arbeit",
+    "icon": "crown"
+   },
+   {
+    "label": "Verteidigung",
+    "value": "Geschätzt etwa 260 Verteidiger (einer auf jeweils 5 m Mauer), ergänzt aus 8 umliegenden Siedlungen",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "jüngere und späte Steinzeit",
+    "title": "Älteste Besiedlung",
+    "description": "Die ersten Bauern ließen sich in der Gemarkung der Gemeinde nieder; belegt durch Keramikscherben und Steinwerkzeuge an der Lage Hradištia.",
+    "type": "founding"
+   },
+   {
+    "year": "jüngere und späte Bronzezeit",
+    "title": "Siedlung der Lausitzer Kultur",
+    "description": "Eine zehnjährige Ausgrabung legte Siedlungsbefunde und einen Kultplatz von Verehrern des Sonnengottes frei – ein wichtiger Produktions-, Handels- und Kultplatz im mittleren Waagtal.",
+    "type": "founding"
+   },
+   {
+    "year": "römische Kaiserzeit",
+    "title": "Siedlung mit römischen Funden",
+    "description": "Fragmente von Terra sigillata, römische Münzen und ein mit Silber inkrustierter bronzener Silenskopf an den Lagen Dolné und Horné pole.",
+    "type": "event"
+   },
+   {
+    "year": "6. Jahrhundert",
+    "title": "Die ersten Slawen",
+    "description": "Frühslawische Siedlungen an den Lagen Dolné pole und Horné pole.",
+    "type": "founding"
+   },
+   {
+    "year": "8. Jahrhundert",
+    "title": "Verlagerung der Besiedlung",
+    "description": "Die Besiedlung verlagerte sich vom Einzugsgebiet des Dudváh und der Dubová.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 8. – Anfang des 9. Jahrhunderts",
+    "title": "Intensivste slawische Besiedlung",
+    "description": "An der Lage Zapupovec wurden fast 30 Befunde einschließlich zweier Brunnen untersucht; die Bewohner widmeten sich dem Schmiedehandwerk.",
+    "type": "event"
+   },
+   {
+    "year": "vor dem Jahr 800 (Blatnica-Mikulčice-Horizont)",
+    "title": "Errichtung des befestigten Zentrums",
+    "description": "Einer der ältesten Burgwälle der Slawen nördlich der Donau, mit Hauptburg (Hradištia) und Suburbium (Podhradištia), errichtet mit einem Kastensystem der Befestigung.",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Handelszentrum an der Waag",
+    "description": "Belegt durch Funde axtförmiger Eisenbarren – des damaligen Halbfabrikats und primitiven Zahlungsmittels; das wirtschaftliche Hinterland umfasste 8 gleichzeitige Siedlungen auf einer Fläche von etwa 900 ha.",
+    "type": "event"
+   },
+   {
+    "year": "vor der Entstehung Großmährens",
+    "title": "Gewaltsamer Untergang des Burgwalls",
+    "description": "Durch Brand zerstört, wahrscheinlich in der Zeit der parallel fortschreitenden Christianisierung und des Vereinigungsprozesses – gemeinsam mit weiteren der ältesten Burgwälle wie Majcichov, Vyšný Kubín, Spišské Tomášovce und Bojná.",
+    "type": "destruction"
+   },
+   {
+    "year": "1891",
+    "title": "Erste schriftliche Erwähnung der Wälle",
+    "description": "P. Jedlicska verzeichnet, dass der Wall an der Nordseite der Hradištia die Grenze zwischen der Gemarkung von Pobedim und der von Očkov bildete.",
+    "type": "discovery"
+   },
+   {
+    "year": "nach dem Jahr 1959",
+    "title": "Entwässerung des umliegenden Geländes",
+    "description": "Vorher befand sich an der Nord- und Westseite des Burgwalls sumpfiges Gelände, das natürlichen Schutz bot.",
+    "type": "event"
+   },
+   {
+    "year": "archäologische Ausgrabung (D. Bialeková)",
+    "title": "Systematische Untersuchung der Fortifikation",
+    "description": "PhDr. Darina Bialeková, später Ehrenbürgerin der Gemeinde, leitete die Ausgrabung, die die genaue Konstruktion, den Materialverbrauch und die Organisation der Errichtung beider Phasen der Befestigung rekonstruierte.",
+    "type": "discovery"
+   },
+   {
+    "year": "7. 1. 2012",
+    "title": "Dokumentierter heutiger Zustand",
+    "description": "Die Fundstelle des Burgwalls befindet sich inmitten eines Feldes, ohne jegliche Markierung.",
+    "type": "event"
+   },
+   {
+    "year": "10. 3. 2015",
+    "title": "Aufstellung der Informationstafel",
+    "description": "Am Rand der Gemeinde, nicht weit vom Burgwall, kam eine Informationstafel über den Burgwall hinzu.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6360,
+    "alt": "Rekonstruktion eines Niederungsburgwalls, umgeben von Flussarmen, mit Palisade und kleiner Brücke"
+   },
+   {
+    "mediaId": 788,
+    "caption": "Der gut sichtbare Burgwall auf der 2. militärischen Landesaufnahme",
+    "alt": "Der gut sichtbare Burgwall auf der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 1082,
+    "caption": "Der Burgwall auf der Orthofotokarte aus den 50er Jahren, vor seiner Zerstörung",
+    "alt": "Der Burgwall auf der Orthofotokarte aus den 50er Jahren, vor seiner Zerstörung"
+   },
+   {
+    "mediaId": 789,
+    "caption": "Rekonstruktion des Turmes nach Ing. H. Albrecht",
+    "alt": "Rekonstruktion des Turmes nach Ing. H. Albrecht"
+   },
+   {
+    "mediaId": 790,
+    "caption": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)",
+    "alt": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)"
+   },
+   {
+    "mediaId": 791,
+    "caption": "Die Konstruktion der Mauer – Schalenbauweise mit Kastenversteifung",
+    "alt": "Die Konstruktion der Mauer – Schalenbauweise mit Kastenversteifung"
+   },
+   {
+    "mediaId": 792,
+    "caption": "Eine schöne künstlerische Vorstellung vom Aussehen des Burgwalls von unserer Mitarbeiterin Anka Kocmaníková",
+    "alt": "Eine schöne künstlerische Vorstellung vom Aussehen des Burgwalls von unserer Mitarbeiterin Anka Kocmaníková"
+   },
+   {
+    "mediaId": 793,
+    "caption": "Einige interessante 3D-Visualisierungen des Burgwalls. Autor: NAJ",
+    "alt": "Einige interessante 3D-Visualisierungen des Burgwalls. Autor: NAJ"
+   },
+   {
+    "mediaId": 1084,
+    "caption": "Funde aus Pobedim und der Umgebung",
+    "alt": "Funde aus Pobedim und der Umgebung"
+   },
+   {
+    "mediaId": 837,
+    "caption": "Blick in Richtung der Stelle, an der sich ursprünglich der Burgwall von Pobedim befand",
+    "alt": "Blick in Richtung der Stelle, an der sich ursprünglich der Burgwall von Pobedim befand"
+   },
+   {
+    "mediaId": 839,
+    "caption": "(Beinahe) Vogelperspektive",
+    "alt": "(Beinahe) Vogelperspektive"
+   },
+   {
+    "mediaId": 841,
+    "caption": "Blick vom Burgwall in Richtung des heutigen Pobedim",
+    "alt": "Blick vom Burgwall in Richtung des heutigen Pobedim"
+   },
+   {
+    "mediaId": 796,
+    "caption": "Die Ausgrabung des Burgwalls im Jahr 2012 führte der bekannte slowakische Archäologe Čendo Žrec durch – auf dem Bild bei der Arbeit",
+    "alt": "Die Ausgrabung des Burgwalls im Jahr 2012 führte der bekannte slowakische Archäologe Čendo Žrec durch – auf dem Bild bei der Arbeit"
+   },
+   {
+    "mediaId": 797,
+    "caption": "Čendo – Žrec versucht, den Verlauf der Wallbefestigung festzustellen",
+    "alt": "Čendo – Žrec versucht, den Verlauf der Wallbefestigung festzustellen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pobedim ist eine bekannte archäologische Fundstelle. Die bedeutendste Entdeckung war die Freilegung eines slawischen Burgwalls aus der Zeit des Fürstentums Pribinas. Die archäologische Ausgrabung an der Fundstelle Hradištia leitete PhDr. Darina Bialeková CSc., die zur Ehrenbürgerin der Gemeinde wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Besiedlung von Pobedim stammt aus der jüngeren und späten Steinzeit, als sich in der Gemarkung der Gemeinde die ersten Bauern niederließen. Belege für die Besiedlung sind Keramikscherben und Teile von Steinwerkzeugen an der Lage Hradištia. Hier wurden während der Ausgrabung auch weitere Belege für eine Besiedlung freigelegt, und zwar aus der älteren Bronzezeit. Aus der Bronzezeit ist jedoch die Besiedlung aus der jüngeren und späten Bronzezeit die bedeutendste. Während einer zehnjährigen Ausgrabung wurde eine Siedlung untersucht, die dem Volk der Lausitzer Kultur gehörte. Freigelegt wurden mehrere Siedlungsbefunde sowie ein Kultplatz von Verehrern des Sonnengottes. Von den Funden verdienen Gussformen für Bronzegegenstände, Keramik, bearbeitete Knochen und vor allem eine reiche Kollektion von Bronzegegenständen (Nadeln, Sicheln, Messerchen, Pfeilspitzen, Schmuck und weitere) Aufmerksamkeit. Aus der Menge der Keramikfragmente gelang es, Gefäße verschiedener Typen zu rekonstruieren, und es fehlten auch kleine Tierplastiken nicht. Die Siedlung aus der späten Bronzezeit war ein wichtiger Produktions-, Handels- und Kultplatz im mittleren Waagtal."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der gut sichtbare Burgwall auf der 2. militärischen Landesaufnahme",
+    "alt": "Der gut sichtbare Burgwall auf der 2. militärischen Landesaufnahme",
+    "width": "100",
+    "showCaption": true,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die römische Plastik des Silen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bedeutend war auch die Besiedlung von Pobedim in der Zeit, als das Gebiet der heutigen Slowakei in der Nachbarschaft des Römischen Reiches lag. An der Lage Dolné pole wurde eine Siedlung mit markanten Funden aus der römischen Kaiserzeit untersucht. Freigelegt wurden Siedlungsbefunde, und es fanden sich Keramikgefäße; besonders wertvoll sind die Fragmente römischer Keramik, der sogenannten Terra sigillata. Die Datierung der Funde erleichterten römische Münzen. Diese traten sowohl an der Fundstelle Dolné pole als auch an der Lage Horné pole auf. Ein bedeutender und oft publizierter Fund aus der römischen Kaiserzeit ist ein mit Silber inkrustierter bronzener Silenskopf. Befunde produktiven Charakters wurden beim Bau der Autobahn zwischen Piešťany und Horná Streda gefunden und dokumentiert. Die Kontinuität der Besiedlung von Pobedim lässt sich auch in der Zeit der Völkerwanderung verfolgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall auf der Orthofotokarte aus den 50er Jahren, vor seiner Zerstörung",
+    "alt": "Der Burgwall auf der Orthofotokarte aus den 50er Jahren, vor seiner Zerstörung",
+    "width": "60",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten Slawen traten in der Gemarkung der Gemeinde im 6. Jahrhundert auf, als sich hier frühslawische Siedlungen an den Lagen Dolné pole und Horné pole ausbreiteten. Von dort verlagerte sich die Besiedlung im 8. Jahrhundert vom Einzugsgebiet des Dudváh und der Dubová. Die intensivste slawische Besiedlung war jedoch am Ende des 8. und am Anfang des 9. Jahrhunderts. In dieser Zeit waren mehrere Lagen in der Gemarkung der Gemeinde bewohnt, aber die bedeutendste war die Lage Zapupovec, wo fast 30 Befunde untersucht wurden, davon zwei Brunnen. Auf der Grundlage der Funde widmeten sich die Bewohner der Siedlung dem Schmiedehandwerk. Davon zeugen die Funde von Blasdüsen, Eisenschlacke und unfertigen Erzeugnissen. Außer diesen Funden verdienen der Fund einer hölzernen Schöpfkelle aus Brunnen 1 und die Funde zweier kunstvoller Blechbeschläge Aufmerksamkeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung des slawischen Burgwalls",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die unzweifelhaft bedeutendste slawische archäologische Fundstelle war das befestigte Zentrum, das seine Hauptburg und ein Suburbium hatte. Es breitete sich an den Lagen Hradištia und Podhradištia aus. Der Burgwall gehört zu den ältesten Burgwällen der Slawen nördlich der Donau. Er war mit einem Wall befestigt, der in einem Kastensystem errichtet war. Von der Außenseite schützte den mit Holz verfestigten Erdwall eine Steinmauer, und von der Innenseite stützten den Wall schräge Streben. In die Wallkrone war eine hölzerne Palisade eingesetzt. In bestimmten Teilen des Walles befanden sich Wachtürme. In dem befestigten Zentrum saß ein Adliger mit seiner Gefolgschaft und seiner Dienerschaft. In der Nähe des Walles befanden sich Werkstätten, die Mitte des Burgwalls war der Ort für die Zusammenziehung der Bewohner der umliegenden Siedlungen in Zeiten der Gefahr. Der Burgwall von Pobedim war auch ein Handelszentrum im Einzugsgebiet der Waag. Diese Feststellung wird durch archäologische Funde gestützt, vor allem durch die Funde axtförmiger Eisenbarren, des damaligen Halbfabrikats und primitiven Zahlungsmittels."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion des Turmes nach Ing. H. Albrecht",
+    "alt": "Rekonstruktion des Turmes nach Ing. H. Albrecht",
+    "width": "40",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE NA SLOVANSKOM HRADISKU V POBEDIME",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall von Pobedim lässt sich als einer der nicht vielen typischen Niederungsburgwälle auf dem Gebiet der heutigen Slowakei charakterisieren, die den natürlichen Wasserhaushalt als Schutz nutzen – z. B. Mikulčice, Pohansko bei Břeclav, Majcichov (Chropovský 1964, S. 15, 17) und weitere. Die ältesten Erwähnungen der Wälle der ursprünglichen slawischen Fortifikation stammen vom Ende des vorigen Jahrhunderts. P. Jedlicska (1891) führt an, dass der Wall an der Nordseite der Hradištia die Grenze zwischen der Gemarkung von Pobedim und der von Očkov war. In der Beschreibung der Gemeinde Pobedim in dem Werk Magyarország vármegyéi és városai – Nyitravármegye werden Reste einer Mauer an der Stelle namens Hradište erwähnt, wo „irgendeine Befestigung sein konnte“ (Sziklay – Borovszky 1898, S. 166). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Größe und innere Gliederung des Burgwalls waren durch historische und gesellschaftliche Faktoren determiniert, die Form des Burgwalls passte sich jedoch überwiegend der Geländekonfiguration an. Der Burgwall von Pobedim ist südwestlich der heutigen Gemeinde lokalisiert, im Überschwemmungsgebiet von Dudváh und Dubová, und nimmt die gesamte Lage Hradištia und fast die Hälfte der Lage Podhradištia ein. Die Nutzfläche des ersten Teils (Hradištia) beträgt 4,1 ha, die Nutzfläche des zweiten Teils (Podhradištia) 3,9 ha. Im Grunde ist es ein nicht großer Burgwall. Seine frühere Benennung war Hradište, was die Katasterkarte aus dem Jahr 1900 dokumentiert. Die archäologische Ausgrabung der Fortifikation des Burgwalls, besonders an der Stelle der südwestlichen Biegung des Walles, brachte überzeugende Beweise dafür, dass zuerst die Hradištia befestigt wurden und bald danach auch das Areal der Podhradištia. Schwer zu sagen ist jedoch, ob die Hradištia auch danach eine vorrangige Stellung behielten, höchstens die Funktion einer Hauptburg, denn die Funde aus beiden Teilen des Burgwalls sind gleich datiert, sie sind von gleichwertiger Aussagekraft, und auch in der Verteilung der Befunde lassen sich ähnliche Tendenzen feststellen (eine Neigung der Befunde zur Nähe des Walles). In keinem der beiden Teile des Burgwalls fanden sich Spuren einer bedeutenderen profanen oder sakralen Architektur. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Axtförmige Eisenbarren aus Pobedim – das Zahlungsmittel der Slawen",
+    "alt": "Axtförmige Eisenbarren aus Pobedim – das Zahlungsmittel der Slawen",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Zeit des Beginns der Ausgrabung breitete sich an der Nord- und Westseite des Burgwalls das sumpfige Gelände der einstigen Gemarkung von Očkov aus, das erst nach dem Jahr 1959 entwässert wurde. Der Charakter des umliegenden Geländes hatte offenbar entscheidende Bedeutung bei der Wahl des Ortes für die Errichtung dieses befestigten Zentrums. In Anbetracht des einstigen Laufs des Dudváh, der wahrscheinlich in der Nähe des Burgwalls mäanderte, ist anzunehmen, dass der Raum zwischen dem Bach und dem Burgwall immer so sumpfig war, dass er zum natürlichen Schutz des Burgwalls an seiner gesamten nördlichen, westlichen, südwestlichen und teilweise auch südlichen Seite wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Parallel zur Ausgrabung der Fortifikation wurde auch die Untersuchung der Siedlungs- und Produktionsbefunde durchgeführt, die auf dem Burgwall vor allem in der Nähe der Befestigung konzentriert waren. Dort konzentrierte sich auch das Gros aller Funde und auch der Hortfunde axtförmiger Eisenbarren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Mauer auf den Hradištia.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Konstruktion der Mauer – Schalenbauweise mit Kastenversteifung",
+    "alt": "Die Konstruktion der Mauer – Schalenbauweise mit Kastenversteifung",
+    "width": "60",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dem Teil namens Hradištia wurde festgestellt, dass die Konstruktion der Mauer Kästen mit den Maßen von etwa 4 × 4 m bildeten. In dem Schnitt lagen von der Innenseite, also in Richtung des Burgwallinneren, zwei Längsbalken. Der innere Balken stammte aus den Fundamenten der Kastenkonstruktion, der äußere verfestigte ursprünglich die schrägen Streben. Den Raum zwischen ihnen füllte durchgebrannter Lehm aus der Destruktion der durch Feuer zerstörten Fortifikation. Von der Außenseite der Kästen lag eine Masse von Bruchsteinen aus der Mauer. Die Kästen des Holzskeletts waren mit gut festgestampftem Lehm gefüllt, und die Spalten zwischen den Balken der Wände waren mit Lehmbewurf verschmiert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tiefe des slawischen Grabens betrug 2,05 m. Der Graben hatte eine regelmäßige zugespitzte Form und war am oberen Rand 5,70 m breit. Auf seinem Boden befand sich eine abgesetzte dünne Schicht aus Ton und Muschelschalen. Nach diesen Feststellungen lässt sich sagen, dass die Fortifikation an der Westseite der Hradištia auf ihrer gesamten Länge mit derselben Technik und unter Verwendung desselben Baumaterials errichtet war. Eine Steinwand (Plente) blendete die Mauer von der Außenseite. Von der Wand blieben nur Reste von Steinen erhalten, die in den Graben abgerutscht waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine schöne künstlerische Vorstellung vom Aussehen des Burgwalls von unserer Mitarbeiterin Anka Kocmaníková",
+    "alt": "Eine schöne künstlerische Vorstellung vom Aussehen des Burgwalls von unserer Mitarbeiterin Anka Kocmaníková",
+    "width": "60",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es wurde auch das Bild der Biegung der Fortifikation in der Südecke der Hradištia festgestellt. Es handelte sich um die Verwendung eines komplizierteren Bauelements, bei dem die fließende (fächerartige) Biegung durch eine Veränderung der Form der Kästen von regelmäßig quadratischen zu trapezförmigen erreicht wurde. Die Steinmauer, die die Mauer blendete, drehte sich dann im Halbbogen und nicht im rechten Winkel. Eine so errichtete Biegung der Fortifikation war stabiler und durch das abgeführte Wasser weniger von Unterwaschung bedroht als eine Biegung im rechten Winkel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mauer wurde in Kastenbauweise mit einer grundlegenden Pfostenkonstruktion errichtet, wobei sich unregelmäßig breitere mit schmaleren und sehr schmalen Kästen abwechselten. Die Wände der Kästen der Mauer waren an der Außenseite verdoppelt (Abstand der Hölzer etwa 60 cm), aber dadurch änderte sich die grundlegende Breite der Mauer von 4 m nicht. Diese Verdoppelung der Außenwand war offenbar durch die Palisade erzwungen, die in die Mauerkrone eingesetzt war, also in den Raum der verdoppelten Außenwand der Kästen, wodurch ihre Stabilität gesichert wurde. Das Innere der Kästen füllte fest festgestampfte Erde, in der sich keine einzige slawische Scherbe und kein einziger Gegenstand fand. Die Außenseite der Holz-Erde-Mauer blendete eine Steinmauer, die in den Fundamenten etwa 1,50 m dick war. Der Brand, der den Burgwall zerstörte, muss hier sehr intensiv gewesen sein. Die Hölzer der Konstruktion verbrannten stellenweise zu Asche, die sich in feinen Schichtchen zwischen dem ziegelrot durchgebrannten Lehm der Zwischenwände der Kastenkonstruktion befand. Baumaterial des Burgwalls im nördlichen Teil des Burgwalls war vor allem die Eiche (besonders die Stieleiche), weniger die Esche. Andere Holzarten kamen hier nicht vor. Ein Geflecht aus Ruten trat an der West- und Südseite der Hradištia nicht auf. Im südlichen Teil des Burgwalls wurde das hochwertige harte Holz dadurch gespart, dass die Mauer in einem Teil der Befestigung nicht mit Holz ausgebaut war, sondern nur geflochtene Wände hatte. Der Bautyp des Kastens mit Pfostenkonstruktion wurde zwar beibehalten, aber die Wände waren mit Zweigen oder Ruten geflochten. Die Wände waren verdoppelt (Breite etwa 60 cm), und zwischen sie wurde angefeuchtete Erde gestampft, die nach dem Austrocknen und Erhärten den Holzausbau der Wände gut ersetzte. Bei der Zerstörung des Burgwalls durch Brand brannten diese Wände sekundär ziegelrot durch. Die Art des „Stampfens“ der Wände (auch „nabíjanica“) hielt sich in Pobedim und in der Südwestslowakei bis ins 20. Jahrhundert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Einige interessante 3D-Visualisierungen des Burgwalls. Autor: NAJ",
+    "alt": "Einige interessante 3D-Visualisierungen des Burgwalls. Autor: NAJ",
+    "width": "60",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Damit der auf diese Weise errichtete Wall statisch und sicher war, wurde für die grundlegende Pfostenkonstruktion, die Zangenhölzer und die schrägen Streben hochwertiges Eichenholz verwendet, seltener Ulme, die sich mit ihren Eigenschaften der Eiche gleichstellt. Zum Flechten der Wände dienten Weide und andere biegsame, jedoch weniger hochwertige Holzarten. In die verdoppelte Wand der hinteren Seite des Kastens war die Palisade eingelassen, und dann folgte die Steinmauer, die die Mauer blendete. Der Lehm für die Füllung der Kästen wurde aus einem nicht tiefen breiten Graben an der Außenseite der Mauer und aus dem inneren Areal der Hradištia gewonnen. Auf vielen Abschnitten blieben Gruben von stärkeren Pfosten (Durchmesser etwa 20 cm) erhalten, die die Innenwand der Mauer verfestigten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion der Mauer auf den Podhradištia",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fortifikation auf den Podhradištia wurde lange vor dem Beginn der Ausgrabung zerstört. An der Stelle, wo die Fortifikation des slawischen Burgwalls verlief, hat der Pflanzenwuchs bis heute eine dunklere Färbung. Auch in diesem Teil wurde eine größere Menge durchgebrannten Lehms entdeckt, die eine umfangreichere Destruktion der Fortifikation anzeigt. Die Mauer bildete hier ein Holzrost aus mächtigen Hölzern, dann folgten Steinschutt und ein nicht tiefer Graben. Weiter trat eine Vierergruppe von Gruben auf, die durch ihre Verteilung ein regelmäßiges Quadrat bildet. Die Verteilung der Pfostengruben ist so regelmäßig (2,6 × 2,6 m), dass hier mit höchster Wahrscheinlichkeit von der Tragkonstruktion eines Wachturms gesprochen werden kann, der einen Ausgang in das sumpfige Hinterland haben konnte. Nach den Maßen der Pfostengruben zu urteilen, war die Tragfähigkeit der Pfostenkonstruktion, die in regelmäßige und tiefe Gruben mit geradem Boden eingelassen war, so groß, dass die Vorstellung eines zweigeschossigen Wachturms ganz realistisch ist. Der festgestellte Holzrost kann ein Rest des unteren Geschosses sein. Die Breite der Kästen der Befestigung auf den Podhradištia beträgt 3 m. Die Fortifikation auf dem gesamten Umfang der Podhradištia war vom Kastentyp, jedoch einfacher. Sie bestand aus einem Holzskelett mit Pfostenkonstruktion und geflochtenen Wänden (Breite der Kästen etwa 3 × 3 m), aus einer Steinmauer (Breite 1,5 m), die die hintere Seite der Mauer blendete, und schließlich an der Nord- und Südseite aus einem flachen Graben (Tiefe 0,95 m), der erheblich von der Mauer entfernt war. In die Krone der Holz-Erde-Mauer war eine Palisade eingelassen. Die Innenwand der Mauer stützten schräge Streben, die durch einen längs gelegten und mit Pflöcken befestigten Balken fixiert waren. Stellenweise waren die Streben auch mit Steinen verstärkt. Grundlegendes Baumaterial war die Eiche. Außer ihr wurden auch andere weniger wertvolle Holzarten verwendet, vor allem Weidenzweige und -ruten, was beweist, dass die Wände der Kästen durch Flechtwerk hergestellt wurden, auch wenn nicht ausgeschlossen ist, dass sie auch hier auf bestimmten Abschnitten – ähnlich wie auf den Hradištia – mit Balken oder Brettern verkleidet gewesen sein konnten. Das Verschmieren der Wände mit Lehmbewurf wurde auch auf den Podhradištia angewandt. Für die Errichtung der Steinwand wurde derselbe Bruchstein verwendet wie beim Bau der Befestigung auf den Hradištia. Über der westlichen und der südlichen Biegung waren wahrscheinlich Wachtürme. Dies lässt die Biegung der Mauer im rechten Winkel annehmen, wodurch ein Kasten mit den Maßen 3 × 3 m entstand, der einen eingeschossigen Aufbau eines Turmes gut tragen konnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der slawische Graben auf den Podhradištia hatte vom Verteidigungsstandpunkt keine große Bedeutung, denn er war flach und erheblich von der Mauer entfernt (die Achse des Grabens ist von der Achse der Mauer fast 9 m entfernt). Seine Funktion bestand – außer dass aus ihm Erde für die Füllung der Mauer gewonnen wurde – wohl in der Ableitung des Wassers aus dem Vorfeld, das einen nicht kompakten, kiesigen und sandigen Untergrund hatte; das Wasser konnte nämlich bei Überschwemmungen die Stabilität der Fortifikation bedrohen. Und überhaupt – die Ausgrabungen deuten darauf hin, dass die Umgebung des Burgwalls zur Zeit seiner Existenz oft vom Dudváh überflutet bzw. sumpfig war. Die Erbauer der Fortifikation des slawischen Burgwalls in Pobedim waren jedoch mit dem Wasserhaushalt des umliegenden Geländes gut vertraut. Auf der einen Seite nutzten sie ihn als natürlichen Schutz und auf der anderen Seite richteten sie das Fortifikationssystem so ein, dass das Wasser in Zeiten erhöhten Wasserstands das Leben auf dem Burgwall nicht bedrohte. Aus diesem Aspekt ist der Graben zu beachten, der auch zur Regulierung des Wasserabflusses diente. Zur Regulierung des Wassers, besonders nach dem Anschluss der Podhradištia an das Areal der Hradištia, diente wahrscheinlich ein Stauwehr. Der Anschluss der Mauer der Podhradištia an die Fortifikation auf den Hradištia musste durch eine Überbrückung des Grabens erfolgen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wahl des Ortes für die Errichtung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Rekonstruktion der Fortifikation des Burgwalls von Pobedim ist eng mit der Rekonstruktion der Umwelt verbunden. Die enge Bindung der Besiedlung an ein bestimmtes Ökosystem war eine der grundlegenden Bedingungen ihres Gedeihens im Hinblick auf die Ernährung (Wasser, Boden, Wälder, Weiden, Jagdwild, Waldfrüchte), die Rohstoffquellen (Bodenschätze) und den Schutz. Bei der Wahl des Ortes des Burgwalls von Pobedim spielte nicht nur die Auswahl des geeignetsten Ortes vom Standpunkt der Verteidigung eine Rolle, obwohl sich dieser Aspekt hier deutlich geltend machte, sondern wichtig war vor allem das wirtschaftliche Hinterland der schon bestehenden Siedlungsökumene, die wiederum von den natürlichen Bedingungen abhing. Der Typ der Fortifikation von Pobedim unterscheidet sich neben den gemeinsamen Merkmalen von ähnlichen Objekten in Details, die mit den örtlichen Bedingungen und dem örtlichen Baumaterial zusammenhängen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "100",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Materialverbrauch",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Bau der Fortifikation des slawischen Burgwalls in Pobedim wurde das Baumaterial aus der nächsten Umgebung in einem Umkreis von 5–10 km gewonnen. Der Kalk- und Sandstein, aus dem die äußere Umfassungsmauer und die Abdeckung der Wallkrone errichtet waren, wurde in den Ausläufern der Kleinen und der Weißen Karpaten gebrochen. Die zugänglichsten Stellen für seinen Abbau sind bis heute in der Umgebung von Čachtice und Nové Mesto nad Váhom. In der slawischen Zeit wurde er von hier wahrscheinlich über den Dudváh oder die Dubová fast bis zum Burgwall geflößt. Ein Teil der Steine konnte aus dem Flussbett der Waag gewonnen worden sein, die bei erhöhtem Wasserstand aus entfernten Gebieten auch Steine größerer Ausmaße anschwemmte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bau der Kastenkonstruktion mit Holzausbau, die sich auf den Hradištia auf einem 472 m langen Abschnitt hinzieht, erforderte auf einen laufenden Meter Befestigung etwa die folgende Menge Baumaterial: Rundholz 2,3 m³ (Pfostenkonstruktion, Holzausbau der Wände, Streben, Palisade, Zangenhölzer), Erde 7 m³ (Füllung der Kästen, die aus dem Graben an der Außenseite der Fortifikation, gegebenenfalls auch aus dem inneren Areal des Burgwalls gewonnen wurde). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Funde aus Pobedim und der Umgebung",
+    "alt": "Funde aus Pobedim und der Umgebung",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die geflochtene, 340 m lange Konstruktion der Hradištia wurde auf den laufenden Meter Befestigung etwa diese Menge Baumaterial verbraucht: Rundholz 0,8 m³ (tragende Pfostenkonstruktion, Streben, Zangenhölzer und Palisade), Flechtwerk aus Ruten und Zweigen minderwertiger Holzarten 15 m³, Erde 7 m³ (Füllung der Wände der Kastenkonstruktion – „nabíjanica“ – und Füllung der Kästen), Stein für die äußere Mauer und die Abdeckung der Mauerkrone 3,2 m³. Der Gesamtverbrauch von Baumaterial für die Errichtung der Befestigung auf den Hradištia konnte in realistischer Schätzung also folgender sein (lfm = laufender Meter): Rundholz oder Bretter auf den Wallabschnitten mit holzausgebauten Wänden 1085 m³ (472 lfm × 2,3 m³), für die geflochtene Konstruktion 272 m³ (340 lfm × 0,8 m³), zusammen 1357 m³, Flechtwerk 5100 m³ (340 lfm × 15 m²), Erde 5684 m³ (812 lfm × 7 m³), Baustein 2598 m³ (812 lfm × 3,2 m³). Der Verbrauch von Baumaterial auf den Podhradištia war angesichts der Länge der Befestigung und des einfacheren Bautyps geringer. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bauholz war vor allem die Eiche, gesucht wegen ihrer Dauerhaftigkeit und Härte. Es ist bekannt, dass die Stieleiche in geeigneter Umgebung bis zu 200 Jahre hält, während andere Holzarten (außer der Ulme, die ähnliche Eigenschaften wie die Eiche hat) relativ schnell vermodern und verfaulen. Diesen Prozess beschleunigt freier Luftzutritt. Diese Eigenschaften des Holzes mussten den Erbauern des Burgwalls gut bekannt gewesen sein, denn Holzarten geringerer Bauqualität verwendeten die Erbauer überhaupt nicht oder nur ausnahmsweise für die Streben, Zangenhölzer und die grundlegende Pfostenkonstruktion, sondern verwendeten sie reichlich für die innere Gliederung des Walles. Dadurch, dass die Kästen bis oben mit Erde gefüllt waren, wurde der Luftzutritt verhindert und der Zerfallsprozess der weicheren und weniger dauerhaften Holzarten deutlich verlangsamt. Die Anwesenheit mehrerer Arten dieses weniger wertvollen Bauholzes an solchen Stellen, wo Wachtürme vermutet werden, dokumentiert seine Nutzung für die Inneneinrichtung oder andere, nicht bauliche Zwecke. Proben von Ruten und Zweigen von Weide und Hasel, in verkohltem Zustand oder als Abdrücke im Lehmbewurf erhalten, fanden sich vor allem im nördlichen Teil der Fortifikation auf den Hradištia als Bestandteil des Flechtwerks der Außenwände oder als Flechtwerk der Wände der „nabíjanica“ im Inneren des Walles. Ihr Vorkommen auf den Podhradištia bindet sich ebenfalls an das Flechtwerk der Wände der Kastenkonstruktion. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "50",
+    "showCaption": false,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bemerkenswert ist, dass in bestimmten untersuchten Teilen des Burgwalls eine bestimmte Holzart vorherrscht. Aus der beschriebenen Befundsituation ergibt sich, dass die Befestigung auf den Hradištia nicht auf ihrer gesamten Länge in derselben Weise errichtet war. Der grundlegende Bautyp blieb zwar, aber beim Bau des Skeletts wurde unterschiedliches Material verwendet, das eine abweichende Bautechnik erforderte, bei Beibehaltung der gleichen Qualitäten und Parameter der Fortifikation. Die Befestigung auf den Podhradištia hat einen relativ einheitlichen Charakter (Kastentyp mit Pfostenkonstruktion und mit geflochtenen, nicht verdoppelten Wänden). Die Verwendung unterschiedlicher Bautechnik auf demselben Burgwall ist unbestreitbar ein Abbild der etappenweisen Errichtung dieses befestigten Zentrums (zuerst wurden die Hradištia befestigt und dann die Podhradištia), jedoch machte sich auch hier der wirtschaftliche Aspekt geltend. Die Befestigung der Podhradištia ist schon sparsamer an Zeit und Material als die Befestigung auf den Hradištia (die Mauer ist um einen Meter schmaler, das Kastenskelett mit Pfostenkonstruktion und geflochtenen Wänden ist einfach). Die Errichtung der Fortifikation auf den Hradištia mit zweierlei Technik ging ebenfalls von der Sparsamkeit mit hochwertigem Baumaterial auf jener Seite des Burgwalls aus, die durch das umliegende Gelände geschützt war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "100",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein richtig errichtetes hölzernes Kastenskelett mit Pfostenkonstruktion und geflochtenen Wänden, gefüllt mit fest festgestampfter Erde, erfüllte seine Funktion ebenso gut wie eine Blockbau- oder Rostkonstruktion. Deshalb wurde dieses Bauelement, besonders bei älteren slawischen Burgwällen, oft in größerem oder geringerem Umfang beim Bau von Mauern oder ihren Eingangstoren verwendet. Die flächige Freilegung der Fortifikation in Pobedim auf den Hradištia weist auf die Vernachlässigung einer bestimmten Regelmäßigkeit der Maße der Kästen der Konstruktion hin. Regelmäßige quadratische Kästen (4 × 4 m) wechseln sich hier mit schmaleren und sehr schmalen ab, und umgekehrt sind die Kästen stellenweise geräumiger. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mauer des Burgwalls von Pobedim musste, unabhängig davon, ob ihre Wände durch Holzausbau oder Flechtwerk hergestellt waren, mit Zangenhölzern gesichert sein, und zwar vor allem im oberen Teil der Kästen, gegebenenfalls auch tiefer. Die Zangenhölzer wurden mit Pflöcken befestigt (Dicke etwa 5 cm, Länge etwa 10 cm), die auch eine sehr große Belastung aushielten. Bei der Untersuchung der Fortifikation des Burgwalls von Pobedim wurde festgestellt, dass die Kästen der Mauer auf allen untersuchten Abschnitten absichtlich mit Erde gefüllt waren, die dann gut festgestampft wurde. Dadurch verkleinerte sich der Reibungswinkel der Erde und erhöhte sich die Stabilität der Mauer. Auch das Verschmieren der Wände mit Lehmbewurf, in dem Abdrücke von Rundholz, Brettern oder Rutenflechtwerk erhalten blieben, sollte das Durchfallen der Erde durch die Spalten verhindern, was ein Lockern der Konstruktion des Walles und seine allmähliche Destruktion verursachen könnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegen den ungünstigen Einfluss der Wassererosion musste die Oberfläche der Mauer geschützt werden. Dies konnte mit einem hölzernen Belag erfolgen, aber ebenso gut konnte zu diesem Ziel eine Steinabdeckung der Mauerkrone dienen. Außer der Schutzfunktion und der Holzeinsparung drückte die Steinabdeckung der Mauerkrone mit erheblichem Gewicht auf die oberen Zangenhölzer und erhöhte damit die Stabilität des Walles. Auch weitere technische Maßnahmen erhöhten die Stabilität der Mauer. In Richtung aus dem Burgwallinneren hielten schräge Eichenstreben die Mauer in einem Winkel von 60°. So angebrachte Streben konnten einen 2–3 m hohen Wall halten, was auch im Fall von Pobedim eine realistische Schätzung ist. Der Abstand der Streben musste 1–1,50 m betragen. Die Stabilität der Mauer von der Außenseite erhöhte eine Steinmauer aus trocken gelegtem Bruchstein, die mit hölzernen Zangenhölzern verankert war. Die Basis dieser Mauer ist 1,50 m breit. Wir nehmen an, dass sich die Mauer nach oben verjüngte. Eine ähnliche Breite der Steinmauer wurde z. B. auf dem Burgwall in Tlmače und auf weiteren slawischen Burgwällen festgestellt. Diese Steinmauer lag dicht am Korpus der Wehrmauer an, blendete sie also und erreichte sicher mindestens ihre Höhe, möglicherweise schützte sie teilweise auch den unteren Teil der Palisade. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Graben war aus Sicherheitsgründen weit von der eigentlichen Mauer entfernt. Hätte man in den Bodenverhältnissen des Gebietes von Pobedim den Graben näher an der Mauer ausgehoben, so würde es infolge der Nichtkompaktheit des durch die Wirkung des Wassers gelockerten Bodens zu dessen Abrutschen und damit auch zur Störung der Bodenunterlage der Mauer kommen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die festgestellte durchschnittliche Höhe der Mauer ohne den Palisadenaufbau beträgt auf den Hradištia 2,4 m, auf den Podhradištia 2,3 m. Eine größere Höhe des eigentlichen Korpus der Mauer kann bei der verwendeten Bautechnik auch nicht angenommen werden, denn die Mauer wäre eingestürzt. Die Höhe der Mauer wurde durch das Einsetzen einer Palisade in den Holz-Erde-Korpus kompensiert. Damit die Wirksamkeit der Palisade angemessen war, mussten die Hölzer eine solche Höhe erreichen, dass sie einen erwachsenen Menschen ausreichend deckten. Das bedeutet, dass die Palisade die Mauerkrone um 2,5–3 m überragte. Die Stabilität einer solchen Palisade zu sichern war nur so möglich, dass ein Fünftel der Gesamtlänge des verwendeten Holzes (⌀ etwa 13–21 cm) eingetieft und dann mit gut festgestampfter Erde fixiert wurde. Die Beherrschung dieser anspruchsvollen technischen Anforderungen eines solchen Baus erforderte Spezialisten für die Errichtung von Fortifikationsobjekten. Die Palisade war auf dem gesamten Umfang des Burgwalls unzweifelhaft in die Außenwand des Korpus, der Mauer, eingetieft, die zu diesem Zweck verdoppelt war. Anders lässt sich die erwähnte Verdoppelung nämlich nicht erklären. Die Stabilität der Palisade von der Innenseite verstärkten Streben und die Bindung durch Querholz. Für die Palisade wurde gesundes und gut gewachsenes Holz verwendet, in unserem Fall 3–3,5 m lang. Es ist anzunehmen, dass die Palisade zugespitzt war und in bestimmten Abständen Sehschlitze für die Wache hatte. Auf die Mauer stieg man über die Wachtürme oder über Stufen bzw. Leitern. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "100",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gesamtbreite der Mauer auf den Hradištia (Maße der Kästen etwa 4 × 4 m) beträgt zusammen mit der Steinmauer 5,5 m. Wir rechnen dazu nicht die Verankerung der schrägen Streben von der Innenseite des Burgwalls. Auf den Podhradištia war der Wall schmaler (Kästen mit den Maßen etwa 3 × 3 m); die Breite der Mauer beträgt hier zusammen mit der Steinmauer 4,5 m. Diese Maße entsprechen den Feststellungen auch auf anderen slawischen Burgwällen mit Holz-Erde-Mauer und Steinmauer. Der genannte Typ der Mauer war vor allem auf dem Gebiet der Westslawen verbreitet. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bestandteil der Fortifikation jedes Burgwalls war ein Eingang und Wachtürme. Den Grundriss eines von ihnen gelang es in jenem Teil des Burgwalls (Podhradištia) zu entdecken, der sich in unmittelbarer Nähe des natürlichen Wasserreservoirs befand. Die Existenz von Wachtürmen ist auch bei den Toren und in den Ecken der Fortifikation auf den Podhradištia und auf den Hradištia anzunehmen. Ihre Anordnung hing von der Lage des Burgwalls, vom Gelände und auch von der verwendeten Bautechnik ab. Den Eingang in den Burgwall von Pobedim gelang es bisher nicht mit Sicherheit festzustellen, auch wenn wahrscheinliche Stellen identifiziert wurden, wo sich die Eingangstore befinden konnten. An der nordwestlichen Seite der Podhradištia wurde die tragende Pfostenkonstruktion eines Turmes entdeckt, wohl auch mit einem Notausgang. Die Geländenivellierung und die Angaben in alten Katasterkarten deuten darauf hin, dass im 9. Jahrhundert hinter den Podhradištia ein natürliches Wasserbecken existieren konnte, in das wohl der erwähnte Notausgang mündete. Der Haupteingang auf die Hradištia war wahrscheinlich an der Westseite, wobei Bestandteil des Eingangskörpers auch eine Brücke über den tiefen und regelmäßigen Graben sein musste, der auch als Wasserregulator diente. Im Fall einer Gefahr konnte der Graben immer mit Wasser aus der natürlichen Quelle gefüllt und so der Zugang in den Burgwall geschützt werden. Die Art der Erweiterung des ursprünglichen Areals des Burgwalls ermöglicht es, ein Eingangstor zu den Hradištia in ihrem westlichen Teil anzunehmen. Aus strategischen Gründen ist es nicht wahrscheinlich, dass man in jeden Teil des Burgwalls durch ein eigenes Tor einging. Das käme nur dann in Frage, wenn beide Eingänge noch durch eine weitere Vorburg mit einem zentralen Tor geschützt gewesen wären. Bisher wurde ein Zugang über Land von der östlichen bzw. südöstlichen Seite bevorzugt. Nach neuen Feststellungen wäre der Zugang zum Burgwall nicht vom heutigen Pobedim her, sondern aus der Richtung der Gemeinde Orvište oder Ostrov, wobei der Weg durch den nordwestlichen Teil der Podhradištia führen würde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "100",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Organisation der Errichtung und der Verteidigung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Bau des Burgwalls war eine gute Organisation der einzelnen Arbeitsschritte, die Koordination der Arbeit und die Beteiligung von Handwerkern-Fachleuten (Zimmerleuten, Tischlern, Steinmetzen, Schmieden usw.) erforderlich. Für die Errichtung der gesamten Befestigung in Pobedim auf den Hradištia (Länge 812 m) waren 49.300 Arbeitsschichten notwendig. In die Arbeitsschichten sind die Vorbereitung, der Transport des Materials und der eigentliche Bau der Fortifikation eingerechnet. Bei einem zehnstündigen Arbeitstag stellt das die Arbeit von 190 Menschen und eine Zeit von 260 Tagen dar; bei einer größeren Zahl von Arbeitern würde sich die Zeit der Errichtung des Burgwalls verkürzen. Die Errichtung der Befestigung auf den Podhradištia erforderte angesichts der einfacheren Technik und der geringeren Länge der Befestigung weniger Arbeit. Die Errichtung der Fortifikation eines Teils des Burgwalls im Laufe eines Kalenderjahres ist also ganz realistisch. Man kann sagen, dass zwischen der Größe des Burgwalls und seinem wirtschaftlichen Hinterland im 8.–9. Jahrhundert eine direkte Abhängigkeit besteht. Die Zahl der an der Errichtung der Fortifikation beteiligten Arbeiter ist etwa so groß wie die Zahl der in Zeiten der Gefahr unerlässlichen Verteidiger. In Pobedim waren für die Verteidigung des Burgwalls etwa 260 Menschen notwendig (auf jeweils 5 m ein Verteidiger). Einen Teil von ihnen bildeten die Bewohner des Burgwalls, die Mehrheit jedoch die Bewohner der umliegenden Siedlungen. Das wirtschaftliche Hinterland des Burgwalls von Pobedim bildete im 9. Jahrhundert etwa das Areal der heutigen Gemarkung der Gemeinde, also etwa 900 ha. Auf diesem Gebiet wurden während der archäologischen Ausgrabung 8 Siedlungen entdeckt, die gleichzeitig mit dem Burgwall waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "100",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fortifikation des Burgwalls erforderte ständige Instandhaltung und in Zeiten der Unruhen auch Verteidigung. Auch diese Arbeiten mussten so organisiert sein, dass an ihnen nicht nur die Bewohner des Burgwalls beteiligt waren, sondern auch die der umliegenden Siedlungen, die von dem Burgwall und seinem Feudalherrn abhängig waren. Sehr interessante Angaben über eine solche Pflicht zum Bau, zur Instandhaltung und zur Verteidigung eines Burgwalls bringt die angelsächsische Quelle The Burhal Hidage vom Anfang des 10. Jahrhunderts aus dem Gebiet von Wessex. Hier wird konkret angeführt, wie viel Boden den einzelnen hides (hide = Hufe) gehörte und welche Zahl von Menschen aus jeder Hufe dem Burgwall in Friedenszeiten und in Zeiten der Gefahr zur Verfügung stehen sollte. Auf 1 Acre Breite des Wallkörpers bestand die Pflicht, Arbeiter aus 16 Hufen zu stellen. Wenn die Hufe durch einen Mann vertreten war, so kamen auf 1 Yard 4 Männer. Diese interessanten Angaben sind ein anschaulicher Ausdruck des Zustands der Abhängigkeit der Bevölkerung der Siedlungen gegenüber dem Burgwall in Wessex und weisen gleichzeitig auf die Möglichkeit von Analogien auch auf dem Gebiet der heutigen Slowakei im 9.–10. Jahrhundert hin. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "60",
+    "showCaption": false,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall von Pobedim gehört zu den ältesten slawischen Burgwällen in der Slowakei. Das archäologische Material und neuestens auch die Radiokarbonmethode ordnen ihn in die Zeit vor der Entstehung Großmährens ein (Blatnica-Mikulčice-Horizont). Wahrscheinlich in der Zeit der parallel fortschreitenden Christianisierung und des Vereinigungsprozesses ging der Burgwall von Pobedim gewaltsam unter. In dieser Zeit wurden in der Slowakei auch einige weitere Burgwälle devastiert, die als die ältesten gelten können, entstanden vor dem Jahr 800 oder kurz nach diesem Datum, z. B. Majcichov, Vyšný Kubín, Spišské Tomášovce, gegebenenfalls auch Bojná. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der heutige Zustand",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Leider hat die Gemeinde Pobedim gegenwärtig offensichtlich kein Interesse daran, auf ihre außerordentlich reiche Geschichte hinzuweisen. Der Ort, an dem sich ursprünglich der bedeutende Burgwall befand, liegt gegenwärtig in der Mitte eines Feldes, wobei Sie nirgends auch nur den Ansatz einer Informationstafel darüber finden, wo sich der Burgwall befand. Es ist ein trauriges Bild. Sehen Sie sich die Fotogalerie an – den heutigen Zustand des Burgwalls vom 7. 1. 2012."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim",
+    "width": "50",
+    "showCaption": false,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich aktualisiere am 10. 3. 2015. Am Rand der Gemeinde, nicht weit vom Burgwall, kam eine schöne Informationstafel über den Burgwall hinzu. Wir danken und loben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

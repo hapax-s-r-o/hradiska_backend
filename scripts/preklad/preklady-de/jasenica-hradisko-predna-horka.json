@@ -1,0 +1,447 @@
+{
+ "slug": "jasenica-hradisko-predna-horka",
+ "data": {
+  "title": "Jasenica – Predná Hôrka, eine kleine Höhenburg der Púchov-Kultur",
+  "slug": "jasenica-predna-horka-hoehenburg-puchov-kultur",
+  "excerpt": "In einer Ausgabe des Vlastivedný zborník Považia fand sich ein Artikel über die Höhenburg Predná hôrka bei Jasenica; hier steht seine gekürzte Fassung. Das Gebiet der Nordwestslowakei zwischen Čadca, Považská Bystrica und Žilina ist von kleinen Befestigungen der Púchov-Kultur durchzogen – und von der Predná hôrka stammt die erste genau lokalisierte Silbermünze des sogenannten Nitraer Typs, die die Errichtung der Anlage tiefer in das 1. Jahrhundert v. Chr. rückt.",
+  "metaTitle": "Jasenica – Predná Hôrka, Höhenburg der Púchov-Kultur",
+  "metaDescription": "Die kleine Höhenburg Predná Hôrka bei Jasenica: eine von vielen Befestigungen der Púchov-Kultur zwischen Čadca und Žilina, mit einer keltischen Silbermünze.",
+  "keyFacts": [
+   {
+    "label": "Kultur",
+    "value": "Púchov-Kultur (jüngere Eisenzeit – Spätlatène)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Lage",
+    "value": "der Hügel Predná hôrka bei Jasenica, Nordwestslowakei",
+    "icon": "map"
+   },
+   {
+    "label": "Wertvollster Fund",
+    "value": "eine Silbermünze des Nitraer Typs, Variante V/12, Durchmesser 24 mm, Gewicht 9,985 g",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1947",
+    "title": "Erste archäologische Begehung",
+    "description": "Die allererste Begehung auf der kleinen Höhenburg der Púchov-Kultur in Jasenica war die Begehung von A. Petrovský-Šichman; damals fanden sich einige kleine Scherben am Südhang des Hügels Predná hôrka.",
+    "type": "discovery"
+   },
+   {
+    "year": "1958",
+    "title": "Schlüsselfund von Keramik",
+    "description": "Am 20. 4. 1958 entdeckte Štefan Meliš einen Keramikfund, der ein wichtiger Anstoß für die Zuordnung der Befestigung in den Rahmen der Púchov-Kultur war.",
+    "type": "discovery"
+   },
+   {
+    "year": "1979",
+    "title": "Überprüfungsgrabung",
+    "description": "Auf der nördlichen kleinen Terrasse der Befestigung fand sich ein ausgehobener Schnitt von 2 × 2 m, in dem Eisengegenstände, fast vollständige Gefäße einschließlich großer Vorratsgefäße und zwei steinerne Drehmühlen zum Vorschein kamen.",
+    "type": "discovery"
+   },
+   {
+    "year": "1986",
+    "title": "Wiederholte Begehung",
+    "description": "Die wiederholte Begehung bestätigte, dass die Fundstelle zur Púchov-Kultur gehört.",
+    "type": "discovery"
+   },
+   {
+    "year": "1999",
+    "title": "Fund des Silbergroschens Johanns Zápolya",
+    "description": "Bei der letzten Begehung am 14. 4. 1999 wurde eine Silbermünze des Königs Johann Zápolya (1526–1540) aus dem Jahr 1527 gefunden, geprägt in Kremnica.",
+    "type": "discovery"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Fund der Silbermünze des Nitraer Typs",
+    "description": "Der wertvollste Fund war eine Silbermünze des sogenannten Nitraer Typs (Variante V/12), datiert in die Zeit nach dem Jahr 45 v. Chr., die die Errichtung der Befestigung auf der Predná hôrka tiefer in das 1. Jahrhundert v. Chr. rückt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3341,
+    "alt": "Luftbild des bewaldeten Bergrückens mit den eingetragenen Lagen Predná hôrka, Hradište und Klapy"
+   },
+   {
+    "mediaId": 3342,
+    "caption": "Blick auf die Predná hôrka und im Hintergrund die Höhensiedlung Klapy",
+    "alt": "Blick auf die Predná hôrka und im Hintergrund die Höhensiedlung Klapy"
+   },
+   {
+    "mediaId": 3344,
+    "caption": "Predná hôrka",
+    "alt": "Predná hôrka"
+   },
+   {
+    "mediaId": 3346,
+    "caption": "Kelten",
+    "alt": "Kelten"
+   },
+   {
+    "mediaId": 3349,
+    "caption": "Blick in Richtung Hauptburg",
+    "alt": "Blick in Richtung Hauptburg"
+   },
+   {
+    "mediaId": 3350,
+    "caption": "Blick auf den breitesten Teil der Hauptburg",
+    "alt": "Blick auf den breitesten Teil der Hauptburg"
+   },
+   {
+    "mediaId": 3352,
+    "caption": "Rechts liegt die kleine Terrasse, die wahrscheinlich bewohnt war",
+    "alt": "Rechts liegt die kleine Terrasse, die wahrscheinlich bewohnt war"
+   },
+   {
+    "mediaId": 3354,
+    "caption": "Eine frische Grube von Raubgräbern",
+    "alt": "Eine frische Grube von Raubgräbern"
+   },
+   {
+    "mediaId": 3355,
+    "caption": "Die schmale lange Terrasse ist mit vielen Löchern von Raubgräbern bedeckt",
+    "alt": "Die schmale lange Terrasse ist mit vielen Löchern von Raubgräbern bedeckt"
+   },
+   {
+    "mediaId": 3356,
+    "caption": "Die Gipfelfläche hat eine schmale, langgestreckte Form",
+    "alt": "Die Gipfelfläche hat eine schmale, langgestreckte Form"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einer der Ausgaben des Vlastivedný zborník Považia habe ich einen sehr interessanten Artikel über die Höhenburg Predná hôrka in Jasenica gefunden. Hier gebe ich seine gekürzte Fassung wieder.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet der Nordwestslowakei, umgrenzt von den ehemaligen Bezirken Čadca, Považská Bystrica und Žilina, ist buchstäblich von einer Menge von Fundstellen durchzogen, die wir den befestigten Siedlungen zuordnen können. Die größte Zahl stellen kleine Befestigungen auf kleineren, markanten Hügeln dar, die am Ende der jüngeren Eisenzeit im Umfeld der Púchov-Kultur entstanden. Mehr als die Hälfte der bisher bekannten Befestigungen wird aufgrund der gewonnenen Funde an die Zeitenwende datiert. Große Befestigungen – befestigte Höhensiedlungen – sind erst aus der jüngeren und späten Bronzezeit bekannt, und einige von ihnen wurden auch in der Zeit vom Spätlatène bis zur älteren römischen Kaiserzeit und dann wieder im 9. Jahrhundert n. Chr. erneut genutzt (Divinka, Veľký vrch)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jasenica - Höhenburg Predná Hôrka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kleinen Höhenburgen der Púchov-Kultur sind über das ganze Gebiet der NW-Slowakei verteilt und gehören zu den exponiertesten Lagen dieser Region. Meist befinden sie sich auf kleinen, markanten Hügeln oder am Ende größerer, weitläufigerer Bergrücken in einer Spanne von 400 bis 700 m ü. M."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Namen der einzelnen Lagen wiederholen sich recht häufig (Hrádek, Hrádok), sie sind aber auch unter den Namen Hôrka, Predná hôrka, gegebenenfalls Skala, Skalka, Mokrá skala, Štepnická skala bekannt, manchmal auch nach dem Eigentümer des Grundstücks – Kulíškov kopec. Am überraschendsten ist jedoch der Name Zlatý kôň (Goldenes Pferd) in Prosné, der angeblich darauf zurückgeht, dass hier vor längerer Zeit goldene keltische Münzen mit der Darstellung eines Pferdchens gefunden wurden "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der kleinen Höhenburg der Púchov-Kultur in Jasenica fanden mehrere Begehungen statt. Die allererste war jedoch die Begehung von A. Petrovský-Šichman bereits im Jahr 1947. Damals fanden sich einige kleine Scherben am Südhang des Hügels Predná hôrka. Ein wichtiger Anstoß für die Zuordnung der Befestigung in den Rahmen der Púchov-Kultur war allerdings erst der Keramikfund, den am 20. 4. 1958 Štefan Meliš machte, der mit seiner Frau von Papradno aus das Aufstauen der Talsperre von Nosice (Priehrada mládeže) ansehen wollte. Unterwegs fiel ihm ein eigentümlicher, markanter Hügel an der Strecke Jasenica–Udiča auf. Mit seiner Entdeckung rühmte er sich beim damaligen Fachmitarbeiter des Považské-Museums in Žilina, A. Petrovský-Šichman, der sich gemeinsam mit ihm erneut aufmachte, an dieser interessanten Fundstelle eine Begehung durchzuführen (Petrovský 1965, 69). So gelangte die Predná hôrka in die Aufmerksamkeit nicht nur der Fachleute – der Archäologen –, sondern auch der Laien, die hier Funde zu finden suchten, aus denen sie Geld machen konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die Predná hôrka und im Hintergrund die Höhensiedlung Klapy",
+    "alt": "Blick auf die Predná hôrka und im Hintergrund die Höhensiedlung Klapy",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das weitere Schicksal der Fundstelle zeichneten zufällige Grabungen vor, die sich auch im Jahr 1979 überprüfen ließen, als auf der nördlichen kleinen Terrasse der Befestigung ein ausgehobener Schnitt von 2 × 2 m gefunden wurde. In seinem erweiterten Teil kamen nicht nur kleine Eisengegenstände zum Vorschein, sondern vor allem fast vollständige Gefäße, darunter große Vorratsgefäße, sowie zwei steinerne Drehmühlen. Dabei deutete der Umfang der kleinen Höhenburg keineswegs darauf hin, dass sich hier eine solche Menge an Altertümern finden würde. Die wiederholte Begehung im Jahr 1986 bestätigte nur, dass die Fundstelle zur Púchov-Kultur gehört und ihre zeitliche Einordnung der Zeitenwende entspricht. Wegen der starken Störung der Fundstelle wurden drei weitere Begehungen, auch unter Einsatz des Metalldetektors, durchgeführt, die die entscheidenden Funde für eine genauere Datierung der kleinen Höhenburg erbrachten. Die erste fand bereits am 4. 10. 1998 statt und die zwei weiteren am 11. und 14. 4. 1999. Während die ersten zwei unter Beteiligung von Mitgliedern des Zirkels aus Považská Bystrica stattfanden, erfolgte die letzte auch unter Beteiligung von Mitarbeitern des Archäologischen Instituts der SAV in Nitra (Neutra) (K. Pieta mit Mitarbeitern). Zusammen fanden sie über 60 Metallgegenstände, vor allem eiserne Pfeilspitzen, Messer und Nägel, aber auch Fragmente von „háčkovky“ (hakenförmigen Geräten), von verschiedenen Arbeitsgeräten und Eisenbruchstücke. Vor allem eine Bronzefibel vom Typ Almgren 68, eine kleine bronzene Phalera und zwei Silbermünzen, eine keltische des sogenannten Nitraer Typs und eine mittelalterliche Johanns Zápolya aus dem Jahr 1527. Nach den ersten zwei Tüllenpfeilspitzen, die in den Jahren 1979 und 1986 gefunden wurden, gelang es, weitere 18 Stück verschiedener Typen zu entdecken, die eine breite Skala von Formen und Größen der Pfeilspitzen der Púchov-Kultur vertreten. Ähnliche Formen von Pfeilspitzen kamen auch an der Fundstelle Skala in Púchov während der Grabungen des Barons Emil Hoenning zum Vorschein. Flache Pfeilspitzen mit seitlichen Flügelchen ohne Tülle gehören zu den einfachsten Fernwaffen. Der zweite Typ sind Pfeilspitzen mit Tülle und zwei Flügelchen. Der dritte Typ sind Pfeilspitzen mit Tülle und einem Flügelchen, und dann sind es noch Pfeilspitzen mit flacher, dreieckiger Spitze oder Typen von Pfeilspitzen mit einer zu einem kantigen Dorn geschmiedeten Spitze. Alle Typen sind auch in den Funden von der Fundstelle Skala in Púchov vertreten. Karol Pieta hat sie in drei Grundgruppen gegliedert: I – dreieckige Spitzen; II – blattförmige Spitzen; III – konische Spitzen. Der erste Typ gehört zu den ältesten Formen von Pfeilspitzen, die aus Eisenblech mithilfe eines Meißels hergestellt wurden. Die ältesten von ihnen haben keine Tülle und wurden in das aufgespaltene Ende des Pfeils eingesetzt. Sie gehören zu den altertümlichen Formen mit einfacher Herstellungstechnik und treten bereits in der älteren Eisenzeit sowie im älteren Abschnitt der jüngeren Eisenzeit auf. Sie überlebten auch am Ende der jüngeren Eisenzeit und am Anfang der römischen Kaiserzeit als Notbehelfe neben den Formen mit Tülle, die ein anspruchsvolleres Herstellungsverfahren erforderten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jasenica - Höhenburg Predná Hôrka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer, recht häufiger Fund sind eiserne Nägel und große Keile. Auf der kleinen Höhenburg in Jasenica wurden mehrere Stücke davon gefunden. Sie gehören zu den häufigen Funden auf den Befestigungen der Púchov-Kultur, auch wenn es derzeit sehr schwer zu bestimmen ist, an welchen Geräten, Gegenständen oder Baukonstruktionen sie eigentlich verwendet wurden. Vielleicht nur die großen Keile lassen sich als Bestandteil von Wohn- oder Befestigungsbauten ansehen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den interessanten Gegenständen von der Fundstelle Predná hôrka lassen sich die sogenannten „háčkovky“ zählen. Sie wurden auf mehreren Befestigungen der Púchov-Kultur gefunden, z. B. Prosné, Zlatý kôň, Udiča, Klapy, doch ihre Verwendung ist derzeit nicht ausreichend belegt. Nur bestimmte Hinweise lassen sich aus ihren Formen und Größen ableiten – sie haben ein zu einem Haken umgebogenes Ende, einen tordierten Körper, und die recht kleinen Maße lassen keine andere Verwendungsmöglichkeit zu als das Stricken von Garn. Eine etwaige Verwendung als kleine Schlüssel ist wegen ihrer zierlichen Form schwer zu deuten.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Predná hôrka",
+    "alt": "Predná hôrka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den wichtigen Funden gehört auch das Fragment eines Spiegels, der aus Weißmetall hergestellt war. Ähnliche Fragmente stammen aus Divinka und aus der Liptovská Mara. Leider gelang es in keinem Fall, ein ganzes Stück zu finden, daher lässt sich auf der Grundlage der Rekonstruktion dieser Fragmente nur vermuten, dass ihre Durchmesser etwa 8–10 cm erreichten. Nahezu unbestimmbar sind verschiedene Eisenfragmente, die sich schwer bestimmten konkreten Gegenständen zuordnen lassen. Vielleicht ist ein Fund als kleines Rasiermesser und ein anderes Fragment als Spitze einer Ahle anzusehen. Recht selten ist der Fund einer Bleiplombe, die nicht in den Rahmen der Púchov-Kultur gehören muss. Aus dem Gesamtrahmen fällt auch eine eiserne sechsstrahlige Rosette heraus, die von einem mittelalterlichen Sporn stammen kann, aber auch von einem Pferdegeschirr im Rahmen der Púchov-Kultur. Zu den gewöhnlichen Funden lassen sich jedoch sicher die eisernen Messer zählen, die sich häufig an vielen Fundstellen der Púchov-Kultur finden. Aus dem Gesamtrahmen der verschiedenen Messertypen fällt ein großes Messer von sichelförmiger Gestalt mit einem in einer Öse endenden Griff heraus. Ähnliche oder sehr verwandte Exemplare kamen auch auf der Höhensiedlung in Udiča in der Lage Klapy oder in Púchov an der Fundstelle Skala zum Vorschein, wobei letzteres mit seiner Form und seinen Maßen eine sehr nahe Analogie zum Fund aus Jasenica ist. Sehr verwandte Messer – Hackmesser – fanden sich auf der Liptovská Mara, aber auch auf der Befestigung Čertova skala in Trenčianske Teplice. Schon in der jüngeren Bronzezeit treten in Mitteleuropa verwandte Messer auf, die ihre Vorlagen unter den bronzenen Exemplaren und in einer viel vollkommeneren Form bei den sogenannten Vogel- oder Blutegelmessern aus Bronze an verschiedenen Fundstellen Europas haben. Ob auch die Funde aus Jasenica, Púchov und Udiča diesen Kultgegenständen zugeordnet werden können, ist bislang offen. Doch angesichts des nicht einmal sehr weit entfernten Opferplatzes in Prosné in der Lage Uhliská, wo in der Spätlatènezeit Tier- und auch Menschenopfer stattfanden, muss das nicht unwahrscheinlich sein.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jasenica - Höhenburg Predná Hôrka",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausführenden der Opfergaben hatten in der damaligen Gesellschaft eine bedeutendere Stellung, und daher darf man annehmen, dass solche Messer, die sich mit ihrer Form und ihren Maßen vom gewöhnlichen Messertyp der Púchov-Kultur abhoben, auch ein Symbol eben der bedeutenden Mitglieder der Sippe sein konnten, die auf die Durchführung der Opfer für die damaligen Gottheiten ausgerichtet waren. Die Opfer wurden häufig gevierteilt, in kleinere Teile zerlegt, die man auf die Felder trug oder auf den Opferfeuern verbrannte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den wichtigsten Funden im Hinblick auf die Möglichkeit einer genaueren Datierung der Befestigung in Jasenica in der Lage Predná hôrka gehören zwei Fibeln. Während die erste aus Eisen hergestellt ist und mit dem erhaltenen Teil des Bügels den Derivaten der Nauheimer Fibeln gleicht, die den älteren Horizont der Entwicklung der Púchov-Kultur im Rahmen des Spätlatène vertreten, ist die zweite Fibel aus Bronze hergestellt und gehört zu den recht häufigen Funden in der Nordslowakei. Man kann sie den bronzenen Fibeln vom Typ Almgren zuordnen. Diese gehören zu den verbreitetsten Typen von Gewandschließen der frühen römischen Kaiserzeit im Gebiet der Slowakei. Demnach ließe sich vielleicht annehmen, dass die Besiedlung auf der Befestigung Predná hôrka länger dauerte, als bislang vermutet wurde, und auch die Mitte des 1. Jahrhunderts n. Chr. erreicht haben konnte. Offenbar endete sie nicht an dessen Anfang, wie es nach den früheren Funden zu erwarten war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kelten",
+    "alt": "Kelten",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den interessanten Funden von dieser Fundstelle gehört auch ein eiserner Schlüssel, der mit seiner Form ähnlichen Funden aus der Liptovská Mara entspricht. Schlüssel kommen auf den Befestigungen der Púchov-Kultur nicht so häufig vor wie andere Altertümer, doch sprechen die erwähnten Funde bereits von einer anderen Art der Sicherung des Besitzes als in den vorangehenden Zeiten. Auf der Skala in Púchov fanden sich sogar vollkommenere Varianten, die nicht nur aus Eisen, sondern auch aus Bronze hergestellt waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da einige Funde von der Fundstelle Predná hôrka in Jasenica jünger (mittelalterlich) sind als der Hauptbestand des Fundgutes, war es eine Frage der Zeit, wann sich das auch durch einen unumstößlichen Beweis bestätigen würde. Dazu kam es bei der letzten Begehung am 14. 4. 1999, als eine Silbermünze des Königs Johann Zápolya (1526–1540) aus dem Jahr 1527 gefunden wurde, geprägt in Kremnica (Kremnitz)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der allerwertvollste Fund auf der kleinen Höhenburg Predná hôrka war dennoch eine Silbermünze des sogenannten Nitraer Typs, die am Südhang der Fundstelle in einer Tiefe von etwa 10–15 cm gefunden wurde. Die Münze ist sehr gut erhalten (Tetradrachme), hat einen Durchmesser von 24 mm und ein Gewicht von 9,985 g. Auf dem Avers befindet sich der stilisierte Körper eines nach links gewandten Pferdes, über dem Rücken und unter seinem Bauch liegt ein unregelmäßiges viereckiges Symbol. Das untere Zeichen erinnert vielleicht an eine Leier? Auf dem Revers ist ein genau nicht identifizierbares Tier – ein Hund? – nach rechts gewandt, das unter den Füßen eine unregelmäßige Linie und über dem Rücken eine Pseudoinschrift hat, die von zwei geraden Linien eingefasst ist. Den Rand der Münze säumt auf beiden Seiten ein grober Perlkreis. Die Münze gehört zur Variante V/12 des Nitraer Typs."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jasenica - Höhenburg Predná Hôrka",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Münzen dieses Typs sind vor allem dadurch bemerkenswert, dass auf dem Avers nicht mehr ein Kopf dargestellt ist, wie es in der gesamten keltischen Münzprägung üblich ist, sondern dass sowohl auf dem Avers als auch auf dem Revers ein Tier abgebildet ist. Man darf vermuten, dass für das Bild des Hundes auf dem Revers römische republikanische Münzen – Denare des C. Postumius aus den Jahren 74–73 v. Chr., gegebenenfalls des T. Carisius aus dem Jahr 45 v. Chr. – als Vorbild dienten. Diese tragen damit eigentlich zur Datierung der Münzen des Nitraer Typs in die zweite Hälfte des 1. Jahrhunderts v. Chr. bei. Bislang war keines der 14 Stücke von Münzen dieses Typs genau lokalisiert. Deshalb ist der Fund aus Jasenica der erste mit eindeutiger Lokalisierung, und es scheint, dass auch ein weiteres Exemplar aus Skalka nad Váhom hinzugekommen ist, das jedoch bislang nicht zur Bearbeitung zur Verfügung gestellt wurde. Diese beiden genau lokalisierten Funde bestätigen, dass dieser Münztyp am ehesten in der Nordslowakei (in der Nordwestslowakei?) und nicht im Gebiet von Nitra geprägt wurde, wie es ihr Name nahelegt. Zugleich bestätigt das auch die Tatsache, dass eine der seit längerem bekannten Münzen des Nitraer Typs eigentlich eine Überprägung auf einer Tetradrachme des nordslowakischen Veľký-Bysterec-Typs ist. Der Fund der keltischen Silbermünze, datiert in die Zeit nach dem Jahr 45 v. Chr., erlaubt es zugleich, die Errichtung der Befestigung auf der Predná hôrka in Jasenica tiefer in das 1. Jahrhundert v. Chr. zu rücken, als bislang vermutet wurde. Ihre Nutzung dauerte vielleicht länger, als es die ursprünglichen, von den vorangehenden Begehungen bekannten Funde bezeugten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jasenica - Höhenburg Predná Hôrka",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "MORAVČÍK, J., 2002: Opevnenia severozápadného Slovenska. VZP XXI: 7–36\n \n Bearbeitet von Orgoň\n \n Fotos November 2013:\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

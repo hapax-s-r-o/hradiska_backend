@@ -1,0 +1,833 @@
+{
+ "slug": "slovanske-hradiska-v-nemecku",
+ "data": {
+  "title": "Slawische Burgwälle in Deutschland – Elbslawen und Ostseeslawen",
+  "slug": "slawische-burgwaelle-in-deutschland",
+  "excerpt": "Vom Ende des 6. bis zur Mitte des 13. Jahrhunderts bewohnten westslawische Stämme – Lusizer, Liutizen, Abodriten, Pomoranen und Ranen – den Osten, Norden und Nordwesten des heutigen Deutschlands; heute nennt man sie Elbslawen oder Ostseeslawen. An sie erinnern zahlreiche Ortsnamen und mehrere Freilichtmuseen. Der Beitrag stellt neun Burgwälle vor: Groß Raden, Raddusch, Arkona, Torgelow, Köpenick, Spandau, Brandenburg an der Havel, Behren-Lübchin und Starigard.",
+  "metaTitle": "Slawische Burgwälle in Deutschland – Elb- und Ostseeslawen",
+  "metaDescription": "Vom 6. bis 13. Jahrhundert besiedelten westslawische Stämme den Osten und Norden Deutschlands: Groß Raden, Raddusch, Arkona, Köpenick und weitere.",
+  "keyFacts": [
+   {
+    "label": "Groß Raden",
+    "value": "Burgwall und Heiligtum der Warnower am Binnensee, kreisförmige Holz-Erde-Mauer mit 50 m Durchmesser; heute archäologisches Freilichtmuseum (Rekonstruktion 1987)",
+    "icon": "shield"
+   },
+   {
+    "label": "Raddusch",
+    "value": "Ovaler Burgwall der Lusizer zwischen Lübbenau und Cottbus, heute in die Gestalt von vor 1000 Jahren rekonstruiert",
+    "icon": "building"
+   },
+   {
+    "label": "Arkona",
+    "value": "Der bekannteste slawische Burgwall in Deutschland, auf der Insel Rügen, Sitz des Svantovit-Kultes",
+    "icon": "crown"
+   },
+   {
+    "label": "Torgelow",
+    "value": "Rekonstruiertes slawisches Dorf des 9.–10. Jahrhunderts im Ukranenland, mit den Schiffsnachbauten Svarog (1997) und Svantovit (1998)",
+    "icon": "star"
+   },
+   {
+    "label": "Köpenick",
+    "value": "Burginsel in Berlin, Zentrum des Stammes der Sprewanen; Fürst Jaxa von Köpenick besiegte 1157 Albrecht den Bären, der Burgwall wurde spätestens 1178 erobert",
+    "icon": "crown"
+   },
+   {
+    "label": "Spandau",
+    "value": "Burgwall der Heveller an der Spreemündung, Blüte vom Ende des 10. bis zur Mitte des 12. Jahrhunderts, Ende nach der Eroberung durch Albrecht den Bären (1157)",
+    "icon": "building"
+   },
+   {
+    "label": "Behren-Lübchin",
+    "value": "Inselburgwall der Zirzipanen, bei Saxo Grammaticus erwähnt (1171), einer der letzten, die der deutschen und christlichen Expansion widerstanden",
+    "icon": "shield"
+   },
+   {
+    "label": "Starigard (Oldenburg)",
+    "value": "Hauptstadt des Stammes der Wagrier, Fürstensitz und Heiligtum; heute Rekonstruktion im Oldenburger Wallmuseum",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 6. Jahrhunderts",
+    "title": "Ankunft der westslawischen Stämme",
+    "description": "Die Lusizer, Liutizen, Abodriten, Pomoranen und Ranen besiedelten den Osten, Norden und Nordwesten des heutigen Deutschlands, nachdem die germanischen Stämme abgezogen waren.",
+    "type": "founding"
+   },
+   {
+    "year": "um 880",
+    "title": "Gründung des Burgwalls Raddusch",
+    "description": "Ein ovaler Burgwall am Ufer des Bischdorfer Sees in der Niederlausitz, mit 10 m breiten Mauern und zwei Tunneltoren.",
+    "type": "construction"
+   },
+   {
+    "year": "2. Hälfte des 9. Jahrhunderts",
+    "title": "Ältere Phase des Burgwalls Groß Raden",
+    "description": "Bedeutender Burgwall und Heiligtum des Stammes der Warnower auf einer Halbinsel am Binnensee; einige Jahrzehnte später zerstört.",
+    "type": "construction"
+   },
+   {
+    "year": "um 900",
+    "title": "Zerstörung der Siedlung von Groß Raden",
+    "description": "Siedlung und Heiligtum wurden durch einen Brand zerstört; die Ursache ist durch Schriftquellen nicht belegt. Schnell erneuert, mit größeren Häusern und verlegtem Heiligtum.",
+    "type": "destruction"
+   },
+   {
+    "year": "925–950",
+    "title": "Allmähliche Umbauten des Burgwalls Raddusch",
+    "description": "Die Befestigung wurde zweimal renoviert, wobei sich die Innenfläche allmählich von 35–36 m auf 28 m im Durchmesser verkleinerte.",
+    "type": "construction"
+   },
+   {
+    "year": "928",
+    "title": "Belagerung von Brandenburg an der Havel",
+    "description": "Den Residenzburgwall der Hevellerfürsten belagerte der deutsche König Heinrich I.",
+    "type": "event"
+   },
+   {
+    "year": "963",
+    "title": "Eroberung der Lausitz durch Markgraf Gero",
+    "description": "Sie bedeutete das Ende des Burgwalls Raddusch, der verlassen blieb und allmählich verfiel.",
+    "type": "destruction"
+   },
+   {
+    "year": "Ende des 10. Jahrhunderts",
+    "title": "Endgültige Aufgabe von Groß Raden",
+    "description": "Die Siedlung wurde zum zweiten Mal zerstört und endgültig verlassen, wahrscheinlich im Zusammenhang mit dem Feldzug Ottos III. gegen die mecklenburgischen Slawen im Jahr 995.",
+    "type": "destruction"
+   },
+   {
+    "year": "1150–1165",
+    "title": "Untergang des Burgwalls Brandenburg",
+    "description": "Nach dem Tod des Fürsten Pribislaw-Heinrich (1150) gewann Albrecht der Bär den Burgwall (endgültig 1157); im Jahr 1165 wurde an seiner Stelle ein christlicher Dom errichtet.",
+    "type": "destruction"
+   },
+   {
+    "year": "1984–1989",
+    "title": "Archäologische Ausgrabung in Raddusch",
+    "description": "Sie wies eine Besiedlung der Fundstelle bereits am Ende der Bronzezeit und in der Völkerwanderungszeit nach; der Burgwall ist heute in slawischer Gestalt rekonstruiert.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6373,
+    "alt": "Rekonstruktion eines slawischen Heiligtums in Blockbauweise mit Bretterdach und Pfosten mit Figuren"
+   },
+   {
+    "mediaId": 1212,
+    "caption": "Die Elbslawen und Ostseeslawen",
+    "alt": "Die Elbslawen und Ostseeslawen"
+   },
+   {
+    "mediaId": 407,
+    "caption": "Slawische Funde aus Groß Raden",
+    "alt": "Slawische Funde aus Groß Raden"
+   },
+   {
+    "mediaId": 408,
+    "caption": "Ältere Rekonstruktion des Eingangstores",
+    "alt": "Ältere Rekonstruktion des Eingangstores"
+   },
+   {
+    "mediaId": 409,
+    "caption": "Die neuere — 2. Phase des Burgwalls",
+    "alt": "Die neuere — 2. Phase des Burgwalls"
+   },
+   {
+    "mediaId": 410,
+    "caption": "Die ältere Phase der Besiedlung",
+    "alt": "Die ältere Phase der Besiedlung"
+   },
+   {
+    "mediaId": 411,
+    "caption": "Grundriss des Burgwalls",
+    "alt": "Grundriss des Burgwalls"
+   },
+   {
+    "mediaId": 412,
+    "caption": "Funde aus dem Burgwall",
+    "alt": "Funde aus dem Burgwall"
+   },
+   {
+    "mediaId": 413,
+    "caption": "Der Sturz des Svantovit-Standbildes",
+    "alt": "Der Sturz des Svantovit-Standbildes"
+   },
+   {
+    "mediaId": 447,
+    "caption": "Arkona um 1860",
+    "alt": "Arkona um 1860"
+   },
+   {
+    "mediaId": 454,
+    "caption": "Das Aussehen des Burgwalls im 9. Jahrhundert",
+    "alt": "Das Aussehen des Burgwalls im 9. Jahrhundert"
+   },
+   {
+    "mediaId": 455,
+    "caption": "und das Aussehen im 12. Jahrhundert",
+    "alt": "und das Aussehen im 12. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie die moderne Geschichtsforschung bezeugt, bewohnten etwa vom Ende des 6. bis zur Mitte des 13. Jahrhunderts n. Chr. große Gruppen westslawischer Stämme – der Lusizer (Sorben), der Liutizen, der Abodriten, der Pomoranen und der Ranen – sowie weitere Stämme, die man heute Elbslawen oder Ostseeslawen nennt, den Osten, Norden und Nordwesten des heutigen Deutschlands. Diese Stämme lösten in der zweiten Hälfte des 6. Jahrhunderts die germanischen Stämme der Langobarden, Rugier, Lugier, Chizobraden, Wariner, Veleden und andere ab, die hier schon in der Antike lebten, ihre Gebiete später jedoch verließen und an andere Orte zogen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen besiedelten ab dem 6. Jahrhundert ein weites Gebiet von der Mündung der Elbe und ihres Zuflusses, der Saale, im Westen bis zur Oder im Osten, vom Erzgebirge (an der Grenze zur Tschechischen Republik) im Süden bis zur Ostsee im Norden. Das Land der Elbslawen nahm also mindestens ein Drittel des heutigen deutschen Staates ein. Die Elbslawen schlossen sich in drei Stammesverbänden zusammen: den Sorben, den Liutizen (Wilzen) und den Abodriten (Obodriten, Rarogen oder Reregen). Mit ihnen verwandt waren auch die pomoranischen Stämme, die an der Südküste der Ostsee lebten, etwa von der Mündung der Oder bis zur Mündung der Weichsel und im Süden bis zur Netze an der Grenze zu den polnischen Stämmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Slawische Burgwälle in Deutschland"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Davon, dass slawische Völker schon vor langer Zeit auf dem Gebiet Deutschlands lebten, zeugt die Menge der Toponyme (topos — „Ort“, und onom — „Name, Bezeichnung“, ein Substantiv, das den Namen eines geographischen Objekts bezeichnet), die sie hinterlassen haben. Zum Beispiel:\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Berlin",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", Schwerin, Witzin, Devín, Alt Teterin, Karpin. Die Endung „-in“ ist in slawischen Toponymen betont."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Lausitz (Lužice), Chemnitz, Dobranitz (Dobrancy), Doberschütz (Dobrosicy), Doberschau (Dobruša)."
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Lübow, Teterow, Güstrow, Lütow, Golzow, Mirow, Burow."
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Lübbenau, Schandau, Torgau."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "... Das Reich der Slawen ist zehnmal größer als unser Sachsen, wenn wir die Böhmen und die auf dieser Seite der Oder lebenden Polen dazurechnen, die sich von den Bewohnern des slawischen Reiches weder in ihrer äußeren Erscheinung noch in ihrer Sprache unterscheiden ... Es gibt viele slawische Völker. Von ihnen sind die größten die westlichen Wagrier, die an der Grenze zu den Transalbingern leben. Ihre Stadt, die am Meer liegt, ist Oldenburg (Starigard). Hinter ihnen folgen die Abodriten, die man jetzt Reregen nennt, und ihre Stadt Magnopolis (Veligrad). Östlich von uns (von Hamburg) leben die Polaben, deren Stadt Racesburg (Ratibor) heißt. Hinter ihnen sind die Linonen (Glinjanen) und die Warnaber. Dann folgen die Kessiner und die Zirzipanen, die von den Tollensern und den Redariern durch den Fluss Peene und die Stadt Demmin getrennt sind. Dort ist die Grenze des Hamburger Bistums. Die Kessiner und die Zirzipanen leben nördlich der Peene, die Tollenser und die Redarier südlich davon. Diese vier Völker werden wegen ihrer Tapferkeit Wilzen oder Liutizen genannt. Es gibt auch weitere slawische Stämme, die zwischen Elbe und Oder leben.",
+    "author": null,
+    "source": "Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum (Hamburgische Kirchengeschichte), um 1066"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Deutschland gibt es mehrere archäologische Freilichtmuseen, die rekonstruierte slawische Burgwälle, große Siedlungen und Dörfer des 7.–12. Jahrhunderts zeigen. Burgwälle wurden gewöhnlich — ähnlich wie im Gebiet der heutigen Slowakei — an einer strategischen Stelle angelegt, auf einer Erhebung, am hohen Ufer eines Flusses oder an einer Furt über einen Fluss. Eine typische Lage war auch eine Insel in einem See, die eine Brücke mit dem Ufer verband. Nennen wir also nur einige der interessantesten slawischen Burgwälle aus dem Gebiet Deutschlands."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Die Elbslawen und Ostseeslawen",
+    "alt": "Die Elbslawen und Ostseeslawen"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Groß Raden",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Groß Raden war ein großer Burgwall und gleichzeitig ein bedeutendes Heiligtum des slawischen Stammes der Warnower. Der Burgwall, der vor etwa 1000 Jahren auf einer Halbinsel stand, wurde im Jahr 1987 rekonstruiert, und heute befindet sich dort eines der schönsten archäologischen Freilichtmuseen Europas. Das Freilichtmuseum liegt einige Kilometer nördlich der Stadt Sternberg und etwa 1 km nordöstlich des heutigen Dorfes Groß Raden, unmittelbar am nördlichen Ausläufer des Binnensees. Auf der Halbinsel ist schon von weitem die mächtige kreisförmige Holz-Erde-Mauer mit einem Durchmesser von 50 Metern zu erkennen. In den Jahren 1973 bis 1980 fanden hier umfangreiche Ausgrabungen statt, bei denen die Überreste des slawischen Burgwalls aus dem 9. und 10. Jahrhundert aufgedeckt wurden. Es zeigte sich, dass der Bau des Burgwalls zwei Hauptphasen hatte. Der ältere Burgwall wurde in der zweiten Hälfte des 9. Jahrhunderts errichtet und einige Jahrzehnte später zerstört. Die zweite Phase wurde kurz danach erbaut. Der Burgwall selbst stand auf einer Insel, die durch eine Brücke mit der Siedlung auf der Halbinsel verbunden war, die damals viel kleiner war als heute. Die Halbinsel war nur von einem 4,5 m breiten Graben und einer einzigen Palisadenreihe umgeben. Der einzige Zugang zum Burgwall war nur über die genannte Brücke möglich. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den ersten Jahrzehnten bestand die Siedlung wahrscheinlich aus etwa 40 dicht beieinander errichteten Häusern. Die Häuser hatten eine Fläche von etwa 4 × 5 m. Nach den erhaltenen Resten der charakteristischen Bauelemente zu urteilen, waren die Hauswände etwa zwei Meter hoch und bestanden aus Balken, die in regelmäßigen Abständen senkrecht in den Boden eingesetzt und untereinander mit Flechtwerk verbunden waren. Auf das Flechtwerk war ein Lehmputz aufgetragen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Slawische Funde aus Groß Raden",
+    "alt": "Slawische Funde aus Groß Raden"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der freien Fläche im südöstlichen Teil der Halbinsel stand eine einräumige Halle (7 × 11 m), die durch einen schmalen, von Stelen gesäumten Weg mit dem Bohlenweg verbunden war, der durch den Burgwall führte. Ihr rechteckiger Grundriss war an den Schmalseiten leicht ausgewölbt und mit Eingängen versehen. Die Wände bildete eine doppelte Reihe zugespitzter, in den Boden eingesetzter Bohlen, von denen die innere Reihe tragende und die äußere schmückende Funktion hatte. In den runden oder eher rautenförmig zugespitzten, geschnitzten Köpfen am oberen Ende zeichnen sich für uns Andeutungen männlicher und weiblicher Figuren ab. Die Innenfläche des Tempels beschädigte ein späterer Graben, sodass keine Spuren der Aufstellung eines etwaigen Idols erhalten blieben. Zum Inventar gehörten jedoch 6 Pferdeschädel, 2 eiserne Lanzen, ein hölzerner Schild und Fußschalen. Über der Tür des Tempels war ein Rinderschädel aufgehängt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Etwas abseits der Häuser fand sich ein Arbeitsareal, in dem sich tönerne Backöfen und Getreidereste befanden. In den offenen Bereichen zwischen den Gebäuden und der Palisade fanden wahrscheinlich regelmäßig Märkte und Versammlungen statt. Um das Jahr 900 wurde die Siedlung vollständig zerstört, was deutliche Brandspuren vor allem an der Palisade und am Tor anzeigen. Selbst das Heiligtum blieb nicht verschont. Da wir für diese Zeit keine Schriftquellen über bewaffnete Konflikte in der Region haben, bleibt die Ursache der Katastrophe unbekannt. Anschließend wurde die Siedlung schnell wieder erneuert und die Bauten umgebaut, nun aber so, dass die Häuser dieses Mal in Blöcken standen. Die Häuser waren außerdem deutlich größer als die älteren. Das Heiligtum wurde auf die Insel verlegt und auf eine andere Weise errichtet als das ursprüngliche. Zu seinem Schutz wurde eine 10 m hohe Holz-Erde-Mauer mit einem Innendurchmesser von 25 m errichtet. Damit entstand auf der Insel ein gut befestigter Burgwall. Wie bereits erwähnt, betrat man den Burgwall über die Brücke, wobei sich auf ihr, etwa in ihrer Mitte, eine Kontrollstelle – eine Art Pforthaus – befand. Am Ende des 10. Jahrhunderts wurde die Siedlung endgültig verlassen, nachdem sie zum zweiten Mal zerstört worden war. Auch hier gilt, dass die Gründe nicht klar sind; es könnte jedoch mit dem Feldzug Ottos III. gegen die mecklenburgischen Slawen im Jahr 995 zusammenhängen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Ältere Rekonstruktion des Eingangstores",
+    "alt": "Ältere Rekonstruktion des Eingangstores"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Raddusch",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer bedeutender slawischer Burgwall, der in Deutschland rekonstruiert wurde, ist Raddusch. Der Burgwall liegt am Bischdorfer See in der Niederlausitz, zwischen den Städten Lübbenau und Cottbus, etwa 176 km nördlich von Liberec (Reichenberg). Das Gebiet war in der Vergangenheit vom slawischen Stamm der Lusizer besiedelt, die dort eine große Zahl slawischer geographischer Namen hinterließen; in der Region lebt noch immer die ethnische Minderheit der Sorben, die ihre direkten Nachkommen sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Bau des Burgwalls wurde am Seeufer um 880 begonnen. Der Burgwall hatte eine ovale Form, wobei die Mauern 10 m breit waren und der Innenraum des Burgwalls einen Durchmesser von 35 bis 36 Metern hatte. Der Burgwall hatte zwei Tunneltore, die fast genau auf gegenüberliegenden Seiten lagen, und war von einem Wassergraben umgeben. Im Jahr 925 wurde der Burgwall renoviert, wobei die Mauern so verbreitert wurden, dass sich die Innenfläche auf 31 Meter verkleinerte. Eine weitere Erneuerung erfuhr der Burgwall um das Jahr 950, und die Innenfläche verkleinerte sich erneut – dieses Mal schon auf 28 Meter im Durchmesser. Im Jahr 963 eroberte der deutsche Markgraf Gero das Gebiet der Lausitz, was auch das Ende des Burgwalls Raddusch bedeutete; der Burgwall blieb verlassen, verfiel allmählich und zerfiel. Bis zum Jahr 1984 wurde auf dem Gebiet des Burgwalls Landwirtschaft betrieben, die seine Überreste erheblich gestört hat. Schließlich blieb von ihm nur ein kreisförmiger Hügel von etwa 3 m Höhe mit einem Durchmesser von ca. 85 m. Von 1984 bis 1989 wurde der Burgwall archäologisch untersucht, wobei festgestellt wurde, dass an derselben Stelle bereits am Ende der Bronzezeit und ebenso in der Völkerwanderungszeit eine Besiedlung bestand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Die neuere — 2. Phase des Burgwalls",
+    "alt": "Die neuere — 2. Phase des Burgwalls"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute wurde der Burgwall — wie auf den Fotos gut zu sehen ist — wieder in die Gestalt rekonstruiert, die er in der slawischen Zeit vor 1000 Jahren hatte. Im Raum des Burgwalls finden wir rekonstruierte Wohnräume, eine Ausstellungsfläche, einen kleinen Laden sowie Gemeinschaftsräume, in denen verschiedene Vorträge und andere auf die Geschichte ausgerichtete Bildungsveranstaltungen abgehalten werden können. Um den Burgwall führt ein Lehrpfad, der die Besucher in die längst vergangene Zeit zurückführt, als der Burgwall seine Blütezeit erlebte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Arkona",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Natürlich dürfen wir auch den bekanntesten Burgwall in Deutschland nicht übergehen — "
+       },
+       {
+        "type": "link",
+        "url": "/blog/arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov",
+        "children": [
+         {
+          "type": "text",
+          "text": "Arkona"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf der Insel Rügen, über den ich jedoch an anderer Stelle schreibe. Ich bringe hier aber einige interessante Bilder zu Arkona, die mir ein Freund aus Deutschland geschickt hat.\n   \n   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Torgelow",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das einst den Ukranen gehörende Land nennt man in Deutschland heute Uckermark. Im "
+       },
+       {
+        "type": "text",
+        "text": "Ukranenland ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Torgelow",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " wurde nach archäologischen Untersuchungen ein slawisches Dorf des 9.–10. Jahrhunderts in seinem ursprünglichen Umfang rekonstruiert. Bei einem Besuch dieses Museums können Sie mit eigenen Augen sehen, wie die Schiffe der slawischen Seefahrer aussahen, die damals die Ostsee beherrschten, das Leben der slawischen Bauern und Handwerker jener Zeit kennenlernen, der Arbeit eines Bronzegießers, eines Töpfers, eines Schmieds und von Brauern zusehen, mittelalterliche Musik hören und Speisen jener Zeit kosten. Die Besucher des Museums können außerdem eingelegtes Gemüse und Marmeladen kaufen, frisch gebrautes Bier probieren und das Arbeiten mit Ton erlernen. An der Anlegestelle des Museums ist die Barke „Svarog“ zu sehen — das erste rekonstruierte slawische Schiff in Deutschland, erbaut nach archäologischen Funden auf der Insel Rügen in der Stadt Ralswiek. Dieser Schiffstyp wird auf vor 900 Jahren datiert. Die Rekonstruktion wurde im Jahr 1997 fertiggestellt. Und ebenso die Barke „Svantovit“ — die Rekonstruktion eines polnischen Schiffes, das bei Ausgrabungen im Städtchen Lebafelde, auch unter dem Namen Charbrow bekannt, gefunden wurde (erbaut um 1100); die Rekonstruktion entstand im Jahr 1998."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Die ältere Phase der Besiedlung",
+    "alt": "Die ältere Phase der Besiedlung"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Köpenick",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im südöstlichen Teil Berlins befindet sich die sogenannte Köpenicker Burginsel, die in der Dahme liegt, kurz vor deren Zusammenfluss mit der Spree. In slawischer Zeit bestand hier offenbar schon ab dem 7. Jahrhundert ein Burgwall, in dessen Nähe auch mehrere weitere befestigte Plätze errichtet wurden. Diese Burgwälle wurden sehr häufig von Feinden angegriffen und teilweise zerstört. Das war vor allem im 10. Jahrhundert, als die Deutschen die Kolonisierung der von Slawen bewohnten Gebiete versuchten. Im Jahr 1100 wurde der Burgwall umgebaut und zum Zentrum des slawischen Stammes der Sprewanen. Überliefert ist auch der Name des Fürsten, der sich auf dem Burgwall aufhielt — „Jaxa von Köpenick“, der im Jahr 1157 in einer entscheidenden Schlacht bei Brandenburg an der Havel Albrecht den Bären besiegte. Danach zog sich „Jaxa“ nach Köpenick zurück. Wie lange der Burgwall anschließend dem deutschen Druck im Rahmen ihrer „Ostkolonisierung“ noch widerstand, ist nicht mehr bekannt. Spätestens im Jahr 1178 wurde der Burgwall jedoch von den Deutschen erobert. Heute sind vom Burgwall fast keine sichtbaren Spuren mehr erhalten, die archäologische Ausgrabung legte jedoch einen recht genauen Grundriss des Burgwalls frei, aus dem sich eine klare Vorstellung von seinem Aussehen in slawischer Zeit gewinnen lässt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false,
+    "caption": "Grundriss des Burgwalls",
+    "alt": "Grundriss des Burgwalls"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Spandau",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Funde aus dem Burgwall",
+    "alt": "Funde aus dem Burgwall"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anfänge der Stadt Spandau finden wir etwa einen Kilometer südlich der heutigen Stadt, wo vor 1000 Jahren ein bedeutender slawischer Burgwall stand. Das Gebiet um die Mündung der Spree bildeten im frühen Mittelalter mehrere Inseln, wobei auf einer von ihnen südlich der Flussmündung schon im 7. Jahrhundert der slawische Stamm der Heveller lebte, der damals das ganze Gebiet beherrschte. Zu Beginn des 8. Jahrhunderts errichteten die Heveller hier einen bedeutenden Burgwall, der seine größte Blüte vom Ende des 10. bis zur Mitte des 12. Jahrhunderts erlebte. Der Burgwall profitierte damals sehr von der günstigen Lage an einem alten Handelsweg. Das goldene Zeitalter des Burgwalls endete, als das Gebiet im Jahr 1157 von Albrecht dem Bären erobert wurde. Heute ist vom Burgwall fast nichts erhalten, bei den Ausgrabungen wurden jedoch verschiedene Gegenstände gefunden, etwa Weidenkörbe, Nadeln, Ahlen, Griffe, Behälter, Siegel, Knochenschlittschuhe, Amulette oder Kämme. Die Ausgrabung ermöglichte es auch, eine Rekonstruktion des ursprünglichen Aussehens des Burgwalls zu erstellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Brandenburg an der Havel",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer bedeutender Burgwall der Heveller war Brandenburg an der Havel, der im 8. bis 10. Jahrhundert bestand und im Jahr 928 vom deutschen König Heinrich I. eingeschlossen wurde. Brandenburg war der Residenzburgwall der Hevellerfürsten. Um 1127 war er der Sitz des Fürsten Pribislaw-Heinrich, der der letzte Fürst der Heveller war. Als er im Jahr 1150 starb, übergab seine Gemahlin „Petrissa“ den Burgwall sowie das gesamte Gebiet der Heveller dem deutschen Markgrafen Albrecht dem Bären. Ein Verwandter des verstorbenen Pribislaw eroberte den Burgwall jedoch im Jahr 1153 mit Hilfe einiger Heveller und eines polnischen Heeres zurück. Im Jahr 1157 gewann Albrecht der Bär den Burgwall schließlich endgültig zurück. Im Jahr 1165 wurde an der Stelle des Burgwalls ein christlicher Dom errichtet, der den endgültigen Untergang des Burgwalls bedeutete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "8. Behren – Lübchin",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Der Sturz des Svantovit-Standbildes",
+    "alt": "Der Sturz des Svantovit-Standbildes"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nicht weit von der Gemeinde Behren-Lübchin befand sich vom 10. bis zum 12. Jahrhundert der mächtig befestigte Inselburgwall der Zirzipanen. Interessant ist, dass es sich offenbar um den Burgwall handelt, der im schriftlichen Bericht des Saxo Grammaticus aus dem Jahr 1171 erwähnt wird. Der Burgwall hatte wiederum einen kreisförmigen Grundriss, und zu ihm führte eine lange Holzbrücke. Man betrat ihn durch einen mächtigen Holzturm, zu dem der Weg von der Brücke führte. Um das Jahr 1200 wurde der Burgwall erobert, wobei Spuren schwerer Kämpfe auch an den Überresten der Brücke gefunden wurden. Wer jener Eroberer des Burgwalls war, konnte bislang nicht genau ermittelt werden. Behren-Lübchin war einer der letzten slawischen Burgwälle, die dem Druck der Deutschen und dem Druck des Christentums widerstanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "9. Starigard",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die größte slawische Stadt war die Hauptstadt der Wagrier — "
+       },
+       {
+        "type": "text",
+        "text": "Starigard",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", später von den Deutschen in Oldenburg umbenannt, wo sich der Sitz des Fürsten der Wagrier und ein Heiligtum befanden. Die Wagrier waren ein westslawischer Stamm, der im Mittelalter auf der Halbinsel Wagrien lebte. Sie waren der nordwestlichste Stamm des abodritischen Stammesverbandes. Ihr Siedlungsgebiet, das sie im 7. Jahrhundert einnahmen, umfasste den Osten des heutigen deutschen Bundeslandes Schleswig-Holstein. Die moderne deutsche Rekonstruktion von Starigard befindet sich im Architekturmuseum „"
+       },
+       {
+        "type": "text",
+        "text": "Oldenburger Wallmuseum",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

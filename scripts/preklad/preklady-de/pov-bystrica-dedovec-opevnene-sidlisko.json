@@ -1,0 +1,372 @@
+{
+ "slug": "pov-bystrica-dedovec-opevnene-sidlisko",
+ "data": {
+  "title": "Považská Bystrica – Dedovec, eine befestigte slawische Siedlung im mittleren Waagtal",
+  "slug": "povazska-bystrica-dedovec-befestigte-slawensiedlung",
+  "excerpt": "Die befestigte Siedlung auf dem Dedovec in Považská Bystrica wurde in den Jahren 1957–1958 unter der Leitung von A. Petrovský-Šichman systematisch untersucht und ist bis heute die bestuntersuchte Siedlung dieser Zeit im mittleren Waagtal. Ihre Existenz ist vom Ende des 8. bis in die erste Hälfte des 10. Jahrhunderts eingegrenzt. Statt des sonst üblichen Walls aus Holz und Erde umgaben ihre Bewohner die Siedlung mit einer hölzernen Palisade.",
+  "metaTitle": "Považská Bystrica – Dedovec, befestigte Siedlung",
+  "metaDescription": "Die befestigte slawische Siedlung auf dem Dedovec (Ende 8. bis 1. Hälfte des 10. Jahrhunderts) ist die bestuntersuchte Fundstelle dieser Zeit im Waagtal.",
+  "keyFacts": [
+   {
+    "label": "Untersuchte Fläche",
+    "value": "57 × 46 m, 54 untersuchte Befunde",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "eine hölzerne Palisade anstelle des typischen Walls aus Holz und Erde",
+    "icon": "shield"
+   },
+   {
+    "label": "Häufigster Fund",
+    "value": "12 Eisenmesser, davon 7 vollständig erhalten",
+    "icon": "star"
+   },
+   {
+    "label": "Chirurgisches Instrument",
+    "value": "ein Messerchen mit kurzer Klinge und langem Griff, das als Skalpell diente, mit außergewöhnlich scharf geschliffener Schneide",
+    "icon": "custom"
+   },
+   {
+    "label": "Landwirtschaftliche Geräte",
+    "value": "ein Bestandteil eines Hakenpflugs, das Fragment einer eisernen Sichel und ein Ring zur Befestigung der Sense am Sensenstiel",
+    "icon": "mountain"
+   },
+   {
+    "label": "Schmuck und Zierstücke",
+    "value": "eine Perle aus blauem Glas, ein bronzener Ring mit Anhänger (Ohrring) und ein eiserner Schlüssel",
+    "icon": "star"
+   },
+   {
+    "label": "Leitung der Ausgrabung",
+    "value": "Die Ausgrabung leitete A. Petrovský-Šichman in den Jahren 1957–1958",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende des 8. bis erste Hälfte des 10. Jahrhunderts",
+    "title": "Dauer der befestigten slawischen Siedlung",
+    "description": "Die Existenz der befestigten slawischen Siedlung auf dem Dedovec ist vom Ende des 8. bis in die erste Hälfte des 10. Jahrhunderts eingegrenzt; ein früherer Beginn der Besiedlung oder ihr längeres Fortdauern lässt sich nicht nachweisen.",
+    "type": "era"
+   },
+   {
+    "year": "1957–1958",
+    "title": "Systematische archäologische Ausgrabung",
+    "description": "Die befestigte Siedlung auf dem Dedovec in Považská Bystrica wurde unter der Leitung von A. Petrovský-Šichman systematisch untersucht und ist damit die bis heute bestuntersuchte Siedlung dieser Zeit im mittleren Waagtal.",
+    "type": "discovery"
+   },
+   {
+    "year": "jüngere römische Kaiserzeit",
+    "title": "Eine Gewandfibel als wertvolle „Antiquität“",
+    "description": "Unter den Funden aus großmährischer Zeit kam auf dem Dedovec auch eine Gewandfibel aus der jüngeren römischen Kaiserzeit vor, die wohl als wertvolle Antiquität das Gewand einer der Bewohnerinnen der Siedlung schmückte.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6409,
+    "alt": "Zusammengeklebtes Tongefäß mit eingeritzter waagerechter Verzierung auf weißem Hintergrund"
+   },
+   {
+    "mediaId": 2145,
+    "alt": "Schwarzweißfoto der Ausgrabung der slawischen Siedlung mit freigelegten Befunden"
+   },
+   {
+    "mediaId": 2146,
+    "alt": "Eiserne Sichel der Púchov-Kultur auf einer Unterlage mit Beschriftung"
+   },
+   {
+    "mediaId": 2147,
+    "alt": "Großmährischer Topf mit eingeritzter Verzierung, Schwarzweißfoto"
+   },
+   {
+    "mediaId": 2148,
+    "alt": "Sieben Eisenmesser aus großmährischen Siedlungsbefunden"
+   },
+   {
+    "mediaId": 2149,
+    "alt": "Zeichnungstafel mit Keramikfragmenten und Eisengegenständen mit Maßstab"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Fundstelle auf dem Dedovec in Považská Bystrica",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung auf dem Dedovec in Považská Bystrica wurde in den Jahren 1957–1958 unter der Leitung von A. Petrovský-Šichman systematisch untersucht. Die Siedlung ist bis heute die bestuntersuchte dieser Zeit im mittleren Waagtal. Die Existenz dieser befestigten slawischen Siedlung ist vom Ende des 8. bis in die erste Hälfte des 10. Jahrhunderts eingegrenzt. Ein früherer Beginn der Besiedlung oder umgekehrt ihr längeres Fortdauern lässt sich nicht nachweisen. Die Fundstelle wurde allerdings nicht vollständig untersucht, daher kann man eine solche Möglichkeit nicht ganz ausschließen. Tatsache bleibt jedoch, dass sich die ursprüngliche Annahme des Ausgrabungsleiters nicht bestätigte, der das Gros der hiesigen Besiedlung erheblich tiefer in die Vergangenheit setzte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wohnbauten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Feldarbeiten wurden 54 Befunde auf einer Fläche mit den Maßen 57 × 46 m untersucht. Überwiegend handelte es sich um verschiedene, 10–45 cm eingetiefte Befunde, unter denen sich mehrere Typen abgrenzen ließen. Zu den Wohnbauten lassen sich Grundrisse mit einer Fläche von 4 m² und mehr zählen, in denen sich Heizeinrichtungen befanden, die üblicherweise in der Ecke angelegt waren. Entweder handelte es sich um einfache Feuerstellen ohne jegliche Ausgestaltung, oder es wurde ihre Umfassung bzw. Auslegung mit Steinen festgestellt; in einem Fall lässt sich vielleicht das Vorhandensein eines Lehmofens vermuten. Die Deutung der kleineren eingetieften Befunde (unter 4 m²) mit Feuerstelle ist nicht mehr so klar, doch waren sie wahrscheinlich Bestandteile größerer Wohnbauten. Heizeinrichtungen wurden außerdem auch außerhalb der Befunde festgestellt; sie dienten wahrscheinlich mehreren Haushalten oder sogar der ganzen Siedlung als saisonale (sommerliche) Feuerstellen, Backöfen und Ähnliches. Verschiedene Möglichkeiten der funktionalen Deutung bieten eingetiefte Befunde ohne Feuerstellen. Bei Grundrissen mit einer Fläche über 4 m² handelte es sich überwiegend um Wirtschaftsbauten. Die genaue Bestimmung ihres Zwecks ist jedoch fraglich, da die Befunde keine Funde enthielten, die dies ermöglicht hätten. Schwerer zu deuten sind ovale bis ellipsoide Gruben mit einer Fläche von 0,8–2,8 m². In zwei Fällen fanden sich in ihrer Verfüllung große Teile umfangreicher Gefäße. Die Befundsituation erlaubt die Annahme, dass die Befunde zur Lagerung von Lebensmitteln dienten, wobei die Gefäße allem Anschein nach die Rolle der eigentlichen Vorratsgefäße erfüllten und den Inhalt vor Feuchtigkeit schützten. Eine weitere Grube mit den Resten eines etwas kleineren Gefäßes und einer auffälligeren Menge an Holzkohle konnte der Ort sein, an dem Speisen zubereitet oder warm gehalten wurden. Eine weniger häufig vertretene Form von Baubefunden waren absichtlich angelegte zusammenhängende Steinflächen, die sich vor allem auf der Südseite der Siedlung konzentrierten. Sie lassen sich wohl als Bestandteile ebenerdiger Bauten deuten, wobei sie die Funktion einer Pflasterung erfüllten, denn einer solchen Form der Innenausgestaltung begegnen wir bereits in älteren Perioden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Palisadenbefestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Siedlung auf dem Dedovec gelang es den Archäologen nicht, Reste der typischen Holz-Erde-Befestigung zu entdecken, wie wir sie von anderen Burgwällen aus großmährischer Zeit gewohnt sind. Trotzdem handelte es sich, wie etwa Drahoslav Hulínek in der Publikation Bitka pri Bratislave v roku 907 anführt, nicht um eine „offene“ Siedlung, sondern die Bewohner des Dedovec (Vorfahren der heutigen Einwohner von Považská Bystrica) umgaben die Siedlung mit einer hölzernen Palisade, die offenbar in der Lage war, ihren Schutz gegen weniger zahlreiche bzw. schwächer bewaffnete Kriegergruppen zu gewährleisten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Eine eiserne Sichel",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mehrheit der mobilen Funde der slawischen befestigten Siedlung auf dem Dedovec stellen Fragmente von Keramikgefäßen dar, die fast ausschließlich von topfförmigen Gefäßen einer breiteren Formenskala stammen. In ihrer Verzierung kommen vor allem waagerechte Rillen und Wellenbänder zur Anwendung, auf jüngeren Exemplaren erscheint auch ein Dekor, der durch mehrfachen Kammeinstich erzeugt wurde. Nur sporadisch (in zwei Fällen) trat auch eine plastische Verzierung in Form umlaufender Leisten auf. Der zweite, unvergleichlich weniger vertretene Geschirrtyp waren Backplatten und Schalen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Handwerker"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Metall-, Stein- und Knochengegenstände stellen aus verständlichen Gründen einen erheblich geringeren Anteil am Fundbestand dar als die Keramik. Hinsichtlich ihrer Funktion sind sie jedoch vielfältiger und spiegeln verschiedene Arten der Tätigkeit der hiesigen Bevölkerung wider. Die häufigste Art von Eisengegenständen sind Messer; von den zwölf gewonnenen Stücken waren 7 vollständig erhalten. Die gefundenen Messer waren Gegenstände des täglichen Bedarfs mit universeller Verwendung; auf zeitgleichen Gräberfeldern kommen sie in Männer- wie in Frauengräbern vor, nur größere Exemplare lassen sich als Waffen betrachten. Eine spezifische Verwendung hat allein ein Messerchen mit kurzer Klinge, die in einen langen Griff übergeht, das die Funktion eines "
+       },
+       {
+        "type": "text",
+        "text": "chirurgischen Skalpells",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " erfüllte, dem auch die außergewöhnlich scharf geschliffene Schneide entspricht. Mit der Körperpflege hängen auch Toilettgegenstände zusammen, vertreten durch eine Pinzette und Fragmente eines oder mehrerer zweiseitiger Knochenkämme. Neben den Messern vertreten Gegenstände des täglichen Bedarfs und Geräte für häusliches Handwerk – eiserne Nadeln, Ahlen aus Knochen und Eisen, Beschläge hölzerner Eimerchen, Spinnwirtel aus Ton, steinerne Wetzsteine und vielleicht auch das Fragment eines eisernen Feuerstahls. In diese Kategorie gehört offenbar auch ein Knochengegenstand, der zum Glätten von Häuten oder der Oberfläche von Keramik dienen konnte. Die Töpferei war jedoch bereits Gegenstand eines selbstständigen Handwerks, was das technische und künstlerische Niveau eines Teils des Tongeschirrs entschieden belegt. Zu den spezialisierten Handwerksgeräten lassen sich eiserne Meißelchen zählen, die in der Siedlung auf dem Dedovec durch mindestens ein Stück belegt sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "89sIr22UobI",
+    "url": "https://www.youtube.com/embed/89sIr22UobI",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Landwirte"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Považská Bystrica – Dedovec (befestigte Siedlung)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die grundlegende Form des Lebensunterhalts der frühmittelalterlichen Gesellschaft war jedoch die Landwirtschaft. Die Haltung domestizierter Tiere dokumentiert das Vorkommen von Knochen bzw. von daraus hergestellten Gegenständen; den Anbau von Kulturpflanzen belegen ein gefundener metallener Bestandteil eines Hakenpflugs, das Fragment einer eisernen Sichel und wohl auch ein eiserner Ring, der nach Analogien wahrscheinlich zur Befestigung der Sense am Sensenstiel diente. Allgemein wird angenommen, dass Sicheln in dieser Zeit zum Schneiden von Getreide verwendet wurden, während Sensen zum Mähen von Gras dienten. Eine ergänzende Form der Nahrungsbeschaffung waren Jagd und Fischfang. Mit diesen Tätigkeiten stehen Pfeilspitzen und ein Angelhaken mit Rückbart in Zusammenhang. Bei den Pfeilspitzen handelt es sich allerdings um Gegenstände, die auch in der Ausrüstung der zeitgleichen Krieger nicht fehlten, weshalb die Anwesenheit einer bestimmten Anzahl von Kriegern im Raum der befestigten Siedlung nicht auszuschließen ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schmuck und Zierstücke"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verhältnismäßig spärlich vertreten sind Funde, die sonst die Mehrheit der Metallgegenstände aus Siedlungen der entwickelten Phasen des Mittelalters bilden, also Baubeschläge in Form von Nägeln. Vereinzelt trat ein einfacher eiserner Schlüssel auf, der zum Verschließen von Türen verwendet wurde. Zu den seltenen Artefakten gehören auch Gegenstände in der Funktion von Kleidungsbestandteilen und Schmuck. Wahrscheinlich zur Befestigung des Gürtelriemens dienten drei eiserne Riemendurchzüge; dem Schmuck der Frauen ist eine Perle aus blauem Glas zuzuschreiben und, im Hinblick auf das verwendete Material und die Form, offenbar auch ein einfacher bronzener Ring mit einem Anhänger in Gestalt eines Kettengliedes, der wohl ein Ohrring war. Bemerkenswert ist, dass unter den Funden aus großmährischer Zeit auch eine Gewandfibel aus der jüngeren römischen Kaiserzeit vorkam. Es ist durchaus möglich, dass es sich um eine Art wertvolle „Antiquität“ handelte, die das Gewand einer der Bewohnerinnen des Dedovec schmückte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Považská Bystrica – Dedovec (befestigte Siedlung)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer auf dem Dedovec wurden an mehreren Stellen in Považská Bystrica und seiner Umgebung Artefakte gefunden, die darauf hinweisen, dass sich in der Umgebung des Dedovec auch weitere, offenbar schon weniger bedeutende Siedlungen befanden. Hinsichtlich der Lage in der Landschaft hat etwa die Siedlung auf den Terrassen des Nordwesthanges des Burgberges in Považské Podhradie einen anderen Charakter. Die unmittelbare Nähe der Burg legt es geradezu nahe, über ihre Besiedlung im Rahmen des Mittelalters bereits in dieser Zeit nachzudenken, besonders wenn die dortige Bevölkerung zu ihrem Schutz deren alte Wallbefestigung aus der Latènezeit nutzen konnte. Bisher wurden jedoch keine Funde festgestellt, die eine solche Vermutung bestätigen könnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

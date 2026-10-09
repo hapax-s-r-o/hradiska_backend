@@ -1,0 +1,543 @@
+{
+ "slug": "spisske-tomasovce",
+ "data": {
+  "title": "Spišské Tomášovce – ein Burgwall des Fürstentums Neutra in der Zips",
+  "slug": "spisske-tomasovce-burgwall-fuerstentum-neutra",
+  "excerpt": "Den bedeutenden Burgwall des Fürstentums Neutra in der Ostslowakei hat in letzter Zeit vor allem Peter Šalkovský ausführlich untersucht und 2006 Teilergebnisse veröffentlicht. Der Artikel schöpft vor allem aus seiner Forschung: aus der Technik der Holz-Erde-Wälle mit Steinfront, aus dem Zangentor und der „bastionsartigen“ Nordwestecke sowie aus der Datierung des Walls vom Ende des 8. bis zur Mitte des 9. Jahrhunderts.",
+  "metaTitle": "Spišské Tomášovce – Burgwall des Fürstentums Neutra",
+  "metaDescription": "Bedeutender Burgwall des Fürstentums Neutra an der Grenze zwischen dem Slowakischen Paradies und dem Hornád-Becken, untersucht von Peter Šalkovský.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Linkes Ufer des Hornád am Zusammenfluss mit dem Tomášovský potok, an der Grenze zwischen dem Slowakischen Paradies und dem Hornád-Becken; Hauptburg auf einem Kalksteinfelsen, 540–567 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche",
+    "value": "Terrasse des Suburbiums etwa 3 ha (trapezförmiges Areal), mit der Hauptburg zusammen 5–6 ha; Wälle mit einer Gesamtlänge von etwa 600 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Wallkonstruktion",
+    "value": "Vordere Trockenmauer aus Bruchstein, Kasten- (stellenweise Rost-)Armierung aus Holz und Erde; massivster Teil beim nordöstlichen Tor (zusammen 3,9–4 m)",
+    "icon": "shield"
+   },
+   {
+    "label": "Nordwestecke",
+    "value": "„Bastionsartige“ Konstruktion mit drei fächerartig angeordneten Holzkästen, verstärkt durch eine mindestens 2,5 m breite steinerne Quermauer",
+    "icon": "building"
+   },
+   {
+    "label": "Haupttor",
+    "value": "Zangentortyp, westlicher Flügel 7,8 m lang; Eingang 2,8 m breit, nach innen auf 2 m verengt",
+    "icon": "building"
+   },
+   {
+    "label": "Geschätzte Höhe der Befestigung",
+    "value": "Durchschnittlicher Wall 1,6–2,1 m, massivster 2,1–2,6 m; mit der Palisadenbrustwehr insgesamt bis 3,6–4,1 m im nördlichen Wall",
+    "icon": "shield"
+   },
+   {
+    "label": "Regionaler Kontext",
+    "value": "Eine von 14 publizierten slowakischen Fundstellen mit derselben Befestigungstechnik (gemeinsam mit Pobedim, Bojná, Nitra, Devín und weiteren)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "römische Kaiserzeit",
+    "title": "Ursprung des halbkreisförmigen wallartigen Objekts",
+    "description": "Das Objekt im Inneren des Areals wurde wahrscheinlich ursprünglich in der römischen Kaiserzeit errichtet und während des Bestehens des slawischen Burgwalls erneut wiederhergestellt und im Verteidigungssystem genutzt.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende des 8. – Mitte des 9. Jahrhunderts",
+    "title": "Bestehen des befestigten Walls",
+    "description": "Die Zeit des Bestehens des Walls ist durch Befunde mit archaischer Keramik, einem Hakensporn, einer spätawarischen bronzenen Riemenzunge und einem bronzenen Ohrring belegt.",
+    "type": "construction"
+   },
+   {
+    "year": "Mitte des 9. Jahrhunderts",
+    "title": "Untergang des Burgwalls durch Brand",
+    "description": "Massive Spuren des Durchbrennens des Walls zeugen von der Zerstörung durch Brand; einige Überlegungen verbinden den Untergang mit dem Prozess der Staatsbildung und der Eingliederung der Zips in den mährischen Staat.",
+    "type": "destruction"
+   },
+   {
+    "year": "2. Hälfte des 9. Jahrhunderts",
+    "title": "Bestehen einer offenen Siedlung",
+    "description": "Nach dem Untergang des Walls bestand hier wahrscheinlich nur noch eine offene Siedlung, die bis in das 10. Jahrhundert dauerte; analoge Funde (Břeclav-Pohansko, Bratislava, Devín) werden in diese Zeit datiert.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 9. – 1. Hälfte des 10. Jh.",
+    "title": "Kindergräber mit byzantinisch-orientalischen Ohrringen",
+    "description": "Einzelne Kindergräber hinter dem Hotel Flóra mit silbernen traubenförmigen Ohrringen stützen die Datierung des zweiten Burgwalls (Hradisko II) auf dem Čingov.",
+    "type": "discovery"
+   },
+   {
+    "year": "2006",
+    "title": "Veröffentlichung der Ausgrabungsergebnisse",
+    "description": "Peter Šalkovský veröffentlichte Teilergebnisse seiner ausführlichen Untersuchung des Burgwalls, aus denen dieser Artikel vor allem schöpft.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6361,
+    "alt": "Rekonstruktion des Burgwalls mit steinernen Wällen und Hütten auf einem Sporn über einer Flussschleife"
+   },
+   {
+    "mediaId": 1190,
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls nach der Planskizze von Dr. Javorský. Autor: Spyros (Das Bild darf ohne Zustimmung seines Autors nicht weiterverbreitet werden. Wenn Sie das Bild verwenden möchten, bitten Sie den Autor um Zustimmung)",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls nach der Planskizze von Dr. Javorský. Autor: Spyros (Das Bild darf ohne Zustimmung des Autors nicht weiterverbreitet werden.)"
+   },
+   {
+    "mediaId": 752,
+    "caption": "Die Planskizze von Dr. Javorský",
+    "alt": "Die Planskizze von Dr. Javorský"
+   },
+   {
+    "mediaId": 1191,
+    "caption": "Neuerer, genauerer Grundriss des Burgwalls (Dr. Šalkovský)",
+    "alt": "Neuerer, genauerer Grundriss des Burgwalls (Dr. Šalkovský)"
+   },
+   {
+    "mediaId": 1195,
+    "caption": "Theoretische Vorbereitung: Wir beginnen am Sattel mit dem Suburbium P2 (dort sind das Hotel Čingov und die Hütte Hradisko), finden den Weg nach oben, erkunden die Hauptburg und steigen zum Suburbium P3 mit dem Hotel Flora hinab",
+    "alt": "Theoretische Vorbereitung: Wir beginnen am Sattel mit dem Suburbium P2 (Hotel Čingov und Hütte Hradisko), finden den Weg nach oben, erkunden die Hauptburg und steigen zum Suburbium P3 mit dem Hotel Flora hinab"
+   },
+   {
+    "mediaId": 1196,
+    "caption": "Wenn Sie diesen Felskopf sehen, sind Sie schon nahe am Burgwall.",
+    "alt": "Wenn Sie diesen Felskopf sehen, sind Sie schon nahe am Burgwall."
+   },
+   {
+    "mediaId": 1197,
+    "caption": "Die Hauptburg von Hradisko I und die westliche Vorburg (Pod hradiskom) mit dem Hotel Flora, von der Sovia skala aus.",
+    "alt": "Die Hauptburg von Hradisko I und die westliche Vorburg (Pod hradiskom) mit dem Hotel Flora, von der Sovia skala aus."
+   },
+   {
+    "mediaId": 1198,
+    "caption": "Noch einmal der Blick von der Sovia skala, der gesamte Scheitel des Hradisko ist zugewachsen",
+    "alt": "Noch einmal der Blick von der Sovia skala, der gesamte Scheitel des Hradisko ist zugewachsen"
+   },
+   {
+    "mediaId": 1199,
+    "caption": "Gedenktafel vor dem Hotel Čingov (P2)",
+    "alt": "Gedenktafel vor dem Hotel Čingov (P2)"
+   },
+   {
+    "mediaId": 1200,
+    "caption": "Die Hütte Hradisko unterhalb der Hauptburg auf P2. Hier irgendwo war auch das Gräberfeld",
+    "alt": "Die Hütte Hradisko unterhalb der Hauptburg auf P2. Hier irgendwo war auch das Gräberfeld"
+   },
+   {
+    "mediaId": 1201,
+    "caption": "Irgendwo dort oben ist die Hauptburg, man muss nur das grüne Heer bezwingen. Einen Weg sehe ich nicht! Irgendwo hier sollte auch der urgeschichtliche Weg zum Burgwall sein …",
+    "alt": "Irgendwo dort oben ist die Hauptburg, man muss nur das grüne Heer bezwingen. Einen Weg sehe ich nicht! Irgendwo hier sollte auch der urgeschichtliche Weg zum Burgwall sein …"
+   },
+   {
+    "mediaId": 1202,
+    "caption": "Wer sucht, der findet. Auch so einen Weg (oder eine Terrasse?) auf der Hauptburg. Wer weiß, wo er beginnt; das lässt sich wohl erst feststellen, wenn die Vegetation abgefallen ist.",
+    "alt": "Wer sucht, der findet. Auch so einen Weg (oder eine Terrasse?) auf der Hauptburg. Wer weiß, wo er beginnt; das lässt sich wohl erst feststellen, wenn die Vegetation abgefallen ist."
+   },
+   {
+    "mediaId": 1203,
+    "caption": "Freigelegtes Mäuerchen",
+    "alt": "Freigelegtes Mäuerchen"
+   },
+   {
+    "mediaId": 1204,
+    "caption": "Trocken gesetztes Mäuerchen",
+    "alt": "Trocken gesetztes Mäuerchen"
+   },
+   {
+    "mediaId": 1205,
+    "caption": "Gestörtes Mäuerchen",
+    "alt": "Gestörtes Mäuerchen"
+   },
+   {
+    "mediaId": 1206,
+    "caption": "Blick von der Hauptburg auf die Sovia skala (am anderen Ufer des Hornád)",
+    "alt": "Blick von der Hauptburg auf die Sovia skala (am anderen Ufer des Hornád)"
+   },
+   {
+    "mediaId": 1207,
+    "caption": "Blick nach Westen in Richtung des Hornád-Durchbruchs",
+    "alt": "Blick nach Westen in Richtung des Hornád-Durchbruchs"
+   },
+   {
+    "mediaId": 1208,
+    "caption": "Und wir sind auf der Vorburg P3 (Pod Hradiskom) – Blick nach Osten auf die zugewachsene Hauptburg",
+    "alt": "Und wir sind auf der Vorburg P3 (Pod Hradiskom) – Blick nach Osten auf die zugewachsene Hauptburg"
+   },
+   {
+    "mediaId": 1209,
+    "caption": "Blick vom Rand der Vorburg – der befestigten Terrasse Pod Hradiskom – nach Westen in das steile Tälchen des Tomášovský potok",
+    "alt": "Blick vom Rand der Vorburg – der befestigten Terrasse Pod Hradiskom – nach Westen in das steile Tälchen des Tomášovský potok"
+   },
+   {
+    "mediaId": 1210,
+    "caption": "Blick auf das befestigte Areal von diesem störend hässlichen Hotel aus. (Übrigens wurde es kürzlich renoviert und soll nun nicht mehr Flóra, sondern Grandhotel Spiš heißen)",
+    "alt": "Blick auf das befestigte Areal von diesem störend hässlichen Hotel aus. (Übrigens wurde es kürzlich renoviert und soll nun nicht mehr Flóra, sondern Grandhotel Spiš heißen)"
+   },
+   {
+    "mediaId": 1211,
+    "caption": "Die südliche Spitze der Terrasse Pod hradiskom",
+    "alt": "Die südliche Spitze der Terrasse Pod hradiskom"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den bedeutenden Burgwall des Fürstentums Neutra in der Ostslowakei hat in letzter Zeit vor allem Peter Šalkovský ausführlich untersucht, der Teilergebnisse seiner Ausgrabungen im Jahr 2006 veröffentlichte. Der folgende Artikel schöpft vor allem aus den Ergebnissen seiner Forschung.\n \n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage Hradisko I befindet sich an der Grenze zwischen dem Slowakischen Paradies (Slovenský raj) und dem Hornád-Becken sowie zwischen den Gemarkungen der Gemeinden Spišské Tomášovce und Smižany (Bezirk Spišská Nová Ves), am linken Ufer des Hornád an seinem Zusammenfluss mit dem Bach Tomášovský potok. Obwohl mit dem Namen Hradisko I ursprünglich nur der Kalksteinfelsen (540–567 m ü. M.) bezeichnet wurde, dessen Plateau befestigt ist und auf dem die Hauptburg vermutet wurde, nennen wir heute so die gesamte Fundstelle, also auch die unmittelbare Umgebung, die in drei Lagen gegliedert ist. Der Burgwall setzte sich aus der „Hauptburg“ auf dem dominanten Felsen und dem „Suburbium bzw. den Suburbien“ auf dem relativ flachen westlichen und nordöstlichen Vorfeld zusammen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Technik, das Material und die Qualität der Befestigung der „Hauptburg“ von Hradisko I (Lage 1) und des westlichen „Suburbiums“ (Lage 3 bzw. Pod hradiskom) sind ähnlich, die Qualität der inneren Bebauung und der Nutzung der „Hauptburg“ kennen wir jedoch nicht. Sicher ist, dass beide Lagen in der betreffenden Zeit Teil eines einzigen befestigten Ganzen waren. Das befestigte Areal des „westlichen Suburbiums“ musste aus militärischer und natürlich auch aus funktionaler Sicht ein Ganzes mit der erhöhten „Hauptburg“ bilden, die ohne Befestigung und militärische Kontrolle blieb (eine Befestigung der Terrasse hätte praktisch keinen Sinn). In einigen Publikationen wird die Fundstelle ungenau auch als Burgwall Čingov bezeichnet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die relativ flache Terrasse des Tomášovský potok war in zwei Teile gegliedert. Der dominante Teil war von drei Seiten — von Norden, Westen und Süden — mit Wällen befestigt und bildete so ein annähernd trapezförmiges Areal mit einer Fläche von etwa 3 ha in einer Höhe von 507–527 m ü. M. An der vierten — der östlichen Seite (ca. 297 m lang) — setzten die Wälle fast senkrecht an den steil ansteigenden Felshang des Burgwalls mit dem Gipfelplateau in einer Höhe von 560–567 m ü. M. an. Bei der Untersuchung des Hauptareals des „Suburbiums“ wurden der nördliche Wall fast vollständig und 90 m des westlichen Walls aufgedeckt.\n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Konstruktion des Walls und seine Maße waren nicht einheitlich. In situ erhalten blieb die vordere, sogenannte Trockenmauer aus Bruchstein in drei nahezu zusammenhängenden Abschnitten (10–70 cm hoch, insgesamt ca. 135 m lang) im nördlichen und im westlichen Wall. Es handelte sich meist um lagenhaft und ziemlich sorgfältig gesetztes Mauerwerk ohne erkennbares Bindemittel. Die hölzerne Kastenkonstruktion war vor allem in einem großen Teil des nördlichen Walls in Form ziegelhart gebrannter Streifen des Untergrunds belegt — gleichsam thermischer „Abdrücke“ der verbrannten Kästen. Die Gesamtbreite der Befestigung war nicht einheitlich. Am massivsten war sie im östlichen Teil des nördlichen Walls — beim nordöstlichen Tor, wo die Steinfront bis 1,35–1,4 m und der Holz-Erde-Körper 2,50–2,65 m erreichte (zusammen also 3,9–4 m). Der Rest des nördlichen Walls war etwas zarter. Die Enden der Querbalken waren an einem Ende teilweise mit der Frontmauer verbunden, am anderen Ende ragten sie über die Linie der inneren hölzernen Wand der Kästen hinaus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls nach der Planskizze von Dr. Javorský. Autor: Spyros (Das Bild darf ohne Zustimmung seines Autors nicht weiterverbreitet werden. Wenn Sie das Bild verwenden möchten, bitten Sie den Autor um Zustimmung)",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls nach der Planskizze von Dr. Javorský. Autor: Spyros (Das Bild darf ohne Zustimmung des Autors nicht weiterverbreitet werden.)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit besonders verstärkter Konstruktion waren die strategisch und statisch empfindlichsten Stellen gelöst — die Nordwestecke, das Tor in der nordöstlichen Ecke sowie das Tor und der Durchlass im westlichen Teil des nördlichen Walls. Bei der Nordwestecke war der Raum zwischen zwei langen Kästen durch eine massive, mindestens 2,5 m breite steinerne Quermauer über die gesamte Breite des Walls verstärkt. Mit ähnlichen, 80–100 cm breiten Quermauern war von beiden Seiten die „bastionsartige“ Konstruktion der Ecke verstärkt, die im Inneren durch drei trapezförmige, fächerartig angeordnete hölzerne Kästen mit Querbalken armiert war, die tief in die auf ca. 100 cm verstärkte Steinfront eingelassen waren. Ähnliche verstärkende Quermauern wurden zum Beispiel auch im nordwestlichen Abschnitt der Befestigung der Hauptburg in Mikulčice festgestellt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Fehlen von Spuren kleiner Kästen bzw. die langen Kästen östlich und südlich der „Eckbastei“ wurden als Wohnbauten gedeutet, die in den Wallkörper eingebaut waren. Dafür sprechen Spuren von Fußböden und Funde von Kleingegenständen sowie die Verstärkung des Walls durch Quermauern nicht nur unmittelbar in der Ecke, sondern auch auf der Westseite des dritten derartigen Baus. Der westliche Flügel des Haupttores, 7,8 m lang und mit derselben Technik wie der gesamte Wall mit einer Steinfront versehen, also aus gebrochenen Konglomeraten und Sandsteinen, war bis zu einer Höhe von 60 cm erhalten. Er reichte nach innen in das Areal fast 5 m hinein und erreichte in der Ecke eine Stärke von über 2 m. Nach innen schloss er mit einer großen Pfostengrube von 27 cm Durchmesser ab (wahrscheinlich ein Teil des Torsystems). Der Eingang war vorn etwa 2,8 m breit und verengte sich nach innen leicht schräg auf ca. 2 m. Ein solches Tor gehört zum Zangentortyp. Der Verlauf des Zugangswegs lässt sich in gerader Richtung von Norden entlang des Hangs der Hauptburg vermuten. Der Graben setzte sich nicht bis vor das Tor fort (wohl aus statischen Gründen). Er endete 3 m westlich davon, wobei im Zwischenraum Pfostengruben festgestellt wurden, die hier auf die Existenz einer gleichsam kurzen vorgeschobenen Palisadenwand hinweisen.\n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "Die Planskizze von Dr. Javorský",
+    "alt": "Die Planskizze von Dr. Javorský"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im nordwestlichen Vorfeld der Befestigung lässt sich realistisch mindestens ein vom Bach überflutetes, vernässtes Gelände vermuten, vielleicht sogar eine teilweise künstliche Wasserfläche — ein kleiner Stauteich, der mit Hilfe eines Dammes etwas weiter unten am Tomášovský potok angelegt wurde. Die Wasserfläche trug wahrscheinlich zur Erhöhung der Sicherheit des Suburbiums bei. Am östlichen Rand der Terrasse wurde an der Stelle des Anschlusses an die Hauptburg ein halbkreisförmiger Wall mit einem Durchmesser von etwa 25 m und einer Breite von 2–2,2 m untersucht, der mit dem Untergrund verzahnt war. Vor dem nördlichen Wall wurde durch Profile ein Graben von 1,8–2 m Tiefe und 7,5–8 m Breite auf einer Länge von fast 100 m festgestellt. Vor dem Eingang in der nordöstlichen Ecke fehlte er."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Gesamtgrundrissplan des Siedlungskomplexes und die Lage der Wälle waren durch das Geländerelief der Fundstelle bestimmt. Der nördliche Wall ist im Osten an der Stelle angesetzt, an der die Hauptburg beginnt, deutlicher hangartig anzusteigen und sich über das umliegende Gelände abzusetzen. In westlicher Richtung war dieser Wall in nahezu gerader Linie geplant, jedoch nicht entlang der Höhenlinien, sondern quer über sie hinweg, also direkt zu der Stelle, an der die Höhenabsetzung der Terrasse über dem tiefer gelegenen Tomášovský potok beginnt, die sich in noch massiverer Form entlang des gesamten westlichen und südlichen Walls fortsetzt. Der südliche Wall ist an die Hauptburg an jener Stelle angesetzt, an der ihre Wände von den Felsen des Hornád-Durchbruchs gebildet werden. Der vorgeschobene kürzere nördliche Wall blockierte senkrecht den Verkehr durch das am leichtesten zugängliche Gelände aus dem Hornád-Becken und schuf hier ein gleichsam verteidigendes Vorfeld."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "Neuerer, genauerer Grundriss des Burgwalls (Dr. Šalkovský)",
+    "alt": "Neuerer, genauerer Grundriss des Burgwalls (Dr. Šalkovský)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Walltyp des Hauptareals mit äußerer Steinmauer und innerer hölzerner, stellenweise auch steinerner Wand, mit einem Kern aus verschiedener Holz-Erde-, vor allem Kastenkonstruktion, der in mehreren Varianten auftritt, stellt die wichtigste Befestigungstechnik der slawischen mitteldanubischen (großmährischen) Wehrbaukunst des 9. Jahrhunderts dar. Aus dem Gebiet der Slowakei sind 14 solcher Fundstellen publiziert — Pobedim, Mužla, Bratislava-Devínska Nová Ves (Na pieskoch und Nad lomom), Bratislava-Hrad, Jur pri Bratislave, Tlmače, Hronský Beňadik (mit vorderer Steinmauer und innerer Holzwand), Nitra-Hrad (Wall I und II), Nitra-Martinský vrch, Bojná, Majcichov, Detva. In Mähren und Böhmen wurden etwa 10 solcher Fundstellen identifiziert (z. B. Mikulčice, Břeclav-Pohansko, Sudomérice, Uherské Hradište, Nejdek, Tašovice), und bei weiteren können wir eine solche Befestigungstechnik vermuten. Belege ähnlicher Befestigungen kennen wir auch im Raum zwischen Elbe und Saale in den lausitzisch-sorbischen Gebieten, wo sie allgemein mit ostfränkischem Einfluss auf die örtliche slawische Wehrarchitektur verbunden werden. Die Steinfronten der Befestigung von Spišské Tomášovce wurden relativ sorgfältig errichtet, schwerpunktmäßig aus flach gebrochenem Stein. Die Form des durchgebrannten Untergrunds weist auf eine Kastenarmierung des Wallkörpers hin, die wahrscheinlich aus klassischen Blockkästen bestand, die vorn eine trocken gesetzte Steinfront und zumindest stellenweise auch eine durch senkrechte Pfosten oder durch eine zartere, niedrigere Steinfront verstärkte Rückwand hatten. Die Kastenarmierung stellt gegenüber der Rost- oder Zangenkonstruktion eine vollkommenere Art der Sicherung der Wallstabilität dar, weil sie die negative Wirkung waagerechter Kräfte ausschaltete. Analogien zu den langen Kästen im Körper des Walls von Spišské Tomášovce kennen wir nicht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Spišské Tomášovce"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Spišské Tomášovce wurde die Haupttechnologie — Blockkästen — an der Basis durch eine Rostlage ergänzt und die innere Wand des Walls durch senkrechte Balken verstärkt. Wahrscheinlich wurden die hiesigen Blockkästen des Walls nicht überall konsequent ausgeführt bzw. stellenweise wurden materialsparendere und weniger arbeitsaufwendige Techniken der Wallarmierung gewählt, unter Verwendung unbehauener und unentasteter Stämme, ja sogar durch Einbeziehung der unteren Teile von Bäumen, die in der Linie des Walls wuchsen, in seinen Körper."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Insgesamt nehmen wir eine Höhe der Befestigung beim durchschnittlichen Wall von 1,6–2,1 m und beim massivsten von 2,1–2,6 m des mit einer Steinfront versehenen Erdkörpers an. Dieser war offenbar noch um eine Brustwehr aus einer Palisadenwand erhöht (an der Existenz solcher Wände wird allgemein nicht gezweifelt), deren Höhe über dem Wallkörper funktional durch die Rumpfhöhe der Verteidiger bestimmt war und die etwa gleich tief in der Armierung des Walls hinter der Steinfront verankert war. Es wird angenommen, dass der Wall in der Endphase vor allem mit handgeführten Hieb- und Stichwaffen (Lanze, Axt, Schwert) verteidigt wurde, die Palisade konnte also nicht höher sein als die ausgestreckten Arme der Verteidiger (bei einer durchschnittlichen Körperhöhe der großmährischen männlichen Bevölkerung von 1,65 m), was etwa 1,35 m sein konnte. Unter der Annahme eines niedrigen hölzernen Wehrgangs konnte es offenbar etwas mehr sein, mindestens etwa 1,5 m. Die Gesamthöhe der Befestigung von Spišské Tomášovce samt der Palisadenbrustwehr konnte also über dem westlichen Hang ca. 2,6–3,6 m und im nördlichen Wall etwa 3,6 bis 4,1 m betragen. Es gibt keine Hinweise auf die Gestaltung der Wallkrone, die sicherlich gegen Durchnässung durch Regen geschützt werden musste. Im Prinzip ließ sich das am wirksamsten durch eine einfache Überdachung verhindern, aber auch durch Auslegen mit Brettern oder mit Rasensoden, also durch eine Begrünung. Zum Schutz der Fundamente gegen Durchnässung durch Oberflächenwasser dienten wohl flachere Gräben. Ein solcher Graben wurde entlang des nördlichen Walls festgestellt, mit einer Ausmündung außerhalb der befestigten Fläche durch einen Durchlasskanal oder eine Öffnung unter dem Wall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Spišské Tomášovce"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist offensichtlich, dass die größte Mühe und das meiste Material in den nördlichen Wall investiert wurden, der das fast ebene Zugangsgelände aus dem relativ flachen Hornád-Becken durchschnitt und in dem auch beide Tore lagen. Davon zeugen die Verstärkung des gesamten Walls, vor allem aber seiner Teile beim Tor, die Aushebung eines bis 2 m tiefen und 7–8 m breiten Grabens und die wahrscheinliche Nutzung der Wasser des Tomášovský potok zur Überflutung der Umgebung des nordwestlichen Ausläufers des befestigten Areals sowie die „basteiartige“ oder turmartige Gestaltung der Nordwestecke, die es ermöglichte, die Wälle durch Bogenschießen besser zu schützen. Solche verstärkenden Glieder kennen wir aus späteren mittelalterlichen Befestigungen, bei denen die Basteien aus der Linie der Hauptmauer heraustraten, was die Beschießung des Raumes am Fuß der Befestigung und ein kreuzweises Beschießen des Vorfelds ermöglichte. Im Unterschied zur Bastei erreichte der Turm eine größere Höhe als die angrenzenden Mauerabschnitte, mit denen er verkehrsmäßig verbunden war, was den Verteidigern ebenfalls einen Vorteil verschaffte. Eine ähnliche turmartige Plattform lässt sich auch über beiden Toren vermuten, besonders über der massiven Konstruktion des Tores in der nordöstlichen Ecke der Befestigung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false,
+    "caption": "",
+    "alt": "Spišské Tomášovce"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenüber Wällen mit hölzerner Frontwand waren Befestigungen mit Steinfront widerstandsfähiger gegen Brand und Durchbruch. Die statischen Eigenschaften erlaubten es jedoch nicht, Schalenmauern mit Trockenmauern viel höher als 4 m zu bauen, was kein unüberwindliches Hindernis darstellte. Deshalb war aus Verteidigungsgründen nicht nur die Höhe des Walls wichtig, sondern auch die Breite des Wehrgangs, die es im Fall des Eindringens der ersten Angreifer auf die Mauerkrone ermöglichte, weitere Verteidiger an der bedrohten Stelle zu konzentrieren. In der Praxis war das jedoch durch den Verbrauch an Baustoffen begrenzt. Der Scheitel des Walls musste natürlich immer schmaler sein als die Basis. Wälle mit schrägen Wänden erlaubten es zwar, theoretisch unbegrenzt hoch zu bauen, aber nur bei gleichzeitiger Verbreiterung des Walls. Je höher der Wall sein sollte, desto breiter musste er sein, also waren auch mehr Baustoffe für seinen Bau nötig. Die reale Menge an Holz und Stein, die die jeweilige Gemeinschaft zusammenzutragen und zu verarbeiten vermochte, war wohl bestimmend für die Planung seiner Parameter. Ein hoher Holzanteil verhinderte wohl ausreichend eine mechanische Zerstörung, solche Wälle waren jedoch stärker durch Brand gefährdet, durch den sie am Ende auch funktionsunfähig gemacht wurden. Ob das im Verlauf der Eroberung geschah oder erst im Rahmen der absichtlichen Verwüstung der Infrastruktur des Gegners nach der Einnahme des Burgwalls, erfahren wir in konkreten Fällen nur selten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Datierung und Bedeutung der Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ausgangsargumente für die Datierung des Walls lieferten mehrere Befundsituationen, vor allem Befunde in der Nähe des Walls, die von seinem Versturz überdeckt waren. Die Zeit des Bestehens des Walls repräsentieren wahrscheinlich Befunde mit archaischer Keramik, einem Hakensporn, einer spätawarischen bronzenen zungenförmigen Riemenzunge mit S-förmigem Pflanzenornament und einem bronzenen Ohrring, mit einer möglichen Datierung vom Ende des 8. bis zur Mitte des 9. Jahrhunderts. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeit nach dem Untergang des Walls zeigt ein Sporn mit dreieckigen …, der aus der oberen Schicht über dem Versturz des Walls stammt. Die Analogien (Břeclav-Pohansko, Bratislava, Devín) werden in die zweite Hälfte des 9. Jahrhunderts oder in den klassischen großmährischen Horizont datiert. Damals bestand hier wahrscheinlich nur noch eine offene Siedlung, deren Dauer wir vorläufig rahmenhaft in die zweite Hälfte des 9. bis in das 10. Jahrhundert datieren. Massive Spuren des Durchbrennens des Walls zeugen von seiner Zerstörung durch Brand. Nur als Arbeitshypothesen lassen sich die Überlegungen bezeichnen, die seinen Untergang mit dem Prozess der Staatsbildung irgendwann in der ersten Hälfte des 9. Jahrhunderts und mit der Eingliederung des Gebietes der Zips in den mährischen Staat verbinden. Diese Überlegungen und diese Chronologie stützen Funde einzelner Kindergräber in der Lage hinter dem Hotel Flóra, in denen sich silberne traubenförmige Ohrringe mit verziertem unterem Bogen byzantinisch-orientalischen Charakters befanden, die an das Ende des 9. Jahrhunderts datierbar sind und in der ersten Hälfte des 10. Jahrhunderts fortlebten. Wahrscheinlich mit dieser Zeit, d. h. mit der klassischen großmährischen und der nachgroßmährischen Periode, korrespondieren die Entstehung und das Funktionieren des zweiten Burgwalls (Hradisko II), der etwa 800 m südwestlich am rechten Ufer des Hornád auf einem Spornausläufer (530–540 m ü. M.) des Berges Čingov liegt und aus Begehungen und kleineren Sondagen bekannt ist. Das halbkreisförmige wallartige Objekt im Inneren des Areals wurde wahrscheinlich ursprünglich in der römischen Kaiserzeit errichtet und während des Bestehens des slawischen Burgwalls erneut wiederhergestellt und im Rahmen des bestehenden Verteidigungssystems der Fundstelle genutzt. Die Art der verwendeten Befestigung und die Typen der Wohnarchitektur auf der Terrasse des Tomášovský potok deuten auf ihre intensive Nutzung sowohl zum Wohnen als auch für das wirtschaftliche Leben hin. Nach Charakter und Länge der Wälle sowie flächenmäßig ist dieses Areal den mittelgroßen Burgwällen zuzurechnen. Die Fläche der Terrasse mit einer Ausdehnung von etwa 3,3 ha war von Wällen mit einer Gesamtlänge von etwa 600 m (520 + 80 m) befestigt. Im Spektrum der Burgwälle aus dem Gebiet der Slowakei rangiert es flächenmäßig vor den Burgwällen Jur pri Bratislave, Starý Tekov, Tlmače, Kozmálovce, Hronský Beňadik und Zemplín. Zusammen mit der Hauptburg, die aus Verteidigungsgründen notwendig Teil eines einzigen befestigten Ganzen sein musste, erreichte diese Fundstelle etwa 5–6 ha, was in etwa mit den Burgwällen in Jaseňové, Devín (Theben) oder auf der Burg von Bratislava (Pressburg) vergleichbar ist. Der Burgwall von Spišské Tomášovce erreichte jedoch nicht die Dimensionen und wohl auch nicht die wirtschaftliche und militärische Bedeutung der Burgwälle in Pobedim, Majcichov, Bojná und Nitra (Neutra) und auch nicht die der zentralen mährischen Burgwälle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung und die materielle Kultur des Burgwalls spiegeln nicht nur die regionalen Besonderheiten der hiesigen slawischen Besiedlung im Abschnitt vom 8. bis zum 10. Jahrhundert, sondern auch ihre Interaktionen sowohl mit dem Fürstentum Neutra und Großmähren im Südwesten als auch mit den polnischen Stämmen im Weichselgebiet im Norden. \n \n \n "
+       },
+       {
+        "type": "text",
+        "text": "Zusammenfassung:"
+       },
+       {
+        "type": "text",
+        "text": "\nBurgwall I – Spišské Tomášovce"
+       },
+       {
+        "type": "text",
+        "text": "\n \n Eine zweite Welle der slawischen Kolonisation der Zips fand im 7. und 8. Jahrhundert statt. Am intensivsten war die Besiedlung auf dem Čingov im Slowakischen Paradies (Slovenský raj), wo im Gebiet der heutigen Ostslowakei eine große Befestigung des Fürstentums Neutra errichtet wurde. Um die Mitte des 8. Jahrhunderts waren die Befestigungen des Burgwalls fertiggestellt, und der Bau der Wehranlagen des Suburbiums hatte begonnen. Ein so präzise erbauter slawischer Burgwall aus der vorgroßmährischen Zeit war in der Slowakei bis dahin unbekannt. In einigen Publikationen wird die Fundstelle ungenau als Burgwall Čingov bezeichnet.\n\nDas befestigte Areal von etwa 12 Hektar besteht aus dem Burgwall selbst (400 × 300 m) und seinem Suburbium (podhradisko). Der Burgwall I (Hradisko I) liegt bei den Koordinaten N 48°56,7839′, E 20°29,3900′ an der Grenze zwischen dem Slowakischen Paradies und dem Hornád-Becken, in den Katastralgebieten der Gemeinden Spišské Tomášovce und Smižany (Bezirk Spišská Nová Ves), am linken Ufer des Hornád an seinem Zusammenfluss mit dem Tomášovský potok.\n\nObwohl sich der Name Hradisko I ursprünglich nur auf den Kalksteinfelsen (540–567 m ü. M.) bezog — dessen Plateau befestigt ist und auf dem die Hauptburg vermutet wird —, wird der Name heute auf die gesamte Fundstelle angewandt, einschließlich der unmittelbaren Umgebung, die in drei Abschnitte geteilt ist. Die Befestigung bestand aus der „Hauptburg“ auf dem dominanten Felsen und dem „Suburbium“ (der Siedlung unterhalb des Burgwalls) auf dem relativ flachen Vorfeld im Westen und Nordosten.\n\nDer im Hauptareal verwendete Walltyp — mit einer äußeren Steinfront und einer inneren Wand aus Holz, stellenweise auch aus Stein, die einen Kern aus verschiedener Holz-Erde-Konstruktion (vor allem Kastenkonstruktion) umschließt und in mehreren Varianten auftritt — stellt die wichtigste slawische Befestigungstechnik der mitteldanubischen (großmährischen) Wehrarchitektur des 9. Jahrhunderts dar. Insgesamt wird für die Wälle eine durchschnittliche Höhe von 1,6–2,1 m und bis zu 2,1–2,6 m für die massivsten verstärkten Erdabschnitte geschätzt.\n\nEs ist klar, dass die größte Mühe und die größte Menge an Material in den nördlichen Wall investiert wurden, der das fast ebene, leicht zugängliche Gelände des Hornád-Beckens durchschnitt — die Richtung, von der die Fundstelle am stärksten exponiert war. Zusammen mit der Hauptburg, die aus Verteidigungsgründen notwendig Teil eines einzigen befestigten Ganzen war, umfasste die Fundstelle etwa 5–6 Hektar — in der Größe vergleichbar mit den Burgwällen in Jaseňové, Devín und auf der Burg von Bratislava.\n\nDie Befestigungen und die materielle Kultur der Fundstelle spiegeln nicht nur den regionalen Charakter der örtlichen slawischen Bevölkerung zwischen dem 8. und 10. Jahrhundert, sondern auch ihre Interaktionen mit dem Fürstentum Neutra und Großmähren im Südwesten sowie mit den polnischen Stämmen des Weichselgebiets (Povislie) im Norden.\n\nBis zur Mitte des 9. Jahrhunderts war dies das einzige Verwaltungs-, Kultur- und Wirtschaftszentrum in der Region unter der Tatra. Dann verschwand es nach einem Einfall großmährischer Truppen in die Zips. Der Burgwall I ging höchstwahrscheinlich in den Kämpfen zwischen Mojmír und Pribina unter — er fiel Mojmírs Bemühungen zum Opfer, Pribinas Fürstentum Neutra zu unterwerfen und dem mährischen Reich anzugliedern. Dies scheint ein wirklicher Krieg gewesen zu sein. Etwa zur gleichen Zeit zerstörte ein Brand den Burgwall in Majcichov bei Trnava (Tyrnau) sowie weiter entfernte Anlagen in der Arwa (Ostrá skala und Tupá skala — „Spitzer Felsen“ und „Stumpfer Felsen“). Wenn dies alles Teil eines einzigen Feldzuges war — was sehr wahrscheinlich erscheint —, dann muss das Fürstentum Neutra überraschend groß gewesen sein.\n\nIn der zweiten Hälfte des 9. Jahrhunderts wurden auf dem Čingov (Hradisko II) und auf dem Dreveník neue Burgwälle errichtet, die bis ins 13. Jahrhundert fortbestanden. Um diese Zeit nahmen die Bewohner der Zips das Christentum an. Die slawische Kultur hielt sich hier bis zur Eingliederung der Region in den ungarischen (magyarischen) Staat.\n\nAus dem späten 9. Jahrhundert und mit Fortdauer in die erste Hälfte des 10. — der klassischen großmährischen und nachgroßmährischen Zeit — stammt der zweite Burgwall, der Burgwall II (Hradisko II), bei den Koordinaten N 48°56,4423′, E 20°28,9500′. Er liegt etwa 800 m südwestlich am rechten Ufer des Hornád auf einem Spornausläufer (530–540 m ü. M.) des Berges Čingov und ist aus Begehungen und kleineren Sondagegrabungen bekannt.\n\nAm Burgwall I führen auch der gelbe Wanderweg Nr. 8737 und der grüne „Jugend-Lehrpfad“ vorbei, an dem eine Informationstafel steht, auf der die Besucher die Angaben finden, die zur Berechnung der Koordinaten von Stage 1 [des Geocaches] nötig sind.\n\nFotogalerie von Kvetka M.:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

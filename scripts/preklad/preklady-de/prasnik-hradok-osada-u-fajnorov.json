@@ -1,0 +1,816 @@
+{
+ "slug": "prasnik-hradok-osada-u-fajnorov",
+ "data": {
+  "title": "Prašník – Hrádok, eine Burganlage über dem kleinkarpatischen Pass",
+  "slug": "prasnik-hradok-burganlage-kleinkarpatenpass",
+  "excerpt": "Die Burganlage auf dem Hrádok bei Prašník wurde auch trotz offenkundig ungünstiger Siedlungsbedingungen immer wieder aufgesucht: Von hier ließ sich ein langer Abschnitt des Weges von Brezová pod Bradlom nach Vrbové überwachen. Besiedelt war der Sporn von der Ludanice-Gruppe über die Maďarovce- und die Lausitzer Kultur bis zu den Kelten und den Slawen, die hier eine bis heute 150 cm hohe Trockenmauer errichteten.",
+  "metaTitle": "Prašník – Hrádok, Burganlage am Kleinkarpatenpass",
+  "metaDescription": "Die Burganlage Hrádok bei Prašník bewachte die östliche Einmündung des kleinkarpatischen Passes und einen langen Abschnitt des Weges nach Vrbové.",
+  "keyFacts": [
+   {
+    "label": "Strategische Lage",
+    "value": "Der Sporn über dem Bach Holeška ermöglichte die Kontrolle eines langen Abschnitts des Weges von Brezová pod Bradlom in Richtung Vrbové.",
+    "icon": "map"
+   },
+   {
+    "label": "Höhe des Hanges",
+    "value": "Die östliche steile Wand der Burganlage überhöht das umliegende Gelände um 110–117 m.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Älteste Besiedlung",
+    "value": "Ludanice-Gruppe (Untergruppe der Lengyel-Kultur), datiert ca. in die Jahre 4400–4000 v. Chr.",
+    "icon": "book"
+   },
+   {
+    "label": "Palisade der jüngeren Steinzeit",
+    "value": "In ein Fundamentgräbchen im Kalkfelsen war eine Palisade aus Hainbuchen- und Eichenstämmen mit einem Durchmesser von bis zu 25 cm gestellt.",
+    "icon": "building"
+   },
+   {
+    "label": "Schönster Bronzefund",
+    "value": "ein verzierter Axthammer mit langer zylindrischer Tülle, meißelartiger Schneide und fächerförmig erweitertem Nacken, zur Maďarovce-Kultur gehörend",
+    "icon": "star"
+   },
+   {
+    "label": "Metallgießerwerkstatt",
+    "value": "Im zweiten Areal arbeitete eine Bronzegießerwerkstatt der Lausitzer Kultur – belegt durch eine Gussform, einen Hortfund bronzener Ringe und eine frisch gegossene Sichel.",
+    "icon": "custom"
+   },
+   {
+    "label": "Slawische Steinmauer",
+    "value": "Die trocken gelegte Steinmauer erreichte ursprünglich eine Höhe von mindestens drei Metern, bis heute ist sie bis zu einer Höhe von ca. 150 cm erhalten.",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4400–4000 v. Chr.",
+    "title": "Älteste Besiedlung – die Ludanice-Gruppe",
+    "description": "Die älteste festgestellte Besiedlung der Fundstelle gehört zur Ludanice-Gruppe, einer Untergruppe der Lengyel-Kultur, die ca. in die Jahre 4400–4000 v. Chr. datiert wird, was die gefundenen Keramikscherben belegen.",
+    "type": "founding"
+   },
+   {
+    "year": "vor 1600 / 1450 v. Chr.",
+    "title": "Besiedlung durch die Maďarovce-Kultur",
+    "description": "In der Frühbronzezeit besiedelte die Höhensiedlung das Volk mit der Maďarovce-Kultur (nach der konventionellen Datierung vor 1450 v. Chr., nach der neueren Datierung vor 1600 v. Chr.).",
+    "type": "era"
+   },
+   {
+    "year": "um das Jahr 1000 v. Chr.",
+    "title": "Wiederherstellung der Befestigung und Erweiterung der Burganlage",
+    "description": "Das Volk der schlesischen Phase der Lausitzer Urnenfelder stellte die Hauptbefestigung des ersten Areals wieder her und erweiterte die Burganlage in westlicher Richtung um zwei weitere Areale.",
+    "type": "construction"
+   },
+   {
+    "year": "späte Bronzezeit",
+    "title": "Untergang der Besiedlung durch Brand",
+    "description": "Die Besiedlung der Burganlage in der späten Bronzezeit ging durch einen ausgedehnten Brand unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "2.–1. Jahrhundert v. Chr.",
+    "title": "Latènezeitliche Besiedlung",
+    "description": "Für kurze Zeit erwachte die Fundstelle in der Latènezeit erneut zum Leben, als die Burganlage als Zwischenstation des keltischen Volkes auf dem Zug nach Südosten oder als Wachpunkt über dem Verkehrsweg diente.",
+    "type": "event"
+   },
+   {
+    "year": "Fürstentum Neutra / Anfänge Großmährens",
+    "title": "Die Ankunft der Slawen",
+    "description": "Ihren Zweck begann die Burganlage erneut nach der Ankunft der Slawen zu erfüllen, irgendwann in der Zeit des Fürstentums Neutra bzw. in den Anfängen des Großmährischen Reiches.",
+    "type": "era"
+   },
+   {
+    "year": "1920er Jahre",
+    "title": "Begehung von Štefan Janšák",
+    "description": "Als Erster untersuchte die Burganlage Štefan Janšák, zu einer Zeit, als sie noch nicht durch den Steinabbau im Steinbruch gestört war.",
+    "type": "discovery"
+   },
+   {
+    "year": "1970er–1980er Jahre",
+    "title": "Ausgrabung von Petr Novák",
+    "description": "Eine moderne und eingehende Ausgrabung der Burganlage führte Petr Novák durch.",
+    "type": "discovery"
+   },
+   {
+    "year": "2011",
+    "title": "Erscheinen des Buches über die Ausgrabung der Burganlage",
+    "description": "Petr Novák fasste seine langjährigen Untersuchungen in einem Buch zusammen, das in Böhmen erschien, da das Westslowakische Museum nicht in der Lage war, das Buch herauszugeben, obwohl er ihm das Manuskript bereits im Jahr 2001 übergeben hatte.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2150,
+    "caption": "Künstlerische Vorstellung vom Aussehen der Burganlage in der jüngeren Bronzezeit, Autorin: Vesna (Slovakia by Drawning)",
+    "alt": "Künstlerische Vorstellung vom Aussehen der Burganlage in der jüngeren Bronzezeit, Autorin: Vesna (Slovakia by Drawning)"
+   },
+   {
+    "mediaId": 2151,
+    "caption": "Plan der Burganlage nach Štefan Janšák",
+    "alt": "Plan der Burganlage nach Štefan Janšák"
+   },
+   {
+    "mediaId": 2152,
+    "caption": "Moderner Plan der Burganlage – Dr. Novák",
+    "alt": "Moderner Plan der Burganlage – Dr. Novák"
+   },
+   {
+    "mediaId": 2153,
+    "alt": "Charakteristische Schnitte durch die kleine Burg bei Kolaříky mit Höhen- und Längenmaßstab"
+   },
+   {
+    "mediaId": 2154,
+    "alt": "Zeichnungstafel der Funde: Gefäßfragmente, Beschläge und Steingeräte mit Nummern"
+   },
+   {
+    "mediaId": 2155,
+    "alt": "Zeichnungstafel der Funde: Gefäße, Fragmente und eine bronzene Nadel mit Nummern"
+   },
+   {
+    "mediaId": 2156,
+    "alt": "Zeichnungstafel von Keramik und kleinen Bronzegegenständen"
+   },
+   {
+    "mediaId": 2157,
+    "alt": "Zeichnungen verzierter Gefäße und Fragmente mit Profilen"
+   },
+   {
+    "mediaId": 2158,
+    "alt": "Zeichnungstafel mit einer Bronzespirale, einer Spitze und Gefäßen"
+   },
+   {
+    "mediaId": 2159,
+    "alt": "Zeichnungstafel bronzenen Schmucks: Halsring, Armringe und Ringe"
+   },
+   {
+    "mediaId": 2160,
+    "alt": "Gezeichneter Schnitt durch den Wall mit Resten der bronzezeitlichen Befestigung und der slawischen Mauer"
+   },
+   {
+    "mediaId": 2161,
+    "alt": "Luftbild des bewaldeten Rückens mit Felsausläufern über dem Tal"
+   },
+   {
+    "mediaId": 2162,
+    "alt": "Zeichnungstafel von Keramik, einer bronzenen Fibel und Geräten"
+   },
+   {
+    "mediaId": 2163,
+    "alt": "Zeichnungstafel verzierter Keramik und einer eisernen Axt"
+   },
+   {
+    "mediaId": 2164,
+    "alt": "Wall der Burganlage im sommerlichen Laubwald"
+   },
+   {
+    "mediaId": 2165,
+    "alt": "Steiler Hang der Burganlage mit grünem Bewuchs"
+   },
+   {
+    "mediaId": 2166,
+    "alt": "Zettel mit der Aufschrift „überwachte Fundstelle“ an einem Buchenstamm"
+   },
+   {
+    "mediaId": 2167,
+    "alt": "Überwachsener Wallkörper im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2168,
+    "alt": "Plateau der Burganlage zwischen Bäumen im Sommer"
+   },
+   {
+    "mediaId": 2169,
+    "alt": "Wall der Burganlage mit einem umgestürzten Stamm im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2170,
+    "alt": "Pfad entlang des Walls der Burganlage im Laubwald"
+   },
+   {
+    "mediaId": 2171,
+    "alt": "Wall der Burganlage im Laubwald in der Herbstsonne"
+   },
+   {
+    "mediaId": 2172,
+    "alt": "Handfläche mit zwei Stücken Eisenschlacke, gefunden auf der Burganlage"
+   },
+   {
+    "mediaId": 2173,
+    "alt": "Hang der Burganlage mit dem Wallkörper im herbstlichen Wald"
+   },
+   {
+    "mediaId": 2174,
+    "alt": "Grasbewachsener Rücken der Burganlage mit Blick auf Felder und Hügel"
+   },
+   {
+    "mediaId": 2175,
+    "alt": "Graben zwischen den Wällen im herbstlichen Wald"
+   },
+   {
+    "mediaId": 2176,
+    "alt": "Wallkörper mit Steinen im Laubwald"
+   },
+   {
+    "mediaId": 2177,
+    "alt": "Steiniges Plateau der Burganlage zwischen Bäumen"
+   },
+   {
+    "mediaId": 2178,
+    "alt": "Felsausläufer mit Blick auf den bewaldeten Rücken und die Gemeinde"
+   },
+   {
+    "mediaId": 2179,
+    "alt": "Wall der Burganlage am Rand eines Nadelbestandes"
+   },
+   {
+    "mediaId": 2180,
+    "alt": "Felswand unterhalb der Burganlage über dem Wald"
+   },
+   {
+    "mediaId": 2181,
+    "alt": "Luftbild des Sporns mit Felsen über Feldern und einem Bach"
+   },
+   {
+    "mediaId": 2182,
+    "alt": "Luftbild des bewaldeten Rückens der Burganlage im Morgendunst"
+   },
+   {
+    "mediaId": 2183,
+    "alt": "Luftbild des felsigen Berges, umgeben von Wäldern und Hügeln"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage auf der rechten Seite der östlichen Einmündung des kleinkarpatischen Passes auf dem Hrádok, im Katastralgebiet der Gemeinde Prašník im Bezirk Trnava (Tyrnau), wurde auch trotz offenkundig ungünstiger Siedlungsbedingungen wiederholt aufgesucht, und das dank ihrer strategischen Lage, die die Kontrolle eines verhältnismäßig langen Abschnitts des Weges von Brezová pod Bradlom weiter in östlicher Richtung nach Vrbové ermöglichte. Der Verkehrsweg führte und führt bis heute längs des Baches Holeška am nördlichen Fuß des Sporns. Vom ersten Areal der Burganlage öffnete sich ein sehr guter Ausblick in östlicher Richtung in das Hügelland von Trnava, während vom Dievčí Vŕšok aus die Wanderer tief im Pass beobachtet werden konnten. Wie man sieht, wurde Wert auf die Möglichkeit gelegt, den Verkehrsweg unterhalb der Fundstelle auf einer möglichst langen Strecke zu beobachten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Erster untersuchte die Burganlage Štefan Janšák in den 1920er Jahren, d. h. zu einer Zeit, als die Burganlage noch nicht durch den Steinabbau im Steinbruch gestört war, und er beschrieb sie folgendermaßen: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der Hrádok erstreckt sich auf einem zungenförmigen Bergsporn, der in nordwestlicher Richtung mit einem schmalen Rücken zusammenhängt und von Südosten mit einem steilen Felsen bzw. Hang endet. Über das Niveau der Landstraße erhebt sich die Fläche des Hrádok um 100 m, seine höchsten Punkte um 110 bis 117 m. Der nordöstliche und der östliche Hang sind bis zur Höhenlinie 350 von jungem Buchenwald bedeckt, der südwestliche Hang sowie die Oberfläche der Burganlage sind Weide, mit Gebüsch überwachsen, das stellenweise in dichtes, hohes Gras übergeht.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der Wall a b, 110 m lang, verschließt den Zugang in die Burganlage vom Rücken her. Die Erbauer nutzten hier eine sehr günstige, natürliche Geländewelle, die sie durch einen künstlichen Wall noch erhöhten, sodass sich die Kote 367 noch heute volle 12 m über die Umgebung erhebt und so ein sicheres Hindernis bildet. Mit dem Wall a b laufen zwei fast parallele Wälle c d, 124 m lang, und e f, 140 m lang. Von diesen ist der Wall e f dadurch interessant, dass er sich auf einer natürlichen Geländestufe erhebt und eine relative Höhe von 10 m erreicht. Von der südwestlichen Seite läuft der Schutzwall a ce ei, 432 m lang, unterbrochen durch das Tor i, durch das man in die Burganlage von der Gemeinde „Pustá Ves“ auf dem Weg y i eintrat. An der Stelle ei g ist ein steiler Hang, der in einen zerrissenen Felsen g h übergeht, der wiederum in einen steilen Hang h h\\ f (punktierte Linie) übergeht. Im Raum ei g h h\\ f d gibt es keinerlei künstliche Aufschüttung. Die Grenze der Burganlage ist hier durch die punktierte Linie e\\ g, h hl, durch den Felsen g h und durch die Höhenlinie 350 vom Punkt in bis d bestimmt. Im Raum d b liegen niedrige Reste von Wällen, unterbrochen durch den Pfad k L Durch die Queraufschüttungen c d, e/ ist die Oberfläche der Burganlage in drei Räume oder Höfe geteilt: a c d b, c e f d, eei ghhif. Von diesen hat der erste eine Fläche von 1,33 ha, der zweite von 3,15 ha, der dritte von 2,6 ha. Die Schanzen a b, c d, e f sind ein dreifacher Schutz gegen den Feind, der über den Rücken kommt, und man kann daher den Raum e ei g h hi f für den Kern des Hrádok halten. Hier liegt auch tatsächlich die stärkste Kulturschicht, rußig schwarzer Humus, mit den gewöhnlichen Keramikfunden aus der ersten Eisenzeit. Die Fläche der Burganlage ist nach Südwesten geneigt, wie aus den Schnitten a–b, c–d, e–f zu ersehen ist, wodurch die günstigste Lage zur Sonne und gegen die Nordwinde genutzt ist. Der Schutzwall a c e e\\ liegt durchschnittlich um 20 m tiefer als der nordöstliche Rand der Burganlage b d f.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine moderne und eingehende Ausgrabung der Burganlage führte in den 1970er und 1980er Jahren Petr Novák durch. Seine langjährigen Untersuchungen fasste er in einem Buch zusammen, das "
+       },
+       {
+        "type": "link",
+        "url": "https://www.uappmost.cz/",
+        "children": [
+         {
+          "type": "text",
+          "text": "in Böhmen"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " im Jahr 2011 erschien, weil das Westslowakische Museum, dem er bereits im Jahr 2001 sein Manuskript übergab, nicht in der Lage (oder nicht willens?) war, das Buch herauszugeben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen der Burganlage in der jüngeren Bronzezeit, Autorin: Vesna (Slovakia by Drawning)",
+    "alt": "Künstlerische Vorstellung vom Aussehen der Burganlage in der jüngeren Bronzezeit, Autorin: Vesna (Slovakia by Drawning)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Novák führt an, dass der Sporn der Burganlage auf der Westseite mit dem Massiv der Kleinen Karpaten verschmilzt, während die östliche steile Wand das umliegende Gelände um 110–117 m überhöht und zu einem großen Teil durch den Abbau im Steinbruch gestört ist. Drei Befestigungsgürtel durchschneiden den Sporn in Nord-Süd-Richtung so, dass der westliche Befestigungsgürtel über den „Dievčí Vŕšok“ verläuft, der eine natürliche Geländewelle bildete, die den Sporn vom Kleinkarpatenrücken trennte. Der weiter östlich verschobene Befestigungsgürtel ist auf der Kante einer Geländewelle errichtet, die jedoch nicht so ausgeprägt ist wie der Bruch, der zur Errichtung des dritten Befestigungsgürtels diente, der das erste Areal umschließt. Die Fläche der Burganlage neigt sich nach Süden, und fast in ihrer ganzen Länge, mit Ausnahme der felsigen Partien, säumt sie ein Befestigungsgürtel, der alle drei Areale verbindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die jüngere Steinzeit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan der Burganlage nach Štefan Janšák",
+    "alt": "Plan der Burganlage nach Štefan Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste festgestellte Besiedlung der Fundstelle auf dem Hrádok gehört nachweislich zur Ludanice-Gruppe (einer Untergruppe der Lengyel-Kultur, datiert ca. in die Jahre 4400–4000 v. Chr.), was die gefundenen Keramikscherben eindeutig dokumentieren. Die Besiedlung in der Zeit des Neolithikums ist ausschließlich an das am besten geschützte erste Areal der Burganlage gebunden. Unterhalb der Hauptbefestigung auf der Kante der Geländewelle zwischen dem ersten und dem zweiten Areal haben sich geringfügige Überreste der Architektur aus dieser Zeit erhalten. Dicht an der Kante, die den Sporn abgrenzt, war in ein Fundamentgräbchen, das in den Untergrund des Kalkfelsens eingetieft war, eine Palisade aus Hainbuchen- und Eichenstämmen mit einem Durchmesser von bis zu 25 cm gestellt. Nicht weit von der Palisade wurden Reste der Pfostenkonstruktion eines Baus mit sorgfältig verstrichener Fläche einer Feuerstelle gefunden. Ein gewaltsames Ende der Ludanice-Besiedlung zeigte sich in den Funden nicht, und alles deutet auf ein schlichtes Verlassen der Fundstelle zu einer Zeit hin, als die Gründe für die Besetzung strategisch günstiger Lagen entfallen waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer nicht gut erhaltenen Keramikscherben fanden sich Spinnwirtel aus Ton sowie Ahlen und Meißelchen aus Knochen. Da wir in der Steinzeit sind, wurden an der Fundstelle geschliffene Beilchen, ein Schaber, eine Pfeilspitze und verschiedene Klingen gefunden, alles aus Stein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bronzezeit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "(Maďarovce-Kultur)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach längerer Pause besiedelte die Höhensiedlung bereits in der Frühbronzezeit das Volk mit der Maďarovce-Kultur (nach der konventionellen Datierung vor 1450 v. Chr., nach der neueren Datierung vor 1600 v. Chr.). Die entdeckten Gefäßteile und auch weitere Gegenstände haben nahe Analogien an mehreren Fundstellen der Westslowakei, wie etwa Veselé, Boleráz oder Budmerice. Die Besiedlung beschränkte sich immer noch nur auf die Fläche des ersten Areals der Burganlage. Auf den eingeebneten Überresten der Befestigung der Ludanice-Gruppe errichtete die neu eintreffende Bevölkerung mit der Maďarovce-Kultur zunächst einen einfachen Zaun mit spärlichen tragenden Pfosten im Abstand von ca. 2 m (offenbar mit Ästen durchflochten) und ersetzte diese provisorische Umfriedung erst anschließend durch einen Wall aus aufgeschüttetem Dolomit, der durch das Ausheben eines Grabens am Fuß der Geländewelle gewonnen wurde. Der nicht bindige Dolomit erforderte eine Festigung durch einen Rost aus quer gelegtem Rundholz. Erst auf dieser Grundlage erwuchs eine Steinmauer, deren Reste bei einem weiteren Umbau der Hauptbefestigung zwischen dem ersten und dem zweiten Areal der Burganlage in den Rücken der Befestigung gezogen aufgefunden wurden. Von den Siedlungsbefunden blieb nur ein Teil eines größeren rechteckigen Baus mit sorgfältig verstrichenem Boden, auf dem in der Südwestecke eine große Amphore und eine größere tiefe Schale standen und daneben einige Scherben einer weiteren kleineren Amphore lagen. Die Existenz der befestigten Maďarovce-Höhensiedlung hat wahrscheinlich einen Bezug zum Verkehrsweg unterhalb des nördlichen Fußes des Sporns und konnte so die Funktion eines Wachpostens an der Verbindung zum benachbarten Věteřov-Gebiet erfüllen. Spuren einer gewaltsamen Zerstörung oder deutlichere Brandspuren der Maďarovce-Siedlung auf dem Hrádok wurden bei der Ausgrabung nicht festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Moderner Plan der Burganlage – Dr. Novák",
+    "alt": "Moderner Plan der Burganlage – Dr. Novák",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor allem hinterließ das Volk der Maďarovce-Kultur hier vielfältige Keramik, wie Krüglein, Tassen, Amphoren, Schalen, Töpfe oder Vorratsgefäße. Der schönste Bronzefund ist ein verzierter Axthammer mit langer zylindrischer Tülle, meißelartiger Schneide und fächerförmig erweitertem Nacken. Es fanden sich auch Schläfenringe aus doppeltem Draht, ein kleiner bronzener Dolch und ein herzförmiger Anhänger. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "(Lausitzer Kultur)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der Burganlage nach Štefan Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach längerer Unterbrechung erwachte die Fundstelle in der späten Bronzezeit erneut zum Leben. Das Volk der schlesischen Phase der Lausitzer Urnenfelder (um das Jahr 1000 v. Chr.) stellte die Hauptbefestigung des ersten Areals wieder her und erweiterte die Burganlage in westlicher Richtung um zwei weitere Areale. Die neu aufgeschütteten Wälle durchschnitten die natürliche Anhöhe des Dievčí Vŕšok an den Stellen des Übergangs in das Massiv der Kleinen Karpaten und erschwerten, weiter in östlicher Richtung geführt, den Zugang auf die verwundbare Südseite. Das erste Areal erfüllte ausschließlich eine Siedlungsfunktion, während im südwestlichen Teil des zweiten Hofes die Produktionsbefunde einer Metallgießerwerkstatt standen. Dies bestätigen vor allem eine dünne schwarze Schicht mit winzigen Bronzetropfen, eine Gussform, ein Hortfund bronzener Ringe und eine frisch gegossene kleine Sichel auf dem Boden einer Siedlungsgrube. Nur ein Stück östlich stand eine Hütte mit Tonkeilen, die beim Gießen bronzener Gegenstände dienen konnten. Die Stellung des dritten Areals hat die Ausgrabung nicht völlig geklärt; es erfüllte offenbar nur die Funktion eines Verbindungsgliedes auf der Anhöhe des Dievčí Vŕšok. Den Wassermangel versuchten die Bewohner der Burganlage durch die Errichtung einer Zisterne am nordöstlichen Hang zu überbrücken, die sich dicht über der Abbauwand des Steinbruchs befand. In dieser Zeit erfüllte die Burganlage die Funktion eines Wachpostens über einem wichtigen Verkehrsweg zwischen Südmähren und dem fruchtbaren Waagtal. Die Besiedlung in der späten Bronzezeit ging durch einen ausgedehnten Brand unter. In der älteren Eisenzeit (Hallstattzeit) war die nahe gelegene Burganlage Tlstá hora bewohnt, was mich zu der Spekulation führte, dass gerade das Volk aus der Hallstattzeit die Burganlage u Fajnorov zerstörte, aber Dr. Novák machte mich auf die Unrichtigkeit dieser Überlegung aufmerksam, denn zwischen dem Untergang der Burganlage u Fajnorov und der Entstehung der Burganlage Tlstá hora liegt eine Lücke von 150–200 Jahren. Die Frage, wer die Lausitzer Burganlage zerstörte, bleibt also unbeantwortet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lausitzer Kultur ist für ihre sehr schöne verzierte Keramik bekannt, und eine solche fand sich in größerer Menge auch in Prašník. Es handelt sich um verschiedene Tassen, Amphoren, Schälchen, Töpfe und Vorratsgefäße sowie weitere Gefäße. Von den Bronzegegenständen fanden sich vor allem Nadeln, eine „brillenförmige“ Spiralfibel mit achterförmigem Bügel, ein wunderschön patinierter Halsring, ein Teil eines Gürtelbeschlags, Armringe, Fingerringe, Messer und Pfeilspitzen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Latène (jüngere Eisenzeit)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für kurze Zeit erwachte die Fundstelle in der Latènezeit erneut zum Leben. Das gefundene Scherbenmaterial und auch die kleinen Gegenstände fallen grob in die Zeit des 2. bis 1. Jahrhunderts v. Chr. und kommen in der Westslowakei reichlich vor. Die Burganlage diente allem Anschein nach als Zwischenstation des keltischen Volkes auf dem Zug nach Südosten oder als Wachpunkt über dem Verkehrsweg. Novák deutet die Burganlage in der Latènezeit als Beobachtungspunkt über einer der Zugstrecken der Kelten in östlicher Richtung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Prašník – Hrádok (Osada u Fajnorov)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihren Zweck begann die Burganlage erst nach der Ankunft der Slawen irgendwann in der Zeit des Fürstentums Neutra bzw. in den Anfängen des Großmährischen Reiches wieder zu erfüllen. Allmählich erfolgte eine Rekonstruktion des ganzen Befestigungssystems, und in der erhaltenen Architektur zeigten sich zwei nicht zusammenhängende Eingriffe. Die konstruktiv vollkommene Mauer hat offenbar einen Bezug zur älteren Besiedlung, die etwa den Funden aus Pobedim entspricht. Ohne festeren Bezug zur vorangehenden Phase stellte die slawische Bevölkerung später die gesamte Befestigung erneut her, die sorgfältigen Konstruktionen wurden jedoch nur durch aufgeschüttete Wälle ersetzt. An die Hauptmauer des ersten Areals schlossen die Slawen auf der Südseite einen bogenförmigen Wall aus lose gelegtem Stein ohne Bindemittel an. In dieser Zeit erwuchs längs des Rückens des zweiten Areals der Burganlage eine Reihe teilweise eingetiefter Wohnbauten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Architektur"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die neu errichtete slawische Befestigung nutzte die Überreste des älteren Festungssystems, vor allem aus der späten Bronzezeit, als die befestigte Fläche ihre heutige Ausdehnung erreichte und die grundlegenden Linien festlegte. Am Fuß des Hauptwalls des ersten Areals erwuchs auf der äußeren Kante des älteren Grabens in Richtung des zweiten Areals ein kleinerer Wall, und auf seiner Außenseite entstand ein neuer Spitzgraben. Was die Hauptbefestigung betrifft, so ist hier auf sorgfältig geebnetem Untergrund eine Mauer aus trocken gelegtem Stein errichtet. Die bis heute erhaltene Höhe des Walls erreicht ca. 150 cm und eine Stärke von etwa 120–130 cm. Nach der Menge des gefundenen Steins am Westhang und an seinem Fuß hatte die ursprüngliche Mauer eine Höhe von mindestens drei Metern. Der trocken gelegte Stein gewährleistete keine ausreichende Festigkeit der Mauer, deshalb wurden vor ihrer Front senkrechte Balken aufgerichtet, befestigt durch Rundholz, das quer in die Steinmauer eingelegt war. Hinter diese legten sie beim Bau längs dünnere Eichenstämme, die gemeinsam mit den Steinen die Vorderfront der Mauer bildeten. In einem gewissen Sinne entstanden so hölzerne Kastenkonstruktionen mit steinerner Außenmauer. Der Befestigung des zweiten und des dritten Areals wurde längst nicht so viel Aufmerksamkeit gewidmet. Aufgeschüttete Wälle mit vorgeblendeter Steinfront wurden auf der Südseite der Burganlage festgestellt, auch in der Befestigung zwischen dem zweiten und dem dritten Areal. Festgestellt wurde auch die Existenz eines bogenförmigen Walls, der auf der Südseite an die Hauptbefestigung des ersten Areals angeschlossen ist und den Novák ebenfalls der slawischen Periode zuschreibt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Prašník – Hrádok (Osada u Fajnorov)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die für die slawische Periode typischen eingetieften Grubenhäuser konnten nur im zweiten Areal der Burganlage festgestellt werden, während im ersten Areal Spuren von Wohnarchitektur völlig fehlen. Dies kann einerseits durch den unterschiedlichen Charakter der Bebauung verursacht sein, wenn auf der Fläche des ersten Areals nur ebenerdige Bauten standen, andererseits durch den sehr harten felsigen Untergrund, der das Eintiefen eines Grubenhauses nicht ermöglichte. Bei den meisten Grubenhäusern im zweiten Areal wurden steinerne Feuerstellen festgestellt. In einer Hütte wurde eine unbeschädigte abgedeckte steinerne Feuerstelle gefunden, noch mit Resten von Asche. Aus der ursprünglichen Ausstattung einer Hütte stammt ein rekonstruiertes ungewöhnlich großes Gefäß, das der Besitzer des Wohnbaus beim Verlassen der Fundstelle so weggeworfen hat, dass die Scherben von seinem Boden dicht bei der Feuerstelle lagen und die Randpartien sich in der gegenüberliegenden Ecke befanden. Die großen Ausmaße einiger slawischer Töpfe können mit der entfernten Wasserquelle im Fluss Holeška zusammenhängen, von der sie ein Höhenunterschied von ca. 110 m trennte. In Zeiten der Trockenheit, wenn die Zisterne austrocknete, war das Flüsschen unterhalb des Nordhanges der Burganlage die einzige Wasserquelle. So wie im Fall der vorangehenden Besiedlungen der Fundstelle fehlen auch jetzt Vorratsgruben völlig, die eine längere Lagerung von Getreide ermöglicht hätten, und der Lebensunterhalt der Bevölkerung hing somit von der Versorgung aus dem Hinterland der Burganlage ab. In ihrer näheren Umgebung erbrachten die Begehungen keine Spuren einer flachen landwirtschaftlichen Siedlung, und die Lebensmittel musste die slawische Bevölkerung also offenbar aus größerer Entfernung heranführen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Prašník – Hrádok (Osada u Fajnorov)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Keramik beschränkt sich fast ausschließlich auf die klassischen Töpfe, die von vielen weiteren slawischen Fundstellen bekannt und mit dem typischen Wellenband verziert sind. Von den Metallgegenständen fanden sich ein Fingerring aus dünnem Bronzeblech aus der Mitte des 9. Jahrhunderts, eine eiserne Spatenspitze, sieben Eisenmesser, Pfeilspitzen, ein eiserner Feuerstahl mit durchgebogenen Ärmchen, ein zerbrochener eiserner Gürtel mit verengten Enden, ein eiserner Beschlag, ein Teil einer kleinen eisernen Axt, zwei geschmiedete Nägel, ein axtförmiger Eisenbarren mit rechteckiger Öffnung im Nacken und eine eiserne Ahle. Es fanden sich auch mehrere Knochengegenstände, eine Glasperle oder ein Teil einer Drehmühle. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältere slawische Besiedlung könnte vielleicht mit der Zeit des Fürstentums Neutra zusammenhängen (Bezüge zur bedeutenden Burganlage Pobedim), als sie den Verkehr auf dem Weg in das Gebiet von Nitra (Neutra) bewachte. Ebenso gut kann mit den Schicksalen von Pobedim auch das Ende der ersten Phase der slawischen Besiedlung der Burganlage auf dem Hrádok zusammenhängen. Es handelt sich um die Zeit der Angliederung des Fürstentums Neutra an Großmähren. Für Beziehungen zu Großmähren würden die sorgfältig errichtete ältere Befestigung und auch die Funde sprechen, die den Gegenständen aus Staré Město sehr ähnlich sind. Weitere Siedlungsphasen könnten vielleicht mit dem Vordringen der Altungarn in das Gebiet der Slowakei zusammenhängen, als die Burganlagen für die Slawen aus Wehrgründen sehr wichtig waren. Im Fall der jüngeren slawischen Besiedlung unterscheidet sich die Konstruktion der Wälle völlig von der älteren Phase, und nichts deutet darauf hin, dass eine Kontinuität oder Anknüpfung bestanden hätte. In dieser Zeit entstand auch der bogenförmige Wall, der an die äußere Kante der Hauptbefestigung des ersten Areals anliegt, und im zweiten Hof erwuchs längs des Rückens eine Reihe von Wohnbauten. Novák führt an, dass die Burganlage in der Zeit nach dem Fall Großmährens einen Bezug zu den Feldzügen Boleslavs I. in die Westslowakei haben könnte. Nach der Stabilisierung der Verhältnisse im ungarischen Staat verlor die Burganlage ihre Berechtigung, denn es kam zu einer Verschiebung der Grenze in westlicher Richtung, und die Bevölkerung konnte aus den Bergen in den Raum des heutigen Städtchens Vrbové hinabsteigen, das schon in einer erheblich günstigeren natürlichen Umgebung liegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Heutiger Zustand und Kennzeichnung:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Prašník – Hrádok (Osada u Fajnorov)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burganlage wurde durch den Steinbruch gestört, aber ihr größerer Teil hat sich bis heute erhalten. Zur Kote 382 (Hrádok) gelangten wir auf dem blau markierten Weg (steiler Anstieg), und dann kommen Sie über den Rücken bis zum Steinbruch. Die Burganlage ist absolut in keiner Weise gekennzeichnet, von einer Informationstafel ist weit und breit nichts zu sehen. In dieser Hinsicht 0 Punkte. Im Fall eines Besuchs mit Kindern seien Sie auf der Hut, denn die Wände des Steinbruchs sind hoch, und es gibt dort keine Absperrungen und auch keine Warnhinweise."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotogalerie:"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

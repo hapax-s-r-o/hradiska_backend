@@ -1,0 +1,1026 @@
+{
+ "slug": "maros-demko-kyjevsky-panteon",
+ "data": {
+  "title": "Maroš Demko: DAS KIEWER PANTHEON der slawischen Götter",
+  "slug": "maros-demko-das-kiewer-pantheon-der-slawischen-goetter",
+  "excerpt": "Mit Zustimmung des Autors bringen wir Ihnen einen guten Artikel über die slawischen Götter, den Mgr. Maroš Demko geschrieben hat. Er fragt, warum Fürst Wladimir im Jahr 980 in Kiew gerade die Götzen von Perun, Chors, Dažbog, Stribog, Simargl und Mokosch aufstellen ließ, welche Funktionen diese Götter hatten und warum andere – vor allem Veles – in diesem Pantheon fehlen. Der Artikel erschien 1998 in der Zeitschrift MEDEA II.",
+  "metaTitle": "Maroš Demko: Das Kiewer Pantheon der slawischen Götter",
+  "metaDescription": "Fachartikel von Maroš Demko über das Kiewer Pantheon der slawischen Götter – Perun, Chors, Dažbog, Stribog, Simargl und Mokosch (MEDEA II, 1998).",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Mgr. Maroš Demko",
+    "icon": "users"
+   },
+   {
+    "label": "Ort",
+    "value": "Kiew, Kiewer Rus",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "Herrschaft des Fürsten Wladimir (980 – 988)",
+    "icon": "crown"
+   },
+   {
+    "label": "Hauptquelle",
+    "value": "Povesť vremennych let (Nestorchronik)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Ursprüngliche Publikation",
+    "value": "Zeitschrift MEDEA II, 1998",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "941 – 973",
+    "title": "Herrschaft des Fürsten Swjatoslaw",
+    "description": "Das russische Land war unter seine drei Söhne aufgeteilt: Jaropolk in Kiew, Oleg im Land der Drewljanen und Wladimir in Nowgorod.",
+    "type": "event"
+   },
+   {
+    "year": "977",
+    "title": "Jaropolk besiegt Oleg",
+    "description": "Jaropolk zog gegen Oleg und tötete ihn in der Schlacht; Wladimir fürchtete für seine Person und floh über das Meer zu den Warjagern.",
+    "type": "event"
+   },
+   {
+    "year": "980",
+    "title": "Wladimir richtet das Kiewer Pantheon ein",
+    "description": "Wladimir besiegte und tötete Jaropolk, begann allein in Kiew zu herrschen und stellte auf dem Hügel beim Fürstenhof die Götzen von Perun, Chors, Dažbog, Stribog, Simargl und Mokosch auf.",
+    "type": "event"
+   },
+   {
+    "year": "983",
+    "title": "Menschenopfer",
+    "description": "Die Povesť vremennych let hält zu diesem Jahr eine Nachricht über Menschenopfer fest.",
+    "type": "event"
+   },
+   {
+    "year": "988",
+    "title": "Annahme des Christentums",
+    "description": "Wladimir nahm wahrscheinlich nach dem Misserfolg des staatlichen heidnischen Kults das Christentum an; die Idole wurden zerstört, die Statue des Veles wurde in den Fluss Potschajna geworfen.",
+    "type": "event"
+   },
+   {
+    "year": "1951 – 1952",
+    "title": "Archäologische Untersuchung des Opferplatzes bei Peryn",
+    "description": "Die Untersuchung unter der Leitung von V. V. Sedov legte an dem Ort namens Peryn (bei Nowgorod) einen kreisförmigen Graben mit acht Nischen für das Feuer und einer Grube nach einem Idol frei – einen Beleg für einen Kultplatz des Perun.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4249,
+    "caption": "Heiligtum in Most pri Bratislave (Azraelangelo)",
+    "alt": "Heiligtum in Most pri Bratislave (Azraelangelo)"
+   },
+   {
+    "mediaId": 4251,
+    "caption": "Der Götze von Fischerinsel",
+    "alt": "Der Götze von Fischerinsel"
+   },
+   {
+    "mediaId": 4252,
+    "caption": "Heiligtum Peryn (Russland)",
+    "alt": "Heiligtum Peryn (Russland)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung des Autors bringen wir Ihnen einen guten Artikel über die slawischen Götter, den Mgr. Maroš Demko geschrieben hat. Der Artikel erschien in der Zeitschrift MEDEA II, im Jahr 1998. Die Bilder habe ich nachträglich hinzugefügt, und sie waren nicht Teil des ursprünglichen Artikels. Orgoň",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Maroš Demko : DAS KIEWER PANTHEON"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Einleitung dieser Arbeit halte ich es für notwendig, einige historische Fakten über die Kiewer Rus anzuführen. Schon zu Lebzeiten des Fürsten Swjatoslaw (941 – 973) war das russische Land unter seine drei Söhne aufgeteilt. Nach dem Tod Swjatoslaws (973) blieben - Jaropolk in Kiew, Oleg im Land der Drewljanen und Wladimir in Nowgorod. Im Jahr 977 zog Jaropolk gegen Oleg, und in der Schlacht wurde Oleg getötet. Wladimir, der für seine Person fürchtete, floh über das Meer, wo er sich eine Militärabteilung der Warjager anwarb. Im Jahr 980 zog Wladimir mit den Warjagern aus Nowgorod aus und besiegte und tötete Jaropolk. 1 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Jahr 980 ist auch diese Nachricht aus der Povesť vremennych let (Nestorchronik) verbunden: “ "
+       },
+       {
+        "type": "text",
+        "text": "I nača kňažiti Volodimer v Kijeve jedin, i postavi kumiry na cholmu vne dvora teremnago: Peruna dreviana, a glavu jego srebrenu a us zlat, i Chrsa, Dažboga i Striboga i Simargla i Mokoš",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ".”2 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Nachricht ist eine der am häufigsten zitierten, die die Existenz der alten slawischen Götter in der Kiewer Rus belegt. Mich hat diese Nachricht wegen mehrerer Fragen interessiert, die mit ihr verbunden sind: Warum stellte Wladimir die Götzen der heidnischen Götter auf dem Hügel inmitten Kiews auf? Warum gerade diese Götter? Welche Funktionen hatten sie? Warum fehlen hier andere Götter? Auf diese Fragen werde ich in meiner Arbeit zu antworten versuchen, wobei meine grundlegende Voraussetzung die ist, dass ich die Chronikangabe für ein wahrheitsgemäßes Abbild der Wirklichkeit halte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sich ein Bild von den slawischen Göttern und von der slawischen Religion zu machen ist nicht leicht. Die Hauptursache der Schwierigkeit ist der Mangel an ausreichenden Informationen. Die Quellen zur Kenntnis der slawischen Götter können wir in drei Gruppen einteilen:\n \n 1. Schriftquellen und linguistische Analyse.\n 2. Archäologische Funde.\n 3. Ethnografische Aufzeichnungen. \n \n Die Hauptquelle der Kenntnis der slawischen Religion sind die Schriftquellen. Es sind Nachrichten, die meist von christlichen Mönchen und Missionaren oder von arabischen Reisenden bzw. byzantinischen Schriftstellern aufgezeichnet wurden, was ihren Aussagewert erheblich einschränkt. Es haben sich keine Erzählungen über die Entstehung der Welt, der Götter und der Menschen oder anderer mythischer Wesen erhalten, wie es bei anderen Völkern Europas der Fall ist. Die Möglichkeiten der wissenschaftlichen Untersuchung der slawischen Religion sind mit der Situation vergleichbar, die bei den Möglichkeiten der Kenntnis der Religion der Balten oder der kontinentalen Kelten herrscht.\n \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Heiligtum in Most pri Bratislave (Azraelangelo)",
+    "alt": "Heiligtum in Most pri Bratislave (Azraelangelo)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Nachricht über die religiösen Vorstellungen der Slawen führt in seinem Buch Über den Gotenkrieg der byzantinische Historiker Prokopios von Caesarea im 6. Jahrhundert n. Chr. an. Er schreibt über die Verehrung eines einzigen Gottes bei den Slawen - des Herrschers über den Blitz, dem sie Opfer darbringen, einschließlich Vieh.3 Aus dem 10. Jahrhundert (Jahr 922) stammt die Nachricht des arabischen Reisenden Ibn Fadlan, der die Bestattung eines russischen Adligen beschreibt. Konkrete Vorstellungen über das Leben nach dem Tod bei den Slawen und Angaben über Opfer und Tempel auf Höhen hat uns al-Masudi hinterlassen. 4 \n \n Eine Menge an Nachrichten liefern die russischen Quellen des 11. und 12. Jahrhunderts. Eine wichtige Quelle ist die schon angeführte Chronik Povesť vremennych let. Weitere Erwähnungen treten in zahlreichen Traktaten auf, die als Belehrungen der Geistlichkeit im Kampf gegen heidnische Bräuche und Vorstellungen entstanden - Slovo i otkrovenije sv. apostol, Reč filozofa k Vladimírovi Veľkému, Slovo sv. Grigorija Bogoslova, Choždenije Bogorodici und weitere.5 Eine bedeutende Stellung hat das Slovo o pluku Igorovom (Igorlied) - ein Heldenepos vom Ende des 12. Jahrhunderts, in dem einige Details auftreten, die die Angaben der Chroniken ergänzen. \n \n Umfangreich sind auch die Quellen, die über die Religion der westslawischen Stämme informieren. Die älteste von ihnen ist die Chronik Thietmars von Merseburg aus den Jahren 1012- 1018, die Angaben über den Stamm der Liutizen-Redarier und ihr Heiligtum in Rethra liefert. Über Rethra und weitere Orte schreibt in den Jahren 1074 – 1076 auch Adam von Bremen. Weitere Quellen des 12. Jahrhunderts sind die drei Lebensbeschreibungen des Bischofs Otto von Bamberg, geschrieben von Ebo, Herbord und einem Anonymus aus dem Kloster Prüfening, und schließlich die Slawenchronik (Chronica Slavorum) des Bosauer Pfarrers Helmold. Eine Menge an Angaben hat in seiner Geschichte der Dänen der Priester sächsischer Herkunft Saxo Grammaticus festgehalten, und bestimmte Erkenntnisse über die Götter der Ostseeslawen liefert auch eine Quelle nordischer Herkunft - die Knýtlinga saga. 6 \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Maroš Demko : DAS KIEWER PANTHEON",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bruchstücke von Mythen, die durch die mündliche Tradition erhalten geblieben sind, oder den vom Christentum geprägten Volksglauben und die Bräuche kennen wir aus zahlreichen ethnografischen Aufzeichnungen des 18. bis 20. Jahrhunderts. Die dritte Art von Quellen - die archäologischen Funde - ergänzt die vorangehenden Angaben. Die archäologischen Funde, deren Bestand längst nicht so erschöpft ist wie die ethnografischen und linguistischen Aufzeichnungen, stellen die Zukunft neuer Angaben über die slawischen Götter und die slawische Religion dar. Aus dem Mosaik, das aus diesen drei Arten von Quellen zusammengesetzt ist, entsteht ein Bild der slawischen Religion, der Götter und ihrer Funktionen. Belege für die Verbreitung des Kults der einzelnen Götter sind die geografischen Namen, die von den Namen dieser Götter abgeleitet sind. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Perun ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste Gott, der in Wladimirs Verzeichnis angeführt wird, ist Perun. Nur bei ihm ist auch eine Beschreibung seines Idols beigefügt - hölzern, mit silbernem Kopf und goldenem Schnurrbart. Gleichzeitig mit der Aufstellung der Götzen in Kiew schickte Wladimir seinen Onkel Dobrynja nach Nowgorod: “Und Dobrynja kam nach Nowgorod, stellte einen Götzen über dem Fluss Wolchow auf, und die Nowgoroder opferten ihm.”7 Die Vorrangstellung Peruns - als Haupt des Kiewer Pantheons - bestätigen auch weitere schriftliche Nachrichten, in denen er viel häufiger erwähnt wird als andere Götter. Die erste Erwähnung, die sich auf Perun beziehen könnte, stammt aus der Feder des schon oben erwähnten Prokopios aus dem 6. Jahrhundert. Auch wenn Prokopios keinen Namen anführt, meinte er mit größter Wahrscheinlichkeit Perun, obwohl wir auch den Namen eines anderen Gottes nicht ausschließen können - z. B. Rod.8 In der byzantinischen Legende Das Leben des hl. Demetrios von Thessaloniki aus dem 7. Jahrhundert n. Chr. erscheint zum ersten Mal der Name Perun, was die Hypothese unterstützt, dass es sich auch in der Nachricht des Prokopios um denselben Gott handelt.9 Wichtige Nachrichten stammen jedoch unmittelbar aus der Kiewer Rus, wo in der Povesť vremennych let Perun als Garant der byzantinisch-russischen Verträge aus den Jahren 907, 912, 946 und 971 angeführt wird: “ ... i muži jego po Ruskomu zakonu kľašasja oružjem svojim, i Perunom, bogom svojim i Volosom, skotjem bogom”.10 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Götze von Fischerinsel",
+    "alt": "Der Götze von Fischerinsel",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Name Peruns tritt sehr häufig auch in den späteren antiheidnischen Belehrungen der russischen christlichen Literatur auf. Erwähnt wird er auch bei den Westslawen - in der Chronik Helmolds, und ebenso führt Saxo Grammaticus einen Sohn Peruns an - Porenuntius.11 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Perun stellt die Gestalt des Donnergottes dar, der bei allen indoeuropäischen Völkern verbreitet ist (Zeus, Taranis, Thor und weitere). Sein Name wird von der indoeuropäischen Wurzel per(k/g) abgeleitet, was schlagen, treffen, prügeln, peitschen bedeutet.12 Die sprachliche Verwandtschaft mit dem lettischen Perkons, dem litauischen Perkunas und weitere sprachliche Übereinstimmungen (gr. - keraunos, peraunos, ind. - pardžánija, kelt. - hercynia und weitere) weisen auf das hohe Alter dieses Gottes hin. Die Anfänge seines Kults werden schon in der Zeit der baltoslawischen Einheit gesucht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der heilige Baum Peruns war die Eiche, wie darüber auch Konstantin Porphyrogennetos informiert.13 Die Eiche wurde bei der Mehrheit der indoeuropäischen Völker als heiliger Baum verehrt, vor allem in Verbindung mit dem Donnergott. Aus der Toponymie lassen sich Orte der Verehrung Peruns auf Hügeln vermuten, und wahrscheinlich waren ihm ganze Eichenhaine geweiht (Perunova dubrava in Dalmatien, Perunova gora in Polen, Perun gora in Serbien usw.).14 Wie auch aus den Quellen bekannt ist, wurden Perun Tiere geopfert - Vieh, Hähne, Hühner und Pferde, deren Skelette auch bei archäologischen Ausgrabungen gefunden wurden.15 Bekannt sind auch Menschenopfer, von denen die Nachricht aus der Povesť vremennych let zum Jahr 983 spricht.16 Zu den unblutigen Opfern gehörten Gaben von Korn, Brot, Käse, Honig oder Libationen von Milch und Wein, die in den ethnografischen Aufzeichnungen bis in das 19. Jahrhundert belegt sind.17 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Maroš Demko : DAS KIEWER PANTHEON",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen Beleg eines Kultplatzes - eines Opferplatzes - brachten die archäologischen Ausgrabungen in den Jahren 1951 – 52 unter der Leitung von V. V. Sedov. Im Norden der einstigen Kiewer Rus, in der Nähe von Nowgorod, an dem Ort namens Peryn, wurde ein kreisförmiger Graben mit acht Nischen gefunden, in denen ein Feuer zu brennen pflegte und in dessen Zentrum sich eine Grube nach einem Idol befand.18 Zu den Attributen Peruns gehörte die Axt, besonders die “feurige Axt”, die strela (Pfeil) genannt wurde. Amulette in Form einer Axt sind ein häufiger archäologischer Fund des 10. bis 14. Jahrhunderts.19 Die Axt und ihre Verbindung mit der Fruchtbarkeit spielten im Volksglauben der slawischen und baltischen Völker bis in das 20. Jahrhundert eine wichtige Rolle, wie es eine Menge an ethnografischen Aufzeichnungen belegt.20 Nach der Annahme des Christentums ging die Verehrung Peruns auf den heiligen Elias über, der als weißbärtiger Greis dargestellt wird, der auf einem feurigen Wagen über den Himmel fährt.21 Die Transposition des Mythos in eine Heldenerzählung lässt sich in den russischen Bylinen über Ilja Muromez beobachten, der zum Träger der Attribute Peruns wurde.22 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn weitere Nachweise der Verehrung Peruns bekannt sind, denke ich, dass die oben angeführten Belege zur Bestimmung der Funktionen dieses Gottes in der slawischen Religion genügen. Die ursprüngliche Funktion des Donnergottes erweiterte sich über den Gott des befruchtenden Gewitters bis zum Gott der Fruchtbarkeit und der Ernte. In der Zeit der Kiewer Rus - der Zeit Wladimirs - trat die Funktion des Gottes der Krieger in den Vordergrund, und von Wladimir selbst wurde er zum höchsten Gott im staatlichen Kult erhoben. Interessant ist auch der Aspekt des Garanten der Verträge vom Typ Mithras oder des altgermanischen Tyr. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Dažbog ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Schriftquellen begegnen wir Dažbog zum ersten Mal in der Povesť vremennych let, gerade im Zusammenhang mit dem Kiewer Pantheon. In der russischen Übersetzung der Chronik des Malalas wird Dažbog als Sohn Svarogs bezeichnet und mit der Sonne gleichgesetzt.23 Von der Bedeutung dieses Gottes zeugt auch sein Auftreten im Slovo o pluku Igorovom, wo die Russen Enkel Dažbogs genannt werden. Weitere russische Traktate des 11. bis 12. Jahrhunderts, z. B. das Slovo des heiligen Johannes Chrysostomos, sprechen über die Verehrung des Feuers, das Svarožic genannt wird.24 In der Chronik Thietmars von Merseburg ist das hölzerne Heiligtum Riedigost beim Stamm der Redarier beschrieben. Im Inneren stand die Statue Svarožics in militärischer Rüstung.25 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Name Dažbog besteht aus zwei Komponenten - daž und bog. Das Wort bog kann außer der Bedeutung Gott auch die sekundäre Bedeutung Teil, Anteil, reich haben, die mit dem russischen bogat, ubog oder dem vedischen bhaga zusammenhängt.26 Daž ist der Imperativ von dať (geben).27 Nicht auszuschließen ist auch ein Zusammenhang mit der indoeuropäischen Wurzel dag (altindisch dah) = brennen.28 Svarožic ist ein vom Patronym Svarog abgeleiteter Name und bedeutet Sohn Svarogs.29 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Statuen Dažbogs bzw. Svarožics wurden in Kiew und in Rethra- Riedigost erwähnt. Beim Stamm der Redarier wurde Svarožic zum höchsten Stammesgott, der seinen zentralen Tempel in Rethra hatte. Im Zusammenhang mit dem Feuer hat sich eine interessante Erwähnung über die Slawen aus der Feder des arabischen Reisenden Gardizi erhalten: “Alle sind Verehrer des Feuers, sie bauen vor allem Rispenhirse an, und bei der Ernte nehmen sie die Hirse mit Löffeln aus den Gefäßen, erheben [sie] zum Himmel [mit den Worten] ‘o Herr, du, der uns Nahrung gegeben hast, gib uns auch jetzt Fülle.‘ ”30 Das Verhältnis zwischen Feuer und Fruchtbarkeit würde der Funktion Dažbogs als Gott der guten, gütigen Sonne, des Gebers des Lebens entsprechen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ethnografie belegt einen allgemein verbreiteten Feuerkult bei allen slawischen Völkern. Zu den besonderen Weihnachtsbräuchen, die bei den Südslawen erhalten geblieben sind, gehörte das Verbrennen eines Stammes oder eines Astes eines Baumes, der bei den Bulgaren badnik oder mlaď bog, bei den Slowenen božič genannt wird.31 Auch im Gebiet der heutigen Slowakei ist das Anzünden der Johannisfeuer bekannt. Das Vorspiel dieser Feste war die Walpurgisnacht, die ebenfalls mit dem Anzünden von Feuern verbunden war, das die Ernte und das Vieh vor dem Zauber der Hexenmeister schützen sollte.32 Auf dem Balkan kannte man Dabog oder Dajbog, den Geber alles Guten.33 Als Kulttier Dažbogs-Svarožics können wir mit Sicherheit das weiße Pferd bezeichnen (das heilige Orakelpferd Svarožics in Rethra)34, das bei allen Indoeuropäern als solares Symbol gilt. In der russischen Folklore hat sich das Bild des Jarilo (des Frühlingsaspekts des Sonnengottes) erhalten, der auf einem weißen Pferd reitet, in einen weißen Mantel gekleidet, mit einer Krone aus Wiesenblumen.35 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dažbog stellte wahrscheinlich eine Sonnengottheit vom Typ Apollons dar und schloss in sich auch die Funktion eines Gebergottes (deus dator) ein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Chors ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Name Chors erscheint in den Quellen auch in den Formen Chros, Chrs, Chres oder Churs.36 Außer der Povesť vremennych let erwähnen ihn die Apokryphen: Choždenije bogorodici, Slovo i otkrovenije sv. apostol, Beseda trech svjatiteľej und weitere.37 Eine wichtige Erwähnung findet sich im Slovo o pluku Igorovom, wo von dem Fürsten Wseslaw gesprochen wird, der in der Nacht wie ein Wolf von Kiew nach Tmutarakan lief und vor dem Morgengrauen dem “großen Chors” den Weg kreuzte.38 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mehrheit der Wissenschaftler nimmt an, dass Chors iranischen Ursprungs ist, und verbindet ihn mit dem persischen xor, xores, xoršid, was strahlende Sonne bedeutet.39 Einige Forscher, z. B. A. Brückner, leiten seinen Namen vom urslawischen krš = hager ab und weisen auf seine Verbindung mit dem Mond hin.40 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der einzigen Erwähnung in der Povesť vremennych let, die sich gerade auf das Kiewer Pantheon bezieht, existieren keine weiteren Angaben über einen besonderen Kult dieses Gottes. Von der großen Bedeutung der Sonne bei den Slawen erfahren wir aus den ethnografischen Aufzeichnungen. Die solaren Symbole, die die russischen Häuser schmücken, sowie der sog. krasnyj ugol - ein besonderer sakraler Raum im Inneren des Hauses, der mit der Sonne zusammenhängt - zeugen von der großen Bedeutung der Sonne in der russischen Folklore.41 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Konstruktion einiger Forscher, die auf die Verbindung des Chors mit dem Mond hinweisen, widerspricht die geringe Bedeutung, die dem Mond bei den indoeuropäischen Völkern beigemessen wird, und ebenso der Umstand, dass einige altrussische Legenden den Mond als eine schöne junge Frau beschreiben, die die Sonne am Beginn des Sommers heiratet, im Winter verlässt und zu der sie im Frühling zurückkehrt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich neige zu der Ansicht, dass Chors eine Sonnengottheit (einen Sonnengott) darstellte, die mit dem griechischen Helios vergleichbar ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Heiligtum Peryn (Russland)",
+    "alt": "Heiligtum Peryn (Russland)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Stribog ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Stribog tritt in den Schriftquellen, außer der Erwähnung in der Povesť vremennych let zum Jahr 980, nur zweimal auf. In der russischen Übersetzung des Slovo des heiligen Johannes Chrysostomos wird er neben Dažbog und Pereplut erwähnt.42 Die zweite Erwähnung findet sich im Slovo o pluku Igorovom, wo die Winde Enkel Stribogs genannt werden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Etymologie seines Namens ist unklar, und die Ansichten der Forscher sind unterschiedlich. Einige Forscher leiten ihn vom iranischen Sríbagha = schöner Gott ab, was ein Beiname des altpersischen Ahura Mazda war.43 Eine andere Ansicht hat z. B. V. N. Toporov, der ihn von ptribhagos ableitet und dieses noch von dem ursprünglicheren pater dieus, wobei sich ptri zu stri und dieus zu bhagos wandelte. Eine weitere Gruppe von Forschern leitet ihn vom urslawischen streti ab, d. h. erstarren (unter dem Einfluss des eisigen Windes).44 Eine andere Deutung legt Berneker vor - von stroj, striti, was die Funktion eines Verwalters des Guten andeuten würde.45 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Maroš Demko : DAS KIEWER PANTHEON",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der Erwähnung des Idols in Kiew sind keine anderen Nachrichten über den Kult dieses Gottes bekannt. Aus den wenigen Angaben, die wir kennen, können wir über die Funktionen nur auf hypothetischer Ebene sprechen. Da sein Idol in Kiew neben anderen Göttern aufgestellt war, können wir annehmen, dass es sich um einen der höheren Götter handelt. Die Erwähnung im Slovo o pluku Igorovom deutet seinen Zusammenhang mit der Atmosphäre an. Von den etymologischen Theorien erscheint die Theorie Bernekers am wahrscheinlichsten, das heißt die Funktion eines Verwalters des Guten. Darauf könnte auch das Auftreten des Namens Stribog zusammen mit Dažbog im Slovo des heiligen Johannes Chrysostomos hinweisen.46 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Simargl ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den russischen Quellen ist der Name dieses Gottes als Simargl, Semargl, Sejmarekľ belegt, aber das Slovo nekojego christoljubca führt neben Perun und Mokosch zwei Götter an, Sim und Rgl.47 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die etymologischen Erklärungen teilen sich daher in zwei Richtungen. Die erste, die auf dem einteiligen Namen beruht, leitet seinen Ursprung vom iranischen senmurv-símurg ab.48 A. Bruckner deutet auf der Grundlage des Zeugnisses des Slovo nekojego christoľjubca Sim und Rgl als zwei Gottheiten, wahrscheinlich göttliche Zwillinge, Geschwister, und leitet ihre Namen von den slawischen Ausdrücken sem-semja = Familie oder siemenje = Samen ab, Rgl vom urslawischen rež = Roggen oder vom litauischen rugti, dem polnischen rug = Sauerteig, säuern.49 Seine Hypothese belegt er auch mit dem Auftreten polnischer und litauischer geografischer Ortsnamen, die von den Namen dieser Götter abgeleitet sind.50 Bekannt sind auch andere Erklärungen des Namens Simargl. V. Ivanov und V. Toporov sehen in ihm eine siebenköpfige Gottheit “semiglav”.51 Noch spekulativer sind die Hypothesen, dass es sich um eine Verballhornung der Göttinnen Asimat und Ergel (oder Nergal) aus Mesopotamien handelt oder um den griechisch- ägyptischen Sem-Herakles.52 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wieder kennen wir außer dem Idol, das in Kiew stand, keine überprüften Nachrichten oder Funde, die über den Kult dieses Gottes sprechen. Die Theorie über den Kult der göttlichen Zwillinge kann der Fund eines hölzernen Idols von der Fischerinsel im Tollensesee bei Neubrandenburg bestätigen.53 Die große Entfernung zwischen dem Fundort und der schriftlichen Angabe schwächt diese Theorie jedoch. Umgekehrt unterstützt das Auftreten von Darstellungen der mythologischen Motive eines geflügelten Hundes auf silbernen Armringen, Kolty und Diademen des 11 – 13. Jahrhunderts aus dem östlichen Dneprgebiet den iranischen Ursprung Simargls.54 Ähnliche Darstellungen sind aus der späten sasanidischen Zeit (7 – 8. Jahrhundert n. Chr.) aus dem Iran bekannt.55 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der iranische Saena-simurgh ist aus den mazdaistischen Texten als riesiger Vogel bekannt, der auf dem Gipfel des Baumes aller Samen sitzt und durch das Schlagen seiner Flügel den Samen verstreut.56 In Firdausis Buch der Könige tritt der König der Vögel Simurgh auf, der der Schützer des Helden Rustam ist.57 Von der mythologischen Bedeutung des Simurgh im Iran werden auch seine Funktionen in der slawischen Religion abgeleitet. Rybakov hält ihn für den Schützer der Pflanzen und Wurzeln und für den Begleiter der Göttin Mokosch.58 M. Gimbutas leitet seinen Namen von dem sarmatischen höchsten Gott Simarg ab und verbindet ihn mit der Funktion eines Kriegergottes, dessen Verehrung in der slawischen Folklore auf den Adler überging.59 Das Paar Sim und Rgl hält V. Pisani für die Schützer des Viehs (Sim) und des Getreides (Rgl).60 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Mokosch ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die letzte Gottheit, die das Kiewer Pantheon abschließt, war Mokosch. Sie ist somit die einzige weibliche Göttin, die in Wladimirs Verzeichnis der Götter aufgenommen ist. Ihr Name ist auch aus zahlreichen russischen Quellen bekannt, z. B. dem Slovo des heiligen Johannes Chrysostomos, dem Slovo nekojego christoljubca, dem Slovo sv. Grigorija und weiteren.61 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ansichten zur Etymologie ihres Namens sind vielfältig. Der finnische Ursprung aus dem Namen Mokša, Mokš, Moks beim Stamm der Mordwinen, wie Aničkov anführt, erscheint unwahrscheinlich.62 Ebenso schwer annehmbar ist die Verbindung mit dem indischen makha (die Erhabene) oder mokša (Erlösung).63 Am wahrscheinlichsten ist die Ableitung ihres Namens von der slawischen Wurzel mok, mokr = nass, feucht.64 Rybakov führt die Etymologie des Namens Mokosch von koš, kš an, was Los, Schlag, Schicksal bedeutet.65 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der großen Bedeutung des Kults der Mokosch erfahren wir noch im 16. Jahrhundert, als der Priester die Frauen bei der Beichte fragte, ob sie nicht zur Mokosch gegangen seien.66 Die Erinnerung an Mokosch hat sich in der Ukraine und im Norden Russlands in der Volksfolklore bis in das 19. Jahrhundert erhalten.67 Die Menschen stellten sie sich als eine Frau mit großem Kopf und langen Armen vor, die in den Nächten spinnt.68 Nach der Annahme des Christentums ging die Verehrung der Mokosch auf Paraskeva- Pjatnica über, was andeutet, dass der Freitag ein der Göttin geweihter Tag war und mit rituellen Verboten der Frauenarbeit an diesem Tag verbunden war.69 Aus dem Gebiet von Pskow, Nowgorod und Tschernigow sind Ortsnamen wie Makuši, Makušina, Makušovo bekannt, die die Verbreitung ihres Kults belegen.70 Bekannt ist auch der Berg Mokošín in Böhmen.71 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mokosch war wahrscheinlich die Personifikation der feuchten fruchtbaren Erde, die in der russischen Kultur unter dem Namen mať syraja zemlja verwurzelt ist. Eine Analogie zu dieser slawischen Göttin können wir in der iranischen Göttin Anahita finden, deren Beiname Aredvi die Feuchte bedeutete. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine sehr interessante Tatsache ist, dass im Kiewer Pantheon der Gott "
+       },
+       {
+        "type": "text",
+        "text": "Veles",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "- Volos fehlte. Dieser gehörte ebenfalls zu den wichtigen altrussischen Göttern, was auch aus der oben angeführten Nachricht über die Schwüre der Russen beim Abschluss der byzantinisch-russischen Verträge zu sehen ist. Sein Name tritt in zwei Aufzeichnungen auf - zum Jahr 907 und 971, stets mit dem Beiwort skotij bog, d. h. Gott des Viehs. Es ist möglich, dass er als Gott des Schwurs der warjagischen Fürsten skandinavischen Ursprungs ist und etymologisch mit Volsi zusammenhängt (dem heiligen Pferdephallus, der in der nordischen Magie zur Sicherung der Fruchtbarkeit verwendet wurde).72 Spuren seines Kults können wir jedoch auch bei den übrigen slawischen Völkern in Ortsnamen sowie in Volkssprüchen und Liedern finden.73 Daher ist sein Zusammenhang mit dem litauischen Velinas, Vels wahrscheinlicher - mit Termini, die mit dem Tod verbunden sind (vele = Schatten des Todes, velines = Tage des Todes).74 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Volksreligion kann ein Gott des Todes oft chthonische Konnotationen mit dem Reichtum erlangen und so auch die Funktionen eines Gebers und Schützers im Reichtum einschließen. In der christlichen Ära wurde Veles mit dem heiligen Vlasij (Blasius) identifiziert, gerade dank der byzantinischen Verehrung des heiligen Blasius als Schützers der Herden.75 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Slovo o pluku Igorovom wird der Sänger Bojan als Enkel des Veles bezeichnet. Das enthüllt uns den tieferen prophetischen Charakter des Veles, und Veles nimmt so einige Züge an, die mit Odin übereinstimmen.76 So könnten wir bestimmte skandinavische Einflüsse auf die slawische Religion zulassen, und vielleicht hat sich gerade durch diese Einflüsse die Form Volos anstelle des ursprünglicheren Veles verbreitet.77 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die Verehrung des Veles lassen sich noch viele anführen (Statuetten phallischer Form, zahlreiche ethnografische Aufzeichnungen), das ist jedoch nicht mein Ziel. Die angeführten Angaben genügen zur Bestimmung der Funktionen des Veles in der altrussischen Religion. Veles stellte einen alten slawischen Gott des Todes oder der Unterwelt dar. Durch die Entwicklung des Volksglaubens erlangte er die Züge eines Gebers und Schützers des Reichtums, und im warjagischen Substrat konnte er zu einer Interpretation Odins werden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Kiewer Pantheon fehlen auch weitere bedeutende altrussische Gottheiten (Rod und die rožanice, Svarog). Ihre Abwesenheit zu erklären und zu versuchen, auf die in der Einleitung der Arbeit gestellten Fragen zu antworten, wird den Schluss meiner Arbeit bilden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schluss ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor allem muss man im Gedächtnis behalten, dass der Inhalt der religiösen Vorstellungen und Bräuche irgendeiner Religion in ständiger Entwicklung ist und dass eine Nachricht, die sich auf eine bestimmte Zeit bezieht, nur den momentanen Zustand der gegebenen Religion erfasst. Daher ist es notwendig, die Aufmerksamkeit auf die historischen Zusammenhänge zu richten, die sich auf die Zeit der Herrschaft Wladimirs in der Kiewer Rus beziehen, und auf die historische Situation selbst in dieser Zeit. Die Kiewer Rus stellte zu dieser Zeit bereits einen entwickelten feudalen Staat mit fortgeschrittener gesellschaftlicher Hierarchie dar. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Beginn der Herrschaft Wladimirs fällt, wie wir in der Einleitung sehen können, in die Zeit des beginnenden Zerfalls der Geschlossenheit der fürstlichen Macht. Das war wahrscheinlich die Ursache, weshalb Wladimir sich bemühte, zur Stützung der zentralisierten Macht eine einheitliche Ideologie in Form einer staatlichen heidnischen Religion einzuführen. Möglicherweise hat gerade der Misserfolg dieses Versuchs Wladimir im Jahr 988 zur Annahme des Christentums geführt. Dass es sich um einen Versuch der Einführung eines staatlichen Kults handelte, ist auch daran ersichtlich, dass die neuen Idole nicht auf einem Hügel in der Nähe Kiews aufgestellt wurden (wie die Statue Peruns unter Igor), sondern unmittelbar im Zentrum der Stadt in der Nähe des Fürstenpalastes.78 Die gesamtstaatlichen Zeremonien und Opfer waren eine Gelegenheit für die Zusammenkünfte der Bojaren - der Gefolgschaft Wladimirs -, bei denen politische Fragen behandelt wurden.79 Die Schaffung dieses staatlichen Pantheons der Götter war also von der Funktion beeinflusst, die es erfüllen sollte. Die ausgewählten Götter mussten die religiösen Bedürfnisse eines breiten Spektrums von Menschen befriedigen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Perun war für die hohen Schichten der Bojaren geeignet und ebenso für die warjagischen Abteilungen von Kriegern, die ihn mit Thor gleichsetzten. Seine Beliebtheit auch bei der übrigen slawischen Bevölkerung ermöglichte es Wladimir, gerade diesen Gott an die höchste Stelle zu setzen. Dažbog, Chors und höchstwahrscheinlich auch Stribog stellten die uranische Sphäre des Pantheons dar und Mokosch wiederum den chthonischen Teil. Simargl konnte im Zusammenhang mit der Fruchtbarkeit zu Mokosch gehören oder in der Funktion eines Kriegergottes zu Perun. Möglich ist auch ein Verschmelzen dieser beiden Aspekte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gleichzeitig können wir die Beziehungen der einzelnen Götter zur geografischen Verbreitung beobachten. Perun als höchster Gott war nicht nur für die warjagischen Krieger geeignet, sondern auch für die benachbarten baltischen Stämme (Perkunas). Chors und Simargl haben wegen ihres Ursprungs aus dem Iran Beziehungen zu den südlichen Gebieten. Die Existenz übereinstimmender Züge mit der Religion der nördlichen finnischen Stämme beweist die Göttin Mokosch. Zu einer gegenseitigen Beeinflussung konnte es von der einen oder der anderen Seite kommen. Eine stärkere Ausrichtung auf die topografische Untersuchung des Auftretens der einzelnen Namen würde erheblich helfen, diese Frage zu klären. Alle Gottheiten hängen irgendwie mit der Fruchtbarkeit und dem Guten zusammen, was wir so interpretieren können, dass sie Fülle und Wohlstand für den ganzen Staat bringen sollten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was das Fehlen weiterer Götter in Wladimirs Verzeichnis betrifft, lässt sich dies durch den Verfall der Bedeutung einiger Götter erklären. Svarog, der als Vater Dažbogs bezeichnet wird, stellte wahrscheinlich in früherer Zeit die höchste uranische Gottheit dar - den Schöpfergott. Seine Funktion übernahm in späterer Zeit Dažbog, und Svarog geriet in den Hintergrund, in die Position eines dea otiosa. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenso stellten Rod und die rožanice eine altertümliche Gottheit dar. Rod hängt etymologisch mit roditi zusammen und könnte den Gott als Erzeuger aller Dinge, der Götter und der Menschen darstellen. Durch die allmähliche Entwicklung geriet er jedoch in die gleiche Position wie Svarog.80 Beide verdrängte Perun aus der führenden Stellung, dessen Funktion eines Kriegergottes in der historischen Entwicklung wesentlicher wurde. Ihr Kult blieb nur im Volksglauben und in den Bräuchen erhalten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist interessant, dass etwa zur gleichen Zeit bei den westslawischen Stämmen der Kult Peruns nicht so bedeutend war wie in Russland und dass auch er im Westen wahrscheinlich in die Position eines dea otiosa geriet. Daher können wir über den Einfluss der warjagischen Krieger nachdenken, die Thor verehrten und die im slawischen Milieu seinen Kult auf Perun übertrugen, und so erhielt sich seine hohe Stellung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Fehlen des Veles zu erklären ist ein schwierigeres Problem. Sein Auftreten bei den Friedensverträgen weist auf die Bedeutung seines Kults in jenen Zeiten hin. In Kiew stand zur Zeit Wladimirs sogar eine Statue des Veles, und Wladimir ließ sie nach der Annahme des Christentums in den Fluss Potschajna werfen.81 Möglicherweise stand seine Statue gerade wegen seiner Verbindung mit der Unterwelt nicht auf dem Hügel, sondern in Podol in der Nähe des Flusses.82 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Verfolgung der mit dem Kiewer Pantheon verbundenen Probleme bin ich auf einige weitere Fragen gestoßen, die mit der slawischen Religion verbunden sind, z. B. welche fremden Einflüsse bei der Formierung der religiösen Vorstellungen im Kult der einzelnen Götter zu einer bestimmten Zeit zu erkennen sind? Ich kläre diese Fragen nur so weit, wie es für die Erfüllung der in der Einleitung gestellten Aufgaben notwendig war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Nachricht aus der Povesť vremennych let über das Kiewer Pantheon ist mit dem Versuch Wladimirs verbunden, einen staatlichen Kult der heidnischen Götter einzurichten, wobei er in sein Pantheon Gottheiten auswählte, die für eine gesamtstaatliche vereinigende Ideologie geeignet waren. Es ist daher notwendig, diesen staatlichen Kult vom Volksglauben und von den Bräuchen zu unterscheiden. Die kurze Zeit seiner Existenz und daher der Mangel an Angaben über ihn machen es unmöglich, mehr konkrete Angaben über diesen staatlichen Kult festzustellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Mgr. Maroš Demko "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Verweise auf die verwendete Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

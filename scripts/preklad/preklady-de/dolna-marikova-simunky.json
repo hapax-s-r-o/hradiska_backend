@@ -1,0 +1,954 @@
+{
+ "slug": "dolna-marikova-simunky",
+ "data": {
+  "title": "Dolná Mariková – Šimunky, ein Burgwall auf weißen Felsen über dem Tal von Mariková",
+  "slug": "dolna-marikova-simunky-burgwall-auf-weissen-felsen",
+  "excerpt": "Etwa 1,5 km nordwestlich von Dolná Mariková liegen mehrere felsige Kalksteinausläufer aus weißen Dolomiten, die aus dem Dorf weithin über den Bäumen zu sehen sind. Auf dem breitesten von ihnen, der Široká, errichteten unsere Vorfahren einen hervorragend geschützten Burgwall. Er bewachte wohl einen alten Weg aus dem Waagtal nach Mähren; die große Menge altungarischer Pfeilspitzen zeigt, dass seine Verteidiger zu Beginn des 10. Jahrhunderts bis zum Ende kämpften.",
+  "metaTitle": "Dolná Mariková – Šimunky, Burgwall auf weißen Felsen",
+  "metaDescription": "Der Burgwall Šimunky auf weißen Dolomitfelsen nordwestlich von Dolná Mariková wurde zu Beginn des 10. Jahrhunderts von den Altungarn zerstört.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "1,5 km nordwestlich von Dolná Mariková, auf dem Felsen Široká (12–15 m hoch), dem nördlichen Abschluss des Grates der Michalová (601 m ü. M.)",
+    "icon": "map"
+   },
+   {
+    "label": "Geologie",
+    "value": "Die Felsklippen bestehen aus weißen Dolomiten des Mesozoikums (Trias und Kreide)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Erhalten ist nur ein zerfallener Stein-Erde-Wall im südlichen Teil, sonst schützten den Burgwall natürliche senkrechte Felswände",
+    "icon": "shield"
+   },
+   {
+    "label": "Luxuriösester Fund",
+    "value": "Vergoldeter gombíkartiger Anhänger mit getriebener Verzierung in Pflanzenornament aus der Zeit Großmährens",
+    "icon": "star"
+   },
+   {
+    "label": "Schmiedewerkstatt",
+    "value": "Funde von Eisenschlacke belegen eine Eisenverarbeitung direkt auf dem Burgwall",
+    "icon": "building"
+   },
+   {
+    "label": "Erste schriftliche Erwähnung",
+    "value": "Die älteste bekannte Erwähnung der Lage stammt aus der Gemeindechronik von Mariková aus dem Jahr 1941",
+    "icon": "book"
+   },
+   {
+    "label": "Besiedlung in vier Perioden",
+    "value": "Der Burgwall war in der Zeit des Äneolithikums, der Púchov-Kultur, Großmährens (Slawen) und des Spätmittelalters besiedelt",
+    "icon": "custom"
+   },
+   {
+    "label": "Untergang des Burgwalls",
+    "value": "Den Burgwall zerstörten zu Beginn des 10. Jahrhunderts die Altungarn; es ist offenbar der nördlichste von ihnen zerstörte Burgwall in der Slowakei",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "30er Jahre des 19. Jahrhunderts",
+    "title": "Erste schriftliche Erwähnung des Namens Dedkovec",
+    "description": "Die 2. militärische Landesaufnahme Ungarns verzeichnete als erste den Namen Dedkovec in der Form Djetkowetz.",
+    "type": "event"
+   },
+   {
+    "year": "1941",
+    "title": "Älteste Erwähnung der Besiedlung in der Gemeindechronik",
+    "description": "Die Gemeindechronik von Mariková hielt die älteste bekannte schriftliche Erwähnung der Lage Šimunky/Dedkov im Zusammenhang mit ihrer uralten Besiedlung fest.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 9. bis Beginn des 10. Jahrhunderts",
+    "title": "Die Zeit Großmährens auf dem Burgwall",
+    "description": "Auf dem Burgwall hielt sich eine größere Menge von Kriegern mit Pferden sowie eine zivile Bevölkerung auf; aus dieser Zeit stammen die meisten Funde, darunter Sporen, Eisenbarren, landwirtschaftliches Gerät und Spuren einer Schmiedewerkstatt.",
+    "type": "era"
+   },
+   {
+    "year": "Beginn des 10. Jahrhunderts",
+    "title": "Untergang des Burgwalls beim Angriff der Altungarn",
+    "description": "Die Stämme der Altungarn führten einen sehr intensiven Angriff auf den Burgwall; die Verteidiger unterwarfen sich nicht und kämpften bis zum Ende, der Burgwall wurde gewaltsam zerstört. Es ist offenbar der nördlichste Burgwall in der Slowakei, den die Altungarn zerstörten.",
+    "type": "destruction"
+   },
+   {
+    "year": "70er Jahre des 20. Jahrhunderts",
+    "title": "Erste archäologische Funde",
+    "description": "Štefan Meliš fand am nördlichen Fuß der Felsklippen einige Scherben der Púchov-Kultur.",
+    "type": "discovery"
+   },
+   {
+    "year": "90er Jahre des 20. Jahrhunderts",
+    "title": "Zufallsfund von Eisenbarren",
+    "description": "Gašpar Zemančík, Mitglied des archäologischen Zirkels in Považská Bystrica, entdeckte auf dem Felsen Široká zufällig einige aus der Erde herausragende Eisenbarren.",
+    "type": "discovery"
+   },
+   {
+    "year": "1997–2000",
+    "title": "Untersuchungen des archäologischen Zirkels",
+    "description": "Unter der Leitung des Archäologen Jozef Moravčík fanden mehrere Untersuchungen statt, bei denen von der Fundstelle eine bemerkenswert große Menge überwiegend eiserner Gegenstände aus der Zeit Großmährens gewonnen wurde.",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Erscheinen des Buches Po stopách predkov",
+    "description": "Olšovský, Meliš und Moravčík veröffentlichten den Bericht über die Untersuchung sowie alle Funde in dem Buch Po stopách predkov.",
+    "type": "event"
+   },
+   {
+    "year": "nach 2008",
+    "title": "Raubgräberei an der Fundstelle durch Sondengänger",
+    "description": "In der Umgebung des Burgwalls traten Spuren einer illegalen Raubgräberei an der Fundstelle durch Sondengänger auf; für das Trenčiner Museum gelang es dennoch, ein interessantes Ensemble von Detektorfunden zu gewinnen.",
+    "type": "event"
+   },
+   {
+    "year": "2016",
+    "title": "Archäologische Rettungsgrabung",
+    "description": "Der Bürgerverein Hradiská veranstaltete zusammen mit dem Trenčiner Museum in Trenčín eine archäologische Rettungsgrabung, bei der der Burgwall von wild aufgewachsenen Gehölzen gereinigt und ein Schnitt ausgegraben wurde; gefunden wurden unter anderem zwei Hacken und ein Schlüssel aus der Zeit Großmährens.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6404,
+    "alt": "Zeichnung des Burgwalls mit Palisade auf einem felsigen Hügel und mit Häusern im Suburbium"
+   },
+   {
+    "mediaId": 3125,
+    "alt": "LiDAR-Schummerungsrelief mit rot eingezeichnetem Umriss des Burgwalls"
+   },
+   {
+    "mediaId": 3126,
+    "caption": "Der Burgwall Široká",
+    "alt": "Der Burgwall Široká"
+   },
+   {
+    "mediaId": 3127,
+    "caption": "Aussicht vom Burgwall",
+    "alt": "Aussicht vom Burgwall"
+   },
+   {
+    "mediaId": 3128,
+    "caption": "Einfache Skizze der Hauptburg des Burgwalls (Orgoň)",
+    "alt": "Einfache Skizze der Hauptburg des Burgwalls (Orgoň)"
+   },
+   {
+    "mediaId": 3130,
+    "caption": "Versuch einer Visualisierung der Hauptburg (Haden Sutton)",
+    "alt": "Versuch einer Visualisierung der Hauptburg (Haden Sutton)"
+   },
+   {
+    "mediaId": 3132,
+    "caption": "Blick auf den Burgwall aus der Vogelperspektive",
+    "alt": "Blick auf den Burgwall aus der Vogelperspektive"
+   },
+   {
+    "mediaId": 3134,
+    "caption": "Die Kartenskizze der Široká von Martin Olšovský erfasst die Form und die Morphologie der Hauptburg des Burgwalls und zeigt auch den Steinwall, der die Hauptburg von den übrigen Teilen des Burgwalls trennte",
+    "alt": "Die Kartenskizze der Široká von Martin Olšovský erfasst die Form und die Morphologie der Hauptburg des Burgwalls und zeigt auch den Steinwall, der die Hauptburg von den übrigen Teilen des Burgwalls trennte"
+   },
+   {
+    "mediaId": 3136,
+    "caption": "Detkovec auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Detkovec auf der Karte der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 3138,
+    "caption": "Funde, die J. Moravčík im Jahr 2000 publizierte",
+    "alt": "Funde, die J. Moravčík im Jahr 2000 publizierte"
+   },
+   {
+    "mediaId": 3140,
+    "caption": "Trensenknebel (Großmähren)",
+    "alt": "Trensenknebel (Großmähren)"
+   },
+   {
+    "mediaId": 3142,
+    "alt": "Winterpanorama des bewaldeten Grates mit einem gelben Pfeil auf die Lage des Burgwalls"
+   },
+   {
+    "mediaId": 3144,
+    "alt": "Ensemble großmährischer Funde: Lanzen- und Pfeilspitzen, ein Messer und Anhänger"
+   },
+   {
+    "mediaId": 3146,
+    "alt": "Tafel mit Zeichnungen der Funde aus Dolná Mariková, in neun Gruppen gegliedert"
+   },
+   {
+    "mediaId": 3148,
+    "alt": "Eiserne Säge, Messer und Sichel aus der großmährischen Zeit"
+   },
+   {
+    "mediaId": 3150,
+    "alt": "Zwei eiserne kreuzförmige Beschläge eines Pferdehalfters"
+   },
+   {
+    "mediaId": 3152,
+    "alt": "Eiserne Sicheln, ein Feuerstahl, ein Schlüssel und Nägel auf grünem Untergrund mit Maßstab"
+   },
+   {
+    "mediaId": 3154,
+    "caption": "Schlüssel von einem slawischen Haus",
+    "alt": "Schlüssel von einem slawischen Haus"
+   },
+   {
+    "mediaId": 3156,
+    "caption": "Bronzeanhänger",
+    "alt": "Bronzeanhänger"
+   },
+   {
+    "mediaId": 3158,
+    "caption": "Pfeilspitze",
+    "alt": "Pfeilspitze"
+   },
+   {
+    "mediaId": 3160,
+    "alt": "Archäologen bei der Arbeit im Schnitt auf der Kuppe des Burgwalls zwischen Buchen"
+   },
+   {
+    "mediaId": 3162,
+    "alt": "Detail der steinigen Schicht im Schnitt mit einem eisernen Gegenstand in situ"
+   },
+   {
+    "mediaId": 3164,
+    "caption": "Hacke aus der Zeit Großmährens",
+    "alt": "Hacke aus der Zeit Großmährens"
+   },
+   {
+    "mediaId": 3166,
+    "caption": "Eine weitere Pfeilspitze",
+    "alt": "Eine weitere Pfeilspitze"
+   },
+   {
+    "mediaId": 3168,
+    "caption": "Typische keltische Keramik",
+    "alt": "Typische keltische Keramik"
+   },
+   {
+    "mediaId": 3170,
+    "caption": "Mittelalterliche Keramik mit waagerechten Rillen kann in das 12.–13. Jahrhundert datiert werden (in die Zeit des Tatareneinfalls)",
+    "alt": "Mittelalterliche Keramik mit waagerechten Rillen kann in das 12.–13. Jahrhundert datiert werden (in die Zeit des Tatareneinfalls)"
+   },
+   {
+    "mediaId": 3172,
+    "caption": "Pfeile von den Šimunky (Pieta 2016)",
+    "alt": "Pfeile von den Šimunky (Pieta 2016)"
+   },
+   {
+    "mediaId": 3174,
+    "caption": "Angriff der Altungarn auf den Burgwall (Museum Hlohovec)",
+    "alt": "Angriff der Altungarn auf den Burgwall (Museum Hlohovec)"
+   },
+   {
+    "mediaId": 3176,
+    "caption": "Blick auf den Steinwall, der die Hauptburg vom unteren Teil des Burgwalls trennt",
+    "alt": "Blick auf den Steinwall, der die Hauptburg vom unteren Teil des Burgwalls trennt"
+   },
+   {
+    "mediaId": 3178,
+    "caption": "Noch ein Blick auf den zerfallenen Wall",
+    "alt": "Noch ein Blick auf den zerfallenen Wall"
+   },
+   {
+    "mediaId": 3180,
+    "caption": "Eine der markanten Geländekanten im unteren Teil des möglichen Burgwalls",
+    "alt": "Eine der markanten Geländekanten im unteren Teil des möglichen Burgwalls"
+   },
+   {
+    "mediaId": 3182,
+    "alt": "Blick vom Felsen des Burgwalls in das bewaldete Tal"
+   },
+   {
+    "mediaId": 3184,
+    "caption": "Der Grat, der den Rand des Burgwalls begrenzt und zur Michalova skala führt",
+    "alt": "Der Grat, der den Rand des Burgwalls begrenzt und zur Michalova skala führt"
+   },
+   {
+    "mediaId": 3186,
+    "caption": "Unsere Tafel",
+    "alt": "Unsere Tafel"
+   },
+   {
+    "mediaId": 3188,
+    "alt": "Informationstafel mit Text, einer Zeichnung des Burgwalls im 9. Jahrhundert und der Darstellung der Funde"
+   },
+   {
+    "mediaId": 3190,
+    "alt": "Verschneiter Wald auf der Hauptburg des Burgwalls im Nebel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wo liegen sie?",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Etwa 1,5 km nordwestlich der Gemeinde Dolná Mariková liegen mehrere spornartige felsige Kalksteinausläufer aus weißen Dolomiten des Mesozoikums (Trias und Kreide), die aus manchen Teilen des Dorfes auch gut als markanter weißer Felsen zu sehen sind, der im oberen Drittel der Michalová über die Bäume hinauswächst. Der markanteste und breiteste dieser felsigen Kalksteinklippen ist etwa 12–15 Meter hoch und heißt Široká. Er bildet den nördlichen Abschluss des Grates des Berges Michalová (601 m ü. M.), etwa 250 m über dem Tal des Marikovský-Bachs, an seinem rechten Ufer. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Dolná Mariková – Šimunky",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Felsen Široká errichteten unsere Vorfahren einen hervorragend geschützten Burgwall. Außer dem Felsen Široká selbst war jedoch auch seine unmittelbare Umgebung besiedelt, die von den übrigen genannten Felsklippen und dem Raum zwischen ihnen gebildet wird. Insgesamt heißen die Felsen und ihre Umgebung, und damit auch die ganze Fundstelle, Šimunky oder auch Dedkovec. Auf diesen bezeichnenden Namen kommen wir noch zurück. Der Zugang zu dieser sowohl aus naturkundlicher und geologischer als auch aus archäologischer Sicht interessanten Fundstelle ist auf zwei Weisen möglich. Entweder können Sie vom Ortsteil Kalužov aufbrechen, wo gegenüber der Firma Elstrote ein Traktorweg steil anzusteigen beginnt, der über den jüdischen Friedhof bis zu den Felsen von Šimunky zieht. Die zweite, im Anstieg weniger anspruchsvolle Möglichkeit ist, in Richtung des Ortsteils Kátlina zu gehen, wo man etwa 200 Meter nach der Abzweigung nach Kátlina über die Brücke über den Bach nach links abbiegen und auf der Asphaltstraße mit dem Auto oder zu Fuß etwa 700 Meter weitergehen muss; an der Stelle, wo auf diese Asphaltstraße von der linken Seite ein Feldweg (bzw. Traktorweg) mündet, muss man auf diesen Weg abbiegen (nun nur noch zu Fuß), und dieser führt Sie nach etwa 400 Metern direkt zu den Šimunky. Unterhalb des Felsens finden Sie einen Unterstand mit Tisch und Bänken, eine Feuerstelle und unsere historisch erste Informationstafel. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Beschreibung des Burgwalls",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall Široká",
+    "alt": "Der Burgwall Široká",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Felsen Široká selbst, der eine Art „Hauptburg“ der Befestigung bildet, hat eine längliche Form, wobei seine Morphologie relativ kompliziert ist. Etwa die Hälfte der Fläche, die ganz von senkrechten Felsen gesäumt ist, ist relativ eben und für eine Besiedlung außerordentlich geeignet. Der Archäologe Juraj Malec führt an, dass „eine übersichtliche Kontrolle über das Tal eine bis auf die Ausnahme der Südseite nahezu rundum reichende Aussicht ermöglichte“. Dieser Teil endet etwa in der Mitte des Grundrisses des Felsens mit einer markanten Erhebung, hinter der er wieder deutlich in einen kleinen Kessel links und einen zweiten rechts abfällt, der mit einem heute bereits zerfallenen Steinwall endet. Im Raum links wurden einige Gegenstände gefunden, und der Raum ermöglichte mit seinen Abmessungen die Errichtung eines größeren Hauses. Rechts hinter dem Wall ist ebenfalls ein ausreichend großer Raum für eine Behausung. Hinter diesen kleinen Schluchten steigt das Gelände steil zum Felsgrat an, der den höchsten Teil des Burgwalls bildet. Auf ihm befindet sich eine sehr schmale und kleine Fläche, die den Bau von Wohnobjekten nicht ermöglichte. Dennoch wurde gerade in diesem Teil des Burgwalls eine große Menge metallener Gegenstände gefunden. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "krhxgQ2x0Qk",
+    "url": "https://www.youtube.com/embed/krhxgQ2x0Qk",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage auf einem Felsplateau von länglicher Form und die Anbindung an das umgebende Gelände geben der Fundstelle den Charakter eines Burgwalls, den man nicht allzu stark befestigen musste. Der Felsen ist nämlich fast von allen Seiten natürlich durch hohe und senkrechte Felswände geschützt, die es dem Feind in der Vergangenheit schon von sich aus unmöglich machten, einen wirkungsvollen Angriff zu führen. Deshalb finden wir Spuren einer Befestigung in Form eines zerfallenen Stein-Erde-Walls nur im südlichen Teil. Der Wall bildete den Übergang zwischen der zentralen ovalen Fläche und dem schmalen Grat, der sich im Bogen zum südlich gelegenen Berg Michalová zieht. Er schützte den schon genannten kleinen Kessel (eine Art Eingangsteil der Befestigung) mit Abmessungen von etwa 8 × 10 m innerhalb des Areals des Burgwalls. Den Zugang zum Burgwall vermute ich links vom Steinwall, einen Beleg dafür in Form eines sichtbaren Tores gibt es jedoch nicht. Man kann annehmen, dass die Befestigung auf dem restlichen Umfang (also an den Rändern der Felswände) nur eine hölzerne Palisade oder vielleicht sogar nur ein Zaun bildete. Spuren von ihnen und auch Spuren eines hölzernen Tores lassen sich nicht mehr finden. In südlicher Richtung von der Fundstelle verlaufen parallel mehrere Terrassen von 10–15 m Breite. Eine von ihnen schließt als markante Geländekante an den genannten Stein-Erde-Wall an. Sollte sich bestätigen, dass es sich um einen Teil der Befestigung des Burgwalls handelt, dann ließe sich annehmen, dass das Areal mindestens die doppelte Fläche hatte und sein südlicher Rand bis zu der weiteren Felswand reichte, die den Hang der Michalová teilt und Michalova skala heißt. In der Umgebung des Burgwalls, an seinem westlichen und östlichen Fuß, befinden sich einige relativ ergiebige Wasserquellen – Brünnlein –, die den Bewohnern dienten und die ebenfalls darauf hindeuten, dass es sinnvoll war, die Befestigung außer der Hauptburg selbst auch auf den angrenzenden Hang auszudehnen, und zwar so, dass sich in ihrem Inneren ein Brünnlein befand, das so den Verteidigern im Fall einer Belagerung dienen konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Aussicht vom Burgwall",
+    "alt": "Aussicht vom Burgwall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie schon oben angeführt wurde, benutzte man für die Fundstelle außer dem Namen Šimunky vor allem in der Vergangenheit den Namen "
+       },
+       {
+        "type": "text",
+        "text": "Dedkovec",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Erstmals führt ihn die 2. militärische Landesaufnahme Ungarns aus den dreißiger Jahren des 19. Jahrhunderts in der Form Djetkowetz an. Später verschob er sich offenbar durch einen Fehler der Kartografie auf den benachbarten Berg. Wie "
+       },
+       {
+        "type": "link",
+        "url": "http://www.hradiska.sk/2010/11/dolna-marikova.html#comment-form",
+        "children": [
+         {
+          "type": "text",
+          "text": "der Archäologe Robert Majsky anführt"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", „"
+       },
+       {
+        "type": "text",
+        "text": "verweist der Name Dedkovec auf die sogenannten dedkovia, niedere chthonische Gottheiten der slawischen Mythologie, die die Seelen der verstorbenen Vorfahren darstellten. Die spätere Bevölkerung bewahrte damit im historischen Gedächtnis die Information, dass hier einst ihre Vorfahren lebten. Der Name hat deshalb eindeutig mittelalterlichen Ursprung.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "“ Weiter führt er an: „"
+       },
+       {
+        "type": "text",
+        "text": "Im Lauf der Zeit kommt es zu einer Verwirrung der Informationen, so wie die Einzelheiten des in narrativer Form weitergegebenen historischen Gedächtnisses allmählich verfliegen. Auf der Karte der 2. militärischen Landesaufnahme der habsburgischen Länder … ist die Bezeichnung Dedkovec in der Form Djetkowetz in die Mitte des Berges Michalová gesetzt, was auch heute die allgemeine Benennung des Berges ist. Jene Vorfahren wussten in früheren Zeiten, dass auf dem Berg ihre Vorfahren ihre Sitze hatten. Denn die dedkovia sind eigentlich die Seelen der Toten, die im slawischen religiösen Pantheon die Funktion von Schützern der Wohnstätten hatten. Nach Kosmas schleppte man sie in Form hölzerner Statuen auch bei Bevölkerungsverschiebungen mit sich. Der gleiche Fall ist auch die Bezeichnung der Lage Dedovec in Považská Bystrica. Heute bezieht sich diese Benennung auf die hangartige Lage über der slawischen Siedlung, wo eine Bebauung mit Einfamilienhäusern steht. Aber noch in den 50er Jahren knüpfte sie direkt an den Raum der Fundstelle an",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ".“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Einfache Skizze der Hauptburg des Burgwalls (Orgoň)",
+    "alt": "Einfache Skizze der Hauptburg des Burgwalls (Orgoň)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist anzuführen, dass die Fundstelle in der Fachliteratur zwar erstmals Pater Povala unter dem ursprünglichen historischen Namen Dedková nennt, wenn er schreibt: „Die Funde von Äxtchen stimmen mit den Denkmälern und der kannelierten Keramik aus dem Äneolithikum überein, die von der Höhensiedlung Dedková im Tal von Mariková stammt“. Die bisher älteste bekannte schriftliche Erwähnung der Lage Šimunky/Dedkov im Zusammenhang mit ihrer uralten Besiedlung stammt jedoch aus der Gemeindechronik von Mariková und ist in das Jahr 1941 datiert. In dem genannten Jahr schrieb der Chronist diesen Eintrag nieder: „Kátlina – die Kátliner Rodungssiedlungen sind überhaupt die ältesten Rodungssiedlungen von Mariková, an deren Stelle einst die Gemeinde Mariková selbst stand. Belege dafür sind: die alte Mühle auf den ‚Šimunky‘, in der Nähe ‚Žiarec‘ und die auf den gegenüberliegenden Bergen errichtete älteste Rodungssiedlung, wo an einer Stelle ein Acker liegt, genannt ‚beim Friedhof‘.“ Auch aus dem genannten Eintrag ist ganz offensichtlich, dass die Fundstelle im Gedächtnis des Volkes stets als der älteste Teil von Mariková blieb, was angesichts ihrer Besiedlung in der Zeit des Frühmittelalters wirklich bemerkenswert ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Versuch einer Visualisierung der Hauptburg (Haden Sutton)",
+    "alt": "Versuch einer Visualisierung der Hauptburg (Haden Sutton)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Archäologische Prospektionen",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten archäologischen Funde auf den Šimunky entdeckte in den 70er Jahren "
+       },
+       {
+        "type": "text",
+        "text": "Štefan Meliš",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", der damals am nördlichen Fuß der Felsklippen einige Scherben der Púchov-Kultur fand. Zu einer Untersuchung der Fundstelle führte dieser Fund jedoch nicht. Erst später entdeckte ein Mitglied des archäologischen Zirkels in Považská Bystrica, "
+       },
+       {
+        "type": "text",
+        "text": "Gašpar Zemančík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", in den 90er Jahren des 20. Jahrhunderts auf dem Felsen Široká zufällig einige eiserne Gegenstände (Eisenbarren), die aus der Erde herausragten. Über diesen Fund informierte er Štefan Meliš und die übrigen Mitglieder, und in den Jahren 1997–2000 wurden daraufhin auf dem Fundplatz mehrere Untersuchungen des genannten Zirkels unter der Leitung des Archäologen "
+       },
+       {
+        "type": "text",
+        "text": "Jozef Moravčík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " durchgeführt. Während dieser Untersuchung gelang es, von der Fundstelle eine bemerkenswert große Menge überwiegend eiserner Gegenstände aus der Zeit Großmährens zu gewinnen. Unter den Gegenständen befanden sich unter anderem einige typische "
+       },
+       {
+        "type": "text",
+        "text": "Reitersporen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus der zweiten Hälfte des 9. / dem Beginn des 10. Jahrhunderts, "
+       },
+       {
+        "type": "text",
+        "text": "axtförmige Eisenbarren, ein Sech, ein Pflug, eine kleine Säge, eine Sichel, Sensen, Teile des Pferdegeschirrs (z. B. ein kreuzförmiger Beschlag eines Pferdehalfters), eine Menge eiserner Teile von Eimerchen, ein Schlüssel, Messerchen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und eine Menge weiterer Gegenstände, von denen der luxuriöseste "
+       },
+       {
+        "type": "text",
+        "text": "ein vergoldeter gombíkartiger Anhänger",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit getriebener Verzierung in Pflanzenornament ist. Ebenfalls fand man hier Spuren einer Eisenverarbeitung (Eisenschlacke), was auf die Existenz einer "
+       },
+       {
+        "type": "text",
+        "text": "Schmiedewerkstatt hinweist.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Unter den eisernen Gegenständen dominiert jedoch eine relativ große "
+       },
+       {
+        "type": "text",
+        "text": "Menge von Pfeilspitzen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus der Zeit Großmährens, und zwar zum einen Pfeile mit rückwärts gerichteten Flügelchen, wie sie typischerweise die einheimische slawische Bevölkerung benutzte, aber neben ihnen gab es hier eine viel größere Menge rhomboider Pfeilspitzen, die die Nomaden im frühen Mittelalter benutzten. Nach den Worten von Herrn Štefan Meliš und "
+       },
+       {
+        "type": "text",
+        "text": "Martin Olšovský",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " fand sich die Mehrzahl der rhomboiden Pfeilspitzen im zerfallenen Steinwall. Dagegen fanden sich mehrere slawische Pfeilspitzen mit rückwärts gerichteten Flügelchen im Raum außerhalb des Burgwalls. Die Verteilung der Pfeilspitzen deutet also darauf hin, dass die Verteidiger, die aus dem Burgwall heraus auf die Angreifer schossen, andere Pfeilspitzen benutzten als die Angreifer, die ihren Angriff eben auf den verwundbarsten Teil der Befestigung konzentrierten – auf den Steinwall. Außerdem entdeckten die Mitglieder des Zirkels eine relativ große Menge typischer "
+       },
+       {
+        "type": "text",
+        "text": "slawischer Keramik mit Wellenlinien",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", waagerechten Rillen und typischem Rand. Neben der slawischen Keramik fanden sie auf dem Burgwall und in seiner Umgebung jedoch auch Keramikfragmente aus der "
+       },
+       {
+        "type": "text",
+        "text": "Zeit der Badener Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (Äneolithikum) und einige Funde aus der Zeit der "
+       },
+       {
+        "type": "text",
+        "text": "Púchov-Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Einige eiserne Armbrustbolzenspitzen aus der genannten Untersuchung deuten auf eine Nutzung des Burgwalls auch in der Zeit des "
+       },
+       {
+        "type": "text",
+        "text": "Hochmittelalters",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und der beginnenden Neuzeit hin, was zum Beispiel auf einen Aufenthalt von Gruppen der Bratríci auf dieser Befestigung hinweisen könnte. Den Bericht über die Untersuchung sowie alle Funde veröffentlichten sie in dem Buch Olšovský, Meliš, Moravčík: Po stopách predkov, das im Jahr 2008 erschien."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Burgwall aus der Vogelperspektive",
+    "alt": "Blick auf den Burgwall aus der Vogelperspektive",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Jahr 2008 traten in der Umgebung des Burgwalls Spuren einer Raubgräberei an der Fundstelle durch Sondengänger auf, wobei zum Beispiel auf einem der Steine ein "
+       },
+       {
+        "type": "text",
+        "text": "Trensenknebel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (von einem Pferdehalfter) abgelegt war, der mit seiner Form einem typischen Knebel aus der Zeit Großmährens entspricht. Für den Sondengänger war es offenbar kein hinreichend guter Fund, um ihn mitzunehmen, und er legte ihn auf den Stein, damit er ihm das Signal nicht stört. Für das Trenčiner Museum wurde ebenfalls ein sehr interessantes Fundensemble aus Detektorfunden aus dem Raum des Burgwalls gewonnen, das ein "
+       },
+       {
+        "type": "text",
+        "text": "frühmittelalterlicher Sporn, ein Riemendurchzug des Sporns, ein Teil eines Eimers und zwei gebogene Messer",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit einer Öse an der Griffstelle bilden, die für die Púchov-Kultur typisch sind. Der Sporn und der Riemendurchzug tragen deutliche Spuren einer Durchbrennung durch starke Hitze."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2016 organisierten deshalb die Mitglieder des Bürgervereins Hradiská zusammen mit dem Trenčiner Museum in Trenčín (Trentschin) eine "
+       },
+       {
+        "type": "link",
+        "url": "/blog/vyskum-na-hradisku-simunky-v-dolnej-marikovej",
+        "children": [
+         {
+          "type": "text",
+          "text": "archäologische Rettungsgrabung der Fundstelle"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Der erste Schritt, den wir unternahmen, war die Reinigung des Burgwalls von wild aufgewachsenen Gehölzen und dichtem Strauchbewuchs. Die Fläche des Burgwalls war nämlich ein Jahr zuvor nahezu undurchdringlich. Während der 2 Tage der Untersuchung gruben wir einen Schnitt mit den Abmessungen 1 × 2 Meter aus, und außerdem wurde jeder mit Metalldetektoren gefundene Metallfund mit einem kleinen Schnitt von 40 × 40 cm dokumentiert. Offenbar dank des genannten dichten Bewuchses, der in den vergangenen Jahren auf dem Burgwall stand, waren einige Teile des Burgwalls nicht so von den Überfällen der Raubgräber geplündert, wie wir befürchtet hatten. Wir fanden mehrere frühmittelalterliche "
+       },
+       {
+        "type": "text",
+        "text": "Messer, Pfeilspitzen, Beschläge, Attaschen von Eimerchen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und weitere kleinere Metallfunde. Aus unserer Sicht waren die großartigsten Funde "
+       },
+       {
+        "type": "text",
+        "text": "zwei Hacken ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "aus der Zeit Großmährens, von denen eine in so gutem Zustand erhalten ist, dass man mit ihr auch heute ohne Probleme auf dem Feld hacken könnte. Ein weiterer sehr interessanter Fund, von dessen Art wir auch an anderen Orten in der Slowakei nicht viele dokumentiert haben, ist ein hervorragend erhaltener "
+       },
+       {
+        "type": "text",
+        "text": "Hausschlüssel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", ebenfalls wahrscheinlich aus der Zeit Großmährens. Ich erwähne auch das Fragment eines Reitersporns. Von den Funden, die wir in die Zeit um die Zeitenwende einordnen (Púchov-Kultur), kann ich eine Menge dickwandiger "
+       },
+       {
+        "type": "text",
+        "text": "Keramik mit typischer keltischer Verzierung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " erwähnen, einen Feuerstein, der als Teil eines Schlagfeuerzeugs dienen konnte, einen Teil einer eisernen "
+       },
+       {
+        "type": "text",
+        "text": "Gewandfibel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und "
+       },
+       {
+        "type": "text",
+        "text": "einen bronzenen Anhänger",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", der dadurch interessant ist, dass er aus einem zerbrochenen Armring wiederverwendet wurde. Leider wurde die Untersuchung wegen des Desinteresses des Archäologen des Trenčiner Museums nicht weiter fortgesetzt, und so war es nicht möglich, weitere Belege für die Besiedlung des Burgwalls zu erbringen. Dennoch wurden während der Untersuchung unerwartet wertvolle archäologische Funde gewonnen, die die Kenntnis über die Besiedlung der Fundstelle vorangebracht haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Kartenskizze der Široká von Martin Olšovský erfasst die Form und die Morphologie der Hauptburg des Burgwalls und zeigt auch den Steinwall, der die Hauptburg von den übrigen Teilen des Burgwalls trennte",
+    "alt": "Die Kartenskizze der Široká von Martin Olšovský erfasst die Form und die Morphologie der Hauptburg des Burgwalls und zeigt auch den Steinwall, der die Hauptburg von den übrigen Teilen des Burgwalls trennte",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bedeutung des Burgwalls",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Welche Bedeutung konnte ein Burgwall haben, der so weit im Norden und relativ versteckt in einem Tal liegt, das keinen allzu geeigneten Raum für die Landwirtschaft bot, die für die Menschen in der Vergangenheit die Hauptquelle des Lebensunterhalts darstellte? In der Umgebung des Burgwalls wurden bisher keine deutlicheren Belege für eine Besiedlung in der Zeit des Äneolithikums, der Púchov-Kultur oder Großmährens gefunden. Es gibt hier auch keine Spuren einer Nutzung mineralischer Rohstoffe, die zur Besiedlung der Gebirgsteile der Slowakei motiviert hätten. Dagegen weisen die Funde von der Fläche des Burgwalls selbst aus der Zeit Großmährens mit ihrer Menge und Qualität darauf hin, dass sich in dieser Zeit auf dem Burgwall eine größere Menge von Kriegern mit Pferden aufhielt (Pferdegeschirr und mehrere Sporen), aber auch eine zivile Bevölkerung (landwirtschaftliche Werkzeuge, Schlüssel, Eisenbarren, Eisenverarbeitung, Eimer). Diese zivile Bevölkerung versammelte sich zusammen mit den Kriegern in einem bestimmten Moment offensichtlich auf dem Burgwall und versuchte gemeinsam, den Angriff des Feindes abzuwehren, was ihnen jedoch offenbar nicht gelang. Davon zeugt die Tatsache, dass auf dem Burgwall auf kleiner Fläche eine solche Menge von Funden entdeckt wurde, wie sie eben in Fällen von Katastrophenhorizonten bzw. gewaltsamen Untergängen vorkommt. Befestigungen, die nicht während eines Angriffs untergingen und nicht gewaltsam zerstört wurden, enthalten oft eine geringe Menge von Funden, weil ihre Bewohner sie freiwillig verließen und ihren Besitz mitnahmen. Die große Menge altungarischer Pfeilspitzen sowie weitere deutliche Spuren eines gewaltsamen Untergangs des Burgwalls legen nahe, dass die Šimunky zum Ziel eines sehr intensiven Angriffs der Altungarn wurden. Die Stämme der Altungarn zerstörten zu Beginn des 10. Jahrhunderts im Gebiet der Slowakei mehrere Burgwälle, zum Beispiel den Burgwall Bojná – Valy. Ein ähnliches Schicksal traf wahrscheinlich auch den Burgwall in Mariková. Der Angriff war wahrscheinlich sehr mächtig und mit einer hohen Zahl von Angreifern, da die Höhenlage und die Befestigung den Verteidigern im Fall eines Angriffs einen großen Vorteil gaben, der sich im Allgemeinen nur durch eine hohe zahlenmäßige Überlegenheit überwinden lässt. Eine Besonderheit ist, dass es sich offenbar um den nördlichsten Burgwall handelt, den die Altungarn im Gebiet der heutigen Slowakei zerstörten. Nicht weniger interessant ist, dass der nördliche Teil der Slowakei offenbar im Allgemeinen nicht zu den Zielen der Angriffe der Altungarn gehörte und dass dieses Gebiet sogar lange Zeit auch nach der Entstehung Ungarns noch nicht zum Königreich Ungarn gehörte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Detkovec auf der Karte der 2. militärischen Landesaufnahme",
+    "alt": "Detkovec auf der Karte der 2. militärischen Landesaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum gaben sich also diese Nomaden, die in der Slowakei sonst keine große Menge von Burgwällen zerstörten, so viel Mühe, einen gut befestigten Burgwall tief in den Wäldern der Javorníky zu zerstören? Gründe konnte es mehrere geben. Meiner Meinung nach hängt dieser Angriff jedoch mit der wahrscheinlichen Wachfunktion der Šimunky zusammen. Wie "
+       },
+       {
+        "type": "link",
+        "url": "/blog/simunky-siroka-hradiste-koscelisko-mozne-suvislosti",
+        "children": [
+         {
+          "type": "text",
+          "text": "der Archäologe Peter Schreiber anführt"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", „"
+       },
+       {
+        "type": "text",
+        "text": "Unterhalb der Šimunky befindet sich eine kleinere Wegkreuzung, von der man nach Horná Mariková und weiter bis auf den Grat der Javorníky gelangen kann. Aus der Sicht der Lage der Šimunky kann jedoch der nähere Weg nach Kátlina (Ortsteil von Dolná Mariková) interessanter sein. Über Waldwege durch Kátlina können wir in das Tal der Biela voda gelangen. Eben hier befinden sich zwei weitere Fundstellen, die theoretisch auch mit der Besiedlung auf den Šimunky zusammenhängen könnten",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ".“ Außerdem führt auch ein weiterer Archäologe, Juraj Malec, in seiner Dissertation an: "
+       },
+       {
+        "type": "text",
+        "text": "„Angesichts der ausgesprochen exponierten Lage und ebenso des vollständigen Fehlens gemauerter Architektur vermuten wir hier eine einfachere hölzerne Befestigung wahrscheinlich nur mit Wach- und Beobachtungsfunktion über dem angrenzenden Verkehrsweg, der durch das Tal des Bachs führt.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Ich füge hinzu, dass das Tal der Biela voda eine der historischen Routen ist, die aus dem Gebiet der Slowakei nach Mähren führen. Beim Blick auf die Karten der militärischen Landesaufnahme Ungarns aus dem 18. und 19. Jahrhundert sieht man außer der Route nach Kátlina von den Šimunky auch einen interessanten Zweig von Wegen, der über Klieština – Strážisko (in diesem Zusammenhang ebenfalls ein außerordentlich interessanter Name der Fundstelle) und dann weiter nach Mostište und Mestečko führt, was schon das genannte Tal der Biela voda ist. Zugleich muss man sich bewusst machen, dass die Wege in der Umgebung von Púchov und Považská Bystrica im Mittelalter nicht wie heute am Ufer der Waag verliefen, weil dieses Ufer nicht befestigt war und die sumpfigen, instabilen Ufer für Pferde wie für Wagen ein Problem darstellten. Deshalb wählte man in jenen Zeiten lieber Routen über die Grate oder einfach durch die Wälder. Der Weg, der unterhalb der Šimunky verläuft, erscheint so als eine der möglichen historischen Routen, die aus dem Waagtal (bzw. aus der historischen Region Nitra) in Richtung Mähren führten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Funde, die J. Moravčík im Jahr 2000 publizierte",
+    "alt": "Funde, die J. Moravčík im Jahr 2000 publizierte",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist deshalb wahrscheinlich, dass "
+       },
+       {
+        "type": "text",
+        "text": "der Burgwall auf den Šimunky die Aufgabe hatte, diesen Weg zu bewachen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", und seine Einnahme oder Besetzung hatte daher eine wichtige strategische Bedeutung. Offenbar aus diesem Grund war der Burgwall sogar in 4 historischen Perioden besiedelt, vom Äneolithikum über die Púchov-Kultur und die Slawen bis zum Spätmittelalter. Eben wegen seiner Lage an einem alten Verkehrsweg, wegen des Fundes von Eisenschlacke, von Eisenbarren und von einer Menge eiserner Werkzeuge lässt sich nicht ausschließen, dass "
+       },
+       {
+        "type": "text",
+        "text": "hier neben der Wachfunktion auch ein örtliches Zentrum der Verwaltung und des Handels bestand",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Eine gleichzeitige doppelte oder gar dreifache Funktion als Wachposten, Handelszentrum und regionales Zentrum der Umgebung ist überhaupt nicht ausgeschlossen. Auf dem Burgwall konnte ein örtlicher Adliger mit seiner Familie leben, und zur Zeit eines drohenden Angriffs konnte sich auf der Befestigung eine zahlenmäßig bedeutendere Besatzung von Kriegern versammeln, um die Befestigung besser verteidigen zu können. Und offenbar auch deshalb konnten die Altungarn im 10. Jahrhundert ein Interesse daran haben, die Festung einzunehmen. Sie sicherten sich so nicht nur die Beute, sondern auch einen der Zugangswege nach Westen, möglicherweise im Rahmen einer der Angriffsrichtungen auf Nordmähren. Im Zusammenhang mit dem Schicksal der übrigen Gebiete der Region Nitra, wo im Gebiet der heutigen Slowakei eher eine Zusammenarbeit der Altungarn und der Slawen angenommen wird (mehrere Adlige verständigten sich offenbar mit den Altungarn, und im Austausch dafür, dass sie deren Oberherrschaft anerkannten, ließen die Altungarn den Adligen ihre Güter und Vorrechte und ließen sie und ihre „Untertanen“ wie bisher leben), ist es interessant, dass eben die Verteidiger der Šimunky einer solchen Übereinkunft nicht beitraten, sich den Altungarn nicht unterwarfen und erbittert bis zum Ende kämpften. Ob der Grund ihres Widerstands jenes harte Naturell war, das viele Bewohner von Mariková bis heute haben, oder ob es um andere Faktoren ging (zum Beispiel darum, dass auf dem Burgwall eine vorgeschobene mährische Besatzung lag, die den Befehl haben konnte, die Festung um jeden Preis zu verteidigen), werden wir nicht mehr erfahren. Die Geschichte von der Einnahme der Šimunky als eines lokalen Zentrums und Wachpostens und vom erbitterten Kampf der Verteidiger ist jedoch eine interessante Geschichte der Tapferkeit und des Mutes der slawischen Verteidiger des Burgwalls, auf die wir mit Recht stolz sein können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Trensenknebel (Großmähren)",
+    "alt": "Trensenknebel (Großmähren)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

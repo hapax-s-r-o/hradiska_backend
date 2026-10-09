@@ -1,0 +1,378 @@
+{
+ "slug": "hatne",
+ "data": {
+  "title": "Hatné – zwei kleine Burgen im Tal von Mariková",
+  "slug": "hatne-zwei-kleine-burgen-marikova",
+  "excerpt": "Nördlich der Gemeinde Hatné liegen zu beiden Seiten des Marikovský-Bachs in der Lage Hrádok zwei kleinere Befestigungen, die eine der ältesten Besiedlungen des Tals von Mariková belegen. Die größere entstand bereits im 3. Jahrtausend v. Chr., als sich hier die Menschen der Badener Kultur niederließen; später folgten die Lausitzer und die Púchov-Kultur, im 9. Jahrhundert die Slawen und im Mittelalter der Sitz des Geschlechts der Hatňanský. Štefan Janšák beschrieb beide Anlagen im Jahr 1930.",
+  "metaTitle": "Hatné – zwei kleine Burgen im Tal von Mariková",
+  "metaDescription": "Zwei kleinere Befestigungen in der Lage Hrádok bei Hatné belegen eine der ältesten Besiedlungen des Tals von Mariková; Štefan Janšák beschrieb sie 1930.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Nördlich der Gemeinde Hatné, zu beiden Seiten des Marikovský-Bachs, in der Lage Hrádok",
+    "icon": "map"
+   },
+   {
+    "label": "Zahl der Befestigungen",
+    "value": "Zwei kleinere Befestigungen – der Größere und der Kleinere Hrádok",
+    "icon": "shield"
+   },
+   {
+    "label": "Älteste Besiedlung",
+    "value": "3. Jahrtausend v. Chr. – die Menschen der Badener Kultur",
+    "icon": "star"
+   },
+   {
+    "label": "Fläche des Größeren Hrádok",
+    "value": "1970 m²",
+    "icon": "mountain"
+   },
+   {
+    "label": "Schutzwall",
+    "value": "Bogenförmiger Wall von 36 m Länge, nach außen 5 m und nach innen 2 m hoch",
+    "icon": "shield"
+   },
+   {
+    "label": "Besitzer",
+    "value": "Das Geschlecht der Hatňanský, später Besitzer des Schlosses Budatín",
+    "icon": "building"
+   },
+   {
+    "label": "Zerstörung der Fundstelle",
+    "value": "Den Kleineren Hrádok trugen die Bewohner fast vollständig ab, den Größeren beschädigte ein Steinbruch schwer",
+    "icon": "custom"
+   },
+   {
+    "label": "Schutz",
+    "value": "Beide Hrádoks sind als archäologische Fundstellen ausgewiesen",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "3. Jahrtausend v. Chr.",
+    "title": "Besiedlung durch die Menschen der Badener Kultur",
+    "description": "Den Größeren Hrádok besiedelten die Menschen der Badener Kultur, die einen Graben aushoben und aus dem gewonnenen Erdmaterial einen Wall zum Schutz der Hochfläche aufschütteten.",
+    "type": "founding"
+   },
+   {
+    "year": "Spätbronzezeit",
+    "title": "Siedlung der Lausitzer Kultur",
+    "description": "Außer dem eigentlichen Felsen des Hrádok war auch der Raum daneben besiedelt, wo eine Siedlung der Lausitzer Kultur entstand; Štefan Janšák fand hier hallstattzeitliche Scherben und einen Reibstein.",
+    "type": "era"
+   },
+   {
+    "year": "Wende der Zeitrechnung",
+    "title": "Befestigung des Hrádok auf der rechten Bachseite",
+    "description": "Man befestigte den Hrádok auf der rechten Seite des Bachs, der heute durch den Steinabbau zerstört ist; in seiner Nähe lag eine Siedlung der Púchov-Kultur.",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert n. Chr.",
+    "title": "Ankunft der slawischen Bevölkerung",
+    "description": "Die slawische Bevölkerung ließ sich hier nach einer fast tausendjährigen Unterbrechung der Besiedlung für kurze Zeit nieder.",
+    "type": "event"
+   },
+   {
+    "year": "1321",
+    "title": "Kilián erhält Hatné, Prosné und Mariková",
+    "description": "König Karl Robert schenkte Kilián, dem ersten bekannten Vorfahren des Geschlechts der Hatňanský, die Dörfer Hatné, Prosné und Mariková.",
+    "type": "event"
+   },
+   {
+    "year": "14.–15. Jahrhundert",
+    "title": "Mittelalterliche kleine Burg des örtlichen Grundherrn",
+    "description": "Die mittelalterlichen Funde vom Hrádok auf der rechten Bachseite belegen nach Jozef Moravčík die Befestigung des örtlichen Grundherrn aus dem Geschlecht der Hatňanský.",
+    "type": "construction"
+   },
+   {
+    "year": "1436",
+    "title": "Juraj von Hatné erhält das Schloss Budatín",
+    "description": "Juraj von Hatné erhielt von Sigismund von Luxemburg das Schloss Budatín als Lohn für treue Dienste.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6436,
+    "alt": "Federzeichnung von gerüsteten Reitern, die auf zwei Burganlagen mit Palisaden und aufsteigendem Rauch blicken"
+   },
+   {
+    "mediaId": 2702,
+    "caption": "Die romantische Vorstellung von den beiden kleinen Burgen, die durch eine Brücke aus Leder verbunden waren, beruht auf einer Sage, die bereits am Ende des 19. Jahrhunderts aufgezeichnet wurde. Auch Janšák hielt sie im Jahr 1930 fest (Autor Tomáš Humaj).",
+    "alt": "Die romantische Vorstellung von den beiden kleinen Burgen, verbunden durch eine Brücke aus Leder, beruht auf einer Sage vom Ende des 19. Jahrhunderts. Auch Janšák hielt sie 1930 fest (Autor Tomáš Humaj)."
+   },
+   {
+    "mediaId": 2703,
+    "caption": "Künstlerische Vorstellung vom Aussehen der mittelalterlichen kleinen Burg des Geschlechts der Hatňanský. (Autor: Bohuš Šikulínec)",
+    "alt": "Künstlerische Vorstellung vom Aussehen der mittelalterlichen kleinen Burg des Geschlechts der Hatňanský. (Autor: Bohuš Šikulínec)"
+   },
+   {
+    "mediaId": 2704,
+    "caption": "Den Reibstein datiert Janšák in die Hallstattzeit.",
+    "alt": "Den Reibstein datiert Janšák in die Hallstattzeit."
+   },
+   {
+    "mediaId": 2705,
+    "caption": "Zwei sehr schöne Visualisierungen der Burganlagen hat Antonín Lacko für uns geschaffen.",
+    "alt": "Zwei sehr schöne Visualisierungen der Burganlagen hat Antonín Lacko für uns geschaffen."
+   },
+   {
+    "mediaId": 2706,
+    "caption": "Die Zeichnung von Štefan Janšák zeigt den Zustand der Burganlage noch vor ihrer teilweisen Zerstörung durch den Steinabbau.",
+    "alt": "Die Zeichnung von Štefan Janšák zeigt den Zustand der Burganlage noch vor ihrer teilweisen Zerstörung durch den Steinabbau."
+   },
+   {
+    "mediaId": 2708,
+    "caption": "Zum Vergleich der heutige Zustand der Burganlage. Korrektur: anstelle von P. Schneider muss P. Schreiber stehen.",
+    "alt": "Zum Vergleich der heutige Zustand der Burganlage. Korrektur: anstelle von P. Schneider muss P. Schreiber stehen."
+   },
+   {
+    "mediaId": 2709,
+    "caption": "Zeichnung der beiden Hrádoks, wie sie Š. Janšák im Jahr 1930 festhielt.",
+    "alt": "Zeichnung der beiden Hrádoks, wie sie Š. Janšák im Jahr 1930 festhielt."
+   },
+   {
+    "mediaId": 2730,
+    "caption": "Unsere Informationstafel an der Burganlage",
+    "alt": "Unsere Informationstafel an der Burganlage"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nördlich der Gemeinde Hatné liegen zu beiden Seiten des Marikovský-Bachs in der Lage Hrádok zwei kleinere Befestigungen, die eine der ältesten Besiedlungen des ganzen Tals von Mariková belegen. Štefan Janšák schrieb über sie im Jahr 1930 Folgendes:\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Im Tal von Mariková, etwa in einem Drittel der Entfernung zwischen der Gemeinde Hátne und Mariková, erheben sich einander gegenüber zwei merkwürdige Felsvorsprünge, jeder auf einer Seite des Bächleins. Sie nähern sich einander bis auf eine Entfernung von 80 m, wodurch im Tal ein enger Pass entsteht, der kaum für das kleine Bächlein mit seinem schottrigen flachen Bett und für den Vizinalweg ausreicht, dessen Breite und Beschaffenheit der armen Umgebung allzu gut angepasst sind. Die Lage der beiden Felsen ist so ungewöhnlich, dass sie auch auf die Fantasie des Volkes wirkte, welches auf sie zwei alte Schlösser setzte, die einst durch eine Brücke aus Leder verbunden waren. In unmittelbarer Nachbarschaft des östlichen Hrádok, den wir den „Größeren“ nennen wollen, steht eine Kapelle mit Friedhof und an seinem südlichen Fuß ein hölzernes Kreuz.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die romantische Vorstellung von den beiden kleinen Burgen, die durch eine Brücke aus Leder verbunden waren, beruht auf einer Sage, die bereits am Ende des 19. Jahrhunderts aufgezeichnet wurde. Auch Janšák hielt sie im Jahr 1930 fest (Autor Tomáš Humaj).",
+    "alt": "Die romantische Vorstellung von den beiden kleinen Burgen, verbunden durch eine Brücke aus Leder, beruht auf einer Sage vom Ende des 19. Jahrhunderts. Auch Janšák hielt sie 1930 fest (Autor Tomáš Humaj).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Größere Hrádok ist ein typisches Beispiel einer befestigten Höhensiedlung, die auf einem in das Tal vorspringenden Felssporn errichtet wurde. Der Hrádok ist im Vergleich zu dem gegenüberliegenden nicht nur besser erhalten, auch die Besiedlung ist hier viel älter. Sie reicht bereits in das 3. Jahrtausend v. Chr. zurück, als sich hier die Menschen der Badener Kultur niederließen. Den Bewohnern der Anlage genügte es, einen 3 m tiefen Graben J k auszuheben und das gewonnene Material zum Aufschütten des Walls a b zu verwenden, damit ein sicherer Abschluss der oberen Hochfläche entstand. Im vorliegenden Fall kam die Natur den ersten Bewohnern außerordentlich freundlich entgegen. Von drei Seiten ist die Hochfläche von einem durchschnittlich 20 m hohen senkrechten Felsen geschützt. Nur im NO und N bestand ein freier Zugang über den Bergrücken, versperrt durch den bogenförmigen Wall a b, 36 m lang, nach außen 5 m, nach innen 2 m hoch. Seine Fortsetzung bildet der niedrige, heute kaum erkennbare Wall c d von 18 m Länge.\n \n  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Oberfläche der Anlage mit einer Fläche von 1970 m² bietet alle Vorteile einer kleinen Siedlung. Sie liegt am südlichen Hang des Gebirges, das in das Tal abfällt, und ist somit gegen kalte Winde geschützt. Außerdem schützt der künstliche Wall a b den unmittelbar an ihn angrenzenden Streifen und wendet seinen Südhang der Sonne zu. Das für das Leben der Bewohner unerlässliche Wasser befindet sich in unmittelbarer Nähe. Die geringe Fläche erlaubt keine Abfolge mehrerer befestigter Höfe, der harte Felsuntergrund verhindert die Errichtung anderer zum Wohnen notwendiger Einrichtungen.  \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen der mittelalterlichen kleinen Burg des Geschlechts der Hatňanský. (Autor: Bohuš Šikulínec)",
+    "alt": "Künstlerische Vorstellung vom Aussehen der mittelalterlichen kleinen Burg des Geschlechts der Hatňanský. (Autor: Bohuš Šikulínec)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Kleinere Hrádok, der 80 m westlich des vorherigen am rechten Ufer der Marikovka liegt, verdient diese Benennung vielleicht erst heute. Die Bewohner der umliegenden Gemeinden und Streusiedlungen haben den Kalkfelsen, aus dem er besteht, bereits fast vollständig abgetragen und nur zwei scharfe, unterschiedlich hohe Zacken übrig gelassen. Der Kleinere Hrádok hatte gewiss eine glanzvollere Vergangenheit als sein Nachbar, offenbar war er mächtiger und reicher. Durch ein merkwürdiges Spiel der Natur entstand hier ein 20 m hoher Felskegel mit einer zwar kleinen, aber bequemen Gipfelfläche. Es bedurfte überhaupt keiner Arbeit, damit er zu einer sicheren Fliehburg wurde, höchstens wurden primitive Stufen in den Felsen gehauen, die zu seinem Gipfel führten. Von der einstigen Kraft und Mächtigkeit blieb heute nur noch ein Gerippe, zwei zum Himmel gestreckte Felsarme, als bäten sie um Erbarmen. Deshalb konnte der Kartograf auch nichts von ihm aufnehmen und verewigen und überließ diese Aufgabe der fotografischen Platte. Dass der Kleinere Hrádok einst der Größere war, bezeugt die bedeutend größere Menge an Scherben, die an seinem Fuß und auf den Feldern westlich von ihm gefunden wurden. Die Funde sind hier reicher und vielfältiger als im vorherigen Fall. Es überwiegen grobkörnige, schwach gebrannte Scherben. Eines der Gefäßfragmente enthält sehr viel beigemischten Grafit.  \n  Auf beiden Hrádoks wurden feinkörnige, an der Oberfläche und im Bruch schwarze, schwach gebrannte Scherben gefunden. Die Beimischung ist kein Grafit, sondern gewiss Holzkohlenstaub, der bei mindestens 50 % der gefundenen hallstattzeitlichen, latènezeitlichen und burgwallzeitlichen Scherben festzustellen ist. Wo die Gefäße vollkommen gebrannt waren, verschwand er völlig und es ist keine Spur von ihm geblieben. Bei den weniger gut gebrannten bleibt im Bruch eine dunkle Schicht, bei den ganz schwach gebrannten ist auch die Oberfläche schwarz. \n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Fortsetzung der Besiedlung in der folgenden Periode ist bislang nicht belegt, sondern erst aus der Spätbronzezeit und dem Beginn der älteren Eisenzeit. Damals war nicht nur der eigentliche Felsen des Hrádok besiedelt, sondern auch der Raum daneben, wo eine Siedlung der Lausitzer Kultur entstand. Štefan Janšák fand hier Scherben aus der Hallstattzeit und einen Reibstein aus Quarzitsandstein mit einer größten Korngröße von 1 mm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Den Reibstein datiert Janšák in die Hallstattzeit.",
+    "alt": "Den Reibstein datiert Janšák in die Hallstattzeit.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Wende der Zeitrechnung befestigte man auch den Hrádok auf der rechten Seite des Bachs, der leider durch den Steinabbau schon so stark zerstört ist, dass von ihm nur ein Torso übrig blieb. In unmittelbarer Nähe dieser Befestigung lag auch eine Siedlung der Púchov-Kultur, auf der Gefäßfragmente, kleine Wetzsteine und Stücke von durchgebranntem Lehmbewurf von der Verkleidung der Wände hölzerner Behausungen gefunden wurden.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fortsetzung der Besiedlung ist dann für die Dauer von fast einem Jahrtausend unterbrochen, denn die slawische Bevölkerung ließ sich hier erst im 9. Jahrhundert n. Chr. nieder. Sie hielt zwar nur kurz, doch da die Slawen allmählich das gesamte Gebiet der Nordslowakei einnahmen, war es nur eine Frage der Zeit, wann auch hier ein mittelalterliches Dorf entstehen würde.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Geschichte der kleinen Burgen",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jozef Moravčík führt an, dass die mittelalterlichen Funde (14.–15. Jahrhundert) vom Hrádok auf der rechten Seite des Bachs davon sprechen, dass hier offenbar die Befestigung des örtlichen Grundherrn lag, der im 15. Jahrhundert Besitzer des Schlosses Budatín wurde. Juraj von Hatné erhielt Budatín von König Sigismund für seine treuen Dienste. Sein erster bekannter Vorfahre Kilián bekam bereits im Jahr 1321 von König Karl Robert Hatné, Prosné und Mariková."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wahrscheinlich errichtete er sich hier schon damals seinen Sitz — eine mittelalterliche kleine Burg, die auch seinen Nachkommen diente, bis sie Besitzer einer bedeutenderen Festung wurden — Budatíns. Den ursprünglichen Umfang und das Aussehen der kleinen Burg kennen wir nicht, denn ihren wesentlichen Teil zerstörte ein Steinbruch. Und so sprechen von ihrer Geschichte heute nur noch schriftliche Aufzeichnungen und die mittelalterlichen Scherben, die hier gefunden wurden. Erneut hat sich bestätigt, dass unbedachte Eingriffe in das Gelände die Kenntnisse über unsere ferne Vergangenheit erheblich verarmen lassen, wenn wichtige Befunde zerstört werden, deren Untersuchung bedeutende Belege nicht nur zur Geschichte der betreffenden Gemeinde, sondern auch in weiteren Zusammenhängen erbringen könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zwei sehr schöne Visualisierungen der Burganlagen hat Antonín Lacko für uns geschaffen.",
+    "alt": "Zwei sehr schöne Visualisierungen der Burganlagen hat Antonín Lacko für uns geschaffen.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im 15. Jahrhundert war ein weiterer bedeutender Feudalherr aus dem Geschlecht der Hatňanský, der vielleicht auf der kleinen Burg saß, Juraj von Hatné, von dem wir wissen, dass er im Jahr 1436 von Sigismund von Luxemburg das Schloss Budatín als Besitz erhielt. Das Schicksal beider kleiner Burgen besiegelte der Steinbruch, der die eine Anlage vollständig zerstörte und die andere schwer beschädigte. Beide sind als archäologische Fundstellen ausgewiesen. In der Gemeinde überliefert man die Erzählung von einer Brücke aus Leder, die die kleinen Burgen verband; ihr widersprechen jedoch die Funde, die davon sprechen, dass die kleinen Burgen in keiner der Perioden gleichzeitig besiedelt waren. Eine Verbindung durch eine Brücke ist daher wenig wahrscheinlich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Zeichnung von Štefan Janšák zeigt den Zustand der Burganlage noch vor ihrer teilweisen Zerstörung durch den Steinabbau.",
+    "alt": "Die Zeichnung von Štefan Janšák zeigt den Zustand der Burganlage noch vor ihrer teilweisen Zerstörung durch den Steinabbau.",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

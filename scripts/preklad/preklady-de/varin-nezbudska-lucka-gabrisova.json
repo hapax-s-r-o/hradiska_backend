@@ -1,0 +1,363 @@
+{
+ "slug": "varin-nezbudska-lucka-gabrisova",
+ "data": {
+  "title": "Varín / Nezbudská Lúčka – Gábrišová, eine befestigte Höhensiedlung der Púchov-Kultur",
+  "slug": "varin-gabrisova-puchov-kultur-hoehensiedlung",
+  "excerpt": "Im Jahr 2020 entdeckten das Kreisdenkmalamt, das Považské-Museum und unser Verein Hradiská bei einer Metalldetektor-Prospektion die bis dahin unbekannte Fundstelle Gábrišová an der Grenze der Gemarkungen von Nezbudská Lúčka und Varín; 2021 wurde sie publiziert. Die Befestigung von etwa 0,5 ha erbrachte Funde der Púchov-Kultur – einen bronzenen Körbchenanhänger, eine Widderfigur, eine einzigartige Pflugschar und Baubeschläge – und hängt wohl mit der Verhüttung an der Železná studňa zusammen.",
+  "metaTitle": "Gábrišová – Höhensiedlung der Púchov-Kultur bei Varín",
+  "metaDescription": "Die 2020 durch Metalldetektor-Prospektion entdeckte Höhensiedlung Gábrišová bei Nezbudská Lúčka und Varín: Funde der Púchov-Kultur und Eisenverhüttung.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Befestigung",
+    "value": "etwa 0,5 ha – eine für Befestigungen der Púchov-Kultur im oberen Waagtal typische Größe",
+    "icon": "map"
+   },
+   {
+    "label": "Besiedlung",
+    "value": "Keramik- und Metallfunde bestätigen eindeutig eine Besiedlung durch die Púchov-Kultur",
+    "icon": "book"
+   },
+   {
+    "label": "Bronzener Körbchenanhänger",
+    "value": "ein Amulett hallstattzeitlichen Typs mit spätlatènezeitlicher Ausarbeitung, Analogien in Liptovská Mara I-Havránok und Liptovská Mara III",
+    "icon": "star"
+   },
+   {
+    "label": "Bronzene Widderfigur",
+    "value": "ein zoomorphes Amulett mit Aufhängeöse; in der Slowakei sind nur etwa 20 ähnliche Plastiken dokumentiert",
+    "icon": "star"
+   },
+   {
+    "label": "Einzigartige eiserne Pflugschar",
+    "value": "der einzige Fund einer schmalen, eintülligen Pflugschar dieses Typs im ganzen Žiliner Becken",
+    "icon": "shield"
+   },
+   {
+    "label": "Baubeschläge",
+    "value": "Die Gábrišová weist die höchste belegte Zahl an Baubeschlägen unter allen Fundstellen der Púchov-Kultur auf",
+    "icon": "building"
+   },
+   {
+    "label": "Halden von Verhüttungsabfall an der Železná studňa",
+    "value": "ovale Halden mit Maßen von etwa 15 × 23 m und einer Höhe bis 1,5 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Quelle des Eisenerzes",
+    "value": "Hämatit aus dem Rechtorská-Tal (Lage Rudy)",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende der Latènezeit",
+    "title": "Vermuteter Beginn der Eisenverhüttung",
+    "description": "Trotz fehlender direkter Belege wird die Verhüttungstätigkeit an der Železná studňa in Varín angesichts des Charakters der Besiedlung der Region bereits für das Ende der Latènezeit angenommen.",
+    "type": "era"
+   },
+   {
+    "year": "LTC2–LTD2",
+    "title": "Datierung der bronzenen Widderfigur",
+    "description": "Die auf der Gábrišová gefundene bronzene Widderplastik mit Aufhängeöse wird anhand der Begleitfunde von Keramik rahmenhaft in die Stufen LTC2–LTD2 datiert.",
+    "type": "era"
+   },
+   {
+    "year": "LTD1",
+    "title": "Datierung der eisernen Pflugschar",
+    "description": "Die schmale, eintüllige Pflugschar von der Gábrišová, die einzige ihrer Art im Žiliner Becken, wird anhand von Analogien aus Považská Bystrica-Malý Manín und Liptovská Mara I-Havránok in die Stufe LTD1 datiert.",
+    "type": "era"
+   },
+   {
+    "year": "Stufe B1",
+    "title": "Siedlung auf dem Strečno-Hradný vrch",
+    "description": "In der Lage Strečno-Hradný vrch wurden Reste von Befunden mit Keramik erfasst, die in die Stufe B1 datiert wird – die bislang einzige bekannte Siedlung in der weiteren Umgebung der Železná studňa.",
+    "type": "event"
+   },
+   {
+    "year": "1.–2. Jahrhundert n. Chr.",
+    "title": "Datierung der Verhüttungsproduktion an der Železná studňa",
+    "description": "Die Eisenproduktion in den Öfen mit Schlackenabstich an der Železná studňa wurde mit der Radiokarbonmethode (C14) in die Zeit von der Mitte des 1. bis zum Anfang des 2. Jahrhunderts n. Chr. datiert.",
+    "type": "construction"
+   },
+   {
+    "year": "2020",
+    "title": "Metalldetektor-Prospektion an der Fundstelle Gábrišová",
+    "description": "Das Kreisdenkmalamt und das Považské-Museum führten in Zusammenarbeit mit dem Verein Hradiská an der bis dahin unbekannten und unpublizierten Fundstelle Gábrišová eine Metalldetektor-Prospektion durch.",
+    "type": "discovery"
+   },
+   {
+    "year": "2021",
+    "title": "Publikation der Fundstelle in einer Rigorosumsarbeit",
+    "description": "Die Fundstelle Gábrišová wurde in der Rigorosumsarbeit der Archäologin Zuzana Staneková publiziert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6433,
+    "alt": "Ein felsiger Grat im Nadelwald in der Frühlingssonne"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2020 führten das Kreisdenkmalamt und das Považské-Museum in Zusammenarbeit mit unserem Verein Hradiská eine Metalldetektor-Prospektion an der bis vor kurzem unbekannten und bislang unpublizierten Fundstelle Gábrišová durch, die sich auf der Grenze der Gemarkungen der Gemeinden Nezbudská Lúčka und Varín erstreckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle wurde in der Rigorosumsarbeit der Archäologin Zuzana Staneková aus dem Jahr 2021 publiziert (1). Der nachstehende Text ist in wesentlichen Teilen dieser Rigorosumsarbeit entnommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage Nezbudská Lúčka/Varín-Gábrišová ist eine Höhenfundstelle, die sich über einer anderen bekannten Lage – Železná studňa – erstreckt. Ein markanter Felsgrat zieht in Richtung Nord–Süd. Von der Ostseite ist der Hang des Grates steil und windig. Umgekehrt ist der Hang auf der entgegengesetzten Seite windgeschützt, und die terrassenartige Gestaltung des Hanges deutet darauf hin, dass er in der Vergangenheit zur Besiedlung genutzt wurde. Die Lage gehört zu den flächenmäßig kleinen Wehranlagen von etwa 0,5 ha, was für die Befestigungen aus der Zeit der Púchov-Kultur im oberen Waagtal recht typisch ist. Ihre sanfteren Hänge unterhalb der Kuppe wurden terrassenartig hergerichtet. Die archäologischen Funde konzentrieren sich auf zwei bis drei Terrassen des Westhanges der Gábrišová. In der Vergangenheit kam es offenbar zu einem Hangrutsch, denn ein Teil der Funde liegt auch unterhalb der Terrassen, im außerordentlich steilen Hang des Bergfußes. Die Keramikfunde bestätigen eindeutig eine Besiedlung durch die Púchov-Kultur, ebenso die Metallfunde, die fast ausschließlich eisern waren (abgesehen von zwei bronzenen Amuletten). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den interessantesten Funden aus der Befestigung gehören vor allem ein bronzener Körbchenanhänger und eine Widderfigur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Körbchenanhänger",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Form dieser Art von Anhängern geht, wie B. M. Pomberger darauf hinweist, auf hallstattzeitliche Vorlagen zurück. Diese Autorin datiert die ältesten Exemplare bereits in die Stufe HB3 (Fundstelle Simaság in Ungarn), mit fließender Fortsetzung in der Latènezeit. Im Gebiet der Púchov-Kultur handelt es sich um eine sehr typische Art durchbrochener Anhänger von kugeligen bis zylindrischen Formen mit hohlem Inneren, die im Gussverfahren hergestellt wurden. Die Form dieses Amulett-Typs erinnert an Schellen, und es ist nicht ausgeschlossen, dass sie tatsächlich die Aufgabe hatten, während der Durchführung bestimmter Riten einen Klang hervorzubringen. Heute können wir die Funktion dieser Amulette nicht mehr genau bestimmen; sie konnten jedoch nicht nur bei Riten dienen, sondern auch als persönliche Schutzamulette. Wie der Fund aus dem Fürstengrab in der Höhle Býčí skála andeutet, konnten sie auch Bestandteil von Begräbnisriten sein. Ein hallstattzeitliches Artefakt, das über die Urnenfelderkulturen hinweg bekannt ist, war eben jenes ähnliche Amulett, das auf der Gábrišová entdeckt wurde. Auch wenn es formal von diesen älteren Anhängern ausgeht, weist seine Ausarbeitung in Form von Ärmchen, die mit erbsenförmigen Nuppen verziert sind, auf der Grundlage anderer, fast identischer Anhänger aus Liptovská Mara I-Havránok und Liptovská Mara III in die Spätlatènezeit. Weitere ähnliche Amulette stammen ebenfalls aus dem Gebiet der Púchov-Kultur, aus Blatnica und Folkušová."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bronzene Widderfigur",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zoomorphe Figuren, die Miniaturen der von den Kelten verehrten, attributhaften Tiere darstellen, gehören aus der Sicht der Symbolik zu den lesbaren Gegenständen. Am häufigsten kommen Plastiken von Stieren und Hunden vor. Da wir im Raum der Púchov-Kultur keine Grabfunde verzeichnen, bleibt die Frage nach der Art, wie solche Amulette getragen wurden, auf der Ebene der Überlegung. Es ist jedoch sehr wahrscheinlich, dass sie gemeinsam mit anderen Anhängern Bestandteil von Halsketten waren. Aus dem Gebiet der Slowakei sind bislang etwa 20 ähnliche Amulette dokumentiert, wobei nur ein kleiner Teil von ihnen aus stratifizierten Funden stammt, in einigen Fällen aus Hortfunden – Udiča, Kolačno und Plavecké Podhradie. Die Hortfunde der beiden letztgenannten Fundorte enthielten auch andere Bestandteile von Halsketten. Aus diesem Grund erscheint die Deutung der Tierplastiken als deren Hauptbestandteile sehr wahrscheinlich. Zu den neuesten Zugängen dieser Kategorie ist die bronzene Widderplastik mit Aufhängeöse zu zählen, die während der Untersuchung auf der Gábrišová gefunden wurde. Unter den slowakischen Funden gleicht diesem Exemplar am meisten eine Figur, die von der befestigten Höhensiedlung Košeca-Nozdrovice stammt. Die Widderplastik lässt sich nur rahmenhaft in die Stufen LTC2–LTD2 datieren. Die Datierung stützt sich auf die Begleitfunde, vor allem auf die Keramik der Latènephase der Púchov-Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den weiteren interessanten Funden aus der Befestigung gehören eiserne Messer, eine Pflugschar und Baubeschläge. Die in der Regel eisernen Pflugscharen bildeten den verlängerten Teil des Hakenpfluges, der den Boden unter einem bestimmten Winkel aufriss. Pflugscharen sind auf latènezeitlichen und frührömischen Fundstellen in der Slowakei ein recht häufiger Fund. Diese Tatsache spricht dafür, dass die Pflugscharen – im Unterschied zu manchen anderen Geräten – nachweislich Formveränderungen unterlagen. Grundsätzlich unterscheiden wir zwei Typen von Pflugscharen: schmale und breite, wobei wir zwischen ihnen ein Entwicklungszwischenglied in Form schmaler Pflugscharen mit blattförmig verbreiterter Spitze verzeichnen. Von den archäologischen Fundstellen der Púchov-Kultur, die in das untersuchte Fundgut aufgenommen wurden, stammen drei Pflugscharen. Eine von ihnen gehört zu den schmalen, eintülligen Pflugscharen mit regelmäßig zulaufender Spitze, über der zwei unauffällige Lappen für eine bessere Befestigung der hölzernen Konstruktion des Hakenpfluges angebracht sind. Es handelt sich um den auf der Gábrišová entdeckten Fund und zugleich um den einzigen dieser Art im Žiliner Becken. Die nächsten Analogien sind aus Považská Bystrica-Malý Manín und Liptovská Mara I-Havránok bekannt, wo wir diese Pflugscharen dank der gut erfassten Stratigrafie zeitlich in die Stufe LTD1 einordnen können. Ihre Entstehung hängt wahrscheinlich mit der Notwendigkeit zusammen, schwerere Böden zu bearbeiten, wie sie gerade im Norden und Nordwesten der Slowakei reichlich vorkommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Baubeschläge bilden eine eigene Fundgruppe. Sie hingen mit der Holzverarbeitung und der Herstellung von Gegenständen aus Holz zusammen. Da es sich um eiserne Gegenstände handelt, die für sich allein nur schwer datierbar sind, müssen ihre Fundumstände und die Begleitfunde berücksichtigt werden. Sie kommen auf vielen Fundstellen der Púchov-Kultur vor und haben unterschiedliche Maße; allgemein handelt es sich jedoch um eiserne Gegenstände mit zwei rechtwinklig umgebogenen Ärmchen, die sich sehr häufig zu einer Spitze verjüngen, was darauf hindeutet, dass sie als Verbindungsmaterial bei Bauten, aber auch zur Festigung hölzerner Erzeugnisse wie etwa Kästchen oder verschiedener Truhen genutzt wurden. Sie konnten eine ähnliche Funktion wie Nägel und Keile erfüllen, doch war es vielleicht gerade ihre Form, die einen besseren Halt der verbundenen Materialien gewährleistete. Sie sind auf den Fundstellen der Púchov-Kultur ein recht häufiger Fund. Baubeschläge traten in der Lage Gábrišová in Massen auf und sind auch in der nahe gelegenen Lage Hradské belegt. Im weiteren Raum der Púchov-Kultur sind sie von den Fundstellen Prosné-Zlatý kôň (2 Stück) oder Udiča-Klapy (3 Stück) bekannt. Sehr häufig kamen sie auch im Oppidum Manching vor, weshalb G. Jacobi sie nach ihrer vermuteten Verwendung in mehrere Varianten gliederte. Klammern mit kürzerem Körper und langen Spitzen wurden seiner Ansicht nach beispielsweise als Bestandteil eines viereckigen Türschlosses genutzt. Eine solche Klammer, und zwar samt einem flachen, viereckigen Beschlag, wurde auf einer der Terrassen in der Lage Gábrišová gefunden. Die übrigen Klammern dieser Fundstelle fanden sich einzeln, ohne weitere Beschläge, wobei einige klein sind – ihr Körper erreicht ohne die umgebogenen Ärmchen etwa 5–8 cm –, andere größer sind; erheblich variabel ist auch die Länge der Ärmchen. Manche Klammern haben einen längeren Körper und kurze Ärmchen, andere umgekehrt einen kürzeren Körper und lange Ärmchen. Es wurden sogar Exemplare mit außerordentlich langen Ärmchen entdeckt, die doppelt so umgebogen waren, dass sie sich gegenseitig überdeckten, also eine Art vierkantig geformte Zwinge bildeten. Diese Verschiedenheit in den Proportionen deutet auf eine wirklich breitgefächerte Verwendung hin. Auf keiner anderen Fundstelle außer der Gábrišová ist eine so hohe Zahl dieser Fundart belegt, obwohl sie, wie oben bereits angeführt, in mehreren Lagen der Púchov-Kultur vorkommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Železná studňa",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Stücke von Eisenschlacke sind in den Schichten der Púchov-Kultur auch im Žiliner Becken ein mehr oder weniger häufiger Fund. Sie finden sich an mehreren Lagen in Malá Čierna, in Nezbudská Lúčka und in Závodie. In der Nordwestslowakei wurden bislang jedoch nur die Verhüttungsanlagen in der Lage Železná studňa in Varín archäologisch untersucht, und erst in letzter Zeit wurden ähnliche Anlagen in Bánová, Ovčiarne und Bitarová-Rybník untersucht. Belege für die Verhüttung von Hämatit in Varín sind vor allem die ovalen Halden von Verhüttungsabfall, deren Maße etwa 15 × 23 m erreichten, bei einer auf 1,5 m geschätzten Maximalhöhe. Entdeckt wurden Ofendestruktionen in Form eingestürzter Kuppeln und Fragmente durchgeglühter Roste. Als Teil des Produktionsprozesses wurden im Gelände auch Rinnen, eine hohe Konzentration von Eisenschlacke und nicht zuletzt Verhüttungsgerät entdeckt. Nach den Fundumständen der archäologischen Ausgrabung handelte es sich um Öfen mit Schlackenabstich, deren Produktion auf der Grundlage von C14 in die Zeit von der Mitte des 1. bis zum Anfang des 2. Jahrhunderts n. Chr. datiert wurde. Angesichts des Charakters der Besiedlung der Region wird die Tätigkeit jedoch bereits für das Ende der Latènezeit angenommen. Vor allem dickwandige Gefäße mit angeschmolzenen Resten. Leider konnte keiner der Öfen in situ untersucht werden, ebenso wie die Ausgrabung auch die Zahl der Verhüttungsanlagen nicht überprüfte. Die Autoren der Ausgrabung nehmen an, dass der Ofen bzw. die Öfen nach dem Ende jeder Verhüttungssaison niedergelegt wurden, um das Produktionsgeheimnis zu bewahren. Außer den Autoren der Ausgrabung befasste sich mit der Eisenverhüttung an der Železná studňa in Varín M. Giertlová-Kučerová in ihrer Diplomarbeit. Aus der Sicht der archäobotanischen Funde hat diese Fundstelle M. Hajnalová bewertet, die unter anderem auch auf die Tatsache aufmerksam machte, dass sich in der Vergangenheit an der Fundstelle bzw. in ihrer unmittelbaren Umgebung Eichen-Hainbuchen-Wälder befanden. Heute ist das Gebiet eher mit Nadelbäumen bewaldet, und ein Teil der Fundstelle besteht aus Grasweiden. Das in Varín verarbeitete Eisenerz stammte aus der Hämatitquelle im Rechtorská-Tal in der Lage Rudy. Die Analysen der Schlacke vom Fundplatz bestätigten die außerordentliche technologische Reife und das Geschick der Verhütter der Púchov-Kultur, was mit den antiken Nachrichten übereinstimmt. Ähnliche Verhüttungsanlagen werden auch in Nezbudská Lúčka (Lage Pri Háji) vermutet, wo schon seit langen Jahren zahlreiche Funde von Schlacke und Keramik aus der älteren Phase der römischen Kaiserzeit auftauchen. Weitere reiche Funde von Eisenschlacke sind auch aus der Lage Baňa in Nezbudská Lúčka und von der Mündung des örtlichen Baches in das Flussbett der Waag in der Lage Hradská dolina (nicht weit von Starhrad) bekannt. Die Begleitfunde von Keramik sind alle übereinstimmend in das 1. Jahrhundert n. Chr. datiert. Sollte es in Zukunft gelingen, an diesen der Železná studňa benachbarten Lagen durch Ausgrabungen die Verarbeitung von Eisenerz zu bestätigen, so handelte es sich zweifellos um ein außerordentlich bedeutendes und weitläufiges Zentrum der Verhüttung der Púchov-Kultur. Beim heutigen Erkenntnisstand gibt es jedoch keine ausreichenden Beweise, die eine solche Theorie eindeutig bestätigen würden. Während der Ausgrabung in der Lage Železná studňa wurden keine Wohnbefunde entdeckt, die auf die Existenz einer gleichzeitigen Siedlung der Verhütter hindeuten würden, die die pyrotechnischen Anlagen bedienten. Auch in der weiteren Umgebung war bislang keine Siedlung bekannt, abgesehen vielleicht von einer Siedlung in der Lage Strečno-Hradný vrch, wo Reste von Befunden mit Keramik erfasst wurden, die in die Stufe B1 datiert wird. So entstand die Frage, wo die Handwerker saßen, die in diesen weitläufigen Werkstätten im Gebiet von Varín arbeiteten. Diese Rätselfrage ist durch die vor kurzem erfolgte Entdeckung der terrassierten Siedlung in der Lage Gábrišová vielleicht teilweise beantwortet worden. Sie könnte mit dem Eisenzentrum an der Železná studňa zusammenhängen. Der Abbau verlief hier noch im vergangenen Jahrhundert. Auf der Gábrišová wurde bislang jedoch nur eine informative Detektoruntersuchung durchgeführt, aus der wir latènezeitliche Keramik kennen – graphithaltige situlenartige Gefäße und topfartige Formen. Die Metallgegenstände von dort weisen eher spätlatènezeitlichen Ursprung auf oder sind chronologisch nicht aussagekräftig. Es ist jedoch nicht ausgeschlossen, dass eine intensivere Ausgrabung ein Fortbestehen der Siedlung auch nach der Zeitenwende nachweisen würde. Es gibt überzeugende Beweise für das Geschick der Bevölkerung der Púchov-Kultur in der Eisenverarbeitung, was mit den Nachrichten der antiken Autoren übereinstimmt. Außer der untersuchten Lage an der Železná studňa in Varín sind auch Hinweise auf weitere Lagen in der Nähe der Železná studňa bekannt (z. B. Baňa und Lúky pod Jedľovinou), die auf die Existenz eines großen Zentrums der Eisenerzverarbeitung in der Strečno-Klamm, in der Nähe der natürlichen Eisenerzquellen, hindeuten. Die Befestigung mit der Siedlung auf den Terrassen der Gábrišová ergänzt vielleicht die Siedlungsstruktur, und man darf mit großer Wahrscheinlichkeit annehmen, dass gerade hier die Handwerker wohnten, die das Erz an der nahe gelegenen Železná studňa verarbeiteten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Varín / Nezbudská Lúčka - Gábrišová",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

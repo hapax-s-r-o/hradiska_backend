@@ -1,0 +1,305 @@
+{
+ "slug": "male-kozmalovce",
+ "data": {
+  "title": "Malé Kozmálovce – der Wachburgwall Grác in der Slowakischen Pforte",
+  "slug": "male-kozmalovce-wachburgwall-grac",
+  "excerpt": "Der Burgwall Grác bei Malé Kozmálovce liegt etwa 4 km nordwestlich von Starý Tekov. Er gehört zu den Wachburgwällen in der Slowakischen Pforte, die den Zugang zum Grantal schützten. Seine Bedeutung wuchs vor allem nach dem Zerfall der zentralen großmährischen Herrschaft zu Beginn des 10. Jahrhunderts, als diese Burgwälle die slawische Bevölkerung vor den Angriffen der Altungarn schützten.",
+  "metaTitle": "Malé Kozmálovce – Wachburgwall Grác in der Slowakischen Pforte",
+  "metaDescription": "Der Burgwall Grác bei Malé Kozmálovce bewachte den Zugang zum Grantal durch die Slowakische Pforte, vor allem nach dem Zerfall Großmährens im 10. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "4 km nordwestlich von Starý Tekov, auf dem Berg Pipíška, Grác genannt",
+    "icon": "map"
+   },
+   {
+    "label": "Funktion",
+    "value": "Wachburgwall in der Slowakischen Pforte, der den Zugang zum Grantal schützte",
+    "icon": "shield"
+   },
+   {
+    "label": "Fläche",
+    "value": "Befestigte Fläche in Form eines unregelmäßigen Vierecks mit abgerundeten Ecken, 2,4 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall mit einer Überhöhung von 3 m nach außen und 2 m in das Innere des Burgwalls, teilweise aus mörtellos gesetztem Stein errichtet",
+    "icon": "building"
+   },
+   {
+    "label": "Kriegergrab (1938)",
+    "value": "Schwert karolingischen Typs X, zwei eiserne Steigbügel und ein topfartiges Gefäß mit Wellenbandverzierung, datiert an das Ende des 8. und den Beginn des 9. Jahrhunderts",
+    "icon": "star"
+   },
+   {
+    "label": "Weitere Gräber (1947)",
+    "value": "Drei Gräber mit Tongefäßen und eisernen Lanzen, gefunden beim Sandabbau nördlich des Dorfes",
+    "icon": "custom"
+   },
+   {
+    "label": "Datierung der Besiedlung",
+    "value": "Nach den Oberflächenfunden von Keramik in das 9. bzw. 10. Jahrhundert datiert",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1938",
+    "title": "Entdeckung des Grabes eines slawischen Kriegers",
+    "description": "Beim Rigolen eines Weingartens nördlich des Dorfes wurde das Grab eines slawischen Kriegers mit einem Schwert karolingischen Typs X, zwei eisernen Steigbügeln und einem topfartigen Gefäß mit Wellenbandverzierung gefunden.",
+    "type": "discovery"
+   },
+   {
+    "year": "Ende 8. – Anfang 9. Jahrhundert",
+    "title": "Datierung des Kriegergrabes",
+    "description": "Das gefundene Grab lässt sich an das Ende des 8. und den Beginn des 9. Jahrhunderts datieren.",
+    "type": "era"
+   },
+   {
+    "year": "1947",
+    "title": "Fund von drei weiteren Gräbern",
+    "description": "Beim Sandabbau auf einer Geländeerhebung nördlich des Dorfes, zwischen der Straße nach Tlmače und dem Weingarten, wurden drei weitere Gräber mit Tongefäßen und eisernen Lanzen festgestellt; die Funde wurden nicht fachgerecht geborgen.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. – 10. Jahrhundert",
+    "title": "Datierung der Besiedlung und der Befestigung",
+    "description": "Nach den Oberflächenfunden von Keramik lassen sich die Besiedlung der Fundstelle und ihre Befestigung in das 9. bzw. 10. Jahrhundert datieren.",
+    "type": "era"
+   },
+   {
+    "year": "Anfang des 10. Jahrhunderts",
+    "title": "Schutz der Bevölkerung vor den Altungarn",
+    "description": "Nach dem Zerfall der zentralen großmährischen Herrschaft zu Beginn des 10. Jahrhunderts schützte der Burgwall gemeinsam mit den übrigen Wachburgwällen in der Slowakischen Pforte die slawische Bevölkerung vor den Angriffen der Altungarn.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6408,
+    "alt": "Mit weißer gestrichelter Linie markierter Wallkörper im blattlosen Wald am Hang"
+   },
+   {
+    "mediaId": 2083,
+    "caption": "LiDAR-Aufnahme des Burgwalls",
+    "alt": "LiDAR-Aufnahme des Burgwalls"
+   },
+   {
+    "mediaId": 2084,
+    "caption": "Luftbild des Burgwalls",
+    "alt": "Luftbild des Burgwalls"
+   },
+   {
+    "mediaId": 2085,
+    "alt": "Historischer Plan des Burgwalls Grác bei Malé Kozmálovce mit Schnitten und Maßstab"
+   },
+   {
+    "mediaId": 2086,
+    "alt": "Historische Karte des Burgwalls Grác, der Lage Hrádze und der neolithischen Siedlung bei Malé Kozmálovce"
+   },
+   {
+    "mediaId": 2087,
+    "caption": "Der freigelegte Wall gibt die Steinkonstruktion zu erkennen",
+    "alt": "Der freigelegte Wall gibt die Steinkonstruktion zu erkennen"
+   },
+   {
+    "mediaId": 2088,
+    "caption": "Der bis heute sichtbare Verlauf des Walls",
+    "alt": "Der bis heute sichtbare Verlauf des Walls"
+   },
+   {
+    "mediaId": 2089,
+    "alt": "Freigelegte Steindestruktion des Walls im Schnitt mit Maßstab"
+   },
+   {
+    "mediaId": 2090,
+    "caption": "Slawische Scherben vom Burgwall",
+    "alt": "Slawische Scherben vom Burgwall"
+   },
+   {
+    "mediaId": 2091,
+    "caption": "Frühmittelalterliches Schwert aus Malé Kozmálovce",
+    "alt": "Frühmittelalterliches Schwert aus Malé Kozmálovce"
+   },
+   {
+    "mediaId": 2092,
+    "caption": "Blick auf die Fundstelle des Burgwalls",
+    "alt": "Blick auf die Fundstelle des Burgwalls"
+   },
+   {
+    "mediaId": 2093,
+    "caption": "Wallkrone im nördlichen Teil",
+    "alt": "Wallkrone im nördlichen Teil"
+   },
+   {
+    "mediaId": 2094,
+    "caption": "Der nordöstliche Wall",
+    "alt": "Der nordöstliche Wall"
+   },
+   {
+    "mediaId": 2095,
+    "alt": "Wallkrone im blattlosen Wald am Hang über dem Fluss"
+   },
+   {
+    "mediaId": 2096,
+    "caption": "Blick vom Burgwall auf die Gran",
+    "alt": "Blick vom Burgwall auf die Gran"
+   },
+   {
+    "mediaId": 2097,
+    "caption": "Wall auf der Südseite des Burgwalls, A – neuzeitlicher Weg zu den Weingärten, B – Wallkörper, C – Innenraum des Burgwalls",
+    "alt": "Wall auf der Südseite des Burgwalls, A – neuzeitlicher Weg zu den Weingärten, B – Wallkörper, C – Innenraum des Burgwalls"
+   },
+   {
+    "mediaId": 2098,
+    "alt": "Wall auf der Nordseite des Burgwalls im frühlingshaften Wald"
+   },
+   {
+    "mediaId": 2099,
+    "alt": "Mit weißer gestrichelter Linie markierte Wallkrone im Wald"
+   },
+   {
+    "mediaId": 2100,
+    "caption": "Markierung des Wallkörpers auf der Nordseite",
+    "alt": "Markierung des Wallkörpers auf der Nordseite"
+   },
+   {
+    "mediaId": 2101,
+    "alt": "Luftbild der Flussschlinge und des Weges entlang des bewaldeten Sporns"
+   },
+   {
+    "mediaId": 2102,
+    "alt": "Luftbild des Burgwalls über dem Fluss im herbstlichen Nebel"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Grác – Malé Kozmálovce liegt etwa 4 km nordwestlich von Starý Tekov. Er gehört zu den Wachburgwällen im Gebiet der Slowakischen Pforte, deren Aufgabe es war, den Zugang zum Grantal zu schützen. Seine Bedeutung gewann der Burgwall gemeinsam mit den übrigen Wachburgwällen, die in der "
+       },
+       {
+        "type": "link",
+        "url": "/hradiska",
+        "children": [
+         {
+          "type": "text",
+          "text": "Slowakischen Pforte"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " errichtet wurden, vor allem in der Zeit nach dem Zerfall der zentralen großmährischen Herrschaft zu Beginn des 10. Jahrhunderts, als sie die slawische Bevölkerung vor den Angriffen der Altungarn schützten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Aufnahme des Burgwalls",
+    "alt": "LiDAR-Aufnahme des Burgwalls",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1938 wurde beim Rigolen eines Weingartens nördlich des Dorfes das Grab eines slawischen Kriegers gefunden. Im Grab lagen beim Skelett ein Schwert karolingischen Typs X, zwei eiserne Steigbügel und ein topfartiges Gefäß mit Wellenbandverzierung. Das Grab lässt sich an das Ende des 8. und den Beginn des 9. Jahrhunderts datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere drei Gräber, in denen sich angeblich Tongefäße und eiserne Lanzen befanden (von den Funden hat sich nur ein fassförmiges Gefäß erhalten), wurden im Jahr 1947 beim Sandabbau auf einer Geländeerhebung nördlich des Dorfes zwischen der Straße nach Tlmače und dem Weingarten festgestellt. Leider wurden diese Funde nicht fachgerecht geborgen, und zu ihren Fundumständen fehlen nähere Angaben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Luftbild des Burgwalls",
+    "alt": "Luftbild des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Reste der Erdbefestigung bzw. des Burgwalls haben sich im östlichen Teil des Berges Pipíška, Grác genannt, erhalten, der von einem Akazienwald und im südlichen Teil von Weingärten bedeckt ist. Der Berg fällt mit seinem östlichen Rand steil über einen Felsabsturz in das Überschwemmungsgebiet der Gran ab, die einen natürlichen Schutz der Lage bildet. Von den übrigen Seiten schützte die Lage ein Wall, der mit seinen östlichen Enden an den genannten Felsabsturz anschloss und eine Fläche in Form eines unregelmäßigen Vierecks mit abgerundeten Ecken (2,4 ha) umgrenzte. Der Wall hat in den besser erhaltenen Abschnitten nach außen eine Überhöhung von 3 m, in das Innere des Burgwalls von 2 m. Das Material für seine Aufschüttung wurde teilweise an Ort und Stelle gewonnen, entlang des Walls ist jedoch kein deutlicherer Graben zu erkennen. Für den Bau der Fortifikation wurde zu einem erheblichen Teil Stein verwendet, der nicht mit Mörtel verbunden ist. Die so umschlossene Fläche des Burgwalls wird durch einen niedrigen Wall in Richtung Süd–Nord in zwei Teile gegliedert – einen westlichen und einen östlichen. Nach den Oberflächenfunden von Keramik lassen sich die Besiedlung der Fundstelle und ihre Befestigung in das 9. bzw. 10. Jahrhundert datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto: Matúš Martinák"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

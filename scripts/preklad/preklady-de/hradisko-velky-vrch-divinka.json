@@ -1,0 +1,967 @@
+{
+ "slug": "hradisko-velky-vrch-divinka",
+ "data": {
+  "title": "Divinka – Veľký vrch: eine der größten Burganlagen der Slowakei",
+  "slug": "divinka-velky-vrch-grosse-burganlage",
+  "excerpt": "In der Neuzeit untersuchte die Burganlage zuerst Dr. Petrovský-Šichman im Jahr 1947; eigenständige Ausgrabungen fanden auf dem Veľký vrch bei Divinka in den Jahren 1972–1973 statt. Es handelt sich um eine große zentrale Burganlage auf der Kote 530,1, die von mächtigen Wällen aus drei Zeithorizonten befestigt ist: der jüngeren bis späten Bronzezeit, der späten Latènezeit bis älteren römischen Kaiserzeit und dem 9. Jahrhundert. Die gesamte befestigte Fläche übersteigt 12 ha.",
+  "metaTitle": "Divinka – Veľký vrch: eine der größten Burganlagen der Slowakei",
+  "metaDescription": "Große zentrale Burganlage auf dem Veľký vrch bei Divinka mit mächtigen Wällen aus drei Zeithorizonten; untersucht schon seit dem Jahr 1947.",
+  "keyFacts": [
+   {
+    "label": "Gesamtfläche der Befestigung",
+    "value": "über 12 ha",
+    "icon": "map"
+   },
+   {
+    "label": "Höhe über Meer (Kote)",
+    "value": "530,1 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Zahl der Zeithorizonte der Befestigung",
+    "value": "3 (späte Bronzezeit, Spätlatènezeit–ältere römische Kaiserzeit, 9. Jahrhundert)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Zahl der entdeckten Pfostengruben von Behausungen",
+    "value": "über 50",
+    "icon": "building"
+   },
+   {
+    "label": "Zahl der Keramikfragmente (Ausgrabung Ohrádza)",
+    "value": "über 3000 Stück",
+    "icon": "custom"
+   },
+   {
+    "label": "Breite des jüngeren (Púchov-)Walles",
+    "value": "etwa 2 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Breite des älteren (Lausitzer) Walles",
+    "value": "4 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Wichtigste Grabungskampagnen",
+    "value": "1947, 1955–1959, 1972–1973",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4.–3. Jahrtausend v. Chr.",
+    "title": "Älteste Besiedlung der Gemarkung",
+    "description": "Funde aus dem Paläolithikum (ein Klingenabschlag aus Quarz am Felsen Všivák) und vor allem aus dem Neolithikum und Äneolithikum (Keramik, Scherben der Badener Kultur, ein Steinhammerbeil aus dem 3. Jahrtausend) belegen die intensive Nutzung der Gemarkung von Divinka durch die ersten Bauern.",
+    "type": "discovery"
+   },
+   {
+    "year": "10. Jahrhundert v. Chr.",
+    "title": "Errichtung des ursprünglichen Walles",
+    "description": "Nach der Radiokarbonanalyse errichtete man den ursprünglichen Wall im 10. Jahrhundert v. Chr., wahrscheinlich im Laufe der späten Bronzezeit (Stufe HB1), an der Stelle einer älteren unbefestigten Höhensiedlung der Lausitzer Kultur.",
+    "type": "founding"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Errichtung des Oppidums der Púchov-Kultur",
+    "description": "Das Volk der Púchov-Kultur errichtete auf der älteren Befestigung aus der späten Bronzezeit eine mächtige Festung (ein etwa 2 m breiter Steinwall); die Anlage wurde zum Zentrum von Produktion, Handel und auch der Prägung silberner Münzen des Typs Divinka.",
+    "type": "construction"
+   },
+   {
+    "year": "erste Jahrzehnte n. Chr. (20–30 n. Chr.)",
+    "title": "Zerstörung der Burganlage durch die Germanen",
+    "description": "Die Burganlage wurde während eines verheerenden Einfalls der Germanen zerstört, der auch die übrigen Burganlagen in der Nordslowakei zerstörte und eine erhebliche Dezimierung der Bevölkerung verursachte.",
+    "type": "destruction"
+   },
+   {
+    "year": "Ende des 2. Jahrhunderts n. Chr. (166–180)",
+    "title": "Untergang der Púchov-Kultur",
+    "description": "Auf Befehl des Kaisers Marcus Aurelius wurden die Kotiner am Ende der Markomannenkriege in die römische Provinz Pannonien verschleppt, wodurch die Púchov-Kultur als Teil der Besiedlung dieses Gebietes am Ende des 2. Jahrhunderts n. Chr. unterging.",
+    "type": "event"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Aufschwung der slawischen Besiedlung der Becken",
+    "description": "Ein ungewöhnlicher Aufschwung der Besiedlung trat im 8.–9. Jahrhundert ein, als schon das gesamte Becken von Žilina und von Bytča besiedelt war, was Dutzende von Siedlungen und ausgedehnte Hügelgräberfelder in der Umgebung belegen.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawische Wiederbefestigung der Burganlage",
+    "description": "Die slawische Bevölkerung nutzte die gut sichtbaren alten Wälle zur erneuten Befestigung der Lage, hervorgehoben durch eine hölzerne Palisade, und errichtete auf der Hauptburg Behausungen in Blockbauweise auf steinernen Unterbauten.",
+    "type": "construction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Untergang der slawischen Besiedlung der Burganlage",
+    "description": "Funde eiserner Kampfmesser und die Hälfte eines eisernen Sporns auf der Wallkrone belegen schwere Kämpfe zwischen den einheimischen Verteidigern und neuen Angreifern eigener, slawischer Herkunft, in der Zeit der Formierung des Fürstentums Neutra oder Großmährens.",
+    "type": "destruction"
+   },
+   {
+    "year": "zweite Hälfte des 9. Jahrhunderts",
+    "title": "Anschluss der Nordslowakei an Großmähren",
+    "description": "In der zweiten Hälfte des 9. Jahrhunderts wurde die Nordslowakei Teil Großmährens, auch wenn der Prozess nicht glatt verlief und die hiesigen Stämme sich dagegen wehrten.",
+    "type": "event"
+   },
+   {
+    "year": "12.–13. Jahrhundert",
+    "title": "Entstehung der mittelalterlichen kleinen Burg Hradisko",
+    "description": "Auf dem benachbarten Hügel Hradisko (Gemarkung von Divina) entstand an der Wende vom 12. zum 13. Jahrhundert eine kleine mittelalterliche Burg, der Sitz eines örtlichen Feudalherrn, als kurze Episode der Fortsetzung des einstigen Ruhms der Burganlage.",
+    "type": "founding"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Untergang der kleinen Burg Hradisko",
+    "description": "Die kleine Burg wurde wohl schon im 13. Jahrhundert zerstört; bei Probeschnitten im Jahr 1982 unmittelbar in die Wallkrone wurden außer Keramik auch stark durchgebrannte Schichten festgestellt, ein Beweis für die Zerstörung der Burg.",
+    "type": "destruction"
+   },
+   {
+    "year": "1947",
+    "title": "Erste moderne Ausgrabung",
+    "description": "Dr. A. Petrovský-Šichman untersuchte die Burganlage in der Neuzeit als Erster und erstellte die erste Skizze der Wälle, die er Prof. Vojtech Budinský-Krička zusandte.",
+    "type": "discovery"
+   },
+   {
+    "year": "1955–1959",
+    "title": "Rettungsgrabung auf der Ohrádza",
+    "description": "Während des Baus der Talsperre von Hričov führte Petrovský-Šichman auf der Lage Ohrádza eine archäologische Rettungsgrabung durch, bei der er über 3000 Keramikscherben und Siedlungsbefunde mit Feuerstellen gewann.",
+    "type": "discovery"
+   },
+   {
+    "year": "1972–1973",
+    "title": "Systematische Ausgrabung der Hauptburg",
+    "description": "Das Archäologische Institut der SAW in Nitra und das Považské-Museum in Žilina führten in den Sommermonaten 1972 und 1973 eine auf die Hauptburg konzentrierte Ausgrabung durch, die zwei Bauphasen des Walles und viele Schlüsselfunde aufdeckte.",
+    "type": "discovery"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6359,
+    "alt": "Rekonstruktion der Burganlage mit Palisaden und Häusern auf den Terrassen des Hügels über dem Fluss"
+   },
+   {
+    "mediaId": 2868,
+    "caption": "Die Struktur der Burganlage (Autor G. Fusek 2014)",
+    "alt": "Die Struktur der Burganlage (Autor G. Fusek 2014)"
+   },
+   {
+    "mediaId": 2869,
+    "caption": "Das mögliche Aussehen der Burganlage im 9. Jahrhundert. Nach dem heutigen Stand der Kenntnisse reparierten die Slawen offenbar die alte keltische Befestigung und setzten eine neue Palisade. Autor der Zeichnung: Miroslav Bros",
+    "alt": "Das mögliche Aussehen der Burganlage im 9. Jahrhundert. Nach dem heutigen Stand der Kenntnisse reparierten die Slawen offenbar die alte keltische Befestigung und setzten eine neue Palisade. Autor der Zeichnung: Miroslav Bros"
+   },
+   {
+    "mediaId": 2870,
+    "caption": "Vermutetes Aussehen der Burganlage in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj",
+    "alt": "Vermutetes Aussehen der Burganlage in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj"
+   },
+   {
+    "mediaId": 2871,
+    "caption": "Panorama der Umgebung von Divinka mit eingezeichneten Fundstellen (Autor Naj)",
+    "alt": "Panorama der Umgebung von Divinka mit eingezeichneten Fundstellen (Autor Naj)"
+   },
+   {
+    "mediaId": 2872,
+    "caption": "Blick auf den Veľký vrch in der Zeit, als er nicht bewaldet war (aus dem Archiv von Jozef Jaroš)",
+    "alt": "Blick auf den Veľký vrch in der Zeit, als er nicht bewaldet war (aus dem Archiv von Jozef Jaroš)"
+   },
+   {
+    "mediaId": 2873,
+    "caption": "Blick auf die Siedlungsagglomeration in Divinka: 1. Veľký vrch, 2. Ohrádza, 3. Hôrka, 4. Niva, 5. Hradisko, 6. Háj, 7. Tomášovec; Blick von S (Autorin: Z. Staneková)",
+    "alt": "Blick auf die Siedlungsagglomeration in Divinka: 1. Veľký vrch, 2. Ohrádza, 3. Hôrka, 4. Niva, 5. Hradisko, 6. Háj, 7. Tomášovec; Blick von S (Autorin: Z. Staneková)"
+   },
+   {
+    "mediaId": 2874,
+    "caption": "Silberne keltische Münze – Typ Divinka, gefunden auf der Burganlage (Archiv des Považské-Museums in Žilina)",
+    "alt": "Silberne keltische Münze – Typ Divinka, gefunden auf der Burganlage (Archiv des Považské-Museums in Žilina)"
+   },
+   {
+    "mediaId": 2875,
+    "caption": "Eiserne Gegenstände – Messerchen, eine kleine Harpune, links ein Hobel, rechts der Kopf eines großen Niets",
+    "alt": "Eiserne Gegenstände – Messerchen, eine kleine Harpune, links ein Hobel, rechts der Kopf eines großen Niets"
+   },
+   {
+    "mediaId": 2876,
+    "caption": "Bronzene und eiserne Fibeln von der Wende der Zeitrechnung",
+    "alt": "Bronzene und eiserne Fibeln von der Wende der Zeitrechnung"
+   },
+   {
+    "mediaId": 2877,
+    "caption": "Einheimische, mit Rillen verzierte Keramik, Scherbe eines bemalten Gefäßes, rechts eine Scherbe mit Asphaltüberzug",
+    "alt": "Einheimische, mit Rillen verzierte Keramik, Scherbe eines bemalten Gefäßes, rechts eine Scherbe mit Asphaltüberzug"
+   },
+   {
+    "mediaId": 2878,
+    "caption": "Kleine Bronzeschmuckstücke, ein silberner Spiegel, eine Meeresmuschel, eine Glasperle, eine Bernsteinperle",
+    "alt": "Kleine Bronzeschmuckstücke, ein silberner Spiegel, eine Meeresmuschel, eine Glasperle, eine Bernsteinperle"
+   },
+   {
+    "mediaId": 2879,
+    "caption": "Silberne Münze, die während der Ausgrabung auf der Burganlage gefunden wurde",
+    "alt": "Silberne Münze, die während der Ausgrabung auf der Burganlage gefunden wurde"
+   },
+   {
+    "mediaId": 2880,
+    "caption": "Goldener Ohrring, gefunden in der Siedlung Ohrádza unter dem Veľký vrch",
+    "alt": "Goldener Ohrring, gefunden in der Siedlung Ohrádza unter dem Veľký vrch"
+   },
+   {
+    "mediaId": 2881,
+    "caption": "Depotfund von Werkzeugen aus der Zeit Großmährens, kürzlich auf der Burganlage gefunden",
+    "alt": "Depotfund von Werkzeugen aus der Zeit Großmährens, kürzlich auf der Burganlage gefunden"
+   },
+   {
+    "mediaId": 2886,
+    "caption": "Blick auf die Burganlage Veľký vrch bei Divinka",
+    "alt": "Blick auf die Burganlage Veľký vrch bei Divinka"
+   },
+   {
+    "mediaId": 2887,
+    "caption": "Hergerichteter Felsuntergrund eines wahrscheinlich ursprünglichen Speichers",
+    "alt": "Hergerichteter Felsuntergrund eines wahrscheinlich ursprünglichen Speichers"
+   },
+   {
+    "mediaId": 2888,
+    "caption": "Durchgebrannter Untergrund – eine Schmiedeesse",
+    "alt": "Durchgebrannter Untergrund – eine Schmiedeesse"
+   },
+   {
+    "mediaId": 2889,
+    "caption": "Pfostengrübchen von Befunden, im Hintergrund die Steinmauer aus dem 1. Jahrhundert v. Chr.",
+    "alt": "Pfostengrübchen von Befunden, im Hintergrund die Steinmauer aus dem 1. Jahrhundert v. Chr."
+   },
+   {
+    "mediaId": 2890,
+    "caption": "Steinwall aus der späten Bronzezeit um die Hauptburg",
+    "alt": "Steinwall aus der späten Bronzezeit um die Hauptburg"
+   },
+   {
+    "mediaId": 2891,
+    "caption": "Zisterne zum Auffangen von Regenwasser",
+    "alt": "Zisterne zum Auffangen von Regenwasser"
+   },
+   {
+    "mediaId": 2892,
+    "caption": "Slawisches Gefäß von der Burganlage",
+    "alt": "Slawisches Gefäß von der Burganlage"
+   },
+   {
+    "mediaId": 2897,
+    "caption": "Der Wall im Nordwesten",
+    "alt": "Der Wall im Nordwesten"
+   },
+   {
+    "mediaId": 2898,
+    "caption": "Durch den nordwestlichen Teil des Walles führt ein Weg, der offenbar erst in der Neuzeit durchgebrochen wurde",
+    "alt": "Durch den nordwestlichen Teil des Walles führt ein Weg, der offenbar erst in der Neuzeit durchgebrochen wurde"
+   },
+   {
+    "mediaId": 2899,
+    "caption": "Fortsetzung des Walles samt Palisade ...",
+    "alt": "Fortsetzung des Walles samt Palisade ..."
+   },
+   {
+    "mediaId": 2900,
+    "caption": "Der steile Nordhang",
+    "alt": "Der steile Nordhang"
+   },
+   {
+    "mediaId": 2901,
+    "caption": "Aussicht vom Malý vrch",
+    "alt": "Aussicht vom Malý vrch"
+   },
+   {
+    "mediaId": 2903,
+    "caption": "Aufstieg zur inneren Befestigung",
+    "alt": "Aufstieg zur inneren Befestigung"
+   },
+   {
+    "mediaId": 2904,
+    "caption": "Im Hintergrund deutlich sichtbar der hohe Wall im südlichen Teil der Burganlage",
+    "alt": "Im Hintergrund deutlich sichtbar der hohe Wall im südlichen Teil der Burganlage"
+   },
+   {
+    "mediaId": 2905,
+    "caption": "Erneut der Südwall",
+    "alt": "Erneut der Südwall"
+   },
+   {
+    "mediaId": 2907,
+    "caption": "An dieser Stelle ist der Wall durchschnitten – offenbar während der Ausgrabung von Herrn Moravčík",
+    "alt": "An dieser Stelle ist der Wall durchschnitten – offenbar während der Ausgrabung von Herrn Moravčík"
+   },
+   {
+    "mediaId": 2908,
+    "caption": "Die Wallkrone",
+    "alt": "Die Wallkrone"
+   },
+   {
+    "mediaId": 2909,
+    "caption": "Erneut die Wallkrone im Süden",
+    "alt": "Erneut die Wallkrone im Süden"
+   },
+   {
+    "mediaId": 2910,
+    "caption": "der Zweck dieser Grube in der Nähe des Südwalles ist mir unklar",
+    "alt": "der Zweck dieser Grube in der Nähe des Südwalles ist mir unklar"
+   },
+   {
+    "mediaId": 2913,
+    "caption": "eine Grube und rechts der Wall",
+    "alt": "eine Grube und rechts der Wall"
+   },
+   {
+    "mediaId": 2914,
+    "caption": "Fortsetzung des Walles im Südwesten",
+    "alt": "Fortsetzung des Walles im Südwesten"
+   },
+   {
+    "mediaId": 2916,
+    "caption": "Im Südwesten ist der Wall unterbrochen – offenbar stand hier das Eingangstor",
+    "alt": "Im Südwesten ist der Wall unterbrochen – offenbar stand hier das Eingangstor"
+   },
+   {
+    "mediaId": 2917,
+    "caption": "Auch heute führt an der Stelle des einstigen Tores ein Weg auf die Burganlage",
+    "alt": "Auch heute führt an der Stelle des einstigen Tores ein Weg auf die Burganlage"
+   },
+   {
+    "mediaId": 2918,
+    "caption": "Fortsetzung des Walles nach Westen",
+    "alt": "Fortsetzung des Walles nach Westen"
+   },
+   {
+    "mediaId": 2919,
+    "caption": "Blick auf die Hauptburg im westlichen Teil der Burganlage",
+    "alt": "Blick auf die Hauptburg im westlichen Teil der Burganlage"
+   },
+   {
+    "mediaId": 2920,
+    "caption": "Blick von der Hauptburg auf den Wall",
+    "alt": "Blick von der Hauptburg auf den Wall"
+   },
+   {
+    "mediaId": 2921,
+    "caption": "Der Gipfel der Hauptburg – viele Steine, offenbar von Bauten, die auf der Hauptburg errichtet waren",
+    "alt": "Der Gipfel der Hauptburg – viele Steine, offenbar von Bauten, die auf der Hauptburg errichtet waren"
+   },
+   {
+    "mediaId": 2924,
+    "caption": "Fortsetzung des Walles der Hauptburg in Richtung Nordosten",
+    "alt": "Fortsetzung des Walles der Hauptburg in Richtung Nordosten"
+   },
+   {
+    "mediaId": 2926,
+    "caption": "Im Hintergrund ein Teil des Walles im Südosten",
+    "alt": "Im Hintergrund ein Teil des Walles im Südosten"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Neuzeit untersuchte die Burganlage zuerst Dr. Petrovský-Šichman im Jahr 1947. Eigenständige Ausgrabungen auf der Burganlage fanden auf dem Veľký vrch bei Divinka in den Jahren 1972–1973 statt. Wie jedoch der Archäologe des Považské-Museums in Žilina (Sillein), Dr. Jozef Moravčík, in dem Artikel Opevnenia severozápadného Slovenska. (2002 VZP XXI: 7–36) anführte: „die Funde und Grabungsergebnisse wurden bisher nicht übersichtlich bearbeitet und umfassend publiziert. Im Fall von Divinka handelt es sich um eine große zentrale Burganlage, die auf der Kote 530,1 liegt und mit mächtigen Wällen befestigt ist, die in drei Zeithorizonten errichtet wurden. Die gesamte befestigte Fläche übersteigt 12 ha, und das System der Wälle umschließt den oberen Teil der Kote, die an der Grenze zwischen dem Becken von Žilina und dem Becken von Bytča liegt (Moravčík 1980a, 19, 30). Die Nutzung der Lage wird in drei Zeithorizonte datiert: 1. die jüngere bis späte Bronzezeit, 2. die späte "
+       },
+       {
+        "type": "text",
+        "text": "Latènezeit ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "bis ältere römische Kaiserzeit, 3. danach das 9. Jahrhundert.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für unsere Seite stellte Herr Moravčík einen außerordentlich interessanten Artikel zur Geschichte der Burganlage zur Verfügung, den Sie an anderer Stelle nicht finden. Auf diesem Wege möchte ich ihm für sein entgegenkommendes Verhalten und die Zusammenarbeit danken. ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Struktur der Burganlage (Autor G. Fusek 2014)",
+    "alt": "Die Struktur der Burganlage (Autor G. Fusek 2014)",
+    "width": "60",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Divinka gehört zu den Gemeinden, die eine bis tief in die Urgeschichte belegte Besiedlung haben. Schon die ersten Funde aus der Zeit des Paläolithikums und des Neolithikums deuteten darauf hin, dass wir hier einen außerordentlich reichen Raum der ältesten Besiedlung haben. Ein Klingenabschlag aus Quarz, gefunden am Felsen Všivák, zeigt eine Besiedlung dieses Raumes schon in der Zeit der älteren Steinzeit an, viel intensiver sind jedoch die Funde aus der jüngeren Steinzeit (dem Neolithikum) und aus der späten Steinzeit (dem Äneolithikum). Unter dem Felsen Všivák fand Ľ. Hroš auf dem Feld Keramik aus der Zeit des Neolithikums und A. Petrovský-Šichman unmittelbar auf dem Veľký vrch Scherben der Badener Kultur aus der Zeit des Äneolithikums. Im nahen Divina fand sich auch ein steinernes Hammerbeil aus dem 3. Jahrtausend. Es ist daher mehr als wahrscheinlich, dass die Gemarkung von Divinka schon im 4.–3. Jahrtausend v. Chr. intensiv auch von den ersten Bauern genutzt wurde, die hier in dieser Zeit begannen, die Landschaft zu kultivieren und sich auch die ersten ständigen Siedlungen zu errichten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das mögliche Aussehen der Burganlage im 9. Jahrhundert. Nach dem heutigen Stand der Kenntnisse reparierten die Slawen offenbar die alte keltische Befestigung und setzten eine neue Palisade. Autor der Zeichnung: Miroslav Bros",
+    "alt": "Das mögliche Aussehen der Burganlage im 9. Jahrhundert. Nach dem heutigen Stand der Kenntnisse reparierten die Slawen offenbar die alte keltische Befestigung und setzten eine neue Palisade. Autor der Zeichnung: Miroslav Bros",
+    "width": "60",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wichtigste Fundstelle in der Gemarkung der Gemeinde ist jedoch die Burganlage auf dem Veľký vrch, der auch Bučník genannt wird (offenbar nach den Buchen, die hier auch heute vor allem am Nordhang des Hügels wachsen). Die Burganlage befindet sich an der Grenze zwischen dem Becken von Žilina und dem Becken von Bytča, unmittelbar über der Talsperre von Hričov, und gehört zu den wichtigsten Befestigungen der Nordslowakei, die in der Zeit von mindestens drei Zeithorizonten zu bedeutenden wirtschaftlichen und kulturellen Zentren wurden: in der späten Bronzezeit, in der späten Latènezeit und im 9. Jahrhundert. Auch die Befestigungen auf dem Veľký vrch gehören nicht zu den kleinsten, ganz im Gegenteil, auch in heutigen Zeiten sind hier mächtige Wälle zu sehen, die nicht nur das obere Plateau des Hügels, sondern auch einen weiten Raum an seiner Nordseite umschließen, sodass die gesamte befestigte Fläche 12 ha erreicht. Dr. A. Petrovský-Šichman nannte die Befestigung in Divinka die größte prähistorische Burg der Nordslowakei und hielt sie für die zentrale Burg des Stammes der Nordslowakei in der Zeit des 9. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Vermutetes Aussehen der Burganlage in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj",
+    "alt": "Vermutetes Aussehen der Burganlage in der Latènezeit (Púchov-Kultur), Autor des 3D-Modells: Naj",
+    "width": "60",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Burganlage in Divinka schrieb schon Alexander Lombardíni im Jahr 1885 in Slovenské pohľady. Er beschrieb nicht nur die mächtigen Wälle: an der Südseite 1 Klafter hoch und 790 Schritte lang, sondern auch die Zisterne an der Nordseite der Befestigung, in der man Regenwasser auffing. Er erwähnt auch den ältesten Bürger von Divinka, den 85-jährigen Ján Kišoň, der erzählte, dass vor etwa 72 Jahren am höchsten Punkt der Burganlage noch sogar Mauertrümmer zu sehen waren. Ján Kišoň fand vor etwa 60 Jahren unter den Schanzen des Veľký vrch im Wald Bukovina in einer Tiefe von zwei Schuhen eine eiserne Lanze, und Eva Stražanová fand hier in jener Zeit angeblich ein goldenes Häkchen. Was alles in dem Artikel von A. Lombardíni wahr ist, können wir heute nicht mit Sicherheit sagen; Tatsache bleibt jedoch, dass die Burganlage auf dem Veľký vrch zu den wichtigsten Objekten auf dem gesamten Gebiet der Slowakei gehört und ihre Bedeutung sich mit solchen Befestigungen wie Devín, Nitra, Bratislava, Liptovská Mara, der Zipser Burg und weiteren vergleichen lässt. Die Burganlage spielte bei der Formierung der Besiedlung in mindestens drei Zeithorizonten der ältesten Perioden eine wichtige Rolle, wobei auch ihre Umgebung mindestens in der jüngeren und späten Bronzezeit, in der Zeit um die Wende der Zeitrechnung und dann im 8.–9. Jahrhundert intensiv besiedelt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Panorama der Umgebung von Divinka mit eingezeichneten Fundstellen (Autor Naj)",
+    "alt": "Panorama der Umgebung von Divinka mit eingezeichneten Fundstellen (Autor Naj)",
+    "width": "100",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am intensivsten befasste sich mit der Burganlage auf dem Veľký vrch bei Divinka Dr. A. Petrovský-Šichman, der schon im Jahr 1947 auch die erste Skizze der Wälle erstellte, die er seinem Lehrer am Lehrstuhl für Archäologie in Bratislava, Prof. Vojtech Budinský-Krička DrSc., zusandte. In den Jahren 1955–1959 begann er sich intensiver auch dem umliegenden Gelände zu widmen und führte während des Baus der Talsperre von Hričov auf der Lage Ohrádza eine archäologische Rettungsgrabung durch, wo sich eine ausgedehnte Siedlung aus mehreren Perioden der Urgeschichte und der frühen Geschichtszeit befand. Bei Beobachtungen im Jahr 1955 bemerkte er, dass auf den benachbarten Lagen Štvrtce und Putnisko archäologische Funde fehlen, deshalb konzentrierte er sich während der Ausgrabung des Jahres 1959 nur auf den Raum der Ohrádza. Hier gelang es ihm, auch Siedlungsbefunde mit Feuerstellen, zusammenhängende Steinschichten, die Böden von Behausungen sein konnten, aber vor allem eine enorme Menge an Keramikfragmenten (über 3000 Stück typischer Scherben) zu identifizieren, die die hiesige Besiedlung in mindestens 2–3 Zeithorizonte datierten. Die intensivste Besiedlung war die Siedlung des Volkes der Lausitzer Kultur aus der älteren Eisenzeit, dann die Siedlung der Púchov-Kultur aus der späten Latènezeit bis zur älteren römischen Kaiserzeit, und vereinzelt fanden sich auch Scherben slawischer Gefäße. Erstmals gelang es, in der Nordslowakei auch Funde dakischer und quadischer Keramik zu erfassen. Das bedeutet, dass bis in diese Gegenden die Einflüsse der Daker und Quaden aus der Südslowakei reichten, sei es durch direkte Anwesenheit im Milieu der Púchov-Kultur oder wohl eher durch Tauschhandel mit den hiesigen Herstellern. Nur einige Scherben stammen von Gefäßen, die aus den römischen Provinzen eingeführt wurden, was es gleichzeitig ermöglicht, die hiesige Besiedlung bis in die römische Kaiserzeit zu datieren, also in die Zeit, als die eigentliche Burganlage schon durch den Einfall der Germanen zerstört war, der sich in den ersten Jahrzehnten n. Chr. abspielte. Einige kleine Funde aus der älteren römischen Kaiserzeit gelang es auch in den Fundamenten des Anbaus von Jozef Faltýn im Jahr 1975 zu erfassen. Das Leben in der Umgebung der Burganlage hörte also auch dann nicht auf, als die Befestigungen auf dem Veľký vrch schon verlassen waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Veľký vrch in der Zeit, als er nicht bewaldet war (aus dem Archiv von Jozef Jaroš)",
+    "alt": "Blick auf den Veľký vrch in der Zeit, als er nicht bewaldet war (aus dem Archiv von Jozef Jaroš)",
+    "width": "60",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der einzigartigste Fund aus der Umgebung der Siedlung auf der Ohrádza ist ein goldener Ohrring, der in den 60er Jahren bei einer prosaischen Arbeit auf dem Feld – dem Kartoffelgraben – gefunden wurde. Gefunden hat ihn die Schwester von Herrn Kišoň, dem langjährigen gewissenhaften Mitarbeiter des Považské-Museums in Žilina. Der Ohrring ist zusammen mit einem ähnlichen Exemplar aus Orava-Veľký Bysterec ein hervorragender Beleg für das Schmuckhandwerk des Volkes der Púchov-Kultur. Beide sind derzeit in der Ausstellung Klenoty Slovenska auf der Burg von Bratislava zu sehen. Nach dieser kurzen Exkursion in die Geschichte der Burganlage Divinka Veľký vrch können wir uns endlich daran machen, die Beweise zu beleuchten, die zu ihrer außerordentlichen Stellung auf dem Gebiet der Nordslowakei führten. Als im Februar des Jahres 1971 der Geologische Dienst Žilina auf der Fundstelle Veľký vrch Sondierungen zum Zweck der Gewinnung eines geeigneten Ortes für den Abbau von Material für den Autobahnbau begann, war zu sehen, dass hier nicht nur die ursprünglichen Siedlungsschichten gestört wurden, sondern an mehreren Stellen auch die Erdwälle, die den zentralen Teil der Burganlage, die Hauptburg, umschlossen. Bei der Besichtigung der Fundstelle gelang es, in der ausgeworfenen Erde eines am Südhang der Hauptburg angelegten Schnitts eine spätlatènezeitliche Fibel zu finden, die aus dem sogenannten Weißmetall (einer Legierung von Kupfer und Zinn mit höherem Zinngehalt) hergestellt war. Die Fibel hatte mit ihrer Gestaltung und ihrem Erhaltungszustand (sie ist völlig vollständig) zu jener Zeit auf dem Gebiet der Slowakei nicht ihresgleichen. Sie gehört zum Typ Almgren 66 (Gliederung der latènezeitlichen und römischen Fibeln nach dem schwedischen Forscher Olaf Almgren, die er noch im Jahr 1923 in Leipzig publizierte), und ähnliche Funde stammen aus den keltischen Oppida in Böhmen, in Třísov und Stradonice. Mit ihrer vollkommenen Form und ihrem ausgezeichneten Erhaltungszustand gehört sie zu den Unikaten der spätlatènezeitlichen Fibeln, die in der Zeit um die Mitte des 1. Jahrhunderts v. Chr. hergestellt wurden. Auch weitere Funde, vor allem von Keramik der Lausitzer und der Púchov-Kultur, legten nahe, dass hier eine archäologische Sondagegrabung gemacht werden müsse, die die einzelnen Phasen der Besiedlung der Burganlage beleuchten und gleichzeitig ihre Bedeutung in der Geschichte der Slowakei hervorheben könnte, die sich bis dahin nur erahnen ließ."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die Siedlungsagglomeration in Divinka: 1. Veľký vrch, 2. Ohrádza, 3. Hôrka, 4. Niva, 5. Hradisko, 6. Háj, 7. Tomášovec; Blick von S (Autorin: Z. Staneková)",
+    "alt": "Blick auf die Siedlungsagglomeration in Divinka: 1. Veľký vrch, 2. Ohrádza, 3. Hôrka, 4. Niva, 5. Hradisko, 6. Háj, 7. Tomášovec; Blick von S (Autorin: Z. Staneková)",
+    "width": "100",
+    "showCaption": true,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach intensiven Verhandlungen mit den Geologen in Žilina und auch auf der Burganlage selbst entschlossen sich das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) in Nitra und das Považské-Museum in Žilina, auf dem Veľký vrch in den Sommermonaten des Jahres 1972 eine Ausgrabung durchzuführen, die sich jedoch anschließend auch auf den Sommer des Jahres 1973 verlängerte. Da nach den Plänen für den Materialabbau der zentrale Teil der Burganlage am meisten beschädigt werden sollte, konzentrierten wir die Ausgrabung unmittelbar auf die Hauptburg. Schon die ersten Schnitte auf dem westlichen Plateau der Hauptburg zeigten, dass hier eine außerordentlich komplizierte Befundsituation vorliegen würde und die Identifizierung der einzelnen Schichten und Zeithorizonte sehr anspruchsvoll sein würde, da sich die einzelnen Funde aus verschiedenen Perioden unmittelbar nebeneinander befanden (z. B. lagen großmährische Scherben bei Fibeln). Die Kulturschicht erreichte stellenweise nur einige Zentimeter, weil der felsige Untergrund bis an die Oberfläche trat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde aus den Ausgrabungen von Herrn Dr. Jozef Moravčík:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Silberne keltische Münze – Typ Divinka, gefunden auf der Burganlage (Archiv des Považské-Museums in Žilina)",
+    "alt": "Silberne keltische Münze – Typ Divinka, gefunden auf der Burganlage (Archiv des Považské-Museums in Žilina)",
+    "width": "40",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde von auf der Töpferscheibe hergestellter Keramik bewiesen, dass hier nicht nur ein Zentrum der Herstellung dieser edlen Keramik war, sondern dass mit diesen Erzeugnissen auch die umliegenden Siedlungen des Volkes der Púchov-Kultur versorgt wurden. Die vorteilhafte Lage der Burganlage über dem alten Handelsweg, der schon seit den ältesten Zeiten entlang der Waag führte, bestimmte die Befestigung dazu, zum zentralen Objekt für das Becken von Žilina und das Becken von Bytča zu werden, wo sich nicht nur Produktion und Handel, sondern auch die strategische Kraft des hiesigen Volkes konzentrierte, das hier im Fall eines Angriffs sein ganzes Vermögen zusammenziehen konnte. Nach der genauen Einmessung aller Wälle schätzten wir "
+       },
+       {
+        "type": "text",
+        "text": "die gesamte befestigte Fläche auf über 12 ha.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Damit gehört die Burganlage in Divinka "
+       },
+       {
+        "type": "text",
+        "text": "zu den größten Befestigungen der Slowakei.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Wir können sie für ein Oppidum des Volkes der Púchov-Kultur halten, das hier auf einer älteren Befestigung noch aus der späten Bronzezeit eine mächtige Festung errichtete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eiserne Gegenstände – Messerchen, eine kleine Harpune, links ein Hobel, rechts der Kopf eines großen Niets",
+    "alt": "Eiserne Gegenstände – Messerchen, eine kleine Harpune, links ein Hobel, rechts der Kopf eines großen Niets",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1973 bestätigte sich diese Annahme voll, als wir den Südwall der Hauptburg durchschnitten und feststellten, dass sich unter der Befestigung der Púchov-Kultur aus dem 1. Jahrhundert v. Chr., die ein etwa 2 m breiter Steinwall repräsentierte, eine ältere und mächtigere Befestigung befindet – ein 4 m breiter Wall –, errichtet aus großen Sandsteinblöcken, die durch senkrecht eingesetzte Pfosten und waagerecht gelegte Balken verfestigt waren. An der Oberfläche des Walles gelang es, Scherben einer hallstattzeitlichen Schale zu identifizieren, die sich auch an der Innenseite der Befestigung befanden, und nach ihrer Rekonstruktion erhielten wir eine sehr schöne, hart gebrannte Schale, die am geraden Rand mit kleinen plastischen Buckelchen verziert ist. Die Oberfläche der Schale ist zudem vollkommen poliert, und sie lässt sich an die Wende vom 9. zum 8. Jahrhundert v. Chr. datieren. Auch weitere Funde aus der Umgebung des Walles und aus den Siedlungsschichten dokumentierten, dass dieser Raum in der späten Bronzezeit intensiv genutzt wurde, als die Burganlage die erste Periode ihrer Blüte erlebte. Davon überzeugten wir uns erneut nach der Übernahme neuer Funde von Ľ. Hroš, die er bei Amateurgrabungen an der Nordseite der Befestigung in der Bukovina ausgegraben hatte. Die Menge der Lausitzer Keramik überstieg die durch die Ausgrabung gewonnenen Funde, und so müssen wir hier schon in der Zeit der späten Bronzezeit ein bedeutendes Produktionszentrum annehmen; das Volk der Lausitzer Kultur konzentrierte hier seine Kräfte auf die Errichtung einer zentralen Befestigung, die ihr Hinterland in den umliegenden Siedlungen hatte, die nicht nur auf der Ohrádza, sondern auch in Žilina, Závodie und Strážov festgestellt wurden, aber ebenso im Kreis der in Žilina, Marček, Svederník und Kotešová entdeckten Gräberfelder, die so das Gesamtbild der Besiedlung der Umgebung der Burganlage in der späten Bronzezeit bis älteren Eisenzeit ergänzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bronzene und eiserne Fibeln von der Wende der Zeitrechnung",
+    "alt": "Bronzene und eiserne Fibeln von der Wende der Zeitrechnung",
+    "width": "50",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotografien aus den Ausgrabungen von Dr. Moravčík:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine viel intensivere Besiedlung erlebte die Burganlage auf dem Veľký vrch jedoch im 1. Jahrhundert v. Chr., als hier erneut ein ganzer Komplex von Wällen entstand, die nicht nur den zentralen Teil des Hügels, sondern auch die Nordhänge bis zum Divinský potok umschlossen. Die Funde von über 50 Pfostengruben der damaligen Behausungen, die man unmittelbar neben der Innenwand des Walles errichtete, sprechen von einer dichten Bebauung, die sich während der ganzen Dauer der Besiedlung mindestens von der Mitte des 1. Jahrhunderts v. Chr. bis in die Jahre 20–30 n. Chr., als die Burganlage erneut zerstört wurde, mehrmals wiederholen musste. Reste von Feuerstellen (durchgebrannte Steinflächen), Schmiedewerkstätten (Ascheschichten und Stücke eiserner Schmiedeschlacke), einheimische sowie auf der Töpferscheibe hergestellte vollkommene Keramik, viele eiserne und bronzene Gegenstände: Fibeln, Beschläge, Messerchen, ein Schildgriff, eine Kaurimuschel, eingeführt bis von der Adria, das Fragment einer Bernsteinperle und weitere Funde dokumentieren das intensive Leben auf der Burganlage bis zu ihrem tragischen Ende. "
+       },
+       {
+        "type": "text",
+        "text": "Der Untergang dieser Siedlungsphase spielte sich während eines verheerenden Einfalls der Germanen ab,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " der nicht nur alle Burganlagen in der Nordslowakei zerstörte, sondern bei dem sie in ungewöhnlichem Maße auch für eine erhebliche Dezimierung der Bevölkerung sorgten, sodass die Fortsetzung der Entwicklung der Púchov-Kultur in den folgenden zwei Jahrhunderten schon auf einem viel kleineren Gebiet und in geringerer Intensität verlief. Während im 1. Jahrhundert v. Chr. nicht nur das gesamte Gebiet der Nordslowakei, sondern auch das Grantal, das Gebiet der oberen Neutra, die Zips, das nordöstliche Mähren und sogar ein Teil Südpolens in der Umgebung von Krakau besiedelt war, war es in der älteren römischen Kaiserzeit schon nur noch das mittlere und obere Waagtal, vor allem in der Umgebung von Púchov, Žilina und der Liptau. Das Volk der "
+       },
+       {
+        "type": "text",
+        "text": "Púchov-Kultur ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "errichtete in der Nordslowakei nicht nur viele Befestigungen, sondern stützte seine wirtschaftliche Entwicklung vor allem auf den intensiven Anbau von Kulturpflanzen und die Haltung von Hausvieh, auf die Gewinnung einheimischer Rohstoffe, vor allem von Eisenerzen, Silber und Gold. Ein Beweis dafür sind nicht nur die verbrannten Reste von Getreide, die unmittelbar in Divinka gefunden wurden: 4 Weizenarten, Hafer, Hirse, Gerste, sondern auch von Hülsenfrüchten: Erbse, Bohne und Linse. Wir entdeckten sie unmittelbar im Raum der Ausgrabung in einer in den felsigen Untergrund eingetieften Grube abgelegt, um die herum drei Pfostengrübchen von Stützen lagen, also eine Art Speicher, wo sie Vorräte für die Erhaltung des Lebens im Fall eines Angriffs eingelagert hatten. Diese Art der Einlagerung von Nahrungsvorräten ist eine für jene Zeit einzigartige Lösung, als die meisten Vorräte in Vorratsgruben oder großen tönernen Vorratsgefäßen eingelagert wurden. Seinem Schicksal entging auch die Burganlage auf dem Veľký vrch nicht. Eine große bronzene Fibel des Typs Almgren 67, die in die ersten Jahrzehnte n. Chr. gehört, ist ein Beweis dafür, dass der Einfall der Germanen unerwartet kam und die ganze Burganlage zerstörte (durchgebrannte Steinschichten befanden sich gleich an der Oberfläche von Schnitt I), dass er aber auch ihrer weiten Umgebung nicht entging. Während der Ausgrabung fanden sich dicht am Wall auch fast vollständige Gefäße abgelegt, die man hier für ruhigere Zeiten verwahrt hatte, die aber nicht mehr zurückkehrten. Bei der Verteidigung der Befestigung halfen auch die ganzen Schichten von Flusssteinen nicht, die wir am Südwall der Hauptburg feststellten und die die Verteidiger offenbar zum Werfen auf die angreifenden Feinde verwendeten. Die Burganlage hörte auf, ihre bedeutende wirtschaftliche, kulturelle und militärische Funktion als Zentrum des Beckens von Žilina und des Beckens von Bytča zu erfüllen. Sie wartete auf ihre neuen Bewohner, zu denen tausend Jahre später schon unsere slawischen Vorfahren wurden. Die Bedeutung der latènezeitlichen Besiedlung auf dem Veľký vrch unterstützte auch "
+       },
+       {
+        "type": "text",
+        "text": "der Fund einer silbernen Münze des Typs Divinka",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (der Name ist vom Fundort abgeleitet), die zu jener Zeit der einzige Vertreter dieser Münzart war, und "
+       },
+       {
+        "type": "text",
+        "text": "geprägt wurden sie wahrscheinlich unmittelbar in Divinka",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Heute haben wir schon mehrere dieser Funde: ein Exemplar stammt von der Burganlage auf dem Považský hrad, 10–12 Stück fanden sich auf der kleineren Befestigung Hradište in Nozdrovice. Silberne Münzen, die im Milieu der Púchov-Kultur geprägt wurden, gehören zu dem Wertvollsten, was auf den Fundstellen der Nordslowakei zu finden ist. Deshalb sind sie jetzt auch die Ursache der größten Raubgrabungen an Burganlagen und kleinen Burgen der Púchov-Kultur und ihres Verkaufs ins Ausland. Zu den wertvollsten Funden gehört die Entdeckung einer silbernen Münze des Nitraer Typs auf der kleinen Burg Predná hôrka in Jasenica, die in der Fachöffentlichkeit verdiente Bewunderung erregte, denn es ist die einzige Münze von den bisher bekannten 15 Stück, die einen genauen Fundort hat. Alle diese Münzen wurden auf den zentralen Burganlagen der einzelnen Stämme der Púchov-Kultur geprägt, die wir derzeit mit dem keltischen Stamm der Kotiner verbinden. Auf Befehl des Kaisers Marcus Aurelius wurden sie jedoch am Ende der Markomannenkriege in die römische Provinz Pannonien verschleppt, dafür, dass sie den römischen Legionen Hilfe bei ihren schweren Kämpfen gegen die germanischen Markomannen und Quaden und die sarmatischen Jazygen während der Militäraktionen auf dem Gebiet der heutigen Slowakei in den Jahren 166–180 verweigerten. So ging am Ende des 2. Jahrhunderts n. Chr. auch die Púchov-Kultur unter, weil ihr wichtigster Bestandteil außerhalb des Mutterlandes verschleppt wurde. Sie erfüllte einen bedeutenden Bestandteil der Besiedlung der Slowakei in der Zeit vom 3. Jahrhundert v. Chr. bis zum Ende des 2. Jahrhunderts n. Chr. Damals gelangte die Nordslowakei auch in das Bewusstsein der römischen Historiker Tacitus und Ptolemaios, die die keltischen Kotiner als tüchtige Hersteller von Eisen und eisernen Gegenständen (vor allem von Waffen) erwähnen, mit denen sie den germanischen Quaden Tribut (Abgaben) zahlten. Die Púchov-Kultur wurde zu einem untrennbaren Bestandteil der Entwicklung der Besiedlung der Slowakei und schrieb sich dauerhaft in die Geschichte dieses Gebietes und in die kulturelle Entwicklung des Landes ein. Noch heute, nach zwei Jahrtausenden, die seit der Zeit ihrer maximalen Entwicklung vergangen sind, müssen wir die Qualität der Erzeugnisse, den einzigartigen Schmuck und die vollkommene Keramik bewundern, die die entwickelten Töpferwerkstätten der Nordslowakei repräsentiert und die man kühn mit ähnlichen Funden aus der Südslowakei vergleichen kann, wo die Kelten schon seit der Wende vom 5. zum 4. Jahrhundert v. Chr. saßen. Die letzte Etappe der Befestigung der Burganlage in Divinka auf dem Veľký vrch ist das 9. Jahrhundert. Die "
+       },
+       {
+        "type": "text",
+        "text": "slawische Besiedlung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " der Nordslowakei hat ihre Anfänge schon an der Wende vom 5. zum 6. Jahrhundert. Aus dieser Zeit haben wir bisher nur einen Siedlungsbefund, der in Žilina auf dem Frambor gefunden wurde, aber in der Zukunft können auch weitere Fundstellen mit altslawischer Keramik auftauchen. Ein ungewöhnlicher Aufschwung der Besiedlung trat erst im 8.–9. Jahrhundert ein, als schon das gesamte Becken von Žilina und das Becken von Bytča besiedelt war. Dutzende von Siedlungen und ausgedehnte Hügelgräberfelder (Krasňany – 51 Gräber, Bánová – 33 Gräber, Bitarová – über 30 Gräber) beweisen, dass das Leben auf diesem Gebiet in unveränderter Intensität wie in den vorherigen Zeiten weiterging. "
+       },
+       {
+        "type": "text",
+        "text": "Zum Zentrum der slawischen Besiedlung auf diesem Gebiet wurde erneut Divinka",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit seiner großen Burganlage. Die mächtigen Wälle aus vorherigen Zeitaltern, die auch im 9. Jahrhundert gut sichtbar gewesen sein müssen, wusste die slawische Bevölkerung zur erneuten Befestigung der Lage zu nutzen und sie noch durch eine hölzerne Palisade hervorzuheben, die das Niveau der Verteidigung erhöhte. Die slawische Bevölkerung errichtete auf der Burganlage schon Behausungen in Blockbauweise auf steinernen Unterbauten, die auf der Hauptburg der Burganlage an zwei Stellen während der Ausgrabung im Jahr 1973 identifiziert werden konnten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Einheimische, mit Rillen verzierte Keramik, Scherbe eines bemalten Gefäßes, rechts eine Scherbe mit Asphaltüberzug",
+    "alt": "Einheimische, mit Rillen verzierte Keramik, Scherbe eines bemalten Gefäßes, rechts eine Scherbe mit Asphaltüberzug",
+    "width": "100",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawische Keramik erreichte nicht jene technische Vollkommenheit wie die latènezeitliche, aber trotzdem kannte man auch im 9. Jahrhundert mindestens die handbetriebene Töpferscheibe, auf der man durch Nachdrehen einfache Töpfe herstellte, oft reich mit waagerechten Rillenbändern und mehrfachen Wellenlinien verziert. Das slawische Volk hielt sich auf der Burganlage in Divinka nicht lange. Auch es traf das Schicksal der Vorgänger. Die Funde eiserner Kampfmesser und die Hälfte eines eisernen Sporns, gefunden unmittelbar auf der Wallkrone, sprechen eine klare Sprache davon, dass sich hier erneut "
+       },
+       {
+        "type": "text",
+        "text": "schwere Kämpfe zwischen den einheimischen Verteidigern",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und neuen Angreifern abspielten, diesmal jedoch schon aus dem eigenen Geschlecht – dem slawischen, "
+       },
+       {
+        "type": "text",
+        "text": "in der Zeit der Formierung des Fürstentums Neutra",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " oder Großmährens. Die militärischen Gefolgschaften von Pribina, Mojmír, Rastislav und Svatopluk hatten die Aufgabe, "
+       },
+       {
+        "type": "text",
+        "text": "an die zentralen Teile der Gebiete auch die Randgebiete anzuschließen.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Dies geschah oft auf militärischem Wege und durch direkte Eingriffe in das Milieu der einheimischen Bevölkerung. In der zweiten Hälfte des 9. Jahrhunderts war schon auch die Nordslowakei Teil Großmährens, auch wenn dieser Prozess sicher nicht glatt verlief und die hiesigen Stämme sich dem sicher widersetzten. Einer der Belege für die Anwesenheit militärischer Gefolgschaften in der Nordslowakei, die hierher aus den zentralen Teilen Großmährens entsandt wurden, sind auch zwei Kriegergräber, die im Hügelgrab Nr. 2 in Bánová untersucht wurden, wo Männer von hohem Wuchs bestattet waren, bewaffnet mit Äxten, Messern, Pfeilgeschossen, Feuerstählen. Dabei ist es bisher das einzige Grab mit einer solchen Anlage auf dem gesamten Gebiet der Nordslowakei, wobei sich in den übrigen Hügelgräbern Brand- und Körpergräber nur auf dem ursprünglichen Geländeniveau befanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kleine Bronzeschmuckstücke, ein silberner Spiegel, eine Meeresmuschel, eine Glasperle, eine Bernsteinperle",
+    "alt": "Kleine Bronzeschmuckstücke, ein silberner Spiegel, eine Meeresmuschel, eine Glasperle, eine Bernsteinperle",
+    "width": "100",
+    "showCaption": true,
+    "position": "left",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Verbreitung der neuen Religion – des Christentums – unter dem hiesigen Volk spricht auch der Fund des Schildchens eines bronzenen Fingerringes mit einem vierfach gepunzten Kreuz. Er gehörte vielleicht einem örtlichen Herrscher oder wohl einem Priester, der sich in diese unwirtliche Gegend wagte und kam, um den neuen Glauben zu verbreiten. Wie es wirklich war, können wir nur vermuten, aber schon der Fund des Gegenstandes selbst lässt erahnen, dass auch in der Nordslowakei der Prozess der Christianisierung ähnlich verlief wie in den übrigen Teilen Großmährens. Zuerst nahm ihn die führende Schicht der Gesellschaft an und dann auch das übrige Volk. Die Burganlage in Divinka auf dem Veľký vrch erlebte also drei Phasen intensiver Entwicklung, aber auch drei Untergänge der Besiedlung. Der letzte unterbrach das Leben hinter den Wallbefestigungen dieses bedeutenden Zentrums der Nordslowakei schon dauerhaft. Es wurde hier totenstill, und nur Hirten mit ihrem Vieh verirrten sich manchmal hierher (Funde von Milchgefäßen aus dem 18.–19. Jahrhundert) und erinnerten sich vielleicht an den vergangenen Ruhm der Burg, die hier einst stand und das ganze Gebiet des Beckens von Žilina und des Beckens von Bytča schützte. Heute können wir uns nur vorstellen, wie das Leben auf dieser bedeutenden Burganlage war, aber wie es wirklich war, ist nur ein Teil dessen, was es uns gelang, bei den archäologischen Ausgrabungen freizulegen. Die Jahre der Entwicklung, die Fälle und Wiedergeburten der Festung verliefen in mehreren Etappen, die sich mit regelmäßiger Intensität immer dann wiederholten, wenn es dem hiesigen Volk gelang, eine ausgeprägte Entwicklung seiner schöpferischen Kräfte zu erreichen. Möglicherweise wurde dies gleichzeitig auch die Ursache der drei wiederholten Untergänge der Besiedlung der Burganlage, die in weitem Umkreis sicher bekannt war als bedeutende strategische Fundstelle und gleichzeitig auch als wirtschaftlich bedeutendes Zentrum des Volkes der Lausitzer Kultur, der Púchov-Kultur und auch unserer slawischen Vorfahren. Eine kurze Episode der Fortsetzung des einstigen Ruhms der Burganlage auf dem Veľký vrch in Divinka spielte sich noch auf dem "
+       },
+       {
+        "type": "text",
+        "text": "benachbarten Hügel Hradisko",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ab, der sich schon in der Gemarkung von Divina befindet, wo an der Wende vom "
+       },
+       {
+        "type": "text",
+        "text": "12. zum 13. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " eine kleine mittelalterliche Burg entstand, der Sitz eines örtlichen Feudalherrn. Diese wurde wohl schon im 13. Jahrhundert ebenfalls zerstört, da bei Probeschnitten, die hier im Jahr 1982 unmittelbar in die Wallkrone gemacht wurden, außer Keramik auch stark durchgebrannte Schichten festgestellt wurden, die ein Beweis für die Zerstörung der Burg sind. Mit ein wenig Fantasie könnten wir annehmen, dass "
+       },
+       {
+        "type": "text",
+        "text": "der hiesige Besitzer der Feudalherrschaft ein direkter Erbe des vergangenen Ruhms seiner slawischen Vorgänger sein konnte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die so erfolgreich die riesige Befestigung auf dem Veľký vrch in Divinka errichteten. Zum Schluss sollten wir noch mindestens auch die weiteren Funde einer intensiven Besiedlung der Gemarkung der Gemeinde erwähnen, die wir aus der Zeit vom Neolithikum bis zum frühen Mittelalter kennen. In der Lage Tomášovec wurden Spuren einer Besiedlung der Púchov-Kultur festgestellt. In der Lage Háj war vielleicht auch eine Befestigung, hier sind künstlich hergerichtete Terrassen. Vrtielky – eine Siedlung der Púchov- und möglicherweise auch der Lausitzer Kultur. Všivák – ein Felsen mit Besiedlung aus der Latènezeit und der römischen Kaiserzeit. Za Malým Všivákom – eine Besiedlung aus der älteren Eisenzeit. Za potokom v agáte – eine Siedlung der Púchov-Kultur. V Priekope Studeného potoka – eine Siedlung der Púchov-Kultur. Nivy – eine Siedlung der Púchov-Kultur. Pod Loviškami – eine Siedlung der Púchov-Kultur. Pri Všiváku – eine Siedlung der Púchov-Kultur. Za Malým Všivákom – eine Siedlung der Púchov-Kultur und auch aus der Zeit der älteren Eisenzeit. Pri kaplnke – eine Siedlung aus der späten Steinzeit und der Púchov-Kultur. Schon aus der Aufzählung der einzelnen Fundstellen ist offensichtlich, dass die intensivste Besiedlung in der Gemarkung von Divinka der Púchov-Kultur aus der späten Latènezeit gehört, als auch die Burganlage auf dem Veľký vrch die Zeit ihrer größten Blüte erlebte. Außer der Siedlung der Lausitzer Kultur auf der Ohrádza sind auch weitere Lagen aus dieser Zeit in der älteren Eisenzeit besiedelt, denn das Volk der Lausitzer Kultur siedelte sich in den Tälern der Nordslowakei dauerhaft an und überdauerte hier bis in die jüngere Eisenzeit. Damals schuf es unter Mitwirkung keltischer Zuwanderer auch die Púchov-Kultur als materielle Äußerung der Entwicklung der Besiedlung dieses Gebietes. Alle Funde mit ihrer ausführlichen Beschreibung aufzuzählen würde erfordern, eine eigene Publikation herauszugeben, aber für die Zwecke, zu denen dieser Beitrag erstellt ist, ist es auch nicht notwendig. Wichtig ist die Feststellung, dass Divinka schon vor 2–3 Jahrtausenden zu den wichtigsten Fundstellen der Slowakei gehörte und dass sich diese ihre Stellung auch durch die neuesten Funde aus anderen Gebieten unserer Heimat nicht mehr umkehren lässt. Mindestens dreimal schrieb sie sich im Laufe der Zeitalter in das Bewusstsein des weiten Umlandes ein und überschritt mit ihrer Bedeutung schon längst die Grenzen der Region der Nordwestslowakei.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Silberne Münze, die während der Ausgrabung auf der Burganlage gefunden wurde",
+    "alt": "Silberne Münze, die während der Ausgrabung auf der Burganlage gefunden wurde",
+    "width": "100",
+    "showCaption": true,
+    "position": "center",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung der Befestigung ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Depotfund von Werkzeugen aus der Zeit Großmährens, kürzlich auf der Burganlage gefunden (Jesenský, M.: Muzeológia na Kysuciach, Kysucké múzeum, Čadca 2012, S. 116)",
+    "alt": "Depotfund von Werkzeugen aus der Zeit Großmährens, kürzlich auf der Burganlage gefunden (Jesenský, M.: Muzeológia na Kysuciach, Kysucké múzeum, Čadca 2012, S. 116)",
+    "width": "50",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Bewertung der Datierung der Befestigung von den Autoren G. Fusek und M. Holeščák aus dem Jahr 2019 wird folgende Datierung der Befestigung der Burganlage angeführt:     "
+       },
+       {
+        "type": "text",
+        "text": "„Durch die Ausgrabung der Befestigung des Gipfelteils der Burganlage in Divinka wurden wichtige Grundlagen für die Datierung ihrer Errichtung gewonnen. Den ursprünglichen Wall errichtete man hier nach den Ergebnissen der Radiokarbonanalyse im 10. Jahrhundert v. Chr., wahrscheinlich im Laufe der späten Bronzezeit (Stufe HB1). Seine Aufschüttung enthielt Keramik aus der jüngeren bis zum Beginn der späten Bronzezeit, die davon zeugt, dass sich vor der Errichtung der Fortifikation auf dem Veľký vrch eine unbefestigte Höhensiedlung der Lausitzer Kultur befand. Nach der Herrichtung der Oberfläche der zerstörten Wallaufschüttung fast zwei Jahrtausende später, in der großmährischen Zeit, diente diese als Grundlage für die Errichtung eines neuen Walles. In der latènezeitlichen Phase der Besiedlung der Fundstelle trennte man vom Gipfelteil der Burganlage mit einem Wall den kleinen Raum der heutigen Hauptburg ab und schuf damit eine kleine Burg, deren umgrenzte Fläche intensiv besiedelt war. Damals nutzte man die übrigen Teile der Burganlage in reduziertem Maße. Der Schnitt durch die Befestigung im Suburbium belegte ebenfalls zwei Etappen ihrer Errichtung. Die jüngere ist durch die Radiokarbonanalyse in die großmährische Zeit datiert. Zur chronologischen Einordnung des ursprünglichen Walles wurden durch die Feldforschung keine Grundlagen gewonnen. Ausgehend von der Gesamtsituation an der Fundstelle und den beschriebenen Ergebnissen der Untersuchung der Fortifikation in ihren höher gelegenen Lagen nehmen wir an, dass man ihn gleichzeitig mit der Umfassungsbefestigung des Gipfelteils der Burganlage errichtete. Zu dieser Erwägung führt uns die logische Überlegung, dass, wenn in der Latènezeit ein Grund für die Errichtung einer kleinen Burg auf dem Gipfel des Veľký vrch bestand und man die Wälle am Umfang des Hügelrückens nicht erneuerte, man offenbar auch die ausgedehnte, untergegangene Befestigung an den Hängen des Hügels darunter nicht erneuerte. In der großmährischen Zeit nutzte man die untergegangenen Wälle des gesamten mächtigen Festungssystems, dessen Ursprung bis in die späte Bronzezeit zurückreicht.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Goldener Ohrring, gefunden in der Siedlung Ohrádza unter dem Veľký vrch",
+    "alt": "Goldener Ohrring, gefunden in der Siedlung Ohrádza unter dem Veľký vrch",
+    "width": "100",
+    "showCaption": true,
+    "position": "right",
+    "pairWithNext": false,
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang zur Burganlage und ihre Markierung: ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Unser Verein Hradiská hat in Zusammenarbeit mit dem AÚ SAV und dem Považské-Museum in Žilina auf der Burganlage "
+       },
+       {
+        "type": "link",
+        "url": "/blog/naucny-chodnik-divinka-velky-vrch",
+        "children": [
+         {
+          "type": "text",
+          "text": "einen Lehrpfad, der aus 7 Informationstafeln besteht"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aufgestellt. Der Weg führt vom Friedhof in Divinka und ist relativ bequem, auch wenn es eine Steigung ist.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

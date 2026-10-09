@@ -1,0 +1,532 @@
+{
+ "slug": "mikulcice-kopcany",
+ "data": {
+  "title": "Mikulčice-Kopčany – ein großmährisches Machtzentrum mit zwölf Kirchen",
+  "slug": "mikulcice-kopcany-grossmaehrisches-machtzentrum",
+  "excerpt": "Eine der bedeutendsten befestigten Burgwallsiedlungen Großmährens — etwa zwölf Kirchen, Merkmale einer städtischen Gliederung und vielleicht der Sitz der ersten Mojmiriden. Nach dem Zerfall des alten Mähren blieben die Denkmäler unter den Anschwemmungen der Hochwässer der March konserviert.",
+  "metaTitle": "Mikulčice-Kopčany – großmährische Burg mit zwölf Kirchen",
+  "metaDescription": "Etwa zwölf Kirchen, Merkmale einer städtischen Gliederung und vielleicht der Sitz der ersten Mojmiriden. Eines der bedeutendsten Zentren Großmährens.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Zwischen Mikulčice und Kopčany, ursprünglich auf einer Insel zwischen den Armen der March",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche der Fundstelle",
+    "value": "Die archäologischen Fundstellen erstrecken sich auf einer Fläche von 10 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Zahl der Kirchen",
+    "value": "Etwa 12 kirchliche Bauten auf verhältnismäßig kleiner Fläche",
+    "icon": "building"
+   },
+   {
+    "label": "Zahl der Gräber",
+    "value": "Mehr als 2500 auf dem Burgwall, 350 bei der Basilika, 190 bei der Rotunde",
+    "icon": "users"
+   },
+   {
+    "label": "Größte Basilika",
+    "value": "Dreischiffige Basilika (Kirche Nr. 3) — 34 × 9 m, größter bekannter großmährischer Sakralbau",
+    "icon": "building"
+   },
+   {
+    "label": "Vermuteter Fürstenpalast",
+    "value": "Fundamente eines rechteckigen Gebäudes, 26 × knapp 10 m, an der höchsten Stelle des Burgwalls",
+    "icon": "crown"
+   },
+   {
+    "label": "Byzantinischer Fund",
+    "value": "Goldener Solidus des Kaisers Michael III. (856–866) — Beleg für Kontakte mit Byzanz",
+    "icon": "star"
+   },
+   {
+    "label": "Vermutung zu Method",
+    "value": "Im Grab Nr. 580 im Hauptschiff der Basilika könnte Erzbischof Method bestattet gewesen sein (unbestätigt)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7. Jahrhundert",
+    "title": "Besiedlung des Gebietes",
+    "description": "Das Gebiet war bereits im 7. Jahrhundert besiedelt.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Befestigung des Burgwalls mit Wällen",
+    "description": "Im 9. Jahrhundert wurde der Burgwall mit Wällen befestigt.",
+    "type": "construction"
+   },
+   {
+    "year": "erstes Drittel des 9. Jahrhunderts",
+    "title": "Errichtung der Rotunde mit zwei Apsiden",
+    "description": "Nach den Gegenständen, die in einem der 190 Gräber gefunden wurden, lässt sich die Rotunde (Kirche Nr. 6) in das erste Drittel des 9. Jahrhunderts datieren.",
+    "type": "construction"
+   },
+   {
+    "year": "Mitte des 9. Jahrhunderts",
+    "title": "Umbau der Steinmauer",
+    "description": "Grundlegender Umbau der älteren Steinmauer an den Wällen von Mikulčice, ohne Anzeichen einer plötzlichen Katastrophe.",
+    "type": "construction"
+   },
+   {
+    "year": "856–866",
+    "title": "Byzantinischer Solidus im Grab eines Adligen",
+    "description": "Fund eines goldenen Solidus des byzantinischen Kaisers Michael III. aus den Jahren 856–866, der nahe der südlichen Fundamentmauer der Basilika lag.",
+    "type": "discovery"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Untergang des Westteils des vermuteten Palastes",
+    "description": "Den westlichen Raum des rechteckigen Gebäudes zerstörten die Bewohner der Siedlung vollständig, die sich auf den Ruinen ihre Häuser errichteten.",
+    "type": "destruction"
+   },
+   {
+    "year": "erste Hälfte des 10. Jahrhunderts",
+    "title": "Untergang des vermuteten Fürstenpalastes und der Kirchen",
+    "description": "Der in das 9. Jahrhundert datierte Bau geht in der ersten Hälfte des 10. Jahrhunderts gemeinsam mit den Kirchen unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "1960",
+    "title": "Entdeckung der Rotunde (Kirche Nr. 6)",
+    "description": "Eine Rotunde mit zwei Apsiden, die im zentralen Gebiet Großmährens bislang ohne Parallele ist.",
+    "type": "discovery"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Ende der Besiedlung bei der Margaretenkirche",
+    "description": "Das Leben in zwei Siedlungen in der Nähe der Kirche dauerte bis in das 13. Jahrhundert fort.",
+    "type": "event"
+   },
+   {
+    "year": "16.–17. Jahrhundert",
+    "title": "Abzug der letzten Bewohner nach Kopčany",
+    "description": "Die letzten Bewohner der Siedlung aus der Umgebung der Kirche der hl. Margareta von Antiochia zogen wahrscheinlich in das heutige Kopčany.",
+    "type": "event"
+   },
+   {
+    "year": "18. Jahrhundert",
+    "title": "Errichtung einer neuen Kirche in der Gemeinde",
+    "description": "Die ursprüngliche Kirche diente dem angrenzenden Gebiet bis in das 18. Jahrhundert, als man eine neue Kirche unmittelbar in der Gemeinde errichtete.",
+    "type": "construction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 82,
+    "caption": "Mikulčice — Luftbildrekonstruktion des Burgwalls zwischen den Armen der March",
+    "alt": "Luftbildrekonstruktion des Burgwalls Mikulčice mit der Befestigung zwischen den Armen der March"
+   },
+   {
+    "mediaId": 3003,
+    "caption": "Überreste des Palastes",
+    "alt": "Überreste des Palastes"
+   },
+   {
+    "mediaId": 3004,
+    "caption": "Mögliches Aussehen des Palastes",
+    "alt": "Mögliches Aussehen des Palastes"
+   },
+   {
+    "mediaId": 3005,
+    "caption": "Der Zugang zum Burgwall erfolgte über Brücken",
+    "alt": "Der Zugang zum Burgwall erfolgte über Brücken"
+   },
+   {
+    "mediaId": 3006,
+    "caption": "Im Hintergrund der Wall von Mikulčice",
+    "alt": "Im Hintergrund der Wall von Mikulčice"
+   },
+   {
+    "mediaId": 3015,
+    "caption": "Die kleine großmährische Kirche in Kopčany gehörte zur Agglomeration des Burgwalls von Mikulčice",
+    "alt": "Die kleine großmährische Kirche in Kopčany gehörte zur Agglomeration des Burgwalls von Mikulčice"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage Valy in Mikulčice, genauer gesagt zwischen Mikulčice und Kopčany, gehört zu den bedeutendsten befestigten Burgwallsiedlungen mit Merkmalen einer städtischen Gliederung, mit Belegen einer Besiedlung des vorgroßmährischen und des großmährischen Horizonts, mit einer Vielzahl von Kirchen (etwa 12) und mit Artefakten, die von der Anwesenheit des großmährischen Adels zeugen. Es gibt Vermutungen, dass es sich um ein Stammeszentrum mit höheren Machtansprüchen gehandelt haben könnte, vielleicht auch um den Sitz der ersten Mojmiriden. Diese Burgstadt entwickelte sich nach dem Zerfall des alten Mähren nicht weiter, die Denkmäler blieben unter den Anschwemmungen der Hochwässer der March konserviert, sie wurden nicht durch weitere Bautätigkeit oder menschliche Eingriffe beschädigt, und so war es möglich, ein geschlosseneres Bild vom Leben unserer Vorfahren zu gewinnen. Den Namen dieser Stadt kennen wir nicht, doch im 9. Jahrhundert lag sie nicht auf der heutigen Seite der March, sondern die March umfloss sie, das heißt, sie stand auf einer Art Insel zwischen der March und ihren Nebenarmen. Einige Historiker geben an, dass das Hauptbett des Flusses westlich des Burgwalls verlief und dass dieser somit eher auf dem Gebiet der heutigen Slowakei lag. Zwischen dem Hauptbett der March und dem Burgwall lagen Sümpfe und Arme der March, die die Burgstadt so vollkommen vor einem Feind von Westen schützten. Die March soll ihren Lauf geändert haben, nachdem man unterhalb von Hodonín einen großen Damm errichtet hatte, der das Flussbett nach Osten in Richtung Holíč ablenkte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Prof. Havlík nahm an, dass der ursprüngliche Name der Stadt bzw. des Burgwalls grad Morava lautete, mehrere Forscher neigen jedoch zu den Namen grad Slavníč oder Slivnica. Da das heutige Kopčany vom Burgwall etwa gleich weit entfernt ist wie Mikulčice, halte ich es für durchaus nicht falsch, den Begriff Burgwall von Mikulčice-Kopčany oder Agglomeration zu verwenden. Am besten belegt dies schließlich die Tatsache, dass die kleine Kirche der hl. Margareta von Antiochia, die auf der slowakischen Seite in Kopčany steht, ursprünglich eindeutig ein Teil der Burgwallagglomeration war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mikulčice (Kopčany)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet war bereits im 7. Jahrhundert besiedelt, und im 9. Jahrhundert wurde der Burgwall mit Wällen befestigt. In der Mitte des Areals lag die Hauptburg, deren Größe die Überreste der Wälle und der Fürstenpalast bestimmen. Gefunden wurden hier Überreste von Werkstätten, von Gebäuden, des Fürstenpalastes, einer dreischiffigen Basilika und weiterer 11 Kirchen. Dazu mehr als 2500 Gräber. Die archäologischen Fundstellen erstrecken sich auf einer Fläche von 10 ha."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mikulčice (Kopčany)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Agglomeration liegt, wie bereits angedeutet, in der Flussaue der March in einer Landschaft von Auwäldern. Ihren Kern bildet die schon erwähnte Hauptburg mit zwei großen angrenzenden Vorburgen, von denen die eine deutlich den Charakter eines ständigen Militärlagers hat und die andere eher als eine durch einen Wall geschützte Siedlung erscheint. Die etwas erhöhte Hauptburg der großmährischen Burg samt der militärischen Vorburg war durch eine fast gleiche Mauer in Schalenkonstruktion mit vorgeblendeter Steinfront und durch Wassergräben geschützt, die das System der Marcharme bildete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bauten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den Bauten erregt besonders die dreischiffige Basilika mit einer langgezogenen, halbrund geschlossenen Apsis, mit zwei durch eine Trennwand geteilten Narthexen, mit einem Baptisterium und dem umliegenden Gräberfeld Aufmerksamkeit (Kirche Nr. 3); sie stellt mit einer Länge von 34 m und einer Breite von 9 m den bisher größten bekannten großmährischen Sakralbau dar. In fünf Grabkammern im Kirchenschiff, die leider schon ausgeraubt waren, wurden wahrscheinlich Angehörige des höchsten großmährischen geistlichen oder weltlichen Adels beigesetzt. Es tauchte auch die Ansicht auf, dass im Grab Nr. 580 im Hauptschiff der Basilika der Erzbischof Method bestattet war. Diese Vermutung stützt sich, wie auch der Gedanke an eine Kathedralkirche, auf das sogenannte Leben der hll. Kyrill und Method, in dem es heißt, Method „liegt sodann in der großen Kirche von Mähren auf der linken Seite in der Wand hinter dem Altar der heiligen Gottesmutter“. Eine solche Bestattung wäre hier möglich, denn das Fundament der Apsis ist fast 1 m breit. Es wurde jedoch nichts gefunden. Wenn sich hier ein Grab unmittelbar in der Mauer oder in einer Grabkammer befand, dann wurde es zweifellos beim Abbau des Steins zerstört. Die Tatsache, dass Method eine Kathedralkirche hatte, ist jedoch ein hinreichender Beweis dafür, dass die kirchlichen Verhältnisse in Mähren bereits gut gefestigt waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mikulčice (Kopčany)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rund um die Kirche wurden 350 Gräber entdeckt, deren Funde die Annahme erlauben, dass diese Kirche bald nach der Ankunft der byzantinischen Mission errichtet wurde. Ein Beleg dafür kann auch der Fund einer „Charonsmünze“ sein — eines goldenen Solidus des byzantinischen Kaisers Michael III. aus den Jahren 856–866 aus dem Grab eines Adligen, das nahe der südlichen Fundamentmauer der Basilika lag. Auch die Lage der Basilika, also auf der Fürstenburg, somit nicht außerhalb, sondern innerhalb des Verwaltungszentrums, zeugt von ihrer Funktion als Bischofskirche in der Zeit der byzantinischen Mission. Ebenso geht der Architekturtyp der mährischen Kirchen mit halbrunden Apsiden auf die frühchristliche Kirchenarchitektur zurück, die nach Mähren aus Byzanz gebracht wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Christentum im zentralen Gebiet Großmährens belegen nicht nur die Fundamente der Kirchenbauten — obwohl die Häufung von zwölf kirchlichen Bauten auf verhältnismäßig kleiner Fläche auf enge Verbindungen der kirchlichen und der politischen Organisation hinweist —, sondern auch die zahlreicheren Erzeugnisse einheimischer Kunsthandwerkstätten sowie einige importierte Gegenstände, die mit christlicher Symbolik zusammenhängen. Bislang sind Funde dieser Art, die durchweg aus Gräbern stammen, in Mikulčice in der größten Zahl vertreten. Darunter befinden sich ein silbernes Kreuzchen, eine Ritzzeichnung eines Priesters, ein silberner Gombík (kugelförmiger Knopfanhänger) mit Fischen und anderes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Überreste des Palastes",
+    "alt": "Überreste des Palastes",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer bedeutender Fund ist die im Jahr 1960 entdeckte Rotunde mit zwei Apsiden (Kirche Nr. 6), die im zentralen Gebiet Großmährens bislang ohne Parallele ist. Sie ist fast 15 m lang und 7,30 m breit. Nach den Gegenständen, die in einem der 190 zu ihr gehörenden Gräber gefunden wurden, lässt sich dieser Bau in das erste Drittel des 9. Jahrhunderts datieren. Die Rotunde war mit Fresken geschmückt, deren Fragmente im Schutt der Kirche gefunden wurden. Einige Bruchstücke deuten darauf hin, dass auf den Fresken eine menschliche Gestalt dargestellt war. In der Nähe der Basilika wurden Metallgegenstände und vor allem eiserne Reitersporen gefunden, die belegen, dass in Mikulčice neben Handwerkern auch Reiter lebten, die zur fürstlichen Gefolgschaft gehörten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Mögliches Aussehen des Palastes",
+    "alt": "Mögliches Aussehen des Palastes",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der höchsten Stelle des Burgwalls wurden an der Oberfläche Bruchstücke von Mörtel und Putz festgestellt. Entdeckt wurden Überreste der Fundamente eines rechteckigen Gebäudes, das 26 m lang und fast 10 m breit war. Das originale Fundamentmauerwerk hat sich vor allem in der Trennmauer erhalten, die den Bau in einen östlichen (kleineren) und einen westlichen (größeren) Teil gliederte. Den westlichen Raum des Gebäudes zerstörten die Bewohner der Siedlung im 10. und 11. Jahrhundert vollständig, die ihre Häuser unmittelbar auf den Ruinen des Baus errichteten. (Hier ist deutlich zu sehen, welches Schicksal jene Fundorte traf, an denen die Menschen ununterbrochen bis in die Gegenwart wohnten und bauten — zum Beispiel Nitra (Neutra).) Im Inneren des westlichen Teils wurden Reste eines gegossenen Mörtelbodens und Rundholz mit Steinverkleidungen entdeckt. Ursprünglich standen hier hölzerne Säulen, die eine flache Holzdecke trugen. Hier wurden die Überreste eines steinernen Kamins gefunden. Der Bau wurde in das 9. Jahrhundert datiert. In der ersten Hälfte des 10. Jahrhunderts geht er gemeinsam mit den Kirchen unter. Die Lage dieses Baus an der höchsten Stelle des Burgwalls, seine Form und die Reste des steinernen Kamins führen zu der Vermutung, dass es sich um die Überreste eines Fürstenpalastes handeln könnte. Diese Theorie bestätigt der Umstand, dass die Erbauer der Fürstenburg von Mikulčice und der Adelssitze nicht nur das Geflecht der Flussarme nutzten, sondern die einzelnen Siedlungskomplexe auch stark mit hölzernen Palisaden und Mauern befestigten. Ein Beleg für das Wirken der höheren Schicht ist auch die größere Menge an Sporenfunden, und zwar auch vergoldeter sowie eiserner, mit Silber und Kupfer eingelegter Stücke. Ebenso der Fund einer größeren Anzahl von Schwertern. Für den weltlichen Charakter des Baus sprechen die Reste des steinernen Kamins, die wir in einer Kirche schwerlich suchen würden. Die Reste der gegossenen Mörtelböden zeugen ebenfalls davon, dass die Behausung über dem Durchschnitt lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das erwähnte Gräberfeld, das in der Nähe der Basilika entdeckt wurde, zeichnet sich durch eine Menge reicher Gräber mit Schwertern, mit goldenem und silbernem Schmuck, mit prunkvollen Garnituren von Gürtelbeschlägen, mit silbernen und gegossenen bronzenen Riemenzungen und mit goldenen Gombíks aus. Diese und eine Reihe weiterer Funde stellen Meisterwerke des örtlichen Kunsthandwerks dar. Zu den wertvollen Funden gehören weiterhin vor allem ein silbernes Anhängerkreuz mit der Gestalt Christi und der goldene Solidus des byzantinischen Kaisers Michael III. Ein gewisser Beleg für Bildung sind auch die Funde eiserner Schreibgeräte — der Styli. Die Spuren der Metallgießer- und Schmuckwerkstätten auf der Burg werden zeitlich in die Zeit vor der Mitte des 9. Jahrhunderts eingeordnet. In der Blütezeit verschwinden sie, und es überwiegen die Eisen- und Holzverarbeitung, die Töpferei und die Textilherstellung. Zur Agglomeration gehört auch ein umfangreiches Hinterland, zu dem ebenfalls das erwähnte heutige Kopčany mit der "
+       },
+       {
+        "type": "link",
+        "url": "/blog/kostol-sv-margity-antiochijskej-najstarsia-stojaca-stavba-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kirche der hl. Margareta von Antiochia"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " zählte. Die Datierung der Kirche, die der Aufmerksamkeit eher entging, ermöglichten die Funde dreier großmährischer Gräber mit vergoldeten Gombíks und silbernen Ohrringen mit Trommelanhänger. Von den weiteren interessanten Funden der Agglomeration lassen sich nennen: Reste einer Brücke, ausgehöhlte Boote — Monoxyla, Körbe zum Fischfang, eine Harpune, eiserne Fischhaken, ein Holzeimer, ein Eimer mit Zierbeschlag, eiserne, mit Holz ausgelegte Eimer, drei verschiedene Typen von Kriegsäxten, Holzlöffel und Schöpfkellen, ein Seil, eiserne Trensen, eine Schafschere, eine eiserne Sense, ein eiserner Feuerstahl, eiserne Barren, ein Bleibarren, Pfeilspitzen, eiserne Schlüssel und Schlossbeschläge, Schlittschuhe aus Knochen, Ahlen, Nadelbüchsen aus Geweih, Zweiglager aus gebranntem Ton, eine Knochenpfeife. Besondere Aufmerksamkeit erregte ein kleines silbernes, vergoldetes Reliquiar in Form eines miniaturhaften liturgischen Buches. Eine Besonderheit sind die reichlichen Spuren des Verzehrs von Nahrungsmitteln aller Art."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Zugang zum Burgwall erfolgte über Brücken",
+    "alt": "Der Zugang zum Burgwall erfolgte über Brücken",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Vielzahl von Funden aus dem Burgwall von Mikulčice finden Sie hier: "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bohatstvo-slovenov-slavic-wealth",
+        "children": [
+         {
+          "type": "text",
+          "text": "Der Reichtum der Slawen"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aufmerksamkeit verdient auch der grundlegende Umbau (nicht die gewöhnliche Instandhaltung) der älteren Steinmauer ohne Anzeichen einer plötzlichen Katastrophe (Brand, Eroberung und Ähnliches) an den Wällen von Mikulčice irgendwann um die Mitte des 9. Jahrhunderts. Die umgebaute Mauer hatte eine deutlich weniger mächtige steinerne Frontmauer. Es sieht so aus, als sei hier die politische Bedeutung des ursprünglichen Burgwalls zurückgegangen und als hätten sich erst nach einer neuen Ordnung der öffentlichen Verhältnisse die neuen Machtträger um die Erneuerung des verfallenen Areals gekümmert, nun aber nicht mehr in der ursprünglichen Bedeutung und mit den früheren Machtansprüchen. Die Überlegung von Prof. Poulík über ein Staatszentrum in Mikulčice erscheint so für die großmährische Blütezeit nicht als realistisch, könnte aber theoretisch für die erste Hälfte des 9. Jahrhunderts gelten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kopčany — der slowakische Teil von Mikulčice",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kopčany hatte in großmährischer Zeit Anteil am regen Leben des großmährischen Zentrums auf den Valy, dessen Kern bis zu 1,5 km von den Bauern- und Hirtensiedlungen entfernt lag, die sich in der heutigen Gemarkung der Gemeinde befanden. Ein so mächtiges großmährisches Zentrum wie die Valy wäre ohne eine abhängige bäuerliche Bevölkerung undenkbar, deren Siedlungen die Valy auf einer Fläche von etwa vierzig Quadratkilometern umgaben. An dem Weg vom Komplex des Burgzentrums — der Valy — in Richtung Holíč lag eine ganze Reihe kleiner landwirtschaftlicher und handwerklicher Siedlungen mit Gräberfeldern, die auf Sandhügeln angelegt waren. Aus der Sicht der heutigen archäologischen Forschung ergibt sich, dass die Valy näher bei Kopčany lagen als bei dem heutigen Mikulčice, dass das einzige „offene Tor“ aus dem Burgwall nach Osten führte, d. h. die Valy waren von Kopčany aus zugänglicher, und zwar über mehrere Wege, und könnten somit das Prädikat Valy von Kopčany-Mikulčice, wenn nicht Valy von Kopčany erhalten (Štefan Janšák). „Der Hauptarm der March floss von der großmährischen befestigten Stadt dreieinviertel Kilometer weiter westlich, unterhalb der sandigen Terrasse, auf der die heutigen Gemeinden Lužice, Mikulčice und Moravská Nová Ves ausgebreitet liegen. Daraus folgt, dass die Stadt auf den Valy an ihrem linken Ufer lag … die befestigte Stadt auf den Valy gravitierte geographisch wie wirtschaftlich zum heutigen Gebiet der Slowakei … eine eingehende Untersuchung hat gezeigt, dass auf der Linie Valy — heutige Gemeinde Mikulčice nicht eine einzige Siedlung aus großmährischer Zeit liegt, dass dort in jenen Zeiten also ein dreieinhalb Kilometer breiter Sumpf lag“ (Š. Janšák — Brány do dávnoveku)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Im Hintergrund der Wall von Mikulčice",
+    "alt": "Im Hintergrund der Wall von Mikulčice",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch nach dem Untergang des Burgwalls von Mikulčice ging das Leben in zwei bisher bekannten Siedlungen in der Nähe der Kirche der hl. Margareta von Antiochia bis in das 13. Jahrhundert weiter, als dieser Raum wahrscheinlich zum letzten bewohnten Ort der einstigen Agglomeration von Mikulčice wird, wenn wir die Überreste der mittelalterlichen Besiedlung um die einstige Kirche Nr. 9 im Suburbium des Burgwalls Valy nicht berücksichtigen. Die bisherige Erforschung der historischen Topographie deutet darauf hin, dass die letzten Bewohner der Siedlung aus der Umgebung der Kirche der hl. Margareta von Antiochia im 16.–17. Jahrhundert fortzogen, wahrscheinlich in das heutige Kopčany. Die Kirche diente wohl weiterhin dem angrenzenden Gebiet bis in das 18. Jahrhundert, als man eine neue Kirche unmittelbar in der Gemeinde errichtete."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ": Orgoň, Linda Hronikova"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

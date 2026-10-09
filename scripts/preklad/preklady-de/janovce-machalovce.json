@@ -1,0 +1,566 @@
+{
+ "slug": "janovce-machalovce",
+ "data": {
+  "title": "Jánovce–Machalovce – eine befestigte Höhensiedlung der Púchov-Kultur in der Zips",
+  "slug": "janovce-machalovce-kotiner-hoehensiedlung",
+  "excerpt": "Südlich von Jánovce und seinem Ortsteil Machalovce erhebt sich der unbewaldete Hügel Hradisko – eine der bedeutendsten archäologischen Fundstellen der Zips. Am intensivsten genutzt wurde der Platz in der jüngeren Eisenzeit und in der älteren römischen Kaiserzeit, als hier eine mächtige befestigte Höhensiedlung der Púchov-Kultur mit einer 3 ha großen Hauptburg und einer bis zu 30 ha großen Vorburg entstand. Aus der Vorburg stammt die einzigartige Bronzestatuette eines Kelten mit goldenen Augen.",
+  "metaTitle": "Jánovce–Machalovce – Höhensiedlung der Kotiner in der Zips",
+  "metaDescription": "Die Höhensiedlung über Jánovce in der Zips: 3 ha Hauptburg, bis 30 ha Vorburg, Funde der Púchov-Kultur und eine Keltenfigur mit goldenen Augen.",
+  "keyFacts": [
+   {
+    "label": "Hauptburg",
+    "value": "etwa 3 ha auf dem Gipfel des Hügels Hradisko",
+    "icon": "star"
+   },
+   {
+    "label": "Vorburg",
+    "value": "bis zu 30 ha (Lage Pod Hradiskom)",
+    "icon": "star"
+   },
+   {
+    "label": "Kultur",
+    "value": "Púchov-Kultur (Kotiner), Latènezeit – ältere römische Kaiserzeit",
+    "icon": "star"
+   },
+   {
+    "label": "Ausgrabungen",
+    "value": "M. Soják (seit 1996), M. Hudák (2020–2022)",
+    "icon": "star"
+   },
+   {
+    "label": "Einzigartiger Fund",
+    "value": "bronzene Statuette eines Kelten mit goldenen Augen",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "3. Jahrhundert v. Chr.",
+    "title": "Anfänge der Besiedlung",
+    "description": "Erste Spuren der Besiedlung der Höhensiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Brand der Befestigung",
+    "description": "Durchgeglühter Wall mit Mauer; Spuren von Zusammenstößen mit Dakern und Germanen.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 2. Jahrhunderts n. Chr.",
+    "title": "Untergang der Kotiner",
+    "description": "Nach den Markomannenkriegen siedelten sie die Römer nach Pannonien um.",
+    "type": "event"
+   },
+   {
+    "year": "19. Jahrhundert",
+    "title": "Erste Funde",
+    "description": "Keramik und Eisenschlacke bei der Landwirtschaft.",
+    "type": "event"
+   },
+   {
+    "year": "1958",
+    "title": "Bericht von V. Budinský-Krička",
+    "description": "Bedeutende Funde verzeichnet.",
+    "type": "event"
+   },
+   {
+    "year": "1996",
+    "title": "Systematische Forschung",
+    "description": "M. Soják, Archäologisches Institut der SAV.",
+    "type": "event"
+   },
+   {
+    "year": "2020–2022",
+    "title": "Umfangreiche Untersuchungen",
+    "description": "M. Hudák (Archeológia Spiš) u. a.; über 1500 Funde.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6005,
+    "alt": "LiDAR-Schummerungsrelief der Umgebung mit den eingetragenen Namen der Lagen einschließlich des Hradisko"
+   },
+   {
+    "mediaId": 6008,
+    "caption": "Blick auf die Vorburg und dahinter die Höhensiedlung selbst",
+    "alt": "Blick auf die Vorburg und dahinter die Höhensiedlung selbst"
+   },
+   {
+    "mediaId": 6010,
+    "caption": "Die einzigartige Bronzestatuette eines Kelten mit goldenen Augen",
+    "alt": "Die einzigartige Bronzestatuette eines Kelten mit goldenen Augen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Südlich der Gemeinde Jánovce und ihres Ortsteils Machalovce erhebt sich ein unbewaldeter Hügel mit dem Namen Hradisko, der eine der bedeutendsten archäologischen Fundstellen der Region verbirgt. Gerade dieser geschichtsträchtige Ort, der bereits seit der Urgeschichte besiedelt war, wurde in der jüngeren Eisenzeit (in der Zeit der Latènekultur) und in der älteren römischen Kaiserzeit am intensivsten genutzt. Damals entstand hier eine mächtige befestigte Höhensiedlung der Púchov-Kultur. \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zentrum der Anlage bildete die befestigte Hauptburg mit einer Fläche von etwa 3 Hektar, die auf dem Gipfel des Hügels errichtet war. Ihr Verteidigungssystem bestand aus zwei Wällen, die wahrscheinlich aus hölzernen Konstruktionen mit einer Füllung aus Lehm und Steinen hergestellt waren und zwischen denen ein Graben verlief. Den Eingang in die Anlage sicherte mindestens ein Tor im nördlichen oder nordöstlichen Teil, worauf die Geländereste und die Ergebnisse der geophysikalischen Prospektion hindeuten. Tor und Befestigung konnten durch Wachtürme ergänzt sein, auch wenn ihre genaue Gestalt bislang in ein Geheimnis gehüllt bleibt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unterhalb der Hauptburg erstreckte sich die Vorburg – eine weitläufige Fläche von bis zu 30 Hektar in der Lage Pod Hradiskom, auf natürliche Weise durch den Bach Sihoť und steile Hänge geschützt. Die archäologischen Begehungen haben hier Spuren eingetiefter Siedlungsbefunde aufgedeckt, die durch die landwirtschaftliche Bodenbearbeitung gestört wurden. Außerdem befindet sich nordwestlich der Hauptburg ein weiterer möglicher Teil der Vorburg in der Lage Nad Jánovcami, der eine ähnliche Fläche hat. Archäologische Funde aus diesem Gebiet fehlen jedoch bislang, vor allem wegen seiner Nutzung als Weide. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Umfang und der Charakter der Anlage von Jánovce reihen sie unter die größeren Burganlagen und Oppida Mitteleuropas ein. Ähnliche Siedlungen kennen wir von Fundstellen wie Liptovská Sielnica–Liptovská Mara oder von den keltischen Oppida in Bratislava (Pressburg), auf dem Devín (Theben) oder auf dem Zemplín. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten archäologischen Funde aus der Anlage von Jánovce wurden bereits im 19. Jahrhundert gewonnen, als die hiesigen Einwohner Keramik, Eisenschlacke und andere mit der Verhüttung zusammenhängende Gegenstände fanden. Das Interesse an der Fundstelle vertiefte sich erst in der zweiten Hälfte des 20. Jahrhunderts, vor allem durch die Entwicklung der Landwirtschaft in der Lage Pod Hradiskom. Bedeutende Funde wurden nun an Museen abgegeben, was auch Vojtech Budinský-Krička in seinem Bericht aus dem Jahr 1958 verzeichnete. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Seit dem Jahr 1996 widmet sich der archäologischen Erforschung dieser Fundstelle systematisch Marián Soják vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV). Dank seiner Arbeit wurde das Fundgut um zahlreiche Münzen aus der Latènezeit und um eine Menge weiterer wertvoller Artefakte erweitert. An der Wende vom 20. zum 21. Jahrhundert schlossen sich den Untersuchungen auch weitere Archäologen an, die neue Einzelheiten über das Leben auf der Höhensiedlung aufdeckten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den letzten Jahren wurde die Höhensiedlung leider auch zum Ziel illegaler Sondengängerei. Deshalb begannen im Jahr 2020 Bemühungen, sie zum nationalen Kulturdenkmal zu erklären. Im Rahmen dieser Aktivitäten liefen umfangreiche Untersuchungen unter der Leitung von Matúš Hudák von der Gesellschaft Archeológia Spiš an, in Zusammenarbeit mit dem Lehrstuhl für Archäologie der Philosophischen Fakultät der Konstantin-der-Philosoph-Universität in Nitra (Neutra), dem Kreisdenkmalamt in Žilina und dem Verein Septentrio, dem Bürgerverein Hradiská, Archeo Moravia und weiteren Freiwilligen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zwischen 2020 und 2022 wurde unterhalb der Höhensiedlung eine systematische Oberflächenbegehung durchgeführt, die mehr als 1500 archäologische Funde erbrachte. Diese belegen eine kontinuierliche Besiedlung des Ortes von der Urgeschichte über die Frühgeschichte bis in das Mittelalter und die Neuzeit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Frühjahr 2021 fand eine geophysikalische Prospektion in Form einer Magnetometrie statt, die den Verlauf der Wallbefestigung sowie mehrere ausgeprägte Anomalien erfasste. Diese deuten auf das Vorhandensein von Metallgegenständen und abgebrannten Konstruktionen hin. Auf der Grundlage dieser Erkenntnisse wurde in den Jahren 2021 und 2022 die erste Sondagegrabung im nordwestlichen Teil der Höhensiedlung durchgeführt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung leitete Mária Hudáková vom Museum der Zips in Zusammenarbeit mit Archäologen von Archeológia Spiš, der UKF in Nitra und des Museums in Kežmarok. Die Sondagen hatten interdisziplinären Charakter – sie umfassten geodätische Messungen, archäobotanische und archäozoologische Analysen, metallografische und petrografische Untersuchungen der Funde sowie spezielle geomagnetische Messungen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank dieser Teamarbeit ist es gelungen, ein Bild vom Leben und von der Verteidigung auf dieser faszinierenden Höhensiedlung zu entwerfen, die die Chance hat, ein noch bedeutenderer Teil unseres Kulturerbes zu werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die Vorburg und dahinter die Höhensiedlung selbst",
+    "alt": "Blick auf die Vorburg und dahinter die Höhensiedlung selbst",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde aus der Púchov-Höhensiedlung in Jánovce",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Púchov-Höhensiedlung in Jánovce stellt eine bedeutende archäologische Fundstelle dar, die uns wertvolle Erkenntnisse über das Leben der Kotiner bietet, eines keltischen Volksstammes, der die Nordslowakei besiedelte. Die Besiedlung dieses Ortes endete vor etwa 1800 Jahren, doch die archäologischen Funde zeugen von einem reichen Alltag wie auch von dramatischen historischen Ereignissen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch die Untersuchungen wurden Spuren einer Besiedlung bereits im 3. Jahrhundert v. Chr. nachgewiesen, wobei die intensivste Zeit der Nutzung der Höhensiedlung in die Spätlatènezeit und den Anfang der römischen Kaiserzeit fällt. Ein wichtiger Fund ist der Nachweis eines starken Brandes der Befestigung, wobei der durchgeglühte Wall mit der Steinmauer und den Holzpfosten in das 1. Jahrhundert v. Chr. datiert werden kann. Die Brandschichten enthielten auch militärische Gegenstände und Kontaktmaterial, das auf Zusammenstöße mit Dakern und Germanen hindeutet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Vorburg stammt eine einzigartige Bronzestatuette eines nackten Kelten mit goldenen Augen und mit einem typischen Halsring (Torques), die eine realistisch modellierte männliche Gestalt ohne Schnurrbart darstellt, was zu den antiken Beschreibungen im Gegensatz steht. Außergewöhnlich ist auch das Fragment einer Glasperle mit der Darstellung eines menschlichen Gesichts, das einzige seiner Art in der Slowakei. Gemeinsam mit weiteren Funden von Perlen aus Bernstein, Glas und Meereskoralle verweist es auf entwickelte Handwerke und Fernkontakte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kotiner waren geschickte Handwerker – Belege für Schmuck wie Fingerringe, Ohrringe, Armringe oder Schläfenringe verweisen auf ihren Sinn für Ästhetik. Gefunden wurden auch Ziernadeln und Haarringe, was von einer stilisierten Gestaltung der Frisuren zeugt. Die Häuser waren überwiegend in Blockbauweise errichtet, mit Fundamenten aus Sandstein und mit Steinen ausgelegten Feuerstellen. In den Wohnräumen fanden sich Keramikgefäße, Werkzeuge und ein eiserner Schlüssel in Form des Buchstabens T, der für ein Schiebeschloss bestimmt war – ein Beweis für die praktischen Seiten des Alltags."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die einzigartige Bronzestatuette eines Kelten mit goldenen Augen",
+    "alt": "Die einzigartige Bronzestatuette eines Kelten mit goldenen Augen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch nach dem Untergang der Höhensiedlung wurde das Gebiet teilweise genutzt. Aus dem 1. Jahrhundert n. Chr. stammen weitere Funde, die jedoch in der folgenden Zeit verschwinden, was mit einer Verlagerung der Bevölkerung auf andere Höhensiedlungen zusammenhängen kann. Die Kotiner gingen schließlich als eigenständige Einheit am Ende des 2. Jahrhunderts n. Chr. unter, als sie die Römer nach den Markomannenkriegen nach Pannonien umsiedelten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ernährung und Tätigkeiten der Bewohner der Púchov-Höhensiedlung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologischen Funde aus Jánovce liefern wertvolle Erkenntnisse über die Ernährung der Bewohner der Höhensiedlung. Unter den über 140 gefundenen Fragmenten von Tierknochen wurden Reste von Rindern, Pferden und Schafen/Ziegen bestimmt. Diese Tiere waren die Hauptquelle für Fleisch, Milch und Wolle. Schweinefleisch kam auf der Höhensiedlung selten und vor allem im rituellen Zusammenhang vor. Archäobotanische Analysen belegten auch die pflanzliche Kost – vor allem Rispenhirse und Erbsen, aber auch Weizen, Gerste oder Ackerbohnen. Die Speisen wurden in Keramiktöpfen mit Graphitzusatz zubereitet, der ihre Hitzebeständigkeit erhöhte. Gefäße wie Krüge, Tassen oder sogenannte Räuchergefäße dienten nicht nur dem Tischgebrauch, sondern offenbar auch der Aufbewahrung des Feuers oder rituellen Zwecken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die landwirtschaftliche Tätigkeit ist durch Funde steinerner Drehmühlen belegt, in denen Getreide zu Mehl gemahlen wurde, sowie durch Werkzeuge wie die eiserne Spitze einer Hacke. Die Vorratshaltung besorgten große Vorratsgefäße mit typisch geformtem Hals und Handhaben. Das Handwerk war vor allem im Bereich der Metallverarbeitung entwickelt – gefunden wurden Schmelztiegel, Gussformen, Schlacken und eiserne Werkzeuge. Die Funde bestätigen auch die Verarbeitung von Eisenerz aus örtlichen Quellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer Handwerksbereich war die Textilproduktion, belegt durch Funde von Spinnwirteln und durch das Weben von Stoffen auf Webstühlen, deren Existenz tönerne Gewichte belegen. Bedeutend waren auch die Funde luxuriöser bemalter Keramik aus dem 1. Jahrhundert v. Chr., die auf eine lokale Töpferproduktion, wahrscheinlich unmittelbar in der Zips, verweisen. Aus dem Bereich der Bewaffnung stammen eiserne Pfeilspitzen, Lanzen, Reitersporen und Belege für die Existenz einer bewaffneten Besatzung zum Schutz der Höhensiedlung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Handel und Kontakte der Púchov-Höhensiedlung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Púchov-Höhensiedlung in Jánovce war nicht nur ein Zentrum der landwirtschaftlichen und handwerklichen Produktion, sondern auch ein bedeutender Punkt im Handelsnetz. Den Handel bestätigen vor allem die zahlreichen Münzfunde – über 1000 Stück einheimischer silberner Kotiner-Prägungen (z. B. die Typen Liptovská Mara, Veľký Bysterec, Spiš). Entdeckt wurden auch importierte Münzen, etwa balkanische Denare, was von überregionalen Kontakten zeugt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Jánovce–Machalovce",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eingeführt wurden wahrscheinlich auch Luxuswaren – Keramik, Glas und verschiedene Metallgegenstände. Funde bestimmter Bronzefibeln, von Fingerringen mit Glaseinlagen und importierter Gürtelteile verweisen auf Kontakte zum pannonischen, balkanischen und nordpolnischen Raum (z. B. Vertreter der Przeworsk-Kultur). Die Handelskontakte waren also über ganz Mitteleuropa verbreitet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Austausch konnte auch Graphit dienen – ein besonderes, in der Keramik verwendetes Material, dessen örtliche Quellen für die umliegende Region von Bedeutung sein konnten. Ein wichtiger Handelsartikel war wahrscheinlich auch die lokale Herstellung hochwertiger Keramik, einschließlich bemalter Gefäße."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
