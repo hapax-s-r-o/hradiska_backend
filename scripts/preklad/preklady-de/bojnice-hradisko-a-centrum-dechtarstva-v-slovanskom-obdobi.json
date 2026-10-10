@@ -1,0 +1,569 @@
+{
+ "slug": "bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi",
+ "data": {
+  "title": "Bojnice – ein Burgwall und Zentrum der Teerschwelerei in der slawischen Zeit",
+  "slug": "bojnice-burgwall-teerschwelerei",
+  "excerpt": "Bojnice ist für die Prepoštská-Höhle und das märchenhafte neugotische Schloss bekannt. Auf den Terrassen der Neutra lag jedoch auch eine bedeutende slawische Besiedlung von etwa 200 ha: eingetiefte Grubenhäuser, Verhüttungs- und Schmiedewerkstätten und vor allem Batterien von Teerschwelgruben, die in ihrer Art in der Slowakei einzigartig sind. Der Burgwall auf dem Burgfelsen gab Bojnice sein ältestes historisch belegtes Baudenkmal – das 1113 erwähnte Suburbium.",
+  "metaTitle": "Bojnice – Burgwall und Zentrum der Teerschwelerei",
+  "metaDescription": "Neben Schloss und Prepoštská-Höhle verbergen Bojnice auch eine bedeutende slawische Besiedlung und Spuren der Teerherstellung auf den Terrassen der Neutra.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Besiedlung",
+    "value": "Die slawischen Siedlungs- und Produktionsbefunde erstreckten sich auf etwa 200 ha an den Hängen der Lehmterrasse der Neutra, gegliedert durch die Bäche Kaňanka, Jarok und Dubnička",
+    "icon": "map"
+   },
+   {
+    "label": "Entdeckte Grubenhäuser",
+    "value": "Neun stark gestörte einräumige eingetiefte Grubenhäuser von etwa 3 × 4 m in der Lage Dolné lány, weitere Behausungen in der Lage Lipiny und unterhalb des Krankenhauses",
+    "icon": "building"
+   },
+   {
+    "label": "Einzigartige Teerschwelgruben",
+    "value": "Die Batterie von vier Teerschwelgruben mit einem Durchmesser von etwa 110–140 cm in der Lage Zadné lány gehört zu den in der Slowakei in ihrer Art einzigartigen Befunden",
+    "icon": "custom"
+   },
+   {
+    "label": "Abstand der Fundstellen",
+    "value": "Die Fundstellen der Teerschwelgruben Zadné lány und Vrábecké trennt eine Luftlinie von etwa 950 m",
+    "icon": "map"
+   },
+   {
+    "label": "Ursprung des Burgwalls",
+    "value": "Die befestigte Höhensiedlung auf dem Burgfelsen errichteten offenbar schon die Träger der Púchov-Kultur, später passten sie die Slawen für sich an",
+    "icon": "mountain"
+   },
+   {
+    "label": "Prozess der Teerherstellung",
+    "value": "Im Inneren der Gruben verlief die trockene Destillation des Holzes, die bei Temperaturen von etwa 120–500 °C allmählich Teer und Holzkohle erzeugte",
+    "icon": "star"
+   },
+   {
+    "label": "Breite Verwendung des Teers",
+    "value": "Teer wurde in Böttcherei, Wagnerei, Gerberei und Seilerei, für militärische Zwecke und im Obstbau verwendet, die Holzkohle wiederum in Schmiedewerkstätten",
+    "icon": "custom"
+   },
+   {
+    "label": "Belege für den Fernhandel",
+    "value": "Den Handel mit Teer im Gebiet der oberen Neutra belegen Funde axtförmiger Eisenbarren in Bošany, Žabokreky oder Bojná",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Entstehung der Siedlungsnamen nach Berufen",
+    "description": "Die Siedlungsnamen nach Berufen in der Slowakei, zu denen auch Dechtice und Smolenice gehören, entstanden schon im 8. und 9. Jahrhundert, wie die Analyse der Ortsnamen von R. Krajčovič in der Konfrontation mit dem archäologischen Material belegt hat.",
+    "type": "era"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Verhüttungs- und Schmiedewerkstätten",
+    "description": "Funde von Eisenschlacke, Sinter, eines Tontiegels und einer Düse in der Verfüllung der slawischen Hütten in Bojnice belegen die Existenz von Verhüttungs- und Schmiedewerkstätten des 9.–10. Jahrhunderts.",
+    "type": "era"
+   },
+   {
+    "year": "1113",
+    "title": "Erste schriftliche Erwähnung von Bojnice",
+    "description": "In der Urkunde der Abtei Zobor aus dem Jahr 1113 wird das Bojnicer Suburbium „de suburbanis Baimoz…“ erwähnt, womit der Burgwall zum ältesten historisch belegten Baudenkmal von Bojnice wurde. Der befestigte Burgwall bestand zu dieser Zeit, und die Urkunde erwähnt auch eine Pfarre.",
+    "type": "event"
+   },
+   {
+    "year": "1241–1242",
+    "title": "Verheerender Tatareneinfall",
+    "description": "Nach dem verheerenden Tatareneinfall der Jahre 1241–1242 begann die Zeit des fieberhaften Baus steinerner Burgen, in deren Rahmen wahrscheinlich auch der Bojnicer Burgwall umgebaut wurde.",
+    "type": "destruction"
+   },
+   {
+    "year": "1244",
+    "title": "Erste Erwähnung der Kirche",
+    "description": "Die Kirche in Bojnice wird zum ersten Mal im Jahr 1244 erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1302",
+    "title": "Angaben über die steinerne Burg",
+    "description": "Aus dem Jahr 1302 stammen die ersten Angaben über die steinerne Burg, zu der der ursprüngliche Burgwall in späterer Zeit umgebaut wurde.",
+    "type": "construction"
+   },
+   {
+    "year": "1960er Jahre",
+    "title": "Entdeckung der Teerschwelgruben und der Siedlungsbefunde",
+    "description": "Am Hang der Lage Dolné lány entdeckte man neun eingetiefte Grubenhäuser und später, als der Traktorist Galanský beim Pflügen mit dem Pflug auf die hart ausgebrannten oberen Teile der Gruben stieß, auch die Batterie von vier Teerschwelgruben in der Lage Zadné lány sowie weitere Gruben in der Lage Vrábecké.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6342,
+    "alt": "Luftbild des Schlosses Bojnice mit Teich und Park"
+   },
+   {
+    "mediaId": 3103,
+    "caption": "Die Prepoštská-Höhle – Wohnplatz des Neandertalers",
+    "alt": "Die Prepoštská-Höhle – Wohnplatz des Neandertalers"
+   },
+   {
+    "mediaId": 3104,
+    "alt": "Das Schloss Bojnice mit Mauern und Teich aus der Vogelperspektive"
+   },
+   {
+    "mediaId": 3105,
+    "alt": "Das Schloss Bojnice mit seinen Türmen über dem herbstlichen Park"
+   },
+   {
+    "mediaId": 3106,
+    "caption": "Slawische Axt – eine Bartaxt aus Bojnice",
+    "alt": "Slawische Axt – eine Bartaxt aus Bojnice"
+   },
+   {
+    "mediaId": 3107,
+    "caption": "Slawische eingetiefte Grubenhäuser",
+    "alt": "Slawische eingetiefte Grubenhäuser"
+   },
+   {
+    "mediaId": 3108,
+    "caption": "Rekonstruierter neuzeitlicher Teerofen in Bolevec",
+    "alt": "Rekonstruierter neuzeitlicher Teerofen in Bolevec"
+   },
+   {
+    "mediaId": 3109,
+    "alt": "Wehrmauer des Schlosses über dem zugewachsenen Wassergraben"
+   },
+   {
+    "mediaId": 3110,
+    "caption": "Scherbe eines slawischen Gefäßes mit dem Symbol einer Swastika",
+    "alt": "Scherbe eines slawischen Gefäßes mit dem Symbol einer Swastika"
+   },
+   {
+    "mediaId": 3111,
+    "caption": "Ein großmährischer Falkner auf dem Burgwall Bojnice",
+    "alt": "Ein großmährischer Falkner auf dem Burgwall Bojnice"
+   },
+   {
+    "mediaId": 3112,
+    "alt": "Stich eines Teerofens bei einer Siedlung mit Häusern und Gehegen"
+   },
+   {
+    "mediaId": 3113,
+    "alt": "Ausschnitt einer historischen Karte mit der Aufschrift Bajmocz (Bojnice)"
+   },
+   {
+    "mediaId": 3114,
+    "alt": "Ausschnitt einer Wanderkarte mit Bojnice und dem Fluss"
+   },
+   {
+    "mediaId": 3115,
+    "alt": "Zwei Schwarzweißaufnahmen freigelegter Teerschwelgruben aus der Ausgrabung"
+   },
+   {
+    "mediaId": 3123,
+    "alt": "Schema eines Teerofens mit der Bezeichnung der Teile A bis F und einem Maßstab"
+   },
+   {
+    "mediaId": 3124,
+    "alt": "Falkner in zeitgenössischer Tracht mit einem Greifvogel vor einer Holzpalisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bojnice ist nicht nur für die urgeschichtliche Besiedlung der Prepoštská-Höhle "
+       },
+       {
+        "type": "link",
+        "url": "http://muzeumpraveku.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://muzeumpraveku.sk/"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und für das märchenhafte neugotische Schloss bekannt, das Ján Pálffy in seine heutige Gestalt umbauen ließ, sondern auch für eine bedeutende slawische Besiedlung, die nicht nur im Bereich des heutigen Schlosses, sondern auch in seiner Umgebung gefunden wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawischen Siedlungs- und Produktionsbefunde erstreckten sich an den Hängen einer mächtigen Lehmterrasse der Neutra, die durch die Zuflüsse Kaňanka, Jarok und Dubnička in mehrere markante Lagen gegliedert wird, von denen jede ihren eigenen Namen trägt (Nemocnica, Predné lány, Dolné lány, Zadné lány, Lipiny, Vrábecké). Diese gesamte Fläche nimmt etwa 200 ha ein, und auf ihr entdeckte man in den 1960er Jahren dunkle Flecken, die relativ regelmäßig über den nordöstlichen Hang der Lage Dolné lány verteilt waren. Bei der Ausgrabung zeigte sich, dass es sich um neun stark gestörte einräumige eingetiefte Grubenhäuser handelt (Ausmaße etwa 3 × 4 m), wie sie für Siedlungen ähnlichen Charakters im gesamten slawischen Gebiet typisch sind. Weitere Behausungen wurden in der Lage Lipiny und später zwei weitere am Hang unterhalb des Krankenhauses festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Prepoštská-Höhle – Wohnplatz des Neandertalers",
+    "alt": "Die Prepoštská-Höhle – Wohnplatz des Neandertalers",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die einstigen Vorfahren aus Bojnice errichteten ihre Häuser – die eingetieften Grubenhäuser –, wie wir es auch von den übrigen slawischen Fundstellen kennen, so, dass sie einen Teil in die Erde eintieften und einen Teil über dem Boden erhöht ließen. Dieser oberirdische Teil hatte geflochtene Wände, die mit Lehm verstrichen waren, dem sogenannten Lehmbewurf, der sich in der Verfüllung aller Befunde fand. Die Dachdeckung des Grubenhauses hing von der tragenden Pfostenkonstruktion ab. Mit größter Wahrscheinlichkeit handelte es sich um ein Satteldach. Die Sohle der Behausungen hatte einen festgetretenen Lehmboden, und in der Ecke befand sich meist eine aus Steinen errichtete Feuerstelle. Ähnliche Behausungen einer unbefestigten Siedlung des 9.–10. Jahrhunderts kennen wir in der Südwestslowakei aus Nitriansky Hrádok. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die Bojnicer Hütten ist das häufige Vorkommen von Eisenschlacke und Sinter bezeichnend, die bei der Eisenverarbeitung entstehen. In der Verfüllung der Befunde traf man auf Scherben slawischer Keramik, die bereits auf der Töpferscheibe hergestellt und mit dem typischen Wellenband, mit Einstichen, horizontalen Linien oder Ritzlinien verziert war, die zu einem Sparrenmuster und anderen Varianten angeordnet waren. Die Gefäße wurden aus Ton hergestellt, dem feinerer oder auch gröberer Sand und manchmal auch Glimmer beigemischt war. Außer Keramik fanden sich in den Befunden eiserne Messerchen, eine Pfeilspitze, Tierknochen, ein Tontiegel und auch eine Tondüse, die zum Einblasen von Luft bei der Eisenverhüttung verwendet wurde. Die Funde belegen die Existenz von Verhüttungs- und Schmiedewerkstätten des 9.–10. Jahrhunderts. In der Nähe der Siedlungen wurden auch Teeröfen gefunden.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schloss Bojnice",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojnice – Burgwall und Zentrum der Teerschwelerei in der slawischen Zeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Offenbar errichteten schon die Träger der Púchov-Kultur auf dem Burgfelsen eine befestigte Höhensiedlung, die die Slawen später für sich anpassten. Die späteren mehrfachen Umbauten der Burg und ihres Areals zerstörten die meisten Spuren des slawischen Burgwalls im Bereich des heutigen Bojnicer Schlosses. Dennoch gelang es, die Existenz eines slawischen Burgwalls in diesem Bereich archäologisch nachzuweisen. In der späteren Zeit des Aufbaus des ungarischen Staates wurde der Burgwall weiter genutzt, und bereits in der ersten schriftlichen Erwähnung von Bojnice, in der Urkunde der Abtei Zobor aus dem Jahr 1113, wird das Bojnicer Suburbium „de suburbanis Baimoz…“ erwähnt, womit der Burgwall zum ältesten historisch belegten Baudenkmal von Bojnice wurde. Der befestigte Burgwall bestand im Jahr 1113, und irgendwann in späterer Zeit – wahrscheinlich in den Zeiten des fieberhaften Baus steinerner Burgen nach dem verheerenden Tatareneinfall der Jahre 1241–1242 – wurde er zu einer steinernen Burg umgebaut, über die Angaben aus dem Jahr 1302 vorliegen. Er war auch ein Zentrum des religiösen Lebens, denn die kirchliche Verwaltung festigte sich auf den königlichen Burgen, und es entstanden Burgpfarreien. In der Zoborer Urkunde von 1113 findet sich bereits eine Erwähnung einer Pfarre, die Kirche wird jedoch erst im Jahr 1244 erwähnt. In der Urkunde werden auch Heilquellen genannt.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "In Bojnice lebten offenbar berühmte Teerschweler"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bemerkenswerteste und zugleich wichtigste Entdeckung in Bojnice sind die Teerschwelgruben in den Lagen Zadné lány und Vrábecké. Die beiden Fundstellen trennt eine Luftlinie von etwa 950 m. Es sind unbestreitbar Befunde, die bei uns in ihrer Art einzigartig sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Batterie von vier Teerschwelgruben entdeckte man in der Lage Zadné lány, als der Traktorist Galanský beim Pflügen am südöstlichen Hang, an jener Stelle, die sich am stärksten über den tiefen Einschnitt des Feldwegs erhebt, mit dem Pflug auf die hart ausgebrannten oberen Teile der Gruben stieß, sie abriss und in der unmittelbaren Umgebung verstreute. Nach dem Putzen der Oberfläche kamen vier regelmäßige Kreise mit einem Durchmesser von etwa 110–140 cm zum Vorschein, mit einem unversehrten dunklen, am Rand durchgebrannten Ring. Alle Gruben waren gleich angelegt, und zwar so, dass die eine Hälfte der Sohle fest und unversehrt blieb, während in der anderen Hälfte der Lehm weiter ausgehoben wurde, bis eine tiefer liegende Vertiefung der gewünschten Ausmaße entstand, die teilweise unter die feste Sohle reichte. In dieser Vertiefung sammelte sich der auslaufende Teer. Die Verfüllung der Gruben in der Lage Zadné lány enthielt Stücke verkohlten, wahrscheinlich Kiefern- oder Fichtenholzes und aschfarben gefärbten Lehm. Näher zur Sohle begannen sporadisch Klümpchen einer leichten, pechschwarzen, porösen Masse hervorzutreten, die beim Erwärmen charakteristisch duftete. In der ersten Grube fanden sich einige typische slawische Scherben und mehrere verkohlte Hülsenfruchtkörner. Aus der zweiten Grube stammen Gefäßränder und zwei unvollständige Böden mit Reliefmarken.\n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Axt – eine Bartaxt aus Bojnice",
+    "alt": "Slawische Axt – eine Bartaxt aus Bojnice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nahezu gleichzeitig mit der Entdeckung der Gruben in der Lage Zadné lány stieß man auf eine weitere Fundstelle von Teerschwelbefunden in der Lage Vrábecké. Diese Gruben zeigten gewisse Unterschiede im Aufbau und in der inneren Gestaltung der Befunde. Im oberen Teil einer Grube lag ein beschädigtes Gefäß mit weiter Mündung und nach außen gebogenem Rand, hergestellt aus grobem, sandigem Material, das nach dem Kontakt mit hoher Temperatur eine ziegelrote Farbe erhielt. In Form und Größe entspricht es vollkommen den Ausmaßen der Vertiefung, in die man es zum Auffangen des Teers einsetzte. Das unregelmäßig grobe Aussehen des Gefäßes ist durch die Handarbeit bedingt. Deutlichere Spuren des Überdrehens auf der Töpferscheibe sind nur im oberen Drittel erkennbar. Im Inneren des Gefäßes hat sich ein recht dicker Teerbelag erhalten. In beiden Fällen bestehen die Teerschwelgruben aus der eigentlichen Kammer, in die das Rohmaterial eingelegt wurde, und aus der unteren Vertiefung, in der sich der Teer sammelte. In den Gruben in der Lage Zadné lány fanden sich Stücke verkohlten Holzes, dagegen waren die Befunde in der Lage Vrábecké bis zum Rand mit Baumrinde gefüllt. Die Situation in der Lage Zadné lány zeugt also davon, dass die ganze Batterie nach der Entnahme des Inhalts aufgegeben wurde, dagegen deutet die verkohlte Baumrinde in den Gruben an der Fundstelle Vrábecké darauf hin, dass die Befunde noch während der Produktion verlassen wurden. Die Gruben in der Lage Zadné lány und ebenso in der Lage Vrábecké waren jeweils gleichzeitig in Betrieb. Unklar bleibt jedoch, ob die Befunde beider genannter Lagen als völlig gleichzeitig gelten können oder ob die genannten Unterschiede der inneren Gestaltung Ausdruck einer zeitlichen Abfolge sind, die der Verlagerung der ganzen Siedlung in die benachbarte Lage entspricht, wo neue Produktionswerkstätten und Behausungen angelegt wurden.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische eingetiefte Grubenhäuser",
+    "alt": "Slawische eingetiefte Grubenhäuser",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entdeckung der Teerschwelgruben in Bojnice ist ein Anlass, dieses wichtige spezialisierte Handwerk bei uns in der slawischen Zeit näher zu betrachten. Schon in böhmischen Quellen des 11. Jahrhunderts werden Pecherzeuger unter dem Namen pkelník-picarius erwähnt. Etwas später führen ungarische Quellen eine besondere Dienstschicht unter dem Begriff bucharii-pohárnici an, die sich vielleicht auch mit der Pechherstellung befasste. In der Slowakei wurde die Existenz der Teerschwelerei als spezialisiertes Handwerk bereits zur Zeit des Großmährischen Reiches bis vor kurzem nur durch sprachwissenschaftlich-historische Forschungen und namentlich durch die Toponomastik belegt. In den 1960er Jahren kam R. Krajčovič auf der Grundlage einer Analyse der Ortsnamen und ihrer Konfrontation mit dem archäologischen Material zu dem Schluss, dass die Siedlungsnamen nach Berufen in der Slowakei (auch in späteren Jahrhunderten oder bis in die Gegenwart erhalten) zur ältesten Gruppe gehören, die im 8. und 9. Jahrhundert entstand. Dieser Art sind auch Dechtice und Smolenice, deren Bewohner sich mit der Herstellung von Teer und Pech befassten. Zu ähnlichen Erkenntnissen kamen auch die Historiker.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruierter neuzeitlicher Teerofen in Bolevec",
+    "alt": "Rekonstruierter neuzeitlicher Teerofen in Bolevec",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der in erweitertem Umfang hergestellte Teer (Batterien von Teerschwelgruben) deckte nicht nur die Anforderungen des örtlichen Verbrauchs, sondern wurde auch Gegenstand des Handels mit näheren und ferneren Gebieten, den im Gebiet der oberen Neutra zweifellos die Funde axtförmiger Eisenbarren in Bošany, in Žabokreky oder in Bojná belegen. Die Tradition der großmährischen Teerschwelerei im Gebiet von Prievidza hat sich praktisch bis vor kurzem erhalten. Einige Bürger erinnerten sich noch in den 1960er Jahren lebhaft an die Teeröfen auf den benachbarten Hügeln der Gemarkung von Dubnica. Ebenso wird von untergegangenen Teerschwelereien im nahen Jalovec berichtet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wozu diente der Teer?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Teerherstellung in dieser Zeit deckte nicht nur den örtlichen Verbrauch, der Teer war auch für den Handel bestimmt. Er wurde in der Böttcherei, in der Wagnerei, in der Gerberei, in der Seilerei, für militärische Zwecke und im Obstbau verwendet. Die Holzkohle als Nebenprodukt wurde in den in Bojnice und Brezany entdeckten Schmiedewerkstätten genutzt. Die Tradition der großmährischen Teerschwelerei hielt sich noch in den 1950er Jahren, als sich einige Bewohner lebhaft an die Teeröfen auf den Hügeln der Gemarkung von Dubnica erinnerten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie stellten die Slawen den Teer her?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojnice – Burgwall und Zentrum der Teerschwelerei in der slawischen Zeit",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem eigentlichen Prozess der Teerherstellung in diesen Gruben gingen Vorarbeiten voraus. In die Vertiefung setzte man einen Behälter, darüber legte man in der Höhe der festen Sohle eine Zwischenwand ein, am ehesten aus Holz und in solchen Ausmaßen und solcher Form, wie es die Mündung des Hohlraums war. Die Zwischenwand stützte sich auf einen stufenförmigen Vorsprung in der Grubenwand und saß mit ihrer geraden Kante wiederum auf einem aus der festen Sohle hervorstehenden Brett auf. Damit erreichte man eine Neigung der halben Sohle zur Mitte hin. Die Oberfläche der Zwischenwand musste vor dem Feuer durch eine Lehmschicht geschützt werden. Der Teeranflug am Rand der festen Sohle lässt darauf schließen, dass zwischen der festen Sohle und der Zwischenwand im oberen Teil ein Spalt blieb, durch den der Teer auf ein passend zugerichtetes Brett der festen Sohle und von dort in den Behälter rann. Auf die so vorbereitete Sohle legte man Scheitholz bis zum Rand, und nach dem Anzünden des Holzes wurde die Mündung der Grube verschlossen und mit Lehm zugeschüttet. Im Inneren verlief die trockene Destillation, bei der Holzkohle, Teer und die übrigen Zersetzungsprodukte entstanden. Es ist bekannt, dass bei 120–150 °C das Holz austrocknet und Wasser verliert, dann tritt bei etwa 150–270 °C die Thermolyse mit chemischen Veränderungen ein, die bei etwa 275–450 °C in der Bildung und Verdampfung flüssiger Produkte gipfelt. Bei 450–500 °C verkohlen die verbleibenden Stoffe, und es entsteht Holzkohle. Während des ganzen Prozesses der trockenen Destillation entstehen verschiedene Verbindungen, unter denen auch Teer und Holzkohle sind. Die Grundsätze der Herstellung von Holzkohle wie auch von Holzteer ändern sich seit den Anfängen der Bronzezeit im Wesentlichen nicht. Anders sind nur das Arbeitsverfahren und die Produktivität der Herstellung in den folgenden Zeitabschnitten.\n \n Das Verfahren der Teerherstellung in der slawischen Zeit können Sie sich auf dieser guten Seite ansehen: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.cea.livinghistory.cz/ea/dehet/index.php",
+        "children": [
+         {
+          "type": "text",
+          "text": "CEA"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Scherbe eines slawischen Gefäßes mit dem Symbol einer Swastika",
+    "alt": "Scherbe eines slawischen Gefäßes mit dem Symbol einer Swastika",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Produktionssiedlung und die Teerschwelereien in Bojnice, die vor allem in großmährischer Zeit entstanden und arbeiteten, aber an diesem Ort bis in das 10. Jahrhundert bestanden haben können, deuten auf die Nähe eines größeren zentralen Burgwalls hin, in dessen Umgebung sich Siedlungen unterschiedlicher Funktion erstreckten. Im Licht dieser Entdeckungen erscheint das Gebiet von Bojnice und Prievidza als ein weiteres bedeutendes Zentrum der großmährischen und nachgroßmährischen Zeit, das im Prozess der Trennung des Handwerks von der Landwirtschaft ein hohes Niveau spezialisierter Handwerke erreichte, die nicht unmittelbar auf dem Burgwall, sondern in unbefestigten, manchmal vielleicht auch befestigten Siedlungen der näheren Umgebung konzentriert waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein großmährischer Falkner auf dem Burgwall Bojnice",
+    "alt": "Ein großmährischer Falkner auf dem Burgwall Bojnice",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

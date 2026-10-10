@@ -1072,6 +1072,51 @@ Moravianska venuša → **die Venus von Moravany**, rigolovanie vinohradu →
 Keď Janšák v dobovom citáte píše „šiance", prekladá sa **die Schanzen** —
 dobový register sa zachováva (§14).
 
+**Terén a opevnenie (49. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| náhorná plošina | **die Hochfläche** |
+| bradlové pásmo | **die Klippenzone** |
+| podporný val | **der Stützwall** |
+| nasucho kladený kamenný val | **trocken gesetzter Steinwall** |
+| planírka | **die Planierschicht** |
+| paženie | **die Verschalung** |
+| tehlovina | **der Brandlehm** |
+| hliník (jama tehelne) | **die Lehmgrube** |
+| pracovný objekt | **der Arbeitsbefund** |
+
+**Nálezy (49. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| sekeromlat | **die Hammeraxt** |
+| krížová ihlica | **die Kreuzkopfnadel** |
+| náramok s vývalkami | **Armring mit Wülsten** |
+| statér | **der Stater** |
+| deltoid | **das Deltoid** |
+| krosná | **der Webrahmen** |
+
+Rozhodnutie o sekeromlate: používa sa **die Hammeraxt**. Tvar *Axthammer*
+sa v nemčine síce vyskytuje, ale jeden článok ho nesmie písať inak než
+druhý — kde už bol, prepísal sa.
+
+**Kultúry.** Velatická kultúra → **die Velatice-Kultur**, velaticko-podolský
+horizont → **der Velatice-Podolí-Horizont**, pilínska kultúra → **die
+Piliny-Kultur** (zhodne s *Piliny-Ethnikum*).
+
+**Zemepis (49. dávka).** Strážovská vrchovina → **das Strážov-Hügelland**,
+Manínska tiesňava → **die Manín-Schlucht**, Krupinská vrchovina → **das
+Krupina-Hügelland**, Veličianska kotlina → **das Becken von Veličná**,
+Uhorská brána → **die Ungarische Pforte**, dunajská cesta → **die
+Donaustraße**, Marianka → **Mariathal** (exonym pri prvom výskyte).
+Bójovia → **die Boier**.
+
+**Dekády.** „50. roky" → **die 1950er Jahre**. Nemčina storočie v takom
+zápise nevynecháva, lebo samotné „50er" by viselo bez opory.
+
+**Akademický titul.** „Promovaný historik" → **diplomierter Historiker**.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

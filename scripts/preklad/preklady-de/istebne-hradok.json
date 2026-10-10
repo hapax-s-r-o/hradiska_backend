@@ -1,0 +1,336 @@
+{
+ "slug": "istebne-hradok",
+ "data": {
+  "title": "Istebné – Hrádok: eine hallstattzeitliche Höhensiedlung über der Arwa",
+  "slug": "istebne-hradok-hallstattzeitliche-hoehensiedlung-arwa",
+  "excerpt": "Auf einem Felssporn über der Arwa, nur 20–30 m über dem Wasserspiegel, errichtete die hallstattzeitliche Bevölkerung die befestigte Siedlung Istebné-Hrádok von etwa 0,5 ha. Die Nordseite schützte ein 8 bis 10 m hoher Wall mit einer Palisade in Blockbauweise und einem Turm. Die Ausgrabungen erbrachten Webgewichte und einen reichen Hortfund bronzener Zierstücke; drei Skelette unter der Destruktion bezeugen ein gewaltsames Ende. 1898 beschädigte der Bau der Arwaer Eisenbahn die Fundstelle schwer.",
+  "metaTitle": "Istebné – Hrádok: Höhensiedlung der Hallstattzeit",
+  "metaDescription": "Die hallstattzeitliche Siedlung Hrádok auf einem Felssporn über der Arwa: ein Wall von 8 bis 10 m, eine Palisade mit Turm und ein gewaltsames Ende.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Höhensiedlung",
+    "value": "etwa 0,5 ha, 20–30 m über dem Wasserspiegel der Arwa",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "an der Nordseite 8–10 m hoher Wall, Palisade in Blockbauweise mit Turm",
+    "icon": "shield"
+   },
+   {
+    "label": "Bedeutender Fund",
+    "value": "reicher Hortfund bronzener Zierstücke und Diademe",
+    "icon": "star"
+   },
+   {
+    "label": "Gewaltsames Ende",
+    "value": "entdeckt wurden 3 menschliche Skelette, überschüttet von einer Planierschicht aus der Destruktion von Palisade und Wall",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattzeit",
+    "title": "Entstehung der befestigten Siedlung",
+    "description": "Die hallstattzeitliche Bevölkerung errichtete, um der Gefahr von außen widerstehen zu können, in Istebné-Hrádok eine befestigte Siedlung auf einem Felssporn über dem Fluss Arwa.",
+    "type": "founding"
+   },
+   {
+    "year": "ältere Latènezeit",
+    "title": "Nachbesiedlung nach der Destruktion",
+    "description": "Nach den Keramikfunden mit plastischen Elementen erlebte die hallstattzeitliche Siedlung die ältere Latènezeit; Istebné-Hrádok war nach der Destruktion noch in der Latènezeit besiedelt.",
+    "type": "era"
+   },
+   {
+    "year": "Ende der Latènezeit – ältere römische Kaiserzeit",
+    "title": "Endgültige Aufgabe der Fundstelle",
+    "description": "Trotz der Nachbesiedlung blieb die Höhensiedlung am Ende der Latènezeit und der älteren römischen Kaiserzeit verlassen; aus der letzten Besiedlung können zwei gefundene eiserne Sicheln stammen.",
+    "type": "destruction"
+   },
+   {
+    "year": "1898",
+    "title": "Beschädigung der Höhensiedlung durch den Bahnbau",
+    "description": "Zu einer schweren Beschädigung der Höhensiedlung kam es beim Bau der Arwaer Eisenbahn – zerstört wurden der Eingang, ein großer Teil der Siedlung auf der Ostseite sowie der überwiegende Teil der Wallbefestigung.",
+    "type": "destruction"
+   },
+   {
+    "year": "1950er Jahre",
+    "title": "Erste archäologische Ausgrabung",
+    "description": "Eine Ausgrabung fand hier schon in den 1950er Jahren statt, als eine bronzene Kreuzkopfnadel und ein Ring aus doppeltem Bronzedraht gefunden wurden.",
+    "type": "discovery"
+   },
+   {
+    "year": "1960er Jahre",
+    "title": "Fortsetzung der Ausgrabung",
+    "description": "Die Ausgrabung setzte sich in den 1960er Jahren fort, als auf der Höhensiedlung hallstattzeitliche Scherben, eine eiserne Lanze und mittelalterliche Scherben gefunden wurden.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3477,
+    "caption": "Die Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts",
+    "alt": "Die Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts"
+   },
+   {
+    "mediaId": 3478,
+    "caption": "Blick auf den Wall",
+    "alt": "Blick auf den Wall"
+   },
+   {
+    "mediaId": 3480,
+    "caption": "Foto aus dem Oravské-Museum (Kubo Godiš)",
+    "alt": "Foto aus dem Oravské-Museum (Kubo Godiš)"
+   },
+   {
+    "mediaId": 3481,
+    "caption": "Fund aus Istebné (Kubo Godiš)",
+    "alt": "Fund aus Istebné (Kubo Godiš)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Trasse des urgeschichtlichen Weges die Arwa aufwärts von Žaškov und Komjatná lebte die hallstattzeitliche Bevölkerung auch im Gebiet der unteren Arwa. Um der Gefahr von außen widerstehen zu können, errichtete sie in Istebné-Hrádok eine befestigte Siedlung. Sie nutzte dafür einen Felssporn über dem Fluss Arwa, der im NW mit dem übrigen ansteigenden Gelände zusammenhing, das heute von der Höhensiedlung durch eine neue Straße getrennt ist. Die Fläche der Höhensiedlung betrug etwa 0,5 ha. Die Höhensiedlung lag nur etwa 20–30 m über dem Wasserspiegel des Flusses, mit Neigung nach Süden. Die empfindlichste Stelle war der nördliche Teil, deshalb wurde hier ein etwa 8 bis 10 m hoher Wall errichtet, der die Höhensiedlung vor einem Angriff schützte. Hinter der Straße entstand im vergangenen Jahrhundert eine Ziegelei – eine Lehmgrube (heute eine Sportanlage) –, und die Straße selbst ist bereits ein Werk der Neuzeit. Der Weg führte ursprünglich nicht in dieser Richtung, sondern von Žaškov auf der linken Seite des Flusses gegen die Strömung der Arwa über eine Furt nach Veličná. Zum Hrádok bei Istebné musste man an einer anderen Stelle über eine Furt gehen oder die Verbindung von Veličná nehmen. Den Fluss Arwa nutzte die Siedlung auf dem Hrádok als natürliches Hindernis."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts",
+    "alt": "Die Höhensiedlung auf der Karte der 2. militärischen Landesaufnahme aus der Mitte des 19. Jahrhunderts",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu einer schweren Beschädigung der Höhensiedlung kam es im Jahr 1898 beim Bau der Arwaer Eisenbahn. Der südöstliche Teil des Sporns wurde von der Bahn durchschnitten, die Hänge abgeschrägt, sodass nur ein unbedeutender Teil auf der Süd- und ein etwas größerer Teil auf der Nordseite der Fundstelle übrig blieb. Zerstört wurden auch der Eingang – das Tor –, ein großer Teil der Siedlung auf der Ostseite, der überwiegende Teil der Wallbefestigung, der Siedlungsbefunde und anderes. In einer der Hütten fand sich ein reicher Hortfund bronzener Zierstücke und Diademe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung der Höhensiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Ausgrabung fand hier schon in den 1950er Jahren statt, als eine bronzene Kreuzkopfnadel und ein Ring aus doppeltem Bronzedraht mit verjüngten Enden gefunden wurden. Freigelegt wurden auch Überreste der Befestigung. Durch weitere Freilegung im Bereich der Wallaufschüttung stieß man fast in der Wallkrone auf durchglühten Flussschotter, wo in einer Tiefe von 40 cm eine Schicht aus Bruch- und Flusssteinen lag, die übereinander gelegt und so miteinander verbunden waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Wall",
+    "alt": "Blick auf den Wall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Ostseite der Höhensiedlung wurde der Wall untersucht, der sich mit leichter Neigung nach Süden senkt. An seinem Fuß wurde ein Teil eines Arbeitsbefundes freigelegt. Es fanden sich Scherben eines vasenartigen Gefäßes und 13 tönerne Webgewichte zusammen mit einer eisernen Axt. Die Gewichte waren kegelförmig, mit einem quer durchgehenden Löchlein. Hergestellt waren sie aus mit Spreu vermischtem Lehm, und an einem von ihnen fanden sich auch deutliche Abdrücke einer geflochtenen Matte. Die Axt hatte eine Tülle, die im warmen Zustand durch Übereinanderbiegen zweier Lappen gebildet worden war. Gefunden wurden auch ein dünner Bandarmring und ein Vorratsgefäß.\n \nDie Ausgrabung setzte sich auch in den 1960er Jahren fort, als auf der Höhensiedlung hallstattzeitliche Scherben oder eine eiserne Lanze gefunden wurden. Es kamen auch mittelalterliche Scherben zum Vorschein. Der Wehrwall wurde wohl auch nach seiner Destruktion umgestaltet, und deshalb haben die jüngeren Umgestaltungen, wie auch an anderen Fundstellen, auch hier die ursprüngliche hallstattzeitliche beziehungsweise hallstatt-latènezeitliche Geländesituation teilweise gestört. Der Wall hatte Fundamente, die aus gelbem Lehm aufgeschüttet waren, und war von Norden mit Steinmauerwerk samt Aufschüttungen und von der Siedlungsseite her mit einer senkrechten Wand aus Rundholz verfestigt. Im Wallkörper lagen Sandsteine und auf ihnen eine Schicht rot durchglühten Lehmbewurfs und Lehms. Zu den interessanten Funden gehört der Abdruck einer menschlichen Ferse, der beim Stopfen von Lehm in die Fugen der Blockkonstruktion entstand. In den oberen Schichten des Wallschnitts lagen größere Stücke geschichteten Lehmbewurfs, der vom Dach stammen konnte. Es scheint also, dass der rohe Lehm auf dem Dach an den Stellen möglicher Auswaschung oder Rissbildung nachverschmiert wurde. Freigelegt wurden auch Reste eines Wachturms und seiner Blockkonstruktion."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Aussehen der Höhensiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der insgesamt festgestellten Situation können wir in der Wallkrone den ursprünglichen Zustand mindestens annähernd rekonstruieren. Aus der älteren Phase hat sich an der ursprünglichen Stelle eine Steinmauer erhalten, während für die jüngere Phase die Steinmauer neu errichtet wurde. Dieses Steinmauerwerk deutet im östlichen Profil den Fortgang der Bauarbeiten an. Vor allem wurde der Hauptkörper des Walls gebaut, und zwar so, dass ihn von der Südseite eine Verschalung aus Rundholz mit in den Wall reichenden Zangenhölzern hielt, von Norden das Steinmauerwerk, das von der Außenseite mit verschiedenartigem Aufschüttungsmaterial nachgeschüttet wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "ISTEBNÉ - HRÁDOK",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Palisade der jüngeren Phase hatte ein Pultdach, das zur Siedlung hin geneigt war. Das Innere der Palisade glich einem Gang mit verschmierten Wänden, die von außen mit Steinmauerwerk verkleidet und mit Sehschlitzen mit Ausblick in die Umgebung versehen waren. Der Gang mit leichtem Anstieg bis zur Nordecke war an der höchsten Stelle der Siedlung wahrscheinlich von einem viereckigen Turm abgeschlossen. Darauf deuten die steinernen Fundamente des Unterbaus hin, die flach in einer Reihe verlegt waren. Sie lagen unter dem von den Wänden herabgefallenen Lehmbewurf, bildeten aber kein kompaktes Steinmauerwerk. Die zwischen ihnen und dem Lehmbewurf gefundenen verkohlten Holzreste stammten von Eiche und Tanne. Von diesem höchsten Teil knickte der Wehrwall mit der Palisade in einem stumpfen Winkel in Richtung Südosten ab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto aus dem Oravské-Museum (Kubo Godiš)",
+    "alt": "Foto aus dem Oravské-Museum (Kubo Godiš)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Interessant konnte der Zustand der Höhensiedlung vor der Katastrophe sein, als hier eine planmäßige Bebauung mit Hütten und Nebengebäuden für die Bewohner wie auch für führende Personen anzunehmen war. Die gewaltsame Einnahme der Höhensiedlung lässt sich in ihrer Destruktion verfolgen, die auch die Skelette ihrer einstigen Bewohner bedeckte. Entdeckt wurden bis zu 3 solcher Skelette, die von einer Planierschicht aus der Destruktion der Palisade und des niedergerissenen Walls überschüttet waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wehrwall aus Erde, der nach NO ansteigt, konnte eine noch wesentlich höhere Aufschüttung haben als heute, wobei er dem äußeren Geländeniveau mit demselben Höhenunterschied folgte. Die in seinem Körper gelagerten Steine bildeten einen stabilisierenden Kern und halfen beim Bau des Wallkörpers. Die in der Wallkrone errichtete Palisade in Blockbauweise erreichte eine Breite von 8 m und an der höchsten Stelle von 5,5 m. Die hölzerne Konstruktion des Turms war wahrscheinlich von innen mit Lehm verschmiert, der nach der Destruktion die mächtigste Brandlehmschicht bildete, die auf der Siedlungsseite abgerutscht und freigelegt wurde. In diesem Raum entlang der Blockbau-Verschalung des Erdwalls befanden sich ursprünglich unter dem Dach Arbeitsräume zum Weben von Stoffen. Zu diesem Zweck wurde offenbar die hohe Blockbauwand zum Aufhängen der Kettfäden mit tönernen Gewichten genutzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fund aus Istebné (Kubo Godiš)",
+    "alt": "Fund aus Istebné (Kubo Godiš)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Planierschicht und in den Senken des Walls kamen schon Scherben mit plastischen Buckeln und Halbmonden, ja sogar latènezeitliche Keramik mit Kammstrich vor. Nach den Fragmenten einer Amphore mit feiner Riefung und einem kleinen plastischen Halbmond erkennen wir, dass die hallstattzeitliche Siedlung in Istebné-Hrádok die ältere Latènezeit erlebte, als auf dem hallstattzeitlichen Material plastische Elemente auftreten, die in der Latènezeit dominieren und die Verzierung der Keramik der Púchov-Kultur charakterisieren. Istebné-Hrádok war nach der Destruktion zwar noch in der Latènezeit besiedelt, blieb aber bereits am Ende der Latènezeit und der älteren römischen Kaiserzeit verlassen. Aus der letzten Besiedlung können zwei eiserne Sicheln stammen. Diese landwirtschaftlichen Geräte bezeugen eine Siedlung, die am Fuß des Hrádok gelegen haben konnte, ähnlich wie in Sedliacka Dubová in der Nähe bewirtschafteter Felder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jede befestigte Siedlung hatte bereits in der Hallstattzeit ihr wirtschaftliches Hinterland. Istebné-Hrádok konnte eine bäuerliche Siedlung im Tal des Istebnianský-Baches haben und hatte teilweise auch Anteil am Gebiet des Beckens von Veličná."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

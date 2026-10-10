@@ -1,0 +1,306 @@
+{
+ "slug": "skalica-hradisko-na-kalvarii",
+ "data": {
+  "title": "Skalica – Hradisko auf der Kalvária, ein Burgwall mit der Rotunde des hl. Georg",
+  "slug": "skalica-hradisko-kalvaria-burgwall-georgsrotunde",
+  "excerpt": "Am Nordwestrand der Altstadt von Skalica lag auf einer Erhebung über der Aue der March ein elliptisches befestigtes Gebilde von etwa 120 × 40–50 m, geschützt durch einen mächtigen Wall und einen tiefen Graben. Auf dem östlichen Teil steht die romanische Rotunde des hl. Georg, bis heute das Symbol der Stadt; mit einer Burg ist hier etwa ab der Wende vom 12. zum 13. Jahrhundert zu rechnen.",
+  "metaTitle": "Skalica – Hradisko auf der Kalvária mit Georgsrotunde",
+  "metaDescription": "Elliptischer Burgwall mit Wall und Graben bei der Altstadt von Skalica, überragt von der Rotunde des hl. Georg. 1958 fand man dort 1392 Silbermünzen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Hügel Kalvária am NW-Rand der Altstadt von Skalica",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigtes Gebilde",
+    "value": "elliptisch, ~120 × 40–50 m, Wall + Graben",
+    "icon": "star"
+   },
+   {
+    "label": "Dominante",
+    "value": "romanische Rotunde des hl. Georg (bis heute Symbol von Skalica)",
+    "icon": "star"
+   },
+   {
+    "label": "Numismatik",
+    "value": "Fund von 1392 Silbermünzen (1958)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Bronzezeit / Hallstattzeit",
+    "title": "Urgeschichtliche Besiedlung",
+    "description": "Bronzenes Messer, Halsring, Keramik; das Toponym Hradisko.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Großmährische Elite",
+    "description": "Das nahe Hügelgräberfeld Kopečnice mit reicher Ausstattung.",
+    "type": "event"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Altungarischer Krieger",
+    "description": "Ein Grab beim Burgwall – Zeit der Konflikte und Bündnisse.",
+    "type": "event"
+   },
+   {
+    "year": "Wende vom 12. zum 13. Jahrhundert",
+    "title": "Entstehung der Burg",
+    "description": "Befestigter Sitz mit der Eigenkirchen-Rotunde (die Herren von Pezinok und Svätý Jur).",
+    "type": "event"
+   },
+   {
+    "year": "nach 1372",
+    "title": "Untergang der Burg",
+    "description": "Infolge des Baus der Stadtmauern (A. Ruttkay).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6029,
+    "alt": "LiDAR-Aufnahme der Stadtbebauung mit dem lesbaren Körper von Wall und Graben des Burgwalls"
+   },
+   {
+    "mediaId": 6034,
+    "caption": "Gegenstände aus dem altungarischen Grab am Hang des Burgwalls",
+    "alt": "Gegenstände aus dem altungarischen Grab am Hang des Burgwalls"
+   },
+   {
+    "mediaId": 6035,
+    "caption": "Das Hradisko (die Burg), eingezeichnet auf einer kleinen Karte von Skalica aus dem 15. Jahrhundert",
+    "alt": "Das Hradisko (die Burg), eingezeichnet auf einer kleinen Karte von Skalica aus dem 15. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall von Skalica liegt in unmittelbarer Nähe des nordwestlichen Randes der Altstadt. Er besteht aus zwei größeren Anhöhen, die durch eine deutliche Geländerinne voneinander getrennt sind, die heute als Teil der Straße ins Stadtzentrum genutzt wird. Auf einer natürlichen Erhebung, die in westlicher Richtung in die Überschwemmungsaue der March ausläuft und die Flussaue um bis zu 20 m, im Vergleich zum Geländeniveau auf der Ostseite um 6–8 m überragt, lag ein befestigtes Gebilde von elliptischer Form, dessen längere Achse in Richtung NW-SO orientiert war, mit einer Länge von etwa 120 m und einer Breite von etwa 40–50 m. Es scheint, dass die Reste eines breiten, durch spätere Eingriffe offenbar stark deformierten Grabens, der um die Kalvária von der West-, Nord- und Südseite erkennbar ist, mit dieser Phase zusammenhängen. Der Burgwall war durch einen mächtigen Wall und einen tiefen Graben geschützt. Auf der Krone des Walls ist eine hölzerne Palisade anzunehmen. Den zweiten, kleineren Teil bildet eine Schräge auf der Ostseite mit Maßen von etwa 82 m × 17 m, auf deren Scheitel eine romanische Rotunde steht, die bis heute das Symbol von Skalica ist und die offenbar schon im Hochmittelalter dem Besitzer des Burgwalls diente. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalica – Hradisko auf der Kalvária",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "F. V. Sasinek befasste sich im Rahmen der Topografie von Skalica eingehend mit der Entstehung und der Lokalisierung der ursprünglichen Burg, die auf dem Hügel mit dem Kalvarienberg stand und den Keim der späteren befestigten Stadt bildete. Der Autor stützt sich auf die Toponymie. In Urkunden aus den Jahren 1648 und 1753 stellte er fest, dass der Hügel schon damals Hradisko genannt wurde. An diesen Namen anknüpfend suchte Sasinek nach Überresten einer gemauerten mittelalterlichen Burg. Als er sie jedoch nicht fand, schloss er, dass auf dem Hügel eine urgeschichtliche, mit Wällen befestigte Siedlung gestanden haben musste. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Benennung Hradisko, mit der der südöstliche Ausläufer der Kalvária bezeichnet wird, hat sich bis in unsere Tage ein wertvolles toponymisches Dokument erhalten, auf das sich der Historiker sicher stützen kann. Orte, die mit Namen wie Hrádok, Zámčisko, Pohanský vrch, Zemný hrad, Valy oder Stráža bezeichnet werden, sind fast immer entweder urgeschichtliche, frühgeschichtliche oder mittelalterliche befestigte Siedlungen. Es gibt keinen Grund, gerade bei Skalica, das in einem Gürtel sehr dichter slawischer Besiedlung liegt, am Wert und an der Bedeutung eines solchen toponymischen Belegs zu zweifeln. Der Name Hradisko, der sich im Gedächtnis der örtlichen Bevölkerung hielt, konnte sich auf eine untergegangene urgeschichtliche Burg beziehen, die ursprünglich vielleicht noch aus der Bronze- oder Hallstattzeit stammte. Aus den genannten Perioden (Bronzezeit) kennen wir aus Skalica mehrere interessante Funde, wie zum Beispiel ein bronzenes Messer, einen Halsring oder Keramik. Das bekannte slawische Hügelgräberfeld nicht weit von Skalica bezeugt den Aufenthalt der großmährischen Elite, die grundsätzlich befestigte Orte zu bewohnen pflegte. In diesem Fall konnte der Burgwall von den ersten slawischen Siedlern übernommen worden sein, die im Umkreis von Skalica wohnten und die bei ihrer Ankunft auf dem Hügel nur noch die Trümmer einer zwölf bis fünfzehn Jahrhunderte alten Siedlung fanden. Wir wissen jedoch nicht, ob der Begriff Burg oder Burgwall schon in der Sprache der großmährischen oder noch älteren Slawen existierte. Deshalb ist vielleicht die Ansicht zutreffender, dass der Name Hradisko erst in jener Zeit entstand, als die ersten Stadtmauern von Skalica gebaut wurden, als die Bewohner den älteren Burgteil der Stadt auf der Kalvária verließen und sich auf einer größeren Fläche ansiedelten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalica – Hradisko auf der Kalvária",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Janšák führt an, dass vom Standort der Burg auf jener Fläche, die bis vor kurzem Hradisko hieß, am gewichtigsten das Geländerelief des Hügels mit dem Kalvarienberg zeugt. Auf seinem ganzen Umfang neigt er sich sehr sanft zur benachbarten Ebene hin. Nur nordöstlich der Rotunde des hl. Georg gibt es eine plötzliche Stufe, die von härterem Felsuntergrund gebildet wird. Wenn wir den Teil der Stadtmauern wegdenken, deren Gürtel von der Rotunde nach Nordosten hinabführt, und wenn wir alle Wohnhäuschen und Wirtschaftsgebäude entfernen würden, die den Mauern von beiden Seiten angeklebt sind, erscheint ein steiler, 8 bis 10 m hoher Bergsporn. Und diese Höhe hat der Hügel auch nach allen Planierungen und Nivellierungseingriffen behalten, denen er über Jahrhunderte, vor allem aber beim Bau der Stadtmauern ausgesetzt war. Auf der Süd-, Ost- und Nordostseite dieser Stufe befanden sich Sümpfe, die vom Bach Zlatnícky potok gebildet wurden. Auf dem gesamten Umfang des Hügels mit dem Kalvarienberg und den Friedhöfen gab es in der Urgeschichte und auch im frühen Mittelalter keine geeignetere Stelle für die Anlage einer befestigten Siedlung oder für den Bau einer kleinen Burg. Hier waren alle Momente vereint, die für die Sicherheit der kleinen Burg notwendig waren: ein erhöhter Bergsporn, ein breiter und tiefer Sumpf an seinem Fuß – ein Schutz durch die Natur von drei Seiten. Nur hier konnte die mit Wällen befestigte Erdburg und die spätere hölzerne Festung stehen, nach der der Ort den Namen Hradisko erhielt, während die übrige Oberfläche des Kalvária-Hügels ohne Namen blieb."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalica – Hradisko auf der Kalvária",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ergebnisse der bisherigen archäologischen Ausgrabungen deuten darauf hin, dass mit der Existenz einer Burg in Skalica offenbar etwa ab der Wende vom 12. zum 13. Jahrhundert zu rechnen ist. Die Rotunde erfüllte die Funktion einer Eigenkirche mit einer kleinen Fläche für Bestattungen. Alexander Ruttkay ist der Ansicht, dass es sich nicht um eine Erdburg – einen Burgwall – handelte, sondern um ein Gebilde, das wahrscheinlich durch eine Steinmauer und einen Graben befestigt war, und dass es infolge des Baus der Stadtmauern nach dem Jahr 1372 unterging. Der Graben, der heute die kleine Burg vom westlichen Ausläufer der Erhebung mit der Rotunde trennt, befand sich offenbar an derselben Stelle auch im Mittelalter, zunächst als breiter Graben, der sich an die Stadtmauer anschmiegte, und wurde anschließend für den Weg erweitert, der heute die Achse der Straße zwischen der Kalvária und der Rotunde des hl. Georg bildet. Die heutige Höhe der Anhöhe Kalvária entspricht nicht der Situation im Mittelalter. L. Kraskovská führt bei der Beschreibung des altungarischen Grabes im Hang der Kalvária an, dass unter dem oberflächlichen Humus eine etwa 2,5 m dicke Aufschüttung aus gelbem sandigem Ton lag, die sie in das 18. Jahrhundert datiert; unter dieser Schicht, das heißt in einer Tiefe von 2,5 m, lagen zwei dünne Schichten, die „Asche, Holzkohle und…Scherben…aus dem 14. und 15. Jahrhundert“ enthielten. In der zweiten mittelalterlichen Schicht befand sich ein „Steinboden aus Sandstein, darauf…eine Schicht aus gebranntem dunkelgrauem Lehm…“ mit einem Verputz, der als „rosafarbener Putz“ bezeichnet wird. Das altungarische Grab wurde in einer Tiefe von etwa 1,5 m unter dem Niveau der ersten mittelalterlichen Schicht festgestellt. Auch bei der Ausgrabung in der Umgebung der Rotunde im Jahr 2005 bestätigte sich, dass das heutige Höhenniveau der Gipfelfläche des Burgwalls nicht mit dem ursprünglichen mittelalterlichen übereinstimmt und dass sie also im Verlauf des Spätmittelalters und der Neuzeit offenbar auf verschiedene Weise aufgehöht wurde. Auch aus diesem Grund ist es schwierig, auf dem Burgwall zum Beispiel Keramik zu finden, da die mittelalterliche Schicht in einer verhältnismäßig großen Tiefe liegt. Etwaige ältere Schichten sind daher noch tiefer zu erwarten. Die Ausgrabung im Jahr 2005 bestätigte auch, dass sich die Rotunde im Mittelalter innerhalb der Stadtbefestigung befand. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalica – Hradisko auf der Kalvária",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rudolf Hikl, der sich nach Sasinek mit dem Burgwall in Skalica beschäftigte, führt an, dass die kleine Burg seiner Meinung nach von den Grafen von Pezinok (Bösing) errichtet wurde, die von 1217 bis zum Ende des 13. Jahrhunderts die Besitzer von Skalica waren, das ihnen die ungarischen Könige Andreas II. und Béla IV. geschenkt hatten. Die kleine Burg soll hölzern gewesen sein und war der Sitz der herrschenden Grundherren. In ihrer Nähe errichteten sie jedoch die steinerne kleine Kirche des hl. Georg in Form einer Rotunde, deren grundlegender Baucharakter sich bis heute erhalten hat. Das Konfinium wurde schon zu Beginn des 13. Jahrhunderts Teil der Besitzungen des Adels. Wenn wir berücksichtigen, dass die Aufgabe der Herren von Pezinok und Svätý Jur (Sankt Georgen) nicht nur die Nachbesiedlung war, sondern zweifellos auch die Sorge um den Schutz der Grenzen, ergibt sich die Annahme, dass mit ihrer Tätigkeit die erste Phase des befestigten Sitzes mit der Eigenkirchen-Rotunde in Skalica zusammenhängt. Die weitere Entwicklung ist jedoch unklar. Nach dem Jahr 1250 traten in der Nachbarschaft von Skalica die Burgen Holíč, Branč und Senica in den Vordergrund. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalica – Hradisko auf der Kalvária",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Existenz der Kirche und der kleinen Burg entstand in ihrer Nachbarschaft am südöstlichen Hang des Hügels ein Suburbium, das den Charakter einer Wirtschaftssiedlung hatte, was im Mittelalter üblich war. Die Siedler des Suburbiums bauten ihre Behausungen jedoch nicht auf dem Hügel, sondern stiegen von ihm zum Wasser hinab, das bei der Wahl des Bauplatzes der neu errichteten Hütten entscheidend war. So entstand eine Agglomeration von Wohnbauten, zunächst nur in der unmittelbaren Nachbarschaft der Kirche, wo heute die Straßen Podhradie und Blahova liegen. Später erweiterte sich die Siedlung auf die Fläche, die der von Mauern umschlossene alte Teil der Stadt einnimmt. Zwei Bäche, der Zlatnícky und der Stračinský, begünstigten diese Entwicklung durch ihre Lage und durch ihre Wassermenge, die gleichmäßig über das ganze Jahr verteilt war. Günstig wirkte auch die von den zwei Bächen umschlossene Form des Geländes. Diese beiden Momente entschieden über die Wahl der Lage und über den Verlauf der Stadtmauern, als am Ende des 14. Jahrhunderts aus der von allen Seiten zugänglichen Siedlung eine geschlossene, von gemauerten Mauern umgebene Stadt wurde. Ein interessanter Beleg für die Existenz des Burgwalls ist die "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/groups/103673119857/posts/10157824526914858/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Karte von Skalica"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", die sich angeblich im Archiv in Brünn befindet und um das Jahr 1500 entstanden sein soll. Die Karte soll Skalica in der Zeit des Aufenthalts König Sigismunds auf der Burg darstellen. Nach der Karte war die Burg mit der Rotunde und dem Friedhof durch eine Zugbrücke über einen Wassergraben verbunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gegenstände aus dem altungarischen Grab am Hang des Burgwalls",
+    "alt": "Gegenstände aus dem altungarischen Grab am Hang des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Gemarkung von Skalica kennen wir interessante archäologische Funde schon von der Steinzeit über die Bronzezeit bis zur römischen Kaiserzeit. Gut bekannt ist das Hügelgräberfeld von Skalica aus der Zeit Großmährens, das in der Lage Kopečnice liegt und das eine außerordentlich reiche Grabausstattung sowohl von Frauen (reicher Schmuck) als auch von Männern (Schwerter, andere Waffen) enthielt. Das Hügelgräberfeld bezeugt, dass auf dem Gebiet von Skalica im 9. Jahrhundert die großmährische Elite lebte. Der Burgwall konnte also schon in der Zeit Großmährens dienen, doch wegen des Fehlens einer umfassenderen archäologischen Ausgrabung haben wir für diese logische Annahme bislang keine Beweise zur Verfügung. Darauf würde jedoch auch der Fund des Grabes eines altungarischen Kriegers aus dem 10. Jahrhundert in der Nähe des Burgwalls hinweisen, der mit der Zeit der sich abwechselnden Konflikte und Bündnisse der Großmährer und der Altungarn zusammenhängen kann. Für eine sehr interessante numismatische Entdeckung halte ich den Fund von 1392 Silbermünzen, unter denen Wiener Pfennige aus dem 13. Jahrhundert dominierten. Er wurde im Jahr 1958 beim Pflügen gemacht, wobei die Münzen in einem Keramikgefäß deponiert waren. Die Münzen könnten vielleicht mit dem Tatareneinfall in das Gebiet des Königreichs Ungarn zusammenhängen, wobei anzunehmen ist, dass die Münzen einer der reichen Bewohner von Skalica aus Furcht vor diesen Nomaden versteckte. Mit etwas Fantasie lässt sich annehmen, dass der Schatz einem der Grafen von Svätý Jur und Pezinok gehörte, denen Hikl die Errichtung des Burgwalls von Skalica zuschreibt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Hradisko (die Burg), eingezeichnet auf einer kleinen Karte von Skalica aus dem 15. Jahrhundert",
+    "alt": "Das Hradisko (die Burg), eingezeichnet auf einer kleinen Karte von Skalica aus dem 15. Jahrhundert",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

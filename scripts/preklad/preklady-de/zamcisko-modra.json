@@ -1,0 +1,953 @@
+{
+ "slug": "zamcisko-modra",
+ "data": {
+  "title": "Zámčisko über Modra – eine slawische Fliehburg in den Kleinen Karpaten",
+  "slug": "zamcisko-modra-slawische-fliehburg",
+  "excerpt": "Auf einem Bergsporn über Modra, am südlichen Fuß der Kleinen Karpaten, liegt das Zámčisko – ein Burgwall in der Form eines regelmäßigen Hufeisens von 115 m Länge und 105 m Breite. Schon um 700 v. Chr. nutzten die Träger der Kalenderberg-Kultur diesen Bereich, seine heutige Gestalt erhielt er jedoch erst in der Zeit Großmährens, als er als Fliehburg für die Bewohner der Umgebung diente. Genutzt wurde er noch im 13. Jahrhundert, als hier eine militärische Besatzung lagerte.",
+  "metaTitle": "Zámčisko über Modra – slawische Fliehburg Großmährens",
+  "metaDescription": "Die Vorgängerin von Modra am Fuß der Kleinen Karpaten reicht in das 9. Jahrhundert, in die Blüte Großmährens: slawische Siedlung, Gräberfeld und Fliehburg.",
+  "keyFacts": [
+   {
+    "label": "Form und Ausmaße des Burgwalls",
+    "value": "Ein regelmäßiges Hufeisen mit den Ausmaßen 115 x 105 m",
+    "icon": "map"
+   },
+   {
+    "label": "Länge der Wälle",
+    "value": "Der Hauptwall a-b-c-d-e misst 280 m, der Wall f-b weitere 110 m",
+    "icon": "building"
+   },
+   {
+    "label": "Strategische Lage",
+    "value": "Die Aussicht vom Burgwall ermöglichte die Kontrolle des Verkehrswegs Pezinok – Častá auf eine Entfernung von 15–20 km",
+    "icon": "mountain"
+   },
+   {
+    "label": "Bauphasen der Befestigung",
+    "value": "Die Wallbefestigung entstand in zwei bis drei eigenständigen Bauphasen",
+    "icon": "shield"
+   },
+   {
+    "label": "Untersuchung der Fundstelle",
+    "value": "Die Fundstelle kartierte und beschrieb zuerst Š. Janšák, 1999 knüpfte die Sondagegrabung von Z. Farkaš (Archäologisches Museum des SNM) daran an",
+    "icon": "book"
+   },
+   {
+    "label": "Funde mit Metalldetektoren",
+    "value": "Bis zum Ende des Jahres 2007 wurden 196 metallene, nahezu ausschließlich eiserne Gegenstände zusammengetragen",
+    "icon": "custom"
+   },
+   {
+    "label": "Militaria",
+    "value": "Unter den Funden sind drei Pfeilspitzen, Sporen mit Stachel wie auch mit Zahnrädchen und Reste von Waffen",
+    "icon": "shield"
+   },
+   {
+    "label": "Sage von Červený Kameň",
+    "value": "Der Sage nach sollte die Burg Červený Kameň ursprünglich auf dem Zámčisko errichtet werden",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 700 v. Chr.",
+    "title": "Besiedlung durch die Kalenderberg-Kultur",
+    "description": "Den Bereich des Burgwalls nutzten die Träger der Kalenderberg-Kultur, zur Zeit der größten Blüte der nahen befestigten Höhensiedlung Molpír bei Smolenice.",
+    "type": "era"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Anfänge der Siedlungsvorgängerin von Modra",
+    "description": "Die slawischen Bewohner der Siedlung im nordöstlichen Teil des heutigen Ľ.-Štúr-Platzes begruben ihre Toten auf einem Gräberfeld an der Fundstelle des sogenannten Sodoma-Weingartens.",
+    "type": "founding"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Ausbau des Burgwalls zur Zeit Großmährens",
+    "description": "Der Burgwall erhielt jene Gestalt mit den bis heute sichtbaren Wehrwällen und diente mit größter Wahrscheinlichkeit als Fliehburg für die Bewohner von Modra und der Umgebung.",
+    "type": "construction"
+   },
+   {
+    "year": "9. – Anfang des 10. Jahrhunderts",
+    "title": "Mittlere Bauphase der Befestigung",
+    "description": "Die Phase datieren Funde von zwei eisernen Pflugscharen, dem Sech eines Pfluges, einer Speerspitze und einem großen Messer aus der Zeit des Aufstiegs und des Untergangs des Großmährischen Reiches.",
+    "type": "construction"
+   },
+   {
+    "year": "10. – Anfang des 11. Jahrhunderts",
+    "title": "Jüngste Phase der Befestigung mit Besatzung",
+    "description": "In der Befestigung war mindestens gelegentlich eine militärische Besatzung untergebracht, die in leichten wie auch dauerhafteren ebenerdigen Bauten aus Holz wohnte.",
+    "type": "construction"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Nutzung während der mittelalterlichen Kämpfe",
+    "description": "Der Burgwall konnte während des Tatareneinfalls, der Kämpfe Ungarns mit den Babenbergern und mit dem Königreich Böhmen sowie beim Aufstand des Woiwoden Opur am Ende des 13. Jahrhunderts Verwendung finden, wovon Funde von Sporen, Waffenresten, Hufeisen und Pfeilspitzen zeugen.",
+    "type": "battle"
+   },
+   {
+    "year": "zweite Hälfte des 13. Jahrhunderts",
+    "title": "Letzte Bauphase – Lagerplatz",
+    "description": "Der befestigte Raum diente als Lagerplatz und gleichzeitig als Stützpunkt einer militärischen Besatzung; einige Funde hängen möglicherweise mit den Kämpfen Ungarns gegen Přemysl Ottokar II. zusammen.",
+    "type": "construction"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Untergang durch Brand",
+    "description": "Der Burgwall ging durch einen Brand unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "1937",
+    "title": "Zufallsfund von Gräbern im Weingarten",
+    "description": "Herr Sodoma fand auf seinem Grundstück zerstörte Gräber mit Skeletten und Gegenständen des 9. Jahrhunderts; den Fund beschrieb drei Jahre später Dr. Ľudmila Kraskovská.",
+    "type": "discovery"
+   },
+   {
+    "year": "1999",
+    "title": "Archäologische Sondagegrabung",
+    "description": "Das Archäologische Museum des SNM in Bratislava untersuchte unter der Leitung von Z. Farkaš die obere Befestigung des Burgwalls und legte zwei Schnitte an, die einen mehrphasigen Aufbau der Wälle belegten.",
+    "type": "discovery"
+   },
+   {
+    "year": "2001",
+    "title": "Wiederentdeckung des Weingartens des Herrn Sodoma",
+    "description": "Das Grundstück der ursprünglichen Fundstelle der Gräber wurde mit großen Schwierigkeiten wieder lokalisiert.",
+    "type": "discovery"
+   },
+   {
+    "year": "2006",
+    "title": "Fund eines gotischen Schlüssels",
+    "description": "Ein Sammler entdeckte den bislang einzelnen späteren Fund eines gotischen Schlüssels, an dem eine kleine Silbermünze ankorrodiert war.",
+    "type": "discovery"
+   },
+   {
+    "year": "2007",
+    "title": "Kollektion von 196 Metallgegenständen",
+    "description": "Bis zum Ende des Jahres 2007 gelang es, eine Kollektion von 196 metallenen, nahezu ausschließlich eisernen Gegenständen zusammenzustellen, die größtenteils aus der Ausgrabung des Jahres 1999 stammen.",
+    "type": "discovery"
+   },
+   {
+    "year": "2013",
+    "title": "Aufstellung der Informationstafel",
+    "description": "Auf dem Burgwall wurde eine Informationstafel aufgestellt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2336,
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Mgr. art. Tomáš Polonský",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Mgr. art. Tomáš Polonský"
+   },
+   {
+    "mediaId": 2337,
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert (Autor Peter Bros)",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert (Autor Peter Bros)"
+   },
+   {
+    "mediaId": 2338,
+    "caption": "Zámčisko auf der 2. militärischen Landesaufnahme",
+    "alt": "Zámčisko auf der 2. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 2339,
+    "caption": "Auf dem Luftbild sind beide Wälle deutlich als dunkle Linien im Schnee zu sehen",
+    "alt": "Auf dem Luftbild sind beide Wälle deutlich als dunkle Linien im Schnee zu sehen"
+   },
+   {
+    "mediaId": 2340,
+    "caption": "Landwirtschaftliche Geräte aus der Zeit Großmährens, gefunden auf dem Zámčisko",
+    "alt": "Landwirtschaftliche Geräte aus der Zeit Großmährens, gefunden auf dem Zámčisko"
+   },
+   {
+    "mediaId": 2341,
+    "caption": "Grundriss des Zámčisko mit eingezeichneten Funden",
+    "alt": "Grundriss des Zámčisko mit eingezeichneten Funden"
+   },
+   {
+    "mediaId": 2342,
+    "caption": "Unsere Informationstafel, die wir im Jahr 2013 auf dem Burgwall aufgestellt haben",
+    "alt": "Unsere Informationstafel, die wir im Jahr 2013 auf dem Burgwall aufgestellt haben"
+   },
+   {
+    "mediaId": 2343,
+    "alt": "Zeichentafel der Funde: Messer, Spitzen, Beschläge und ein Armring mit Maßstab"
+   },
+   {
+    "mediaId": 2344,
+    "caption": "Bratspieß aus dem 13. Jahrhundert, über den in Modra inzwischen die Legende entstanden ist, Kyrill und Method hätten darauf Fleisch gebraten",
+    "alt": "Bratspieß aus dem 13. Jahrhundert, über den in Modra inzwischen die Legende entstanden ist, Kyrill und Method hätten darauf Fleisch gebraten"
+   },
+   {
+    "mediaId": 2345,
+    "caption": "Slawisches Eisenmesser vom Modraer Gräberfeld",
+    "alt": "Slawisches Eisenmesser vom Modraer Gräberfeld"
+   },
+   {
+    "mediaId": 2346,
+    "caption": "Slawisches Gefäß aus Modra",
+    "alt": "Slawisches Gefäß aus Modra"
+   },
+   {
+    "mediaId": 2347,
+    "alt": "Plan des Zámčisko nach Štefan Janšák mit charakteristischen Profilen"
+   },
+   {
+    "mediaId": 2348,
+    "alt": "Innerer Wall des Burgwalls mit Graben im Frühlingswald"
+   },
+   {
+    "mediaId": 2349,
+    "alt": "Äußerer Wall des Burgwalls im lichtdurchfluteten Frühlingswald"
+   },
+   {
+    "mediaId": 2350,
+    "alt": "Verschneiter Graben zwischen den Wällen im blattlosen Wald"
+   },
+   {
+    "mediaId": 2351,
+    "alt": "Wall des Burgwalls mit Schnee zwischen Buchen"
+   },
+   {
+    "mediaId": 2352,
+    "alt": "Pfad entlang des verschneiten Walls des Burgwalls"
+   },
+   {
+    "mediaId": 2353,
+    "alt": "Steiniger Rücken des Burgwalls, von Laub und Schnee bedeckt"
+   },
+   {
+    "mediaId": 2354,
+    "alt": "Aussicht vom Burgwall auf die verschneite Ebene"
+   },
+   {
+    "mediaId": 2355,
+    "alt": "Verschneiter Graben unter dem Wall des Burgwalls"
+   },
+   {
+    "mediaId": 2356,
+    "alt": "Wall des Burgwalls mit Schneeresten im blattlosen Wald"
+   },
+   {
+    "mediaId": 2357,
+    "alt": "Plateau des Burgwalls mit Schnee zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2358,
+    "alt": "Graben und Wall des Burgwalls im winterlichen Wald"
+   },
+   {
+    "mediaId": 2359,
+    "alt": "Steiler Hang des Walls mit Schneeresten"
+   },
+   {
+    "mediaId": 2360,
+    "alt": "Wallkörper im winterlichen Wald, von Laub bedeckt"
+   },
+   {
+    "mediaId": 2361,
+    "alt": "Aussicht vom Burgwall durch die Bäume in die Landschaft"
+   },
+   {
+    "mediaId": 2362,
+    "alt": "Zeichnung des Schnittprofils mit Legende der Schichten und Maßstab"
+   },
+   {
+    "mediaId": 2363,
+    "alt": "Schwarzweißfotografie einer Urne mit der Nummer 23"
+   },
+   {
+    "mediaId": 2364,
+    "alt": "Hölzerner Wegweiser „Slovanské hradisko Zámčisko“ an einem Stamm im Winter"
+   },
+   {
+    "mediaId": 2365,
+    "alt": "Verschneiter Buchenwald am Hang des Burgwalls"
+   },
+   {
+    "mediaId": 2366,
+    "alt": "Pfad entlang des Walls des Burgwalls im verschneiten Wald"
+   },
+   {
+    "mediaId": 2367,
+    "alt": "Verschneiter Graben des Burgwalls zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2368,
+    "alt": "Plateau des Burgwalls im frostigen Nebel zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2369,
+    "alt": "Von Laub bedeckter Wall des Burgwalls im nebligen Wald"
+   },
+   {
+    "mediaId": 2370,
+    "alt": "Graben zwischen den Wällen des Burgwalls im Reif"
+   },
+   {
+    "mediaId": 2371,
+    "alt": "Hölzernes Gestell mit Informationstafel, von Reif bedeckt"
+   },
+   {
+    "mediaId": 2372,
+    "alt": "Informationstafel mit Plan und Funden in einem Holzrahmen"
+   },
+   {
+    "mediaId": 2373,
+    "alt": "Aussichtspunkt mit Holzgeländer zwischen den Bäumen im Reif"
+   },
+   {
+    "mediaId": 2374,
+    "alt": "Von Reif bedeckter Buchenwald auf dem Burgwall"
+   },
+   {
+    "mediaId": 2375,
+    "alt": "Wall des Burgwalls mit Laub und Reif an den Zweigen"
+   },
+   {
+    "mediaId": 2376,
+    "alt": "Graben des Burgwalls im winterlichen Wald im Nebel"
+   },
+   {
+    "mediaId": 2377,
+    "alt": "Von Laub bedeckter Hang des Walls im frostigen Wald"
+   },
+   {
+    "mediaId": 2378,
+    "alt": "Von Reif bedeckte Zweige über dem Wall des Burgwalls"
+   },
+   {
+    "mediaId": 2379,
+    "alt": "Bemooster Wall des Burgwalls in der herbstlichen Sonne"
+   },
+   {
+    "mediaId": 1924,
+    "alt": "Kopfzeile der Website Slovanské hradiská mit Logo und der Adresse hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zámčisko – Modra"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage von Modra am südlichen Fuß der Kleinen Karpaten bestimmte ihre Entstehung, ihren Siedlungscharakter und auch die Art des Lebensunterhalts ihrer Bewohner. Die genaue Zeit der Entstehung von Modra kennen wir nicht. Die Anfänge einer möglichen Siedlungsvorgängerin von Modra fallen in das 9. Jahrhundert, in die Blütezeit des Großmährischen Reiches. Die damaligen slawischen Bewohner der Siedlung (bzw. der Siedlungen) im nordöstlichen äußeren Teil des heutigen Ľ.-Štúr-Platzes begruben ihre Toten auf einem Gräberfeld an der Fundstelle des sogenannten Sodoma-Weingartens.\n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Mgr. art. Tomáš Polonský",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls von Mgr. art. Tomáš Polonský",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Archäologie hat Modra jedoch bisher nicht jene Aufmerksamkeit gewidmet, die es verdient hätte, besonders da hier schon in der Vergangenheit zufällig Funde gemacht wurden, die der Beginn einer umfangreichen archäologischen Forschung hätten sein können. Im Jahr 1937 wurden im Weingarten des Herrn Sodoma zufällig Reste von Gräbern des 9. Jahrhunderts gefunden. Herr Sodoma fand auf seinem Grundstück in Modra mehrere zerstörte Gräber mit Skeletten und verschiedenen Gegenständen; die Gegenstände brachte er in das Slowakische Museum in Bratislava (Pressburg). Den Fund beschrieb die Fachmitarbeiterin des Museums Dr. Ľudmila Kraskovská drei Jahre später kurz im Sammelband der Slowakischen Musealgesellschaft: „Im Jahr 1937 erhielt das Slowakische Museum zwei Töpfe und ein Messer von einem burgwallzeitlichen Gräberfeld, das man im Weingarten des Herrn Sodoma in Modra entdeckt hat.“ In den weiteren Zeilen beschreibt sie dort das gefundene Eisenmesser und zwei Tongefäße des 9. Jahrhunderts, die mit mehrfachen Wellenbändern verziert sind. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Weingarten des Herrn Sodoma hatte man bis zum Jahr 2001 vergessen, als das Grundstück mit großen Schwierigkeiten wieder lokalisiert wurde, und vielleicht werden noch viele weitere Jahre vergehen, bis hier eine Ausgrabung stattfindet. Aus dem Fund des Herrn Sodoma von 1937 ist jedoch klar, dass Modra hier mindestens schon im 9. Jahrhundert bestand; bis heute wissen wir allerdings nicht, wie groß die Besiedlung hier war und in welchem Verhältnis diese Besiedlung zum nahen altslawischen Burgwall auf dem Zámčisko stand. \n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "MxlHe1UdV1g",
+    "url": "https://www.youtube.com/embed/MxlHe1UdV1g",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bereich des Burgwalls wurde bereits um das Jahr 700 v. Chr. (das heißt zur Zeit der größten Blüte der befestigten Höhensiedlung Molpír bei Smolenice) von den Trägern der Kalenderberg-Kultur genutzt. Zu seinem Ausbau in jene Gestalt, deren Reste man noch heute sehen kann (vor allem die gut sichtbaren Wehrwälle), kam es jedoch erst in der Zeit Großmährens, als der Burgwall mit größter Wahrscheinlichkeit als Fliehburg für die Bewohner des Gebietes des heutigen Modra und der Umgebung diente. Der Burgwall wurde also von den ursprünglichen „Modraern“ als Zufluchtsort vor dem Feind in unruhigen Zeiten genutzt. Immer wenn die Gefahr drohte, dass ein Feind in das Gebiet ihrer Siedlungen einfiel, zogen sich die Bewohner auf das befestigte Zámčisko zurück, wo sie eine viel größere Chance zur Verteidigung hatten als in der unbefestigten Siedlung auf dem Gebiet von Modra. Nach dem Abzug des Feindes kehrten sie wieder in ihre Häuser zurück. Der Burgwall wurde auch nach der Entstehung des ungarischen Staates genutzt. So bot etwa das 13. Jahrhundert eine Fülle historischer Ereignisse, bei denen das Modraer Zámčisko seine Verwendung finden konnte. Sei es der Tatareneinfall, seien es die Kämpfe, die sich nach dem Tatareneinfall zwischen dem damaligen Ungarn und den letzten Babenbergern abspielten, die Zeit der Kämpfe zwischen Ungarn und dem Königreich Böhmen oder die Zeit am Ende des 13. Jahrhunderts, als das Gebiet der Kleinkarpatenregion vom Aufstand des Woiwoden Opur gegen die Zentralgewalt erfasst war. In diesen Zeitabschnitten wurde der Burgwall genutzt, wovon auch verschiedene archäologische Funde militärischer Art zeugen, etwa Sporen, Reste von Waffen, Hufeisen, Hufnägel oder drei Pfeilspitzen. Der Burgwall ging durch einen Brand unter. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert (Autor Peter Bros)",
+    "alt": "Künstlerische Vorstellung vom Aussehen des Burgwalls im 9. Jahrhundert (Autor Peter Bros)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage und die Oberfläche des Burgwalls Zámčisko hat Š. Janšák untersucht, kartiert, beschrieben und bewertet. Seine Lage gibt er mit den Werten 34° 57 1/2' östlicher Länge und 48° 21 3/4' nördlicher Breite an, 2 km Luftlinie nordöstlich der Gemeinde Kráľová. Er liegt auf einem Bergsporn. Von seiner günstigen strategischen Lage zeugt der Umstand, dass die Aussicht von ihm die Kontrolle der Verkehrswege im Abschnitt Pezinok (Bösing) – Častá auf eine Entfernung von 15–20 km ermöglichte.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die natürlichen Gegebenheiten und die Befestigung des Burgwalls beschreibt Janšák so:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Er liegt auf einem flachen, an diesen Stellen verbreiterten Rücken eines Ausläufers der Kleinen Karpaten, der im Westen und im Osten von Gebirgsbächlein umflossen wird, die sich gerade in Harmónia zu einem vereinigen… Die natürliche Sicherheit des Burgwalls ist dadurch gegeben, dass nur von der Nordseite ein leichter Zugang über den Rücken besteht. Auf der West- und der Ostseite sind steile Hänge, und auf der Südseite tritt ein senkrechter Felsen von 10–15 m Höhe auf, weiter unten wieder steil abgestuft. Dieser natürlichen Konfiguration passten sich die künstlichen Befestigungen an: Am stärksten sind sie dort, wo der Zugang bequemer ist, sie fehlen völlig dort, wo der scharfe Felshang allein zum Schutz genügt.\n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zámčisko auf der 2. militärischen Landesaufnahme",
+    "alt": "Zámčisko auf der 2. militärischen Landesaufnahme",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hat die Form eines völlig regelmäßigen Hufeisens von 115 m Länge und 105 m Breite, dessen Fläche durch den Wall a b c d e und den Felsen a e abgeschlossen ist und dessen Oberfläche durch den Wall ľ b in zwei Teile geteilt wird. Die Wälle sind auf ihrer ganzen Länge und in allen Teilen mit einem Graben kombiniert, der an der Außenseite anliegt, was die Qualität der Befestigung erheblich erhöht und zugleich eine gewisse Verwandtschaft der Grundzüge mit dem Burgwall bei Svätý Jur (Sankt Georgen) ausmacht. Der Wall a b c d e, insgesamt 280 m lang, setzt im Punkt a auf der Kote 464 am steilen Hang an, von dort zieht er in nördlicher Richtung, biegt in einem großen Bogen in die östliche Richtung bis zum Punkt c, wo er gleichzeitig den höchsten Punkt im Gelände erreicht, d. h. die Kote 499. Dort wendet er sich nach Südosten, später nach Süden, sinkt auf die Kote 484 ab und endet im Punkt e.\n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wall a b ist recht flach, auf der Außenseite erhebt er sich 2–3 m über die Sohle des anliegenden Grabens, und in Richtung des Burgwallinneren tritt er kaum 30–40 cm über die Oberfläche hervor. Im Punkt c erreicht er eine Höhe von 7 m über der Grabensohle, und von dort sinkt seine Höhe allmählich auf 5 und 4 m, wobei im Punkt d der Graben in den Felsen gehauen ist und aus dem gewonnenen Material die Aufschüttung hergestellt wurde. Der Wall f b, 110 m lang, ist viel mächtiger. Der Höhenunterschied zwischen seinem Kamm und der Sohle des anliegenden Grabens beträgt nahezu auf der ganzen Länge 5–6 m. In einer Entfernung von etwa 40 m in nördlicher Richtung vom Wall b c tritt ein quer verlaufendes Rückenlein i j auf (auf natürlichem Weg durch die Anhäufung von Felsblöcken und Holz entstanden), das die Bewohner des Burgwalls mit Vorteil als erste Befestigung gegen den Zugang von Norden nutzen konnten. Der Umfassungswall a b c d e ist an drei Stellen durchbrochen: in den Punkten h, b, c. Der Zugang b scheint der ursprüngliche zu sein, der dem Eintritt in den Burgwall diente; die Lage des Walls b), c) ermöglicht seine Blockade. Die Zugänge ch g wurden später angelegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf dem Luftbild sind beide Wälle deutlich als dunkle Linien im Schnee zu sehen",
+    "alt": "Auf dem Luftbild sind beide Wälle deutlich als dunkle Linien im Schnee zu sehen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zámčisko besteht aus zwei Höfen: a b ľ a (T) mit einer Fläche von 3, 9 a, f b c d e f (II) mit einer Fläche von (), I a. Der Hof I. nimmt einen verhältnismäßig sehr steilen Hang von 45 % ein, der zum Wohnen weniger geeignet ist und die Funktion einer Vorburg vertritt. Der Hof II. erstreckt sich auf einem flachen Rücken, der sich sowohl in der Länge als auch in der Quere leicht nach allen vier Himmelsrichtungen neigt und der die Möglichkeit für einen längeren und dauerhafteren Aufenthalt bietet. Der Hof I. ist vollständig und der Hof II. zum überwiegenden Teil nach Süden gewandt, was für die Wohnverhältnisse ebenfalls ein sehr günstiger Umstand ist.Die Quelle P am östlichen Ende des Walls i j liefert Wasser während des größeren Teils des Jahres, ja selbst in einem feuchten Sommer."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Landwirtschaftliche Geräte aus der Zeit Großmährens, gefunden auf dem Zámčisko",
+    "alt": "Landwirtschaftliche Geräte aus der Zeit Großmährens, gefunden auf dem Zámčisko",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An die Arbeit von S. Janšák knüpfte eine Sondagegrabung des Jahres 1999 an, die das Archäologische Museum des Slowakischen Nationalmuseums (SNM) in Bratislava auf Initiative des Stadtamtes und der staatlichen Verwaltung in Modra durchführte. Die Arbeiten richteten sich unter der Leitung von Z. Farkaš auf die Untersuchung der oberen Befestigung des Burgwalls, wobei zwei Schnitte angelegt wurden. Der erste durchschnitt den Nordwall der oberen Burg, der zweite durchtrennte den Nordflügel des Westtores der inneren Befestigung. Wie Z. Farkaš in seiner Studie über die Sondagegrabung an der Fundstelle Zámčisko feststellt, „belegten die Schnitte durch die Wälle der ‚Hauptburg‘ des Zámčisko einen mehrphasigen Aufbau, erlaubten es jedoch nicht, ihr Verhältnis zur Vorburg zu klären.“ Das verhältnismäßig bescheidene Begleitmaterial sowie die von „Goldgräbern“ mit Hilfe von Metalldetektoren geborgenen Gegenstände erlauben es, vor allem die jüngste Phase der Befestigung in das 10. und den Beginn des 11. Jahrhunderts zu datieren; in dieser Befestigung war „mindestens gelegentlich“ eine militärische Besatzung untergebracht, die wohl in leichten wie auch dauerhafteren ebenerdigen Bauten aus Holz wohnte…“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die neuesten Ergebnisse der archäologischen Ausgrabungen hat Zdenek Farkaš im Sammelband Modra v premenách stáročí folgendermaßen zusammengefasst:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wallbefestigung bestand aus zwei bis drei eigenständigen Bauphasen. Im nördlichen Teil, an der Stelle des leichtesten Zugangs, bestand die älteste Befestigung wahrscheinlich aus zwei Wällen, am ehesten in Holz-Erde-Konstruktion, zwischen denen man in der dritten Bauphase den bis heute erhaltenen tiefen Graben aushob. Die Befestigung selbst legte man auf dem ursprünglichen tonig-sandigen Untergrund an, wobei das vorhandene Gelände so genutzt wurde, dass sich die äußere Aufschüttung mit der Rückseite an eine natürliche Felsklippe stützte. Der älteste Wall besteht aus deutlich aschiger Erde, die mit Buchenholzkohle vermischt ist. Es lässt sich nicht ausschließen, dass die deutliche Aschelage nicht beim Brand des Burgwalls entstand, sondern beim Abbrennen des Bestandes auf dem künftigen Bauplatz und beim anschließenden Aufschütten eines Gemisches aus Lehm und Asche in den Körper der Befestigung. Die Breite der Destruktion des vorderen, ursprünglich offenbar auch niedrigeren Walls erreichte 1,9 m und die des inneren 5,6 m.\n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grundriss des Zámčisko mit eingezeichneten Funden",
+    "alt": "Grundriss des Zámčisko mit eingezeichneten Funden",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zeitlich am schwersten einzuordnen ist bislang die "
+       },
+       {
+        "type": "text",
+        "text": "älteste Bauphase",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Von einem Laien wurde ein größeres Gefäßfragment aus der jüngeren Bronzezeit gefunden. Trotz der Behauptung des Spenders gelang es bisher jedoch nicht, einen eindeutigen Zusammenhang der Scherbe mit dem Zámčisko nachzuweisen. Von den bei der Metalldetektor-Prospektion geborgenen Funden gehört ein sichelförmiges Eisenmesserchen "
+       },
+       {
+        "type": "text",
+        "text": "wohl aus der Hallstattzeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu den altertümlichen Typen. Nach unbestätigten Informationen gehörten gerade bronzene Gegenstände der jüngeren Bronzezeit und der Hallstattzeit zu den Hauptinteressen der Sondengänger. Einige von ihnen landeten angeblich auch in privaten Sammlungen einiger Modraer. Gerade ihre Zugänglichmachung könnte die Kenntnis der ältesten Geschichte der Stadt einen deutlichen Schritt voranbringen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere Informationstafel, die wir im Jahr 2013 auf dem Burgwall aufgestellt haben",
+    "alt": "Unsere Informationstafel, die wir im Jahr 2013 auf dem Burgwall aufgestellt haben",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der folgenden (mittleren) Phase",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " wurden die schon destruierten Reste des ursprünglichen inneren Walls eingeebnet und von einem Wandgräbchen durchschnitten, das parallel zur Richtung der Befestigung verlief und dessen Sohle bis auf den felsigen Untergrund reichte. Nach der durchgehenden Schicht aus verbranntem Buchenholz, die die ältere Befestigung vor dem Gräbchen überdeckte, errichtete man die neue Mauer, die sich mit der Rückseite an eine im Gräbchen verankerte Wand stützte, wohl aus statischen Gründen auf einer kleinen hölzernen Plattform. Ihr vorderer Teil hat sich jedoch bis heute nicht erhalten.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "whrGUk83pJ4",
+    "url": "https://www.youtube.com/embed/whrGUk83pJ4",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die mittlere Phase des Befestigungsbaus datieren vor allem 2 eiserne Pflugschare, das Sech eines Pfluges, eine Speerspitze, ein großes Messer, das jenem ähnlich ist, das man in einem der Gräber im Weingarten des Herrn Sodoma fand, und vielleicht auch einige andere Gegenstände des 9. bis beginnenden 10. Jahrhunderts, also jenes Zeitabschnitts, der dem Aufstieg und dem Untergang des "
+       },
+       {
+        "type": "text",
+        "text": "Großmährischen Reiches",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " entspricht. Leider fehlen bisher Keramikfragmente aus dieser Zeit völlig, die sonst zu den häufigsten archäologischen Funden auf befestigten, aber auch auf unbefestigten Siedlungen gehören. Ob das mit dem Stand der Forschung, mit der relativ kleinen freigelegten Fläche oder nur mit der Bedeutung des Zámčisko als Fliehburg (Zufluchtsort) in großmährischer Zeit zusammenhängt, wird wohl erst eine neue, großzügigere Freilegung im Gelände erkennen lassen. In jedem Fall belegt die Existenz des Burgwalls die Bedeutung und die Dichte der Besiedlung des Modraer Gebietes während Großmährens mit einem eigenen befestigten Verwaltungszentrum oder wenigstens einem Zufluchtsort und Stützpunkt für die Bewohner mehrerer kleinerer Siedlungen in der Umgebung.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Funde vom Zámčisko",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die jüngste",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", bereits dritte Befestigung im nördlichen Teil des Burgwalls bestand aus einer Rostkonstruktion aus Eichenholz, die auch das ältere Gräbchen überdeckte. Zu ihr gehörte eine überwiegend steinige Aufschüttung, die bis an die heutige Oberfläche reicht. In der letzten Phase des Befestigungsbaus hob man den älteren (?) Graben zwischen den beiden ursprünglichen Wällen aus oder vertiefte ihn mindestens deutlich. Man schlug ihn in den gewachsenen felsigen Quarzituntergrund ein und schüttete das Material aus ihm sowohl in den Haupt- als auch in den Außenwall. Von der hölzernen Konstruktion der Mauer haben sich bis heute dünne Schichtchen verkohlten Holzes und wohl auch teilweise farblich abweichende Aufschüttungsschichten erhalten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den größten Teil der Eisenfunde, die im Gesamtplan des Burgwalls erfasst sind, bildeten Nägel unterschiedlicher Form und Funktion. Die Anwesenheit von Pferden auf dem Zámčisko belegen außer zahlreichen „Hufnägeln“ auch 14 Hufeisen oder deren Fragmente. In zwei Fällen konnten die Hufeisen jedoch Bestandteil schweren beschlagenen Schuhwerks sein. Nicht alle Hufeisen müssen mit der Bestandszeit der Befestigung verbunden werden. Das Zámčisko verwandelte sich nämlich nach dem Verlust seiner militärischen Funktion allmählich in den heutigen Wald und wurde auch so genutzt, einschließlich des Holzeinschlags und seines Abtransports mit Pferdegespann. Bestandteil der Ausrüstung des Reiters, und zwar ein chronologisch verhältnismäßig empfindlicher, waren die Sporen. Zwei von ihnen gehörten zu den Typen mit Stachel, und zwei waren schon mit einem beweglichen Zahnrädchen ausgestattet. Zu den interessanten Funden gehörten ein eiserner Bratspieß, der unmittelbar auf einer Feuerstelle beim Westtor lag, und drei Schlüssel, davon zwei sogenannte gotische Drehschlüssel mit flachem Bart und ein Steckschlüssel von einem Hängeschloss. Eine eigene Kategorie bilden die Militaria, davon drei Pfeilspitzen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bratspieß aus dem 13. Jahrhundert, über den in Modra inzwischen die Legende entstanden ist, Kyrill und Method hätten darauf Fleisch gebraten",
+    "alt": "Bratspieß aus dem 13. Jahrhundert, über den in Modra inzwischen die Legende entstanden ist, Kyrill und Method hätten darauf Fleisch gebraten",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Keramikfragmente und die überwiegende Mehrheit der Eisengegenstände erlauben es offenbar, die letzte Bauphase des Zámčisko verhältnismäßig gut in die zweite "
+       },
+       {
+        "type": "text",
+        "text": "Hälfte des 13. Jahrhunderts",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " einzuordnen, als der befestigte Raum als Lagerplatz und gleichzeitig als Stützpunkt einer militärischen Besatzung diente. Leider erlaubt das archäologische Material, das derzeit zur Verfügung steht, es nicht, ihn eindeutig mit einem der militärischen und politischen Ereignisse zu verbinden, die sich in diesem Gebiet in der zweiten Hälfte des 13. und am Beginn des 14. Jahrhunderts abspielten. Neuerdings schließt J. Žudel nicht aus, dass die alte Befestigung über Modra in der Zeit der Kämpfe des Königreichs Ungarn mit Přemysl Ottokar II. genutzt wurde und dass gerade die böhmischen Truppen eine Zeit lang das angrenzende Gebiet von der günstigen Lage des Zámčisko aus kontrollieren konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In keiner der drei Bauphasen verstärkte man die Front oder den rückwärtigen Teil der Mauer mit einem steinernen Mäuerchen. Der Außenwall hatte in der letzten Phase offenbar keine innere Holzkonstruktion und bestand nur aus einer einfachen Aufschüttung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawisches Eisenmesser vom Modraer Gräberfeld",
+    "alt": "Slawisches Eisenmesser vom Modraer Gräberfeld",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Erkenntnisse über die Entwicklung der Befestigung beim sogenannten Westtor der Hauptburg hat die Erosion deutlich beeinflusst. Dennoch gelang es festzustellen, dass auch hier der älteste Wall auf dem eingeebneten ursprünglichen Gelände errichtet wurde und ähnlich wie im nördlichen Teil der Befestigung wiederum aus aschigem bräunlichem Lehm mit Resten verkohlten Holzes bestand, diesmal jedoch mit Spuren einer ursprünglichen inneren Konstruktion, am ehesten vom Rosttyp. Von der ersten Aufschüttung hat sich jedoch bis heute nur eine 15 bis 35 cm dicke Schicht erhalten. In dem darauf aufsitzenden jüngeren Wall blieben nur geringe Spuren einer nicht näher bestimmbaren inneren Holzkonstruktion. Ähnlich wie im Norden fanden sich auch hier keine Spuren eines etwaigen vorderen steinernen Stützmäuerchens. Bestandteil der Frontwand konnten jedoch die undeutlichen dunklen Flecken über der inneren Grabenkante sein, vielleicht Gruben, die ursprünglich senkrechte Stützpfosten trugen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawisches Gefäß aus Modra",
+    "alt": "Slawisches Gefäß aus Modra",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Fehlen jeglicher Konstruktion und der unversehrte Aufschüttungskörper des älteren Walls im Tor schließen nicht aus, dass es jünger als die Wälle ist und somit nicht mit der ursprünglichen Befestigung zusammenhängt. Für jünger als die Linie der Mauer hielt alle heutigen Zugänge in die Befestigung bereits S. Janšák, mit Ausnahme des Durchgangs zwischen der Vorburg und dem Hauptwall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weder in der Wallaufschüttung noch in der Verfüllung des Grabens fand sich archäologisches Material, das die Datierung der einzelnen Bauphasen erlaubt hätte. Der Umfang der Ausgrabung und ihre Ausrichtung erlaubten es wiederum nicht, innerhalb der umwehrten Fläche einen größeren Raum freizulegen, an dem sich eine etwaige innere Bebauung verfolgen ließe und der auch eine größere Menge gut datierbaren Materials geliefert hätte. Aus den archäologischen Schnitten stammen nur 61 Fragmente von Tongefäßen. Der unvollkommene Brand der Keramik weist wahrscheinlich auf die Produktion dörflicher Töpfer hin. Diese Keramik datieren wir in die Mitte des 13. Jahrhunderts. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Profil durch das Zámčisko",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei beiden archäologischen Ausgrabungen wurde festgestellt, dass das Zámčisko mehr oder weniger regelmäßig von verschiedenen Schatzsuchern mit Metalldetektoren besucht wurde, nach denen im Gelände zahlreiche „Sucherlöcher“ zurückblieben sowie die aus ihrer Sicht uninteressanten Metallgegenstände, die an die Bäume gehängt oder in deren Umgebung abgelegt wurden. Darüber hinaus wurden aber auch Versuche größerer unfachmännischer Ausgrabungen verzeichnet, etwa an der Stelle des höchsten Punktes der Befestigung. Deshalb schritten die Archäologen des SNM – Archäologisches Museum in Bratislava zu einer umfassenden Prospektion der befestigten Fläche mit Hilfe von Metalldetektoren. Bis zum Ende des Jahres 2007 gelang es so, eine Kollektion von 196 metallenen, nahezu ausschließlich eisernen Gegenständen zusammenzustellen, die größtenteils aus der Ausgrabung des Jahres 1999 stammen. Einige Stücke kamen auch als Geschenk eines ortsansässigen Sammlers in die Sammlungen des SNM. Im Jahr 2006 ergänzte die ursprüngliche Kollektion ein bislang einzelner späterer Fund eines gotischen Schlüssels von einem anderen Sammler, an dem angeblich eine kleine Silbermünze ankorrodiert war – die erste von dieser Fundstelle bekannte –, die nach der Entnahme aus dem Boden jedoch der Korrosion vollständig zum Opfer fiel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Innerer Wall des Zámčisko",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss füge ich eine interessante "
+       },
+       {
+        "type": "text",
+        "text": "Sage hinzu, die sich an das Modraer Zámčisko knüpft:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Burg Červený Kameň (bei Častá/Píla) sollte eigentlich auf dem Zámčisko errichtet werden. Man begann auch mit dem Bau, aber was man am Tag aufbaute, das trug eine unbekannte Kraft in der Nacht an jene Stelle, wo heute Červený Kameň steht. Das sollte wohl ein Hinweis sein, die Burg an einem anderen Ort zu errichten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

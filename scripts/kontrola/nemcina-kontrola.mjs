@@ -95,6 +95,10 @@ const CISLA = [
 const VYNIMKY = {
   'mosaburg-pribinas-sitz-in-pannonien': ['slowakisch… pri dobových ľuďoch'],
   'hradiste-bei-partizanske-hoehensiedlung-nitrica': ['Akropolis →'],
+  /* Anglický názov citovanej knihy (Zimonyi: Muslim Sources on the Magyars…)
+     sa podľa §1 neprekladá; nemčina k nemu dáva zátvorkovú glosu. Osem
+     „anglicizmov" v tom článku je práve z tohto názvu. */
+  'muslimische-quellen-altungarn-vor-der-landnahme': ['angličtina'],
   /* „u Slovincov božič" — článok tu hovorí o Slovincoch, nie o Slovanoch. */
   'maros-demko-das-kiewer-pantheon-der-slawischen-goetter': ['Slowenen →'],
 };

@@ -1,0 +1,240 @@
+{
+ "slug": "stupne-zeravica",
+ "data": {
+  "title": "Stupné – Žeravica, eine Höhensiedlung und ein Kultplatz in den Javorníky",
+  "slug": "stupne-zeravica-hoehensiedlung-kultplatz",
+  "excerpt": "Über dem Dorf Stupné im Tal der Papradňanka erhebt sich der felsige Berg Žeravica in den Javorníky. Eine alte Sage erzählt von einer Burg des Geschlechts der Krajčovci, die hier versunken sein soll – Sondierungen und Oberflächenaufsammlungen belegten dagegen eine befestigte Höhensiedlung der Púchov-Kultur. Ein Hortfund von zwei Ringschmuckstücken und vier keltischen Münzen zeigt, dass der Gipfel über mindestens 25 Jahrhunderte ein Opferplatz blieb – bis zum heutigen christlichen Kreuz.",
+  "metaTitle": "Stupné – Žeravica, Höhensiedlung in den Javorníky",
+  "metaDescription": "Der felsige Berg Žeravica über Stupné in den Javorníky: eine Sage von der versunkenen Burg, eine Höhensiedlung der Púchov-Kultur und ein keltischer Hortfund.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "felsiger Berg Žeravica über dem Dorf Stupné, Tal der Papradňanka",
+    "icon": "mountain"
+   },
+   {
+    "label": "Ausmaße der Hauptburg",
+    "value": "terrassenartig angelegte Grundflächen in einer Länge von etwa 140 m, Breite 5–10 m",
+    "icon": "map"
+   },
+   {
+    "label": "Außergewöhnlicher Fund",
+    "value": "Hortfund keltischen Schmucks und keltischer Münzen (2 Ringschmuckstücke, 4 Münzen), publiziert von J. Frohlich (2016)",
+    "icon": "star"
+   },
+   {
+    "label": "Kontinuität des Kultplatzes",
+    "value": "mindestens 25 Jahrhunderte, von den Lausitzer Urnenfeldern bis zum heutigen christlichen Kreuz auf dem Gipfel",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ab dem 5. Jahrhundert v. Chr.",
+    "type": "founding",
+    "title": "Beginn der kultischen Nutzung der Žeravica",
+    "description": "Der Beginn der Nutzung des Ortes zur Niederlegung von Opfergaben lässt sich bereits mindestens ab dem 5. Jahrhundert v. Chr. vermuten; der kultische Charakter blieb bis heute erhalten."
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "type": "discovery",
+    "title": "Graphittonscherben der Latènezeit",
+    "description": "Zu den auf der Žeravica gewonnenen Scherben gehören Graphittonscherben der Latènezeit aus dem 1. Jahrhundert v. Chr."
+   },
+   {
+    "year": "2.–3. Viertel des 1. Jahrhunderts v. Chr.",
+    "type": "event",
+    "title": "Votivgabe aus keltischen Münzen und Schmuck",
+    "description": "Der Hortfund von zwei Ringschmuckstücken und vier Münzen der jüngeren Latènezeit ist eine außergewöhnliche Votivgabe, die mit höchster Wahrscheinlichkeit in dieser Zeit geopfert wurde."
+   },
+   {
+    "year": "0–400 n. Chr.",
+    "type": "era",
+    "title": "Besiedlung durch das Volk der Púchov-Kultur",
+    "description": "Scherben der Púchov-Kultur aus dieser Zeit belegten, dass auf der Žeravica eine befestigte Höhensiedlung bestand."
+   },
+   {
+    "year": "8.–9. Jahrhundert (?)",
+    "type": "discovery",
+    "title": "Mögliche slawische Besiedlung",
+    "description": "Es fanden sich auch zwei Scherben mit Wellenbandverzierung, wahrscheinlich slawisch."
+   },
+   {
+    "year": "1416",
+    "type": "event",
+    "title": "Erste schriftliche Erwähnung des Dorfes",
+    "description": "Die erste historische Angabe über das Dorf stammt aus dem Jahr 1416, es wird als Stupničná erwähnt."
+   },
+   {
+    "year": "1991",
+    "type": "discovery",
+    "title": "Entdeckung kaiserzeitlicher und Púchov-Scherben",
+    "description": "Š. Meliš und F. Jandušík gewannen bei einer kleinen Sondierung auf der Kuppe der Žeravica einige kleine Scherben aus der römischen Kaiserzeit, die der Archäologe J. Moravčík als der Púchov-Kultur zugehörig bestätigte."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3672,
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich"
+   },
+   {
+    "mediaId": 3673,
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich"
+   },
+   {
+    "mediaId": 3674,
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich"
+   },
+   {
+    "mediaId": 3675,
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich"
+   },
+   {
+    "mediaId": 3680,
+    "caption": "Blick auf die kleine Höhenburg",
+    "alt": "Blick auf die kleine Höhenburg"
+   },
+   {
+    "mediaId": 3681,
+    "caption": "Terrasse",
+    "alt": "Terrasse"
+   },
+   {
+    "mediaId": 3682,
+    "caption": "Grat auf dem Gipfel",
+    "alt": "Grat auf dem Gipfel"
+   },
+   {
+    "mediaId": 3683,
+    "caption": "Terrasse",
+    "alt": "Terrasse"
+   },
+   {
+    "mediaId": 3685,
+    "caption": "Blick von der Žeravica auf Malý und Veľký Manín",
+    "alt": "Blick von der Žeravica auf Malý und Veľký Manín"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Dorf Stupné mit dem felsigen Berg Žeravica liegt im Tal des Baches Papradňanka, der einen Teil jener Gebiete entwässert, die zum Gebirge der Javorníky gehören. Über die vorgeschichtliche Besiedlung des Dorfes Stupné wussten wir bisher nicht viel. Nach Štefan Meliš erzählt eine alte Sage, dass auf der Žeravica einst eine Burg stand, die dem Geschlecht der Krajčovci gehörte. Später sei die Burg versunken. Eine Eintragung in der Gemeindechronik von Stupné berichtet, dass auf der Kuppe der Žeravica, wo die Burg stand, Metallgegenstände (wohl bronzene und eiserne) gefunden wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Chronist der Gemeinde – ein Lehrer, der die Chronik im Jahr 1932 zu schreiben begann – trug darin ein, dass das alte Stupné ursprünglich in der Lage Spád am südöstlichen Fuß der Žeravica lag. So berichtet es die uralte Volkssage. Weil das Dorf von der Lage Spád hinab zum Flüsschen Papradňanka an jene Stelle stieg, wo es sich heute befindet, gab man ihm den Namen Stupné (zu slowakisch stúpať – schreiten, steigen). Auch der Name der Gemeinde ging seine Entwicklung durch. Die erste historische Angabe über das Dorf stammt aus dem Jahr 1416, es wird als Stupničná erwähnt. Im Jahr 1467 als Stupná und ab dem Jahr 1525 bis heute lautet der Name der Gemeinde Stupné. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1991 gewannen Š. Meliš und F. Jandušík bei einer kleinen Sondierung auf der Kuppe der Žeravica einige kleine Scherben aus der römischen Kaiserzeit. Sie schickten sie dem Fachmann des Považské-Museums in Žilina (Sillein), dem Archäologen J. Moravčík. Dieser bestätigte, dass die Scherben dem Volk der Púchov-Kultur gehören. Anschließend führten die Mitglieder des archäologischen Zirkels in Považská Bystrica gemeinsam mit dem Archäologen J. Moravčík auf der Žeravica Sondierungen durch, bei denen eine Behausung mit einem mit Steinen gepflasterten Boden festgestellt wurde; es fanden sich auch viele Scherben zerbrochener Gefäße. Weitere Scherben gewannen sie durch Oberflächenaufsammlung am Nordhang des Berges knapp unter dem Gipfel. Damit wiesen sie nach, dass auf der Žeravica eine befestigte Höhensiedlung bestand. Die Hauptburg der Anlage (die am höchsten gelegene Fläche) hat terrassenartig angelegte Grundflächen in einer Länge von etwa 140 m, die Breite beträgt 5–10 m. Ein weiterer, durch einen kleinen Sattel abgetrennter Teil der Anlage liegt im Wald in nordöstlicher Richtung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die auf der Žeravica gewonnenen Scherben stammen aus drei Perioden. Die Graphittonscherben der Latènezeit gehören in das 1. Jahrhundert v. Chr., die Scherben der Púchov-Kultur in die Zeit von 0 bis 400 n. Chr.; gefunden wurden auch zwei Scherben mit Wellenbandverzierung, wahrscheinlich slawisch (8.–9. Jahrhundert?). Am Fuß der Felsen in der Lage Spád entdeckten sie auch ein Suburbium. Eine große Menge Lehmbewurf auf den Ackerflächen zeugt von errichteten Behausungen. Die einstigen Bewohner erkannten die strategische Lage der Žeravica und errichteten hier eine befestigte Höhensiedlung. Dieser befestigte Ort war wahrscheinlich das Zentrum des ganzen Tals. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Irgendwann vor dem Jahr 2009 wurde auf der Žeravica, wahrscheinlich bei Geländearbeiten im Zusammenhang mit der Anlage eines Kreuzwegs, ein Hortfund entdeckt, der aus zwei Ringschmuckstücken und vier Münzen der jüngeren Latènezeit bestand. Diesen Fund bearbeitete Július Frohlich in einem Artikel, in dessen Schluss er anführt, dass „sich auf der Grundlage ihrer Auswertung vermuten lässt, dass der Hortfund keltischer Münzen und Púchov-zeitlichen Schmucks eine außergewöhnliche Votivgabe darstellt, die mit höchster Wahrscheinlichkeit irgendwann im zweiten bis dritten Viertel des 1. Jahrhunderts v. Chr. geopfert wurde. Ähnliche rituelle Opfergaben keltischer Münzen und von Schmuck aus Edelmetallen sind aus mehreren Regionen bekannt, die in der Latènezeit von keltischen Stämmen bewohnt waren. Weitere, einzeln gefundene Gegenstände von näher unbekannten Stellen dieses Berges – ein Fragment des Endstücks eines latènezeitlichen Halsrings mit der Darstellung eines menschlichen Gesichts mit einem dritten ‚Auge‘ auf der Stirn, eine eiserne Ritualaxt, eine Kahnfibel und Silbermünzen unbekannten Typs – deuten auf eine langfristig andauernde Opferfunktion des Berges Žeravica hin. Die Anfänge der Nutzung dieses Ortes zur Niederlegung von Opfergaben können wir bereits mindestens ab dem 5. Jahrhundert v. Chr. vermuten, wobei sich sein kultischer Charakter in veränderter Form bis in die heutigen Tage erhalten hat. Dies belegt das christliche Kreuz, das gegenwärtig auf diesem historisch interessanten Berg steht. Die archäologischen Artefakte aus der genannten Fundstelle sind damit ein außerordentliches Zeugnis für die Kontinuität der mindestens fünfundzwanzig Jahrhunderte dauernden geistigen Dimension dieses Kultplatzes, den das Volk der Lausitzer Urnenfelder von der Wende der späthallstattzeitlichen Stufe HD zur frühlatènezeitlichen Stufe LTA, d. h. ab dem 5. Jahrhundert v. Chr., zu verehren begann. Die einzelnen Funde sind gleichzeitig ein Zeugnis für die Kontakte, die die Bewohner der Nordwestslowakei in jener Zeit mit den südlichen, klassischen Gebieten des zeitgleichen Europa pflegten.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "caption": "Abbildung aus dem zitierten Artikel von J. Frohlich",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "slug": "zilina-zastranie-stranik",
+ "data": {
+  "title": "Žilina-Zástranie, Straník – eine befestigte Höhensiedlung über dem Becken von Žilina",
+  "slug": "stranik-hoehensiedlung-ueber-zilina",
+  "excerpt": "Die befestigte Höhensiedlung Straník liegt südöstlich von Žilina-Zástranie auf der Kote 769 m ü. M. Auf rund 6,7 ha beherrschte sie den östlichen Teil des Beckens von Žilina: in der jüngeren bis späten Bronzezeit als Anlage der Lausitzer Kultur, in der Spätlatènezeit als Zentralfestung der Púchov-Kultur. Ausgegraben wurde hier nie – dafür war die Fundstelle lange ein Ziel von Schatzsuchern, und viele Funde sind in privaten Sammlungen verschwunden.",
+  "metaTitle": "Straník – befestigte Höhensiedlung über Žilina-Zástranie",
+  "metaDescription": "Die Höhensiedlung Straník über Žilina-Zástranie liegt auf 769 m ü. M. Seit 1947 erforscht von A. Petrovský-Šichman, lange ein Ziel von Schatzsuchern.",
+  "keyFacts": [
+   {
+    "label": "Höhenlage",
+    "value": "769 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Höhensiedlung",
+    "value": "etwa 450 x 150 m, rund 6,7 ha",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "an der Nord- und Westseite von 3–4 Toren unterbrochen",
+    "icon": "shield"
+   },
+   {
+    "label": "Besiedlungszeit",
+    "value": "Jüngere bis späte Bronzezeit und Spätlatènezeit, mit möglichem Übergreifen in die ältere römische Kaiserzeit",
+    "icon": "calendar"
+   },
+   {
+    "label": "Archäologische Kulturen",
+    "value": "Lausitzer Kultur (Bronzezeit), Púchov-Kultur (Spätlatènezeit)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Funktion der Anlage",
+    "value": "Zentralfestung des östlichen Teils des Beckens von Žilina, im Zusammenwirken mit der Höhensiedlung in Divinka auf dem Veľký vrch",
+    "icon": "crown"
+   },
+   {
+    "label": "Bedeutender Fund",
+    "value": "Hortfund keltischer Münzen des Typs Veľký Bysterec und ein goldener Boierstater, 2016 publiziert",
+    "icon": "star"
+   },
+   {
+    "label": "Autor des Textes",
+    "value": "Mgr. Jozef Moravčík",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Jüngere Bronzezeit",
+    "title": "Älteste Datierung der Befestigung",
+    "description": "Bei der Störung des nördlichen Walles während des Baus einer Straße für Drachenflieger fand sich im Wallkörper Keramik der jüngeren Bronzezeit, was wohl die älteste Datierung der Befestigung der Höhensiedlung darstellt.",
+    "type": "founding"
+   },
+   {
+    "year": "Jüngere bis späte Bronzezeit",
+    "title": "Erster Zeithorizont der Besiedlung",
+    "description": "Die Höhensiedlung auf dem Straník erfüllte ihre Funktion in der jüngeren bis späten Bronzezeit; die Intensität der Besiedlung war in dieser Zeit außerordentlich groß, und die Funde gehören vor allem zur Lausitzer Kultur.",
+    "type": "event"
+   },
+   {
+    "year": "Spätlatènezeit (jüngere Eisenzeit)",
+    "title": "Zentralfestung des Beckens von Žilina",
+    "description": "In der Spätlatènezeit (Púchov-Kultur) erfüllte die Höhensiedlung auf dem Straník offenbar die Funktion einer Zentralfestung des östlichen Teils des Beckens von Žilina und half der Hauptbefestigung in Divinka, das Leben der damaligen Gesellschaft zu organisieren, mit möglichem Übergreifen in den älteren Abschnitt der älteren römischen Kaiserzeit.",
+    "type": "event"
+   },
+   {
+    "year": "1946",
+    "title": "Fund einer altslawischen Scherbe",
+    "description": "Aus dem Jahr 1946 stammt die Meldung über den Fund einer altslawischen Scherbe auf der Kuppe der Höhensiedlung (publiziert von A. Petrovský-Šichman im Vlastivedný zborník Považia VI, 1964).",
+    "type": "discovery"
+   },
+   {
+    "year": "1947",
+    "title": "Erste Belege für eine ältere Besiedlung",
+    "description": "Die ersten Belege für eine ältere Besiedlung der Fundstelle brachten die Begehungen von A. Petrovský-Šichman.",
+    "type": "discovery"
+   },
+   {
+    "year": "1949",
+    "title": "Schnitt im Wallkörper",
+    "description": "In der Mitte des Walles wurde ein Schnitt mit den Maßen 0,5 x 2,5 m und einer Tiefe von 0,3–0,8 m bis auf das Niveau des gewachsenen Felsens angelegt.",
+    "type": "discovery"
+   },
+   {
+    "year": "1951",
+    "title": "Archivierung des Fundberichts",
+    "description": "Im Archiv des AÚ SAV in Nitra (Neutra) befindet sich der Fundbericht Nr. 568/51 über den im Jahr 1949 in der Mitte des Walles angelegten Schnitt.",
+    "type": "event"
+   },
+   {
+    "year": "2015",
+    "title": "Publikation des Textes über die Höhensiedlung",
+    "description": "Der Text wurde im Artikel von Jozef Moravčík „Niektoré opevnenia v centrálnej časti Žilinskej kotliny“ in der Publikation Hradiská – Svedkovia dávnych čias, Dolná Mariková 2015, publiziert.",
+    "type": "event"
+   },
+   {
+    "year": "2016",
+    "title": "Fund eines Hortes keltischer Münzen",
+    "description": "Auf der Höhensiedlung wurde ein Hortfund keltischer Münzen des Typs Veľký Bysterec und eines goldenen Boierstaters entdeckt; publiziert haben ihn Radoslav Čambal und Marek Budaj (Museum für Münzen und Medaillen in Kremnica, 2016).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6380,
+    "alt": "Grasbewachsener Grat der Höhensiedlung mit steinernem Wall, im Hintergrund ein Gebirgszug"
+   },
+   {
+    "mediaId": 1661,
+    "caption": "Abb. 1 Žilina-Zástranie, Straník: Blick auf die Höhensiedlung Straník und Grundriss der Befestigung.",
+    "alt": "Abb. 1 Žilina-Zástranie, Straník: Blick auf die Höhensiedlung Straník und Grundriss der Befestigung."
+   },
+   {
+    "mediaId": 1662,
+    "caption": "Abb. 2 Žilina-Zástranie, Straník, Keramik der Púchov-Kultur.",
+    "alt": "Abb. 2 Žilina-Zástranie, Straník, Keramik der Púchov-Kultur."
+   },
+   {
+    "mediaId": 1663,
+    "caption": "Abb. 3 Bronzebeile: Teplička – Tüllenbeil (links); Terchová – Randleistenbeil (rechts).",
+    "alt": "Abb. 3 Bronzebeile: Teplička – Tüllenbeil (links); Terchová – Randleistenbeil (rechts)."
+   },
+   {
+    "mediaId": 1664,
+    "alt": "Zeichnungstafel mit vierzehn Münzen, Vorder- und Rückseite, mit Maßstab"
+   },
+   {
+    "mediaId": 1665,
+    "alt": "Grasbewachsenes Plateau der Höhensiedlung mit jungem Nadelwald"
+   },
+   {
+    "mediaId": 1666,
+    "alt": "Wall der Höhensiedlung mit Informationstafeln am Rand einer Wiese"
+   },
+   {
+    "mediaId": 1667,
+    "alt": "Grasbewachsener Wall der Höhensiedlung vor jungem Nadelwald"
+   },
+   {
+    "mediaId": 1668,
+    "alt": "Grasbewachsener Hang der Höhensiedlung mit Gebirge im Hintergrund"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Fundstelle, die befestigte Höhensiedlung Straník, liegt südöstlich der Gemeinde auf der Kote 769 m ü. M. Die Fundstelle wurde auch in der Vergangenheit häufig von Schatzsuchern gestört, und eine Menge von Funden ist in privaten Sammlungen verschwunden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1 Žilina-Zástranie, Straník: Blick auf die Höhensiedlung Straník und Grundriss der Befestigung.",
+    "alt": "Abb. 1 Žilina-Zástranie, Straník: Blick auf die Höhensiedlung Straník und Grundriss der Befestigung.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten Belege für eine ältere Besiedlung der Fundstelle brachten bereits im Jahr 1947 die Begehungen von A. Petrovský-Šichman. Den größten Teil der Funde übergab er dem Archäologischen Institut im Slowakischen Nationalmuseum (SNM) in Martin an Univ.-Prof. V. Budinský-Krička, bei dem er auch Archäologie studierte und dessen Assistent er nach Abschluss des Studiums wurde. Aus dem Jahr 1951 befindet sich im Archiv des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften (AÚ SAV) in Nitra (Neutra) der Fundbericht Nr. 568/51 über den im Jahr 1949 in der Mitte des Walles angelegten Schnitt mit den Maßen 0,5 x 2,5 m und einer Tiefe von 0,3–0,8 m bis auf das Niveau des gewachsenen Felsens. Das Scherbenmaterial wurde im Museum in Žilina (Sillein) deponiert. Aus dem Jahr 1946 stammt die Meldung über den Fund einer altslawischen Scherbe auf der Kuppe der Höhensiedlung (A. Petrovský-Šichman: Slovanské osídlenie severného Slovenska. In: Vlastivedný zborník Považia VI, 1964, S. 73, Taf. VII:5). Alle übrigen Funde aus verschiedenen Lagen der Höhensiedlung, die durch Aufsammlungen und zufällige Schenkungen gewonnen wurden, gehören vor allem zur Lausitzer Kultur der jüngeren bis späten Bronzezeit und sodann vor allem in die jüngere Eisenzeit – die Spätlatènezeit, die im Umfeld der Nordslowakei die Púchov-Kultur repräsentiert (Abb. 2). Die Höhensiedlung Straník beherrscht das Gebiet des östlichen Teils des Beckens von Žilina, in dem auch die fruchtbarsten Böden vor allem zwischen Teplička und Varín liegen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Fläche der Höhensiedlung hat eine Ausdehnung von etwa 450 x 150 m, das heißt rund 6,7 ha (Abb. 1). An der Nord- und Westseite ist die Befestigung von 3–4 Toren unterbrochen. Nach der Störung des nördlichen Walles beim Bau einer Straße für Drachenflieger fand sich im Wallkörper Keramik der jüngeren Bronzezeit, was wohl die älteste Datierung der Befestigung der Höhensiedlung darstellt. Die Höhensiedlung auf dem Straník schützte mit ihren mächtigen Wällen vor allem die Bevölkerung der umliegenden Siedlungen, deren es in den Gemarkungen der nächstgelegenen Gemeinden verhältnismäßig viele gibt. Belegt sind sie durch archäologische Funde von der Jungsteinzeit bis zum Hochmittelalter (Abb. 3). Nur zur Veranschaulichung erwähnen wir die Siedlungen in Gbeľany, Teplička und Varín, die Urnengräberfelder in Gbeľany und Varín oder die kleinen Burgen in Belá, Dolná Tižina, Terchová und Varín. Zu erwähnen sind auch die Zufallsfunde von Bronzegegenständen, wie etwa das Bronzebeil aus Teplička, das beim Bau des Wasserwerks gefunden wurde, die Bronzesichel aus der Siedlung Prostredný lán, das bronzene Randleistenbeil aus der Frühbronzezeit aus Terchová (Abb. 3), der eiserne Speer aus Terchová auf dem Medziholie und ein weiterer aus Varín, das eiserne Schwert aus dem 9. Jahrhundert aus Varín, die eiserne Lanzenspitze aus Belá bei Vyvieračky und Ähnliches. Die Intensität der Besiedlung war vor allem in der Zeit der jüngeren bis späten Bronzezeit und in der Spätlatènezeit außerordentlich groß. Und genau in dieser Zeit erfüllte die Höhensiedlung auf dem Straník offenbar die Funktion einer Zentralfestung des östlichen Teils des Beckens von Žilina und half so der Hauptbefestigung in Divinka auf dem Veľký vrch, das Leben der damaligen Gesellschaft zu organisieren. In Divinka entstand damals ebenfalls eine mächtige Befestigung, die zur zentralen Anlage nicht nur des Beckens von Žilina, sondern auch des Beckens von Bytča wurde, da sie genau an deren Grenze liegt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2 Žilina-Zástranie, Straník, Keramik der Púchov-Kultur.",
+    "alt": "Abb. 2 Žilina-Zástranie, Straník, Keramik der Púchov-Kultur.",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung auf dem Straník erfüllte ihre Funktion in mindestens zwei Zeithorizonten – in der jüngeren bis späten Bronzezeit und sodann in der Spätlatènezeit, mit der Möglichkeit eines Übergreifens in den älteren Abschnitt der älteren römischen Kaiserzeit. Auch wenn hier bislang keine archäologische Ausgrabung durchgeführt wurde, dokumentiert die Menge der im Gelände der Befestigung aufgesammelten Funde deutlich ihre Stellung für die hiesige älteste Geschichte, und man kann daher sagen, dass ihre Bedeutung die Grenzen der Region Nordwestslowakei überschritten hat und sie so zu Recht in das Verzeichnis der bedeutenden Denkmäler der Slowakei aufgenommen wurde. Heute ist es nach der lange andauernden Beraubung der Fundstelle und der häufigen Störung der ursprünglichen Lagerung der Funde schwer, die ursprüngliche Zusammensetzung der Kulturschichten im Detail zu untersuchen. Jeder Eingriff in die Schichten der Höhensiedlung bewirkt eine Entwertung des ursprünglichen Befundes und verhindert damit auch die wissenschaftliche Auswertung der gewonnenen Funde. Heute genügt es nicht mehr, nur immer neue Gegenstände aufzusammeln und in Depots zu legen; man muss den gesamten Komplex der Fundstelle auch mit der ursprünglichen Lagerung der Siedlungsschichten und der Gegenstände in ihnen untersuchen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Autor des Textes: Mgr. Jozef Moravčík"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Artikel übernommen aus: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jozef Moravčík: NIEKTORÉ OPEVNENIA V CENTRÁLNEJ ČASTI ŽILINSKEJ KOTLINY in Hradiská – Svedkovia dávnych čias. Dolná Mariková 2015"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss bringen wir eine brandaktuelle Neuigkeit – den Hortfund keltischer Münzen des Typs Veľký Bysterec und eines goldenen Boierstaters, der auf der Höhensiedlung gefunden wurde und der im Artikel Radoslav Čambal – Marek Budaj: Hromadný nález mincí veľkobystereckého typu zo Straníka (okr. Žilina), Múzeum mincí a medailí v Kremnici, 2016, publiziert wurde",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": "Artikel übernommen aus:",
+    "items": []
+   }
+  ]
+ }
+}

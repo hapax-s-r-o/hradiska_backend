@@ -1,0 +1,253 @@
+{
+ "slug": "trzcinica-pl",
+ "data": {
+  "title": "Trzcinica – das Karpatische Troja und die ältesten Wälle Kleinpolens",
+  "slug": "trzcinica-karpatisches-troja-burgwall",
+  "excerpt": "Auf einer Anhöhe über dem Tal der Ropa bei Jasło in den polnischen Karpaten nannten die Menschen eine Stelle mit hohen Aufschüttungen seit langem „Königswälle“. Die Ausgrabungen brachten die ältesten bis dahin bekannten befestigten Siedlungen und die erste direkte Bestätigung von Verbindungen zur anatolisch-balkanischen Kultur. Trzcinica ist heute der besterhaltene frühmittelalterliche Burgwall Kleinpolens: Die Wälle erreichen 10 m Höhe, die Anlage 3,5 ha.",
+  "metaTitle": "Trzcinica – das Karpatische Troja in Kleinpolen",
+  "metaDescription": "Trzcinica bei Jasło, das Karpatische Troja: Wälle bis 10 m und 3,5 ha, einer der ältesten slawischen Burgwälle und Belege anatolisch-balkanischer Kontakte.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "über dem Tal der Ropa bei Jasło (Kleinpolen, PL) – „Karpatisches Troja“",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wälle bis 10 m, Fläche 3,5 ha",
+    "icon": "star"
+   },
+   {
+    "label": "Kulturen",
+    "value": "Mierzanowice, Otomani-Füzesabony, slawischer Burgwall",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2100–1650 v. Chr.",
+    "type": "event",
+    "title": "Mierzanowice-Kultur",
+    "description": "Befestigte Wachsiedlung; subkarpatische Elemente, Verbindungen zum Raum Bardejov."
+   },
+   {
+    "year": "1650–1350 v. Chr.",
+    "type": "event",
+    "title": "Otomani-Füzesabony-Kultur",
+    "description": "Umbau der Befestigungen, Vorburg von 2 ha, Bronze- und Goldmetallurgie."
+   },
+   {
+    "year": "780–1031",
+    "type": "event",
+    "title": "Zentraler slawischer Burgwall",
+    "description": "Einer der ältesten slawischen Burgwälle Kleinpolens."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5882,
+    "alt": "Luftbild der bewaldeten Anhöhe mit den Wällen des Burgwalls und einem Neubau in der Vorburg"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf einer Anhöhe über dem Tal des Flüsschens Ropa, etwa 5 km von der Stadt Jasło im karpatischen Gebiet Polens, kannten die Menschen seit langem eine Stelle mit hohen Aufschüttungen, die sie „Königswälle“ nannten (Abb. 1, 2)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bereits zu Beginn des 19. Jahrhunderts wurden hier 3 heidnische Kultstätten freigelegt und Altertumsfreunde begannen sich für diesen Ort zu interessieren. Die erste professionelle Ausgrabung fand schon im Jahr 1957 statt, die ausführliche archäologische …in den Jahren 1991–1996, 2005–2009, und sie brachte sensationelle Entdeckungen (Abb. 3). Entdeckt wurden die ältesten bis dahin bekannten befestigten Siedlungen und die erste direkte Bestätigung zivilisatorischer Interaktionen des Gebiets Polens mit der anatolisch-balkanischen Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trzcinica ist der besterhaltene frühmittelalterliche Burgwall in Kleinpolen und einer der ältesten slawischen Burgwälle überhaupt. Die Wehrwälle erreichen, von der Basis der Aufschüttungen gemessen, noch heute eine Höhe von 10 m und nehmen eine Fläche von 3,5 ha ein.\n Anfangs wurde hier eine befestigte Wachsiedlung mit dem Eingang von der Seite der Schlucht errichtet. Die Siedlung war durch einen Wall mit einer Holz-Erde-Palisade (Abb. 4), durch Gräben und …mit einer Neigung von 20–40° und einer Höhe von 30 m geschützt. Bewohnt war sie von Menschen der „Pleszów-Gruppe der Mierzanowice-Kultur“ (2100–1650 v. Chr., Spuren einer Besiedlung durch diese Kultur fanden sich auch in der Umgebung von Bardejov) mit starken subkarpatischen Elementen. Charakteristisch war für sie Tongeschirr, verziert mit Schnureindrücken, Rillen, kleinen Knubben, Leisten und Rippen. Die Bewohner befassten sich mit Ackerbau, Viehzucht, Jagd, Fischfang, Weberei und der Bearbeitung von Steinwerkzeugen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Trzcinica (PL)",
+    "caption": "",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1650–1350 v. Chr. lebte hier die Gemeinschaft der entwickelten Otomani-Füzesabony-Kultur. Sie legte einen neuen Weg in die Anlage an, baute die Befestigungen um und verstärkte sie, und nach deren Brand baute sie die Fortifikation um, vergrößerte die Siedlung durch den Ausbau einer Vorburg auf eine Fläche von 2 ha und sicherte sie von der Seite des leichtesten Zugangs mit Palisaden und Gräben (Abb. 6). Sie knüpfte Handelskontakte zum Meer nach Süden wie nach Norden, und es kam zu einem Aufschwung in der Bronze- und Goldmetallurgie. Neben der aristokratischen Schicht war die Bevölkerung in größerer Zahl vor allem durch Krieger und Hörige (gemeint sind Sklaven) vertreten. Ihr hauptsächlicher Arbeitsinhalt waren die Bodenbearbeitung, die Haltung von Haustieren, der Fischfang und der Fernhandel. Die Gräber waren reich mit Beigaben versehen. Die Menschen der Otomani-Füzesabony-Kultur bewohnten vor allem den nordöstlichen Teil des Karpatenbeckens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Zeit des Frühmittelalters (780–1031 n. Chr.) befand sich hier ein riesiger Sitz, der zentrale Burgwall eines der slawischen Stämme, die damals Kleinpolen bewohnten. Seine Errichtung kostete gewaltige Anstrengung und Mühe und nicht wenig Kunstfertigkeit und Geschick (Abb. 7)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Trzcinica (PL)",
+    "caption": "",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hatte die Ausmaße 115 × 275 m und bestand aus der Hauptburg (dem zentralen Burgwall) und drei Vorburgen. Die Wälle lagen von Norden in Abständen von 60–70 m; der Wall, der die I. Vorburg schützte, war etwa 5 m hoch, die II. Vorburg schützte ein über 9 m hoher Wall mit einer Fundamentbreite von 22–24 m. Der Wall der III. Vorburg war der niedrigste, er erreichte nur eine Höhe von 2 m und ergänzte die Verteidigung der vorhergehenden Wälle von Norden; die Wälle der I. und der II. Vorburg umschlossen jedoch den Burgwall und schützten auch die Hauptburg selbst von Süden (Abb. 15). Die Holz-Erde-Wälle waren konstruktiv in Rostkonstruktion, als Palisaden- und als Flechtwerkkonstruktion ausgeführt und hatten eine Länge von mehr als 1250 m. Die Wälle in Rostkonstruktion hatten eine Breite von 3,5–5 m, die geflochtenen 3,5 m und die Palisadenwälle 2,2 m. Für ihre Errichtung wurden 25.000 m³ Baumaterial verwendet, davon etwa 6000 m³ Holz, überwiegend Eichenholz. Der Burgwall war von mehreren offenen Siedlungen umgeben, in denen die Menschen in kleinen Blockhäusern und in eingetieften Grubenhäusern lebten (Abb. 8). Die Zerstörung des Burgwalls infolge eines Brandes erscheint am wahrscheinlichsten im Jahr 1031 n. Chr., am Ende der Herrschaft Mieszkos II., oder während der inneren Unruhen in Polen in den Jahren 1034–1039."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Trzcinica (PL)",
+    "caption": "",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im 20. und 21. Jahrhundert wurden mehr als 160.000 Artefakte interdisziplinär untersucht und die Wehrkonstruktion erforscht. Gefunden wurden viele Arten von Ton- und Keramikgefäßen, Erzeugnisse aus Knochen und Horn, bearbeitete Steine und Feuersteine sowie einzigartige Denkmäler aus Bronze und Eisen. Gefunden wurden Kultgegenstände, vorgeschichtliche Kunstwerke, Werkzeuge, Waffen und Zierstücke. Als ungewöhnlich wertvoll erwies sich ein frühmittelalterlicher Silberschatz, der aus Münzen, Zierstücken verschiedener Art, Silberstücken und einem einzigartigen Beschlag einer Schwertscheide bestand (Abb. 9, 10). Während der ganzen Zeit, in der die Wehranlage in Trzcinica bestand, sind vielfältige kulturelle Einflüsse belegt. Körpergräber sind erst ab dem 11. Jahrhundert belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Idee, gerade hier das „Archäologische Freilichtmuseum Karpatisches Troja“ zu gründen, entstand bereits im Jahr 1998; der Park nimmt eine Fläche von über 8 ha ein (davon 3,5 ha der Burgwall), und das ganze Projekt kostete mehr als 13 Millionen Zloty (etwa 3,1 Millionen EUR), die EU finanzierte es mit einem Betrag von 1,7 Millionen EUR mit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Trzcinica (PL)",
+    "caption": "",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall befinden sich gegenwärtig rekonstruierte Fragmente der Wehrwälle (Abb. 11, 12) und von Häusern. Sie können dort 9 Teile der Wehrwälle (Abb. 13), ein Fragment der Befestigung, des Zugangswegs und des Tores sowie zwei Häuser aus der Bronzezeit, 4 slawische Häuser, das Eingangstor (Abb. 16), eine Wasserquelle aus dem 10. Jahrhundert (Abb. 14) und die Stelle finden, an der der Schatz verborgen war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer einigen Münzen aus Böhmen steht in der Quelle nichts über den Einfluss Großmährens, auch wenn dieses Gebiet unter dem Herrscher Samo oder unter den großmährischen Herrschern in der Einflusssphäre (dem Tributbereich) Großmährens lag. (Anm. d. Übers.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

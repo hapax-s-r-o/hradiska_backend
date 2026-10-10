@@ -1,0 +1,216 @@
+{
+ "slug": "nimnica-holis",
+ "data": {
+  "title": "Holíš bei Nimnica – eine kleine Höhenburg der Púchov-Kultur über der Waag",
+  "slug": "nimnica-holis-puchov-hoehenburg",
+  "excerpt": "Nordöstlich von Nimnica erhebt sich der Holíš – eine nicht große, durch ihre Funde jedoch bedeutende Höhensiedlung und kleine Höhenburg der Púchov-Kultur. Die Waag umfließt sein sehr steiles südliches Fußende im Bogen, weshalb der alte Weg durch das Waagtal die Grenze zwischen Trenčín und Žilina über einen der Sättel des Berges überquerte. Belegt sind Keramik der Hallstattzeit, der Púchov-Kultur und der römischen Kaiserzeit; in den 1990er Jahren plünderten Raubgräber die Fundstelle aus.",
+  "metaTitle": "Holíš bei Nimnica – Höhenburg der Púchov-Kultur",
+  "metaDescription": "Die Höhensiedlung und kleine Höhenburg Holíš bei Nimnica gehört zu den höchstgelegenen des Waagtals. Funde der Púchov-Kultur über dem Bogen der Waag.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "nordöstlich von Nimnica, an der Grenze zwischen Trenčín und Žilina",
+    "icon": "map"
+   },
+   {
+    "label": "Kulturen",
+    "value": "Hallstattzeit, Púchov-Kultur, römische Kaiserzeit",
+    "icon": "scroll"
+   },
+   {
+    "label": "Flurnamen",
+    "value": "Kuppe Holíš, westlicher Fuß Hrádky",
+    "icon": "flag"
+   },
+   {
+    "label": "Publikation der Funde",
+    "value": "Karol Pieta: Die keltische Besiedlung der Slowakei, AÚ SAV Nitra 2010",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattzeit",
+    "title": "Hallstattzeitliche Keramik auf der Paprudie",
+    "description": "Am Hang der Paprudie ist auch hallstattzeitliche Keramik belegt.",
+    "type": "discovery"
+   },
+   {
+    "year": "mittlere römische Kaiserzeit",
+    "title": "Keramikfund auf der Kuppe des Holíš",
+    "description": "In die Literatur eingeführt hat die Fundstelle A. P. Šichman, der auf der Kuppe des Holíš den Fund von Keramik erwähnt, die in die mittlere römische Kaiserzeit datiert wird.",
+    "type": "discovery"
+   },
+   {
+    "year": "1980er Jahre",
+    "title": "Untersuchung durch Jozef Moravčík",
+    "description": "In der Mitte der 1980er Jahre untersuchte der Archäologe Jozef Moravčík mit den Mitgliedern eines archäologischen Zirkels den Holíš und stellte im Sattel zwischen den zwei Gipfeln des Holíš eine Kulturschicht mit Keramikfunden fest.",
+    "type": "discovery"
+   },
+   {
+    "year": "1990er Jahre",
+    "title": "Ausplünderung der Fundstelle durch Raubgräber",
+    "description": "In den 1990er Jahren wurde der Holíš zum Ziel von Überfällen durch Raubgräber, die ihn vollständig ausplünderten; ein Teil der Funde konnte dokumentiert und im Buch von Karol Pieta veröffentlicht werden.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3521,
+    "caption": "Holíš (Autor Peter Bros)",
+    "alt": "Holíš (Autor Peter Bros)"
+   },
+   {
+    "mediaId": 3522,
+    "caption": "Fibel",
+    "alt": "Fibel"
+   },
+   {
+    "mediaId": 3525,
+    "caption": "Auf der Karte der 1. militärischen Landesaufnahme sind die Wege und das ursprüngliche Flussbett der Waag gut zu erkennen",
+    "alt": "Auf der Karte der 1. militärischen Landesaufnahme sind die Wege und das ursprüngliche Flussbett der Waag gut zu erkennen"
+   },
+   {
+    "mediaId": 3527,
+    "caption": "Mittellatènezeitlicher Armring mit sogenannter Pseudofiligranverzierung",
+    "alt": "Mittellatènezeitlicher Armring mit sogenannter Pseudofiligranverzierung"
+   },
+   {
+    "mediaId": 3529,
+    "caption": "Lanze",
+    "alt": "Lanze"
+   },
+   {
+    "mediaId": 3530,
+    "caption": "Sporn",
+    "alt": "Sporn"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nordöstlich von Nimnica liegt eine nicht große, durch ihre Funde jedoch bedeutende Höhensiedlung und kleine Höhenburg der Púchov-Kultur mit dem Namen Holíš. Die Kuppe des Holíš war nach Ansicht der Archäologen befestigt, an seinen westlichen Fuß im Tal des Baches Nimnický potok knüpft sich der Flurname Hrádky. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Nif6lOqreXQ",
+    "url": "https://www.youtube.com/embed/Nif6lOqreXQ",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Waag umfließt das Massiv des Holíš in einem Bogen und umspült unmittelbar seinen sehr steilen südlichen Fuß. Kein Wunder, dass der rechtsufrige Burgweg des Waagtals diesem Bogen der Waag auswich, indem er die Grenze zwischen Trenčín (Trentschin) und Žilina (Sillein) durch einen Sattel auf der südlichen oder auf der nördlichen Seite der Kuppe des Holíš überquerte. Der Weg verkürzte sich auf diesem Abschnitt dadurch um die Hälfte. In die Literatur eingeführt hat die Fundstelle A. P. Šichman. Auf der Kuppe des Holíš erwähnt Šichman den Fund von Keramik, die er in die mittlere römische Kaiserzeit datiert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Mitte der 1980er Jahre untersuchte den Holíš auch der Archäologe Jozef Moravčík mit den Mitgliedern eines archäologischen Zirkels. Er führt an, dass sie eine Kulturschicht mit Keramikfunden im Sattel zwischen den zwei Gipfeln des Holíš feststellten und dass auf dem Malý Holíš wahrscheinlich auch eine Befestigung liegt. Eine Scherbe vom Rand eines ziegelroten Gefäßes fanden sie 80 m westlich davon, wo sich eine breite Plattform befindet, die auf allen Seiten von steilen Hängen begrenzt wird. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Holíš (Autor Peter Bros)",
+    "alt": "Holíš (Autor Peter Bros)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Aufstieg in den südlichen Sattel des Holíš ist steil, doch ist diese Strecke um ein geringes kürzer. Am westlichen Hang des Holíš führt der Weg über eine Fläche, die in der römischen Kaiserzeit besiedelt war. Moravčík dokumentierte hier Scherben aus der Hallstattzeit, vor allem aber aus der Púchov-Kultur. Šichman führt an, am Hang neben dem Weg sei vor Jahren auf Anregung des Notars eine Laiengrabung durchgeführt worden, bei der angeblich auch einige Metallaltertümer gefunden wurden. Šichman fügt hinzu, es handle sich vielleicht um die Fibel aus der römischen Kaiserzeit, die Baron Hoening aus einem Fund auf der Pechová abkaufte. Die dazugehörige Abbildung ist bislang nicht aufzufinden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Weg von Nimnica in den nördlicher gelegenen Sattel unter dem Holíš hat eine sanftere Steigung als der in den südlichen Sattel. Er führt über eine Siedlung aus der römischen Kaiserzeit, die bis in die Lage Paprudie unmittelbar nördlich des Sattels und auf die östliche Seite des Sattels reicht. An den Sattel selbst knüpft sich die Überlieferung von einem goldenen Schatz und von einer Siedlung von Riesen, die so groß waren, dass ihre Beine vom Sattel bis in die Waag reichten. Am Hang der Paprudie ist auch hallstattzeitliche Keramik belegt. Die gesamte Ausdehnung der Besiedlung des Holíš ist bislang unbekannt, die Fundstelle gehört jedoch zu den höchstgelegenen Höhensiedlungen des Waagtals. Die Entstehung dieser Siedlung gerade an der Grenze zwischen Trenčín und Žilina ist kein Zufall, sie knüpft sich klar an den Übergang des bedeutenden Weges durch das Waagtal über diese Grenze. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fibel",
+    "alt": "Fibel",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den 1990er Jahren wurde der Holíš zum Ziel von Überfällen durch Raubgräber, die ihn vollständig ausplünderten. Aus dieser Zeit gelang es glücklicherweise, wenigstens einige der Funde zu dokumentieren, die dann im Buch von Karol Pieta veröffentlicht wurden: DIE KELTISCHE BESIEDLUNG DER SLOWAKEI. Diese Funde, übernommen aus dem genannten Buch, können Sie im Text sehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

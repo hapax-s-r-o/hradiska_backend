@@ -1,0 +1,466 @@
+{
+ "slug": "vrable-fidvar-mesto-z-doby-bronzovej-b",
+ "data": {
+  "title": "Vráble-Fidvár – eine befestigte Siedlung der Bronzezeit (B)",
+  "slug": "vrable-fidvar-befestigte-siedlung-bronzezeit",
+  "excerpt": "Fidvár oder Zemný hrad südlich von Vráble ist die nördlichste Fundstelle vom Tell-Typ im Karpatenbecken: mit mehr als 20 Hektar die größte Siedlungsagglomeration der Frühbronzezeit in Europa, größer als Mykene oder Troja. Schon Schatzsucher des 19. Jahrhunderts holten hier Funde der Maďarovce-Kultur heraus; seit 2007 decken slowakische und deutsche Archäologen mit geomagnetischen Messungen Gräben, Häuserzeilen und Gräberfelder auf.",
+  "metaTitle": "Vráble-Fidvár – befestigte Siedlung der Bronzezeit",
+  "metaDescription": "Fidvár (Zemný hrad) bei Vráble, eine außergewöhnliche befestigte Siedlung der Bronzezeit der Maďarovce-Kultur, erforscht schon seit dem 19. Jahrhundert.",
+  "keyFacts": [
+   {
+    "label": "Typ der Fundstelle",
+    "value": "urgeschichtliche mehrschichtige Siedlung (Tell bzw. Siedlungshügel), Kulturschicht über 2 m mächtig",
+    "icon": "map"
+   },
+   {
+    "label": "Fläche",
+    "value": "mehr als 20 Hektar – größer als Mykene oder Troja",
+    "icon": "flag"
+   },
+   {
+    "label": "Alter der Fundstelle",
+    "value": "etwa 3000 Jahre",
+    "icon": "calendar"
+   },
+   {
+    "label": "Maße der Häuser",
+    "value": "Länge 8–10 m, Breite 4 m; eines wahrscheinlich einstöckig",
+    "icon": "building"
+   },
+   {
+    "label": "Benachbarter Bau",
+    "value": "die Renaissance-Festung Werebel gegen die Türken (1624 – 1698), nördlich von Fidvár",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "19. Jahrhundert",
+    "title": "Erste Informationen über die Fundstelle",
+    "description": "Die ersten Informationen über die Fundstelle stammen aus dem 19. Jahrhundert, als sie viele Schatzsucher besuchten, darunter der königliche Postmeister von Vráble, Jozef Néčei.",
+    "type": "discovery"
+   },
+   {
+    "year": "1931",
+    "title": "Erste fachliche Untersuchung durch Štefan Janšák",
+    "description": "Im Sborník Muzeálnej Slovenskej spoločnosti wurde der Artikel „Hradište pri Vrábľoch a skupina sídlisk pri Žitva-Ďarmotách“ des Archäologen Štefan Janšák veröffentlicht, der hier als erster Fachmann eine Ausgrabung durchführte.",
+    "type": "discovery"
+   },
+   {
+    "year": "60er Jahre des 20. Jahrhunderts",
+    "title": "Ausgrabung des Archäologischen Instituts der SAV",
+    "description": "Eine wirkliche archäologische Ausgrabung erlebte die Fundstelle in den 60er Jahren des 20. Jahrhunderts, als sie Wissenschaftler des Archäologischen Instituts der SAV in Nitra unter der Leitung des Archäologen Točík besuchten.",
+    "type": "discovery"
+   },
+   {
+    "year": "2007",
+    "title": "Beginn der internationalen Untersuchung",
+    "description": "Prof. PhDr. Jozef Bátora, DrSc. besuchte die Fundstelle zusammen mit deutschen Archäologen aus Frankfurt am Main; die Archäologen stellten fest, dass es sich um die größte Siedlungsagglomeration der Frühbronzezeit in Europa handelt, mit einer Fläche von mehr als 20 Hektar.",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Fortsetzung der Untersuchung, Entdeckung eines Gräberfeldes",
+    "description": "Die Untersuchung wurde in Zusammenarbeit mit dem Archäologischen Institut in Nitra, der RGK DAI Frankfurt am Main und der Universität Würzburg fortgesetzt; durch Sondage wurde ein Körpergräberfeld entdeckt, das zur Aunjetitzer Phase der Besiedlung gehört.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3689,
+    "alt": "Luftbild eines Feldes mit Bewuchsmerkmalen der Befestigung der Fundstelle Fidvár"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Fidvár oder Zemný hrad (Foldvár – Erdburg, ung.) liegt südlich von Vráble. Aufmerksamkeit erregte sie von jeher. Die ersten Informationen über die Fundstelle stammen aus dem 19. Jahrhundert. Damals besuchten sie viele Schatzsucher – die sog. ersten Archäologen. Zu ihnen gehörte auch der königliche Postmeister von Vráble, Jozef Néčei."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser entdeckte auf dem Fidvár interessante Gegenstände der Maďarovce-Kultur, römische Öllampen, Gegenstände aus der Steinzeit, verschiedene Hammeräxte, verschiedenen Bronzeschmuck und sogar Schlittschuhe aus Knochen! Seine Funde gelangten später nach Levice (Lewenz), wo nach Néčeis Tod in Levice das Tekovské-Museum eingerichtet wurde. Bis heute befinden sich in diesem Museum Hunderte archäologischer Gegenstände von der Fundstelle Fidvár bei Vráble. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle „lag“ lange unberührt. Am Anfang und in der Mitte des 20. Jahrhunderts, in den Zeiten der zwei Weltkriege, lag die Fundstelle unberührt. Nach dem Zweiten Weltkrieg lockte sie von Zeit zu Zeit immer weitere Schatzsucher an. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1931 wurde im Sborník Muzeálnej Slovenskej spoločnosti in Turčiansky Svätý Martin ein Artikel mit dem Titel „Hradište pri Vrábľoch a skupina sídlisk pri Žitva-Ďarmotách“ veröffentlicht. Diesen Artikel schrieb der Archäologe Štefan Janšák, der hier als erster Fachmann eine Ausgrabung durchführte. In dem Artikel schreibt er über Halbinseln, die sich an der Fundstelle Fidvár befanden, wo in der Urgeschichte angeblich eine befestigte Siedlung und im Mittelalter eine Burg gestanden haben soll. Janšák sah auf dem Fidvár im lehmig-sandigen Ackerboden schwarze Kreise. Es handelte sich um Reste großer Feuerstellen oder Kulturgruben. Janšák schrieb in dem Artikel: „Das Zentrum der Besiedlung dieser Landschaft ist der künstlich errichtete Burgwall bei Vráble. Dass sich hier das Leben konzentrierte, bezeugen nicht nur die zahlreichen Überreste alter Kulturen, sondern vor allem die Befestigungen in Form von Gräben. Das Prinzip des Baus bestand darin, dass ein Stück der Terrasse mit einer recht steilen und hohen natürlichen Stufe in Richtung Wasser durch einen Graben vom übrigen Ufergelände abgetrennt wurde. Die Erbauer des Burgwalls hoben einen Graben aus, der an der tiefsten Stelle 6 Meter und an der höchsten Stelle 3 Meter tief war. /…/ Südlich und nördlich von diesem künstlichen Hügel findet sich eine große Menge von Scherben, zum Beweis, dass die ganze Umgebung besiedelt war.“ Janšák erwähnt, dass der Hügel aufgegraben worden war und man daraus Sand und Lehm für Bauten entnahm. Diese befestigte Siedlung war schon Romer in dem Werk „Résultats généraux du mouvement archéologique en Hongrie“ bekannt, das im Jahr 1878 in Budapest erschien. Janšák erwähnte, dass auf dem Hügelchen von Fidvár eine unglaublich große Menge von Scherben lag, was an einen steinigen Hügel erinnerte. „Nicht nur der künstlich errichtete Burgwall selbst, sondern die ganze Oberfläche der Halbinsel zwischen dem Flüsschen Žitava und dem Bächlein, das von Osten kommt, ist mit einer auffallend großen Menge von Scherben besät. Ihre Bruchstücke liegen buchstäblich eines neben dem anderen, so dass sie auch bei der Bearbeitung des Feldes hinderlich sind. Sie machen es steinig und weniger fruchtbar.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Doch eine wirkliche archäologische Ausgrabung erlebte die Fundstelle erst in den 60er Jahren des 20. Jahrhunderts, als sie Wissenschaftler des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften in Nitra (Neutra) besuchten. Die Fundstelle untersuchte damals der Archäologe Točík. Sie legten einen Schnitt an, der jedoch nicht viel enthüllte. Sie fanden viele Scherben, Spuren von Behausungen, doch nichts Umwälzendes. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Fidvár ist eigentlich eine urgeschichtliche Siedlung, ein sog. Tell bzw. Siedlungshügel. Es handelt sich um eine mehrschichtige Siedlung, die dadurch entstand, dass die Menschen mehrere Jahrtausende an einer Stelle siedelten, das Gelände herrichteten, planierten, auffüllten usw. So entstand eine Kulturschicht von mehreren Metern Mächtigkeit (konkret hat sie in Vráble über 2 m, und die ältesten Schichten gehören in das Äneolithikum und die jüngsten in die Frühbronzezeit. In einem solchen Tell können die Archäologen dann „blättern“ wie in einem Kalender, denn die ältesten Schichten liegen völlig unten und die jüngsten oben. Die Bedeutung dieser Fundstelle in Vráble liegt auch darin, dass es sich um die nördlichste Fundstelle vom Tell-Typ im Rahmen des Karpatenbeckens handelt! "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nördlich von der Fundstelle Fidvár, näher zur Stadt Vráble, stand in den Jahren 1624 bis 1698 eine Renaissance-Festung gegen die Türken mit vier Basteien. Ihren Namen erhielt sie nach dem historischen Namen der Stadt – Werebel. Die Menschen verwechseln bis heute den Namen Fidvár – Zemný hrad mit dem Namen der Burg Vráble. Fidvár war eine urgeschichtliche Festung – eine riesige Siedlung, eine Ansiedlung, während die Renaissance-Festung knapp ein Jahrhundert näher zu Vráble stand. Dass die Renaissance-Festung weiter von der urgeschichtlichen Festung Fidvár entfernt stand, erwies sich als ausgezeichnete Lösung unserer Vorfahren. Denn die urgeschichtliche Siedlung blieb praktisch ganze 4000 Jahre unberührt! "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2007 besuchte der bekannte slowakische Archäologe und Spezialist für die Problematik der Bronzezeit in Mittel- und Osteuropa Prof. PhDr. Jozef Bátora, DrSc. die Fundstelle Fidvár bei Vráble zusammen mit deutschen Archäologen aus Frankfurt am Main, um schrittweise die Geheimnisse dieser Fundstelle aufzudecken. Im ersten Jahr der Untersuchung führten die Archäologen eine Oberflächenaufsammlung durch und vermaßen das ganze Gebiet mit einer geomagnetischen Messung. Während dieser Prospektion verwendeten die Archäologen die modernsten Technologien, wie sie in Deutschland, England oder in Ägypten üblich sind. Ein weiteres Weltunikat bestand darin, dass sie die bis dahin größte Fläche (23 ha) mit geomagnetischen Messungen vermaßen.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während dreier Wochen intensiver Untersuchung stellten die Archäologen fest, dass sich an der Fundstelle Fidvár die größte Siedlungsagglomeration nicht nur in der Slowakei, sondern in ganz Europa aus der Zeit der Frühbronzezeit befindet. Sie hat eine Fläche von mehr als 20 Hektar und ist also größer als Mykene oder das kleinasiatische Troja! Die Siedlung – Festung Fidvár bei Vráble ist etwa 3000 Jahre alt. In Europa wurden ähnliche Siedlungen gefunden, die in einem bestimmten Moment etwa 100 Einwohner bewohnten. Auf dem Fidvár war jedoch eine unerhörte Konzentration von Bevölkerung. In einem bestimmten Moment lebten dort bis zu 1000 Einwohner. Die Siedlung bestand aus mehreren Gräben. Es war eine kreisförmige Siedlung mit einem Durchmesser von bis zu 220 m. In der Umgebung der Siedlung standen wiederum mehrere weitere Häuser. In der Mitte lebte die höhere Gesellschaftsschicht, in der Umgebung lebte das einfache Volk. In der Siedlung befanden sich gleich mehrere Handwerkerwerkstätten. Im befestigten Raum befanden sich mehrere Häuser, die in Straßen gereiht waren. Es handelt sich eigentlich um eine Siedlung urbanen Charakters, einem städtischen Typ ähnlich. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2008 wurde die Untersuchung auf dem Fidvár in Zusammenarbeit mit dem Archäologischen Institut in Nitra und der RGK DAI Frankfurt am Main sowie der Universität Würzburg fortgesetzt. Was die Ergebnisse der Untersuchung auf dem Fidvár betrifft, erzielten die Archäologen erneut interessante Erkenntnisse. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vorrangiges Ziel der Untersuchung in diesem Jahr war es, die Ergebnisse der geomagnetischen Messungen zu überprüfen, mit denen die Archäologen im Vorjahr außer zwei Gräben auch die Grundrisse von etwa 140 rechteckigen Befunden, wohl Häusern, festgestellt hatten. Diese Überprüfung führten die Archäologen durch das Ausheben klassischer Schnitte an 7 Stellen durch – dort, wo sich die Grundrisse dieser Häuser am deutlichsten abzeichneten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Schnitt bestätigte, dass sich in der Erde tatsächlich Häuser befinden, ihre unteren Teile waren jedoch nicht aus Stein, sondern aus gebranntem Lehm – Lehmbewurf. Die Archäologen überraschten die gut erhaltenen Grundrisse und die großen Maße. Die Länge der Häuser erreichte nämlich 8–10 m und die Breite 4 m. In einem Fall vermutet Prof. Bátora, dass sie ein zerstörtes einstöckiges Haus freigelegt haben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein bedeutender Erfolg der diesjährigen Untersuchung war das durch Sondage entdeckte Gräberfeld, das zur Aunjetitzer Phase der Besiedlung von Fidvár gehört. Es handelt sich um ein Körpergräberfeld, auf dem die Toten in der Richtung West–Ost und Ost–West bestattet waren. Ein weiteres Ziel der diesjährigen Untersuchung war es, den westlichen Rand der Siedlung zu untersuchen, der sich schon in einem Wäldchen befindet, unter dem einst dicht der Fluss Žitava verlief. Im Mittelalter war dort wiederum ein großer See. Die Sondage zeigte, dass den Archäologen in diesem Teil der Siedlung ein Teil der Befestigung fehlt. Das wurde durch den Fluss Žitava verursacht, der bei Hochwassern die Befestigung wegschwemmte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer den Grabungsarbeiten setzten die Archäologen aus der Slowakei und aus Deutschland die geomagnetischen Messungen weiter fort, die zeigten, dass das Areal der Siedlung wesentlich größer ist, als sie im Jahr 2007 angenommen hatten. Es umfasst also eine Fläche von mehr als 20 Hektar! "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss der diesjährigen Untersuchung (im Monat September) wurde dank dem Direktor des Deutschen Archäologischen Instituts in Frankfurt am Main, Prof. Dr. F. Lüth, der die Fundstelle Fidvár persönlich besuchte, außerordentlich leistungsfähige Technik eingesetzt. Die Messungen an der Fundstelle Fidvár führte die deutsche Firma Sensys durch. Es handelte sich um ein Gerät, das viel genauer war als jenes, das die Archäologen bis dahin hatten. Dank dieser Messung erfuhren sie, dass sich in den erwähnten Häusern in der Mitte eine Feuerstelle und auch Spuren von Pfostengruben befanden. Dank dieser Messung gelang es den Archäologen, noch drei weitere Gräberfelder zu entdecken, auf denen die Einwohner von Fidvár bestattet wurden. Durch die Entdeckung der Gräberfelder erhöhte sich der ohnehin schon große historische Wert von Fidvár noch weiter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vráble-Fidvár - mesto z doby bronzovej (B)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss ist es wichtig anzumerken, dass die Firma Sensys eigentlich eine Firma ist, die militärischen Zwecken bei der Suche nach Munition dient und bisher an Kampfplätzen z. B. im Kosovo und im ehemaligen Jugoslawien eingesetzt wurde. Für die Arbeit für die Bedürfnisse der Archäologie wurde sie gerade in Vráble erstmals weltweit eingesetzt!!! "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die diesjährige Untersuchung brachte einen weiteren Fortschritt bei der Erforschung der geheimnisvollen Fundstelle Fidvár bei Vráble, der helfen wird, das Leben der Menschen in der Bronzezeit nicht nur in der Slowakei, sondern in ganz Europa zu erhellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung des Autors übernommen von der Seite "
+       },
+       {
+        "type": "link",
+        "url": "http://www.zitava.sk/pozitavie-v-praveku/fidvar-pri-vrab%C4%BEoch-%E2%80%93-europsky-unikat",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.zitava.sk/pozitavie-v-praveku/fidvar-pri-vrabľoch-–-europsky-unikat"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Danksagung:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich danke Prof. PhDr. Jozef Bátora, DrSc. für die bereitgestellten Angaben über die Untersuchung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "slug": "horne-plachtince-pohansky-vrch",
+ "data": {
+  "title": "Horné Plachtince – Pohanský vrch, eine zentrale Höhensiedlung der Kyjatice-Kultur",
+  "slug": "horne-plachtince-pohansky-vrch-zentrale-hoehensiedlung",
+  "excerpt": "Die Höhensiedlung Pohanský vrch liegt im Krupina-Hügelland, etwa 2,5 km nordwestlich von Horné Plachtince. Die von den inneren Wällen umgrenzte Fläche hat die Form eines unregelmäßigen Deltoids von etwa 350–400 × 180–200 m; der nördliche Wall gehört zu den größten in der Ostslowakei. Der Pohanský vrch war eine zentrale Höhensiedlung der Piliny- und der Kyjatice-Kultur, später nutzten auch Kelten und Slawen ihre Wälle. Im südlichen Teil wurde ein Brandgräberfeld festgestellt.",
+  "metaTitle": "Horné Plachtince – Pohanský vrch: zentrale Höhensiedlung",
+  "metaDescription": "Die deltoide Höhensiedlung der Piliny- und Kyjatice-Kultur auf dem Pohanský vrch (501 m) im Krupina-Hügelland mit mächtigem Wall und Brandgräberfeld.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Pohanský vrch (501 m), Krupina-Hügelland",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Deltoid 350–400 × 180–200 m; der Nordwall gehört zu den größten im Osten",
+    "icon": "star"
+   },
+   {
+    "label": "Kultur",
+    "value": "Piliny- und Kyjatice-Kultur; zentrale Höhensiedlung",
+    "icon": "star"
+   },
+   {
+    "label": "Besonderheit",
+    "value": "Brandgräberfeld im südlichen Teil",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Äneolithikum",
+    "title": "Älteste Besiedlung",
+    "description": "Fund einer Hammeraxt (G. Balaša).",
+    "type": "event"
+   },
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Kyjatice-Kultur",
+    "description": "Hauptphase; zentrale Höhensiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "später",
+    "title": "Kelten und Slawen",
+    "description": "Nutzung und Instandsetzung der Wälle, Palisaden.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5768,
+    "alt": "Bildschirmaufnahme der ZBGIS-Karte mit Schummerung der Höhensiedlung im Gemeindegebiet von Horné Plachtince"
+   },
+   {
+    "mediaId": 5770,
+    "caption": "Große Scherbe eines Gefäßes mit Öse",
+    "alt": "Große Scherbe eines Gefäßes mit Öse"
+   },
+   {
+    "mediaId": 5771,
+    "caption": "Schöne Aussicht von der Höhensiedlung auf die umliegende Landschaft",
+    "alt": "Schöne Aussicht von der Höhensiedlung auf die umliegende Landschaft"
+   },
+   {
+    "mediaId": 5772,
+    "caption": "Das Steinmäuerchen befindet sich an einer Stelle, an der es auch im Hinblick auf die Befestigung Sinn haben könnte, sodass fraglich ist, ob es neu oder ursprünglich ist",
+    "alt": "Das Steinmäuerchen befindet sich an einer Stelle, an der es auch im Hinblick auf die Befestigung Sinn haben könnte, sodass fraglich ist, ob es neu oder ursprünglich ist"
+   },
+   {
+    "mediaId": 5778,
+    "caption": "Offenbar eine latènezeitliche Scherbe",
+    "alt": "Offenbar eine latènezeitliche Scherbe"
+   },
+   {
+    "mediaId": 5781,
+    "caption": "Das Tor",
+    "alt": "Das Tor"
+   },
+   {
+    "mediaId": 5783,
+    "caption": "Innenfläche der Höhensiedlung, rechts der Wall",
+    "alt": "Innenfläche der Höhensiedlung, rechts der Wall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung Pohanský vrch liegt im Krupina-Hügelland im Gemeindegebiet von Horné Plachtince, von dessen nördlichem Rand sie etwa 2,5 km in nordwestlicher Richtung entfernt ist. Sie erstreckt sich im südlichen Teil eines Sporns, der von einem langen, von Norden heranziehenden Bergrücken ausgeht, und ist aus dieser Richtung daher relativ gut zugänglich. Der ganze Rücken mit dem Gipfel in einer maximalen Höhe von 501 m, in N-S-Richtung orientiert, ist beträchtlich schmal und wird von Westen durch den Sucharský-Bach und von Osten durch den Plachtinský-Bach eingeengt. Seine Überhöhung gegenüber den genannten Bächen ist deutlich. Die Entfernung zwischen den beiden Bächen, die am südlichen Fuß des Pohanský vrch in einer Höhe von 255 m zusammenfließen, beträgt im Durchschnitt 1 km. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Horné Plachtince - Pohanský vrch",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Konfiguration des Geländes geht auch das Befestigungssystem der Höhensiedlung aus. Ihre von den inneren Wällen umgrenzte Fläche hat die Form eines unregelmäßigen Deltoids mit Ausmaßen von etwa 350–400 m × 180–200 m. Die Wälle, die dieser Konfiguration bzw. der Linie der Höhenlinien folgen, sind besonders deutlich an der Nord- und an der Südseite der Höhensiedlung, wo offenbar auch die ursprünglichen Zugänge lagen. Der nördliche Wall ist sehr mächtig und gehört zu den größten in der Ostslowakei. Von der Nordseite, im Vorfeld der Höhensiedlung, befinden sich im nordwestlichen Teil noch zwei Stützwälle, die möglicherweise unmittelbar mit der Hauptbefestigung des Areals der Höhensiedlung zusammenhängen. Die längeren Seiten der Höhensiedlung weisen keine Spuren einer ausgeprägten Fortifikation auf, offenbar waren sie durch ein heute nicht mehr näher identifizierbares Palisadensystem geschützt. Der Pohanský vrch stellt den Typ einer zentralen Höhensiedlung dar, um die unbefestigte Siedlungen und Weiler der Piliny- und der Kyjatice-Kultur konzentriert waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung erwähnt bereits Eisner im Jahr 1933, der darüber hinaus auf noch ältere Literatur verweist, sodass offensichtlich ist, dass die Höhensiedlung seit unvordenklicher Zeit bekannt war. Im Jahr 1993 wurde ein Teil der Höhensiedlung durch einen absolut rücksichtslosen Holzeinschlag beschädigt, wobei die Maschinen den Wall und einen großen Teil der Kulturschicht der Höhensiedlung schädigten. Anschließend führte dort Dr. Václav Furmánek eine Aufsammlung des Scherbenmaterials durch, das infolge der Störung der Höhensiedlung freigelegt worden war. Die älteste belegte Besiedlung des Pohanský vrch stammt aus der Zeit des Äneolithikums. Gejza Balaša führt den Fund einer Hammeraxt an, die durch Aufsammlung ohne nähere Fundumstände gewonnen wurde. Die bei der Untersuchung in den 1990er Jahren gefundenen Scherben belegten eine Besiedlung der Höhensiedlung in der jüngeren Bronzezeit (Kyjatice-Kultur). Weiteres auf der Höhensiedlung gefundenes Scherbenmaterial belegt auch ihre Besiedlung durch Kelten und Slawen, die offenbar die bereits errichteten Wälle aus der Bronzezeit nutzten und instand setzten und deren Konstruktion selbstverständlich um hölzerne Palisaden und Aufbauten ergänzten. Eine interessante Angabe ist, dass im südlichen Teil der befestigten Fläche auch ein Brandgräberfeld festgestellt wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf die Höhensiedlung führt ein Lehrpfad, der von Informationstafeln begleitet wird, an denen sich zwar langsam der Zahn der Zeit zeigt, doch Perun sei Dank auch dafür. In jedem Fall gebührt Plachtince für den Lehrpfad ein Lob."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto (Orgoň):"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "slug": "belusske-slatiny-hradisko",
+ "data": {
+  "title": "Belušské Slatiny – Hradište: eine befestigte Höhensiedlung der Púchov-Kultur",
+  "slug": "belusske-slatiny-hradiste-fliehburg-puchov-kultur",
+  "excerpt": "Die Fundstelle Hradište, auf älteren Karten Ostré vŕšky, liegt auf einem felsigen Massiv über den Prvé mojtínske vráta etwa 1,5 km von Belušské Slatiny in Richtung Mojtín. Auf dem Scheitel haben sich mächtige Trümmer eines Stein-Lehm-Walls in Kastenkonstruktion erhalten, auf dessen Krone eine hölzerne Palisade stand. Funde, verbrannter Lehm und von Hitze zersprungene Steine weisen die Anlage als Fliehburg der Púchov-Kultur aus, die im ersten Jahrzehnt n. Chr. unterging.",
+  "metaTitle": "Belušské Slatiny – Hradište: Fliehburg der Púchov-Kultur",
+  "metaDescription": "Die Höhensiedlung Hradište über Belušské Slatiny: Stein-Lehm-Wall in Kastenkonstruktion, Funde und Brandspuren einer Fliehburg der Púchov-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Ausmaße der Anlage",
+    "value": "nierenförmig, etwa 60 × 25 m",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Stein-Lehm-Wall in Kastenkonstruktion, Höhe 3–4 m, Kronenbreite etwa 1,5 m, mit hölzerner Palisade",
+    "icon": "shield"
+   },
+   {
+    "label": "Historischer Name",
+    "value": "Ostré vŕšky (ältere Karten), neuere Karten führen Hradište",
+    "icon": "scroll"
+   },
+   {
+    "label": "Kultur",
+    "value": "Púchov-Kultur",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ende der Latènezeit – frühe Kaiserzeit",
+    "title": "Entstehung einer Fliehburg der Púchov-Kultur",
+    "description": "Nach den Funden (Keramikscherben, Eisengegenstände) und dem Charakter der Befestigung lässt sich die Anlage mit nahezu Sicherheit als Fliehburg der Leute der Púchov-Kultur bezeichnen.",
+    "type": "founding"
+   },
+   {
+    "year": "erstes Jahrzehnt n. Chr.",
+    "title": "Untergang im Katastrophenhorizont",
+    "description": "Gemeinsam mit Dutzenden weiterer Burganlagen und kleiner Höhenburgen in der Nordwestslowakei fiel die Anlage im ersten Jahrzehnt unserer Zeitrechnung in der Zeit des sogenannten Katastrophenhorizonts germanischen Stämmen zum Opfer.",
+    "type": "destruction"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 3411,
+    "caption": "Blick auf die Höhensiedlung, Autor Vladimír Ruček",
+    "alt": "Blick auf die Höhensiedlung, Autor Vladimír Ruček"
+   },
+   {
+    "mediaId": 3412,
+    "caption": "Blick auf die Höhensiedlung aus einem anderen Winkel, Autor Vladimír Ruček",
+    "alt": "Blick auf die Höhensiedlung aus einem anderen Winkel, Autor Vladimír Ruček"
+   },
+   {
+    "mediaId": 3421,
+    "caption": "Die Höhensiedlung liegt über diesen Felsen",
+    "alt": "Die Höhensiedlung liegt über diesen Felsen"
+   },
+   {
+    "mediaId": 3422,
+    "caption": "Reste des Steinwalls am Rand der Höhensiedlung",
+    "alt": "Reste des Steinwalls am Rand der Höhensiedlung"
+   },
+   {
+    "mediaId": 3426,
+    "caption": "Hervorragend sichtbare Trümmer der Steinmauer",
+    "alt": "Hervorragend sichtbare Trümmer der Steinmauer"
+   },
+   {
+    "mediaId": 3428,
+    "caption": "Von der höchsten Stelle der Höhensiedlung (Westteil) bot sich ein ausgezeichneter Blick in die Umgebung",
+    "alt": "Von der höchsten Stelle der Höhensiedlung (Westteil) bot sich ein ausgezeichneter Blick in die Umgebung"
+   },
+   {
+    "mediaId": 3430,
+    "caption": "Der steile Nordrand, an dem angeblich nur eine Palisade stand",
+    "alt": "Der steile Nordrand, an dem angeblich nur eine Palisade stand"
+   },
+   {
+    "mediaId": 3431,
+    "caption": "Künstlich eingeebnete Plattform von 2–3 m Breite, Südseite",
+    "alt": "Künstlich eingeebnete Plattform von 2–3 m Breite, Südseite"
+   },
+   {
+    "mediaId": 3432,
+    "caption": "Das Eingangstor nach der Zeichnung in Po stopách predkov und nach den Trümmern der Befestigung",
+    "alt": "Das Eingangstor nach der Zeichnung in Po stopách predkov und nach den Trümmern der Befestigung"
+   },
+   {
+    "mediaId": 3433,
+    "caption": "Verbrannter Lehm",
+    "alt": "Verbrannter Lehm"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Hradište (älterer Name Ostré vŕšky) liegt am rechten Ufer des Baches Slatinský (Podhradský) potok oberhalb der Prvé mojtínske vráta, etwa 1,5 km von Belušské Slatiny in Richtung Mojtín. Das felsige Massiv ragt steil quer zur Richtung des Tales auf (West-Ost-Orientierung). Es bildet den Abschluss eines etwa dreihundert Meter langen schmalen Grates, dessen gegenüberliegendes Ende eine ähnliche Form hat (dort wurde später eine ausgedehnte Höhensiedlung der Púchov-Kultur festgestellt – siehe Dokumentation)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "DIE EIGENTLICHE HÖHENSIEDLUNG (Beilage Nr. 1 – Skizze der Fundstelle)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Blick auf die Höhensiedlung, Autor Vladimír Ruček",
+    "caption": "Blick auf die Höhensiedlung, Autor Vladimír Ruček",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Scheitel des Massivs befinden sich deutliche Überreste einer nierenförmigen Anlage mit Ausmaßen von etwa 60 × 25 m. Vom höchsten Punkt im westlichen Teil (Kote 518,8 m) neigt sich das Gelände leicht vom Grat zum Südhang. Am Rand bei der Befestigung befindet sich eine künstlich angelegte Terrasse von 2–3 m Breite. Unter ihr liegen mächtige Trümmer der ursprünglichen Befestigung. Nach den Resten bestand sie aus einem Stein-Lehm-Wall in Kastenkonstruktion, der mit Kalksteinen von 20–60 cm Durchmesser und mit Lehm verfüllt war. Nach einigen bearbeiteten Steinen konnte sich an der Außenseite des Walls eine Steinfront befinden. Stellenweise musste der Wall eine Höhe von 3–4 Metern und in der Krone eine Breite von etwa 1,5 m erreichen (nach dem Gelände und dem Volumen der Steine in den Trümmern). Die hölzerne Palisade auf der Wallkrone setzte sich entlang des Umfangs der Anlage fort, wo sie auf der Nordseite über dem steilen Hang des Hügels die einzige Befestigung bildete. Die Verteilung der Trümmer und die Geländekonfiguration deuten darauf hin, dass der Zugang zur Anlage von der Südseite über den Weg vom Hauptgrat des Massivs erfolgte. Über dem Eingang stand wahrscheinlich ein hölzernes Tor. Am Ostrand der Anlage lässt sich ein kleinerer Wachturm vermuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "FUNDE UND FUNDUMSTÄNDE "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den Walltrümmern am Westhang des Grates wurde ein kleiner Hortfund eiserner Gegenstände (12 Stück) rings um einen Baum gefunden, dessen Wurzeln die Gegenstände an die Oberfläche gedrückt hatten. Zusammen mit ihnen lagen zwei Scherben handgemachter dickwandiger Keramik mit Quarzsandanteil, braun gebrannt (1). Im Inneren der Anlage fanden sich an der Oberfläche weitere grauschwarze Scherben mit Quarzsandanteil und ein Stück Lehmbewurf (2). Unter den Walltrümmern fanden sich an der Außenseite zahlreiche von starker Hitze zersprungene Steine, einer davon mit einem Rest der hölzernen Wallkonstruktion (3). In den Steintrümmern in der Nähe des vermuteten Tores wurde ein Fragment eines steinernen Mühlsteins zum Mahlen von Getreide mit einer runden Öffnung von 4 cm Durchmesser gefunden (4). Im Inneren der Befestigung befindet sich eine dünne schwarze Kulturschicht. Am Südhang unter dem Wall herrscht in einer Breite von 2–3 m rötlich verbrannter Lehm als Rest eines gewaltigen Brandes vor (5)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Blick auf die Höhensiedlung aus einem anderen Winkel, Autor Vladimír Ruček",
+    "caption": "Blick auf die Höhensiedlung aus einem anderen Winkel, Autor Vladimír Ruček",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "WEITERE ERKENNTNISSE ÜBER DIE FUNDSTELLE UND IHRE UMGEBUNG"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Informanten Dr. S. Mika sind in der Umgebung von Beluša und Mojtín bislang keine Sagen oder Legenden über diese Fundstelle bekannt (abgesehen von der Tatsache, dass sich dort Trümmer einer alten Befestigung befinden). Auf der Militärkarte vom Beginn der fünfziger Jahre wie auch auf der Wanderkarte von 1985 wird die Fundstelle als Ostré vŕšky bezeichnet. Neuere Karten führen sie als Hradište. In den zugänglichen historischen, archäologischen und touristischen Quellen findet sich jedoch keine Erwähnung der Fundstelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "SCHLUSS"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Hradište war der Bevölkerung der umliegenden Siedlungen unstreitig seit langem bekannt, und sie hat wahrscheinlich auch eine Menge an Oberflächenfunden mitgenommen. Abgesehen von einer kleineren Vertiefung sind keine Spuren von Grabungen sichtbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Belušské Slatiny – Hradište",
+    "caption": "",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach den bislang nicht zahlreichen Funden (Keramikscherben, Eisengegenstände), dem Charakter der Befestigung sowie dem verbrannten Lehm und den Steinen in ihrer Umgebung lässt sich die Anlage mit nahezu Sicherheit als Fliehburg der Leute der Púchov-Kultur bezeichnen (Ende der Latènezeit und Beginn der römischen Kaiserzeit). Gemeinsam mit Dutzenden weiterer Burganlagen und kleiner Höhenburgen in der Nordwestslowakei fiel sie im ersten Jahrzehnt unserer Zeitrechnung in der Zeit des sogenannten Katastrophenhorizonts germanischen Stämmen zum Opfer. Die Anlage diente den Bewohnern einer oder mehrerer Siedlungen im Tal von Mojtín, die sich wahrscheinlich am Nordfuß des Hügels (die heutige Wochenendhaussiedlung) oder in Belušské Slatiny befanden. Spuren einer Besiedlung aus dieser Zeit wurden dort bislang jedoch nicht gefunden. Das Fehlen von Funden auf Hradište selbst erlaubt bislang keine Datierung der Anlage in andere Zeitabschnitte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei einer genaueren Untersuchung der Fundstelle und ihrer Umgebung wurde auf der gegenüberliegenden Seite des Grates (oberhalb des Steinbruchs) eine ausgedehnte Höhensiedlung der Púchov-Kultur festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

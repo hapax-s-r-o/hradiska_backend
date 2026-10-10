@@ -1,0 +1,394 @@
+{
+ "slug": "praveke-hradisko-na-sitne",
+ "data": {
+  "title": "Die urgeschichtliche Höhensiedlung auf dem Sitno – von Andrej Kmeť bis heute",
+  "slug": "sitno-urgeschichtliche-hoehensiedlung",
+  "excerpt": "Auf dem Gipfel des Sitno liegt mit etwa 16 Hektar der höchstgelegene befestigte Punkt der Lausitzer Kultur in der Slowakei: zwei Wall-Linien, eine Hauptburg mit metallurgischer Werkstatt und ein 1986 entdeckter Bronzehort. Erforscht hat die Fundstelle als erster Andrej Kmeť, nach ihm das Slowakische Bergbaumuseum in Banská Štiavnica und heute das Archäologische Institut der Slowakischen Akademie der Wissenschaften in Nitra.",
+  "metaTitle": "Die urgeschichtliche Höhensiedlung auf dem Sitno",
+  "metaDescription": "Die urgeschichtliche Höhensiedlung auf dem Sitno, zuerst von Andrej Kmeť erforscht; die Grabungen führen das Bergbaumuseum und das AÚ SAV fort.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Anlage",
+    "value": "etwa 16 Hektar, höchstgelegener befestigter Punkt der Lausitzer Kultur in der Slowakei",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "zwei Wall-Linien – ein äußerer Umfassungswall und ein Querwall, der die Anlage in einen unteren und einen oberen Teil gliedert",
+    "icon": "shield"
+   },
+   {
+    "label": "Bedeutendster Fund",
+    "value": "Bronzehort von 1986 (Gürtel, Armringe, Halsringe, Schläfenringe, Nadel)",
+    "icon": "star"
+   },
+   {
+    "label": "Erster Forscher",
+    "value": "Andrej Kmeť, Ende des 19. Jahrhunderts",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1000–700 v. Chr.",
+    "title": "Entstehung der Anlage des Volkes der Lausitzer Kultur",
+    "description": "Das Volk der Lausitzer Kultur errichtete in der späten Bronzezeit eine mächtige Wallbefestigung – den höchstgelegenen befestigten Punkt dieser Kultur in der Slowakei, möglicherweise auch in Mitteleuropa.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Jahrhundert v. Chr.",
+    "title": "Spuren der Slawen",
+    "description": "Es wurden Spuren der Slawen festgestellt – eine Drehmühle und einige Keramikscherben.",
+    "type": "discovery"
+   },
+   {
+    "year": "2. Jahrhundert n. Chr.",
+    "title": "Antike römische Münze",
+    "description": "Im Bereich der Hauptburg fand sich zusammen mit mittelalterlicher Keramik eine antike römische Münze aus dem 2. Jahrhundert unserer Zeitrechnung.",
+    "type": "discovery"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Umbau des Walles zu mittelalterlichen Mauern",
+    "description": "Der ursprüngliche Wall wurde im Mittelalter (wohl im 13. Jahrhundert) zu mächtigen Mauern umgebaut, die zusammen mit der mittelalterlichen Burg ein einheitliches befestigtes Ganzes bildeten.",
+    "type": "construction"
+   },
+   {
+    "year": "13.–16. Jahrhundert",
+    "title": "Mittelalterliche Besiedlung der Terrassen",
+    "description": "Die Siedlungsbefunde dieser Zeit lassen sich auf den Terrassen in Form von verschieden großen und verschieden tiefen, annähernd quadratischen Gruben verfolgen.",
+    "type": "era"
+   },
+   {
+    "year": "1986",
+    "title": "Entdeckung des Bronzehortes",
+    "description": "Dr. Pavel Žebrák vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften in Nitra entdeckte in einem Versteck unter dem Boden einer Hütte einen bedeutenden Bronzehort – einen verzierten Gürtel, Armringe, Halsringe, Schläfenringe, eine Nadel, Drahtringe und ein Zierstück in Form einer Sanduhr.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3369,
+    "caption": "Sitno auf der 1. militärischen Landesaufnahme",
+    "alt": "Sitno auf der 1. militärischen Landesaufnahme"
+   },
+   {
+    "mediaId": 3370,
+    "caption": "Amphore der Podolí-Kultur (V. Kóša)",
+    "alt": "Amphore der Podolí-Kultur (V. Kóša)"
+   },
+   {
+    "mediaId": 3371,
+    "alt": "Schale aus der Hallstattzeit vom Sitno (Balaša)"
+   },
+   {
+    "mediaId": 3372,
+    "caption": "Fragment einer Amphore der Kyjatice-Kultur (V. Kóša)",
+    "alt": "Fragment einer Amphore der Kyjatice-Kultur (V. Kóša)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Fundstelle Sitno erforschte als erster am Ende des vorigen Jahrhunderts Andrej Kmeť. An seine Arbeit knüpften später die Mitarbeiter des Slowakischen Bergbaumuseums in Banská Štiavnica (Schemnitz) an (Ján Truchlík, Zora Liptáková und Jozef Labuda). In den letzten Jahren führt hier im Zusammenhang mit einer umfangreicheren Bautätigkeit das Archäologische Institut der Slowakischen Akademie der Wissenschaften in Nitra (Neutra) in Zusammenarbeit mit dem Slowakischen Bergbaumuseum eine Rettungsgrabung durch. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "54c56affcad24ee5ad9ff2f1beb42be2",
+    "url": "https://sketchfab.com/models/54c56affcad24ee5ad9ff2f1beb42be2/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-sitno-narodna-kulturna-pamiatka-54c56affcad24ee5ad9ff2f1beb42be2?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradisko Sitno - národná kultúrna pamiatka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " von "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pamiatkový úrad SR"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sketchfab"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die urgeschichtliche Höhensiedlung nimmt den Gipfelbereich des Sitno ein; von Norden, Westen und Süden ist sie durch steile Andesitfelsen natürlich geschützt. Der einzige mögliche Zugang in den von der Natur befestigten Raum führt von Osten. Gerade deshalb errichtete das Volk der Lausitzer Kultur in der späten Bronzezeit eine mächtige Wallbefestigung. So entstand ein ideales Verteidigungssystem, das sich einerseits aus dem natürlichen Schutz der Felsabstürze, andererseits aus künstlichen Wällen zusammensetzte, die in zwei Linien verlaufen. Die erste bildet der äußere Umfassungswall, der von Süden und von Norden an die Felsen des Sitno anschließt; er hatte die Aufgabe, den ersten Ansturm der Angreifer aufzufangen. An der Ostseite ist er bis heute gut erhalten, von Süden verbindet er sich mit den Felsabstürzen und ist nur als kaum sichtbare Erhebung zu erkennen. Der ganze Wall wurde später im Mittelalter (wohl im 13. Jahrhundert) zu mächtigen Mauern umgebaut, die zusammen mit der mittelalterlichen Burg ein einheitliches befestigtes Ganzes bildeten. Die zweite Linie der Wallbefestigung bildet der Querwall, der die Höhensiedlung in einen unteren und einen oberen Teil gliedert (seine Reste sind bei der Talstation des Skilifts sichtbar). Dieser Wall wurde im Mittelalter nicht zu Verteidigungszwecken genutzt. Den Gipfel des Sitno können wir also in einem gewissen Sinne des Wortes als Hauptburg bezeichnen, in der sich auch eine reichliche Wasserquelle befand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Sitno auf der 1. militärischen Landesaufnahme",
+    "alt": "Sitno auf der 1. militärischen Landesaufnahme",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der gesamte Raum der Höhensiedlung hat eine Fläche von etwa 16 Hektar und ist der höchstgelegene befestigte Punkt des Volkes der Lausitzer Kultur in der späten Bronzezeit (1000 bis 700 Jahre vor unserer Zeitrechnung) in der Slowakei und wohl auch im Rahmen Mitteleuropas. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Ausgrabung der Hauptburg an der Stelle des Sendeturmbaus gelang es nicht, Kulturbefunde zu finden, sondern nur eine große Menge von Keramikfragmenten der Lausitzer Kultur, die deutliche Spuren von Einflüssen aus dem Gebiet der Kyjatice-Kultur (Süden der Mittelslowakei) und der Kultur der mitteldanubischen Urnenfelder (Süden der Westslowakei) tragen. Das Volk, das in der späten Bronzezeit auf dem Sitno siedelte, lebte also an der Grenze dieser drei großen Kulturen. Die Keramikscherben waren zu Konzentrationen zusammengefasst, woraus man auf nicht näher bestimmte Siedlungsbefunde schließen kann, wahrscheinlich saisonalen Charakters. Außer Keramik fanden sich hier tönerne Spinnwirtel, die beim Spinnen der Fäden verwendet wurden, steinerne Mahlsteine samt Getreidequetschern, Fragmente bronzenen Schmucks, zum Beispiel Halsringe und Nadeln, sowie eine große Menge steinerner und tönerner Rädchen, wahrscheinlich kultischen Charakters. Die Bronzegegenstände bestätigen zusammen mit dem früher gefundenen Teil einer steinernen Gussform zum Gießen bronzener Meißelchen die Vermutung, dass in diesem Teil des Sitno eine metallurgische Werkstatt bestand. Bei diesen Gegenständen aus der späten Bronzezeit fanden sich im Bereich der Hauptburg mittelalterliche Keramik und eine antike Münze aus dem 2. Jahrhundert unserer Zeitrechnung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Amphore der Podolí-Kultur (V. Kóša)",
+    "alt": "Amphore der Podolí-Kultur (V. Kóša)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Raum zwischen der Hauptburg und dem Querwall (oberer Teil der Höhensiedlung) ist an einigen Stellen zwar terrassenförmig hergerichtet, trägt aber nur minimale Zeichen einer Besiedlung. Bislang lässt sich nicht genau bestimmen, wozu dieser Raum diente.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Raum zwischen dem Quer- und dem Umfassungswall (unterer Teil der Höhensiedlung) war in der Urgeschichte wie auch im Mittelalter dicht besiedelt. Die Siedlungsbefunde konzentrieren sich in der Nähe beider Wälle, wobei die mittelalterlichen an die terrassenförmige Herrichtung des Geländes anschließen. Die größte Konzentration der Besiedlung befindet sich jedoch in der Nähe des Umfassungswalles. Hier kam in einer komplizierten Stratigrafie der Bodenschichten, die zusätzlich durch die Abschwemmung von Erde aus höher gelegenen Stellen erschwert ist, eine unzählige Menge von Keramikscherben der späten Bronzezeit zum Vorschein, die denen aus der Hauptburg entsprechen, ferner Dutzende steinerne Mahlsteine und Getreidequetscher, tönerne Spinnwirtel und Webgewichte, steinerne und tönerne Rädchen, Fragmente bronzener Halsringe, bronzener Gefäße (an jenen Stellen, wo Kmeť einst ein ganzes Gefäß gefunden hatte), unbestimmbare Bronzeblechstücke und eine bronzene Pfeilspitze. Es gelang auch, einen Siedlungsbefund aus dieser Zeit mit einer Feuerstelle zu finden, in dessen unmittelbarer Nähe ein steinerner Mahlstein, ein Getreidequetscher, ein Spinnwirtel und ein Fragment eines Webgewichts lagen, samt Keramik, die davon zeugt, dass der ganze Fundkomplex aus der späten Bronzezeit stammt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Schale aus der Hallstattzeit vom Sitno (Balaša)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1986 führte an der Fundstelle Dr. Pavel Žebrák vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften in Nitra eine archäologische Ausgrabung durch. In einem Versteck unter dem Boden einer Hütte gelang es ihm, einen bedeutenden Fund eines Bronzehortes zu entdecken, bestehend aus einem verzierten Gürtel, Armringen, Halsringen, Schläfenringen, einer Nadel, Drahtringen und einem Zierstück in Form einer Sanduhr. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Angesichts der geringen Größe der Gegenstände können wir annehmen, dass der Fund als Schmuck einem jungen Mädchen gehörte, das ein Mitglied der Familie des Stammesführers vom Sitno gewesen sein könnte. Der Hort aus der Bronzezeit ist in der archäologischen Ausstellung des Alten Schlosses zu sehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die mittelalterliche Besiedlung hängt mit der terrassenförmigen Herrichtung des Geländes zusammen. Die Siedlungsbefunde dieser Zeit (etwa 13. bis 16. Jahrhundert) lassen sich auf den Terrassen in Form von verschieden großen und verschieden tiefen, annähernd quadratischen Gruben verfolgen. In ihrer Umgebung findet sich genügend mittelalterliche Keramik, Baueisen (Nägel, Krampen und Ähnliches), eiserne Hufeisen, Schlüssel, Stangenschlösser sowie Messer, mit falschem Damast verziert. In der Nähe des Tores, das an dieser Stelle von der Urgeschichte bis heute seine Funktion erfüllt, fand sich eine große Menge Eisenschlacke, was von einer mittelalterlichen metallurgischen Tätigkeit an dieser Fundstelle zeugt. Unklar ist bislang der Zusammenhang zwischen der mittelalterlichen Besiedlung und der Burg. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fragment einer Amphore der Kyjatice-Kultur (V. Kóša)",
+    "alt": "Fragment einer Amphore der Kyjatice-Kultur (V. Kóša)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der Besiedlung in der späten Bronzezeit und im Hochmittelalter wurden auch Spuren der Slawen festgestellt (eine Drehmühle und einige Keramikscherben aus dem 2. Jahrhundert vor unserer Zeitrechnung). Aus dem 2. Jahrhundert unserer Zeitrechnung stammt die bereits erwähnte römische Münze. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen sehr guten Artikel über das Sitno finden Sie auch unter "
+       },
+       {
+        "type": "link",
+        "url": "https://lumyd.eu/article/praveke-hradisko-na-pekelnom-vrchu-zahada-prazdnej-akropoly-na-sitne/53",
+        "children": [
+         {
+          "type": "text",
+          "text": "DIESEM LINK"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Literatur"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ondrej Ožďáni – Pavel Žebrák: Depot bronzových predmetov z hradiska lužickej kultúry na Sitne, Slovenská archeológia LXV – 2, 2017, 237 – 277"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

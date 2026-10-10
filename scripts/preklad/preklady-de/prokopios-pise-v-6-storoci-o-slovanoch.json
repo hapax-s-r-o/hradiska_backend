@@ -1,0 +1,123 @@
+{
+ "slug": "prokopios-pise-v-6-storoci-o-slovanoch",
+ "data": {
+  "title": "Prokopios von Kaisareia schreibt im 6. Jahrhundert über die Slawen",
+  "slug": "prokopios-von-kaisareia-ueber-die-slawen",
+  "excerpt": "Fünfzehn Jahre lang war Prokopios von Kaisareia Berater im Stab des Feldherrn Belisar und kam auf den Kriegszügen in unmittelbaren Kontakt mit den Slawen. Als einer der ersten antiken Autoren hinterließ er eine ausführlichere Beschreibung: Slawen und Anten sind keinem einzigen Mann untertan, sondern leben von alters her in Demokratie, verehren einen Gott als Schöpfer des Donners und wohnen weit voneinander entfernt in elenden Hütten, aus denen sie unablässig weiterziehen.",
+  "metaTitle": "Prokopios von Kaisareia über die Slawen im 6. Jahrhundert",
+  "metaDescription": "Was der byzantinische Historiker Prokopios von Kaisareia, Chronist der Kriege Kaiser Justinians I., im 6. Jahrhundert über die alten Slawen schrieb.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Prokopios von Kaisareia (um 500 – 565)",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Hyper tón polemón logoi (Buch über die Kriege), Buch III, Kap. 14",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung",
+    "value": "Beschriebene Ereignisse aus den Jahren 530–545",
+    "icon": "calendar"
+   },
+   {
+    "label": "Thema",
+    "value": "Die älteste ausführlichere Beschreibung der Slawen und Anten durch einen antiken Autor",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "500",
+    "title": "Geburt des Prokopios",
+    "description": "Prokopios wurde um das Jahr 500 in der Hafenstadt Kaisareia geboren.",
+    "type": "event"
+   },
+   {
+    "year": "530–545",
+    "title": "Kontakt mit den Slawen",
+    "description": "Als Berater des Feldherrn Belisar kam Prokopios auf den Kriegszügen in unmittelbaren Kontakt mit den Slawen.",
+    "type": "event"
+   },
+   {
+    "year": "565",
+    "title": "Tod des Prokopios",
+    "description": "Prokopios starb wahrscheinlich um das Jahr 565, nachdem er die Geschichte der Regierungszeit Kaiser Justinians niedergeschrieben hatte.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4159,
+    "caption": "T. Humaj: Der Überfall",
+    "alt": "T. Humaj: Der Überfall"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Prokopios (um 500 – um 565) war ein bedeutender byzantinischer Historiker und Gelehrter, bekannt vor allem durch sein Werk über die byzantinisch-persischen, byzantinisch-vandalischen und byzantinisch-ostgotischen Kriege zur Regierungszeit Kaiser Justinians I. Er wurde um das Jahr 500 in der reichen Hafenstadt Kaisareia (Caesarea) geboren. Er war Palästinenser, und in seiner Stadt hatte die Verwaltung der ganzen Provinz ihren Sitz. Seine Muttersprache war das Griechische, und er beherrschte auch das Lateinische. Darüber hinaus konnte er Syrisch, sprach gut Persisch und verstand auch Gotisch. Er wurde in der berühmten Rhetorikschule in Gaza ausgebildet und erweiterte seine Bildung später um die Rechtswissenschaften. Seinen Horizont erweiterte vor allem seine Tätigkeit. Ganze fünfzehn Jahre war er Berater im Stab des berühmten byzantinischen Feldherrn Belisar. In dieser Stellung nahm er an mehreren Kriegszügen teil, auf denen er in unmittelbaren Kontakt mit den Slawen kam. Danach kehrte er nach Konstantinopel zurück, überlebte die große Pest und begann, die Geschichte der Regierungszeit Kaiser Justinians niederzuschreiben. Er lebte und arbeitete in einem Umfeld, in dem alle wichtigen Nachrichten aus dem damaligen Imperium zusammenliefen. Deshalb sind seine Angaben sehr zuverlässig. Prokopios war zudem ein gewissenhafter Historiker. Er machte sich viele Notizen, und wenn ihm amtliche Urkunden in die Hände kamen, fertigte er Abschriften und Auszüge an. Gerade bei ihm begegnen wir unter den ersten antiken Autoren einer ausführlicheren Beschreibung der Slawen im 6. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lesen wir also einen Auszug aus seinem Werk, in dem er das Leben der Slawen kurz beschrieb (Hyper tón polemón logoi, also das Buch über die Kriege, Buch III, Kapitel 14 (Jahre 530–545)):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "T. Humaj: Der Überfall",
+    "alt": "T. Humaj: Der Überfall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Kaum hatte sich diese Nachricht verbreitet, versammelten sich fast alle Anten, denn sie meinten, es sei eine Sache der ganzen Gemeinschaft. Sie glaubten, großen Nutzen davon zu haben, dass sie sich Chilbudios, des Befehlshabers des römischen Heeres, bemächtigt hatten. Diese Stämme, nämlich die Slawen und die Anten, sind nicht einem einzigen Mann untertan, sondern leben von alters her in Demokratie, und deshalb beraten sie über ihre Angelegenheiten, die günstigen wie die ungünstigen, gemeinsam. Ebenso haben diese barbarischen Stämme auch alle übrigen Sitten schon seit langem ähnlich. Sie glauben, dass es einen einzigen Gott gibt, den Schöpfer des Donners und den einzigen Herrn aller Dinge, und sie opfern ihm Rinder und andere Tiere jeder Art. Sie wissen nicht, was ein unerbittliches Schicksal ist, und schreiben ihm letztlich auch keinen Einfluss auf die Menschen zu. Wenn sich dann ihr Tod naht – mögen sie nun erkranken oder in den Krieg ziehen –, versprechen sie Gott, ihm ein Dankopfer zu bringen, falls sie nicht umkommen; und wenn sie davonkommen, opfern sie ihm, was sie versprochen haben, und stellen sich vor, sie hätten ihr Leben um den Preis dieses Opfers erkauft.\nSie verehren auch die Flüsse, die Wassernymphen und weitere Gottheiten, opfern ihnen allen und erkennen bei den Opfern Weissagungen. Sie wohnen in elenden Hütten, weit voneinander entfernt, und ziehen unablässig von Ort zu Ort. Wenn sie in den Kampf ziehen, gehen sie meist zu Fuß gegen die Feinde; in den Händen tragen sie kleine Schilde und Lanzen, einen Panzer aber tragen sie nicht. Manche haben weder Hemd noch Mantel, sondern ziehen nur Hosen bis zur Taille an und begeben sich so in den Kampf gegen die Feinde. Beide Stämme haben eine einzige Sprache, und zwar eine völlig barbarische. Auch dem Äußeren nach unterscheiden sie sich in nichts voneinander. Alle haben einen hohen und kräftigen Wuchs. Die Hautfarbe ist nicht sehr weiß, die Haarfarbe nicht sehr hell und geht auch nicht völlig ins Schwarze über, sondern alle sind bräunlich. Sie führen ein raues und primitives Leben, ebenso wie die Massageten, und sind wie diese stets voller Schmutz. Sie sind jedoch nicht böswillig und hinterlistig und bewahren in ihrer Einfachheit die hunnische Lebensweise. Sogar die Benennung der Slawen und der Anten war in der Vergangenheit dieselbe. Beide nannten sich tatsächlich Sporoi, vielleicht deshalb, weil sie verstreut in Zelten wohnen – sporadisch. Deshalb haben sie auch viel Land, denn der größte Teil des Ufers auf der anderen Seite der Donau ist besiedelt.",
+    "author": "Prokopios",
+    "source": "Hyper tón polemón logoi (Buch über die Kriege), Buch III, Kap. 14 (6. Jahrhundert)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dvořák, Pavel: Pramene k dejinám Slovenska a Slovákov II. – Slovensko očami cudzincov, 1999\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

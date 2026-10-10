@@ -1,0 +1,516 @@
+{
+ "slug": "trencianske-teplice-certova-skala",
+ "data": {
+  "title": "Trenčianske Teplice – Čertova skala, eine Burganlage am Weg nach Mähren",
+  "slug": "trencianske-teplice-certova-skala-burganlage",
+  "excerpt": "Auf einem felsigen Berg über Trenčianske Teplice, an der Grenze zwischen der keltischen Besiedlung und der kelto-lausitzischen Púchov-Kultur, errichteten die Kelten eine kleine, nur 0,18 ha große befestigte Höhensiedlung an dem wichtigen Weg über die Weißen Karpaten nach Mähren. Nach den Kelten nutzten sie die germanischen Sueben als Fliehburg, im 9.–11. Jahrhundert dann die Slawen als Wachburgwall mit Handwerkerwerkstätten. In der Umgebung liegt ein bedeutender keltischer Opferplatz.",
+  "metaTitle": "Čertova skala bei Trenčianske Teplice – Kelten und Slawen",
+  "metaDescription": "Die Burganlage Čertova skala über Trenčianske Teplice am wichtigen Weg über die Weißen Karpaten nach Mähren, besiedelt schon in der Latènezeit.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Anlage",
+    "value": "75 × 25 Meter, etwa 0,18 ha – die Anlage gehört flächenmäßig zu den kleinen Befestigungen.",
+    "icon": "map"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "Der Sage nach stampfte der Teufel ein Loch in den Gipfelfelsen, um darin seinen Schatz zu verbergen, und ließ dort seine Spur zurück.",
+    "icon": "book"
+   },
+   {
+    "label": "Aussicht vom Gipfel",
+    "value": "An klaren Tagen hat man von der Čertova skala eine herrliche Aussicht auf das Strážov-Gebirge, die Weißen Karpaten und die umliegenden Dörfer.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Schmiede- bzw. Schmuckwerkstatt",
+    "value": "Auf der Anlage wurden Belege für eine Werkstatt entdeckt, darunter Halbfabrikate, eine unfertige Fibel und Werkzeuge wie Bohrer, Stechbeitel und Meißel.",
+    "icon": "building"
+   },
+   {
+    "label": "Keltischer Opferplatz",
+    "value": "In der Umgebung der Anlage wurde ein bedeutender keltischer Kultplatz mit einer Menge verbrannter Metallgegenstände, Glas, Knochen und Keramik entdeckt.",
+    "icon": "star"
+   },
+   {
+    "label": "Sporen aus Pobedim",
+    "value": "Die drei gefundenen Sporen gehören zu einem Typ, wie er auf dem Burgwall in Pobedim hergestellt wurde; datiert in das erste Drittel des 9. Jahrhunderts.",
+    "icon": "shield"
+   },
+   {
+    "label": "Axtförmige Eisenbarren",
+    "value": "Unter den Funden aus der Zeit des Fürstentums Neutra und Großmährens sind auch axtförmige Eisenbarren – ein slawisches Zahlungsmittel der Zeit.",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Bronzezeit",
+    "title": "Erste Besiedlung des Tals der Teplička",
+    "description": "Im Tal des Flusses Teplička wurde eine Besiedlung schon aus der Bronzezeit entdeckt, und zwar an der Fundstelle Čvirigovec.",
+    "type": "era"
+   },
+   {
+    "year": "etwa 300 v. Chr. – 180 n. Chr.",
+    "title": "Púchov-Kultur",
+    "description": "Zeitspanne der archäologischen Púchov-Kultur, die sich im 1. Jahrhundert v. Chr. in der nördlichen, mittleren und westlichen Slowakei, in Nordostmähren und in Kleinpolen erstreckte.",
+    "type": "era"
+   },
+   {
+    "year": "jüngere Eisenzeit (Latènezeit)",
+    "title": "Die Kelten errichten die Anlage Čertova skala",
+    "description": "An der Grenze zwischen der keltischen Besiedlung und der kelto-lausitzischen Púchov-Kultur errichteten die Kelten an der Fundstelle Čertova skala eine bedeutende befestigte Höhensiedlung.",
+    "type": "founding"
+   },
+   {
+    "year": "etwa 5.–6. Jahrhundert",
+    "title": "Germanische (suebische) Besiedlung",
+    "description": "Nach dem Ende der keltischen Besiedlung wohnten an der Fundstelle zeitweilig Germanen – die Anlage war in der Völkerwanderungszeit kurze Zeit als Fliehburg von den germanischen Sueben besiedelt.",
+    "type": "event"
+   },
+   {
+    "year": "9.–11. Jahrhundert",
+    "title": "Slawischer Wachburgwall",
+    "description": "Die Slawen, die sich im Tal der Teplička niederließen, nutzten die verlassene keltische Anlage und errichteten hier einen bedeutenden Wachburgwall, der offenbar auch von Handwerkern bewohnt war.",
+    "type": "construction"
+   },
+   {
+    "year": "erstes Drittel des 9. Jahrhunderts",
+    "title": "Spornfunde aus der Zeit des Fürstentums Neutra",
+    "description": "Auf der Anlage wurden drei Sporen desselben Typs gefunden, wie er auf dem Burgwall in Pobedim hergestellt wurde; sie werden eindeutig in das erste Drittel des 9. Jahrhunderts eingeordnet.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6414,
+    "alt": "Freigelegter Steinkern des Walls unter Moos im Buchenwald"
+   },
+   {
+    "mediaId": 2295,
+    "alt": "Höhenlinienplan der Anlage bei Trenčianske Teplice mit Querschnitten"
+   },
+   {
+    "mediaId": 2296,
+    "caption": "Unsere künstlerische Visualisierung der Anlage in der keltischen Zeit (Púchov-Kultur, Latènezeit)",
+    "alt": "Unsere künstlerische Visualisierung der Anlage in der keltischen Zeit (Púchov-Kultur, Latènezeit)"
+   },
+   {
+    "mediaId": 2297,
+    "caption": "Funde überwiegend aus der jüngeren Eisenzeit (Púchov-Kultur)",
+    "alt": "Funde überwiegend aus der jüngeren Eisenzeit (Púchov-Kultur)"
+   },
+   {
+    "mediaId": 2298,
+    "caption": "Fibeln, die auf dem Opferplatz gefunden wurden",
+    "alt": "Fibeln, die auf dem Opferplatz gefunden wurden"
+   },
+   {
+    "mediaId": 2299,
+    "caption": "Großmährische Funde und eine Fibel aus der Völkerwanderungszeit",
+    "alt": "Großmährische Funde und eine Fibel aus der Völkerwanderungszeit"
+   },
+   {
+    "mediaId": 2300,
+    "caption": "Blicke auf die Čertova skala von Nordosten",
+    "alt": "Blicke auf die Čertova skala von Nordosten"
+   },
+   {
+    "mediaId": 2301,
+    "caption": "Im südlichen (zugänglichen) Teil der Anlage errichteten die Träger der Púchov-Kultur einen mächtigen Wall",
+    "alt": "Im südlichen (zugänglichen) Teil der Anlage errichteten die Träger der Púchov-Kultur einen mächtigen Wall"
+   },
+   {
+    "mediaId": 2302,
+    "caption": "Mehrere Blicke auf den südlichen Wall",
+    "alt": "Mehrere Blicke auf den südlichen Wall"
+   },
+   {
+    "mediaId": 2303,
+    "alt": "Wall der Anlage im blattlosen Buchenwald"
+   },
+   {
+    "mediaId": 2304,
+    "alt": "Von Laub bedecktes Plateau der Anlage zwischen Buchen"
+   },
+   {
+    "mediaId": 2305,
+    "alt": "Wallkörper im blattlosen Wald im Frühling"
+   },
+   {
+    "mediaId": 2306,
+    "alt": "Wall der Anlage mit steilem, von Laub bedecktem Hang"
+   },
+   {
+    "mediaId": 2307,
+    "alt": "Steiler Hang der Anlage mit Buchenbestand"
+   },
+   {
+    "mediaId": 2308,
+    "caption": "Blick in Richtung Hauptburg – die höchste Stelle der Anlage",
+    "alt": "Blick in Richtung Hauptburg – die höchste Stelle der Anlage"
+   },
+   {
+    "mediaId": 2309,
+    "caption": "Schwächer befestigt war auch der südwestliche Teil der Anlage. Die übrigen Teile hatten wahrscheinlich nur eine hölzerne Palisade",
+    "alt": "Schwächer befestigt war auch der südwestliche Teil der Anlage. Die übrigen Teile hatten wahrscheinlich nur eine hölzerne Palisade"
+   },
+   {
+    "mediaId": 2310,
+    "caption": "Ein Graben mit Wall trennt die Vorburg von der Hauptburg, etwa in der Mitte der Anlage ist der Graben jedoch von einer Art „Aufschüttung“ unterbrochen",
+    "alt": "Ein Graben mit Wall trennt die Vorburg von der Hauptburg, etwa in der Mitte der Anlage ist der Graben jedoch von einer Art „Aufschüttung“ unterbrochen"
+   },
+   {
+    "mediaId": 2311,
+    "caption": "Schöne Aussicht in Richtung Dubnica",
+    "alt": "Schöne Aussicht in Richtung Dubnica"
+   },
+   {
+    "mediaId": 2312,
+    "caption": "Čvirigovec, ein Berg in der Nähe der Čertova skala – er war in der Bronzezeit bewohnt",
+    "alt": "Čvirigovec, ein Berg in der Nähe der Čertova skala – er war in der Bronzezeit bewohnt"
+   },
+   {
+    "mediaId": 2313,
+    "caption": "An mehreren Stellen ausgehobene Schnitte",
+    "alt": "An mehreren Stellen ausgehobene Schnitte"
+   },
+   {
+    "mediaId": 2314,
+    "caption": "Von Norden und Osten war die Anlage wegen der steilen Felsen unzugänglich",
+    "alt": "Von Norden und Osten war die Anlage wegen der steilen Felsen unzugänglich"
+   },
+   {
+    "mediaId": 2315,
+    "alt": "Steinschutt des Walls im blattlosen Wald"
+   },
+   {
+    "mediaId": 2316,
+    "caption": "Blick auf den inneren Graben. Im Hintergrund ist seine Unterbrechung zu sehen, hinter der der Graben am nordwestlichen Rand der Anlage wieder weiterläuft",
+    "alt": "Blick auf den inneren Graben. Im Hintergrund ist seine Unterbrechung zu sehen, hinter der der Graben am nordwestlichen Rand der Anlage wieder weiterläuft"
+   },
+   {
+    "mediaId": 2317,
+    "alt": "Graben der Anlage im Buchenwald"
+   },
+   {
+    "mediaId": 2318,
+    "alt": "Steinige Oberfläche des Walls zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2319,
+    "alt": "Hang der Anlage mit freigelegtem Steinschutt"
+   },
+   {
+    "mediaId": 2320,
+    "caption": "Offenbar freigelegte Konstruktion (Profil) des inneren Walls",
+    "alt": "Offenbar freigelegte Konstruktion (Profil) des inneren Walls"
+   },
+   {
+    "mediaId": 2321,
+    "caption": "Nochmals der innere Graben",
+    "alt": "Nochmals der innere Graben"
+   },
+   {
+    "mediaId": 2322,
+    "caption": "Auf der Aufnahme ist die Höhe des äußeren Walls zu sehen",
+    "alt": "Auf der Aufnahme ist die Höhe des äußeren Walls zu sehen"
+   },
+   {
+    "mediaId": 2323,
+    "caption": "Blick auf die steilen Abstürze der Čertova skala",
+    "alt": "Blick auf die steilen Abstürze der Čertova skala"
+   },
+   {
+    "mediaId": 2324,
+    "alt": "Von Laub bedeckter Steinhaufen aus dem Wall"
+   },
+   {
+    "mediaId": 2325,
+    "caption": "Die Anlage von Süden",
+    "alt": "Die Anlage von Süden"
+   },
+   {
+    "mediaId": 2326,
+    "alt": "Lichter Buchenwald auf dem Plateau der Anlage"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet um Trenčín (Trentschin) spielte in der Geschichte der Slowakei eine besondere Rolle, die vor allem durch seine geographischen Gegebenheiten bedingt ist. Es liegt nämlich an der Grenze zwischen den gebirgigen und den flachen Gebieten des Karpatenbogens, wo in der Geschichte die ältesten menschlichen Kulturen entstanden und sich entwickelten. Verbunden ist dieses Gebiet vor allem mit dem Weg, der über die Weißen Karpaten in Richtung Mähren und auf das Gebiet Böhmens führt. In der jüngeren Eisenzeit – das heißt in der Latènezeit – verlief gerade in diesem Gebiet die Grenze zwischen der keltischen Besiedlung der Slowakei und der gemischten kelto-lausitzischen Púchov-Kultur. An der Grenze dieser beiden ähnlichen Kulturen errichteten die Kelten eine bedeutende befestigte Höhensiedlung, die sich heute in der Gemarkung von Trenčianske Teplice an einer Fundstelle mit dem bezeichnenden Namen Čertova skala (Teufelsfelsen) befindet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Čertova skala ist ein felsiger Berg über der Erholungsanlage Oliwa. Sie liegt in der Nähe von Trenčianske Teplice. An klaren Tagen hat man von hier eine herrliche Aussicht auf das Strážov-Gebirge, die Weißen Karpaten und die umliegenden Dörfer. Von diesem Kurort gelangen Sie hierher auf der gelben Wandermarkierung, möglich ist der Zugang auch von Oliwa aus. Sie überqueren den Bach, der rechts von Oliwa fließt, und erreichen einen Waldweg, der unmittelbar unter der Burganlage vorbeiführt. Es gibt mehrere Möglichkeiten, auf den Gipfel zu kommen: Die Mutigeren und vor allem die Geübteren schaffen es im Aufstieg über die Felsen, die Bequemeren finden sicher einen einfachen Pfad auf den Gipfel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihren Namen hat die Čertova skala nach dem Loch im Felsen auf der höchsten Stelle dieses Bergleins: Angeblich stampfte hier der Teufel in den Felsen, um seinen Schatz zu verbergen, und seine Spur blieb im Felsen zurück. \n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan des Burgwalls Čertova skala",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Tal des Flusses Teplička wurde eine Besiedlung schon aus der Bronzezeit entdeckt, und zwar an der Fundstelle Čvirigovec. In der jüngeren Eisenzeit besiedelten, wie bereits angedeutet, die Kelten (Kelto-Lausitzer) das Gebiet und errichteten hier die erwähnte Anlage Čertova skala. Nach dem Ende der keltischen Besiedlung wohnten an der Fundstelle zeitweilig Germanen zur Zeit der Völkerwanderung (etwa 5.–6. Jahrhundert). In der Folge siedelten slawische Stämme in das Gebiet der Slowakei um, die allmählich nicht nur die fruchtbaren flachen Gebiete besiedelten, sondern auch die gebirgigen Teile des Gebietes der heutigen Slowakei nicht mieden. Die Slawen, die sich im Tal der Teplička niederließen, nutzten die verlassene keltische Anlage und besiedelten diesen Ort erneut, wobei sie hier im 9.–11. Jahrhundert einen bedeutenden Wachburgwall errichteten, der offenbar auch von Handwerkern bewohnt war (etwa Reste einer Schmiedewerkstatt). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere künstlerische Visualisierung der Anlage in der keltischen Zeit (Púchov-Kultur, Latènezeit)",
+    "alt": "Unsere künstlerische Visualisierung der Anlage in der keltischen Zeit (Púchov-Kultur, Latènezeit)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anlage gehört flächenmäßig zu den kleinen Befestigungen – sie hat die Ausmaße 75 × 25 Meter und nimmt eine Fläche von etwa 0,18 ha ein. Auf der Südseite finden wir eine recht gut erhaltene und sichtbare Wallbefestigung. Reste der Befestigung lassen sich auch an mehreren weiteren Stellen finden, vor allem in den leichter zugänglichen Teilen der Anlage, wo die natürlichen Gegebenheiten allein keine ausreichenden Bedingungen für die Verteidigung boten. Ein Wall mit Graben teilt auch die Innenfläche der Anlage in Hauptburg und Vorburg. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Besiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die dichteste Besiedlung der Čertova skala ist in der Zeit des Mittel- und Spätlatène (jüngere Eisenzeit – Kelten, "
+       },
+       {
+        "type": "text",
+        "text": "Púchov-Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ") zu erkennen, die auf der Anlage die größte Zahl verschiedener Gegenstände hinterlassen hat. Die Púchov-Kultur oder Púchov-Gruppe war eine archäologische Kultur von etwa 300 v. Chr. bis 180 n. Chr. (nach seltenen Ansichten sogar bis in das 4. Jahrhundert n. Chr.), die sich im 1. Jahrhundert v. Chr. in der nördlichen, mittleren und westlichen Slowakei, in Nordostmähren und in Kleinpolen erstreckte, nach der Wende der Zeitrechnung nur noch in der mittleren (überwiegend nördlichen) Slowakei und in der Umgebung von Krakau. Die Púchov-Kultur im engeren Sinne beginnt in der Mitte des 2. Jahrhunderts v. Chr. Zu den interessantesten Funden aus dieser Zeit gehören bronzene Broschen, Teile einer Halskette, verschiedene typische eiserne Fibeln (etwa vom Typ Neuheim), Gürtelschließen, eiserne spiralförmige Anhänger, ein Fingerring, das Fragment einer Sense und einer Sichel sowie metallene Pflugteile, die auch von anderen spätlatènezeitlichen Anlagen bekannt sind. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Funde überwiegend aus der jüngeren Eisenzeit (Púchov-Kultur)",
+    "alt": "Funde überwiegend aus der jüngeren Eisenzeit (Púchov-Kultur)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nachdem die Träger der Púchov-Kultur die Anlage verlassen hatten, war sie in der Völkerwanderungszeit kurze Zeit als Fliehburg von den "
+       },
+       {
+        "type": "text",
+        "text": "germanischen Sueben",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " besiedelt. Davon zeugt etwa eine gefundene Fibel, die diesem germanischen Stamm zugeschrieben wird. In diese Zeit ordnen wir auch mehrere gefundene Ohrringe und Fingerringe ein. Auch die Čertova skala ist ein Belegstück für bereits älter vorgetragene Theorien, nach denen die Sueben in einem bestimmten Zeitabschnitt gezwungen waren, verschiedene älter befestigte Lagen als Zufluchtsorte zu nutzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Abzug der Germanen aus dem Gebiet der heutigen Slowakei lässt sich auf der Anlage eine slawische Besiedlung erkennen, die in die Zeit des Fürstentums Neutra und Großmährens fällt; der Burgwall mit slawischer Besiedlung bestand aber auch noch viele Jahrzehnte nach dem Untergang Großmährens weiter (10.–11. Jahrhundert). Den Schwerpunkt der Besiedlung im Frühmittelalter setzen wir jedoch in das 9. Jahrhundert, in die Zeit des Fürstentums Neutra und anschließend Großmährens, worauf eine Vielzahl gefundener, für diese Zeit typischer Gegenstände hinweist, zum Beispiel axtförmige Eisenbarren (ein slawisches Zahlungsmittel), ein Teil eines Halfters, drei Riemenzungen von Gürteln und drei Sporen. Dieser Spornentyp wurde auf dem Burgwall in Pobedim hergestellt, und wir ordnen ihn eindeutig in das erste Drittel des 9. Jahrhunderts ein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fibeln, die auf dem Opferplatz gefunden wurden",
+    "alt": "Fibeln, die auf dem Opferplatz gefunden wurden",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Großmährische Funde und eine Fibel aus der Völkerwanderungszeit",
+    "alt": "Großmährische Funde und eine Fibel aus der Völkerwanderungszeit",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Anlage wurden auch Belege für eine Schmiede- bzw. Schmuckwerkstatt entdeckt. Erhalten haben sich sogar einige Halbfabrikate und ein unfertiges Erzeugnis – eine Fibel. Von den Werkzeugen, die bei der Herstellung offenbar verwendet wurden, fanden sich vor allem ein Bohrer (Löffelbohrer), ein Stechbeitel und ein Meißel. Wegen der Beschädigung der Fundstelle durch Sondengänger ließ sich jedoch nicht eindeutig feststellen, ob die Werkstätten aus der Eisenzeit stammen oder ob es Werkstätten unserer Vorfahren, der Slawen, waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der keltische Opferplatz „Nad Družstevnou tehelňou – Seravy“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Umgebung der Anlage, an der Fundstelle „Nad starou tehelňou“ – in einer Höhenlage –, wurde ein bedeutender keltischer Kultplatz entdeckt: ein Opferplatz, auf dem Laiensucher und später auch Archäologen eine große Menge an Metallgegenständen fanden – vor allem Fibeln und anderen Schmuck, Glasgefäße sowie Knochen und weitere Funde, vor allem verschiedene Keramik. Alle diese Gegenstände trugen deutliche Spuren eines starken Feuers, in das sie im Zuge von Reinigungsritualen hineingeworfen worden waren. Es ist nahezu sicher, dass der Kultplatz gerade den Bewohnern der Anlage Čertova skala und der angrenzenden keltischen Besiedlung diente. Ein ähnlicher Opferplatz wurde in den 1980er Jahren in Prosné entdeckt. \n \n Orgoň \n \n Fotos vom 15. 4. 2012\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

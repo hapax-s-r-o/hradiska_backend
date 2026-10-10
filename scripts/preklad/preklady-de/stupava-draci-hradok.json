@@ -1,0 +1,306 @@
+{
+ "slug": "stupava-draci-hradok",
+ "data": {
+  "title": "Stupava – Dračí hrádok, eine mittelalterliche kleine Burg über einem slawischen Burgwall",
+  "slug": "stupava-draci-hradok-mittelalterliche-burg",
+  "excerpt": "Tief im Südwesten der Kleinen Karpaten liegt auf einem Ausläufer des Berges Úboč die Ruine einer mittelalterlichen kleinen Burg, auf Karten als Dračí hrádok bezeichnet. Sie entstand in der zweiten Hälfte des 13. Jahrhunderts auf einem älteren slawischen Burgwall, dessen Holz-Erde-Mauer mit Graben den Zugang über den Sattel bis heute durchschneidet. Der Turm mit 10 × 10 m Außenmaß überdauerte den Brand, dem die hölzerne Bebauung zum Opfer fiel; die Aufgabe der Burg übernahm später Pajštún.",
+  "metaTitle": "Stupava – Dračí hrádok über einem slawischen Burgwall",
+  "metaDescription": "Ruine einer mittelalterlichen kleinen Burg mit Turm (10 × 10 m) aus dem 13. Jahrhundert auf dem Ausläufer Úboč, erbaut auf einem vorgroßmährischen Burgwall.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Ausläufer des Berges Úboč, Gemarkung Stupava (Kleine Karpaten)",
+    "icon": "star"
+   },
+   {
+    "label": "Turm",
+    "value": "rechteckig, 10 × 10 m, Mauern 2,5 m, Bruchstein",
+    "icon": "star"
+   },
+   {
+    "label": "Untergrund",
+    "value": "vorgroßmährischer/großmährischer Burgwall",
+    "icon": "star"
+   },
+   {
+    "label": "Entstehung der kleinen Burg",
+    "value": "2. Hälfte des 13. Jahrhunderts",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vorgroßmährisch–großmährisch",
+    "type": "event",
+    "title": "Slawischer Burgwall",
+    "description": "Holz-Erde-Mauer mit Graben über dem Sattel unter dem Úboč."
+   },
+   {
+    "year": "2. Hälfte des 13. Jahrhunderts",
+    "type": "event",
+    "title": "Steinerne kleine Burg",
+    "description": "Rechteckiger Turm (Donjon/Bergfried), verkleinerte Fläche; hölzerne Bauten in Blockbauweise."
+   },
+   {
+    "year": "1271",
+    "type": "event",
+    "title": "Mögliche Einnahme",
+    "description": "Vielleicht wurde die Burg Stupava von den Truppen Přemysl Ottokars II. erobert; dabei fiel comes Alexander (Farkaš 2006)."
+   },
+   {
+    "year": "nach dem Brand",
+    "type": "event",
+    "title": "Untergang",
+    "description": "Bewaffneter Angriff und Brand; die Aufgabe ging auf die Burg Pajštún über."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5899,
+    "caption": "Der Burgwall auf der LiDAR-Aufnahme (T. Lieskovský)",
+    "alt": "Der Burgwall auf der LiDAR-Aufnahme (T. Lieskovský)"
+   },
+   {
+    "mediaId": 5900,
+    "caption": "Dračí hrádok, Pajštún und das Kloster in Marianka auf der Karte von Adolf Emanuel Pernold. Zustand um die Mitte des 19. Jahrhunderts.",
+    "alt": "Dračí hrádok, Pajštún und das Kloster in Marianka auf der Karte von Adolf Emanuel Pernold. Zustand um die Mitte des 19. Jahrhunderts."
+   },
+   {
+    "mediaId": 5901,
+    "caption": "Die Ruinen des mittelalterlichen Turms auf einem romantischen Gemälde aus dem Jahr 1871 (Autor Teodor Weisz)",
+    "alt": "Die Ruinen des mittelalterlichen Turms auf einem romantischen Gemälde aus dem Jahr 1871 (Autor Teodor Weisz)"
+   },
+   {
+    "mediaId": 5902,
+    "caption": "Riemenzunge aus der slawisch-awarischen Zeit",
+    "alt": "Riemenzunge aus der slawisch-awarischen Zeit"
+   },
+   {
+    "mediaId": 5903,
+    "caption": "Mittelalterliche Schlüssel (13.–14. Jahrhundert)",
+    "alt": "Mittelalterliche Schlüssel (13.–14. Jahrhundert)"
+   },
+   {
+    "mediaId": 5904,
+    "caption": "Unter den Metallfunden befindet sich auch ein Fragment einer slawischen Bartaxt (Nummer 2)",
+    "alt": "Unter den Metallfunden befindet sich auch ein Fragment einer slawischen Bartaxt (Nummer 2)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemarkung von Stupava, aber nur etwa 1 km von den letzten Häusern der Gemeinde Borinka entfernt, befindet sich die Ruine einer mittelalterlichen kleinen Burg, auf Karten bezeichnet als "
+       },
+       {
+        "type": "text",
+        "text": "Dračí hrádok",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Sie liegt relativ tief im Inneren des südwestlichen Teils der Kleinen Karpaten, auf einem etwa 400 m langen und am Fuß 350 m breiten Ausläufer des Berges "
+       },
+       {
+        "type": "text",
+        "text": "Úboč",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Der Höhenunterschied zwischen dem Wasserspiegel des nahen Wasserlaufs und dem höchsten Punkt des Dračí hrádok erreicht fast 98 m. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Der Burgwall auf der LiDAR-Aufnahme (T. Lieskovský)",
+    "caption": "Der Burgwall auf der LiDAR-Aufnahme (T. Lieskovský)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anhöhe kontrollierte den Weg, der von Stupava in Richtung Košiarisko und weiter nach Lozorno oder Svätý Jur (Sankt Georgen) führte. Die natürliche Verteidigung der Lage gewährleisteten von drei Seiten steile Berghänge. Den einzigen leichter begehbaren Zugangsweg über dem Sattel unter dem Berg Úboč durchschneidet bis heute eine kurze, im rechten Winkel abgeknickte Erdaufschüttung, der Rest einer verfallenen Holz-Erde-Mauer, die durch einen vorgelagerten Graben geschützt war und die sich vorläufig in die vorgroßmährische bis ältere großmährische Zeit einordnen lässt. Etwa die Mitte des Sporns durchschneidet ein weiterer, etwa 12 m breiter, in den Felsuntergrund eingeschnittener und heute zum großen Teil verfüllter mittelalterlicher Graben. Hinter ihm, auf einer leichten Erhebung, in einer Entfernung von etwa 17 m, befinden sich die Reste eines mächtigen rechteckigen Turms mit den Außenmaßen 10 × 10 m. Errichtet wurde er aus Bruchstein, der mit hochwertigem Kalkmörtel verbunden war, und die Dicke der Mauern erreicht auf dem Niveau des heutigen Geländes 2,5 m. Nach Funktion, Ausmaßen und Bautechnologie war das eindeutig mittelalterliche Gebäude der wichtigste gemauerte Wehrbau der kleinen Burg, der in sich wohl die Hauptaufgaben eines Donjons (des Hauptwohnturms) und eines Bergfrieds (vor allem eines Wehrturms) verband und mit seiner Masse die Wohn- und Wirtschaftsgebäude auf der Fläche der kleinen Burg aus der Richtung des vermuteten Angriffs deckte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Dračí hrádok, Pajštún und das Kloster in Marianka auf der Karte von Adolf Emanuel Pernold. Zustand um die Mitte des 19. Jahrhunderts.",
+    "caption": "Dračí hrádok, Pajštún und das Kloster in Marianka auf der Karte von Adolf Emanuel Pernold. Zustand um die Mitte des 19. Jahrhunderts.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der archäologischen Ausgrabung gelang es, hinter dem Turm eine fast zusammenhängende Fläche von etwa 370 m² freizulegen. Nach den archäologischen Funden, vor allem Keramik, Arbeitsgeräten, Münzen und Militaria, entstand die kleine Festung offenbar in der zweiten Hälfte des 13. Jahrhunderts. Im Geist der damals angewandten Verteidigungsdoktrin verkleinerte man die Fläche des ursprünglichen slawischen Burgwalls auf etwa die Hälfte. Der größere Teil der Burg bestand, ähnlich wie bei den meisten damaligen vergleichbaren Fortifikationen, aus hölzernen, wohl nur erdgeschossigen Gebäuden in Blockbauweise, die ringsum über den steilen Hängen angeordnet waren. Aus Brandschutzgründen sowie aus ästhetischen und wärmedämmenden Gründen bedeckte ihre Wände ein Lehmbewurf. Die Außenseite der Holzhäuser, in den Lücken wohl durch einen festen Zaun ergänzt, bildete offenbar auch die Hauptverteidigungslinie über den steilen Abhängen ins Tal – eine sonst nicht belegte Mauer. Die Gebäude waren wahrscheinlich so angeordnet, dass sie die befestigte Fläche in kleinere, funktional unterschiedliche Teile wirtschaftlichen und residenziellen Charakters teilten, mit einer teilweise in das Gelände eingetieften Küche in der Nähe des Wohnturms. Den Verkehrsraum zwischen der vermuteten Küche, dem Turm und den übrigen Bauten bildete ein kleiner, deutlich nach Westen geneigter Hof, der mit einem gegossenen Mörtelboden bedeckt war und Maße von mindestens 14 × 11,4 m hatte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der ursprünglichen Absicht sollte die hölzerne Bebauung, vor allem die Mauer, wohl allmählich durch eine neue gemauerte Architektur ersetzt werden, von der sich außer dem Turm nur ein Teil der westlichen Wehrmauer erhalten hat. Bevor die Arbeiten fortschreiten konnten, fielen die hölzernen Häuser einem mächtigen Brand zum Opfer, bei dem der Lehmbewurf der Häuser zu keramischer Härte verziegelte und der ursprünglich braune Waldboden eine rostrote Färbung erhielt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Die Ruinen des mittelalterlichen Turms auf einem romantischen Gemälde aus dem Jahr 1871 (Autor Teodor Weisz)",
+    "caption": "Die Ruinen des mittelalterlichen Turms auf einem romantischen Gemälde aus dem Jahr 1871 (Autor Teodor Weisz)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zahlreichen, in der Form sehr variablen Pfeilspitzen und andere Militaria von der Fläche der kleinen Burg und auch aus ihrem Vorfeld deuten darauf hin, dass die Ursache ihres Untergangs ein direkter, offenbar erfolgreicher bewaffneter Angriff war. Nach dem zerstörenden Brand wurde die kleine Festung nicht mehr erneuert. Das Leben und die Aufgabe der Verteidigung dieser Region verlagerten sich wohl auf die nahe Burg Pajštún, die damit die Nachfolgerin des Dračí hrádok sein könnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Konfrontation der historischen Nachrichten mit den archäologischen Funden lässt sich nicht ausschließen, dass der Dračí hrádok die in der Klosterneuburger Chronik erwähnte Burg Stupava sein könnte, die die böhmischen Truppen Přemysl Ottokars II. fast unmittelbar aus dem Marsch heraus entweder am 13. April 1271 oder in den zwei bis drei folgenden Tagen besetzten und bei deren Verteidigung comes Alexander ums Leben kam ("
+       },
+       {
+        "type": "text",
+        "text": "Farkaš 2006, 235–296",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Dračí hrádok dokumentiert so die allmähliche Entwicklung der mittelalterlichen Befestigungen, die vor allem nach dem Tatareneinfall vom hölzernen oder Holz-Erde-„Miniburgwall“ zur steinernen Burg führte, die durch eine bewaffnete Aktion gewaltsam unterbrochen wurde, und die neue, gemauerte Fortifikation entstand dann schon an einem anderen, den Anforderungen der Zeit und der sich wandelnden Militärtaktik mehr entsprechenden Ort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang: ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Riemenzunge aus der slawisch-awarischen Zeit",
+    "caption": "Riemenzunge aus der slawisch-awarischen Zeit",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den Resten des Dračí hrádok gelangen wir am einfachsten über die Gemeinde Borinka. Wir fahren durch die ganze Gemeinde auf der Straße Nr. 1108 und dann immer gerade auf der schmalen Asphaltstraße weiter, die bald durch den Wald führt. Nach etwa 800 m stoßen wir auf einen freien Platz neben dem Weg, auf dem etwa 2–3 Autos Platz finden. Hier können wir parken, und gleich gegenüber beginnt der etwa 15-minütige, nur mäßig anstrengende Aufstieg zur Burg auf der gelben Route. Parken kann man auch etwas weiter, etwa 300–400 m von der genannten Stelle entfernt an der Straße, wo es einen etwas größeren Platz zum Parken gibt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

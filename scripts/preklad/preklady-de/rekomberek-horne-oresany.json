@@ -1,0 +1,169 @@
+{
+ "slug": "rekomberek-horne-oresany",
+ "data": {
+  "title": "Rekomberek – ein Burgwall über Horné Orešany",
+  "slug": "rekomberek-burgwall-horne-oresany",
+  "excerpt": "Auf der Kuppe des Rekomperk über der Parná zeichnet sich im LiDAR-Bild ein Wall aus Erde und Steinen ab, der annähernd die Form eines L hat: rund 390 m Umfang, 0,8 ha Innenfläche, das Tor an der Südseite. Ausgegraben wurde der Burgwall nie, umso bedeutender ist der unweit davon entdeckte spätawarische Hortfund aus 86 Gegenständen – darunter ein bronzenes Kreuz byzantinischen Typs mit den plastischen Symbolen Alpha und Omega.",
+  "metaTitle": "Rekomberek – L-förmiger Burgwall über Horné Orešany",
+  "metaDescription": "Der Burgwall Rekomberek über der Parná: ein L-förmiger Wall von 390 m Umfang auf 0,8 ha, dazu ein spätawarischer Hortfund aus 86 Gegenständen.",
+  "keyFacts": [
+   {
+    "label": "Befestigung",
+    "value": "L-Form, Umfang ~390 m, Fläche 0,8 ha",
+    "icon": "star"
+   },
+   {
+    "label": "Länge",
+    "value": "~140 m; Tor an der Südseite",
+    "icon": "star"
+   },
+   {
+    "label": "Schlüsselfund",
+    "value": "spätawarischer Hortfund (86 Gegenstände) beim Burgwall",
+    "icon": "star"
+   },
+   {
+    "label": "Unikat",
+    "value": "Bronzekreuz byzantinischen Typs (Alpha und Omega)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Wende 8./9. Jh.",
+    "title": "Spätawarische Zeit",
+    "description": "Depot von Pflugteilen (Großmähren); Hortfund von 86 Gegenständen in der Umgebung.",
+    "type": "event"
+   },
+   {
+    "year": "Wende 10./11. Jh.",
+    "title": "Bronzener Ohrring",
+    "description": "Fund beim Eingangstor.",
+    "type": "event"
+   },
+   {
+    "year": "2005",
+    "title": "Entdeckung des Hortfundes",
+    "description": "Mit dem Metalldetektor an der Grenze der Gemarkungen.",
+    "type": "event"
+   },
+   {
+    "year": "2006",
+    "title": "Untersuchung durch das AÚ SAV",
+    "description": "Untersuchung der Fundstelle.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5784,
+    "alt": "Mit Moos überwachsene Steinwälle in einem Laubwald im Gegenlicht"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall Rekomberek (Rekomperk) liegt in der Gemarkung der Gemeinde Horné Orešany über dem Lauf der Parná, etwa oberhalb der Quelle Husí stok, die den Wanderern gut bekannt ist, weil an ihr ein markierter Weg vorbeiführt. Die Hänge des Berges Rekomperk sind ziemlich steil, und deshalb bot seine Kuppe eine recht geeignete Lage für eine gut zu verteidigende Befestigung. Diese lag im Gipfelbereich des Berges und ist von einem Wall aus Erde und Steinen umgrenzt. Der Wall ist in einigen Abschnitten mit dem bloßen Auge besser zu erkennen (besonders im südlichen Teil der Befestigung), an manchen Stellen verliert er sich. Die LiDAR-Kartierung zeigt jedoch sehr deutlich den ganzen Verlauf der Befestigung, die annähernd die Form des Buchstabens L hat. Ihr Gesamtumfang beträgt etwa 390 Meter, und die Innenfläche des Burgwalls nimmt etwa 0,8 ha ein. An der Südseite der Befestigung lag das Eingangstor zum Burgwall. Die Länge des Burgwalls beträgt an seiner längsten Stelle etwa 140 Meter, und in seinem Inneren lassen sich ganz ebene Flächen finden, die zum Wohnen und zum Bau von Behausungen ideal sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rekomberek – Horné Orešany",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall fand bisher keine offizielle archäologische Ausgrabung statt, und gegenwärtig ist er mit größter Wahrscheinlichkeit von Raubgräbern ausgeräumt. Karol Pieta führte in seinem Artikel, in dem er den Burgwall publizierte, an, dass nach seinen Informationen auf dem Burgwall Bronzegegenstände aus der Zeit des Awarenkhaganats entdeckt wurden, wahrscheinlich also aus dem 8. bis beginnenden 9. Jahrhundert, die sich leider in einer Privatsammlung befinden und die der Eigentümer den Archäologen nicht zur Dokumentation überließ. Aus dem Inneren des Burgwalls konnte ein Depot dokumentiert werden, das aus zwei Sechen und einer Pflugschar besteht, also aus Gegenständen, die in slawischer Zeit Teil des Pfluges waren. Es handelt sich um typische Gegenstände aus der Zeit Großmährens. Weiter wurde auf dem Burgwall im Bereich des Eingangstores ein bronzener Ohrring gefunden, der typologisch eher an die Wende des 10. und 11. Jahrhunderts gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der interessanteste Fund, der mit dem Burgwall Rekomperk in Verbindung gebracht werden könnte, ist jedoch der Hortfund von bronzenen und anderen Gegenständen, der in der Nähe des Burgwalls, an der Grenze der Gemarkungen von Horné Orešany und Dolné Orešany, entdeckt wurde. Der Hortfund ist einer der bedeutendsten spätawarischen Fundkomplexe seiner Art auf dem Gebiet der Slowakei und Tschechiens. Er wurde im Jahr 2005 mit einem Metalldetektor gefunden, und anschließend untersuchten im Jahr 2006 Mitarbeiter des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften (AÚ SAV) die Fundstelle. Der Hortfund besteht aus 86 Stücken bronzener, vergoldeter, verzinnter und vereinzelt auch silberner Gegenstände, die insgesamt alle in gutem Zustand sind, auch wenn einige beschädigt oder unvollständig sind. Außer Zierphaleren und typischen Zierbeschlägen von Pferdegeschirren und Gürteln fanden sich hier auch außergewöhnliche Gegenstände. Der bedeutendste von ihnen ist ein bronzenes Kreuz byzantinischen Typs, das zu den seltenen christlichen Artefakten aus der Zeit des Awarenkhaganats gehört. Die Arme des Kreuzes verbreitern sich und sind mit den plastischen Symbolen Alpha und Omega versehen. Die Ränder und der mittlere Ring sind mit einem Perlmuster verziert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein identisches Exemplar stammt aus dem awarischen Gräberfeld Lesencetomaj im transdanubischen Teil Ungarns."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rekomberek – Horné Orešany",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die Datierung des Hortfundes ist wichtig, dass er fast ausschließlich aus der Endphase der Existenz des Awarenkhaganats stammt. Bedeutsam ist vor allem das Vorhandensein eines zinnernen Beschlags (Nr. 31), da der karolingische Stil die Gestaltung seiner Verzierung wahrscheinlich bereits beeinflusst hat. Auf dieser Grundlage lässt sich annehmen, dass der Hortfund in der Nähe des Rekomperk während der damaligen slawisch-awarischen Konflikte niedergelegt wurde, die anschließend mit der Niederlage der Awaren durch die Heere Karls des Großen zu deren Untergang führten. Deshalb lässt sich das Depot wohl an die Wende vom 8. zum 9. Jahrhundert datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

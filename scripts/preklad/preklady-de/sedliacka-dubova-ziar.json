@@ -1,0 +1,244 @@
+{
+ "slug": "sedliacka-dubova-ziar",
+ "data": {
+  "title": "Sedliacka Dubová – Žiar, eine hallstattzeitliche Höhenburg über dem Tal der Arwa",
+  "slug": "sedliacka-dubova-ziar-hallstattzeitliche-hoehenburg",
+  "excerpt": "Die Ruinen der kleinen Kirche auf dem Berg Žiar, auch Hrádok genannt, stützen sich unmittelbar auf den Wall einer hallstattzeitlichen Höhenburg. Ein etwa 6 m hoher Abschnittswall, ein 4 m breiter hölzerner Wehrgang auf steinernem Unterbau und ein 2 m tiefer Spitzgraben sicherten die Anlage, die im 3. bis 2. Jahrhundert vor Christus samt ihrem Suburbium verbrannte.",
+  "metaTitle": "Sedliacka Dubová – Žiar, hallstattzeitliche Höhenburg",
+  "metaDescription": "Der Berg Žiar (Hrádok) über Sedliacka Dubová birgt eine befestigte hallstattzeitliche Siedlung, 1954 nachgewiesen. Heute stehen dort Kirchenruinen.",
+  "keyFacts": [
+   {
+    "label": "Befestigung",
+    "value": "Abschnittswall von etwa 6 m Höhe, hölzerner Wehrgang von 4 m Breite auf steinernem Unterbau",
+    "icon": "shield"
+   },
+   {
+    "label": "Graben",
+    "value": "Spitzgraben, 2 m tief",
+    "icon": "map"
+   },
+   {
+    "label": "Benachbarte hallstattzeitliche Höhensiedlungen in der Arwa",
+    "value": "Tvrdošín, Podbiel, Istebné-Hrádok, Vyšný Kubín, Žaškov-Hrádok, Jasenica-Hrdoš, Medzibrodie, Oravský Podzámok",
+    "icon": "flag"
+   },
+   {
+    "label": "Siedlung im Suburbium",
+    "value": "an der Stelle der heutigen Gemeinde Sedliacka Dubová, freigelegte Fundamente hallstattzeitlicher Anwesen",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "700–400 vor Christus",
+    "title": "Hallstattzeit und Besiedlung der Arwa",
+    "description": "In der Hallstattzeit war die Besiedlung der Arwa relativ dicht; die befestigten Siedlungen bildeten ein starkes Wehrgefüge des örtlichen Fürstentums, das durch Rauchsignale verbunden war.",
+    "type": "era"
+   },
+   {
+    "year": "3.–2. Jahrhundert vor Christus",
+    "title": "Untergang der kleinen Höhenburg durch Brand",
+    "description": "Der Untergang der kleinen Höhenburg wird in die Mittellatènezeit datiert – Ursache war ein Brand, der die kleine Höhenburg und das Suburbium verbrannte; es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging.",
+    "type": "destruction"
+   },
+   {
+    "year": "1954",
+    "title": "Archäologische Ausgrabung",
+    "description": "Aus der im Jahr 1954 durchgeführten archäologischen Ausgrabung wurde deutlich, dass es sich um eine befestigte hallstattzeitliche Siedlung handelt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3665,
+    "caption": "Karte der Fundstelle",
+    "alt": "Karte der Fundstelle"
+   },
+   {
+    "mediaId": 2937,
+    "caption": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič).",
+    "alt": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič)."
+   },
+   {
+    "mediaId": 3666,
+    "caption": "Bastei",
+    "alt": "Bastei"
+   },
+   {
+    "mediaId": 3667,
+    "caption": "Eingangstor",
+    "alt": "Eingangstor"
+   },
+   {
+    "mediaId": 3668,
+    "caption": "Oberer Hof",
+    "alt": "Oberer Hof"
+   },
+   {
+    "mediaId": 3669,
+    "caption": "Unterer Hof",
+    "alt": "Unterer Hof"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Geschichte des Ortes, an dem die Ruinen der kleinen Kirche stehen, reicht weit in die Urgeschichte zurück. Schon der Name des Berges Žiar, beziehungsweise Hrádok, auf dem die kleine Kirche errichtet wurde, deutet darauf hin, dass hier einst eine befestigte Anlage stand. Aus der im Jahr 1954 durchgeführten archäologischen Ausgrabung wurde deutlich, dass es sich um eine befestigte hallstattzeitliche Siedlung handelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hallstattzeit, wie wir die ältere Eisenzeit nennen, war eine Periode der Urgeschichte von 700 bis 400 Jahren vor Christus. Zu dieser Zeit war die Besiedlung der Arwa relativ dicht. Archäologisch nachgewiesen sind befestigte Siedlungen zum Beispiel in Tvrdošín, Podbiel, Istebné – Hrádok, Vyšný Kubín – Tupá und Ostrá skala, Žaškov – Hrádok, Jasenica – Hrdoš, Medzibrodie, Oravský Podzámok, Sedliacka Dubová – Žiar, und ebenso Urnengräber und unbefestigte Siedlungen. Alle befestigten Siedlungen haben den Charakter einer befestigten Höhensiedlung, das heißt, sie sind auf einem Hügel errichtet, wobei sie an solchen Stellen angelegt wurden, dass man von einer Höhensiedlung zur anderen sehen konnte. Das so aufgebaute Verteidigungssystem bildete unter Nutzung der Rauchsignalisierung ein starkes Wehrgefüge des örtlichen Fürstentums. Die Täler der Arwa und ihrer Seitenzuflüsse boten landwirtschaftlichen Boden, vor allem aber günstige Übergänge, und ermöglichten die Verkehrsverbindung zu den Haupthandelswegen, die durch die Arwa und die Liptau führten. Die Bedeutung dieser Wege spiegeln die Hortfunde von Bronzen aus Komjatná, Žaškov, Osádka, Pucov, Istebné – Hrádok, Nižná und Krásna Hôrka wider."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kleine Höhenburg in Dubová ist also keine vereinzelte Anlage. Sie lag auf dem Scheitel eines Hügels, der deutlich in das Tal der Arwa einschneidet, durch das ein alter Handelsweg führte. Die heutigen Reste des befestigten Areals der Dubováer kleinen Kirche stützen sich unmittelbar auf den mächtigen Wall der hallstattzeitlichen Höhensiedlung. Nach dem bisherigen Forschungsstand handelte es sich um eine Anlage mit vorherrschenden Festungsmerkmalen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Karte der Fundstelle",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das beherrschende Element der Festung war ein etwa 6 m hoher Abschnittswall, der den Burgberg von der Nordseite her vom übrigen Grat (dem Hals) abtrennte. Grundlage des Walls war eine Rost-Kasten-Konstruktion aus Rundholz, die mit rot gebranntem Lehm gefüllt war. Die Außenseite des Walls war mit einer steinernen Stützmauer versehen, die seine Wehrhaftigkeit erhöhte. Sein hinterer Teil senkte sich leicht zum Hof hin ab. Am höchsten Punkt des Walls stand wahrscheinlich eine hölzerne Wachstube – ein Wachposten –, von dem aus die Burgwache den besten Überblick über den Zugangsweg und die ganze Umgebung hatte. Der Abschnittswall aus Erde wirkte als Ganzes wie eine mächtige Bastei, die ein Schlüsselelement in der Befestigung der hallstattzeitlichen Höhensiedlung war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die übrige Befestigung war durch einen hölzernen, 4 Meter breiten Wehrgang gesichert, der auf einem 1 Meter hohen steinernen Unterbau errichtet war. Der Gang war wahrscheinlich von außen mit Sandsteinen verkleidet und mit einem Holzdach gedeckt. Die am leichtesten zugänglichen Stellen der Befestigung waren durch einen 2 Meter tiefen Spitzgraben gesichert. Der Zugang in das Areal der Festung war durch einen Torturm und eine Brücke über den Graben gesichert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič).",
+    "alt": "Abb. 1: Versuch einer Rekonstruktion der hallstattzeitlichen Höhensiedlung auf dem Žiar (nach P. Čaplovič).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie ich erwähnt habe, hatte die Höhensiedlung vor allem einen militärischen Zweck, deshalb dienten die Wohnbauten vorwiegend als Unterkünfte für die Soldaten und den Hauptmann der Festung. Die Gebäude im Hof errichtete man mindestens 9 Meter vom Wehrgang entfernt; von ihnen fanden sich an den ursprünglichen Stellen Scherben und Lehmbewurf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unterhalb des Burgbergs lag eine Siedlung, in der sich das hauptsächliche wirtschaftliche Leben der umliegenden Bevölkerung abspielte. Die Ortschaft im Suburbium lag an der Stelle der heutigen Gemeinde Sedliacka Dubová, an der Straße, die vom Gemeindeamt zum Friedhof führt, wo die Fundamente mehrerer hallstattzeitlicher Anwesen und Scherben hallstattzeitlicher Art freigelegt wurden; es traten aber auch schon verstärkte Ränder kammstrichverzierter Gefäße auf, die bereits Graphit enthielten, aus der älteren Latènezeit. Die hallstattzeitlichen Häuser waren stufenförmig in Reihen am Abhang des Žiar errichtet, weil der Fluss Arwa zu dieser Zeit das Tal noch überschwemmen konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bastei",
+    "alt": "Bastei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Geschichte der Dubováer kleinen Höhenburg wissen wir sehr wenig; wir können nur ihren Untergang in die Mittellatènezeit, in das 3. bis 2. Jahrhundert vor Christus, datieren. Ursache des Untergangs war ein Brand, der die kleine Höhenburg und das Suburbium verbrannte. Es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging. Wahrscheinlich wurden beide Höhensiedlungen erobert und niedergebrannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": "Mit Genehmigung des Autors übernommen von der Seite",
+    "items": []
+   }
+  ]
+ }
+}

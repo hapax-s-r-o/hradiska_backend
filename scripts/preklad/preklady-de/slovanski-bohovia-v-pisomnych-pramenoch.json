@@ -1,0 +1,239 @@
+{
+ "slug": "slovanski-bohovia-v-pisomnych-pramenoch",
+ "data": {
+  "title": "Slawische Götter in den Schriftquellen",
+  "slug": "slawische-goetter-in-den-schriftquellen",
+  "excerpt": "An der Spitze des slawischen Götterhimmels stand aller Wahrscheinlichkeit nach Perun, der Herr über Donner und Blitz, Gott des Krieges und der Fruchtbarkeit – daneben kannten die Slawen Veles, Svarog, Dažbog, Mokosch, Rod und viele weitere. Fünf Schriftquellen, vom Wort des heiligen Gregor über die Chronik des Johannes Malalas und Helmold von Bosau bis zu Nestor und zum Igorlied, zeigen, welche Götter verehrt wurden und dass man ihnen auch nach der Taufe noch an verborgenen Orten opferte.",
+  "metaTitle": "Slawische Götter in den Schriftquellen",
+  "metaDescription": "Der Götterhimmel der alten Slawen in fünf Schriftquellen – an der Spitze der Herr über Donner und Blitz. Auszug aus Obraz slovenských dejín.",
+  "keyFacts": [
+   {
+    "label": "Zusammengestellt von",
+    "value": "Orgoň, nach J. Slušný: Obraz slovenských dejín (2008)",
+    "icon": "book"
+   },
+   {
+    "label": "Quellen",
+    "value": "Wort des hl. Gregor, Chronik des J. Malalas, Helmold von Bosau, Nestors Povesť dávnych liet, Igorlied",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "4.–12. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Thema",
+    "value": "Slawische Götter (Perun, Veles, Svarog, Dažbog, Mokosch u. a.) in den zeitgenössischen Schriftquellen",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4. Jh.",
+    "title": "Das Wort des heiligen Gregor",
+    "description": "Die älteste der angeführten Quellen erwähnt Opfer für Rod, die rožanice und Perun (slawische Redaktion des 11. Jahrhunderts).",
+    "type": "event"
+   },
+   {
+    "year": "6. Jh.",
+    "title": "Die Chronik des Johannes Malalas",
+    "description": "Der byzantinische Chronist Johannes Malalas beschreibt Svarog und Dažbog im Rahmen der ägyptischen Mythologie.",
+    "type": "event"
+   },
+   {
+    "year": "12. Jh.",
+    "title": "Helmold von Bosau",
+    "description": "Helmold beschreibt in seiner Chronica Slavorum die Hierarchie der Götter der Ostseeslawen.",
+    "type": "event"
+   },
+   {
+    "year": "1113–1119",
+    "title": "Nestors Povesť dávnych liet",
+    "description": "Nestor beschreibt, wie Fürst Vladimir in Kiew die Götzen von Perun, Chors, Dažbog, Stribog, Sim, Regl und Mokosch aufstellte.",
+    "type": "event"
+   },
+   {
+    "year": "1185–1187",
+    "title": "Das Igorlied",
+    "description": "Das Epos erwähnt „Dažbogs Enkel“ als Bezeichnung für die Rus.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4160,
+    "caption": "Slawisches Heiligtum (Most pri Bratislave)",
+    "alt": "Slawisches Heiligtum (Most pri Bratislave)"
+   },
+   {
+    "mediaId": 4161,
+    "caption": "Götze (Hromovlad)",
+    "alt": "Götze (Hromovlad)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Götze (Hromovlad)",
+    "alt": "Götze (Hromovlad)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich bringe hier einen Auszug aus dem sehr interessanten und nützlichen Buch von Jaromír Slušný: Obraz slovenských dejín, Zborník dokumentov k dejinám Slovenska a Slovákov, Prag 2008.\n\nUnsere Vorfahren kamen in das Gebiet der heutigen Slowakei im Grunde mit einem noch immer in Entwicklung befindlichen System eigener Götter. An ihrer Spitze stand aller Wahrscheinlichkeit nach der Herr über Donner und Blitz, der Gott des Krieges und der Fruchtbarkeit Perun, doch die Slawen kannten auch andere Götter – Veles (Volos), Svarog, Dažbog, Svarožič, Radegast, Mokosch, Rod, Svantovit, Prove, Porevit, Perunič, Triglav, Chors, Stribog, Lada... Die Entwicklung der slawischen Ikonographie führen uns die folgenden Auszüge aus einigen Quellen wenigstens andeutungsweise vor Augen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Das Wort des heiligen Gregor, 4. Jahrhundert"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Diese Slawen begannen, Rod und den rožanice Opfer darzubringen, noch vor Perun, ihrem Gott. Und davor wurden die Opfer den Vampiren und den Bereginen (den schützenden Nymphen) dargebracht. Nach der heiligen Taufe verwarfen sie Perun und verehrten Christus, den Herrn, unseren Gott, doch jetzt beten sie an verborgenen Orten zu dem verfluchten Gott Perun, zu Chors, zu Mokosch und zu den Nymphen...",
+    "author": "Hl. Gregor von Nazianz (zugeschrieben)",
+    "source": "Das Wort des heiligen Gregor, 4. Jahrhundert (das Werk wurde ins Russische übersetzt und um die Mitte des 11. Jahrhunderts ergänzt)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Die Chronik des Johannes Malalas von Antiochia, 6. Jahrhundert"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Nach dem Tod des Feost, den man auch Svarog nennt, herrschte über die Ägypter sein Sohn Sonne (Helios), auch Dažbog genannt... Die Sonne also, der Herrscher, der Sohn des Svarog, welcher Dažbog ist, war ein starker Mann... er wollte das Gesetz seines Vaters Svarog nicht brechen... Wie der Dichter Homer von ihm sagte, dass Dažbog Aphrodite des Ehebruchs mit Ares beschuldigte... Nach dem Tod des Dažbog, des Sohnes des Svarog, herrschte über die Ägypter Sosis...\nFeost setzte für die Frauen das Gesetz ein, nur einen einzigen Mann zu heiraten und sich des Verkehrs mit anderen Männern zu enthalten, und jene, die diesen ehelichen Bund brechen würden, befahl er zu bestrafen. Deshalb wurde er Gott Svarog genannt. Denn vorher lebten die Frauen in Unzucht mit verschiedenen Männern, die ihnen gefielen, und waren in ihrer Unzucht wie das Vieh. Wenn ein Kind geboren wurde, das der Frau lieb war, sagte sie: „Das ist dein Kind“, der Mann richtete dann ein Fest aus und erkannte es als das seine an. Feost aber hob dieses Gesetz auf und befahl, dass ein Mann eine Frau habe und die Frau sich nur einen Mann nehmen dürfe; wer dieses Gesetz brechen würde, der musste in den Feuerofen geworfen werden. Deshalb wurde er Svarog genannt und von den Ägyptern verehrt... Unter Feost fielen die Zangen vom Himmel und man begann, Eisen und Waffen zu schmieden... denn vorher kämpfte man mit Keulen und Steinen.",
+    "author": "Johannes Malalas",
+    "source": "Die Chronik des Johannes Malalas von Antiochia, 6. Jahrhundert (Übersetzung ins Altkirchenslawische im 10.–11. Jahrhundert)"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawisches Heiligtum (Most pri Bratislave)",
+    "alt": "Slawisches Heiligtum (Most pri Bratislave)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Johannes (Ioannes) Malalas (um 491 – 578) war ein byzantinischer Historiker und Chronist, geboren in Antiochia. Seine Chronik wurde im 10.–11. Jahrhundert in Bulgarien ins Altkirchenslawische übersetzt und bildete eine der Grundlagen der Nestorchronik. Feost = Hephaistos."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Helmold von Bosau: Die Ausrottung der Ostseeslawen, 12. Jahrhundert"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Da sie verschiedenartige Gestalten von Göttern haben, denen sie Felder, Wälder, Leid und Lust zuweisen, erkennen sie an, dass ein Gott im Himmel über die übrigen herrscht und so mächtig ist, dass er sich allein um die himmlischen Dinge kümmert; die übrigen Götter aber, denen andere Aufgaben zugewiesen sind, gehorchen ihm. Aus seinem Blut seien sie hervorgegangen, und jeder von ihnen ist um so vornehmer, je näher er jenem Gott ist.",
+    "author": null,
+    "source": "Helmold von Bosau (um 1120 – nach 1177): Chronica Slavorum, 12. Jahrhundert"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Nestor: Povesť dávnych liet (Nestorchronik), 1113–1119"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Und Fürst Vladimir begann in Kiew allein zu herrschen. Und er stellte Götzen auf dem Hügel außerhalb des Turmhofes auf: einen hölzernen Perun, und sein Haupt war silbern und sein Schnurrbart golden, und auch Chors, Dažbog und Stribog, Sim, Regl und Mokosch. Und er opferte ihnen und nannte sie Götter, und man brachte seine Söhne und Töchter herbei und opferte sie den Dämonen, und man schändete die Erde mit seinen Opfern, und das russische Land und jener Hügel wurden mit Blut geschändet... Vladimir setzte dann Dobrynja in Nowgorod ein. Und Dobrynja kam nach Nowgorod, stellte über dem Fluss Wolchow einen Götzen (Perun – Anm. J. S.) auf, und die Nowgoroder opferten ihm wie einem Gott.",
+    "author": "Nestor",
+    "source": "Povesť dávnych liet, 1113–1119"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Slovo o pluku Igorovom (Igorlied), 1185–1187"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Oleg Gorislavovič säte den Samen des Zorns, das Land wurde verwüstet und durch Zusammenstöße verheert, Dažbogs Enkel starben in Scharen. (Mit dem Ausdruck „Dažbogs Enkel“ sind die Rus gemeint.)",
+    "author": "unbekannter Autor",
+    "source": "Slovo o pluku Igorovom, 1185–1187"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

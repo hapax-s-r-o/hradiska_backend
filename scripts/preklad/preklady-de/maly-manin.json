@@ -1,0 +1,359 @@
+{
+ "slug": "maly-manin",
+ "data": {
+  "title": "Malý Manín – eine befestigte Höhensiedlung über der Manín-Schlucht",
+  "slug": "maly-manin-hoehensiedlung-manin-schlucht",
+  "excerpt": "Der Malý Manín (812 m ü. M.) im Strážov-Hügelland am linken Ufer der Waag ist Teil der Manín-Schlucht. Auf seiner Hochfläche liegt eine befestigte Höhensiedlung von mehr als 8 ha mit zahlreichen Siedlungsterrassen, einem Zangentor und einer vermuteten Zisterne für Regenwasser. Scherben der Lausitzer und der Púchov-Kultur belegen eine Besiedlung von der jüngeren Bronzezeit bis zur römischen Kaiserzeit; geschätzt standen hier 50 bis 60 Häuser.",
+  "metaTitle": "Malý Manín – Höhensiedlung über der Manín-Schlucht",
+  "metaDescription": "Auf der Hochfläche des Malý Manín (812 m ü. M.) in der Manín-Schlucht sind eine Besiedlung von der Bronzezeit bis zur Kaiserzeit und Befestigungsspuren belegt.",
+  "keyFacts": [
+   {
+    "label": "Höhe ü. M.",
+    "value": "812 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Höhensiedlung",
+    "value": "mehr als 8 ha, Länge etwa 630 m, Breite 80–120 m",
+    "icon": "map"
+   },
+   {
+    "label": "Geschätzte Zahl der Häuser",
+    "value": "etwa 50 bis 60",
+    "icon": "building"
+   },
+   {
+    "label": "Zisterne für Regenwasser",
+    "value": "Durchmesser 15 m, Tiefe 1,5 m",
+    "icon": "water"
+   },
+   {
+    "label": "Zugang zur Höhensiedlung",
+    "value": "von Lehmwällen flankiertes Zangentor, serpentinenförmiger Zugangsweg",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 1000 v. Chr.",
+    "title": "Älteste Besiedlung (Lausitzer Kultur)",
+    "description": "Es wird angenommen, dass die Fundstelle bereits 1000 Jahre v. Chr. besiedelt war; die ältesten Scherben lassen sich in die jüngere Bronzezeit datieren.",
+    "type": "founding"
+   },
+   {
+    "year": "bis zum 3. Jahrhundert v. Chr.",
+    "title": "Dauer der Lausitzer Kultur",
+    "description": "Die Lausitzer Kultur war an der Fundstelle in der jüngeren Bronzezeit wie auch in der älteren Eisenzeit vertreten und dauerte bis ins 3. Jahrhundert v. Chr.",
+    "type": "era"
+   },
+   {
+    "year": "jüngere Eisenzeit",
+    "title": "Besiedlung durch die Púchov-Kultur",
+    "description": "Die Keramik der Púchov-Kultur war deutlich anders – sie wurde auf der Töpferscheibe hergestellt, es entstanden auch Vorratsgefäße, und ein Teil der Keramik wurde aus Graphit hergestellt.",
+    "type": "era"
+   },
+   {
+    "year": "1. Jahrhundert n. Chr.",
+    "title": "Aufgabe der Höhensiedlung",
+    "description": "Es wird angenommen, dass die Höhensiedlung im ersten Jahrhundert nach unserer Zeitrechnung, in der römischen Kaiserzeit, verlassen wurde.",
+    "type": "destruction"
+   },
+   {
+    "year": "2000",
+    "title": "Archäologische Untersuchung der Hochfläche",
+    "description": "Im Jahr 2000 wurde auf der Hochfläche auf einigen Terrassen eine Besiedlung mehrerer Perioden festgestellt – von der jüngeren Bronzezeit über die ältere und jüngere Eisenzeit bis zur römischen Kaiserzeit.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3494,
+    "alt": "Ausschnitt einer Wanderkarte mit dem Malý und dem Veľký Manín, der Manín-Schlucht und den umliegenden Dörfern"
+   },
+   {
+    "mediaId": 3496,
+    "caption": "Keramik der Púchov-Kultur und ein Armring",
+    "alt": "Keramik der Púchov-Kultur und ein Armring"
+   },
+   {
+    "mediaId": 3497,
+    "caption": "Henkel eines Keramikgefäßes_Lausitzer Kultur",
+    "alt": "Henkel eines Keramikgefäßes_Lausitzer Kultur"
+   },
+   {
+    "mediaId": 3498,
+    "caption": "Gefäßfragment_Lausitzer Kultur",
+    "alt": "Gefäßfragment_Lausitzer Kultur"
+   },
+   {
+    "mediaId": 3499,
+    "caption": "Spinnwirtel aus Graphitkeramik_ Púchov-Kultur",
+    "alt": "Spinnwirtel aus Graphitkeramik_ Púchov-Kultur"
+   },
+   {
+    "mediaId": 3500,
+    "caption": "Fragment von Graphitkeramik_ Púchov-Kultur",
+    "alt": "Fragment von Graphitkeramik_ Púchov-Kultur"
+   },
+   {
+    "mediaId": 3503,
+    "caption": "Fibel aus der jüngeren Bronzezeit von der Höhensiedlung (Veliačik)",
+    "alt": "Fibel aus der jüngeren Bronzezeit von der Höhensiedlung (Veliačik)"
+   },
+   {
+    "mediaId": 3504,
+    "caption": "Goldene keltische Münze von der Höhensiedlung (Budaj)",
+    "alt": "Goldene keltische Münze von der Höhensiedlung (Budaj)"
+   },
+   {
+    "mediaId": 3505,
+    "caption": "Modell eines Hauses der Lausitzer Kultur aus der Hallstattzeit (8. Jahrhundert v. Chr.) von L. Janech",
+    "alt": "Modell eines Hauses der Lausitzer Kultur aus der Hallstattzeit (8. Jahrhundert v. Chr.) von L. Janech"
+   },
+   {
+    "mediaId": 3506,
+    "caption": "Webstuhl – Lausitzer Kultur (L. Janech)",
+    "alt": "Webstuhl – Lausitzer Kultur (L. Janech)"
+   },
+   {
+    "mediaId": 3507,
+    "caption": "Siedlungsterrassen",
+    "alt": "Siedlungsterrassen"
+   },
+   {
+    "mediaId": 3508,
+    "caption": "Rand der Höhensiedlung",
+    "alt": "Rand der Höhensiedlung"
+   },
+   {
+    "mediaId": 3510,
+    "caption": "Den Zugang zur Höhensiedlung schützte ein mächtiges Zangentor",
+    "alt": "Den Zugang zur Höhensiedlung schützte ein mächtiges Zangentor"
+   },
+   {
+    "mediaId": 3511,
+    "caption": "Blick auf weitere Terrassen",
+    "alt": "Blick auf weitere Terrassen"
+   },
+   {
+    "mediaId": 3515,
+    "caption": "einer der Ränder der Höhensiedlung",
+    "alt": "einer der Ränder der Höhensiedlung"
+   },
+   {
+    "mediaId": 3516,
+    "caption": "Wall",
+    "alt": "Wall"
+   },
+   {
+    "mediaId": 3517,
+    "caption": "nochmals das Zangentor",
+    "alt": "nochmals das Zangentor"
+   },
+   {
+    "mediaId": 3518,
+    "caption": "schöne Aussichten von der Höhensiedlung",
+    "alt": "schöne Aussichten von der Höhensiedlung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Malý Manín ist Teil des Strážov-Hügellands und erstreckt sich am linken Ufer der Waag im mittleren Waagtal. Er ist Teil der Manín-Schlucht. Die Höhe des Malý Manín beträgt 812 m ü. M."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2000 wurde auf der Hochfläche auf einigen Terrassen eine Besiedlung mehrerer Perioden festgestellt, und zwar von der jüngeren Bronzezeit über die ältere und jüngere Eisenzeit bis zur römischen Kaiserzeit. Nach längerer Beobachtung wurde auch eine Befestigung festgestellt – Wälle, ein Eingangstor der Zangenform, ein serpentinenförmiger Zugangsweg, stellenweise 3–4 m breit – der einzige Zugang in das gesamte Areal, sowie vermutete Zisternen zum Auffangen von Regenwasser."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Kärtchen von Malý Manín",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche der Höhensiedlung beträgt mehr als 8 ha, die Länge etwa 630 m und die Breite 80–120 m. Auf der gesamten Fläche der Höhensiedlung befinden sich Terrassen und in ihnen Keramikbruchstücke – Scherben, überwiegend der Lausitzer und der Púchov-Kultur, Bruchstücke von Webgewichten für den Webstuhl – den Webrahmen, Spinnwirtel aus Bruchstücken von Graphitkeramik, eine größere Menge durchglühten Lehms – Lehmbewurf (die Füllung zwischen den Hölzern der Behausung), verschiedene Metallgegenstände – eine eiserne Axt, ein Teil eines bronzenen Armrings, ein eiserner Sporn und anderes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es wird angenommen, dass die Fundstelle bereits 1000 Jahre v. Chr. besiedelt war. Mit ihrer Fläche gehörte sie zu den größten in der Umgebung von Považská Bystrica. Die gefundenen Gegenstände bestimmten die Fachleute Jozef Moravčík – diplomierter Historiker – und Mgr. Róbert Majský – Archäologe des Heimatmuseums in Považská Bystrica."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Malý Manín – die Keramik"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anhand der gefundenen Keramikbruchstücke lassen sich die Zeit der Herstellung, die Form und die Größe des Gefäßes sowie das Material und die Art und Weise bestimmen, in der die Keramik hergestellt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Malý Manín",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältesten Scherben lassen sich in die jüngere Bronzezeit datieren, um 1000 Jahre v. Chr. Die Keramik wurde frei mit der Hand hergestellt, nicht auf der Töpferscheibe. Die Form des Gefäßes war bauchig, in der Mitte deutlich erweitert, der obere Rand leicht ausgebogen. Die Verzierung – in den meisten Fällen waren es waagerechte Linien, zwischen ihnen Kreise, manchmal Eindrücke mit dem Finger – Dellen. Üblicherweise lagen sich zwei oder vier kleine Ösen gegenüber, in der Regel befand sich die Verzierung im oberen Teil des Gefäßes. Meist wurde zur Herstellung feinkörniges Material wie feiner Sand verwendet. In der späteren Zeit, in der älteren Eisenzeit, änderte sich die Form der Keramik leicht, es wurde mehr grobkörniges Material verwendet, häufig wurden anstelle der Ösen Knubben angebracht. In beiden Perioden war die Lausitzer Kultur vertreten. Sie dauerte bis ins 3. Jahrhundert v. Chr. Die Keramik der Púchov-Kultur war deutlich anders, zum einen in der Verzierung: es wurden senkrechte Linien verwendet, der obere Rand war gesäumt, der Masse wurde zerstoßener Kalkstein beigegeben; da auf der Töpferscheibe gearbeitet wurde, entstanden Gefäße größerer Ausmaße – Vorratsgefäße, und ein Teil der Keramik wurde aus Graphit hergestellt. Zur Herstellung der Webgewichte für den Webrahmen wurde toniger Boden verwendet, leicht gebrannt, von pyramidenförmiger Gestalt, im oberen Teil mit einem Loch zum Aufhängen. Die Gewichte wurden überwiegend in der jüngeren Eisenzeit in der Púchov-Kultur verwendet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Malý Manín – die Behausungen"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Behausung wurde in der jüngeren Bronzezeit überwiegend aus in die Erde eingetieften Pfosten errichtet, die etwa einen halben Meter voneinander entfernt standen und mit Stöcken durchflochten waren. Nach den gefundenen Gegenständen wurden die Stöcke mit Lehm – mit Lehmbewurf – verschmiert, der mit Spreu vermischt war. Beweis dafür sind die Abdrücke im Lehmbewurf. Nach der Terrasse war das Haus etwa 5 m lang und rund 3,5 m breit, leicht in die Erde eingetieft und mit Stroh oder Schilf gedeckt. In der älteren Zeit hatten diese Häuser der Literatur nach keine Fenster, nur kleine Öffnungen für die Luft. Die Tür bildete wahrscheinlich ein aufgehängtes Fell. In der Mitte des Befundes befand sich üblicherweise eine Feuerstelle und an den Rändern einige Lagerstätten – Betten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keramik der Púchov-Kultur und ein Armring",
+    "alt": "Keramik der Púchov-Kultur und ein Armring",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wahrscheinlich waren an die Behausungen auch Wirtschaftsgebäude oder Stallungen angebaut. Zur Behausung führte offenbar ein Weg, der von runden Steinen aus der Waag gesäumt war. Freigelegt wurde eine etwa 1,5 m lange Säumung. Schätzungsweise standen auf dem Malý Manín etwa 50 bis 60 solcher Häuser. Ein interessanter Bau an der Fundstelle war eine Grube, nach Ansicht der Archäologen wahrscheinlich eine Zisterne zum Auffangen von Regenwasser. Am oberen Rand ist sie 15 m weit und in der Mitte 1,5 m tief. Sie liegt fast von allen Seiten an der tiefsten Stelle. Ein weiterer interessanter Bau ist das Zangentor, das auf jeder Seite von Lehmwällen flankiert wird. Der Zugangsweg war serpentinenförmig, stellenweise 2 bis 4 m breit. Wir nehmen an, dass die Höhensiedlung im ersten Jahrhundert nach unserer Zeitrechnung, in der römischen Kaiserzeit, verlassen wurde. Mehr Erkenntnisse würde eine fachliche archäologische Untersuchung ermöglichen, die weitere unbekannte Umstände aufdecken würde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

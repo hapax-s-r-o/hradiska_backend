@@ -1,0 +1,445 @@
+{
+ "slug": "zibrica",
+ "data": {
+  "title": "Žibrica – eine hallstattzeitliche Wachsiedlung über Štitáre",
+  "slug": "zibrica-hallstattzeitliche-wachsiedlung",
+  "excerpt": "Die Žibrica im Zug Zobor-Žibrica trägt zwei voneinander unabhängige Teile: eine offene Siedlung am Südhang und auf dem Gipfel eine von einem einzigen, 864 m langen Wall umgebene Anlage von ca. 4,37 ha. Zum dauerhaften Wohnen war der steile Grat untauglich – nach Š. Janšák diente die Anlage dem Wachdienst über dem urgeschichtlichen Weg von Süden nach Norden. Neuere Sondagegrabungen belegen die Lausitzer Kultur, die Hallstatt- und Latènezeit und das Mittelalter.",
+  "metaTitle": "Žibrica – hallstattzeitliche Höhensiedlung bei Nitra",
+  "metaDescription": "Die Höhensiedlung Žibrica beim Zobor mit Besiedlung der Lausitzer Kultur, der Hallstatt- und Latènezeit und des Mittelalters, aus Siedlung und Anlage.",
+  "keyFacts": [
+   {
+    "label": "Fläche der Anlage",
+    "value": "ca. 4,37 ha",
+    "icon": "map"
+   },
+   {
+    "label": "Wall",
+    "value": "Umfang 864 m, Höhe zur Höhensiedlung hin 0,5 – 2 m, nach außen 6 – 8 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Lage",
+    "value": "kuppenförmiger Gipfel des kegelförmigen Berges Žibrica, Zug Zobor-Žibrica",
+    "icon": "mountain"
+   },
+   {
+    "label": "Funktion",
+    "value": "Wachdienst über dem urgeschichtlichen Weg (der Bernsteinstraße) von Süden nach Norden",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattzeit",
+    "title": "Hauptzeit der Besiedlung",
+    "description": "Die Scherben aus den Oberflächenfunden rechnen wir meist in die Hallstattzeit; eine Besiedlung der Fundstelle in der späten Bronzezeit und der älteren Hallstattzeit bestätigten auch die Sondagegrabungen.",
+    "type": "era"
+   },
+   {
+    "year": "Latènezeit",
+    "title": "Weitere Besiedlung",
+    "description": "Auf der Anlage II trat auch eine latènezeitliche und eine slawische Scherbe auf; auf der Grundlage von Einzelfunden gelang es, eine Besiedlung auch aus der Latènezeit, dem Mittelalter und der Neuzeit zu belegen.",
+    "type": "era"
+   },
+   {
+    "year": "Ende der 20er Jahre des 20. Jahrhunderts",
+    "title": "Erste Untersuchung durch Š. Janšák",
+    "description": "Als erster erforschte die Höhensiedlung Š. Janšák.",
+    "type": "discovery"
+   },
+   {
+    "year": "1999",
+    "title": "Archäologische und geophysikalische Prospektion",
+    "description": "Während der archäologischen und geophysikalischen Prospektion wurde aus den Oberflächenaufsammlungen das zahlreichste Fundmaterial auf der Höhensiedlung Štitáre-Žibrica gewonnen.",
+    "type": "discovery"
+   },
+   {
+    "year": "2000 – 2002",
+    "title": "Sondagegrabungen",
+    "description": "Die Sondagegrabungen bestätigten eine umfangreiche Besiedlung der Fundstelle in der späten Bronzezeit, der älteren Hallstattzeit, der Mittel- und Spätlatènezeit und im Mittelalter.",
+    "type": "discovery"
+   },
+   {
+    "year": "2002 – 2003",
+    "title": "Untersuchung unter der Leitung von Dr. Rajtárová",
+    "description": "Ziel der Untersuchungen unter der Leitung von Dr. Rajtárová war es, die gesamte zeitliche Spanne der Besiedlung festzustellen und Erkenntnisse über die Stratigrafie der Kulturschichten zu gewinnen.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3731,
+    "alt": "Höhenlinienplan der Anlage Zubrica mit Querschnitten und Maßstab"
+   },
+   {
+    "mediaId": 3741,
+    "caption": "Žibrica von Podhorany (von Norden) am Beginn der gelben Markierung",
+    "alt": "Žibrica von Podhorany (von Norden) am Beginn der gelben Markierung"
+   },
+   {
+    "mediaId": 3742,
+    "caption": "Vom Sattel Pod Dlhou skalou in Richtung Žibrica",
+    "alt": "Vom Sattel Pod Dlhou skalou in Richtung Žibrica"
+   },
+   {
+    "mediaId": 3743,
+    "caption": "endlich der Wall",
+    "alt": "endlich der Wall"
+   },
+   {
+    "mediaId": 3745,
+    "caption": "der nördliche Wall",
+    "alt": "der nördliche Wall"
+   },
+   {
+    "mediaId": 3746,
+    "caption": "das Innenareal",
+    "alt": "das Innenareal"
+   },
+   {
+    "mediaId": 3747,
+    "caption": "Ansichten des südlichen Walles",
+    "alt": "Ansichten des südlichen Walles"
+   },
+   {
+    "mediaId": 3750,
+    "caption": "der Wall im Südwesten",
+    "alt": "der Wall im Südwesten"
+   },
+   {
+    "mediaId": 3751,
+    "caption": "urgeschichtlicher Steinbruch",
+    "alt": "urgeschichtlicher Steinbruch"
+   },
+   {
+    "mediaId": 3752,
+    "caption": "aus solchen Steinen ist der Wall errichtet",
+    "alt": "aus solchen Steinen ist der Wall errichtet"
+   },
+   {
+    "mediaId": 3753,
+    "caption": "der Innenraum",
+    "alt": "der Innenraum"
+   },
+   {
+    "mediaId": 3755,
+    "caption": "Aussicht vom Wall",
+    "alt": "Aussicht vom Wall"
+   },
+   {
+    "mediaId": 3757,
+    "caption": "Blick in Richtung Štitáre",
+    "alt": "Blick in Richtung Štitáre"
+   },
+   {
+    "mediaId": 3759,
+    "caption": "Žibrica",
+    "alt": "Žibrica"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung Žibrica (oder früher Zubrica), für die eine Besiedlung der Lausitzer, der hallstattzeitlichen und der latènezeitlichen Kultur sowie des Mittelalters belegt ist, besteht aus zwei voneinander unabhängigen Teilen (Siedlung und Höhensiedlung), die nur durch einen bequemen und an einer Stelle künstlich angelegten Weg verbunden sind. Die Siedlung liegt am Südhang des zuckerhutförmigen Hügels Žibrica, und die Höhensiedlung erstreckt sich um die höchste Kote dieses Hügels. Als erster erforschte die Anlage Š. Janšák Ende der 20er Jahre."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "7af84e34e0c94c56ba393a8b549ca6ed",
+    "url": "https://sketchfab.com/models/7af84e34e0c94c56ba393a8b549ca6ed/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Leben auf der Žibrica konzentrierte sich aus mehreren Gründen in Richtung SO: es ist die sonnige Seite, die sich leicht in die Talebene der Žitava absenkt, und – was das Wichtigste ist – die nächste reichliche Quelle von Trinkwasser befindet sich heute auf dem Dorfanger der Gemeinde Štitáre. Die beträchtliche Entfernung der Höhensiedlung von dieser Quelle zwang zur Einrichtung einer tiefer gelegenen, in Friedenszeiten bewohnten Siedlung, die keinerlei Schutzwälle, Bauten oder andere bis heute erhaltene Sicherungseinrichtungen besitzt (was freilich eventuelle hölzerne Umhegungen nicht ausschließt, die im Laufe der Zeit spurlos verschwanden). Der Siedlung, die auf einem leicht geneigten, flachen Hang liegt, fehlt ebenfalls jeglicher natürlicher Schutz. Dennoch konnte sie angesichts des Umstandes, dass sie am Weg des leichtesten Zugangs zur Höhensiedlung lag, die Funktion einer Vorburg erfüllen, die von der eigentlichen Burg völlig getrennt war. Die einzige zuverlässige Gewähr, auf deren Grundlage sich diese Anlage feststellen lässt, ist die große, ja auffallende Menge von Scherben, die in den 30er Jahren an der Stelle gefunden wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ursprüngliche Aufstieg zur Höhensiedlung führt von Štitáre von der Quelle P (siehe die Abbildung von Janšák) in Richtung NW auf einem gebirgigen, aber deutlichen Weg. In einer Entfernung von 1 km oberhalb der Gemeinde bildet der Weg eine kleine Serpentine, die einen tiefen Hohlweg mit einem Pfad umgeht. Durch diesen Hohlweg verlief der alte Verkehrsweg. Im Punkt b, auf der Höhenlinie 350, beginnt die Siedlung und zieht sich in einer Länge von etwa 240 m bis zur Wegkreuzung c. Im Punkt d, auf der Höhenlinie 505, knickt der Aufstieg zur Höhensiedlung aus der Richtung NW nach NO ab. Da er über einen steilen Hang führt, war es nötig, ihn künstlich herzurichten, was die Bewohner der Anlagen durch Abgraben des Hanges auf einer Länge von 300 m ausführten, wodurch der Aufwurf df (der keinen Verteidigungszweck hat) und ein parallel zu ihm verlaufender Graben entstanden, auf dessen Boden der alte, bis heute benutzte Weg führt. Im Punkt h, auf der Kote 605, tritt der Weg in die Höhensiedlung ein. Die Siedlung erstreckt sich ebenfalls auf einem flachen, gratartigen Ausläufer des Hauptzuges Zobor-Žibrica. Die Höhensiedlung liegt auf dem kuppenförmig abgeschlossenen Gipfel des kegelförmigen Berges Žibrica.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Berg Žibrica gewährt an seinem Gipfel keine bemerkenswerte natürliche Sicherheit. Alle seine Himmelsrichtungen sind von einem schrägen Hang mit einer Neigung von 30°, höchstens 45°, gebildet. Eine steilere, von einer Felswand geschützte Stelle gibt es hier nicht. Nur der Gipfelgrat, Kote 622, 630 und 609, hat schmale Felsnadeln, ohne jeglichen Raum für Aufenthalt und Besiedlung. Der Gipfel der Žibrica ist nur von einem einzigen Wall umgeben. Beginnend am Eingang in die Höhensiedlung im Punkt h, auf der Kote 605, verläuft er in Richtung NO und steigt gleichzeitig zur Kote 611 an (die der höchste Punkt der Wälle überhaupt ist), von dort fällt er abrupt zur Kote 580 ab und verläuft weiter mit kleinen Wellen fast waagerecht bis zur Westseite der Höhensiedlung zur Kote 583. Von dieser fällt er, in Richtung SW fortschreitend, noch weiter ab bis zum tiefsten Punkt der Wälle, Kote 570, von wo er in derselben Richtung, später in einem großen Bogen nach NO, zum Tor zurückkehrt. Die Höhe dieses Umfassungswalles zur Höhensiedlung hin bewegt sich von 0,5 bis 2 m, wobei er dieses letzte Maß nur an drei oder vier Stellen erreicht. Nach außen hin verschmilzt der Wall mit der natürlichen Neigung des Geländes und bildet dessen steilere Stufe von 6–8 m Höhe. Der Wall ist dank der Waldkultur, die ihn schützte, deutlich erhalten, misst im Umfang 864 m und ist aus an der Stelle (zur Höhensiedlung hin) gewonnenem Material hergestellt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Eingangstor lässt sich mit Sicherheit nur eines feststellen, im SO. Auf der Seite NW bei der Kote 572 ist der Wall ebenfalls von einer Öffnung unterbrochen, über deren Zweck oder Herkunft sich jedoch nichts mit Bestimmtheit behaupten lässt, da jegliche anderen Anzeichen fehlen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fläche der Höhensiedlung beträgt ca. 4,37 ha, doch bietet sie im Vergleich mit anderen Anlagen dieser Art nur eine schwache Zuflucht. Davon überzeugt uns ein Blick auf den Höhenlinienplan und die entsprechenden Schnitte von Janšák. Daraus ist zu ersehen, dass sich in der Längsachse der Höhensiedlung ein scharfer, fast unbegehbarer Grat (Schnitt AB) mit drei steilen Erhebungen hinzieht, der im SW mit einem Felsen beginnt und im NO mit einem Felsen endet, der für die Höhensiedlung lediglich ein großes Hindernis und kein Schutz ist. Der Schnitt quer durch die Höhensiedlung belehrt uns darüber, dass das Gelände hier 50°, stellenweise bis 60° Steigung hat und die Errichtung von Behausungen oder die bloße Ansiedlung unter freiem Himmel unmöglich macht. Bei einem solchen Neigungswinkel rollen die Gegenstände schon hinab. Für die Besiedlung blieben also nur einige kleinere Plateaus entlang des NO-Teils des Grates und ein 5–10 m breiter Streifen, der auf der Innenseite parallel zum Wall verläuft und durch das Abgraben des zum Bau der Befestigung benötigten Materials entstanden ist. Unter solchen Umständen war es nötig, die zum Bewohnen geeignete Oberfläche künstlich zu vergrößern. Das geschah durch die Anlage eines ganzen Systems von unregelmäßig über die Höhensiedlung verstreuten größeren und kleineren Terrassen (t), von denen angesichts ihrer beträchtlichen Ausdehnung die Terrasse T Erwähnung verdient. Diese Terrassen entstanden durch das Abgraben des Hanges. Terrassen lassen sich auch auf beiden Seiten des zur Höhensiedlung führenden Weges, in der Partie f g, feststellen. Die größte von ihnen stützt sich mit ihrer hinteren (westlichen) Seite auf den felsigen Grat, der sich 14 m über ihr Plateau erhebt (Kote 609), und scheint durch ihre Ausdehnung wie auch durch ihre verhältnismäßige Bequemlichkeit der wichtigste Teil der Höhensiedlung, ihr Kern, zu sein. Diese Vermutung würden auch mehrere nicht tiefe schüsselförmige Gruben auf ihrem Plateau stützen, mit einem Durchmesser von 150–200 m, die man für Standplätze für irgendeine Art von Behausung halten kann. Solche Standplätze, die sich einzeln an den Felsen oder den Hang anschmiegen, lassen sich auf der Höhensiedlung mehrere finden, vor allem an ihrem östlichen und südöstlichen Hang. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die künstliche Anpassung der Oberfläche an die Wohnbedürfnisse war um so nötiger, je ungünstiger die Lage ist. Die Ungeeignetheit zum Bewohnen wird auch dadurch erhöht, dass der Grat der Žibrica nahe am südöstlichen Wall verläuft und die Höhensiedlung so in zwei ungleiche Teile teilt. Der südöstliche, der Sonne zugewandte Teil ist kleiner und schmaler; der westliche und nordwestliche, durch seine Lage der Sonne ungünstig und dem Nordwind ausgesetzt, ist viel größer. Auch dieser Umstand berechtigt zu dem Schluss, dass die Žibrica keine zum dauerhaften Bewohnen bestimmte Anlage ist. Ihre Mängel im Einzelnen werden durch die beträchtliche Höhe über den umliegenden Ebenen und durch die Entfernung von geeigneten Verkehrswegen aufgewogen, die der Grund dafür gewesen sein konnten, dass stärkere Befestigungen nicht einmal errichtet wurden. Die ganze Oberfläche der Höhensiedlung war zwar bewohnt, doch konzentrierte sich das intensivere Leben angesichts der ungünstigen Geländeform auf den erwähnten Terrassen. Auf der Žibrica befindet sich am Osthang ferner die trichterförmige Grube M, deren Analogien z. B. auf der „Pohanská“ zu finden sind. Ihre Tiefe beträgt auf der Seite gegen den Hang 8 m, auf der Seite hangabwärts 2 m, der Durchmesser 6 m. Am tiefsten Punkt der Höhensiedlung, auf der Kote 570, in unmittelbarer Nachbarschaft des Walles, liegt ebenfalls eine große Grube Z, die angesichts ihrer Lage eine Zisterne für Regenwasser gewesen sein konnte. Ansonsten sicherte die Wasserversorgung in der Höhensiedlung allein die erwähnte Quelle in der heutigen Gemeinde Štitáre, von deren Nutzung auch die Siedlung als Abstiegsetappe zum unentbehrlich benötigten Wasser spricht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Oberflächenfunde von Scherben waren in der Vergangenheit sehr reichlich; beide Anlagen waren im wahrsten Sinne des Wortes damit bedeckt. Janšák fand z. B. Ränder und Hälse von Gefäßen, Bodenstücke, Scherben mit kräftigen, längs gestreckten Buckeln, die nahe am Hals angebracht waren, und auch Fragmente mit Ornamentik. Die Scherben rechnen wir meist in die Hallstattzeit. Auf der Anlage II. trat auch eine latènezeitliche und eine slawische Scherbe auf. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was war also das Ziel der Anlage auf der Žibrica, da doch der Aufenthalt des Menschen auf ihr, zumal im Winter oder zur Zeit heftiger Regen und Winde, ein wahres Leiden war? Diente die Anlage als Stützpunkt bei irgendwelchen Kampfhandlungen? Aber in diesem Fall wäre doch die unbefestigte wirtschaftliche Ansiedlung am Hang als erste einem Angriff zum Opfer gefallen, und die Krieger auf dem Gipfel des Berges, die mit ihrer Versorgung von ihr abhängig waren, wären binnen kurzem ebenfalls unterlegen! Die Höhensiedlung diente daher vorwiegend dem Wachdienst. Bei dieser Tätigkeit wechseln sich die Menschen ab, sie sind nicht an einen dauerhaften Aufenthalt gebunden und müssen sich daher mit sehr bescheidener Bequemlichkeit zufriedengeben. Und da auf der Žibrica Wachen standen – auf wen und auf was gaben sie acht? Auf der Grundlage archäologischer Funde aus dem Tal der Neutra ist sicher nachgewiesen, dass durch dieses ein urgeschichtlicher Weg von Süden nach Norden führte, den wir pauschal als Bernsteinstraße zu bezeichnen gewohnt sind. Auf diesem Weg zogen bewaffnete Expeditionen von Fremden, die im Verhältnis zur einheimischen Bevölkerung die Gefahr eines Überfalls mit sich brachten. Auch die Bewegung solcher scheinbar friedlicher Karawanen von Kaufleuten musste sehr aufmerksam verfolgt werden, und das war nach Janšák die Aufgabe der Wachsiedlung auf der Žibrica.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neueste Untersuchungen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n In den Jahren 2000 – 2002 wurden auf der Höhensiedlung Sondagegrabungen durchgeführt, die eine umfangreiche Besiedlung der Fundstelle in der späten Bronzezeit, der älteren Hallstattzeit, der Mittel- und Spätlatènezeit und im Mittelalter bestätigten. Die Ausgrabung wurde auf einer der umfangreichsten Terrassen im NO-Teil der Höhensiedlung durchgeführt, wo eine intensive Besiedlung zu erwarten war. Dicht unter der Oberfläche entdeckte man eine Kulturschicht mit einem gestörten Siedlungsbefund. Gefunden wurde auch zahlreiche Keramik mit graphitierter Oberfläche, Lehmbewurf, Holzkohle und Tierknochen. An den untersuchten Stellen war die ältere Besiedlung durch jüngere Eingriffe offensichtlich gestört. Am östlichen Rand der Terrasse stellte man einen Stein-Erde-Aufwurf fest, der vom Niveau der Errichtung an eine erhaltene Höhe von 1,10 m hatte. Es ist anzunehmen, dass er zur Befestigung des Terrassenrandes errichtet wurde. Unter dem Stein-Erde-Aufwurf befand sich eine Kulturschicht aus der späten Bronzezeit. Auf der Höhensiedlung wurden auch bronzene Pfeilspitzen aus der Hallstattzeit gefunden. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Susanne Stegmann-Rajtár, die auf der Höhensiedlung eine Prospektion durchführt, führt an (1), dass "
+       },
+       {
+        "type": "text",
+        "text": "noch während der archäologischen und geophysikalischen Prospektion im Jahr 1999 aus den Oberflächenaufsammlungen das zahlreichste Fundmaterial auf der Höhensiedlung Štitáre-Žibrica, Kr. Nitra, gewonnen wurde, weshalb hier anschließend auch eine Sondagegrabung durchgeführt wurde. Außer zahlreichen Keramikfragmenten der Lausitzer Kultur wurden an dieser Fundstelle auch sog. frühskythische bronzene Pfeilspitzen aus der Hallstattzeit gefunden. Zwei von ihnen stammten direkt aus der Wallkrone im südlichen Teil, eine aus der unmittelbaren Nähe der Innenseite des Walles im westlichen Teil. Angeblich stammt von dieser Höhensiedlung eine größere Menge davon. Während wiederholter Prospektionen in den Jahren 2000 und 2001 wurden außer Keramik der jüngeren Urnenfelderzeit auch Scherben der Hallstattzeit gefunden, die darauf hinwiesen, dass die Besiedlung hier auch in dieser Zeit fortdauerte. Auf der Grundlage von Einzelfunden gelang es, eine Besiedlung auch aus der Latènezeit, dem Mittelalter und der Neuzeit zu belegen.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ziel der Untersuchungen auf der Höhensiedlung Štitáre-Žibrica in den Jahren 2002 und 2003 war es nach Dr. Rajtárová, die gesamte zeitliche Spanne der Besiedlung festzustellen und ebenso Erkenntnisse über die Stratigrafie der Kulturschichten zu gewinnen. Die Ausgrabung wurde auf einer der umfangreichsten Terrassen im nordöstlichen Teil des Innenareals der Höhensiedlung durchgeführt, wo eine intensive Besiedlung zu erwarten war. Auf das Vorkommen von Siedlungsbefunden wiesen auch die Ergebnisse der geophysikalischen Prospektion und der Sondierbohrungen hin. Aus den untersuchten Kulturschichten I und II wurde eine große Zahl von Scherben vor allem aus der späten Bronzezeit und der frühen Eisenzeit gewonnen, vereinzelt traten hier auch Scherben aus der Latènezeit, dem Mittelalter und der Neuzeit auf. In den Schichten kamen auch eine Menge Lehmbewurf und Tierknochen sowie einige Holzkohlestücke vor. Unter dem Stein-Erde-Aufwurf am Rand der Terrasse fanden sich einige Scherben, die vorläufig der Čaka-Kultur zugeordnet werden können. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Weiter führt Dr. Rajtárová an, dass das Scherbenmaterial, obwohl es nur aus den Kulturschichten stammt, wichtige Informationen über die kulturelle und zeitliche Einordnung dieser Fundstelle liefert. Die Keramik ist sehr ausgeprägt, sie umfasst eine große Zahl verzierter Scherben und auch Fragmente verschiedener charakteristischer Gefäßtypen. Der gewonnene Komplex lieferte uns die ersten bedeutenden Erkenntnisse über den Schwerpunkt der Besiedlung auf der Höhensiedlung der Lausitzer Kultur, der nicht nur in die späte Bronzezeit, sondern auch in die ältere Hallstattzeit fällt. Eine Besiedlung der Anlagen im Tribeč-Gebirge auch in der Hallstattzeit war zwar schon länger vermutet worden, doch fehlte bislang ein so ausgeprägtes Fundmaterial wie von der Žibrica. Vergleichbare Keramikformen wie auch Verzierungsmotive sind auch aus nahe gelegenen Siedlungen derselben Zeit bekannt, die an Hängen oder in Niederungen liegen, z. B. in Štitáre-Panská hora oder in Nová Ves nad Žitavou. Parallelen zu den Amphoren mit graphitierter Oberfläche und der charakteristischen Verzierung aus mehrfachen waagerechten, senkrechten oder bogenförmigen Rillen wie von der Žibrica stammen auch aus zahlreichen Gräberfeldern der Lausitzer Kultur der jüngeren und späten Urnenfelderzeit, z. B. aus Partizánske oder aus Andač. Formen und Verzierung der Keramik der Hallstattzeit von der Žibrica haben Parallelen vor allem an Fundstellen der Nordost-Hallstattkultur.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Žibrica",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

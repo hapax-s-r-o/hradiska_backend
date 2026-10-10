@@ -1,0 +1,92 @@
+{
+ "slug": "zazracny-dazd-zachranil-rimanov-na-slovensku",
+ "data": {
+  "title": "Das Regenwunder, das die Römer an der Gran rettete",
+  "slug": "regenwunder-marcus-aurelius-an-der-gran",
+  "excerpt": "Unter Marcus Aurelius (161–180) geriet das Gebiet der Slowakei erstmals in den Mittelpunkt des Weltgeschehens: Markomannen, Quaden und Jazygen griffen 161 das Römische Reich an, der Kaiser trug den Krieg dann in ihr eigenes Land. Im Jahr 172 entkam eine an der Gran von den Quaden eingeschlossene römische Truppe dem Tod durch Verdursten nur durch einen plötzlichen Regen – das Regenwunder, das Cassius Dio in seiner Römischen Geschichte schildert.",
+  "metaTitle": "Das Regenwunder, das die Römer an der Gran rettete",
+  "metaDescription": "Marcus Aurelius, die Markomannenkriege und das Regenwunder von 172: Cassius Dio schildert, wie ein plötzlicher Regen die eingeschlossenen Römer rettete.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Cassius Dio (um 155 – nach 235)",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Römische Geschichte (Historia Romana)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Ereignis",
+    "value": "Ein Regenwunder rettete die von den Quaden eingeschlossene römische Truppe an der Gran",
+    "icon": "water"
+   },
+   {
+    "label": "Datierung",
+    "value": "Jahr 172, während der Markomannenkriege",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "161",
+    "title": "Beginn der Markomannenkriege",
+    "description": "Markomannen, Quaden und Jazygen griffen das Römische Reich an; damit begannen die fast zwei Jahrzehnte dauernden Markomannenkriege.",
+    "type": "event"
+   },
+   {
+    "year": "172–175",
+    "title": "Römische Feldzüge in das Gebiet der heutigen Slowakei",
+    "description": "Marcus Aurelius griff das Gebiet der Germanen an; seine Truppen drangen in die Täler der Waag, der Neutra und der Gran vor.",
+    "type": "event"
+   },
+   {
+    "year": "172",
+    "title": "Das Regenwunder an der Gran",
+    "description": "Eine von den Quaden an der Gran eingeschlossene römische Truppe wurde durch plötzlichen Regen und Hagel gerettet, was die Zeitgenossen dem Eingreifen der Götter zuschrieben.",
+    "type": "event"
+   },
+   {
+    "year": "177–180",
+    "title": "Fortsetzung der Feldzüge",
+    "description": "Marcus Aurelius setzte seinen weiteren Feldzug gegen die germanischen Stämme fort.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4165,
+    "caption": "(1) Die Szene ist an der Mark-Aurel-Säule in Rom dargestellt",
+    "alt": "(1) Die Szene ist an der Mark-Aurel-Säule in Rom dargestellt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet der Slowakei geriet erstmals unmittelbar in den Mittelpunkt des Weltgeschehens unter der Herrschaft des römischen Kaisers Marcus Aurelius (161–180). Die germanischen Markomannen und Quaden griffen gemeinsam mit den sarmatischen Jazygen, die nomadisch zwischen Donau und Theiß lebten, im Jahr 161 das Gebiet des Römischen Reiches an und begannen damit die zwei Jahrzehnte dauernden sogenannten Markomannenkriege. Marcus Aurelius drängte sie zunächst aus seinem Gebiet zurück und griff dann – in den Jahren 172–175 und 177–180 – ihr Gebiet an, wobei seine Truppen tief in die Täler der Flüsse Waag, Neutra und Gran vordrangen. Im Jahr 172 trug sich an der Gran ein merkwürdiges Ereignis zu. Eine römische Truppe geriet im Verlauf eines heißen Sommertages in Umschließung, und es drohte ihr der Tod durch Verdursten. Gerettet wurde sie jedoch durch einen plötzlichen und unerwarteten Regen, in dem alle Beteiligten das Eingreifen der Götter sahen. Die Geschichte hält der Historiker Cassius Dio (um 155 – nach 235) in seiner Römischen Geschichte fest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wahrlich, nach vielen schweren Kämpfen und Gefahren unterwarf Marcus Aurelius die Markomannen und die Jazygen. Ja, gegen die sogenannten Quaden erwuchs daraus ein großer Krieg, und es glückte ihm ein unglaublicher Sieg; vielmehr aber war es ein Geschenk der Gottheit. Denn als die Römer in der Schlacht in eine gefährliche Lage gerieten, rettete sie die Gottheit auf unglaubliche Weise. Als sie nämlich die Quaden an einem günstigen Ort umschlossen hatten, kämpften die Römer kühn mit aneinandergedrängten Schilden. Da stellten die Barbaren den Kampf ein in der Erwartung, sie, erschöpft von Glut und Durst, leicht gefangen zu nehmen. Alles ringsumher sperrten sie ab, damit die Römer von nirgendwoher Wasser erlangen konnten. Denn auch der Zahl nach waren sie ihnen weit überlegen. Als sich die Römer also in äußerster Not befanden, da sie erschöpft und verwundet waren, dem Sonnenbrand und dem Durst ausgesetzt, und als sie deshalb schon weder zu kämpfen noch irgendwohin zurückzuweichen vermochten, sondern in Schlachtreihe geordnet, von der Hitze versengt, auf der Stelle stehen blieben, ballte sich plötzlich eine Menge von Wolken zusammen und es ging ein dichter Platzregen herab, was gewiss durch göttliches Eingreifen geschah. Man erzählt nämlich, ein ägyptischer Magier Arnuphis, den Marcus Aurelius bei sich hatte, habe durch gewisse Zauberkünste bestimmte Dämonen und unter anderen vor allem den Herrscher der Luft, Hermes, herbeigerufen. Durch deren Wirken habe er den Regen auf die Erde herabgezogen.\nAls der Regen herabkam, hoben zuerst alle die Gesichter zum Himmel und fingen sich das Wasser in den Mund. Dann hielten die einen die Schilde hin, andere auch die Helme, sie selbst schlürften gierig und gaben auch den Pferden zu trinken. Und obwohl die Barbaren auf sie zuliefen, hörten sie nicht auf zu trinken und bemühten sich gleichzeitig zu kämpfen. Ja, einige schlürften, schon verwundet, auf einmal Wasser und Blut, das ihnen in die Helme rann. Und sie hätten wohl ein schreckliches Verhängnis erlitten, denn die Feinde drangen auf sie ein, während sie zumeist mit dem Trinken beschäftigt waren, wäre nicht gegen die Feinde ein mächtiger Hagelschlag mit einer Menge von Blitzen losgebrochen. Da sah man vom Himmel auf dieselbe Stelle Wasser und Feuer herabfallen. So wurden die einen durchnässt und tranken, die anderen verbrannte das Feuer und sie starben. Und die Römer berührte das Feuer nicht einmal, ja, wenn es irgendwo zu ihnen gelangte, erlosch es sogleich, während den Barbaren auch der Regen nicht von Nutzen war, sondern die Flammen an ihnen wie Öl noch stärker entfachte, sodass sie, vom Regen durchnässt, nach – Wasser suchten. Da verwundeten sich die einen, um das Feuer sei es auch mit Blut zu löschen, die anderen flohen sogar zu den Römern, denn nur diese hätten, wie es heißt, rettendes Wasser. Und auch Marcus Aurelius selbst erbarmte sich ihrer freilich.",
+    "author": "Cassius Dio",
+    "source": "Römische Geschichte (Historia Romana)"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

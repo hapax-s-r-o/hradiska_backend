@@ -1,0 +1,246 @@
+{
+ "slug": "hainburg-braunsberg",
+ "data": {
+  "title": "Hainburg – Braunsberg: eine keltische Höhensiedlung an der Ungarischen Pforte",
+  "slug": "hainburg-braunsberg-keltische-hoehensiedlung",
+  "excerpt": "Der frei stehende Braunsberg (376 m) über der österreichischen Kleinstadt Hainburg an der Donau trug eine keltische Höhensiedlung – eine von drei Anlagen im Bereich der Ungarischen Pforte, gemeinsam mit Devín und dem Oppidum auf dem Burgberg von Bratislava. Errichtet hat sie vermutlich der keltische Stamm der Boier. Auf dem Gipfel stehen heute ein rekonstruierter Teil der Palisade und ein Wachturm; der Wall aus Holz und Erde wird in das 2. Jahrhundert v. Chr. datiert.",
+  "metaTitle": "Hainburg – Braunsberg: keltische Höhensiedlung",
+  "metaDescription": "Die keltische Höhensiedlung auf dem Braunsberg bei Hainburg an der Donau, eine von drei Anlagen im Bereich der Ungarischen Pforte bei Bratislava.",
+  "keyFacts": [
+   {
+    "label": "Höhe des Berges",
+    "value": "376 m, frei stehender Berg bei Hainburg an der Donau (Österreich)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Eine von drei Anlagen der Ungarischen Pforte",
+    "value": "gemeinsam mit Devín und dem Oppidum auf dem Burgberg von Bratislava",
+    "icon": "flag"
+   },
+   {
+    "label": "Vermutete Erbauer",
+    "value": "der keltische Stamm der Boier",
+    "icon": "crown"
+   },
+   {
+    "label": "Strategische Lage",
+    "value": "Kreuzung der Bernsteinstraße und der Donaustraße",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7.–6. Jahrhundert v. Chr.",
+    "title": "Älteste Besiedlung in der Hallstattzeit",
+    "description": "Die älteste bedeutend vertretene Besiedlung ist in der Hallstattzeit zu erkennen, als hier ein wichtiges Zentrum vermutet wird; die reichen Hügelgräber dieser Zeit in der Nähe der Höhensiedlung bezeugen die Bedeutung der Fundstelle.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Jahrhundert v. Chr.",
+    "title": "Bau des Walls aus Holz und Erde",
+    "description": "Der Wall wurde in das 2. Jahrhundert v. Chr. datiert – im südlichen und westlichen Teil der Höhensiedlung erreichte er etwa 1,5 m, im nördlichen und östlichen Teil etwa 3 m Höhe, mit zwei Palisadenreihen.",
+    "type": "construction"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Keltische Besiedlung mit Grubenhäusern",
+    "description": "Zur keltischen Besiedlung gehörten Häuser – eingetiefte Grubenhäuser mit Feuerstelle – und Vorratsgefäße; das Graphit-Scherbenmaterial erlaubt die Datierung der Häuser in diese Zeit.",
+    "type": "era"
+   },
+   {
+    "year": "erste Jahrzehnte n. Chr.",
+    "title": "Untergang der Höhensiedlung",
+    "description": "An der Befestigung ist ein Zerstörungshorizont erkennbar, die Höhensiedlung wurde in dieser Zeit offenbar zerstört, besonders deutlich im Bereich des einstigen Tores und der angrenzenden Befestigung.",
+    "type": "destruction"
+   },
+   {
+    "year": "etwa 4.–5. Jahrhundert",
+    "title": "Erneuerung der Befestigung",
+    "description": "In der unruhigen Zeit des Untergangs des Römischen Reiches und der Völkerwanderung wurde entlang der Hochfläche der Höhensiedlung an ihrem Rand ein trocken gesetzter Steinwall errichtet.",
+    "type": "construction"
+   },
+   {
+    "year": "1931",
+    "title": "Erste archäologische Ausgrabung",
+    "description": "Die erste archäologische Ausgrabung auf dem Braunsberg wurde im Jahr 1931 durchgeführt und setzte sich in den folgenden Jahrzehnten bis in die 1990er Jahre fort.",
+    "type": "discovery"
+   },
+   {
+    "year": "1988",
+    "title": "Genaue Vermessung der Befestigung",
+    "description": "Im Jahr 1988 wurde die Befestigung der Höhensiedlung genau gemessen und analysiert.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3434,
+    "caption": "Foto: Darken Cara",
+    "alt": "Foto: Darken Cara"
+   },
+   {
+    "mediaId": 3441,
+    "caption": "Der noch heute gut sichtbare Wall",
+    "alt": "Der noch heute gut sichtbare Wall"
+   },
+   {
+    "mediaId": 3442,
+    "caption": "Blick von der Höhensiedlung auf Hainburg",
+    "alt": "Blick von der Höhensiedlung auf Hainburg"
+   },
+   {
+    "mediaId": 3452,
+    "caption": "Blick von der Höhensiedlung auf die Burg Hainburg",
+    "alt": "Blick von der Höhensiedlung auf die Burg Hainburg"
+   },
+   {
+    "mediaId": 3453,
+    "caption": "Erneut die sichtbare Befestigung",
+    "alt": "Erneut die sichtbare Befestigung"
+   },
+   {
+    "mediaId": 3454,
+    "caption": "Der Wall samt Turm und Palisade",
+    "alt": "Der Wall samt Turm und Palisade"
+   },
+   {
+    "mediaId": 3455,
+    "caption": "Blick von der Höhensiedlung auf Devín",
+    "alt": "Blick von der Höhensiedlung auf Devín"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Berg Braunsberg, der in der österreichischen Kleinstadt Hainburg an der Donau liegt, ist eine von drei keltischen Höhensiedlungen, die sich im Bereich der sogenannten Ungarischen Pforte befinden. Diesen markanten, 376 Meter hohen frei stehenden Berg bemerkt jeder Besucher, der durch diese malerische österreichische Kleinstadt in unmittelbarer Nähe von Bratislava (Pressburg) fährt. Auf seinem Gipfel zieht schon von weitem der rekonstruierte Teil der Palisade und des Wachturms Ihren Blick auf sich. Am Bau der Rekonstruktion der Befestigung waren auch bedeutende slowakische Archäologen beteiligt. Nur knapp 2 Kilometer nordöstlich des Braunsbergs erhob sich in der Latènezeit die Höhensiedlung Devín (Theben). Die dritte – zu jener Zeit bedeutendste – Anlage war das Oppidum auf dem Burgberg von Bratislava und in dessen Suburbium, das offenbar eine zentrale Funktion hatte. Es wird angenommen, dass die Höhensiedlungen vor 2000 Jahren der keltische Stamm der Boier errichtete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste archäologische Ausgrabung auf dem Braunsberg wurde im Jahr 1931 durchgeführt und setzte sich in den folgenden Jahrzehnten bis in die 1990er Jahre fort. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Foto: Darken Cara",
+    "alt": "Foto: Darken Cara",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Besiedlung, die auf der Höhensiedlung bedeutend vertreten war, ist in der Hallstattzeit (ältere Eisenzeit) zu erkennen – etwa im 7. bis 6. Jahrhundert vor unserer Zeitrechnung, als hier ein wichtiges Zentrum vermutet wird. Bislang ist es jedoch nicht gelungen, Überreste einer Befestigung aus dieser Zeit zu erfassen. Die reichen Hügelgräber, die in dieser Zeit in unmittelbarer Nähe der Höhensiedlung errichtet wurden, bezeugen die Bedeutung der Fundstelle in dieser Zeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1988 wurde die Befestigung der Höhensiedlung genau gemessen und analysiert. Es wurde festgestellt, dass im südlichen und westlichen Teil der Höhensiedlung ein etwa 1,5 m hoher Wall aus Holz und Erde stand. Im nördlichen und östlichen Teil, auf der leicht abfallenden Seite des Berges, hatte die Befestigung ohne Palisade eine Höhe von etwa 3 m. Der Wall wird in das 2. Jahrhundert v. Chr. datiert. Im Rahmen der Befestigung wurden zwei Palisadenreihen identifiziert, eine befand sich auf der Wallkrone, die zweite etwa 2 Meter vor der Mauer. In den 1930er Jahren wurden Steine erfasst, jedoch nicht ausreichend untersucht, die offenbar eine Steinfront bildeten, die an den Wall aus Holz und Erde angebunden war. In der Zeit der ersten Jahrzehnte unserer Zeitrechnung ist an der Befestigung ein Zerstörungshorizont erkennbar, und somit wurde die Höhensiedlung in dieser Zeit offenbar zerstört. Im Bereich des einstigen Tores und der angrenzenden Befestigung ist diese Destruktion besonders deutlich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dieser Zerstörung der Höhensiedlung finden wir in späterer Zeit erneut Spuren einer Erneuerung der Befestigung, und zwar in der Zeit etwa des 4.–5. Jahrhunderts, das heißt in der unruhigen Zeit des Untergangs des Römischen Reiches und der Völkerwanderung. Damals wurde entlang der Hochfläche der Höhensiedlung an ihrem Rand ein trocken gesetzter Steinwall errichtet. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Hainburg - Braunsberg",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur keltischen Besiedlung der Höhensiedlung gehörten gewiss Häuser – eingetiefte Grubenhäuser mit Feuerstelle – und Vorratsgefäße, die während der Ausgrabung in Hainburg in der Nähe der Höhensiedlung entdeckt wurden. In ihnen wurde auch Graphit-Scherbenmaterial erfasst, das eine Datierung der Häuser in die Zeit des 1. Jahrhunderts vor unserer Zeitrechnung ermöglicht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es zeigt sich, dass der Bereich der Ungarischen Pforte bereits in der älteren Eisenzeit eine wichtige Kreuzung bedeutender antiker Wege war – der Bernsteinstraße und der sogenannten Donaustraße, die für den Fernhandel jener Zeit von Schlüsselbedeutung waren. Die Bedeutung dieser Kreuzung unterstreicht die Errichtung der genannten drei Höhensiedlungen, die offenbar unter anderem die Aufgabe hatten, den Fernhandel zu kontrollieren und von ihm zu profitieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

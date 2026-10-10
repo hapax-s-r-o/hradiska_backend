@@ -1,0 +1,222 @@
+{
+ "slug": "najstarsi-recept-na-medovinu-14-storocie",
+ "data": {
+  "title": "Das älteste Rezept für Met (14. Jahrhundert)",
+  "slug": "aeltestes-met-rezept-14-jahrhundert",
+  "excerpt": "Met gilt als typisch slawisches Getränk, das unsere Vorfahren schon in großmährischer Zeit tranken. Ein Rezept aus dem 9. Jahrhundert ist nicht erhalten – das wohl älteste überlieferte stammt aus der Mitte des 14. Jahrhunderts und steht in dem Kochbuch Das Buch von Guter Spise, das der Notar des Würzburger Erzbischofs Michael de Leone zusammenstellte. Hier finden Sie es im mittelhochdeutschen Wortlaut, in einer Übertragung und dazu eine Anleitung zum Nachmachen.",
+  "metaTitle": "Das älteste Rezept für Met (14. Jahrhundert)",
+  "metaDescription": "Met gilt als typisch slawisches Getränk – das wohl älteste erhaltene Rezept für seine Herstellung stammt aus dem Jahr 1346 und ist hier nachzulesen.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Michael de Leone, Notar des Erzbischofs von Würzburg",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Das Buch von Guter Spise",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung",
+    "value": "Buch 1345–1354 zusammengestellt, das Rezept auf das Jahr 1346 datiert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Wohl das älteste erhaltene schriftliche Rezept für Met",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1345–1354",
+    "title": "Zusammenstellung des Buches",
+    "description": "Michael de Leone, Notar des Würzburger Erzbischofs, stellte das Kochbuch Das Buch von Guter Spise zusammen.",
+    "type": "event"
+   },
+   {
+    "year": "1346",
+    "title": "Datierung des Met-Rezepts",
+    "description": "Das im Buch enthaltene Rezept für Met ist auf dieses Jahr datiert.",
+    "type": "event"
+   },
+   {
+    "year": "1844",
+    "title": "Neuhochdeutsche Übersetzung",
+    "description": "Das Buch erschien in einer Übersetzung ins Neuhochdeutsche.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4157,
+    "alt": "Seite einer mittelalterlichen Handschrift mit zwei Textspalten und einer roten Initiale"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Met gilt als typisches slawisches alkoholisches Getränk, das unsere Vorfahren schon in großmährischer Zeit, möglicherweise auch noch früher, tranken. Wie aber schmeckte solcher Met damals? Welches Rezept verwendeten sie zu seiner Herstellung? Ein Rezept aus dem 9. Jahrhundert ist nicht erhalten. Es gelang uns jedoch, das wohl älteste erhaltene Rezept für dieses göttliche Getränk zu entdecken. Das Rezept erschien in einem deutschen Buch und stammt aus der Mitte des 14. Jahrhunderts. Hier ist es also, und wer möchte, der kann es ausprobieren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Met (Das Buch von Guter Spise), Deutschland, 1346"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wer guten Met machen will, der erwärme reines Wasser so, dass er die Hand gerade darin halten kann. Und er nehme zwei Maß (3 l) Wasser und ein Maß (1,5 l) Honig. Er verrühre sie mit einer Stange und lasse es eine Weile absetzen und seihe es dann durch ein reines Tuch oder durch ein Haarsieb in ein reines Gefäß. Und dann koche er es so lange, wie einer einen Acker hin und zurück abschreitet, und entferne den Schaum von der Würze mit einer Schüssel mit Löchern. Der Schaum bleibt in der Schüssel und nicht in der Würze. Weiter gieße er den Met in ein reines Fässchen und bedecke es so, dass die Dämpfe nicht entweichen können, so lange, bis er die Hand darin halten kann. Dann nehme er einen halbmaßigen Topf und fülle ihn zur Hälfte mit Hopfen und einer Handvoll Salbei und koche das mit der Würze so lange, wie einer eine Meile geht, und nehme eine halbe Nussschale frischer Hefe und gebe sie hinzu und rühre um, damit es gäre. So bedecke er es ebenso, dass die Dämpfe einen Tag und eine Nacht entweichen können. Dann seihe er den Met durch ein reines Tuch oder durch ein Haarsieb und gieße ihn in ein reines Fässchen und lasse ihn drei Tage und drei Nächte gären und fülle jeden Abend nach. Dort lasse er es sich dann setzen und sorge für das Nachfüllen der Hefe. Und er lasse es acht Tage lagern, damit es sich klärt, und fülle jeden Abend nach. Er lasse es sich in einem geharzten Fässchen setzen und lasse es ganze acht Tage lagern und trinke zum ersten Mal nach sechs bis acht Wochen. Dann ist er übrigens am besten.",
+    "author": null,
+    "source": "Das Buch von Guter Spise, 1346 (nach der tschechischen Übersetzung)"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das älteste Rezept für Met (14. Jahrhundert)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1,5 l Honig, 3 l Wasser, etwa 0,4 l Hopfen, eine Handvoll Salbei, Hefe. Rühren Sie in 3 Litern warmem Wasser 1,5 Liter reinen Honig ein. Kochen Sie es 5 Minuten und schöpfen Sie mit einem Sieb den Schaum ab. Nehmen Sie es vom Feuer und decken Sie es mit einem Deckel zu. In einen anderen Topf schütten Sie Hopfen und Salbei, übergießen Sie sie mit dem noch warmen Honigabkochsud, rühren Sie gut um und kochen Sie es unter ständigem Rühren etwa 1,5 Stunden. Nehmen Sie es vom Feuer, rühren Sie einen Teelöffel Hefe ein, decken Sie es mit einem Deckel zu und lassen Sie es 24 Stunden gären. Dann seihen Sie es in einen reinen Topf, geben Sie wieder einen Teelöffel Hefe hinzu und stellen Sie es für weitere 24 Stunden beiseite. Dasselbe machen Sie noch zweimal. Vom fünften bis zum zwölften Tag bröseln Sie nur Hefe nach. Am dreizehnten Tag seihen Sie es ab und lassen es weitere 4–6 Wochen reifen. Für das Gären und das Absetzen empfehle ich, des Geschmacks wegen Gefäße aus Steingut oder Holz zu verwenden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Deutsches Original:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ain mete"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der guten mete machen wil, der werme reinen brunnen, daz er die hant dor inne liden künne. und neme zwei maz wazzers und eine honiges. daz rüere man mit eime stecken, und laz ez ein wile hangen. und sihe ez denne durch ein rein tuch oder durch ein harsip in ein rein vaz. und siede denne die selben wirtz gein eime acker lane hin und wider und schume die wirtz mit einer vensterehten schüzzeln. da der schume inne blibe und niht die wirtz. dor noch giuz den mete in ein rein vaz und bedecke in, daz der bradem niht uz müge, als lange daz man die hant dor inne geliden müge. So nim denne ein halp mezzigen hafen und tu in halp vol hopphen und ein hant vol salbey und siede daz mit der wirtz gein einer halben mile. und giuz ez denne in die wirtz, und nim frischer hoven ein halp nözzeln und giuz ez dor in. und giuz ez under ein ander daz ez geschende werde. so decke zu, daz der bradem iht uz müge einen tae und eine naht. So seige denne den mete durch ein reyn tuch oder durch ein harsip. und vazze in in ein reyn vaz und lazze in iern drie tac und drie naht und fülle in alle abende, dar nach lazze man in aber abe und hüete daz iht hefen dor in kumme und laz in aht tage ligen daz er valle. und fülle in alle abende. dar nach loz in abe in ein gehertztez vas und laz in ligen aht tage vol und trinke in denne erst sechs wucher oder ehte. so ist er allerbeste.",
+    "author": null,
+    "source": "Das Buch von Guter Spise, 1346 (ursprünglicher mittelhochdeutscher Wortlaut)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Buch von Guter Spise"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieses Kochbuch stellte irgendwann zwischen den Jahren 1345 und 1354 Michael de Leone zusammen, der Notar des Erzbischofs von Würzburg. Im Jahr 1844 erschien es in einer neuhochdeutschen Übersetzung. Das Buch hat zwei Teile, der erste enthält 57 Rezepte und der zweite 44. Es scheint, dass diese Teile erst nachträglich verbunden wurden. Besonders der erste Teil wirkt wie ein eigenständiger Text mit einem Vorwort und einem abschließenden Nachsatz. Nach diesem Nachsatz folgt kein weiterer Text, sondern es bleibt hier fast ein Drittel der Seite frei. Das nächste Rezept beginnt dann erst auf einer neuen Seite. Die beschriebenen Gerichte waren offenbar keine alltäglichen Speisen, sondern eher festliche. Häufig werden darin teurere Zutaten verwendet, wie z. B. Mandeln, Safran, Reismehl, Weißgebäck, viel Fett und Ähnliches. Meist handelt es sich um Mehlspeisen, Puddings und Nachtische. Das Buch war wahrscheinlich für ein bürgerliches Lesepublikum bestimmt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Also: zum Wohl!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Text ist von einer Seite übernommen, auf der sich auch alle übrigen Rezepte aus diesem außergewöhnlichen Buch finden, Sie können also mit dem Kochen beginnen..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

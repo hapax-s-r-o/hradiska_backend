@@ -1,0 +1,540 @@
+{
+ "slug": "zemianske-podhradie-martakova-skala",
+ "data": {
+  "title": "Zemianske Podhradie – die Martákova skala in den Weißen Karpaten",
+  "slug": "martakova-skala-hoehensiedlung-bosaca",
+  "excerpt": "Die Martákova skala im Tal von Bošáca trägt eine in drei Phasen errichtete Höhensiedlung der Lausitzer Kultur; als erster grub hier 1887 Jozef Ľudovít Holuby. Nach den Kelten der Púchov-Kultur und den germanischen Quaden saßen hier im 9.–11. Jahrhundert die Slawen – davon zeugen ein keltischer Hortfund eiserner Werkzeuge, eine Rosettenfibel, ein Riemendurchzug aus der Schwertgarnitur und eine massive Trense.",
+  "metaTitle": "Zemianske Podhradie – Martákova skala, Weiße Karpaten",
+  "metaDescription": "Die Höhensiedlung Martákova skala in den Weißen Karpaten: Wall der Lausitzer Kultur, keltischer Hortfund, Fibel der Quaden und slawische Metallfunde.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Tal von Bošáca, Ausläufer des Grates der Hradištné Vŕšky und der Bašta",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "in drei Phasen errichteter Wall mit hölzerner Kastenkonstruktion",
+    "icon": "shield"
+   },
+   {
+    "label": "Rosettenfibel",
+    "value": "prachtvolles Exemplar einer Rosettenfibel mit stilisierten Vögeln aus der späten Bronzezeit",
+    "icon": "star"
+   },
+   {
+    "label": "Funde Holubys (1887)",
+    "value": "etwa 30 eiserne Pfeile, eine abgebrochene Pikenspitze, zwei Sporen, 5 Sicheln und eine Fibel",
+    "icon": "book"
+   },
+   {
+    "label": "Keltischer Hortfund",
+    "value": "eiserne Axt, großer Meißel und Messer aus der Spätlatènezeit, 1987 gefunden",
+    "icon": "custom"
+   },
+   {
+    "label": "Bronzefibel der Quaden",
+    "value": "eingliedrige Fibel mit vierwindiger Spirale, 6,7 cm lang",
+    "icon": "star"
+   },
+   {
+    "label": "Slawischer Riemendurchzug",
+    "value": "Teil einer luxuriösen Ziergarnitur zur Befestigung des Schwertes am Gürtel, datiert in die 1. Hälfte des 9. Jahrhunderts",
+    "icon": "shield"
+   },
+   {
+    "label": "Trense",
+    "value": "massive eiserne Trense mit einer maximalen Spannweite von 21,3 cm, Erzeugnis eines einheimischen Schmieds",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Späte Bronzezeit",
+    "title": "Errichtung der Anlage durch das Volk der Lausitzer Kultur",
+    "description": "Die Höhensiedlung in Zemianske Podhradie wurde in drei Phasen errichtet und mit einem Wall in hölzerner Kastenkonstruktion befestigt.",
+    "type": "construction"
+   },
+   {
+    "year": "100 – 0 v. Chr. (Spätlatènezeit)",
+    "title": "Besiedlung durch die Kelten",
+    "description": "Die keltische Bevölkerung der Púchov-Kultur nutzte die vorteilhafte Lage der ehemaligen Lausitzer Höhensiedlung.",
+    "type": "era"
+   },
+   {
+    "year": "1887",
+    "title": "Erste archäologische Begehung durch J. Ľ. Holuby",
+    "description": "Jozef Ľudovít Holuby erforschte als erster die Höhensiedlung und publizierte die Funde (eiserne Pfeile, Sporen, Sicheln, eine Fibel und anderes) in der Zeitschrift Slovenské pohľady.",
+    "type": "discovery"
+   },
+   {
+    "year": "9.–11. Jahrhundert",
+    "title": "Slawische Besiedlung der Anlage",
+    "description": "Den Burgwall bewohnten slawische Vorfahren, die nach sich sowohl Keramik als auch bedeutende Metallgegenstände hinterließen.",
+    "type": "era"
+   },
+   {
+    "year": "1. Hälfte des 9. Jahrhunderts",
+    "title": "Datierung des slawischen Riemendurchzugs",
+    "description": "Dr. Titus Kolník datierte den gefundenen eisernen Riemendurchzug in die Zeit des Fürstentums Neutra (Blatnica-Mikulčice-Horizont).",
+    "type": "event"
+   },
+   {
+    "year": "1987",
+    "title": "Entdeckung des keltischen Hortfundes eiserner Gegenstände",
+    "description": "Am Fuße einer der Klippen der Martákova skala wurde ein keltischer Hortfund entdeckt – eine massive eiserne Axt mit rechteckiger Tülle, ein großer Meißel und ein Messer aus der Spätlatènezeit.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6417,
+    "alt": "Senkrechtes Luftbild der bewaldeten Kuppe der Höhensiedlung"
+   },
+   {
+    "mediaId": 2450,
+    "alt": "LiDAR-Schummerungsrelief mit dem Umriss der Befestigung"
+   },
+   {
+    "mediaId": 2451,
+    "alt": "Hortfund eiserner Gegenstände: Messer, Axt und Stäbchen mit Maßstab"
+   },
+   {
+    "mediaId": 2452,
+    "alt": "Axtförmiger Eisenbarren auf einem Untergrund mit Umrisszeichnung"
+   },
+   {
+    "mediaId": 2453,
+    "alt": "Schwarzweiße Tafel des slawischen Hortfundes: Äxte, Beschläge, Ringe und Stäbchen"
+   },
+   {
+    "mediaId": 2454,
+    "alt": "Drei eiserne Fibeln mit bogenförmigem Bügel auf hellem Untergrund"
+   },
+   {
+    "mediaId": 2455,
+    "alt": "Zwei verzierte bronzene Riemendurchzüge, Schwarzweißfotografie"
+   },
+   {
+    "mediaId": 2456,
+    "alt": "Drei eiserne Trensen mit Ringen und Maßstab"
+   },
+   {
+    "mediaId": 2457,
+    "alt": "Zugewachsener Graben der Höhensiedlung im Frühlingsgrün"
+   },
+   {
+    "mediaId": 2458,
+    "alt": "Wall der Höhensiedlung mit Grasbewuchs zwischen Bäumen"
+   },
+   {
+    "mediaId": 2459,
+    "alt": "Graben der Höhensiedlung im blühenden Frühlingswald"
+   },
+   {
+    "mediaId": 2460,
+    "alt": "Reste von Gras und Laub auf dem Wall, im Vordergrund trockene Halme"
+   },
+   {
+    "mediaId": 2461,
+    "alt": "Keramikfragment in freigelegter Erde"
+   },
+   {
+    "mediaId": 2462,
+    "alt": "Wall der Höhensiedlung im blattlosen Wald im Frühling"
+   },
+   {
+    "mediaId": 2463,
+    "alt": "Gefäßfragment zwischen Laub und Steinen"
+   },
+   {
+    "mediaId": 2464,
+    "alt": "Handfläche mit einem Stück Eisenschlacke von der Höhensiedlung"
+   },
+   {
+    "mediaId": 2465,
+    "alt": "Hang der Höhensiedlung mit Gras und abgefallenen Ästen"
+   },
+   {
+    "mediaId": 2466,
+    "alt": "Sträucher mit roten Weißdornfrüchten auf der Höhensiedlung"
+   },
+   {
+    "mediaId": 2467,
+    "alt": "Detail eines moosbewachsenen Steins aus dem Wall"
+   },
+   {
+    "mediaId": 2468,
+    "alt": "Luftbild des bewaldeten Grates der Höhensiedlung über den Feldern"
+   },
+   {
+    "mediaId": 2469,
+    "alt": "Luftbild der Höhensiedlung mit Resten von Nadelbäumen"
+   },
+   {
+    "mediaId": 2470,
+    "alt": "Luftbild des Tals und der bewaldeten Hänge mit der Höhensiedlung"
+   },
+   {
+    "mediaId": 2471,
+    "alt": "Senkrechtes Luftbild der Kuppe der bewaldeten Höhensiedlung"
+   },
+   {
+    "mediaId": 2472,
+    "alt": "Luftbild des Grates der Höhensiedlung im Winterkleid"
+   },
+   {
+    "mediaId": 2473,
+    "alt": "Luftbild des Tals mit markierter Höhensiedlung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Region der Weißen Karpaten besiedelte der Mensch bereits in der Steinzeit, denn sie ist ein Gebiet mit Lagerstätten geeigneten Rohstoffs für die Herstellung geschlagener Steinwerkzeuge. Später – in der jüngeren und späten Bronzezeit bis in die Hallstattzeit (1200 – 700 – 500 Jahre v. Chr.) – setzt in dieser Region ein Aufschwung im Bau von befestigten Höhensiedlungen und Siedlungen der Lausitzer Kultur ein. Die Höhensiedlungen der Lausitzer Kultur, die die natürlichen Gegebenheiten des Schutzes vor dem Feind nutzen, sind meist mit mächtigen Wällen befestigt. Ein Beispiel ist die Höhensiedlung in Zemianske Podhradie aus der späten Bronzezeit, die mit einem Wall in hölzerner Kastenkonstruktion befestigt war und in drei Phasen errichtet wurde. Aus dieser Zeit stammt ein interessanter Fund – ein prachtvolles Exemplar einer Rosettenfibel mit stilisierten Vögeln. Es ist ein anspruchsvolles Erzeugnis eines urgeschichtlichen Handwerkers, hergestellt für das prunkvolle Gewand eines Häuptlings oder einer anderen bedeutenden Person."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Spätlatènezeit (100 – 0 Jahre v. Chr.) nutzte die keltische Bevölkerung häufig die vorteilhaften Lagen der Lausitzer Besiedlung, z. B. in Zemianske Podhradie, Dolná Súča, Vršatské Podhradie, Mikušovce, Krivoklát, Lednica. Für die Region der Weißen Karpaten ist in der Zeit der Besiedlung durch die historischen Kelten die Púchov-Kultur gemeinsam, die neben der einheimischen Komponente Elemente der keltischen und, nach der Zeitenwende, auch der römischen Zivilisation enthält."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen nutzten nach ihrer Ankunft im Gebiet der heutigen Slowakei einige urgeschichtliche Höhenlagen, z. B. in Zemianske Podhradie – die Lagen Pod Hrádky, Martákova skala, Bašta, oder in Horné Srnie – die Lage Ostrá hora. Erneut besiedelt wurden sie im 9.–10. Jahrhundert. Jüngere Siedlungen und Einzelfunde aus dem 11. bis 12. Jahrhundert in Vrbovce, Nová Bošáca und Lubina-Hrnčiarové sind ein Beleg für die Kontinuität der slawischen Besiedlung nach dem Untergang Großmährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Artikel widmen wir uns der Höhensiedlung Martákova skala, die sich im Tal von Bošáca befindet. Als erster erforschte die Anlage im 19. Jahrhundert der slowakische Gelehrte, Wissenschaftler, Botaniker, Polyhistor, Volkskundler, Historiker, Archäologe, Schriftsteller, Ethnograf und nationale Erwecker Jozef Ľudovít Holuby. In dem Artikel, der in der Zeitschrift Slovenské pohľady, Jahrgang VII. vom 25. Oktober 1887, Seite 217 – 221, erschien, führt er an, dass „"
+       },
+       {
+        "type": "text",
+        "text": "unter der Bašta wiederum die Marťákova skala liegt, der letzte in das Tal von Bošáca hervortretende Ausläufer des Grates der Hradištné Vŕšky und der Bašta. Auch die Marťákova skala (Marťákova genannt deshalb, weil in ihrer Nähe seit alten Zeiten die Familie Marťákovská – noch jetzt in Zem. Podhradie lebend – Wiesen und Rodungsäcker besitzt) ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "war von Süden und Westen mit einem dreifachen Aufwurf umhegt, wogegen sie von Norden und Osten beinahe unzugänglich und steil abfallend ist. ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "In diesen aufgegrabenen Aufwürfen ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "fanden wir etwa 30 eiserne Pfeile",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " (von denen wir mehr als die Hälfte verschenkt haben), eine abgebrochene ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Pikenspitze, zwei Sporen, 5 Sicheln, eine schöne Spange (Fibel), eine Ahle und viele verschiedene Eisenstücke, aber keinerlei Bronze, einige Spinnwirtel aus gebranntem Lehm, ein sehr großes zerbrochenes Hirschgeweih, ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ein kleineres, am Ende zugespitztes Geweih und ein gekrümmtes Horn (ob von einem Ochsen?). Eine ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "messingene Presse",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", deren Mutter in einer durchbrochenen, auf vier Säulchen stehenden, einem Laternchen ähnlichen gotischen Zierde endet und die ich dort ausgegraben habe, lässt jetzt nicht erraten: wozu sie einst eigentlich diente? Auch hier in den Aufwürfen der Marťákova skala ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "eine Fülle grober Scherben",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " haben wir ausgegraben, aus denen man auf die riesigen Ausmaße der ganzen Gefäße schließen kann. Solche Töpfe konnte man nicht zum Kochen verwenden, sie dienten aber auch nicht als Urnen, sondern konnten vielleicht für Getreide oder zur Aufbewahrung von Flüssigkeiten gebraucht werden. Bis jetzt ist es uns nirgends gelungen, einen ganzen Topf auszugraben. Auch auf der Marťákova skala fällt sogleich jedem auf, dass sich die meisten Scherben und eisernen Werkzeuge in den Aufwürfen selbst befinden, so dass es scheint, als wären diese Aufwürfe neueren Ursprungs, wenn wir nicht annehmen wollen, dass die Häuser gerade auf diesen Aufwürfen standen.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Auf der Wiese, am Fuße der Marťákova skala von Westen, ist eine Vertiefung, von der die Sage erzählt, dass dort ein Brunnen war, in den vor alten Zeiten die Glocken verschüttet wurden, die man – wie es heißt – noch zu unseren Zeiten genau um Mittag läuten hören soll. Diese Vertiefung haben wir etwa zwei Fuß tief aufgegraben und daraus gebrannten Lehm und kleinere Scherbenstücke herausgeworfen. Möglich, dass es eine Zisterne war, denn auf dem trockenen kalkigen Boden hätten sie wohl kaum Lust gehabt, einen so tiefen Brunnen zu graben, bis sie auf Wasser genug gekommen wären, wenn doch unter der Marťákova skala selbst im Tälchen des Rešetárovec ein Bächlein Wasser genug gibt. Weiter, etwa 25 Schritte von dieser Vertiefung nach Südwesten, ist ein kleiner, offenbar aufgeschütteter Hügel, mit Eichen bewachsen. Auch Herr Professor Könyöki und Baron Mednyanszky, die ich auf diesen vierseitigen, etwa 40 Quadratklafter bedeckenden, oben eingeebneten Hügel geführt habe, erkannten sogleich, dass er aufgeschüttet ist, wovon wir uns auch durch Graben überzeugt haben.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Heute wissen wir, dass die Höhensiedlung auf der Martákova skala das Volk der Lausitzer Kultur errichtete; weiter war die Lage in der Latènezeit von keltischer Bevölkerung besiedelt, in der römischen Kaiserzeit hielten sich hier zweifellos die germanischen Quaden auf, und anschließend im Frühmittelalter – im 9. bis 11. Jahrhundert – bewohnten sie unsere slawischen Vorfahren, die nach sich nicht nur eine Menge Keramik, sondern auch bedeutende Metallgegenstände hinterließen, von denen leider die Mehrzahl in der Vergangenheit von Sondengängern geraubt wurde. Wie unten angeführt wird, behielten jedoch nicht alle ihre Funde für sich (oder für zahlungskräftige Käufer im Ausland) und ermöglichten auch deren Dokumentation und Publikation durch Archäologen, was nur beweist, dass man nicht alle Sondengänger in einen Topf werfen muss."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer den Funden, die Holuby entdecken konnte, kennen wir von der Fundstelle einen interessanten "
+       },
+       {
+        "type": "text",
+        "text": "keltischen Hortfund eiserner Gegenstände",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aus der Spätlatènezeit. Der Hortfund wurde im Jahr 1987 am Fuße einer der Klippen der Martákova skala entdeckt und bestand aus einer massiven eisernen Axt mit rechteckiger Tülle, einem großen Meißel und einem Messer. Alle drei Gegenstände gehören zu den häufigsten und funktional verhältnismäßig universellen Werkzeugtypen. Axt und Meißel wurden vor allem beim Holzeinschlag verwendet, das Messer war vornehmlich für den häuslichen Gebrauch oder als Waffe bei Jagd und Kampf bestimmt. Die Analyse zeigte, dass die Gegenstände in der Spätlatènezeit hergestellt und vergraben wurden, wahrscheinlich an der Wende der beiden letzten Jahrhunderte vor unserer Zeitrechnung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einer der interessanten Überreste der auf der Martákova skala lebenden germanischen Quaden ist eine "
+       },
+       {
+        "type": "text",
+        "text": "bronzene eingliedrige Fibel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit vierwindiger Spirale und oberer Sehne. Sie hat einen regelmäßig bogenförmig gewölbten Bügel, dachförmig gekantet. Der metopenartig verzierte, in eine Spitze auslaufende Fuß hat einen gerade abgeschnittenen Fußabschluss. Sie ist 6,7 cm lang. Fibeln dieses Typs waren in der jüngeren römischen Kaiserzeit vor allem im südwestslowakischen Quadengebiet verbreitet. Sie treten jedoch auch im Gebiet mit ursprünglicher Púchov-Kultur häufig auf. Die Besiedlung der Martákova skala durch die Quaden bestätigt die bisherigen Erkenntnisse der Historiker darüber, dass die Quaden in einer bestimmten Zeit – sei es aus militärisch-strategischen oder aus Notgründen (refugialen Gründen) – verlassene befestigte Höhensiedlungen älterer Kulturen besetzten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Davon, dass die Martákova skala auch zu den slawischen Burgwällen gezählt wird, zeugen neben dem Keramikmaterial auch interessante Metallfunde, die Sondengänger gefunden und die anschließend Dr. Titus Kolník in der Fachliteratur wissenschaftlich publiziert hat. Es handelt sich um einen eisernen Beschlag – einen Riemendurchzug mit langer ovaler Öse und rechteckiger Befestigungsplatte mit einer Länge von 101 cm. Der äußere Bogen der Öse hat eine dreifache Rippung in drei Gruppen. Der slawische Schmied, der sie hergestellt hat, verwendete hier bei der Gestaltung der Ziermuster mehrere Zierverfahren, bei denen er auf durchdachte Weise mit dem Wechsel von Licht und Schatten arbeitete. Dieser Riemendurchzug belegt die Anwesenheit von Angehörigen der herrschenden Schicht auf dem Burgwall, denn er diente als Teil einer luxuriösen Ziergarnitur zur Befestigung des Schwertes am Gürtel. Den Fund datiert Kolník in die erste Hälfte des 9. Jahrhunderts – d. h. in die Zeit des Fürstentums Neutra (Blatnica-Mikulčice-Horizont)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer bedeutender slawischer Fund – von demselben Sondengänger – ist eine "
+       },
+       {
+        "type": "text",
+        "text": "massive eiserne Trense",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit geraden Knebeln. Die Arme der Trense sind vierkantig profiliert (mit quadratischem Querschnitt), mit einer charakteristischen Verdickung in der Mitte und einem Knick über der Öse für den Knebel. Die Knebel sind an den Enden unmerklich verdickt und vom Mittelteil durch einen beidseitig von Rillen betonten Wulst abgesetzt. Die maximale Spannweite der Trense beträgt 21,3 cm. Die Trense gehört zum Typ I des typologischen Schemas von A. Ruttkay. Kolník betont, dass es sich bei dieser Trense ähnlich wie bei mehreren weiteren (z. B. Pobedim) um ein Erzeugnis eines einheimischen Schmieds handelt, und sie beweist die hohe Entwicklung der Schmiedekunst im Gebiet der heutigen Slowakei bereits zu Beginn des 9. Jahrhunderts. In ihr klingen auch Einflüsse der fränkischen Kunst aus der sog. karolingischen Renaissance nach. Ursprünglich bildete sie einen Teil der Ausrüstung eines Reiters, eines Vertreters des einheimischen slawischen Adels."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Funde reihen die Martákova skala unter die "
+       },
+       {
+        "type": "text",
+        "text": "bedeutenden slawischen Wachburgwälle",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ein. Man könnte erwägen, dass sie eine Verteidigungsfunktion des Fürstentums Neutra gegenüber dem mährischen erfüllte, wobei auch dieser Burgwall die Bedeutung der Pässe in den Kleinen und Weißen Karpaten im Frühmittelalter hervorhebt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und zum Abschluss führe ich eine Sage an, die sich auf die Martákova skala bezieht und die Holuby ebenfalls in seinem Artikel festgehalten hat. "
+       },
+       {
+        "type": "text",
+        "text": "„Die Sage erzählt, dass die Hradiská und die Marťákova skala (von der weiter unten die Rede sein wird) von Riesen bewohnt waren. Einmal nahm ein Riesenmädchen einen Pflüger mit Pflug und Gespann in die Schürze und trug ihn wie ein Spielzeug in das „Schloss“. Diese Sage ist auch bei den Deutschen verbreitet. Jene Burg hatte auch Tore, und irgendwo finden sich dort auch Keller voller Schätze. Nach einer anderen Sage stand auf den Hradiská eine von Riesen bewohnte Stadt, die aber versank. Es war so lange her, als noch das ganze Tal von Bošáca bis nach Bohuslavice im Waagtal ein tiefer See war. Auf jeden Fall ist es merkwürdig, dass sich im Bewusstsein des Volkes, wenn auch nur dunkel und nebelhaft, erhalten hat, dass auf den Hradiská in uralter Zeit eine große Siedlung stand!“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Martákova skala",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

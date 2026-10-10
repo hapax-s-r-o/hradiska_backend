@@ -1,0 +1,229 @@
+{
+ "slug": "pov-bystrica-sibenicny-vrsok",
+ "data": {
+  "title": "Považská Bystrica – Šibeničný vršok, eine Spornburg der Púchov-Kultur",
+  "slug": "povazska-bystrica-sibenicny-vrsok-puchov-spornburg",
+  "excerpt": "In der Gemarkung von Považská Bystrica wiesen Archäologen in der Lage „Hradište“, auch „Šibeničný vršok“ genannt, eine befestigte Spornburg der Púchov-Kultur nach. Ein 6–8 m breiter Graben und ein Erdwall mit trocken gesetzter Steinfront riegelten den Grat über dem Tal der Waag ab. Vor der Befestigung fanden sich zudem Abschläge aus Feuerstein und Radiolarit, die die Nutzung der Lage schon in der älteren Steinzeit belegen.",
+  "metaTitle": "Považská Bystrica – Šibeničný vršok der Púchov-Kultur",
+  "metaDescription": "Befestigte Spornburg der Púchov-Kultur in der Lage Hradište (Šibeničný vršok) bei Považská Bystrica, mit Graben, Erdwall und paläolithischen Abschlägen.",
+  "keyFacts": [
+   {
+    "label": "Befestigung",
+    "value": "Graben 6–8 m breit, mehr als 2,5 m tief; Mauer aus trocken gesetzten Steinen, durch Holzpfosten verfestigt",
+    "icon": "shield"
+   },
+   {
+    "label": "Kulturschicht",
+    "value": "verhältnismäßig dünn, ca. 20 bis 40 cm",
+    "icon": "map"
+   },
+   {
+    "label": "Hausmaße",
+    "value": "größere Häuser von 4 × 8 m",
+    "icon": "building"
+   },
+   {
+    "label": "Kultur",
+    "value": "Púchov-Kultur",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "ältere Steinzeit (Paläolithikum)",
+    "title": "Älteste Belege der Besiedlung",
+    "description": "Funde von Abschlägen aus Feuerstein und Radiolarit, von denen mehrere Dutzend Stücke gefunden wurden, belegen die Nutzung der Lage in der älteren Steinzeit; zahlreiche winzige Absplisse belegen die Herstellung von Steinwerkzeugen unmittelbar an Ort und Stelle.",
+    "type": "discovery"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Entstehung der Höhensiedlung der Púchov-Kultur",
+    "description": "Die erste Besiedlung, die in das 1. Jahrhundert v. Chr. datierbar ist, ging offenbar durch einen Brand unter.",
+    "type": "founding"
+   },
+   {
+    "year": "nach der Zeitenwende",
+    "title": "Erneuerung der Pfostenbauten",
+    "description": "Die Pfostenbauten mit lehmbeworfenen Wänden wurden offenbar nach der Zeitenwende erneut errichtet.",
+    "type": "construction"
+   },
+   {
+    "year": "1.–2. Jahrhundert n. Chr.",
+    "title": "Ende der Besiedlung der Lage",
+    "description": "Das Ende der Besiedlung der Lage lässt sich vorläufig in das 1.–2. Jahrhundert n. Chr. datieren.",
+    "type": "destruction"
+   },
+   {
+    "year": "2008",
+    "title": "Archäologische Ausgrabung",
+    "description": "Die Ausgrabung der Fundstelle Považská Bystrica – „Hradište“ fand im Jahr 2008 mit staatlicher Unterstützung unter der Leitung von PhDr. Rudolf Kujovský, CSc., und Mgr. Ondrej Žaár statt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3612,
+    "caption": "Plan der Höhensiedlung (gezeichnet von Žaár)",
+    "alt": "Plan der Höhensiedlung (gezeichnet von Žaár)"
+   },
+   {
+    "mediaId": 3613,
+    "caption": "Gesamtansicht der Höhensiedlung",
+    "alt": "Gesamtansicht der Höhensiedlung"
+   },
+   {
+    "mediaId": 3614,
+    "caption": "Ansichten von Wall und Graben",
+    "alt": "Ansichten von Wall und Graben"
+   },
+   {
+    "mediaId": 3616,
+    "caption": "Freilegung der Steindestruktion der Palisade",
+    "alt": "Freilegung der Steindestruktion der Palisade"
+   },
+   {
+    "mediaId": 3617,
+    "caption": "Arbeit bei der Ausgrabung der Höhensiedlung",
+    "alt": "Arbeit bei der Ausgrabung der Höhensiedlung"
+   },
+   {
+    "mediaId": 3618,
+    "caption": "Grube mit erhaltenem Holzpfosten",
+    "alt": "Grube mit erhaltenem Holzpfosten"
+   },
+   {
+    "mediaId": 3619,
+    "caption": "Geschlagene Steinindustrie",
+    "alt": "Geschlagene Steinindustrie"
+   },
+   {
+    "mediaId": 3620,
+    "caption": "Scherben – Púchov-Kultur",
+    "alt": "Scherben – Púchov-Kultur"
+   },
+   {
+    "mediaId": 3621,
+    "caption": "Vorratsgrube",
+    "alt": "Vorratsgrube"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemarkung von Považská Bystrica gelang es den Archäologen, in der Lage „Hradište“ (auch „Šibeničný vršok“ genannt) die Existenz einer befestigten Spornburg der Púchov-Kultur nachzuweisen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einem Teil der Höhensiedlung wurden auch einzelne Spuren einer jüngeren Besiedlung der Lage festgestellt (lineare Gräbchen, eingetiefte Gruben und Ähnliches), ohne Möglichkeit einer genaueren Datierung. Auf einem Abschnitt etwa 50 bis 100 Meter von der Befestigung entfernt, auf der äußeren (SW) Seite der Höhensiedlung, stellten die Archäologen während der Ausgrabung das Vorkommen von Abschlägen aus Feuerstein und Radiolarit fest, von denen mehrere Dutzend Stücke gefunden wurden. Aus diesem Grund führten sie an diesen Stellen eine Flächengrabung durch, um festzustellen, ob diese Funde aus der Ackerkrume stammen oder auf Funde in größeren Tiefen hinweisen. Nach den vorläufigen Ergebnissen der Ausgrabung handelt es sich um einen Beleg für die Nutzung der Lage in der älteren Steinzeit (Paläolithikum). Zahlreiche winzige Absplisse belegen die Herstellung von Steinwerkzeugen unmittelbar an Ort und Stelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan der Höhensiedlung (gezeichnet von Žaár)",
+    "alt": "Plan der Höhensiedlung (gezeichnet von Žaár)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage „Hradište“ ist ein langgestreckter Grat über dem Tal der Waag, etwa in Richtung NO–SW orientiert. Von der Nord-, Ost- und Südseite ist die Lage durch steile Hänge geschützt. Die südwestliche Seite des Ausläufers war durch einen 6–8 m breiten und mehr als 2,5 m tiefen Graben abgeriegelt. Über dem Graben war ein "
+       },
+       {
+        "type": "text",
+        "text": "Erdwall",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " aufgeschüttet. Auf der Außenseite des Walls befand sich eine "
+       },
+       {
+        "type": "text",
+        "text": "Mauer aus trocken gesetzten Steinen, die durch Holzpfosten verfestigt war",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Der Wall war im Gelände nicht sichtbar, weil er durch das Pflügen verschleift wurde. Die Ausgrabung zeigte, dass ein Teil des Wallkörpers nach der Zerstörung der vorderen Mauer zurück in den Graben abrutschte. Der Graben selbst verstärkte vor allem den höchsten Teil des Grates, auf dem er dem Verlauf des Walls folgte. Im südlichen und im nördlichen Teil lief er in den niedrigeren Geländelagen frei aus. Im nördlichen Teil des Grates wurde die Geländesituation durch einen massiven Abbruch des Hangrandes zerstört. Im südöstlichen, tiefer gelegenen Teil der Höhensiedlung bog die Befestigung in südöstlicher Richtung in den Bereich der heutigen Privatgrundstücke ab. Auf der Südseite gelang es durch die Ausgrabung, den wahrscheinlichen "
+       },
+       {
+        "type": "text",
+        "text": "Zugang in das befestigte Areal der Höhensiedlung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " freizulegen. Von der Ost- und NO-Seite war die Lage durch einen steilen Hang geschützt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gesamtansicht der Höhensiedlung",
+    "alt": "Gesamtansicht der Höhensiedlung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kulturschicht war verhältnismäßig dünn – etwa 20 bis 40 cm. Außer eingetieften Vorratsgruben und einem Ofen wurden Reste ebenerdiger Pfostenbauten festgestellt. Eine größere Zahl von Pfostengruben belegt auch größere Häuser von 4 × 8 m oder gegebenenfalls die Existenz einer inneren Palisade. Die Besiedlung beschränkte sich nicht nur auf die unmittelbar befestigte Innenfläche der festgestellten Höhensiedlung. Auf der Südseite, im Bereich der heutigen Privatgrundstücke (Gärten), liegen am Hang mehrere horizontale Terrassen, die von einem steilen Hang über dem Považská-Bystrica-Ortsteil Jelšové begrenzt werden. Die erste Besiedlung, die in das 1. Jahrhundert v. Chr. datierbar ist, ging offenbar durch einen Brand unter. Die Pfostenbauten mit lehmbeworfenen Wänden wurden offenbar nach der Zeitenwende erneut errichtet. Das Ende der Besiedlung der Lage lässt sich vorläufig in das 1.–2. Jahrhundert n. Chr. datieren. Aus der Kulturschicht auf der Fläche der Höhensiedlung liegen relativ wenige Funde vor. Nahezu vollständig fehlen Metallgegenstände. Die Ausgrabung der Höhensiedlung trug zu den Erkenntnissen über die Besiedlung der Region Považská Bystrica in der Zeit um die Zeitenwende bei und ergänzte unsere Kenntnisse über das Leben des Volkes der Púchov-Kultur in diesem Teil der Slowakei. Große Bedeutung hat auch die Feststellung des Aufenthalts von Menschen in der älteren Steinzeit in diesem Raum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

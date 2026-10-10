@@ -718,3 +718,15 @@ preložený, rovnako ako anglická.
 
 **majcichov**
 : blok 25 nie je blok Zdrojov, ale rich-text s nadpisom „Zdroje a literatúra" (bibliografia je tak súčasťou tela)
+
+**marianka-barania-luka-bazgovic**
+: velatická kultúra je datovaná ako „prvé dve storočia druhého tisícročia pred n. l." (teda 2000 – 1800 pred n. l.), no tá istá veta hovorí o zániku v rokoch 1000 – 900 pred n. l.; zloženie čepele „61 % medi a 38 % arzénu" — taký podiel arzénu je nereálny (zrejme cín)
+
+**maly-manin**
+: šírka prístupovej cesty je raz „3 – 4 m", v závere článku „2 až 4 m"
+
+**istebne-hradok**
+: „zrubová palisáda dosahovala šírku 8 m a na najvyššom mieste 5,5 m" — rozmery si protirečia (zrejme šírka × výška)
+
+**horne-plachtince-pohansky-vrch**
+: „severný val patrí medzi najväčšie na východnom Slovensku", pričom lokalita leží v Krupinskej vrchovine

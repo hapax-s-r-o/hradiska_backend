@@ -1,0 +1,540 @@
+{
+ "slug": "zemianske-podhradie-hradista",
+ "data": {
+  "title": "Zemianske Podhradie – Hradiská, eine Höhensiedlung der Lausitzer Kultur",
+  "slug": "zemianske-podhradie-hradiska-lausitzer-hoehensiedlung",
+  "excerpt": "Hradiská über Zemianske Podhradie ist die bekannteste der Burganlagen im Tal von Bošáca: eine befestigte Höhensiedlung der Lausitzer Kultur aus der späten Bronzezeit (1000–700 v. Chr.), deren Wall eine vordere Holzmauer und eine Kasten-Rost-Konstruktion besaß. Später war sie kurz von der Púchov-Kultur und im 9.–10. Jahrhundert von den Slawen besiedelt. Als erster beschrieb sie 1887 Jozef Ľudovít Holuby, dessen Bericht hier ausführlich zitiert wird.",
+  "metaTitle": "Zemianske Podhradie – Hradiská, Lausitzer Höhensiedlung",
+  "metaDescription": "Die bekannteste Anlage im Tal von Bošáca aus der späten Bronzezeit (1000–700 v. Chr.), bewohnt von den Trägern der Lausitzer Kultur.",
+  "keyFacts": [
+   {
+    "label": "Befestigung",
+    "value": "Von Nordwesten schützte die Anlage ein mächtiger Felsgrat, von den übrigen Seiten ein künstlicher Wall und ein Graben; der Wall enthielt eine vordere Holzmauer und eine Kasten-Rost-Holzkonstruktion und wurde in zwei Etappen errichtet.",
+    "icon": "shield"
+   },
+   {
+    "label": "Erste Umwehrung",
+    "value": "Der am höchsten gelegene Teil der Hradiská nahm eine Fläche von etwa 15 Joch ein.",
+    "icon": "map"
+   },
+   {
+    "label": "Zweite Umwehrung",
+    "value": "Die niedriger gelegene zweite Umwehrung hatte eine nach Osten geneigte Fläche von etwa 20 Joch.",
+    "icon": "map"
+   },
+   {
+    "label": "Ausmaße der Behausungen",
+    "value": "Die Grundrisse der Behausungen hatten am häufigsten die Ausmaße 5,5 × 4,3 Meter.",
+    "icon": "building"
+   },
+   {
+    "label": "Schützendes Gelände",
+    "value": "Die Siedlung schützten die umliegenden Berge und Grate – die Lisica von Süden, der Grat der Hradištné Vŕšky und der steile Berg Hlohová von Norden.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Bronzefunde",
+    "value": "Unter den Funden sind ein zerbrochenes Messer, eine Sichel, drei Nadeln, kleine Pfeile, „rýliky“ genannt, Nägel, Reiflein, eine Ahle und ein Teil einer Spange (Fibel).",
+    "icon": "star"
+   },
+   {
+    "label": "Spinnwirtel",
+    "value": "An der Fundstelle wurden 10 tönerne Spinnwirtel (Rädchen für Spindeln) verschiedener Größe und Gestalt gefunden.",
+    "icon": "custom"
+   },
+   {
+    "label": "Erster Forscher",
+    "value": "Als erster untersuchte die Anlage Jozef Ľudovít Holuby, der seine Beobachtungen im Jahr 1887 in der Zeitschrift Slovenské pohľady veröffentlichte.",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1000–700 v. Chr.",
+    "title": "Besiedlung in der späten Bronzezeit",
+    "description": "Die Höhensiedlung bewohnten die Träger der Lausitzer Kultur. Die befestigte Siedlung schützte von Nordwesten ein mächtiger Felsgrat, von den übrigen Seiten ein künstlicher Wall mit Graben; der Wall wurde in zwei zeitlich aufeinander folgenden Etappen mit einer vorderen Holzmauer und einer Kasten-Rost-Holzkonstruktion errichtet.",
+    "type": "era"
+   },
+   {
+    "year": "Wende der Zeitrechnung",
+    "title": "Kurzzeitige Besiedlung durch die Púchov-Kultur",
+    "description": "Die Fundstelle war kurzzeitig von den Trägern der Púchov-Kultur besiedelt.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Besiedlung durch die Slawen in großmährischer Zeit",
+    "description": "In großmährischer Zeit sowie im 10. Jahrhundert bewohnten die Slawen die Anlage, wovon mehrere Funde zeugen – vor allem Scherben, aber auch Metallgegenstände. Angesichts der strategischen Lage konnte die Anlage in dieser Zeit eine Wachfunktion haben.",
+    "type": "era"
+   },
+   {
+    "year": "1887",
+    "title": "Jozef Ľudovít Holuby dokumentiert die Anlage",
+    "description": "Holuby untersuchte die Fundstelle als erster und beschrieb seine Beobachtungen in der Studie Náleziská starožitností v Bošáckej doline, veröffentlicht in der Zeitschrift Slovenské pohľady, Jahrgang VII.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6416,
+    "alt": "Panorama des grasbewachsenen Plateaus der Anlage, von Wald umgeben"
+   },
+   {
+    "mediaId": 2434,
+    "caption": "Die Anlage auf der LiDAR-Kartierung",
+    "alt": "Die Anlage auf der LiDAR-Kartierung"
+   },
+   {
+    "mediaId": 2435,
+    "alt": "Wiese auf dem Plateau der Anlage, von Wald umgeben"
+   },
+   {
+    "mediaId": 2436,
+    "alt": "Historische Zeichnung der Anlagen auf dem Grat und am Osthang der Karpaten mit Beschriftungen"
+   },
+   {
+    "mediaId": 2437,
+    "alt": "Zugewachsener Graben der Anlage im Frühlingswald"
+   },
+   {
+    "mediaId": 2438,
+    "alt": "Hang der Anlage mit Unterwuchs zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2439,
+    "alt": "Plakat mit der Rekonstruktion der Befestigung und der Blockhäuser der Anlage"
+   },
+   {
+    "mediaId": 2440,
+    "alt": "Modell der Anlage mit Häusern und Dachkonstruktionen"
+   },
+   {
+    "mediaId": 2441,
+    "alt": "Höhenlinienplan der Höhensiedlung der Lausitzer Kultur mit Maßstab"
+   },
+   {
+    "mediaId": 2442,
+    "alt": "Zeichentafel bronzener Funde: Fingerring, Armringe, Spitzen und Perlen"
+   },
+   {
+    "mediaId": 2443,
+    "alt": "Zeichentafel bronzener Gegenstände: Äxte, Spitzen, Armringe und Kettchen"
+   },
+   {
+    "mediaId": 2444,
+    "alt": "Keramikfragment auf Moos im Waldboden"
+   },
+   {
+    "mediaId": 2445,
+    "alt": "Luftbild der Wiese und der bewaldeten Berge"
+   },
+   {
+    "mediaId": 2446,
+    "alt": "Luftbild des bewaldeten Grates mit Wiese und Schneeresten"
+   },
+   {
+    "mediaId": 2447,
+    "alt": "Luftbild der Anlage auf dem bewaldeten Grat"
+   },
+   {
+    "mediaId": 2448,
+    "alt": "Blattloser Wald auf dem Plateau der Anlage"
+   },
+   {
+    "mediaId": 2449,
+    "alt": "Wall der Anlage im blattlosen Wald im Frühling"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Tal von Bošáca errichteten die Völker des Altertums und später auch die Slawen mehrere bedeutende Burganlagen, deren Reste noch heute zu sehen sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Anlage auf der LiDAR-Kartierung",
+    "alt": "Die Anlage auf der LiDAR-Kartierung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bekannteste von ihnen ist die Fundstelle Hradiská aus der späten Bronzezeit (1000–700 Jahre vor unserer Zeitrechnung). Diese Höhensiedlung bewohnten die Träger der Lausitzer Kultur. Die befestigte Siedlung – die Höhensiedlung – schützt von der nordwestlichen Seite ein mächtiger Felsgrat, von den übrigen Seiten eine künstliche Aufschüttung, ein Wall, und ein Graben. Beim Bau des Walls wurden fortschrittliche Bauelemente verwendet: eine vordere Holzmauer und eine zu einem System von Kästen und Rosten angeordnete Holzkonstruktion, die die mächtige Aufschüttung zusammenhielt. Der Wall wurde in zwei zeitlich aufeinander folgenden Etappen errichtet. Von der inneren Bebauung sind die Grundrisse der Behausungen am wichtigsten, am häufigsten mit den Ausmaßen 5,5 × 4,3 Meter. Das reiche Fundinventar bilden zahlreiche keramische und bronzene Erzeugnisse, Belege der örtlichen Bronzemetallurgie und besonders der landwirtschaftlichen Tätigkeit. Kurzzeitig war die Fundstelle auch um die Wende der Zeitrechnung besiedelt (Púchov-Kultur). In großmährischer Zeit sowie im 10. Jahrhundert bewohnten die Anlage die Slawen, wovon mehrere Funde aus dem 9. und 10. Jahrhundert zeugen, vor allem Scherben, aber auch Metallgegenstände. Für diese Zeit lässt sich angesichts der strategischen Lage der Anlage über ihre Wachfunktion nachdenken. Ähnlich wie bei der Martákova skala untersuchte auch diese Anlage als erster Jozef Ľudovít Holuby, der über sie schrieb:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„"
+       },
+       {
+        "type": "text",
+        "text": "Westlich von Zemanské Podhradie, auf dem östlichen Ausläufer der Karpaten, der das Tal von Moravské Lieskové von dem von Bošáca trennt, liegen die „Hradiská“, die zur Gemarkung von Z. Podhradie gehören. Schon der Name „Hradiská“ selbst verrät, dass an jener Stelle nicht eine, sondern mehrere Burgen haben sein müssen – freilich nicht gemauerte, wie deren Trümmer unser Waagtal zieren, sondern mit Aufschüttungen (Schanzen) umwehrte –, und sie waren es auch wirklich, wie es die an vielen Stellen sichtbaren, mächtigen und ausgedehnten Aufschüttungen oder Schanzen beweisen. Auch im Laufe dieses Sommers habe ich diese für uns besonders anziehenden Örtlichkeiten mehrmals durchwandert und aufmerksam durchgesehen. Es scheint, dass die Gründer jener Hradiská nicht ohne Grund gerade diesen Ort zum Wohnsitz in der Bronzezeit erwählt haben, denn von Westen lässt sich vom Gipfel der Hradiská selbst das ganze Tal von Lieskové übersehen, von Süden aber waren sie durch den Berg namens „Lisica“ gedeckt, vom Waagtal her hatten sie jedoch sowohl rechts als links der Lisica freie Aussicht auf Teile des Waagtals; schließlich aber schützten von Norden der Grat der Hradištné Vŕšky selbst und hinter ihnen der kegelförmige, steile und nur von der Westseite leicht zugängliche Berg „Hlohová“ die Bewohner der Hradiská vor einem unversehenen Überfall. Die ringsumher ausgebreiteten dichten Wälder (von denen nun freilich nur unbedeutende Reste in Gestalt von Eichen- und Hainbuchengebüsch geblieben sind) trugen erheblich zur Sicherheit dieser Siedlung bei.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Hradiská",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über den Grat des Berges selbst, der das Tal von Bošáca von dem von Lieskové trennt, zieht ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ein 2–3 Fuß hoher, von Norden in gerader Richtung nach Süden verlaufender, etwa 300 Schritt langer, mit Gebüsch bewachsener Wall, der sich am südlichen Ende in einem Bogen nach Osten wendet und wiederum in gerader Linie etwa 100 Schritt weit verläuft. Hier ist der Wall auf etwa acht Schritt unterbrochen, wo offenbar der Eingang von der Südseite in die Umwehrung war, und das Volk nennt diese Stelle bis heute das „Tor“. Die Fortsetzung des Walls läuft in derselben Richtung nach Osten wiederum etwa 80 Schritt, über demselben Hang, der zum Tal „Žľaby“ abfällt und mit alten Eichen bewachsen ist. Dieser Wall läuft in zwei Arme aus, von denen der untere in südöstlicher Richtung über den Grat des Hügels etwa 90 Schritt abfällt, der andere aber sich wiederum in einem Bogen nach Norden wendet, etwa 25 Schritt weit, wo er im Ackerland verloren geht. Doch kaum haben wir 120 Schritt zurückgelegt, kommen wir in derselben Richtung auf die Fortsetzung jenes Walls, wo unter ihm ein 2 Fuß breiter und 1 Fuß tiefer Graben ausgehoben ist, und er endet dort, wo er mit dem Grat des Hradištný Vŕšek zusammentrifft, der mit seinem Nordhang steil in das Tal abfällt. Diesen Graben samt seinem Wall nennt das Volk den „Weg“, und es heißt, dass auch dort ein Tor in die Burg war.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Diese umgrenzte Stelle ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ist der erste und am höchsten gelegene Teil der Hradiská",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " und nimmt eine Fläche von etwa 15 Joch ein. Auf dieser ganzen Fläche sieht man stellenweise ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "eine Menge altertümlicher Scherben",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", gebrannten Lehm, hie und da Knochen, mit Kohle und Asche vermischte Erde und besonders bei den genannten Toren eine große Menge Schlacke oder Hammerschlag. Auch außerhalb dieser Umwehrung, von Süden, auf den Feldern „Rolincová“ genannt, finden sich häufig Scherben und gebrannter Lehm, und ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "es wurden bronzene Pfeile und Nadeln gefunden",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Durch das häufige Umpflügen der Felder, die sich in dieser Umwehrung befinden, zerbröckeln die Scherben immer mehr, sodass größere Stücke nur selten zu sehen sind. Seit auch bei uns eiserne Pflüge anstelle hölzerner eingeführt wurden, pflügt man tiefer, und schon von weitem erkennt man auf dem Ackerland an der dunkleren Farbe der Erde, wo Asche, Kohle und gebrannter Lehm in größerem Maße herausgepflügt wurden.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Hradiská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite, niedrigere Teil der Hradiská",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " ist von Norden durch die Fortsetzung des Grates des Hradištný Vŕšek umwehrt, der an seinem Nordhang sehr steil und schwer zugänglich ist und der am unteren Ende, von der Seite der Hradiská, etwa 15 Fuß hoch ist, von Norden aber etwa 100 Fuß steil zum Tal des Rešetárovec abfällt. Dieser Hügel ist auf dem Gipfel eben abgegraben und war sicherlich ebenfalls befestigt und bewohnt, denn schon beim oberflächlichen Graben kommen wir auf gebrannten Lehm, Scherben und Knochen; und dort, wo der Zugang zu ihm von der Ostseite war, beginnt wiederum ein 2 Fuß hoher Wall und zieht in südlicher Richtung gute 100 Schritt weit bis zu dem steilen Hang, der in das Tal Žľaby abfällt, von wo zwei Wälle nahezu parallel in östlicher Richtung etwa 80 Schritt weit verlaufen und im Ackerland verloren gehen. Die Eingänge in diese zweite Umwehrung sind von Nordosten, von Nordwesten und von Süden zu erkennen, wohin ein recht bequemer Weg führt. Diese zweite Umwehrung bedeckt eine nach Osten geneigte Fläche von etwa 20 Joch. Erwähnung verdient auch der ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Hradištný Vŕšek",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", der diese zweite Umwehrung von Norden begrenzt. An ihm sind zwei Zugänge zu erkennen und über seinem Nordhang ein Wall. Etwa in der Mitte am Südhang ist eine Terrasse zu erkennen, in der ich viele Scherben ausgegraben habe. Auf den Feldern dieser zweiten Umwehrung ist die Erde stellenweise sehr stark mit Kohle und Asche und mit größeren und kleineren Stücken gebrannten Lehms vermischt. Von dieser Stelle habe ich zwei Stücke grün patinierter geschmolzener Bronze. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Hier haben wir bisher am meisten bronzene Gegenstände und verschiedene Spinnwirtel gefunden",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " (Rädchen für Spindeln), aus gebranntem Lehm und aus alten Tonscherben grob hergestellt. Gerade jetzt, zu Anfang Oktober, kam ich an einer mit Wacholder bewachsenen Stelle auf eine sehr fette, mit gebranntem Lehm, Kohle und Scherben stark vermischte Erde, wo ich noch im Laufe dieses Herbstes graben werde, denn diese Stelle wurde noch nicht vom Pflug aufgerissen und verspricht gerade darum mehr Funde als das Ackerland.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Hradiská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf diesen drei Hradiská haben wir eiserne Werkzeuge bisher nicht gefunden, sondern ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "nur bronzene, stark mit grünem Rost (Patina) überzogene Gegenstände",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", überall viele mannigfaltige Tonscherben, von denen ein beträchtlicher Teil aus Graphit (wie er in der ganzen Umgebung nicht vorkommt) besteht, und zwar aus so reinem, dass man mit diesen Scherben wie mit einem Bleistift schreiben kann. An den größten Stücken dieser Scherben ist deutlich zu erkennen, dass sie nur mit den Händen und nicht auf der Töpferscheibe gemacht wurden, was auch die primitiven, mit den Fingern gemachten Verzierungen beweisen. Ich habe eine starke, dicke Scherbe, an der unter dem Rand ein erhabener Kreis mit Grübchen, die mit dem Finger (nicht mit Holz oder einem anderen Werkzeug) eingedrückt wurden, als Verzierung dient. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Spinnwirtel",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " (Rädchen für Spindeln) verschiedener Größe und Gestalt haben wir dort 10 gefunden; zwei verzierte, zwei nur mit den Fingern aus Lehm geformte mit einem in der Mitte durchstochenen Löchlein für die Spindel, mehrere Stücke, die aus Bruchstücken alter Töpfe hergestellt wurden. Dies Letztere zeugt von der großen Sparsamkeit oder der Armut der Besitzerinnen jener Spinnwirtel (vielleicht vor mehr als 2000 Jahren), wenn sie sich mit solchen unverzierten Spindeln zufriedengeben konnten. Dagegen ist der eine Spinnwirtel sehr schön und aus feinem Lehm gebrannt. Auffällig ist die ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Menge an Hirschknochen",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", die sich hier finden. Diese Knochen lassen sich an ihrer Leichtigkeit und der auffälligen Porosität am Bruch erkennen. Die stärkeren Knochen sind zersplittert: also liebten jene Urbewohner nicht nur den Hirschbraten, sondern verzehrten auch das Mark. Unter der Menge von Knochen aller Art konnte ich keine menschlichen unterscheiden. Dass aber in den schon erwähnten Aufschüttungen häufig Scherben und Knochen zu finden sind, das kommt mir so vor, als ob jene Aufschüttungen späteren Ursprungs wären und nicht die in ihnen befindlichen Bruchstücke der Tongefäße. Oder war jene Siedlung vielleicht durch Feuer vernichtet und wieder erneuert und zur Sicherheit mit einer stärkeren Aufschüttung versehen worden? Wer kann das erraten? Eine gründliche Durchgrabung verdienen jene Stellen, wo die Lager von Hammerschlag sind. Es ist nicht unmöglich, dass sich dort verschiedene Werkzeuge oder auch Tonformen finden, in die man die bronzenen Gegenstände goss. Das Volk sagt, dass dort Schmiedeessen gewesen seien. Dass die Hradiská, sei es auch nur teilweise, mit einer Mauer umwehrt gewesen wären oder dass dort gemauerte Häuser gestanden hätten, das lässt sich nicht sagen; aber wie dort Häuser (und nicht etwa Zelte) standen, konnten sie nur hölzerne sein. Wir wissen doch, dass es nicht so lange her ist, dass man nicht nur in den Dörfern und zwischen den Bergen, sondern auch in den Städten Häuser, ja selbst Kirchen aus Holz baute, und aus Xenophons Anabasis wissen wir, dass in Kleinasien auch die Könige in hölzernen Türmen oder Basteien wohnten. Ähnlich konnte es sein, ja mit nahezu voller Gewissheit lässt sich behaupten, dass es auch wirklich so war, auch auf unseren Hradiská in prähistorischer Zeit.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Hradiská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von bronzenen Gegenständen",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " haben wir die folgenden: ein ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "zerbrochenes Messer, eine Sichel, einen Pfeil",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", einen winzigen, 1½ Zoll lang und bei den Zähnen ¾ Zoll breit, mit dem es, wenn er nicht mit Gift getränkt war, kaum möglich war, einen Menschen zu töten, und abgeschossen werden konnte er nur in ein leichtes, dünnes Fell. Diese bronzenen Pfeile sind unserem Volk schon lange unter dem Namen „rýliky“ bekannt, und es wurden mehrere von ihnen herausgepflügt und den Kindern zum Spielzeug gebracht, und so gingen sie verloren; ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "drei Nadeln",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", eine 5 Zoll lang mit einem Köpfchen so groß wie eine stattliche Erbse, schön ringsum gestrichelt; eine zweite etwa 4 Zoll lang mit flachem Köpfchen, längs gestrichelt und mit einem Ringlein unter dem Köpfchen; eine dritte ohne Köpfchen, zerbrochen und vom Rost abgeschabt, die mir, wie auch mehrere Stücke abgeschabter Bronze, die Hirtenjungen brachten; zwei Nägel mit flachen Köpfchen, von denen einer hohl ist; ein winziges, vielleicht als Fingerring dienendes und ein zweites breiteres, größeres, aber dünnes, wunderschön patiniertes ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Reiflein",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "; eine mit der Spitze gebogene, scharfe, am anderen Ende, wo sie in Holz eingesetzt war, dicke und kantige ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Ahle",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "; 3 Bruchstücke aus gänsekieldicker, gebogener Bronze, von denen eines Verzierungen wie Email hatte, die jedoch nur an einem Ende erkennbar sind, weil ihr Finder – ein Hirtenjunge – sie beim Schmied mit dem Hammer abklopfen ließ, als er probierte, ob es nicht Gold sei?! – den oberen Teil einer Spange (Fibel) in der Gestalt einer großen, mit einem Arm zurückgebogenen. Diese Gegenstände haben wir. Wir hören aber mit Verdruss, dass ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Messer, Pfeile, Bögen, Streithämmer und allerlei „Stücke“ dort auf den Hradiská herausgepflügt und verloren oder für ein paar Kreuzer an Juden verkauft wurden.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Ich habe auch einen gut erhaltenen Ziegel von 5 Zoll Durchmesser, mit einer Öse in der Mitte, herausgepflügt auf den höchsten Hradiská.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Außer den tönernen Spinnwirteln (Rädchen für Spindeln) finden sich dort auch ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "kleine Ringlein",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", aus feinem Lehm gebrannt, geglättet, vortrefflich erhalten. Diese dienten als Zierde und wurden ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "auf eine Schnur gezogen am Halse getragen",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Eine solche tönerne Perle ist an den Rändern des Loches tatsächlich stark abgewetzt, woraus sich mit Gewissheit schließen lässt, dass sie lange getragen wurde. Von den sechs Exemplaren, die wir haben, ist jedes anders.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Leider wurde, ähnlich wie bei den übrigen Burganlagen von Bošáca, auch diese von Sondengängern ausgeraubt, bevor sich die Archäologen entschlossen, hier eine genauere Ausgrabung durchzuführen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zemianske Podhradie – Hradiská",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

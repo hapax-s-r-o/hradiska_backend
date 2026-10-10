@@ -1,0 +1,308 @@
+{
+ "slug": "klapy-keltske-hradisko",
+ "data": {
+  "title": "Klapy – eine keltische Höhensiedlung über dem Stausee Nosice",
+  "slug": "klapy-keltische-hoehensiedlung-puchov-kultur",
+  "excerpt": "Der felsige Grat Klapy (auch Klapé oder Cigánka) über dem Stausee Nosice gehört zu den Wahrzeichen des oberen Waagtals. Auf der Kuppe bestand eine Höhensiedlung, die schon zur Zeit der Hallstattkultur und später vom Volk der Púchov-Kultur zur Zeit der Kelten genutzt wurde; am Nordhang liegen zahlreiche schmale Terrassen. Zu den Funden gehören eine bronzene Stierfigurine, eine pferdeförmige Fibel, Armringe mit Wülsten sowie keltische Silber- und Goldmünzen samt einem Hort aus dem Jahr 2000.",
+  "metaTitle": "Klapy – keltische Höhensiedlung über dem Stausee Nosice",
+  "metaDescription": "Der felsige Grat Klapy (Cigánka), Wahrzeichen des oberen Waagtals über dem Stausee Nosice, birgt eine keltische Höhensiedlung bei Udiča und Šebešťanová.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "zwischen den Dörfern Udiča, Uhry und Šebešťanová, über dem Stausee Nosice",
+    "icon": "map"
+   },
+   {
+    "label": "Bedeutende Funde",
+    "value": "bronzene Figurine eines Stierkalbs, bronzene Fibel in Form eines Pferdchens, bronzene Armringe mit Wülsten",
+    "icon": "star"
+   },
+   {
+    "label": "Benachbarte Höhensiedlungen in Sichtkontakt",
+    "value": "Malý Manín, Jasenica – Predná hôrka, Hradište",
+    "icon": "flag"
+   },
+   {
+    "label": "Herkunft des Namens",
+    "value": "umstritten – germanisch „klippen“ (Felsen) oder keltischer Ursprung (nach Meliš)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Hallstattkultur",
+    "title": "Erste Besiedlung der Kuppe",
+    "description": "Die Klapy waren auf der Kuppe bereits in der Zeit der Hallstattkultur besiedelt; Dr. Karol Pieta bezeichnet sie als alte hallstattzeitliche Höhensiedlung.",
+    "type": "founding"
+   },
+   {
+    "year": "Zeit der Kelten",
+    "title": "Besiedlung durch das Volk der Púchov-Kultur",
+    "description": "Die Höhensiedlung nutzte später das Volk der Púchov-Kultur zur Zeit der Kelten.",
+    "type": "era"
+   },
+   {
+    "year": "römische Kaiserzeit",
+    "title": "Besiedlung der Terrassen",
+    "description": "Am Nordhang der Klapy war eine Vielzahl schmaler Terrassen angelegt, die in der römischen Kaiserzeit bewohnt waren.",
+    "type": "era"
+   },
+   {
+    "year": "5. Jahrhundert",
+    "title": "Spuren aus der Völkerwanderungszeit",
+    "description": "Auf den Terrassen fanden sich Scherben aus der Völkerwanderungszeit und sogar Scherben aus dem Frühmittelalter.",
+    "type": "discovery"
+   },
+   {
+    "year": "2000",
+    "title": "Fund eines Hortes keltischer Münzen",
+    "description": "Im Jahr 2000 wurde ein Münzhort gefunden, der 57 Silbermünzen mit abstrakten Symbolen, 6 goldene Statere und silberne Tetradrachmen enthielt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3458,
+    "caption": "Prunkvolle bronzene Fibel in Form eines Pferdchens",
+    "alt": "Prunkvolle bronzene Fibel in Form eines Pferdchens"
+   },
+   {
+    "mediaId": 3459,
+    "caption": "Drei Höhensiedlungen, von links nach rechts Predná hôrka, Hradište, Klapy",
+    "alt": "Drei Höhensiedlungen, von links nach rechts Predná hôrka, Hradište, Klapy"
+   },
+   {
+    "mediaId": 3460,
+    "caption": "Hort goldener keltischer Münzen aus der Höhensiedlung Klapy",
+    "alt": "Hort goldener keltischer Münzen aus der Höhensiedlung Klapy"
+   },
+   {
+    "mediaId": 3467,
+    "caption": "Goldmünzen von den Klapy (Münzmuseum Kremnica)",
+    "alt": "Goldmünzen von den Klapy (Münzmuseum Kremnica)"
+   },
+   {
+    "mediaId": 3470,
+    "caption": "Bronzeanhänger in Form eines Stieres",
+    "alt": "Bronzeanhänger in Form eines Stieres"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Berg Klapy (oder Klapé, beziehungsweise Cigánka) ist eines der natürlichen Wahrzeichen des oberen Waagtals und schon von weitem für jeden sichtbar, der mit der Bahn oder mit dem Auto abseits der Autobahn zwischen Púchov und Považská Bystrica fährt. Er liegt zwischen den Dörfern Udiča, Uhry und Šebešťanová. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Prunkvolle bronzene Fibel in Form eines Pferdchens",
+    "alt": "Prunkvolle bronzene Fibel in Form eines Pferdchens",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er besteht aus einem felsigen Grat über dem Stausee Nosice, aufgebaut aus Kalksteinen und kalkigen Sandsteinen mit einem bunten Mosaik von Pflanzen- und Tierarten, der in Malé und Veľké Klapy geteilt ist. Er ist Teil der Klippenzone und wurde zum Naturschutzgebiet erklärt. Von der Höhensiedlung aus bietet sich eine ausgezeichnete Aussicht auf das Tal der Waag und die weite Umgebung, wobei sie direkten Sichtkontakt mit mehreren gleichzeitigen Höhensiedlungen hat (z. B. Malý Manín oder weitere, unten genannte Befestigungen). Auf seinen Gipfel führt ein markierter Wanderweg.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Manche Historiker nehmen an, dass der Name Klapy mindestens zweitausend Jahre alt ist (seinen Ursprung kann er in der germanischen Bezeichnung für Felsen – "
+       },
+       {
+        "type": "text",
+        "text": "klippen",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – haben). Andere (z. B. Meliš im Buch Po stopách predkov) halten den Namen Klape für keltisch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "013d95e76765461790f04f8b6632e969",
+    "url": "https://sketchfab.com/models/013d95e76765461790f04f8b6632e969/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-klapy-a-okolie-013d95e76765461790f04f8b6632e969?utm_medium=embed&utm_campaign=share-popup&utm_content=013d95e76765461790f04f8b6632e969",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradisko Klapy a okolie"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " von "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/lieti?utm_medium=embed&utm_campaign=share-popup&utm_content=013d95e76765461790f04f8b6632e969",
+        "children": [
+         {
+          "type": "text",
+          "text": "Tibor Lieskovský"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=013d95e76765461790f04f8b6632e969",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sketchfab"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Klapy waren auf der Kuppe bereits in der Zeit der Hallstattkultur besiedelt und anschließend von der Bevölkerung der Púchov-Kultur zur Zeit der Kelten. Der Nordhang der Klapy ist nicht so senkrecht wie die Südseite, aber ebenfalls steil. Hier war eine Vielzahl schmaler Terrassen angelegt, die in der römischen Kaiserzeit bewohnt waren, es fanden sich hier aber auch Scherben aus der Völkerwanderungszeit (5. Jahrhundert) und sogar Scherben aus dem Frühmittelalter. Die Terrassen liegen auf mehreren Höhenniveaus des Berges und sind über den steilen Hang der Klapy schwer zugänglich. Es ist begründet anzunehmen, dass die Klapy befestigt waren, wobei Dr. Karol Pieta sie als alte hallstattzeitliche Höhensiedlung bezeichnet, die später das Volk der Púchov-Kultur nutzte. Einige hundert Meter von den Klapy entfernt befinden sich zwei weitere Befestigungen, und zwar die kleine Höhenburg der Púchov-Kultur Jasenica – Predná hôrka und das weitläufige Hradište, das außer um die Zeitenwende auch in großmährischer Zeit besiedelt war. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "yFStrTtkMP4",
+    "url": "https://www.youtube.com/embed/yFStrTtkMP4",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den ersten bekannten Metallfunden gehört ein eisernes Messer, bei dem Latènekeramik lag; später wurden steinerne Wetzsteine und auch eine aus Sandstein gefertigte Gussform für bronzene Spiralen gefunden. Bekannt sind ebenfalls ein keltischer Reitersporn, Fibeln und deren Fragmente sowie andere kleinere Metallfunde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Drei Höhensiedlungen, von links nach rechts Predná hôrka, Hradište, Klapy",
+    "alt": "Drei Höhensiedlungen, von links nach rechts Predná hôrka, Hradište, Klapy",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Aufkommen der Metalldetektoren begann man auf den Klapy sehr wertvolle Funde zu machen, die jedoch oft in privaten Händen endeten und über die wir nichts wissen. Bekannt sind allerdings einige außergewöhnliche Funde, die in der Fachliteratur veröffentlicht wurden. Zu den wertvollsten gehören etwa bronzene Armringe mit Wülsten vom Ende der Hallstattzeit. Außergewöhnliche Funde sind auch eine bronzene Figurine eines Stierkalbs und eine überaus schöne bronzene Fibel in Form eines Pferdchens. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hort goldener keltischer Münzen aus der Höhensiedlung Klapy",
+    "alt": "Hort goldener keltischer Münzen aus der Höhensiedlung Klapy",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den Klapy kennen wir auch Funde keltischer Silber- und Goldmünzen, und zwar einzeln wie auch im Rahmen von Massenfunden – von Münzhorten. Einige von ihnen wurden veröffentlicht, so eine Münze des Typs Veľký Bysterec oder der im Jahr 2000 gefundene Münzhort, der 57 Silbermünzen mit abstrakten Symbolen, 6 goldene Statere oder silberne Tetradrachmen enthielt. Diese Funde belegen, dass die Klapy und ihre Umgebung im Altertum große Bedeutung hatten und von begüterten Bewohnern besiedelt waren. Sie sind Teil einer dichten Besiedlung in der Umgebung von Púchov, Udiča, Prosné, Jasenica oder der Waag. Unterhalb der Befestigung befinden sich mehrere offene Siedlungen aus der Zeit der Hallstattkultur und der Púchov-Kultur, wobei es wahrscheinlich ist, dass die Klapy als Fliehburg für die Bewohner dieser Siedlungen dienten.\n \n Orgoň "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

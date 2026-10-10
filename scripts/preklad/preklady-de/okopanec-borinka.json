@@ -1,0 +1,303 @@
+{
+ "slug": "okopanec-borinka",
+ "data": {
+  "title": "Okopanec bei Borinka – ein Burgwall, dessen Wälle drei Gipfel umschließen",
+  "slug": "okopanec-borinka-burgwall-drei-gipfel",
+  "excerpt": "Ein bislang wenig bekannter, aber sehr weitläufiger Burgwall liegt auf dem Dreikuppenberg Okopanec bei Borinka im Inneren der Kleinen Karpaten. Seine Befestigung ist ungewöhnlich: die Wälle umschließen gleich drei Gipfel und umfassen eine Innenfläche von etwa 51 ha. Frühmittelalterliche Funde – Hauen, „Pflugschaber“ und Steigbügel – deuten auf slawische Aktivitäten hin. Vermutlich bewachte die Anlage einen der Wege von mährischer Seite in die Region Nitra.",
+  "metaTitle": "Okopanec bei Borinka – Burgwall um drei Gipfel",
+  "metaDescription": "Der weitläufige Burgwall Okopanec bei Borinka in den Kleinen Karpaten hat eine ungewöhnliche Befestigung: Seine Wälle umschließen gleich drei Gipfel.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Dreikuppenberg Okopanec, Borinka (Kleine Karpaten)",
+    "icon": "star"
+   },
+   {
+    "label": "Meereshöhe",
+    "value": "460–531 m ü. M.",
+    "icon": "star"
+   },
+   {
+    "label": "Fläche",
+    "value": "Innenfläche von etwa 51 ha",
+    "icon": "star"
+   },
+   {
+    "label": "Besonderheit",
+    "value": "die Wälle umschließen drei Gipfel des Berges",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5986,
+    "alt": "Höhenlinienplan des Burgwalls Okopanec mit eingezeichneter Wallinie und den Schnitten"
+   },
+   {
+    "mediaId": 5987,
+    "caption": "Auf der LiDAR-Aufnahme sind einige Teile von Wall und Graben gut zu erkennen",
+    "alt": "Auf der LiDAR-Aufnahme sind einige Teile von Wall und Graben gut zu erkennen"
+   },
+   {
+    "mediaId": 5988,
+    "caption": "Profile der Wälle und Gräben",
+    "alt": "Profile der Wälle und Gräben"
+   },
+   {
+    "mediaId": 5989,
+    "caption": "Der Okopanec und die ihm nächstgelegenen Burgwälle aus der Zeit der Slawen (Kärtchen: Ladislav Šubovič)",
+    "alt": "Der Okopanec und die ihm nächstgelegenen Burgwälle aus der Zeit der Slawen (Kärtchen: Ladislav Šubovič)"
+   },
+   {
+    "mediaId": 5990,
+    "caption": "Auf dem Okopanec gefundene Beile",
+    "alt": "Auf dem Okopanec gefundene Beile"
+   },
+   {
+    "mediaId": 5992,
+    "caption": "Wall mit Graben",
+    "alt": "Wall mit Graben"
+   },
+   {
+    "mediaId": 5997,
+    "caption": "Der Wall steigt von einem Gipfel herab und erhebt sich anschließend auf den nächsten Gipfel",
+    "alt": "Der Wall steigt von einem Gipfel herab und erhebt sich anschließend auf den nächsten Gipfel"
+   },
+   {
+    "mediaId": 6000,
+    "caption": "Lehmbewurf",
+    "alt": "Lehmbewurf"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein bislang wenig bekannter, aber sehr weitläufiger Burgwall liegt in Borinka, auf einem gegliederten Dreikuppenberg mit dem bezeichnenden Namen Okopanec. Die Art seiner Befestigung ist sehr ungewöhnlich, denn die Wälle sind so angelegt, dass sie gleich drei Gipfel des Berges umschließen, was auf dem beigefügten Kärtchen gut zu sehen ist; viel stärker wird man sich dieser Ungewöhnlichkeit jedoch erst unmittelbar vor Ort bewusst, wenn man sieht, wie der Wall vom Hang des einen Berges herabsteigt und sich anschließend wieder erhebt und auf den Hang des nächsten Berges hinaufzieht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang zum Burgwall",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Von Borinka fahren Sie auf der Asphaltstraße bis unter den Dračí hrádok, wo Sie das Auto parken müssen; weiter geht es von der Abzweigung Medené Hámre auf dem nach Norden führenden Radweg. Nach etwa 2 Kilometern bequemen Weges befinden Sie sich unmittelbar unterhalb des Okopanec. Hier müssen Sie (am besten mit Hilfe einer Wanderkarte) den Forstweg finden, der nach rechts direkt auf den Gipfel des Okopanec führt. Die Geübteren können es natürlich auch abseits des Weges durch den Wald nehmen, ich weise jedoch darauf hin, dass es dort auch schlecht passierbare und dicht mit Jungwald zugewachsene Abschnitte gibt, die Ihnen den Weg erheblich verleiden. Ich würde deshalb eher den oben genannten Forstweg empfehlen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Okopanec (Borinka)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen Artikel über den Burgwall veröffentlichten Zdeněk Farkaš und Vladimír Turčan in unserem Sammelband "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zbornik-hradiska-svedkovia-davnych-cias-2",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradiská-Svedkovia dávnych čias 2"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Aus ihrem Artikel geben wir folgendes wieder: Schon die Benennung selbst weckt die Vorstellung eines Grabens, der durch eine innere und eine äußere Aufschüttung ergänzt wird und ein Gebilde von unregelmäßiger Kreisform umgibt, das dem Terrain angepasst ist und eine Innenfläche von etwa 51 ha umfasst. Die Fortifikation liegt im Inneren der Kleinen Karpaten und kontrolliert die Verbindung zweier heutiger Straßen, die einen Übergang über das Gebirge zwischen dem heutigen Stupava und Lozorno ermöglichen, sowie der daran anschließenden Straße in Richtung Sv. Jur (Sankt Georgen). Der dominante, im Inneren gegliederte Berg mit einer Meereshöhe von 460 bis 531 m ü. M. wird von Westen durch steile, felsige Abstürze geschützt, die in das Karsttal Prepadlé mit dem Bach Stupavský potok abfallen. Von Norden schützt ihn das Tal des Baches Cúrsky potok und von Süden eine felsige Rinne mit dem kleinen Wasserlauf Jajcajov jarok. Der Höhenunterschied zwischen der Fläche der Fortifikation und den Böden der beherrschenden Täler erreicht so 80 und mehr Meter. Zugänglicher ist das Terrain nur von der östlichen Seite, die dem Massiv der Hviezda zugewandt ist. Obwohl der Hang des Tales Prepadlé von feinkörnigen Kalksteinen gebildet wird, besteht der Gipfelbereich aus Graniten und Granodioriten, die in den kleinen Tälern und Erosionsrinnen durch deluviale Sedimente ergänzt werden. Deshalb hatte die Befestigung keinen Mangel an Wasser: außer den nahen Bächen und mehreren bis heute aktiven Quellen in ihrer unmittelbaren Umgebung befanden sich in der Vergangenheit direkt auf ihrer Fläche mindestens drei, heute mit Schlamm verfüllte Quellen oder Brünnlein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf der LiDAR-Aufnahme sind einige Teile von Wall und Graben gut zu erkennen",
+    "alt": "Auf der LiDAR-Aufnahme sind einige Teile von Wall und Graben gut zu erkennen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verlauf der Befestigung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Der große Umfang der Befestigung – die Achse West–Ost erreicht 871 m und die Achse Nord–Süd 832 m – hat zusammen mit den geografischen Gegebenheiten, vor allem den steilen Abstürzen, auch den Charakter der Befestigung beeinflusst. Im Allgemeinen besteht sie jedoch aus einem mächtigen, in den steinigen Untergrund eingetieften Graben, aus dem das Material in unterschiedlichem Maße sowohl auf die innere als auch zum Teil auf die äußere Seite gelangte. Vor einer archäologischen Ausgrabung, die hier bislang nicht stattgefunden hat, lässt sich die innere Konstruktion des Walles nur vermuten. Nach den geodätischen Profilen erreichte die Befestigung auf der nördlichen Seite des Burgwalls über der Rinne mit der Höhle Stará garda eine Breite von etwa 20 m, und die äußere Aufschüttung ist wenigstens derzeit höher als die innere. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Breite der künstlichen Senke zwischen den Kronen beider „Wälle“ beträgt 9 bis 10 m, die Breite der Basis der inneren Aufschüttung 7 m und die der äußeren mindestens 6 m. Die heutige Tiefe des Grabens gegenüber der Krone des inneren Walles beträgt 1,4 m. An der Kante des natürlichen Hanges ist der innere Wall nur durch eine unscheinbare Wellung des Terrains angedeutet, gegenüber der der heutige Grabenboden – durch den ein Forstweg verläuft – um 2,3 m tiefer liegt. Im südlichen Sektor der Befestigung durchschneidet den zum kleinen Wasserlauf abfallenden Hang ein etwa 4,5 m breiter, scheinbar spitzer Graben, dessen heutiger Boden 0,8 m unter der Krone der äußeren Aufschüttung liegt. Der Unterschied gegenüber der Innenfläche der Befestigung beträgt jedoch bis zu 3 m. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Profile der Wälle und Gräben",
+    "alt": "Profile der Wälle und Gräben",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Aufschüttungen – oder wenigstens deren Andeutungen vor der äußeren Kante des Grabens – in Verbindung mit einer Hauptmauer sind nicht nur im kleinkarpatischen Raum vor allem für das Frühmittelalter charakteristisch (Neštich oberhalb von Svätý Jur, Modra, Zámčisko, Dračí hrádok und dergleichen), halten sich jedoch auch bei späteren Holz-Erde-Befestigungen und fanden, allerdings in wesentlich mächtigerer Form, auch bei steinernen Burgen Anwendung, besonders an Stellen, an denen das Terrain dem Gegner ein leichtes Vordringen an den Fuß der Mauer erlaubte. Der derzeitige Stand der archäologischen Forschung erlaubt es jedoch nicht, dieses Verteidigungselement im Falle des Okopanec als eindeutiges chronologisches Kriterium zu betrachten.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Okopanec und die ihm nächstgelegenen Burgwälle aus der Zeit der Slawen (Kärtchen: Ladislav Šubovič)",
+    "alt": "Der Okopanec und die ihm nächstgelegenen Burgwälle aus der Zeit der Slawen (Kärtchen: Ladislav Šubovič)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die nicht zahlreichen archäologischen Funde, die das SNM erwarb, erlauben es, wenigstens einige Aktivitäten auf dem Okopanec der frühmittelalterlichen (slawischen) Periode zuzuordnen. Aus den Wurzeln eines Windbruchs über dem kleinen Tal, das den westlichen Teil der befestigten Fläche durchschneidet, soll ein kleiner Komplex eiserner Gegenstände gehoben worden sein, bestehend aus zwei Pflugschabern (sog. otka) und zwei heute verschollenen Steigbügeln. Es gelang auch, Informationen über den Fund eines Paares von Reitersporen zu erhalten. Es ist nicht auszuschließen, dass es sich dabei um einen und denselben Fund handelt, denn der zweite „Augenzeuge“ wusste nicht, welcher Unterschied in Zweck und Morphologie zwischen einem Steigbügel und einem Sporn besteht. Ein interessanterer Fund ist jedoch eine frühmittelalterliche eiserne Haue, die im westlichen Teil des Burgwalls gefunden wurde. Die Funde belebten verständlicherweise das Interesse an der befestigten Lage. Bei ihrer erneuten geodätischen Vermessung wurde auch eine Oberflächenprospektion mit dem Metalldetektor durchgeführt, mit der im westlichen Teil der befestigten Fläche in der Nähe des Walles zwei weitere Hauen gefunden werden konnten. Beide lagen seicht unter der Oberfläche in einer Schicht hellen gelbbraunen Erdreichs ohne jegliche Kulturschicht. Diese wurde, ebenso wie Keramikfragmente, auf der ganzen Fläche des Burgwalls nicht festgestellt, und zwar auch nicht in Grabungen, Windbrüchen oder in Rinnen, die durch das rücksichtslose Rücken von Holz zu den Lagerplätzen entstanden sind. Die Hauen erweckten den Eindruck, als hätte sie dort jemand weggeworfen oder bei der Arbeit am Bau der Befestigung vergessen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf dem Okopanec gefundene Beile",
+    "alt": "Auf dem Okopanec gefundene Beile",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die „Pflugschaber“ bildeten zusammen mit dem Paar Steigbügel einen kleinen Komplex von Metallgegenständen, wahrscheinlich aus dem Besitz eines Einzelnen, auch wenn in einer recht ungewöhnlichen Kombination von Reiterausrüstung und Arbeitsgeräten, die auch von anderen Fundstellen im kleinkarpatischen Raum bekannt ist. Im Vorfeld des Zámčisko oberhalb von Modra wurden eine durch die Arbeit stark abgenutzte kleine Pflugschar samt einem Sech gefunden. Beide Fälle können mit der Verwahrung eines nicht großen persönlichen Besitzes zusammenhängen, der vielleicht durch ungünstige gesellschaftliche Umstände bedroht war. Die Hauen lassen sich nach ihrer Form in das Frühmittelalter datieren. Charakteristisch sind das senkrechte Loch für den Stiel und die fächerförmig ausgebildete Schneide. Die otka, manchmal auch styk genannt, sind kleine eiserne Werkzeuge, die mit einem kurzen Stiel verwendet wurden und in verschiedenen Bereichen menschlicher Tätigkeit zum Einsatz kamen – zum Reinigen des Pfluges von anhaftendem Erdreich, zum Entrinden, zur Holzbearbeitung und dergleichen. Hauen wie otka sind gewöhnlich ein geläufiger Bestandteil großmährischer Hortfunde. Nach ihrer Form lassen sich auch die Funde vom Okopanec diesem Horizont zuordnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wahrscheinliche Funktion des Burgwalls war die Bewachung eines der Wege, die über die Kleinen Karpaten von mährischer Seite in die Region Nitra führten. Die nächstgelegenen Befestigungen aus der Zeit der Slawen sind Dračí hrádok und Neštich in Svätý Jur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

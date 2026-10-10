@@ -1,0 +1,711 @@
+{
+ "slug": "moslimovia-o-madaroch-pred-zaujatim-vlasti",
+ "data": {
+  "title": "Was muslimische Quellen über die Altungarn vor der „Landnahme“ berichten",
+  "slug": "muslimische-quellen-altungarn-vor-der-landnahme",
+  "excerpt": "Im Verlag Brill erschien István Zimonyis Buch Muslim Sources on the Magyars in the Second Half of the 9th Century. Für Burgwall-Begeisterte ist es deshalb interessant, weil es Leben und Kriegswesen der Altungarn unmittelbar vor ihrer Ankunft im Karpatenbecken beschreibt: Nomaden in Filzzelten ohne Städte und Häuser, Fischfang an den Flüssen vor dem Winter, ein Anführer an der Spitze von 20.000 Reitern und ein dauernder Kriegszustand mit der Rus und den Slawen.",
+  "metaTitle": "Muslimische Quellen über die Altungarn vor der Landnahme",
+  "metaDescription": "István Zimonyis Buch über die muslimischen Quellen: Leben und Kriegswesen der Altungarn unmittelbar vor ihrer Ankunft im Karpatenbecken.",
+  "keyFacts": [
+   {
+    "label": "Autor der Rezension",
+    "value": "Pavol Satko",
+    "icon": "book"
+   },
+   {
+    "label": "Besprochenes Buch",
+    "value": "István Zimonyi: Muslim Sources on the Magyars in the Second Half of the 9th Century (Brill)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Hauptquelle",
+    "value": "Kitāb al-masālik wa-l-mamālik (Buch der Wege und Königreiche), al-Jayhānī, 10. Jahrhundert",
+    "icon": "scroll"
+   },
+   {
+    "label": "Thema",
+    "value": "Leben und Kriegswesen der Altungarn vor der Ankunft im Karpatenbecken nach muslimischen Quellen",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor 850",
+    "title": "Dauernder Kriegszustand mit der Rus und den Slawen",
+    "description": "Die Altungarn befanden sich in dauerndem Kriegszustand mit der Rus und den Slawen; die Gefangenen verkauften sie den Byzantinern als Sklaven.",
+    "type": "event"
+   },
+   {
+    "year": "750–860",
+    "title": "Skandinavische Handelsstützpunkte",
+    "description": "Die Skandinavier errichteten Stützpunkte an den Handelswegen von der Ostsee bis zum Schwarzen und zum Kaspischen Meer; am Dnepr entstand Kiew.",
+    "type": "event"
+   },
+   {
+    "year": "nach 850",
+    "title": "Entstehung der Fürstentümer der Nordmänner",
+    "description": "Die Nordmänner (Wikinger) begannen in den Gebieten der Ostslawen Fürstentümer zu bilden, zuerst in Nowgorod.",
+    "type": "event"
+   },
+   {
+    "year": "942",
+    "title": "Aussage eines gefangenen Altungarn in Andalusien",
+    "description": "Die von einem gefangenen Altungarn gewonnenen Informationen belegen, dass die Altungarn im Karpatenbecken noch nomadisch in Jurten lebten.",
+    "type": "event"
+   },
+   {
+    "year": "948",
+    "title": "Eintrag Konstantins VII. Porphyrogennetos",
+    "description": "Kaiser Konstantin VII. hielt in De administrando imperio fest, dass die Altungarn an den Flüssen Temesch, Tutis, Mieresch, Kreisch und Theiß leben.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4217,
+    "alt": "Historisches Gemälde der Ankunft eines Reitergefolges mit Wagen und Vieh in einem neuen Land"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor einiger Zeit erschien im Verlag Brill das Buch von István Zimonyi, Muslim Sources on the Magyars in the Second Half of the 9th Century. (Muslimische Quellen über die Magyaren in der zweiten Hälfte des 9. Jahrhunderts) Für einen „Burgwall-Begeisterten“ ist es dadurch interessant, dass es das Leben und das Kriegswesen der Magyaren unmittelbar vor ihrer Ankunft im Karpatenbecken beschreibt. Es hat keinen Sinn, das ganze Buch zu kommentieren, und deshalb widme ich mich nur jenen Informationen, die ich für das Verständnis ihrer erfolgreichen „Landnahme“ für wichtig halte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kleine Anmerkung. ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn der Autor im Buch die Bezeichnung Magyar, Magyaren – im Englischen natürlich Magyars – ohne jeden Zusatz verwendet, bin ich nicht davon überzeugt, dass die heutigen Ungarn vorbehaltlos Nachkommen der im Buch beschriebenen Magyaren sind, und deshalb schreibe ich von den „Altungarn“. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Altungarn – Türken ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die muslimischen Geschichtsschreiber verwenden die Bezeichnung Magyar in verschiedenen Schreibformen, z. B. Ibn Rusta in der Form majghir oder majghar. Manchmal kommt in den Aufzeichnungen auch die Bezeichnung Baschkire als bāshjird, bāshqird vor, aber ob unter den Baschkiren immer die „Altungarn“ zu verstehen sind, ist ein recht spezifisches Problem und geht über den Rahmen dieses kurzen Artikels hinaus. Nur zur Orientierung: Es handelt sich wahrscheinlich um Menschen muslimischen Glaubens, die entweder mit den „Altungarn“ oder später in das Karpatenbecken kamen und sich mit Erlaubnis der ungarischen Fürsten bzw. der ersten Könige des Königreichs Ungarn im Süden Ungarns niederließen. Jedenfalls waren die Baschkiren wahrscheinlich schon in ihrer ursprünglichen Heimat in den Steppen unterhalb des Urals Nachbarn der „Altungarn“. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die „Altungarn“ werden in den muslimischen Quellen als turksprachiges Ethnikum beschrieben. Als Türken bezeichneten die Altungarn auch die Byzantiner, und zwar sogar zu Zeiten, als die Kaiser Töchter oder Schwestern ungarischer Könige heirateten, die slawische Namen trugen. Auch die slawische Bezeichnung Uhri, die Westeuropa übernahm, hat ihren Ursprung in der Benennung Ungri, Ugri, mit der die Slawen im Karpatenbecken das erste turksprachige Ethnikum bezeichneten, dem sie begegneten, d. h. die Onoguren, und die sie sekundär auch für die „Altungarn“ verwendeten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Nomadische Lebensweise ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus den Aufzeichnungen ergibt sich eindeutig, dass die „Altungarn“ eine nomadische Lebensweise in den Steppen nördlich des Schwarzen Meeres führten. Aus den im Jahr 942 von einem gefangenen Altungarn in Andalusien gewonnenen Informationen über die Altungarn ergibt sich sogar, dass sie auch im Karpatenbecken mindestens bis zur Mitte des 10. Jahrhunderts nomadisch in Jurten lebten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Sie haben weder Städte noch Häuser, sondern leben in Filzzelten, verstreut über das Land.",
+    "author": "Ibn Ḥayyān",
+    "source": "zitiert nach I. Zimonyi: Muslim Sources on the Magyars in the Second Half of the 9th Century"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Unterschied zu den Nomaden in wärmeren geographischen Zonen müssen die Nomaden der eurasischen Steppe wegen des Schnees, der das Weiden der Herden im Winter erschwert, ihre Nahrungsquellen durch Beute und Jagd ergänzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Leben an den Flüssen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ibn Rusta schreibt, dass die „Altungarn“, die nördlich des Schwarzen Meeres zwischen zwei Flüssen saßen, vor dem Winter an die Flussufer zogen, wo sie ihre Nahrungsvorräte durch Fischfang ergänzten. Der Fischfang war eine bedeutende Nahrungsquelle, und auch andere Geschichtsschreiber erwähnen ihn bei den Nomadengemeinschaften im europäischen Teil der Steppe. In De administrando imperio schreibt dessen Autor, Kaiser Konstantin VII. Porphyrogennetos, im Kapitel 40, dass die Altungarn an den Flüssen Temesch, Tutis, Mieresch, Kreisch und Theiß leben. Sein Eintrag entstand etwa im Jahr 948 und belegt ebenfalls, dass die Altungarn auch noch 50 Jahre nach ihrer Ankunft im Karpatenbecken als Nomaden lebten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Landwirtschaft ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Frage, ob die „Altungarn“ vor der Ankunft im Karpatenbecken wenigstens teilweise Landwirte waren, ist in dem Buch auf sehr eigenartige Weise gelöst. Außer den muslimischen Aufzeichnungen, die klar von einer nomadischen Lebensweise schreiben, beweisen auch die archäologischen Funde aus ihrer ursprünglichen Heimat, dass die „Altungarn“ als Nomaden lebten. Unter den Knochen der Nutztiere überwiegen deutlich die Knochen von Rindern und Pferden, und es finden sich keine Knochen jener Haustiere, die üblicherweise mit der Landwirtschaft verbunden sind. Und dennoch schließt der Autor daraus, dass die „Altungarn“ noch vor der Ankunft im Karpatenbecken einige Wörter für Getreidearten und Geräte hatten, sie seien Landwirte gewesen. Nur schreibt er an anderer Stelle, dass sie die landwirtschaftlichen Erzeugnisse durch Raubzüge oder als Tribut, d. h. als „Schutzgeld“, erlangten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das altungarische Heer ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ibn Rusta schreibt, dass der Anführer der Altungarn an der Spitze von 20.000 Reitern reitet. Diese Information wiederholen die übrigen muslimischen Geschichtsschreiber mehr oder weniger wörtlich. Inwieweit diese Zahl der damaligen Realität entspricht, lässt sich nicht genau bestimmen, aber die Wahrheit wird wohl viel zurückhaltender ausfallen. Eine zweite Sache ist, was wir uns unter dem Begriff Reiter vorstellen. Ob einen elitären schweren Reiter im Lamellenpanzer, mit eingelegtem Säbel und mit einem luxuriösen Kompositbogen, oder einen Hirten, der ohne jeden Panzer und Helm sein Lasso, seinen Bogen, eine Axt und zwei einfache Lanzen in den Krieg mitnahm. Selbst wenn wir von einer Zahl von 20.000 ausgingen, so würden in einem solchen Heer die „Hirten“ deutlich gegenüber den gepanzerten Reitern überwiegen. Auch wenn ich das Wort Hirte verwende, handelt es sich dank der nomadischen Lebensweise um einen lebenslang trainierten Krieger. Um einen Meister im Gebrauch des Lassos zum Einfangen von Tieren und um einen vorzüglichen Bogenschützen, der, wenn er nicht gerade fremde Tiere stahl, seine Herde vor Dieben schützte. Auch der berühmte Dschingis Khan begann als Dieb. Aus den archäologischen Funden aus dem Karpatenbecken ist offensichtlich, dass die Altungarn keine schwere Reiterei hatten; nur die Befehlshaber und die Leibgarde der Herrscher besaßen luxuriöse Verzierungen der Kleidung und des Pferdegeschirrs sowie Waffen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die altungarischen Herrscher ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon in den Aufzeichnungen des Ibn Rusta werden zwei Herrscher erwähnt. In erster Linie unter dem im Arabischen als k.nd.h. geschriebenen Wort, das die Schreibung des ungarischen Wortes kündä oder kändä ist. Seine Lautung änderte sich später, schon im Königreich Ungarn, zu kende. Die Altungarn übernahmen diesen Titel von den Chasaren, und er wird zur Bezeichnung des „Oberbefehlshabers“ verwendet. Der zweite Name ließe sich im heutigen Ungarischen als gyula schreiben. Es ist fraglich, ob der Titel dem König zustand, der gleichzeitig auch geistlicher Führer war, oder nur dem geistlichen Führer, der auch eine andere Funktion erfüllte, z. B. die eines Richters. Aus den knappen Aufzeichnungen selbst lässt sich die Verteilung der Macht und der Aufgaben der Herrscher nicht genau bestimmen. Jedenfalls hatten die Altungarn eine Form der Doppelherrschaft. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Altungarn, Awaren, Bulgaren, Chasaren, Petschenegen und Byzantiner ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "István Zimonyi widmet sich ausführlich der Geschichte der Nomaden nicht nur in den Gebieten nördlich des Schwarzen Meeres, sondern auch ihrem Vordringen auf den Balkan und in das Karpatenbecken. Vor allem an der Geschichte der Awaren und der Bulgaren führt er nicht nur die geschichtliche Begegnung der Nomaden mit den Slawen und den übrigen Bewohnern des Karpatenbeckens und des Balkans vor Augen, sondern auch ihre Wechselwirkungen mit dem Christentum. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Altungarn, Rus und Slawen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die muslimischen Quellen schreiben, dass die Altungarn mit der Rus und den Slawen in dauerndem Kriegszustand stehen und die Schlachten fast immer gewinnen. Aus den von der Rus und den Slawen bewohnten Gebieten führen sie Gefangene fort, die sie den Byzantinern als Sklaven verkaufen. Dieser Zustand entspricht der Realität vor dem Jahr 850. Außer der Beute in Form von Sklaven, Nahrungsmitteln oder Nutztieren wurde mit Hilfe der Raubzüge auch die Zahlung eines Tributs durchgesetzt. Die Raubzüge wurden meist im Winter unternommen, und deshalb zogen sich auch die Slawen in ihre befestigten Burgen zurück, die wir gewöhnlich Burgwälle nennen. Solange die Gesellschaft der Bauern keine wirksame Staatsmacht mit berufsmäßigen Kriegern geschaffen hatte, war sie Raubzügen praktisch schutzlos ausgeliefert. Nach dem Jahr 850 begannen die Nordmänner (Wikinger) in den Gebieten der Ostslawen Fürstentümer zu bilden. Zuerst im Norden (Nowgorod) und später auch am Mittellauf des Flusses Dnepr. In einigen Jahrzehnten „glichen sie den Spielstand aus“, und die slawisierten Kiewer Herrscher griffen die Nomaden nördlich des Schwarzen Meeres und im Wolgagebiet an. Das Blatt wendete sich später jedoch noch mehrmals, und die Raubzüge der Nomaden nördlich des Schwarzen Meeres endeten erst zur Zeit der Kaiserin Katharina der Großen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Altungarn und Kiew ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Skandinavier handelten schon seit dem Jahr 500 mit den Ostslawen. Im Laufe der Jahre 750 bis 860 errichteten sie Stützpunkte an den Handelswegen, die von der Ostsee bis zum Schwarzen oder zum Kaspischen Meer führten. Auf dem Weg nach Konstantinopel entstand an den Ufern des Flusses Dnepr Kiew. István Zimonyi befasst sich im Kapitel Kiew und die Magyaren mit der Situation unmittelbar vor der Vertreibung der „Altungarn“ aus der Steppe und mit ihren Kontakten zu den Slawen im Raum von Kiew. Er bietet drei Szenarien an. Die „Altungarn“ herrschten in Kiew und wurden von dort von der Rus vertrieben; zweitens, die „Altungarn“ verwalteten Kiew mit Erlaubnis der chasarischen Khane; oder drittens, sie lebten in relativem Frieden mit den Slawen und der Rus und hatten Anteil am Handel. Leider stützt sich der Autor hauptsächlich auf die Gesta Hungarorum, die Gesta Hunnorum et Hungarorum und die Nestorchronik, was nicht gerade „kugelsichere“ Quellen sind. Doch so oder so erlaubt es, sich die Vorstellung zu bilden, dass die Führer der „Altungarn“ kurz vor der „Landnahme“ Erfahrung mit dem Herrschen über Slawen und vielleicht auch mit Slawen hatten. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Altungarn und Slawen im Karpatenbecken. ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Gerade die Erfahrungen der „Altungarn“ während ihres Lebens nördlich des Schwarzen Meeres mit den Slawen und der Rus verschafften ihnen einen Vorteil bei der Beherrschung des Karpatenbeckens. Obwohl sich der Autor nicht mit den Ereignissen nach dem Jahr 895 befasst, behandelt er im Buch die Frage der sogenannten doppelten Landnahme. Er hat deutliche Einwände gegen die Auffassung, dass die Onoguren, die im Jahr 670 in das Karpatenbecken kamen, Ungarn gewesen seien. Wie es bei ungarischen Autoren Tradition ist, widmet sich Zimonyi auch der geographischen Lage Großmährens. Natürlich erwähnt er beide „Großmähren“ – das „unsere“ im Norden, nördlich der Donau, und das südliche im heutigen Serbien. Er zählt die historischen Aufzeichnungen auf, erinnert an die reichen archäologischen Funde an der „mährischen March“ und daran, dass es an der „serbischen“ Morava keinerlei Funde gibt, versäumt es auch nicht, die Werke ungarischer Autoren zu erwähnen, weicht aber schließlich ganz brillant einer klaren Stellungnahme aus. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schluss. ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Wenn man sich bewusst macht, dass die direkten Informationen zu den „Altungarn“ nicht einmal eine Seite im Format A4 füllen und das Buch selbst 375 Seiten Autorentext hat, ist klar, warum wir außer über die „Altungarn“ auch viel über die Awaren, Burtasen, Chasaren, Onoguren, die Bulgaren an der Wolga und auf dem Balkan und die übrigen damaligen nomadischen Ethnien erfahren. Es liefert auch viele Informationen über die Araber, Byzantiner, Perser und Chinesen, die mit den Nomaden manchmal in friedlichem, häufiger aber in kriegerischem Zustand waren. István Zimonyi verwendet schriftliche und archäologische Quellen, beginnend mit Herodot und endend mit den mittelalterlichen Reisenden in die Hauptstadt der Mongolen. Die „Altungarn“ sondert er nicht als ein außergewöhnliches Ethnikum mit außerordentlichen Fähigkeiten aus dem geschichtlichen Prozess aus, ganz im Gegenteil: Unter Verwendung der Kenntnisse über Leben, Kriegswesen und Politik der nomadischen Ethnien von den Nordgrenzen Chinas bis nach Pannonien vertieft er die Kenntnisse über das ungarische Ethnikum vor seiner Invasion in das Karpatenbecken. Das Verständnis dafür, wer die „Altungarn“ vor der Invasion in das Karpatenbecken waren, erklärt ihren Erfolg bei der Landnahme und auch die spezifische Art ihrer Transformation in dem zivilisatorisch und wirtschaftlich anderen Umfeld Mitteleuropas.\n \n "
+       }
+      ]
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Informationsquelle",
+        "bold": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste und wahrscheinlich beste Quelle ist das Werk „Kitāb al-masālik wa-l-mamālik“ des persischen Wesirs und Geographen Abū ʿAbdallāh Muḥammad ibn Aḥmad al-Jayhānī. Al-Jayhānī lebte im 10. Jahrhundert am Hof der persischen Herrscher und hatte dank Erziehung, Bildung und seiner Stellung Zugang zu älteren Informationen und zur diplomatischen Korrespondenz. Sein Werk „Kitāb al-masālik wa-l-mamālik“, auf unsere Weise „Buch der Wege und Königreiche“, ist im ursprünglichen Wortlaut nicht erhalten, es existieren jedoch mehrere Abschriften. Außer dem „Buch der Wege und Königreiche“ verwendet István Zimonyi vor allem die Aufzeichnungen folgender muslimischer Autoren:"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ibn Rusta "
+       },
+       {
+        "type": "link",
+        "url": "https://sk.wikipedia.org/wiki/Ibn_Rusta",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://sk.wikipedia.org/wiki/Ibn_Rusta"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gardīzī "
+       },
+       {
+        "type": "link",
+        "url": "https://en.wikipedia.org/wiki/Abu_Sa'id_Gardezi",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://en.wikipedia.org/wiki/Abu_Sa'id_Gardezi"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "al-Bakrī "
+       },
+       {
+        "type": "link",
+        "url": "https://en.wikipedia.org/wiki/Al-Bakri",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://en.wikipedia.org/wiki/Al-Bakri"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abūʾl-Fidāʾ "
+       },
+       {
+        "type": "link",
+        "url": "https://en.wikipedia.org/wiki/Abu'l-Fida",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://en.wikipedia.org/wiki/Abu'l-Fida"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ḥudūd al-ʿālam "
+       },
+       {
+        "type": "link",
+        "url": "https://en.wikipedia.org/wiki/Hudud_al-'Alam",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://en.wikipedia.org/wiki/Hudud_al-'Alam"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ibn Ḥayyān "
+       },
+       {
+        "type": "link",
+        "url": "https://en.wikipedia.org/wiki/Ibn_Hayyan",
+        "children": [
+         {
+          "type": "text",
+          "text": "https://en.wikipedia.org/wiki/Ibn_Hayyan"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "al-Marwazī und weitere."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn es national eine Mischung aus Arabern, Persern, Juden und Gelehrten aus Zentralasien und aus den islamischen Gebieten Spaniens ist, übernehmen viele der angeführten Autoren mit größerer oder geringerer Genauigkeit die Informationen von ihren Vorgängern. Die muslimischen Quellen ergänzt der Autor um Informationen aus westlichen mittelalterlichen Chroniken, aus syrischen, armenischen und chinesischen Quellen, und sehr häufig stützt er sich auch auf byzantinische Quellen, denn die Gebiete der südrussischen Steppen waren ein Raum des Machtinteresses der Herrscher in Konstantinopel.",
+        "italic": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pavol Satko"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Muslime über die Altungarn vor der „Landnahme“",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

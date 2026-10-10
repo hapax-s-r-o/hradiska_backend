@@ -1,0 +1,302 @@
+{
+ "slug": "spissky-stvrtok-slovenske-mykeny",
+ "data": {
+  "title": "Spišský Štvrtok – das „Slowakische Mykene“ aus der Bronzezeit",
+  "slug": "spissky-stvrtok-slowakisches-mykene-bronzezeit",
+  "excerpt": "Sehr lange wusste man nicht, dass auch in der Slowakei ein etwa 3500 Jahre altes Städtchen existierte, das viel mit dem griechischen Mykene gemeinsam hatte. Auf der Myšia Hôrka bei Spišský Štvrtok errichteten Menschen der Otomani-Kultur eine Festung von etwa 6600 m², die die sogenannte Nordstraße bewachte – mit Steinmauern, in Straßen geplanten Häusern, mykenischen Ornamenten und Fayenceperlen, die damals nur aus Ägypten bekannt waren.",
+  "metaTitle": "Spišský Štvrtok – das „Slowakische Mykene“ der Bronzezeit",
+  "metaDescription": "Die Myšia Hôrka in Spišský Štvrtok: eine 3500 Jahre alte Festung der Otomani-Kultur an der Nordstraße, nach dem griechischen Mykene benannt.",
+  "keyFacts": [
+   {
+    "label": "Fläche des befestigten Areals",
+    "value": "etwa 6600 m², mit neununddreißig Häusern und einem Kultplatz",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Steinwall von 6 m Breite, vorgelagerte Steinmauer und 6 m breiter Graben, Haupttor in U-Form",
+    "icon": "shield"
+   },
+   {
+    "label": "Kultur",
+    "value": "Otomani-Kultur (Otomani-Füzesabony), Übergang zwischen der Früh- und der Mittelbronzezeit",
+    "icon": "scroll"
+   },
+   {
+    "label": "Bedeutende Funde",
+    "value": "goldener und bronzener Schmuck, Fayenceperlen (bis dahin nur aus Ägypten bekannt), Erzeugnisse aus Knochen und Bernstein mit mykenischen Ornamenten",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor etwa 3500 Jahren (Bronzezeit)",
+    "title": "Entstehung des Städtchens auf der Myšia Hôrka",
+    "description": "Das etwa 3500 Jahre alte Städtchen errichteten Menschen der Otomani-Kultur, Zuwanderer aus Siebenbürgen, die die reiche Rohstoffbasis und das Vorkommen von Kupfer anlockte.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende des 19. Jahrhunderts",
+    "title": "Erste Nachricht über die Festung",
+    "description": "Die erste Nachricht über die historische Festung auf der Myšia Hôrka schrieb der Archäologe Alexander Münich.",
+    "type": "discovery"
+   },
+   {
+    "year": "nach dem 1. Weltkrieg",
+    "title": "Verhinderung der Verwüstung der Fundstelle",
+    "description": "Der Myšia Hôrka drohte die vollständige Verwüstung, die die Behörden verhinderten.",
+    "type": "event"
+   },
+   {
+    "year": "sechziger Jahre des 20. Jahrhunderts",
+    "title": "Hinweis von František Javorský",
+    "description": "Auf die Fundstelle machte der Archäologe František Javorský aufmerksam, ein gebürtiger Einwohner von Spišský Štvrtok.",
+    "type": "discovery"
+   },
+   {
+    "year": "1968–1974",
+    "title": "Systematische Grabung unter der Leitung von J. Vlaďar",
+    "description": "Die Ausgrabung leitete doc. PhDr. Jozef Vlaďar, DrSc., vom Archäologischen Institut der Slowakischen Akademie der Wissenschaften in Nitra; die Funde wurden von Fachleuten als eine europäische Entdeckung bewertet.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3780,
+    "alt": "Plan der Befestigung mit Höhenlinien und Windrose, Beschriftung Spišský Štvrtok"
+   },
+   {
+    "mediaId": 3782,
+    "caption": "3D-Modell der befestigten Höhensiedlung. Autor: Naj",
+    "alt": "3D-Modell der befestigten Höhensiedlung. Autor: Naj"
+   },
+   {
+    "mediaId": 3783,
+    "caption": "Ein siegreiches Heer der Bronzezeit führt gefangene Frauen fort, im Hintergrund die brennende Höhensiedlung (Zeichnung: Libor Balák)",
+    "alt": "Ein siegreiches Heer der Bronzezeit führt gefangene Frauen fort, im Hintergrund die brennende Höhensiedlung (Zeichnung: Libor Balák)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sehr lange wusste man nicht, dass auch in der Slowakei ein etwa 3500 Jahre altes Städtchen existierte, das viel mit dem griechischen Mykene gemeinsam hatte. Es handelt sich um Spišský Štvrtok, konkret um die Myšia Hôrka, wo die damaligen Bewohner eine Festung an einem wichtigen strategischen Punkt errichteten, an der sogenannten Nordstraße, die sie bewachten und kontrollierten. Die Historiker haben dieses Gebiet als das Zipser Mykene benannt…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "SPIŠSKÝ ŠTVRTOK – SLOWAKISCHES MYKENE",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wahrscheinlich existierten schon zu dieser Zeit auf dem Gebiet der Slowakei zwei bedeutende Wege, die seit der jüngeren Steinzeit gleichzeitig Handelswege waren. Der erste, die Bernsteinstraße genannt, führte vom Mittelmeerraum entlang der Donau und der March nach Norden. Der zweite von der nordöstlichen Ostsee entlang der Weichsel und des Poprad durch ein enges Tal an der Myšia Hôrka vorbei in das Theißgebiet, dann auf den Balkan zum Mittelmeer. Diese östliche Trasse, die Nordstraße genannt, hatte Einfluss auf die Entstehung und die Entwicklung der Festung. Auf diesem viel befahrenen Weg wurden Waren wahrscheinlich in Karawanen von einer Station zur anderen transportiert. Sicherlich gab es auch Händler, die diesen Weg ganz durchzogen, aber sie mussten die Möglichkeit haben, die Transportmittel, also die Pferde, zu wechseln oder zu mieten. Dazu dienten ihnen eine Art befestigte Erfrischungsstationen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Nachricht über die historische Festung auf der Myšia Hôrka erschien erst am Ende des 19. Jahrhunderts. Geschrieben hat sie der Archäologe Alexander Münich, der als Vater der Zipser Archäologen und Heimatkundefreunde gilt. Zu dieser Zeit existierten noch etwa zwei Meter hohe Mauerreste, die die örtlichen Bewohner später abtrugen und für den Bau ihrer durch einen Brand beschädigten Häuser verwendeten. Der Myšia Hôrka drohte die vollständige Verwüstung, die die Behörden nach dem 1. Weltkrieg verhinderten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "SPIŠSKÝ ŠTVRTOK – SLOWAKISCHES MYKENE",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der sechziger Jahre machte auf diese Fundstelle auch František Javorský aufmerksam, Archäologe und gebürtiger Einwohner von Spišský Štvrtok. Mehr als zwanzig Jahre nach diesem Hinweis kamen die Mitarbeiter des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften in Nitra (Neutra) zu Wort, die mit der Ausgrabung begannen, doch die Erfolge kamen lange nicht. Der Leiter dieser Ausgrabung, doc. PhDr. Jozef Vlaďar, DrSc., gab jedoch nicht auf, und die Ausgrabung wurde schließlich von herrlichen Funden gekrönt. Über sie veröffentlichte er viele Artikel und Fotografien. Die Fachleute bewerteten diese Funde als eine europäische Entdeckung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor allem deshalb, weil sie die bisherigen Vorstellungen über die Besiedlung des nördlichen Teils der Slowakei in der Urgeschichte veränderte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es wird angenommen, dass in Mitteleuropa vor 3500 Jahren die Urgeschichte und die Urgesellschaft herrschten, während im Süden Europas, auch im griechischen Mykene, bereits eine entwickelte Sklavenhaltergesellschaft existierte. Mykenische, kretische und griechische Kultureinflüsse verbreiteten sich damals von anderen Zivilisationszentren in Europa aus. Die Art des Palastbaus, die Steinarchitektur und die städtebauliche Lösung mit allen ägäischen Strömungen verbreiteten sich nach Norden auch über die Nordstraße und gelangten bis auf die Myšia Hôrka. Zwischen dem griechischen Mykene und der Myšia Hôrka mussten also Kontakte bestehen, die sich in der materiellen wie auch in der geistigen Kultur zeigten, was durch reiche Funde und durch Gegenstände von strategischer Bedeutung belegt ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ausgegrabenen Artefakte zeigten, dass das Städtchen auf der Myšia Hôrka eine vollkommene militärische Befestigung und in Straßen angeordnete Häuser nach einem durchdachten städtebaulichen Plan besaß. Es hatte eine Fläche von etwa 6600 m² und war in der üblichen Weise geschützt. Der durch Steinmauern geschützte Wall war 6 m breit, und vor ihm befand sich noch eine eigene Steinmauer und ein 6 m breiter Graben. In die Stadt mit ihren Steinmauern in Form des Buchstabens U gelangte man durch das Haupttor. Es zeigte sich auch, dass das Städtchen auf den Fundamenten einer älteren, aber kleineren Siedlung errichtet worden war, die die neuen Erbauer niederlegten, um eine weitläufigere und prächtigere Siedlung bauen zu können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "3D-Modell der befestigten Höhensiedlung. Autor: Naj",
+    "alt": "3D-Modell der befestigten Höhensiedlung. Autor: Naj",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Archäologen kamen zu dem Schluss, dass die altertümliche Siedlung Menschen der Otomani-Kultur errichteten, also Zuwanderer aus Siebenbürgen, die die dortigen Städte und deren Schutz gut kannten. Hierher lockte sie auch die reiche Rohstoffbasis. Das Vorkommen einer großen Menge Kupfer war eine der Bedingungen, die die Entstehung eines solchen Städtchens schon in der Bronzezeit ermöglichte. Davon zeugt die beträchtlich auffällige Ähnlichkeit der Funde auf der Myšia Hôrka mit den Funden der sogenannten Otomani-Kultur, deren Zentrum Siebenbürgen (Rumänien) war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "NONuAYct3hU",
+    "url": "https://www.youtube.com/embed/NONuAYct3hU",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Städtchen auf der Myšia Hôrka war an einer erhöhten Stelle errichtet, wo sich auf der einen Seite ein steiler und bewaldeter Hang in das Tal des Baches Machalovský potok hinabsenkt. Gegenüber dem steilen Hang erhebt sich ein Hügel namens Hradisko, auf dem die archäologische Ausgrabung durchgeführt wird. Die Straßen mit den Häusern knüpften an das Eingangstor mit zwei Türmen und der Befestigung an. Darin gleicht es der freigelegten Siedlung in Barca bei Košice (Kaschau). Auf der Myšia Hôrka waren zwei Arten von Bauten errichtet. Die einen gehörten der privilegierten Schicht der Mächtigen, die anderen, außerhalb des Platzes, den Handwerkern, Händlern und Soldaten. Mitten auf dem mit Steinen gepflasterten Platz war die Akropolis errichtet, in der die privilegierten Bewohner wohnten. Ihre Häuser unterschieden sich vor allem durch die Struktur der Gegenstände, die hier gefunden wurden. Die mächtigste Gruppe von Menschen entschied über die Organisation des Lebens im Städtchen, über den Handel, über die Bewachung der Nordstraße und sicherlich auch über die Wirtschaft der ganzen Landschaft. In ihren Häusern fanden sich goldene und bronzene Schmuckstücke, die in Gefäßen auf Regalen oder in Tresoren unter dem Fußboden aufbewahrt waren. Die Prächtigkeit vieler Gegenstände hoben Erzeugnisse aus Knochen und Bernstein mit mykenischen Ornamenten hervor. Gefunden wurden hier auch Fayenceperlen, die zu dieser Zeit nur in Ägypten bekannt waren. In den Häusern der Handwerker und Händler fanden sich: Steinerzeugnisse, Keramik, Bronzegegenstände, Gussformen für bronzene Dolche und Schmuck, Webgewichte und verschiedene Zierobjekte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein siegreiches Heer der Bronzezeit führt gefangene Frauen fort, im Hintergrund die brennende Höhensiedlung (Zeichnung: Libor Balák)",
+    "alt": "Ein siegreiches Heer der Bronzezeit führt gefangene Frauen fort, im Hintergrund die brennende Höhensiedlung (Zeichnung: Libor Balák)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Besonderheit ist, dass im Städtchen kein landwirtschaftliches Gerät gefunden wurde, was wahrscheinlich beweist, dass sich die Bewohner die Nahrungsmittel offenbar durch Tausch von den Bewohnern der weiten Umgebung beschafften."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der attraktivste Befund war ein Opferplatz, in dem auch menschliche Überreste gefunden wurden, die mit verschiedenen Grabbeigaben in eine Grube geworfen worden waren. Einige Skelette waren nicht vollständig, es fehlten ihnen Arme und Beine. Festgestellt wurde auch eine rituelle Verstümmelung, eine geradezu bestialische Entstellung der Körper, die Köpfe der Opfer nicht ausgenommen. In drei Fällen fanden sich auch Löcher im hinteren Teil des Schädels. Diese Entdeckung ist mehr als überraschend, denn hier sollen Menschen mit hohem gesellschaftlichem Standard gelebt haben…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

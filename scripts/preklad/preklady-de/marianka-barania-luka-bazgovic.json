@@ -1,0 +1,261 @@
+{
+ "slug": "marianka-barania-luka-bazgovic",
+ "data": {
+  "title": "Marianka – Barania lúka (Bazgovič): befestigte Höhensiedlung der Velatice-Kultur",
+  "slug": "marianka-bazgovic-velatice-hoehensiedlung",
+  "excerpt": "Auf dem Berg Bazgovič oberhalb von Marianka, auf 384,5 m ü. M., liegt eine befestigte Höhensiedlung der Velatice-Kultur. Ein ovaler, stellenweise bis zu 3 m hoher Wall umschloss ein Areal von etwa 8 ha, im Süden mit einem Tor der Zangenform. Die Ausgrabungen von J. Paulík in den Jahren 1986–1990 erbrachten Webgewichte, Spinnwirtel, eine bronzene Lanzenspitze und ein eisernes Messer; die Mauern gingen durch einen Brand unter. Rätselhaft bleibt die Klinge eines Kurzschwertes aus dem Steinbruch.",
+  "metaTitle": "Marianka – Bazgovič: Höhensiedlung der Velatice-Kultur",
+  "metaDescription": "Die ovale Höhensiedlung der Velatice-Kultur (8 ha) auf dem Bazgovič über Marianka: ein Wall bis zu 3 m Höhe, ein Zangentor und die Grabung J. Paulíks.",
+  "keyFacts": [
+   {
+    "label": "Höhe ü. M.",
+    "value": "384,5 m ü. M. (Berg Bazgovič)",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "ovaler Wall bis zu 3 m, Fläche ~8 ha (320 × 220 m)",
+    "icon": "star"
+   },
+   {
+    "label": "Kultur",
+    "value": "Velatice-Kultur (jüngere Bronzezeit)",
+    "icon": "star"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "J. Paulík, 1986–1990",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Äneolithikum",
+    "title": "Die ältesten Funde",
+    "description": "Eine Steinaxt und Scherben.",
+    "type": "event"
+   },
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Velatice-Kultur",
+    "description": "Mauern mit Steinfront; Textil- und Bronzeproduktion.",
+    "type": "event"
+   },
+   {
+    "year": "1000–900 v. Chr.",
+    "title": "Ende der Befestigung",
+    "description": "Velatice-Podolí-Horizont; die Mauern wurden beim Abzug offenbar niedergebrannt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5867,
+    "caption": "LIDAR-Aufnahme der Höhensiedlung",
+    "alt": "LIDAR-Aufnahme der Höhensiedlung"
+   },
+   {
+    "mediaId": 5868,
+    "caption": "Funde aus der Höhensiedlung (Paulík)",
+    "alt": "Funde aus der Höhensiedlung (Paulík)"
+   },
+   {
+    "mediaId": 5869,
+    "caption": "Vereinfachtes 3D-Modell der Höhensiedlung von der Website Foarto",
+    "alt": "Vereinfachtes 3D-Modell der Höhensiedlung von der Website Foarto"
+   },
+   {
+    "mediaId": 5872,
+    "caption": "Foto des Tores mit angedeuteter Palisade von der Website Foarto",
+    "alt": "Foto des Tores mit angedeuteter Palisade von der Website Foarto"
+   },
+   {
+    "mediaId": 5874,
+    "caption": "Funde aus der Höhensiedlung (Bartík)",
+    "alt": "Funde aus der Höhensiedlung (Bartík)"
+   },
+   {
+    "mediaId": 5875,
+    "caption": "Klinge eines Schwertes, eines Dolches oder ein Halbfabrikat?",
+    "alt": "Klinge eines Schwertes, eines Dolches oder ein Halbfabrikat?"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung bei Marianka (Mariathal) liegt auf dem Berg Bazgovič in einer Höhe von 384,5 m ü. M., oberhalb des heutigen Steinbruchs. Die Fundstelle erstreckt sich auf einem recht flachen Ausläufer der Hrabovina, wobei als Name der Fundstelle manchmal Barania lúka angeführt wird. Einen kleinen Teil der Höhensiedlung hat der genannte Steinbruch in ihrem Gipfelbereich zerstört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LIDAR-Aufnahme der Höhensiedlung",
+    "alt": "LIDAR-Aufnahme der Höhensiedlung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ovale Wall, der stellenweise bis zu einer Höhe von 3 m erhalten ist, schützte ein Areal mit einer Fläche von etwa 8 ha und Ausmaßen von etwa 320 × 220 Metern. An manchen Stellen ist der Verlauf der Wälle im Gelände schon undeutlich. Am besten erhalten ist der Wall an der Ostseite der Fundstelle; im Süden endet er am ursprünglichen Eingang in das befestigte Areal, einem einstigen Tor der sogenannten Zangenform, bei dem die Wälle auf beiden Seiten recht scharf nach innen umknicken. Über den westlichen Wall führt ein Wanderweg von Bratislava (Pressburg) nach Záhorská Bystrica, mit einer Abzweigung zum bekannten Wallfahrtsort Marianka. Den vorderen Teil des Körpers der ursprünglichen Mauer bildete eine Steinfront aus Bruchsteinen. Die Erbauer stützten die Mauer gegen einen Lehmwall, der von ihrer Rückseite her aufgeschüttet war. Den steinernen und den lehmigen Teil verbanden sie mit waagerecht gelegten Balken. Auch wenn man in Marianka vor der Steinfront keinen Graben aushob, bot der abfallende Hang ausreichenden Schutz, den eine Palisade auf der Wallkrone sicherlich noch verstärkte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Holz-Erde-Mauern auf der Anhöhe Barania lúka gingen durch einen Brand unter. Juraj Bartík führt an, dass der Umfang der Brandschicht und die spärlichen Funde aus dem Innenareal den Schluss nicht ausschließen, dass die Mauern beim Abzug von den Bewohnern selbst verbrannt wurden, die auch ihr Eigentum mitnahmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wann und wem diente die Höhensiedlung?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Ausgrabung fand auf der Höhensiedlung in den Jahren 1986–1990 statt. Die vereinzelten ältesten Funde – eine Steinaxt und Gefäßscherben – gehören in das Äneolithikum (Kupferzeit). Später, in der jüngeren Bronzezeit, ließ sich an der Fundstelle das Volk der Velatice-Kultur nieder, das zur gleichen Zeit außer im Záhorie auch in Südmähren und in Niederösterreich siedelte. Zeitlich handelt es sich etwa um die ersten zwei Jahrhunderte des zweiten Jahrtausends vor unserer Zeitrechnung, doch die jüngsten datierenden Fragmente bezeugen den sogenannten Übergangshorizont Velatice-Podolí. Nach ihnen ging die Befestigung erst in den Jahren 1000 bis 900 v. Chr. unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die handwerkliche Produktion des Volkes der Velatice-Kultur im Bereich der Höhensiedlung sind Funde von Webgewichten und Spinnwirteln, die mit der Textilherstellung zusammenhängen. Den metallenen Anteil der Funde ergänzten eine bronzene Lanzenspitze und das Fragment eines Sichelgriffs. Von der Höhensiedlung stammt auch ein kostbares eisernes Messer von der Wende der Bronze- zur Eisenzeit. Da sich in der Wallaufschüttung zahlreiche Keramikfragmente aus der jüngeren Bronzezeit fanden, nehmen wir an, dass die Mauern erst in der jüngeren Phase des Bestehens der Siedlung errichtet wurden. Außerdem fanden sich auf der Höhensiedlung zahlreiche Keramikbruchstücke, zumeist mit deutlicher sekundärer Brandeinwirkung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Funde aus der Höhensiedlung (Paulík)",
+    "alt": "Funde aus der Höhensiedlung (Paulík)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Aufsatz von J. Bartík und R. Bača aus dem Jahr 2015 über die Bronzeschwerter aus dem Záhorie wird angeführt, dass im Jahr 2012 im Steinbruch unterhalb der Höhensiedlung die Klinge eines Kurzschwertes gefunden wurde. Sie lag jedoch auf der ersten Sohle des Steinbruchs, wo sich auch verschiedener Abfall und Bauschutt befanden, die jemand ohne Erlaubnis dorthin gebracht hatte. Es handelte sich also um einen sekundären Fundort, und es ließ sich nicht bestimmen, ob der Gegenstand aus den höher gelegenen, vom Steinbruch nicht gestörten Teilen der Höhensiedlung in die einstige Abbaugrube gefallen war oder ob er mit dem Abfall hierher gebracht wurde. Den ursprünglichen Ort kennen wir somit nicht, wir nehmen aber an, dass er aus der näheren Umgebung stammt. Die Klinge ist 39,4 cm lang und wiegt 195 g. Sie besteht aus 61 % Kupfer und 38 % Arsen, in Spuren sind Eisen, Nickel und Vanadium vertreten. Nach Form und Maßen erinnert der Gegenstand aus Marianka an manche lange Dolche oder Kurzschwerter, die in einem weiten Raum Mitteleuropas vorkommen. Seine Zuordnung zu den Kurzschwertern vom Beginn der mittleren Bronzezeit gilt als die am wenigsten problematische Lösung der Datierung, doch auch diese bleibt mit einem Fragezeichen behaftet, da es sich sowohl von der Form als auch von der Zusammensetzung her nicht um einen typischen Vertreter eines Schwertes der genannten Zeit handelt. An der Klinge finden wir weder Nietlöcher noch eine Endbearbeitung der Schneide durch Nachschmieden oder Schleifen, es ist also offensichtlich, dass es sich nicht um ein funktionsfähiges Erzeugnis, sondern um ein unfertiges Halbfabrikat handelt. Auch die Möglichkeit lässt sich nicht ausschließen, dass sie als symbolischer Gegenstand ohne praktische Funktion diente, so wie die Votivschwerter der Bronzezeit auf Kreta. In jedem Fall passt die Datierung der Höhensiedlung in die Zeit der Velatice-Kultur nicht zur vermuteten Datierung des Schwertes an den Beginn der mittleren Bronzezeit, und das Schwert wird daher wohl auf immer ein wenig ein Rätsel bleiben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Vereinfachtes 3D-Modell der Höhensiedlung von der Website Foarto",
+    "alt": "Vereinfachtes 3D-Modell der Höhensiedlung von der Website Foarto",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

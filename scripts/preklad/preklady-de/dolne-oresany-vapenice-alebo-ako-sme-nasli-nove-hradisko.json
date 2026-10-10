@@ -1,0 +1,150 @@
+{
+ "slug": "dolne-oresany-vapenice-alebo-ako-sme-nasli-nove-hradisko",
+ "data": {
+  "title": "Dolné Orešany – Vápenice (wie wir eine neue Höhensiedlung fanden)",
+  "slug": "dolne-oresany-vapenice-neu-entdeckte-hoehensiedlung",
+  "excerpt": "Im Sommer 2017 suchten zwei Mitglieder des Vereins Hradiská bei Majdán zwischen Horné Orešany und Dolné Orešany nach der Stelle, an der ein Hortfund keltischer Münzen gefunden worden war – und entdeckten auf einer steilen Kuppe eine bis dahin unbekannte Höhensiedlung. Die anschließende Ausgrabung des Slowakischen Nationalmuseums brachte eine eiserne Lanze, eine Pfeilspitze, einen Sporn und einen Elektrondraht. Ein Wall fehlt; geschützt war die Kuppe offenbar nur durch eine Palisade.",
+  "metaTitle": "Dolné Orešany – Vápenice: eine neu entdeckte Höhensiedlung",
+  "metaDescription": "Wie der Verein Hradiská 2017 bei Dolné Orešany eine unbekannte Höhensiedlung fand: keltische Funde, ein Elektrondraht und eine Palisade statt eines Walls.",
+  "keyFacts": [
+   {
+    "label": "Entdeckung",
+    "value": "Sommer 2017, Verein Hradiská (L. Ilavský)",
+    "icon": "star"
+   },
+   {
+    "label": "Ausgrabung",
+    "value": "SNM Bratislava + Kreisdenkmalamt Trnava (M. Sládok, P. Jelínek)",
+    "icon": "star"
+   },
+   {
+    "label": "Funde",
+    "value": "eiserne Lanze, Pfeilspitze, Sporn, goldener (Elektron-)Draht",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "kein Wall – offenbar nur eine hölzerne Palisade, steile Hänge",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Urgeschichte / Latènezeit",
+    "title": "Besiedlung der Höhenlage",
+    "description": "Urgeschichtliche Scherben und keltische Funde in der Lage Vápenica.",
+    "type": "event"
+   },
+   {
+    "year": "2017",
+    "title": "Entdeckung einer neuen Höhensiedlung",
+    "description": "Der Verein Hradiská identifizierte eine bis dahin unbekannte Fundstelle.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 5759,
+    "alt": "Ein moosbewachsener Steinwall der Höhensiedlung in einem Buchenwald"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Sommer 2017 streiften wir gemeinsam mit einem weiteren Mitglied unseres Vereins, Lukáš Ilavský, durch ausgewählte Lagen in der Umgebung von Majdán (zwischen Horné Orešany und Dolné Orešany). Unser Ziel war es, jene Stelle zu finden, an der der kurz davor in der Fachliteratur veröffentlichte Hortfund keltischer Münzen entdeckt worden sein konnte. In dem Beitrag von Herrn Frohlich ist nur allgemein Majdán angegeben, was jedoch ein recht weiter Begriff ist. Wir wählten mehrere Lagen aus und konzentrierten uns dabei selbstverständlich auf Hügel und Geländevorsprünge, die nach der Karte als Höhenlagen und Burganlagen in Frage kamen. Dabei versuchten wir, mögliche Befestigungen oder Scherbenmaterial zu entdecken, die eine Besiedlung einer solchen Lage belegen würden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Dolné Orešany – Vápenice (wie wir eine neue Höhensiedlung fanden)",
+    "caption": "",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eines Tages war unsere Mühe von Erfolg gekrönt. Wir kletterten auf einen zwar verhältnismäßig niedrigen, dafür aber von steilen bis senkrechten Hängen geschützten Hügel, der auf der Karte vielversprechend aussah. Er lag im Grunde direkt gegenüber der Lage mit dem Namen Husí Stok, in der Wasser entspringt. Schon während unseres Aufstiegs zum Gipfel fiel mir eine urgeschichtliche Scherbe auf. Nachdem wir die Gipfelplattform erreicht hatten, fanden wir solche Scherben in Unmengen. In diesem Augenblick war uns klar, dass dieser Hügel in uralten Zeiten bewohnt war! Es war eine riesige Freude. Mehrere Scherben vermaßen wir, nahmen sie mit und zeigten sie anschließend den Archäologen Matúš Sládok vom Kreisdenkmalamt Trnava und Pavol Jelínek vom Slowakischen Nationalmuseum in Bratislava (Pressburg) und übergaben sie ihnen. Diese stellten nach Durchsicht der verfügbaren Datenbanken fest, dass es sich um eine bis dahin unbekannte Fundstelle handelt! Unsere Freude war daher noch größer. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Folge wurde auf der Fundstelle durch Entscheidung des Kreisdenkmalamtes Trnava eine archäologische Ausgrabung genehmigt, die das SNM Bratislava durchführte. An der Ausgrabung nahm aus naheliegenden Gründen auch unser Verein Hradiská teil, ausgerüstet mit großen Erwartungen und Metalldetektoren. Zuerst lächelte das Glück mir zu, als unter meinem Detektor ein offenkundig großes Eisenstück ansprach. Zu unserer riesigen Freude kam eine große eiserne Lanze aus dem Boden zum Vorschein! Kurz darauf hatte ein weiteres unserer Mitglieder große Freude – Lukáš Ilavský, der eine schöne eiserne Pfeilspitze fand. Weitere interessante Funde aus dieser Lage waren ein Teil eines eisernen Sporns, ein Schlagfeuerzeug und ein kugelförmiger Knopf. Das größte Meisterstück gelang jedoch Lukáš Kotásek, der an der Fundstelle unmittelbar einen goldenen (genauer: Elektron-)Draht ausgrub! Sein (und danach unser) Freudenschrei trug über ganz Orešany! Mit unseren Funden haben wir so die Geschichte von Dolné Orešany bereichert. Jeden Fund samt den Fundumständen dokumentierte der Archäologe des SNM Pavol Jelínek gewissenhaft. Er hielt vor allem die Lage, die Tiefe, die Orientierung des Fundes und die weiteren wichtigen Angaben fest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Dolné Orešany – Vápenice (wie wir eine neue Höhensiedlung fanden)",
+    "caption": "",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die genannten Funde bestätigten zusammen mit der Menge an Scherbenmaterial, dass Vápenica in der Vergangenheit von unseren Vorfahren als Höhenlage genutzt wurde. Eine Wallbefestigung konnten wir nicht feststellen, und daher nehme ich an, dass der Hügel nur durch eine hölzerne Palisade geschützt gewesen sein konnte. Angesichts der Steilheit seiner Hänge erscheint diese Möglichkeit im Grunde als ausreichend. Der Beitrag, der die Ergebnisse dieser unserer Ausgrabung kurz zusammenfasst, ist Teil unseres Sammelbandes über Burganlagen ("
+       },
+       {
+        "type": "link",
+        "url": "/blog/zbornik-ii-uz-je-vytlaceny",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradiská – Svedkovia dávnych čias 2"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "). Wir freuen uns sehr, dass unser Verein auf diese Weise gemeinsam mit dem Kreisdenkmalamt Trnava und dem SNM Bratislava an der Rettung unseres archäologischen Erbes mitgewirkt hat. Großer Dank gebührt dabei auch dem Kreisdenkmalamt Trnava und dem SNM Bratislava für die schnelle und flexible Organisation der archäologischen Rettungsgrabung, die zudem ausgezeichnete Ergebnisse gebracht hat."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
