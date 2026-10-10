@@ -1,0 +1,322 @@
+{
+ "slug": "alexander-ruttkay-o-svatoplukovi-a-nitre",
+ "data": {
+  "title": "Alexander Ruttkay: Über Svätopluk und Nitra",
+  "slug": "ruttkay-ueber-svatopluk-und-nitra",
+  "excerpt": "Mit Zustimmung von Prof. PhDr. Alexander Ruttkay, DrSc. bringen wir seinen ausgezeichneten Artikel über Svätopluk und allgemein eine Betrachtung über die Geschichte der Slowaken und ihre Bedeutung für unser historisches Bewusstsein. Der Artikel erschien auf den Seiten des Literárny týždenník und gleichzeitig auf der Seite des Klubs der Freunde des alten Nitra, von dem er übernommen ist.",
+  "metaTitle": "Alexander Ruttkay: Über Svätopluk und Nitra",
+  "metaDescription": "Eine Betrachtung des Archäologen Alexander Ruttkay über Svätopluk, die Geschichte der Slowaken und die Bedeutung Nitras für unser historisches Bewusstsein.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "prof. PhDr. Alexander Ruttkay, DrSc.",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Svätopluk I. und seine Verbundenheit mit Nitra im Licht der Schriftquellen, der Archäologie und des historischen Gedächtnisses",
+    "icon": "scroll"
+   },
+   {
+    "label": "Dauer der Herrschaft",
+    "value": "über 23 Jahre – ein Drittel der Dauer Großmährens",
+    "icon": "crown"
+   },
+   {
+    "label": "Schlüsselfundstellen",
+    "value": "Neutraer Burg, Devín, Bojná, Pobedim, Ducové, Nitrianska Blatnica",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "880",
+    "title": "Gründung des Neutraer Bistums",
+    "description": "Es entstand das Neutraer Bistum mit Wiching an der Spitze, was die zentrale kirchliche Rolle Nitras in der Zeit der Herrschaft Svätopluks belegt.",
+    "type": "event"
+   },
+   {
+    "year": "892 – 893",
+    "title": "Fränkischer und altungarischer Angriff",
+    "description": "Der erfolglose, doch vernichtende Angriff des ostfränkischen Königs Arnulf und der altungarischen Reiterei erforderte große Befestigungsarbeiten an den Burgwällen, die durch dendrochronologische Analysen belegt sind.",
+    "type": "event"
+   },
+   {
+    "year": "894",
+    "title": "Tod Svätopluks",
+    "description": "Svätopluks Tod beendete die Reihe der wechselnden Bündnisse und entschied über das Schicksal des Landes, das an seiner Spitze eine starke Persönlichkeit verlor.",
+    "type": "event"
+   },
+   {
+    "year": "907",
+    "title": "Schlacht bei Bratislava",
+    "description": "Auch nach dieser Schlacht dauerte das Bewusstsein von der Existenz nördlicher gelegener, organisatorisch zersplitterter Teile des ehemaligen Großmähren fort.",
+    "type": "event"
+   },
+   {
+    "year": "942",
+    "title": "Aussage altungarischer Gefangener bei Córdoba",
+    "description": "Die auf der Pyrenäenhalbinsel gefangen genommenen altungarischen Krieger sagten aus, dass sie aus einem Gebiet kämen, das im Norden an das Land Morabíja grenzt.",
+    "type": "event"
+   },
+   {
+    "year": "1054",
+    "title": "Großes Schisma",
+    "description": "Nach der Teilung der Kirche in einen östlichen und einen westlichen Zweig setzte sich in der Geschichte Ungarns, und in ihrem Rahmen auch der Sloveni, die Hinwendung zum westlichen Christentum durch.",
+    "type": "event"
+   },
+   {
+    "year": "1526",
+    "title": "Schlacht bei Mohács",
+    "description": "Der türkische Autor Mahmud Terdžümen beschrieb nach dieser Schlacht Ereignisse im Zusammenhang mit Svätopluk (Csopolug) aus der Zeit der ungarischen Landnahme.",
+    "type": "event"
+   },
+   {
+    "year": "1985",
+    "title": "1100. Todestag Methods",
+    "description": "Aus diesem Anlass fand im Hauptpavillon des Agrokomplex in Nitra eine umfangreiche Ausstellung statt, und es erschienen mehrere synthetisierende Publikationen über Großmähren.",
+    "type": "event"
+   },
+   {
+    "year": "1994",
+    "title": "1100. Todestag Svätopluks",
+    "description": "In Nitra fand eine interdisziplinäre Konferenz über Svätopluk statt, deren Referate in einem eigenen Sammelband erschienen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung von Prof. PhDr. Alexander Ruttkay, DrSc. bringe ich seinen ausgezeichneten Artikel über Svätopluk und allgemein eine Betrachtung über die Geschichte der Slowaken und ihre Bedeutung für unser historisches Bewusstsein. Der Artikel erschien auf den Seiten des Literárny týždenník und gleichzeitig auf der Seite "
+       },
+       {
+        "type": "link",
+        "url": "http://www.facebook.com/notes/klub-priate%C4%BEov-starej-nitry/o-sv%C3%A4toplukovi-a-nitre-alexander-t-ruttkay/229840687072495",
+        "children": [
+         {
+          "type": "text",
+          "text": "des Klubs der Freunde des alten Nitra, von dem der Artikel übernommen ist."
+         }
+        ],
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Historische Jubiläen, die sich auf Ereignisse des fernen 9. Jahrhunderts beziehen, mobilisieren von Zeit zu Zeit die Mediävisten in der Slowakei, regen die wissenschaftliche Forschung und die Editionstätigkeit an und motivieren auch die Kreativität der Künstler."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1985 fand im Zusammenhang mit dem 1100. Todestag Methods in Nitra (Neutra) im Hauptpavillon des Agrokomplex eine umfangreiche repräsentative Ausstellung statt, und es erschienen auch mehrere synthetisierende Publikationen. Ich erwähne hier vor allem zwei Bücher – es sind Metodov boj von R. Marsina und Postavy veľkomoravskej histórie von M. Kučera. In der zweiten der genannten Arbeiten versuchte der Autor, in breiteren historischen Zusammenhängen, doch gezielt buchstäblich auch eine soziologisch-psychologische Feinzeichnung Svätopluks I. zu entwerfen. Schon nur in Erinnerungen schwingt der Name Vojtech Matušinec nach, seine Vorstellung, auf den Hügeln im westlichen Teil von Nitra ein neues Gebäude des Archäologischen Instituts der SAV zu errichten und darüber ein Reiterdenkmal Svätopluks mit einer Höhe von bis zu 17 Metern. Der Meister hoffte dabei auf finanzielle Hilfe aus verschiedenen Quellen, vor allem angeblich von den amerikanischen Slowaken. An der Statue arbeitete er praktisch bis zu seinem Tod (1992). Die ideellen Ausgangspunkte V. Matušinecs spiegeln sich im Facebook-Portal mit dem Namen Slovenský stredovek bei der Präsentation des Werkes des Bildhauers in Worten, die ich wörtlich zitiere: „Wir müssen unserem Volk die Wahrheit sagen, unsere Geschichte von Erfindungen und Lügen reinigen. Niemand anderer wird es für uns tun. Wenn das ganze Volk ein wirkliches Bild vom Leben und von den Taten unserer Vorfahren gewinnt, werden wir von Bewunderung für den Ruhm der alten Zeiten durchdrungen sein. Doch die romantischen Vorstellungen des Künstlers und die technischen Möglichkeiten der Entstehung und schließlich auch die Notwendigkeit eines solchen supermonumentalen Reiterdenkmals standen in tiefem Widerspruch, und an eine Verwirklichung war nicht einmal ernsthaft zu denken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeit lief, andere Ideen kamen, die vorangegangenen überdeckte scheinbar das Vergessen. Doch in Nitra in der Zoborer Klosterstraße, im Hof des Hauses von V. Matušinec, erinnerten ein riesiges Schwert und ein Pferdekopf die Vorübergehenden noch lange an die Vorstellung von Svätopluks Statue in Nitra. Bei den heutigen technischen Möglichkeiten wäre es vielleicht möglich, ein ähnliches Modell am Computer in Form einer 3D-Präsentation zu bearbeiten und bei der Werbung für die historischen Wurzeln der Stadt unter dem Zobor zu nutzen. Ich bin kein Anhänger monumentaler Statuen. Statuen sollten in der Regel nicht hoch über ihren Bewunderern stehen. Ihnen steht in Lebensgröße eher eine Art direkte Kommunikation „Auge in Auge“ mit der heutigen Welt zu Gesicht, und das vor allem im Umfeld historischer Denkmäler, kultureller Einrichtungen, Parks und Ähnlichem, wo auch jener sprichwörtliche spiritus loci – der Geist des Ortes – wirkt. Persönlichkeiten, die durch ihren Fortbestand im historischen Bewusstsein im Inland wie im Ausland und durch ihre symbolische Bedeutung für die heutigen und künftigen Generationen es verdienen, an solchen Orten zu stehen. Aus der ältesten Geschichte des Gebietes der Slowakei gehören zu ihnen vor allem Konstantin-Kyrill und Method und unmittelbar im Verhältnis zu Nitra vor allem Pribina, Svätopluk, Svorad und Benedikt, Vazul, und vergessen wir zum Beispiel auch nicht den bedeutenden Neutraer Herzog aus dem 11. Jahrhundert, Gejza, genannt Magnus. Fürst Pribina, schon vor längerer Zeit von T. Bártfay mit einem Schwert und wohl einem Pilgerbündel auf dem Rücken gestaltet, das auf seinen spektakulären Abgang aus Nitra dem gesellschaftlichen Aufstieg an der Spitze des Fürstentums in Pannonien entgegen hinweist, steht auf „seinem“ Platz und blickt direkt auf die Besucher, die in die Altstadt und zur Burg kommen. Die Statuengruppe der Brüder aus Thessaloniki von Ľ. Cvengrošová wurde nach den revolutionären Veränderungen im Jahr 1989 – trotz der anfänglichen Proteste jener, denen die Hervorhebung von Persönlichkeiten, die mit der Geschichte des Gebietes der Slowakei verbunden sind, immer und überall im Wege steht – zu einem Ort, an dem zahlreiche Besucher der Neutraer Burg mit Achtung verweilen. Sie sehen dort nicht nur die Präsentation archäologischer Freilegungen und hergerichteter Baudenkmäler, sondern auch die bedeutende und lang erwartete Ausstellung der Diözesanschatzkammer."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svätopluks Statue fehlt jedoch in Nitra, und das trotz des hymnischen Liedes, das Ján Kollár in seinen Spievanky schon in der ersten Hälfte des 19. Jahrhunderts festgehalten hat. Das bekannte Nitra, milá Nitra ist wohl ein handgreiflicher, auf viel älteren Traditionen beruhender Hinweis auf die historische Verbundenheit unserer Stadt und des Neutraer Fürsten und Herrschers von Großmähren. Im Zentrum von Nitra liegt der Svätopluk-Platz; wohl dort könnten sich der Wille und der Platz für die Statue jener Persönlichkeit finden, die sich unter den weltlichen Akteuren Großmährens als einzige kontinuierlich im mitteleuropäischen historischen Bewusstsein gehalten hat. Im Jahr 1994 fand aus Anlass des 1100. Todestages Svätopluks in Nitra eine interdisziplinäre Konferenz statt. Die Referate, die hier gehalten wurden, sind in einer eigenen Sammelbandpublikation veröffentlicht. Ich habe jetzt nach mehreren Jahren wieder in diesem Sammelband geblättert, habe die Euphorie nach der Entstehung der Slowakischen Republik wieder aufleben lassen und das im Spektrum des heutigen breiteren und nüchterneren Blicks auch auf längst vergangene, also nicht nur auf gegenwärtige Dinge verglichen. An konkreten, unmittelbar die Person Svätopluks betreffenden und überprüften Fakten sind in den letzten zehn Jahren praktisch keine hinzugekommen. Nur die archäologischen Realien, die ich im weiteren Teil dieser Betrachtung erwähnen werde, brachten neue Erkenntnisse über die Organisation der Verteidigung des Gebietes der östlichen Teile des Kerns von Großmähren am Ende des Lebens Svätopluks. Für etwaige „Innovationen“ oder Interpretationsvariationen vom Typ „was wäre, wenn“ ist hier kein Platz; sie sind erfindungsreichen Publizisten zu empfehlen, die größere Bereitschaft haben, ihre Phantasie zu entfalten…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svätopluk, im Laufe der fortschreitenden Jahrhunderte von Mythen und Sagen umwoben, symbolisiert die Notwendigkeit der Einheit, der Eintracht der ganzen Gemeinschaft als Voraussetzung des Erfolgs in allen Bereichen des Lebens. Die sprichwörtlichen drei Ruten sind der tragende Gedanke der Oper Svätopluk von Eugen Suchoň. Es entspricht der Symbolik der Gestalt des Herrschers und seines Verhältnisses zu Nitra, dass dieses große Opernwerk in der Aufführung der Oper des Slowakischen Nationaltheaters unmittelbar unterhalb der Neutraer Burg erklang. Es war der Einstieg in eine Reihe jährlicher Konzerte Hoj, vlasť moja…, die auch heute fortgesetzt werden, vor allem dank der steten Initiative des langjährigen Direktors des Unternehmens Agrokomplex L. Švihel und dank der Opferbereitschaft zahlreicher Künstler und Organisatoren. Den Gedanken, dass Svätopluk in Nitra residierte und hier ein Denkmal haben sollte, belebte im Jahr 2010 für einen Augenblick auch die Diskussion über die Aufstellung des Reiterdenkmals Svätopluks. Das spiegelte sich in mehreren Angeboten zur Übernahme der Statue Svätopluks aus Bratislava (Pressburg). Der Herrscher Großmährens, ein Mann, dessen Name im Zeitalter der Wiedergeburt der Völker Mitteleuropas nicht aus dem Dämmer des Vergessens hervorgezogen wurde, sondern während langer Jahrhunderte kontinuierlich mit Anerkennung der intellektuellen und militärisch-politischen Fähigkeiten seines Trägers im deutschen, tschechischen und ungarischen Umfeld lebte, verdient zum Beispiel mit der Titulatur „Neutraer Fürst und Herrscher Großmährens“ eine Statue in der Hauptstadt der Slowakischen Republik. Die Pressburger Burg entwickelte sich kontinuierlich an der Stelle eines großmährischen Burgwalls, der auf der Grundlage der Erkenntnisse schon älterer, von T. Štefanovičová geleiteter archäologischer Ausgrabungen auch in der Zeit Svätopluks eine bedeutende Macht- und Kirchenfunktion hatte. Abgesehen von der kurzfristigen „Vorläufigkeit“ der politischen Streitigkeiten um diese Statue, die sich allmählich sicher legen werden, ließen sich aus rigoroser fachlicher Sicht Einwände gegen ikonografische Details der Statue erheben (auffällig sind zum Beispiel die Sporen mit Zahnrädchen, die erst ab dem 13. Jahrhundert typisch sind, oder die Blechteile der Rüstung, die in das Hochmittelalter gehören). Doch auch hier gilt die Lizenz des schöpferischen Künstlers – des Autors des Werkes, seine Sicht der zeitlosen Symbolik einer historischen Persönlichkeit. Zudem entspricht die bildhauerische Darstellung bedeutender Personen auch in anderen Fällen nicht in vollem Umfang den authentischen zeitgenössischen Realien. Ich erwähne die bekannten Reiterstatuen des Fürsten hl. Stephan. Niemals wäre es mir jedoch eingefallen, bei der Beurteilung von Kunstwerken „wissenschaftliche“ Analysen in den Vordergrund zu stellen. Die künstlerische Gestaltung ist nämlich keine zeitgetreue Rekonstruktion. Die Vorlage der künstlerischen Vision von Svätopluk ist daher nicht das Aussehen eines großmährischen Kriegers aus dem 9. Jahrhundert zu Pferde. J. Kulich setzte sich im Falle der Statue Svätopluks ein anspruchsvolles künstlerisches Ziel und erfüllte es: einen Reiter auf einem sich aufbäumenden Ross nach plötzlichem Anziehen der Trense darzustellen. Eine solche Darstellung, die wohl jener ähnlich ist, die der Phantasieentwurf von V. Matušinec hatte, gehört zu den künstlerisch anspruchsvollsten Formen von Reiterstatuen. Man kann hier – wenigstens auf einem Bild – die Statue Svätopluks und das Miniaturmodell des Reiterdenkmals Leonardo da Vincis nebeneinanderstellen. Der große Leonardo arbeitete sein anatomisch und in der Bewegung meisterhaftes Werk vielmals um, doch wurde es schließlich niemals in Lebensgröße in Bronze gegossen, trotz der Bemühungen des französischen Königs Franz I. – des letzten Gönners des genialen Künstlers."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während des Streits um die Statue in Bratislava ließen sich an Svätopluk als Person oft auch solche Bürger aus, die von den komplizierten Problemen der Geschichte und Kultur des Frühmittelalters keinerlei Kenntnisse haben. Zum Beispiel traf ich in einer Diskussion auch auf eine solche „Meinung“ eines der einfachen Medienvertreter, dass ein Reiterdenkmal nicht bestehen könne, weil die Slawen in dieser Zeit keine Reitertruppen gehabt hätten. Hinter dem kritischen Hervorheben der Unangemessenheit des Autors der Statue Svätopluks auf der Pressburger Burg, seiner Titulatur (König, Fürst, Herrscher), den „politischen“ Bedingungen der Aufstellung der Statue usw. steht als Eckstein der Negation jedoch außer der persönlichen Rivalität zwischen Künstlern auch naive Poserei oder vielleicht irgendwo noch tiefer auch die Negation der Identität der Slowakei und jener historischen Persönlichkeiten, die ohne Unterschied ihrer ethnischen Herkunft mit ihrem Gebiet verbunden sind. Mir kommen Gestalten aus dem 14. Jahrhundert in den Sinn – Matúš Čák, Magister Ritter Donč, Vavrinec Slavus (Tóth – Slowake), der Besitzer der Burg Tematín und Begründer des bekannten Geschlechts der Herren von Ilok (Újlaki); aus dem 15.–17. Jahrhundert – Johann Corvinus aus der Liptau, Ján und Rafael Podmanický aus Považská Bystrica, Valentin Balassa aus Zvolen (Altsohl) oder Imrich Thököly aus Kežmarok (Käsmark) usw. Gegen jeden von ihnen würde sich – wie auch sonst – eine Menge Vorbehalte finden. Sehen wir nur, wie auch ein Jánošík von seinem symbolischen Posten plötzlich hier und dort in manchen Medien zu einem beinahe Dutzendräuber herabgewürdigt wurde. Der Widerstand gegen historische Persönlichkeiten in unmittelbarem Verhältnis zum Gebiet der Slowakei wurzelt vor allem im Innern dieser Gesellschaft, in der Negation der Vergangenheit und, nach dem Jahr 1993, auch der in Zweifel gezogenen Perspektiven „dieses Landes“. Aber wie man sagt: „auch das gibt sich mit der Zeit“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Solche und viele weitere Assoziationen sind in den Zusammenhängen der Geschichte der Slowakei zu beachten. Es ist eine Herausforderung für die historischen Wissenschaften, nicht nur die ethnische Geschichte des Volkes zu erforschen, sondern die Geschichte der zivilisatorischen Entwicklung im Gebiet der Slowakei im Rahmen mehrerer schon vorgroßmährischer Fürstentümer, des Fürstentums Neutra, Großmährens und des mittelalterlichen Königreichs Ungarn. Die Kontinuität der slawischen Besiedlung, also auch der genetische Code und vor allem die Kontinuität in der Entwicklung der Sprache, ist deutlich ab dem 5.–6. Jahrhundert belegt. Was den ethnischen Namen betrifft, so ist für die Zeit vor dem 9. Jahrhundert wohl die allgemeine Bezeichnung Slawen angebracht, für das 9.–13. Jahrhundert Sloveni und ab dem 14. Jahrhundert Slowaken. Die Anmerkung in einer Wochenzeitung, dass die slowakischen Archäologen noch nicht einen einzigen „alten Slowaken“ gefunden hätten, ist nicht nur naiv und demagogisch, sondern geradezu komisch. Die Zahl der unbefestigten und befestigten Siedlungen und Gräberfelder des 8.–9. Jahrhunderts, die der hiesigen Bevölkerung, den Vorfahren der heutigen slowakischen Nation gehören, erreicht nämlich derzeit über 800 Fundstellen. Von der Bezeichnung „Slowake“ ist hier nicht die Rede, und schon gar nicht geht es um eine Art ethnische „Reinblütigkeit“. Von dem Phänomen nationaler Reinheit kann bei keiner einzigen heutigen europäischen Nation die Rede sein. Bei der Genese der Sloveni in der großmährischen Zeit ab dem 5.–6. Jahrhundert war außer dem Zustrom slawischer Bevölkerung aus dem nördlichen – dem sklavenischen – Strom wohl auch ein hiesiges, wenig zahlreiches ethnisches Substrat aus Resten germanischer und möglicherweise auch ihrer Herkunft nach keltischer Populationen anwesend, vielleicht auch slawisierter Awaren und Ähnliches. Nun, und in der Entwicklung der slowakischen Volksgruppe im Mittelalter ist das entscheidende Element die Kontinuität der Besiedlung aus vorungarischer Zeit und später ihre Fähigkeit, mehrere kleinere – slawische und andere – ethnische Gruppen zu assimilieren, die sich in verschiedenen Zeiten im slowakischen Umfeld ansiedelten. Sollte die Vorstellung einer solchen „Mischung“ von Ethnien jemandem als Enttäuschung oder gar als „Ketzerei“ erscheinen, so hat sich ein ähnlicher multigenetischer Prozess mit mehreren Gliedern in den vergangenen Jahrhunderten vollzogen und vollzieht sich schließlich auch heute – praktisch im Umfeld aller europäischen Nationen, einschließlich unserer nächsten Nachbarn. In der Entwicklung der ethnischen Identität sind nämlich die Sprache und das Gebiet, also der Begriff Heimat, entscheidend, während sich das kulturelle und historische Bewusstsein und ebenso feste Bezeichnungen der Ethnien – der Nationen im heutigen Sinne des Wortes – allmählich erst später formten. Aus der Sicht der gesellschaftlichen Struktur des mittelalterlichen Königreichs Ungarn stand nicht die ethnische, sondern die soziale Gliederung im Vordergrund. Bestimmend war die überethnische Kategorie der Schicht der Feudalherren und die tiefen Unterschiede zwischen den sozialen Gruppen. Doch würden wir die ethnische Kategorisierung – was nur eine virtuelle Sicht ist – nach den heutigen Kriterien beurteilen, so hatte die Bevölkerung mit slowakischer Muttersprache eine Struktur, in der es hohen, mittleren und niederen Adel, Geistlichkeit auf allen Ebenen, einen geringeren Anteil unter den Bürgern und volkstümliche Schichten mit verschiedenen Formen des Erwerbs gab. Die Bedeutung der Sprachen aller mittelalterlichen Ethnien in Ungarn war durch das universelle Lateinische überdeckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kehren wir jedoch zum Thema Svätopluk I. zurück. In seiner Bewertung gibt es häufige Versuche, vor allem ethische Prinzipien im Zusammenhang mit seinen Beziehungen zu Rastislav und dann zu Method und seinen Schülern abzuwägen. Im Vordergrund stehen oft nur Teilaspekte und nicht der breitere historische und geografische Zusammenhang. So konnte es geschehen, dass Svätopluk sogar in einem Teil der wissenschaftlichen und künstlerischen Vorstellungen im Verhältnis zu Rastislav als Verräter und im Verhältnis zur kyrillo-methodianischen Mission als deren Vernichter angesehen wird. Doch Details über die Ereignisse und vor allem über die zwischenmenschlichen Interaktionen in fernen Jahrhunderten sind meist nicht rekonstruierbar. Nicht anders ist es auch im Falle viel später abgelaufener Ereignisse. Zur Verfügung bleibt nur der Abglanz der wirklichen Taten, ihre Plus- und Minuswerte beurteilt dann die Zukunft. Man kann die Zeit Svätopluks zum Beispiel mit den Ereignissen hundert Jahre später in den Anfängen des ungarischen Staates vergleichen – auch dort ging es nämlich um einen Machtkampf ohne Wahl der Mittel, auch dort war im Zusammenhang mit der Annahme des Christentums anfangs eine östliche, byzantinische und eine westliche, römische Orientierung im Spiel. Vor allem nach dem Schisma im Jahr 1054 zeigten sich in der Geschichte Ungarns – und in ihrem Rahmen auch der Sloveni – die Vorzüge der Hinwendung zum westlichen Zweig des Christentums. Die Zeit Svätopluks stellt durch ihre Dynamik, durch die großen gesellschaftlichen, politischen und territorialen Veränderungen den Höhepunkt der geschichtlichen Entwicklung des ältesten Staates der Westslawen und gleichzeitig auch die Anfänge seiner tiefen inneren Krise dar. Es war eine Zeit, die den traditionellen Vorstellungen von der Unentwickeltheit des Kriegswesens bei den Slawen widerspricht. Die Wirklichkeit war völlig anders. Strategie und Taktik des Kampfes, die Qualität der Waffen, doch auch die Grausamkeit der Kriegsführung – ja, auch jener expansiven, erobernden Feldzüge Svätopluks – lagen in der Norm des damaligen Europa. Objektive Fakten darüber entdeckte vor allem die Archäologie. Sie lieferte gleichzeitig teilweise Argumente für die dauerhafte Position des alten und starken Herrschers im geschichtlichen Bewusstsein. Die Verbindung Svätopluks mit Nitra haben mittelalterliche literarische Quellen bewahrt. Neben der bekannten Passage in der tschechischen Chronik des Cosmas vom Beginn des 12. Jahrhunderts erwähne ich wenigstens zwei weniger häufig angeführte Quellen, die mindestens den Charakter altertümlicher Traditionen haben. In den Kremsmünsterer Notizen über die Passauer Bischöfe, die an der Wende vom 13. zum 14. Jahrhundert zusammengestellt wurden, wird angeführt, dass Bischof Wiching die Diözese Lorch teilen und mit Hilfe des Königs svätopluk in Sclavia (hic!) ein eigenes Erzbistum schaffen wollte – es geht zweifellos um Nitra. Aeneas Silvius Piccolomini, ab dem Jahr 1458 Papst Pius II., führt in seiner Schrift, die im Jahr 1475 in Rom erschien, an, dass Svätopluk im Kloster auf dem Zobor gestorben ist. Zu diesen Quellen füge ich noch zwei weitere wenig bekannte Informationen aus dem 16. Jahrhundert hinzu, die beweisen, dass der Name Svätopluks lebendig war und sogar eine Art Personifikation der Slawen im mitteldanubischen Raum vor der Ankunft der Altungarn ist. Der türkische Autor Mahmud Terdžümen sagt in seinem Werk über die Geschichte Ungarns, das erst nach der verhängnisvollen Schlacht bei Mohács (1526) entstand, über die Ereignisse nach der Ankunft der altungarischen Stämme, dass sie gegen Svätopluk (Csopolug) aus Siebenbürgen angriffen und nach seiner Niederlage angeblich gegen Pest zogen. Hier liegt ein Irrtum vor: Svätopluk war zur Zeit der ungarischen Landnahme schon tot. Nach einem weiteren Werk aus dem 16. Jahrhundert mit dem Titel Commentarii rebus de suo tempore (Aufzeichnungen über die Geschichte der Gegenwart) des Ludovicus Tubero wird gesagt, dass sich die altungarischen Stämme zwischen die südlichen und die nördlichen Slawen keilten und sie damit voneinander trennten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die historischen Arbeiten verfügten schon ab dem 18. Jahrhundert in entscheidender Mehrheit über die derzeit benutzten und interpretierten Schriftquellen zum 9. Jahrhundert. Neue Elemente tauchten bis dahin offenbar nur in den vatikanischen Archiven auf. Die Bezeichnung Großmähren, die nicht identisch ist mit der Bezeichnung des späteren historischen Mähren, und die Hervorhebung Nitras als Sitz Svätopluks gehörten zu den allgemein akzeptierten Fakten im älteren Schrifttum mit historischer Ausrichtung. Im Zusammenhang mit der Geschichte Nitras und des Neutraer Bistums verdient das Buch des Neutraer Bischofs Jozef Vurum aus dem Jahr 1835 besondere Aufmerksamkeit. Ein Teil der Angaben und Ansichten in dem Werk ist im Bann des damaligen Niveaus der historischen Anschauungen und kann nicht akzeptiert werden (zum Beispiel über ein Bistum in Nitra am Ende des 4. Jahrhunderts). Die Mehrzahl der Angaben, die er anführt, sind jedoch geschichtliche Realien. Die Passage über Nitra als Sitz Pribinas, der Abriss der Geschichte der Slawen nördlich der Donau im 9. Jahrhundert, die Taten Mojmírs, Rastislavs, Svätopluks, die Charakteristik der großartigen Tätigkeit Kyrills und Methods beziehungsweise der Gründung der Neutraer Diözese im Jahr 880 mit Wiching an ihrer Spitze – all das deutet darauf hin, dass die Schriftquellen über die Geschichte Großmährens (J. Vurum verwendet eindeutig den Begriff Magnae Moraviae Regnum – also Königreich) einer rahmenhaften historischen Analyse unterzogen wurden, aus der sich die wichtige Rolle Nitras einschließlich der alten Tradition über den Sitz Svätopluks ergab. Auf eine solche Auslegung stützt sich auch eine Monografie über das Neutraer Komitat vom Ende des 19. Jahrhunderts. Sie widmet Svätopluk Aufmerksamkeit, der in Nitra residierte und angeblich zu den fähigsten slawischen politischen und militärischen Akteuren im Frühmittelalter gehörte. Sein Tod und die darauf folgende Schwächung des „Reiches“ erleichterten den siegreichen altungarischen militärischen Vormarsch. Aus allen diesen literarischen Quellen ergibt sich die Schlüsselrolle Nitras in der vorungarischen Zeit, einschließlich der Tradition über einen der Hauptsitze Svätopluks. Wenn es so ist, kann man auf der Grundlage der Ergebnisse langjähriger Ausgrabungen auf der Neutraer Burg feststellen, dass an dieser Stelle ein Burgwall aus dem 9. Jahrhundert mit einer Fläche von fast 9 Hektar stand, dass hier offenbar schon vor dem 10. Jahrhundert eine Kirche war und dass man gerade in der zweiten Hälfte des 9. Jahrhunderts hier damals die mächtige Befestigung erneuerte. Es ist zwar kein gleichsam „exakter Beweis“ für den Sitz Svätopluks, zeugt jedoch von der vorrangigen Bedeutung Nitras in der Zeit seiner Herrschaft. Auf dem Burgberg zeichnet sich nach den von P. Bednár geleiteten Ausgrabungen noch eine bemerkenswerte Feststellung ab. In der mächtigen Befestigung, die wohl mit der Zeit der Herrschaft Svätopluks verbunden ist, wurden sekundär auch Zierglieder der Architektur verwendet, die aus einem älteren, in jener Zeit schon abgetragenen Bau stammen. Geht es vielleicht um Material aus der sprichwörtlichen kleinen Kirche Pribinas, die nach der Expansion Mojmírs untergegangen sein konnte und die während der Herrschaft Svätopluks eine Kirche schon mit dem Patrozinium des hl. Emmeram ersetzte? Ein weiteres Indiz – was wiederum mit den taktischen Vorgehensweisen Svätopluks in Fragen des Verhältnisses zur Kirche zusammenhängt – ist die Entstehung des Neutraer Bistums mit Wiching an der Spitze. Zu den Widerspiegelungen dieses häufiger nach Westen gerichteten Blicks Svätopluks gehören wohl auch die fränkischen Patrozinien – neben dem hl. Emmeram auf dem Burgberg figuriert auch der hl. Hippolyt für das Kloster auf dem Zobor mit Anfängen in der Zeit des hiesigen Wirkens Wichings, die wohl auch mit den Aktivitäten des Klosters des hl. Hippolyt in St. Pölten verbunden sind. Zur überlieferten Tätigkeit der altslawischen Lehranstalt in Nitra könnte unter günstigen Umständen vielleicht auch eine archäologische Ausgrabung des Zoborer Klosters beitragen, die zwar in den letzten Jahren mit vielversprechenden Ergebnissen schon begonnen hat (sie leitete M. Samuel), derzeit aber nicht fortgesetzt wird. In der älteren ungarischen historischen Forschung gehörte zu den Hauptquellen über den Verlauf der Eroberung älterer Machtsitze im Gebiet der Slowakei im 10. Jahrhundert die Chronik des sog. Anonymus vom Ende des 12. Jahrhunderts. Ihre Angaben können nicht als Fakten übernommen werden, aber einige von ihnen müssen auf bestimmte Weise in Raum und Zeit „dekodiert“ werden, da sie in der Zeit der Entstehung der Chronik den Zeitgenossen glaubwürdig erschienen. Die Chronik ist tendenziös und besteht aus zahlreichen Konfabulationen, spiegelt aber nebelhaft und verzerrt wohl auch einige Ereignisse des 10.–11. Jahrhunderts und sogar aus der Zeit vor dem Jahr 896 wider. Der Chronist wusste entschieden und leugnet es nicht, dass nördlich des Kerns des Gebietes des ungarischen Staates vor der Ankunft der Vorfahren der Altungarn ein starkes slawisches Machtgebilde war, also Großmähren, und dass sich im Gebiet der Slowakei mehrere seiner Zentren befanden. Nach der Eroberung des offenbar bedeutendsten führte die Aktion der drei mythischen (?) Anführer angeblich in das Waagtal (vom Vormarsch im Neutratal oder im Grantal ist keine Erwähnung!), wo sie sich der Burgen Šintava, Hlohovec, Bana, Beckov und Trenčín (Trentschin) bemächtigen sollten. Das Bewusstsein von der Existenz nördlicher gelegener, organisatorisch wohl zersplitterter Teile des ehemaligen Großmähren auch nach der Schlacht bei Bratislava im Jahr 907 deutet die Aussage altungarischer Krieger an, die im Jahr 942 im Gebiet des Kalifats von Córdoba auf der Pyrenäenhalbinsel während ihres Kriegszuges gefangen genommen wurden. Sie kamen aus einem Gebiet, das angeblich im Norden an das Land Morabíja grenzt. Im älteren ungarischen historischen Bewusstsein war eine starke Macht der Sloveni in den südlicheren Teilen der Slowakei vor der ungarischen Landnahme eine Selbstverständlichkeit. Dieses Gebiet bezeichnete man nicht als marginalen Teil Großmährens. Zum Beispiel reihte A. Mednyánszky im Jahr 1828 nicht nur Nitra, sondern auch fünf weitere der erwähnten Burgen unter die ursprünglich großmährischen, von ungarischen Kriegern eroberten Festungen ein. I. Némethy hob im Jahr 1912 nach seinem Aufstieg auf den heute schon berühmten Burgwall Valy über Bojná die große Stärke des slawischen „Elements“ im Land vor der altungarischen militärischen Besetzung hervor. Ich erwähne auch die Ansicht des bekannten Schriftstellers K. Mikszáth, der in seine Erzählungen über die „Ritterburgen Ungarns“ (1907) auch Nitra, Hlohovec und Visegrád aufnahm. Diese fanden die Altungarn nach ihm schon fertig vor, ursprünglich hatten sie sie nämlich erbauen lassen, und hier residierten slowakische (tót) Fürsten. Die Fundstelle Višegrád benannten angeblich slowakische Herren und nicht Untertanen, wie man damals (das betonte der Schriftsteller selbst) schon „in Pester Kreisen zu sagen begann“. Der ins 9. Jahrhundert gehörende Vyšehrad war der bis heute sichtbare Burgwall mit der untergegangenen Kirche auf dem Hügel Šibirik. K. Mikszáth verwendet den älteren ungarischen ethnischen Begriff „tót“ (also vor dem 14. Jahrhundert Sloven) – ohne den bekannten pejorativen Kontext, der sich später formte – und nicht die allgemeine Bezeichnung szláv (Slawe). Man kann hier wohl die gegenwärtig schon wenig bekannte, im Grunde realistische Vorstellungswelt eines Teils der ungarischen Intelligenz des 19. Jahrhunderts über die hiesige Organisation von Gesellschaft und Macht vor der Ankunft der Altungarn erkennen. Ich versuche nun, auf der Grundlage neuer, vor allem archäologischer Quellen schlagwortartig meine Sicht auf das Verhältnis von Sagen, Traditionen, Mythen und Mythologie zu den historischen Fakten anzudeuten, auf Svätopluk als eine „Geschichte schaffende“ Persönlichkeit beziehungsweise auch als „Pfeiler“ des historischen Bewusstseins zu blicken. Es geht um eine Zeit der „Helden“ und einer besonderen Kriegermoral, Ehre und Großzügigkeit, der Kontakte zwischen Heidentum und Christentum so, wie sich das in epischen Werken in jenen europäischen Regionen widerspiegelt, wo sie sich aus dem Frühmittelalter erhalten haben. Bruchstücke aus Sagen und Heldenliedern der Slawen nördlich der Donau spiegeln sich vielleicht auch in mittelalterlichen ungarischen Chroniken wider…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn das Verhältnis Svätopluks zu Nitra gleichsam „nur“ in Sagen und erst ab dem Beginn des 1. Jahrhunderts auch in narrativen Schriftquellen zum Ausdruck kommt, darf der reale historische Hintergrund solcher alter Botschaften nicht unterschätzt werden. Sie spiegeln etwas von wissenschaftlich derzeit nicht erkennbaren fernen Ereignissen wider oder wenigstens von deren indirektem Abglanz im Bewusstsein der Nachkommen. Ich bin nicht dazu geneigt, die Symbolik alter Geschehnisse zu ändern, die im nationalen Bewusstsein verankert ist, ähnlich wie auch bei anderen Nationen; ich respektiere viele Sagen und Traditionen, die aus den Nebeln der Vorzeit hervortreten, und verneige mich mit Achtung vor ihrer Altertümlichkeit. Natürlich ist auch die Mythologisierung dieser Botschaften, die ein untrennbarer Teil des Schaffens in verschiedenen Kunstgenres sind und so praktisch „meinungsbildend“ wurden. Die Slowakei ist in dieser Hinsicht keine Ausnahme. Teilweise auch auf Mythen, die durch langfristige erzieherische Einwirkung fixiert wurden, beruht eine gleichsam „historische Wirklichkeit“, an deren Wesen und strategischen Zielen Wechsel der Regime, der politischen Verhältnisse und Ähnliches nichts änderten – auf ihr beruht das historische Bewusstsein vieler europäischer Nationen. Die Sage wird manchmal sogar aus der Sicht der wissenschaftlichen Erkenntnis eine berechtigte Quelle der Inspiration und der Konfrontation. Doch das farbige Kolorit alter wie auch jüngerer lebendiger oder sich erst bildender Traditionen und Sagen – in moderner Sprache fast wie „Pikanterien“ und „Fälle“ – sollte den Historiker oder den Archäologen nicht auf leichtere Wege verlocken, sie dürfen die historische Auslegung nicht ersetzen. Das gilt ebenso für das 9. wie auch für das 20. und 21. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Doch die wissenschaftliche Erkenntnis muss zwangsläufig die durch fixierte Traditionen geschaffene Barriere überschreiten. Die Geschichte der Mährer und der Sloveni des 9. Jahrhunderts erscheint heute anders, als man es noch bis vor kurzem wusste und glaubte. Die Qualität der Erkenntnisse für die Modellierung der Anfänge der staatsbildenden Prozesse im Gebiet der heutigen Slowakei hat sich verändert. Dank neuen Entdeckungen vor allem in den gebirgigeren Gebieten der West- und Mittelslowakei haben sich die traditionellen Sichtweisen auf die gesellschaftlich-organisatorische und staatsbildende Entwicklung überraschend geändert, besonders vor jenem festen Punkt, den der bekannte Konflikt Pribinas und Mojmírs darstellt. Das mittlere Waagtal, das mittlere und obere Neutratal, das Becken von Žilina, die Region Turiec, die untere Liptau mit dem angrenzenden Teil der Arwa, die Zips und wohl auch das Becken von Zvolen – das sind Regionen außerhalb der direkten Machtsphäre des Awarenkhaganats schon im 8. Jahrhundert. Schon nach dem Jahr 800 entstanden hier Burgwälle – befestigte organisatorische Zentren und Sitze von Territorialfürsten. Zusammen mit den altertümlichen Zentren in Nitra und auf dem Devín (Theben) zeichnet sich uns eine Ökumene ab, in der unter näher unbekannten Umständen das Fürstentum Neutra die dominierende Rolle erlangte. Es war wohl ein Bündnispartner des Frankenreichs bei der Vernichtung des Awarenkhaganats an der Wende vom 8. zum 9. Jahrhundert und schuf sich bald Machtpositionen auch am nördlichen Ufer der Donau. Die Verbindung der zwei Fürstentümer – des Neutraer (ursprünglich mit der Achse an der Neutra und zwischen den Weißen Karpaten und der Gran) und des mährischen (ursprünglich mit der Achse an der Arwa mit einer Einflusssphäre bis zu den Kleinen und Weißen Karpaten, gegebenenfalls bis zur Waag) – erscheint als Abschluss eines länger fortschreitenden Integrationsprozesses. Der Neutraer, später pannonische Pribina mit dem Kreis von Adligen, die ihn nach dem Abgang aus Nitra begleiteten, war nicht allein; seine für uns namentlich unbekannten Vorgänger oder auch Zeitgenossen beziehungsweise Rivalen im Machtkampf haben nach sich deutliche Spuren hinterlassen. Die berühmten, schon lange bekannten und gleichsam vereinzelten Adelsgräber aus Blatnica oder aus Žabokreky im Turiec sind in die Zusammenhänge des heutigen Erkenntnisstandes gerückt. Sie gehören Vertretern der herrschenden Schicht, die sich in einem Umfeld, das schon vor dem 9. Jahrhundert eine Tendenz zur Zunahme der Besiedlung zeigt, befestigte Sitze errichtete, von denen mehrere schon auch im Gelände identifiziert werden konnten. Ein Teil der Burgwälle ging wohl schon um die Mitte des 9. Jahrhunderts unter (zum Beispiel Pobedim – Ausgrabung von D. Bialeková) infolge der Vereinigungsprozesse, also im Zusammenhang mit der Entstehung Großmährens, oder überwand eine zeitweilige Stagnation. Für die vorgroßmährische Phase ihrer Existenz ist die Zusammensetzung der materiellen Kultur charakteristisch. Die kunsthandwerklichen Erzeugnisse repräsentieren den sog. Blatnica-Stil, die Bewaffnung neigt schon in dieser Zeit zu westlichen – vor allem fränkischen – Formen. Zur dominierenden Erscheinung wurde der Reiter mit Schwert und Sporen, während das Fußvolk, vor allem mit Äxten und Lanzen bewaffnet, ältere örtliche slawische Traditionen repräsentiert. Es erscheinen in unserem Umfeld auch die ersten Belege im Zusammenhang mit vorkyrillo-methodianischen Christianisierungsaktivitäten, möglicherweise schon irisch-schottischer, vor allem aber norditalischer (Aquileia) und fränkischer Herkunft. Einige dieser Burgwälle blieben Machtknotenpunkte auch in der Zeit Großmährens (zum Beispiel Bojná – die fortlaufende Ausgrabung leitet K. Pieta), die nördlicher gelegenen (zum Beispiel Pružiná) kontinuierlich auch in der nachgroßmährischen Zeit, und weitere – vor allem Nitra (vom Jahr 1958 bis zum Jahr 199 zahlreiche Ausgrabungen unter der Leitung von B. Chropovský), Bratislava, Devín (Ausgrabung von V. Plachá) – behielten ihre führende Stellung in der Zeit des ungarischen Staates. In der zweiten Hälfte des 9. Jahrhunderts entstanden neue Burgwälle, zum Beispiel Svätý Jur (Sankt Georgen), wohl auch Mužla-Čenkov und Bíňa, Majcichov (Ausgrabung von M. Ruttkay) und Detva (Ausgrabung von P. Šalkovský). Einige Burgwälle im Umkreis der Slowakischen Pforte, zum Beispiel Malé Kozmálovce, Krivín und Hronský Beňadik (Ausgrabung von A. Habovštiak), konnten im 10. Jahrhundert den Zugang von Süden in die gebirgigeren Teile des Grantals verwehren. Leider fehlten bis vor kurzem Belege für Schrift aus dem 9. Jahrhundert oder auch aus einer älteren Zeit, die unmittelbar im Gebiet der Slowakei oder Mährens entstanden wäre. In der letzten Zeit hat sich diese Situation, wenn auch nur geringfügig, geändert: einige Buchstaben – lateinische – erschienen auf den kostbaren Plaketten von einem tragbaren Altar in Bojná aus der Zeit vor der Ankunft Konstantins und Methods. Ihre Herkunft und Bedeutung werden analysiert. Fragmente der kyrillo-methodianischen glagolitischen Schrift fanden sich jedoch neuestens bislang nur auf Keramik aus der umfangreichen Ausgrabung des Sitzes von Pribina und Kocel am Plattensee (derzeit leitet sie B. Szőke). Ich bin jedoch der Meinung, dass zu solchen Quellen wohl nicht die Teile der Inschrift aus Michalovce gehören, die mit dem bulgarischen Presian des 11. Jahrhunderts in Verbindung gebracht werden. Es könnte sich eher um eine Inschrift in Kyrilliza aus dem 16.–17. Jahrhundert handeln. Ich möchte an einige längst bekannte Inschriften auf Felsen erinnern, die a priori als Fälschungen angesehen und daher im Rahmen einer etwaigen Rekognoszierung völlig aus dem Erkenntnisprozess ausgeschlossen wurden. Zum Beispiel ist der Velestúr in den Bergen bei Kremnica (Kremnitz) schon seit anderthalb Jahrhunderten bekannt und gehört immer noch zu den bis heute sichtbaren Denkmälern. Ich verwende den Begriff Denkmal ohne die üblichen Anführungszeichen, da die Inschrift durch ihr Alter mindestens tief in das 19. Jahrhundert gehört. Es würde sich vielleicht lohnen, sie objektiven Überprüfungsanalysen unter Nutzung moderner Technik zu unterziehen, ob sie wirklich erst im 19. Jahrhundert entstanden ist. Wenn auch ja, stellt sie ein bemerkenswertes Element in der Geschichte der nationalen Wiedergeburt dar, das eine gewisse Aufmerksamkeit, Schutz und Propagierung verdienen würde. Und das betrifft auch andere geheimnisvolle garantierte „Fälschungen“. Auch in der Archäologie ist es geschehen, dass sich aus einigen garantiert bedeutungslosen oder sogar angeblich „erfundenen“ Fundstellen allmählich Fundorte vorrangiger Bedeutung herausschälten. Und es gibt natürlich auch umgekehrte Fälle. Wichtig ist es jedoch, Ansichten und Vermutungen immer zu überprüfen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist möglich, dass alle genannten Regionen in den gebirgigeren Teilen der Slowakei nicht unmittelbar nach dem Abgang Pribinas und seiner Gefolgschaft aus Nitra zu einem direkten Teil Großmährens wurden. Die Besetzung war ein allmählicher Prozess und konnte unter der Herrschaft Rastislavs und vor allem unter Svätopluk fortgesetzt werden. Gerade während seiner Feldzüge verschob sich die Sphäre des „Reiches“ offenbar bis zur Theiß, in die Nachbarschaft der damaligen bulgarischen Machtsphäre. Die vernichtenden Einfälle Svätopluks nach Pannonien konnten sich auch auf ein fester besetztes Vorfeld im Gebiet des Pilis-Gebirges mit dem Burgwall Vyšehrad (Visegrád) stützen. Archäologisch wurden in der Slowakei auch zwei bemerkenswerte Phänomene festgestellt, in denen sich die gesellschaftliche Entwicklung in der zweiten Hälfte des 9. Jahrhunderts beziehungsweise auch in den letzten Jahren des Lebens Svätopluks widerspiegelt. Die militärische Stärke des Herrschers stützte sich vor allem auf das Reiterheer, auf die Angehörigen der sog. älteren und jüngeren Gefolgschaft. Von der großen Rolle der Reiterei in der großmährischen Zeit zeugt das sehr häufige Vorkommen von Sporen, Steigbügeln, Trensen und anderen Teilen der Reiterausrüstung, oft unter Anwendung komplizierter Herstellungs- und Zierverfahren. Das Problem der Ernährung der wachsenden Zahl professioneller Bewaffneter, die schon zur gesellschaftlichen Elite gehörten, und ihre Aufgabe, wenn es die Notwendigkeit erforderte, neben den Kampfaufgaben auch Repression gegenüber der einfachen Bevölkerung auszuüben, erforderte eine territoriale Dislokation eines Teils der Reitergefolgschaft. Neben den zentralen Knotenpunkten entstanden externe Adelsdomänen. Ihre Stärke wuchs vor allem in der Zeit Svätopluks I.; unter den Sitzen der Adligen dominierte wohl der Herrenhof-Typ (Ausgrabungen des Autors dieses Beitrags), sei es mit militärisch-administrativer (Ducové) oder mit wirtschaftlicher Funktion (Nitrianska Blatnica). Auf den privaten Herrenhöfen entstanden weitere kleinere bewaffnete Gruppen. Es geht um ein neues Element – eine Gefolgschaft, die der Adlige unterhielt, die jedoch aus militärischer Sicht im Bedarfsfall ein Teil der fürstlichen Heere war. In kritischen Situationen konnte sich ein dezentralisierender Aspekt zeigen, der die Macht- und Separatismusambitionen einzelner Angehöriger der neuen Aristokratie förderte. Die fränkischen Quellen informieren meist nur oberflächlich über die Verteidigung Großmährens während der häufigen fränkischen Einfälle. Neue Ergebnisse wurden dank dendrochronologischen Analysen des Materials der Fortifikationen einiger Burgwälle gewonnen. Große Befestigungsarbeiten wurden zum Beispiel wohl beim vernichtenden, letztlich jedoch nicht völlig erfolgreichen Angriff des ostfränkischen Königs Arnulf und der altungarischen Reiterei in den Jahren 892 – 893 durchgeführt. Die Bündnisse änderten sich jedoch schnell – gleich danach erfolgte Svätopluks Offensive im Bündnis mit den Altungarn gegen Arnulf. Den weiteren Verlauf dieser wechselnden Bündnisse beendete im Jahr 894 Svätopluks Tod. Über das Schicksal des Landes, das er beherrschte und das an seiner Spitze eine starke Persönlichkeit verlor, war entschieden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss komme ich noch einmal auf Svätopluk zurück, mit dem Blick des heutigen Bürgers, der in der Geschichte zwangsläufig bestimmte Analogien sieht und sie manchmal gezielt oder unbewusst auch aktualisiert. Worin sehe ich die Stellung Svätopluks in der Zeit, in der er lebte? Hervorgehoben werden seine kämpferischen Vorzüge; er führte doch aus der Sicht Großmährens eine expansive Politik, besetzte meist für kürzere Zeit große Gebiete, führte vernichtende Feldzüge nach Pannonien, mit seinem Namen ist die Etappe des „Reiches“ der Westslawen verbunden. Weniger treten seine diplomatischen Fähigkeiten, sein erfolgreiches strategisches und taktisches Denken und zum Beispiel auch der für die Organisation der Bevölkerung sehr anspruchsvolle Bau von Festungsanlagen gegen die wachsende fränkische und altungarische Bedrohung am Ende seines Lebens in den Vordergrund. Die mehr als dreiundzwanzigjährige Zeit der Herrschaft Svätopluks stellt ein Drittel der Dauer Großmährens dar und stellt durch ihre großen gesellschaftlichen, politischen und territorialen Veränderungen, zum Beispiel auch durch die Anfänge gesellschaftlicher Verhältnisse, die wir schon als protofeudal bezeichnen können, den Höhepunkt der geschichtlichen Entwicklung auch im Gebiet der Slowakei im 9. Jahrhundert dar. Die besondere Funktion Nitras – vor allem auf der Grundlage neuerer archäologischer Entdeckungen auf dem Burgberg – ist unbestreitbar. Es gehörte zu den sog. Burgstädten Großmährens, war einer der Sitze des Herrschers mit einem Netz umliegender Produktions- und Bauernsiedlungen, ein Kern der fortschreitenden Christianisierung und ein Knotenpunkt des Fernhandels. Es wurde auch nach dem Untergang Großmährens bis zum Beginn des 12. Jahrhunderts Sitz des frühungarischen Herzogtums. Svätopluk war ein Mann, der offenkundig große Ziele haben konnte, bei deren Verwirklichung er – so wie auch andere historische Akteure – die Mittel nicht wählte, aber er war nicht besiegt… Seine pragmatische Hinwendung nach Westen, das zweckmäßige diplomatische Lavieren – das wir zum Beispiel aus den ambivalenten Schritten im Verhältnis zwischen Method und dem vordringenden fränkischen Klerus kennen – sprechen auch uns, die Zeitgenossen, an und mahnen uns manchmal buchstäblich. Das Christentum, die frühen Formen feudaler Verhältnisse, das Niveau der handwerklichen Produktion und vor allem der Lebensstil der gesellschaftlichen Elite sind vor allem mit dem ostfränkischen Umfeld vergleichbar. Die spätere Phase der Expansion, die militärischen Erfolge, die maximale Ausdehnung der wenigstens zeitweilig beherrschten Gebiete bedeuteten ein Anwachsen der Macht, eine Annäherung der Domäne Svätopluks an den Inhalt des Begriffs „Reich“ mit schwelenden Elementen der Instabilität. Sie kündigen die Perspektive der Zersplitterung, des Zerfalls, des allmählichen Untergangs beziehungsweise der militärischen Unterwerfung von Süden und von Westen an. Ursachen, Taten und Folgen – das ist das ewige, buchstäblich „hamletsche“ Dilemma historischer Prozesse… Diese finalen Phasen der Entwicklung spielten sich jedoch erst nach dem Tod Svätopluks ab; weder historische Fakten noch Traditionen verbinden ihn mit dem Untergang des zentral gelenkten großmährischen Fürstentums."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Geschichte des Gebietes der Slowakei muss mehr, als es bisher üblich war, mit realen Persönlichkeiten „bevölkert“ werden, die im Bewusstsein der Nachkommen als Protagonisten nachklingen sollten, die mit ihrem Werk durch die komplizierten Windungen der Geschichte den Weg zur Gegenwart schaffen.",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Autor des Textes: "
+       },
+       {
+        "type": "text",
+        "text": "prof. PhDr. Alexander Ruttkay, DrSc.\n Textabschrift und Bearbeitung: Lívia Bélaiová, Juraj Krenč"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,736 @@
+{
+ "slug": "havranok-liptovska-mara",
+ "data": {
+  "title": "Havránok über der Liptovská Mara – keltisches Heiligtum mit Menschenopfern",
+  "slug": "havranok-liptovska-mara-keltisches-heiligtum",
+  "excerpt": "Der Havránok über der Liptovská Mara ist die berühmteste Fundstelle der Liptau: das Hauptzentrum des Siedlungsareals des Liptauer Beckens, dessen Befestigung dreimal umgebaut wurde. Auf der Ostterrasse lag ein keltischer Opferplatz mit Opferschacht, in dem die Überreste von mindestens 10 geopferten Menschen gefunden wurden. Am Ende des letzten Jahrhunderts v. Chr. brannten Festung und Heiligtum, die letzte Festung ging am Beginn der römischen Kaiserzeit unter.",
+  "metaTitle": "Havránok bei der Liptovská Mara – keltisches Heiligtum",
+  "metaDescription": "Der Havránok über der Liptovská Mara, die berühmteste Fundstelle der Liptau: keltischer Opferplatz mit Menschenopfern und Höhenburg der Púchov-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Lage und Bedeutung",
+    "value": "Hauptzentrum des Siedlungsareals des Liptauer Beckens, von Osten durch ein landschaftliches Verteidigungssystem geschützt",
+    "icon": "map"
+   },
+   {
+    "label": "Menschenopfer im Heiligtum",
+    "value": "Mindestens 10 geopferte Menschen im Alter von 20 bis 30 Jahren, darunter ein sechzehnjähriger Jugendlicher und ein vierzigjähriger Mann",
+    "icon": "custom"
+   },
+   {
+    "label": "Tieropfer",
+    "value": "Am häufigsten Rinder, Schafe und Schweine als blutige Brandopfer, vereinzelt auch das Fleisch von Pferd, Hund und Rehwild",
+    "icon": "custom"
+   },
+   {
+    "label": "Münzen vom Havránok",
+    "value": "Sie ahmten griechische Münzen des Typs Philipps II. von Makedonien nach – auf dem Avers eine Wölbung anstelle des Kopfes, auf dem Pferd anstelle des Reiters einige Punkte",
+    "icon": "star"
+   },
+   {
+    "label": "Die Notmauer",
+    "value": "Nach der Zerstörung der Festung war die neue nordöstliche Mauer nur 3,5 Meter breit, mit zwei Pfostenreihen und einer 90 cm breiten Steinfront",
+    "icon": "shield"
+   },
+   {
+    "label": "Das Eingangstor als Turm",
+    "value": "Ein hölzerner Turm mit quadratischem Grundriss auf vier Pfosten; der nördliche Flügel hatte eine Höhe von 260 cm, der südliche Flügel hat sich bis 200 cm erhalten",
+    "icon": "building"
+   },
+   {
+    "label": "Baumaterial",
+    "value": "Travertinquader wurden bis zu 4 km weit aus Bešeňová herbeigeführt, Granitsteine für die Wege über mehr als hundert Meter Höhenunterschied aus dem Flussbett",
+    "icon": "mountain"
+   },
+   {
+    "label": "Quelle des Textes",
+    "value": "Karol Pieta: Liptovská Mara. Včasnohistorické centrum severného Slovenska, Bratislava 1996",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Mittellatènezeit",
+    "title": "Entstehung des ältesten Walls",
+    "description": "Der älteste Wall auf dem Havránok entstand irgendwann im Verlauf der Mittellatènezeit; von ihm hat sich nur der durch hölzerne Roste verfestigte Lehmkern erhalten, der nur an drei Stellen der Umfassungsaufschüttung erkannt wurde.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende der Mittellatènezeit",
+    "title": "Erste Riten im Heiligtum",
+    "description": "Nach den ältesten Gegenständen aus der nördlichen Pflasterung des Heiligtums fanden hier die ersten Riten irgendwann am Ende der Mittellatènezeit statt.",
+    "type": "founding"
+   },
+   {
+    "year": "um die Mitte des 2. Jahrhunderts v. Chr.",
+    "title": "Umbau der Höhenburg",
+    "description": "Die Höhenburg wurde umgebaut: die durch Feuer beschädigte westliche Befestigung wurde erneuert und erhöht, über dem verbrannten Wall der Ostterrasse eine Steinmauer aus Sandstein- und Travertinquadern errichtet; befestigt wurde auch das Gipfelplateau. Zu dieser Zeit stand auf der Ostterrasse schon das Kultareal mit Opferschacht und Pflasterung.",
+    "type": "construction"
+   },
+   {
+    "year": "Mitte des 1. Jahrhunderts v. Chr.",
+    "title": "Dritter Umbau der Befestigung und Erweiterung des Heiligtums",
+    "description": "Die Befestigung des Havránok wurde zum dritten Mal umgebaut, der Raum des Heiligtums erweitert und ein neues Eingangstor in Gestalt eines hölzernen Turmes auf vier mächtigen Pfosten über beiden Flügeln der Mauer eingerichtet. Zusammen mit der Befestigung wurde auch der Opferplatz umgebaut, wo von der ursprünglichen Gestalt nur der nördliche Flügel der Pflasterung mit der Pfostenreihe blieb und ein neuer Opferschacht entstand.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende der Latènezeit",
+    "title": "Prächtigste Gestalt der Befestigung",
+    "description": "Die Befestigung vom Ende der Latènezeit hatte die prächtigste Gestalt – die Wege waren mit Granitsteinen ausgelegt, die aus dem Flussbett heraufgeführt wurden, und in das verblendete Mauerwerk verwendete man Travertinquader aus dem 4 km entfernten Bešeňová.",
+    "type": "construction"
+   },
+   {
+    "year": "in der Zeit des größten Ruhms der Höhenburg",
+    "title": "Münzprägung auf dem Havránok",
+    "description": "Nach Pavel Dvořák wurden in der Zeit des größten Ruhms auf dem Havránok auch Münzen geprägt, was die entdeckten Fragmente von Formen für Münzschrötlinge beweisen; die Münzen ahmten griechische Vorbilder nach.",
+    "type": "event"
+   },
+   {
+    "year": "an der Wende der Zeitrechnung",
+    "title": "Neue Mauer um den Opferplatz",
+    "description": "An der Wende der Zeitrechnung wuchs um den Opferplatz eine zweieinhalb Meter hohe Steinmauer und an den unzugänglichen Stellen ein Wall, was die Situation des ganzen Opferplatzes veränderte; den alten Brunnen schaffte man ab und grub einen neuen.",
+    "type": "construction"
+   },
+   {
+    "year": "am Ende des letzten Jahrhunderts v. Chr.",
+    "title": "Festung und Heiligtum verbrannt",
+    "description": "Die verbesserte Befestigung widerstand dem feindlichen Andrang nicht, und die Festung samt dem Heiligtum wurde verbrannt. Das Kultareal der Ostterrasse ging damals zusammen mit der Höhenburg unter.",
+    "type": "destruction"
+   },
+   {
+    "year": "nach dem Untergang der alten Höhenburg",
+    "title": "Bau einer neuen, verkleinerten Höhenburg",
+    "description": "Die Bewohner der Suburbien versuchten, auf dem Berg eine neue Höhenburg zu errichten, deutlich verkleinert um die ursprüngliche, am leichtesten zugängliche Ostterrasse mit dem untergegangenen Kultplatz; errichtet wurden eine neue nordöstliche Mauer und ein neues Tor vom Hallentyp mit einer Beobachtungsstelle.",
+    "type": "construction"
+   },
+   {
+    "year": "nach der Erneuerung der Höhenburg",
+    "title": "Erste dauerhafte Besiedlung des Berggipfels",
+    "description": "Zu dieser Zeit war der Gipfel des Berges erstmals dauerhafter bewohnt, was früher wohl religiöse Gründe ausschlossen; die Häuser waren verstreut oder in Reihen auf den Terrassen innerhalb der Höhenburg wie auch außerhalb von ihr errichtet.",
+    "type": "event"
+   },
+   {
+    "year": "Beginn der römischen Kaiserzeit",
+    "title": "Untergang der letzten Festung",
+    "description": "Dieselben Stellen wurden ein drittes Mal als befestigte Siedlungen am Beginn der römischen Kaiserzeit genutzt, als die kleinen Höhenburgen wie auch die Höhenburgen der Púchov-Kultur zur gleichen Zeit gewaltsam untergehen. Während des Angriffs auf diese letzte Festung wurde von der Befestigung das Tor verbrannt, und dem Feuer fielen auch alle Häuser der Siedlung zum Opfer.",
+    "type": "destruction"
+   },
+   {
+    "year": "zweite Hälfte des 2. Jahrhunderts n. Chr.",
+    "title": "Sporadischer Aufenthalt nach dem Untergang der Höhenburg",
+    "description": "Später wurden die Mauern auf dem Havránok nicht mehr erneuert, und es wurden auch keine Spuren einer jüngeren Besiedlung festgestellt. Erst in der zweiten Hälfte des 2. Jahrhunderts n. Chr. wurden auf der ehemaligen Höhenburg Spuren eines sporadischen Aufenthalts von Menschen verzeichnet, die hier vielleicht kurz in der Zeit des Exodus der örtlichen Bevölkerung am Ende der Markomannenkriege wohnten.",
+    "type": "event"
+   },
+   {
+    "year": "Mittelalter",
+    "title": "Mauerreste als Steinbruch",
+    "description": "Die frühgeschichtlichen Befestigungen in Liptovská Mara waren im Mittelalter noch so deutlich, dass sie Generationen von Bewohnern der Gemeinde als Steinbruch dienten; ihrem Eifer fielen Teile der Mauern der Ostterrasse zum Opfer.",
+    "type": "event"
+   },
+   {
+    "year": "16.7.2011",
+    "title": "Keltischer Tag auf dem Havránok",
+    "description": "Die Fotogalerie dokumentiert die Veranstaltung Keltischer Tag auf dem Havránok vom 16.7.2011 einschließlich eines nachgestellten Menschenopfers im Heiligtum und einer Versammlung von Kelten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3390,
+    "caption": "Grundrissplan der Höhenburg in der Latènezeit",
+    "alt": "Grundrissplan der Höhenburg in der Latènezeit"
+   },
+   {
+    "mediaId": 657,
+    "caption": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren",
+    "alt": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren"
+   },
+   {
+    "mediaId": 3397,
+    "caption": "der sogenannte Taranis-Kreis (Sonnensymbol, Zeichen der Kotiner) …",
+    "alt": "der sogenannte Taranis-Kreis (Sonnensymbol, Zeichen der Kotiner) …"
+   },
+   {
+    "mediaId": 3398,
+    "caption": "… und seine Rekonstruktion von Miroslav Bros",
+    "alt": "… und seine Rekonstruktion von Miroslav Bros"
+   },
+   {
+    "mediaId": 3399,
+    "caption": "Hölzerner Götze auf dem Havránok",
+    "alt": "Hölzerner Götze auf dem Havránok"
+   },
+   {
+    "mediaId": 3400,
+    "caption": "Ein weiterer Blick auf die rekonstruierte Behausung",
+    "alt": "Ein weiterer Blick auf die rekonstruierte Behausung"
+   },
+   {
+    "mediaId": 3401,
+    "caption": "Das rekonstruierte Heiligtum",
+    "alt": "Das rekonstruierte Heiligtum"
+   },
+   {
+    "mediaId": 3402,
+    "caption": "Die steinerne Stele, die ursprünglich auf dem Havránok stand, ist heute im Museum der Púchov-Kultur in Púchov ausgestellt",
+    "alt": "Die steinerne Stele, die ursprünglich auf dem Havránok stand, ist heute im Museum der Púchov-Kultur in Púchov ausgestellt"
+   },
+   {
+    "mediaId": 3403,
+    "caption": "Keltischer Ritus im Heiligtum",
+    "alt": "Keltischer Ritus im Heiligtum"
+   },
+   {
+    "mediaId": 3404,
+    "caption": "Der Zugang in die Höhenburg und zum Heiligtum war durch ein turmartiges Tor geschützt",
+    "alt": "Der Zugang in die Höhenburg und zum Heiligtum war durch ein turmartiges Tor geschützt"
+   },
+   {
+    "mediaId": 3405,
+    "caption": "Im höchsten Teil des Berges wurde im Mittelalter eine hölzerne kleine Burg errichtet, die durch eine einfache, mit Ruten geflochtene Palisade geschützt war",
+    "alt": "Im höchsten Teil des Berges wurde im Mittelalter eine hölzerne kleine Burg errichtet, die durch eine einfache, mit Ruten geflochtene Palisade geschützt war"
+   },
+   {
+    "mediaId": 3406,
+    "caption": "Der Schuldige kniet vor dem Druiden",
+    "alt": "Der Schuldige kniet vor dem Druiden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Grundrissplan der Höhenburg in der Latènezeit",
+    "alt": "Grundrissplan der Höhenburg in der Latènezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Innerhalb des neu gewählten oder zugewiesenen Territoriums bemühten sich die Erbauer naturgemäß, die ersten Häuser der neuen Siedlung so zu setzen, dass sie den genannten wirtschaftlichen, klimatischen und sicherheitsbezogenen Faktoren möglichst gut entsprachen. Außer dem verkehrsmäßigen Bezug zur Höhenburg als dem zentralen Punkt des künftigen Areals mussten sie auch auf die Qualität des Untergrundes für die Anlage der Häuser achten, auf den Zugang zum Verkehrsweg, zum Wasser, zu den Grundstücken und nicht zuletzt auch auf die Lage des Ortes zur Sonne und zur Richtung der vorherrschenden Winde. Es folgten Geländearbeiten, denn außer dem Gebiet entlang der Waag mussten die übrigen Hanglagen erst terrassenartig eingeebnet werden. Es ist daher wahrscheinlich, dass zuerst die günstigsten Stellen mit südlicher Ausrichtung besetzt wurden und erst nach der Erweiterung der bebauten Fläche auch die entfernteren, weniger geeigneten Stellen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-gallery",
+    "columns": "3"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zeiten akuter Bedrohung entschied der Sicherheitsaspekt. Nach der ersten Zerstörung der Höhenburg und eines Teils der umliegenden Siedlungen irgendwann am Ende des letzten Jahrhunderts der alten Zeitrechnung errichtete der größere Teil der Bevölkerung seine Häuser auf schmalen Terrassen auf dem Gipfel des Berges unterhalb des Walls oder innerhalb der Höhenburg. \n \n \n \n \n Terrassen sind ein typisches Merkmal des Gebirgssiedlungswesens mit besonderen Zügen für das damalige Bauwesen. Während der langfristigen Besiedlung wurden diese Plateaus wiederholt gereinigt oder durch Planieren erweitert oder an einer anderen Stelle des Hanges angelegt. Sie waren der Erosion ausgesetzt, und von den Fundamenten der ursprünglichen Bauten haben sich bis heute meist nur jene Teile erhalten, die in Richtung des Hanges lagen und allmählich von jüngeren Schichten oder abgerutschtem Lehm verschüttet wurden. An steileren Stellen lässt sich der Verlauf der ursprünglichen Terrassen gut erkennen. Viele dieser künstlichen Plateaus wurden bis in die fünfziger Jahre (bis zur Kollektivierung) als Äcker genutzt. Infolge der Boden- und Klimabedingungen war die Mehrzahl der Konstruktionen auf dem Niveau des Geländes errichtet. Von den ursprünglichen Wohn- und Wirtschaftsbauten finden wir im Gelände meist nur zerstörte Untermauerungen der Blockwände, Reste von Böden und von mit Steinen gepflasterten Feuerstellen, mancherorts auch Überreste angebrannter und vermoderter Balken. Von den Pfostenkonstruktionen blieben nur die Pfostengruben mit Steinverkleidung. Am besten haben sich die durch Brand zerstörten Bauten an jenen Stellen erhalten, die später nicht mehr durch Bebauung oder Geländearbeiten gestört wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": ".",
+    "alt": ".",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \n Befestigte Höhensiedlungen waren ein charakteristisches Merkmal der Siedlungsstrukturen der Nordkarpaten von der Bronzezeit bis zum Beginn der römischen Kaiserzeit. Die frühgeschichtlichen Befestigungen entstanden und gingen in drei Etappen unter. Am Ende der älteren und besonders in der Mittellatènezeit im 3.–2. Jahrhundert v. Chr. begann man mittlere, aber auch kleine Befestigungen an neuen Stellen zu errichten. Nur wenig nutzte man Stellen mit Resten älterer hallstattzeitlicher Wälle. Ab dem Ende dieses Zeitabschnitts baute man die charakteristischen „dörflichen“ kleinen Höhenburgen mit auffallend geringer Fläche als typische Wehrbauten der Randbereiche der Siedlungsareale, in deren Mitte größere Höhenburgen mit ausgedehnten umliegenden Siedlungen dominierten. Dieselben Stellen wurden zum dritten Mal als befestigte Siedlungen am Beginn der römischen Kaiserzeit genutzt, als die kleinen Höhenburgen wie auch die Höhenburgen der Púchov-Kultur zur gleichen Zeit gewaltsam untergehen. \n \n \n \n \n \n \n \n \n Die Bautechniken der Erbauer der Höhenburgen gingen von der bewährten Praxis vergangener Generationen aus. Grundlage der Befestigung war ein Wall aus hölzernen Kästen und Rosten, die mit Steinen und Lehm gefüllt und teilweise angeschüttet waren. Höhe und damit auch Breite der Mauer ergaben sich aus den Möglichkeiten und den Bedürfnissen der Sicherung eines bestimmten Abschnitts des Verteidigungsgürtels, der gewöhnlich an der Grenze zwischen Gipfelplateau und Hang verlief. An unzugänglichen Stellen stand oft nur eine einfache Palisade. Die Blockwerkfront der Mauer überdeckte eine Steinverkleidung, die manchmal die Gestalt eines massiven Mauerwerks hatte. Auf dem Scheitel der Aufschüttung schützte die Verteidiger eine Brustwehr, die üblicherweise an senkrechten Pfosten in der Steinfront befestigt war. \n \n \n In der jüngeren Latènezeit zeigen sich in der Befestigungstechnik auch einige neue Elemente, wahrscheinlich beeinflusst von keltischen Erfahrungen. Verwendet wurden beidseitig verblendete Steinmauern, es wurden komplizierte Wehrsysteme von Toren mit Turmaufbauten und verstärkter Befestigung außen wie innen am Tor errichtet. Außer in Liptovská Mara wurde eine solche außergewöhnliche Befestigung teilweise beim Autobahnbau im nahen Podtureň untersucht. An sie schloss ein umfangreiches System dreier paralleler Gräben an, die auf einer Länge von mehr als 150 Metern den Raum in Richtung der nächstgelegenen Anhöhe abriegelten. Es war zweifellos ein landschaftliches Verteidigungssystem, das von Osten den Zugang in das Siedlungsareal des Liptauer Beckens und damit auch den Zugang zu dessen Hauptzentrum in Liptovská Mara schützte. \n \n \n Der älteste Wall auf dem Havránok entstand irgendwann im Verlauf der Mittellatènezeit. Seine Reste erkannte man nur an drei Stellen im westlichen und östlichen Teil der Umfassungsaufschüttung unter mehreren jüngeren Umbauten. Von ihm hat sich nur der Lehmkern erhalten, der durch hölzerne Roste verfestigt war. Auf der Innenfläche wurden keine deutlicheren Spuren einer gleichzeitigen Besiedlung festgestellt, oder sie wurden durch spätere Geländearbeiten und Umbauten entfernt. \n Um die Mitte des 2. Jahrhunderts v. Chr. wurde die Höhenburg umgebaut. Die westliche, durch Feuer beschädigte Befestigung wurde erneuert und erhöht. Über dem alten verbrannten Wall der Ostterrasse wurde auf dem Felsuntergrund eine Steinmauer aus großen Sandstein- und Travertinquadern errichtet, die sich von innen an eine steinige Aufschüttung stützte. Über die Befestigung des steilen Südhangs sind wir nicht ausreichend informiert. Es scheint, dass an die Steinmauern der Ostterrasse hier eine einfache Palisade anschloss. Vor ihr war eine weitere hölzerne Mauer oder Palisade vorgeschoben. Sie verlief auf einer niedrigeren, offensichtlich künstlichen Terrasse, auf der sich unter einer Reihe frührömischer Häuser die Linien massiver Pfostengruben erhalten haben. Das Tor dieser Phase kennen wir nicht. Nur nach der Geländekonfiguration können wir es im gestörten Gelände der nördlichen Ausmündung der Ostterrasse vermuten, dort, wo ihr Verlauf sich dem steilen Hang der Hauptburg mit der späteren mittelalterlichen kleinen Burg näherte. \n \n \n Bei diesem Umbau oder vielleicht etwas später wurde auch das Gipfelplateau mit einem Ring einer einfacheren Befestigung mit verblendeter Mauer umgeben. Diese innere Verteidigungslinie mit dem Eingang auf der zugänglichen Ostseite war durch spätere Baumaßnahmen erheblich gestört. An allen untersuchten Stellen wurden Brandspuren festgestellt. Zu dieser Zeit stand auf der Ostterrasse schon "
+       },
+       {
+        "type": "text",
+        "text": "ein Kultareal mit Opferschacht und einer von hölzernen Pfosten gesäumten Pflasterung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". \n Zum dritten Mal wurde die Befestigung des Havránok um die Mitte des 1. Jahrhunderts v. Chr. umgebaut, als der Raum des Heiligtums erweitert und ein neues, für die Verteidigung recht nachteiliges Eingangstor als Zugang in den heiligen Bezirk eingerichtet wurde. Es hatte die Gestalt eines hölzernen Turmes mit quadratischem Grundriss, der auf vier mächtigen Pfosten über beiden Flügeln der Mauer aufgerichtet war. Der nördliche Teil mit senkrechten Pfosten in der Front des Mauerwerks wurde nach innen in die Höhenburg umgestürzt gefunden, aber seine Höhe erreichte noch achtbare 260 cm. Der südliche Flügel mit glattem Mauerwerk, das durch eine Menge von Travertinblöcken verfestigt war, hat sich dank einer Geländevertiefung und mächtiger Verfüllungsschichten in ursprünglicher Lage bis zu 200 cm erhalten, was mehr als die Hälfte der angenommenen Höhe der Mauer ist. Ein interessantes neues Element sind die Mauern innen vom Eingang. Sie waren die Stütze der höher liegenden Terrasse mit der südlichen Pfostenreihe des Opferplatzes und bildeten gleichzeitig eine weitere Verteidigungslinie im Falle eines Durchbruchs der Feinde durch das Tor. \n \n \n Die Befestigung vom Ende der Latènezeit hatte die prächtigste Gestalt. Die Wege waren mit Granitsteinen ausgelegt, die über einen Höhenunterschied von mehr als hundert Metern aus dem Flussbett heraufgeführt wurden. In das verblendete Mauerwerk verwendete man eine Menge teilweise bearbeiteter Tuffquader aus den 4 km entfernten Travertinen bei Bešeňová, weil sie widerstandsfähiger waren als die an Ort und Stelle gebrochenen verwitterten Sandsteine. Bei den Mauern lagen noch Reste der Vorräte der Verteidiger – runde Felsblöcke und Haufen von Flusskieseln, die als Wurfgeschosse verwendet wurden.\n \n \n \n Die verbesserte Befestigung widerstand dem feindlichen Andrang nicht, in dessen Verlauf am Ende des letzten Jahrhunderts der alten Zeitrechnung die Festung samt dem Heiligtum verbrannt wurde. Nach einiger Zeit versuchten die Bewohner der Suburbien, auf dem Berg eine neue Höhenburg zu errichten. Bei ihrer Planung verkleinerten sie die ursprünglich umwehrte Fläche deutlich um die am leichtesten zugängliche Ostterrasse, weil der zerstörte Kultplatz seine einstige Bedeutung für die ursprüngliche oder vielleicht schon andere Bevölkerung wohl verloren hatte. Die neue Mauer verlief im Norden an der Kante des Gipfelplateaus und durchschnitt die Reste der inneren alten Befestigung, die bei dieser Gelegenheit teilweise abgetragen wurde. Im Westen nutzte man wiederum den mächtigen Körper des alten Walls, wo es genügte, eine einfache Palisade auf dem Scheitel zu errichten. Die Konstruktion der nordöstlichen Notmauer kennen wir sehr gut. Sie war nur 3,5 Meter breit, und ihre Grundlage bildeten zwei Pfostenreihen, die durch waagerechte Zangenhölzer verbunden waren. Die Front bildete eine 90 cm breite Steinmauer, die in Abständen von 160 cm durch Pfosten unterteilt war. Von innen verfestigte sie eine Blockwand, die Rückseite füllte eine aufgeschüttete Rampe. Das neue Tor vom Hallentyp wurde im unteren Teil der verkleinerten Höhenburg errichtet, an der Stelle der Ausmündung der Terrasse, wo früher das Heiligtum gestanden hatte. Wegen der ungenügenden Aussicht in östlicher Richtung hatte das Tor von der oberen Seite eine Beobachtungsstelle auf starken, hohen Pfosten. \n \n \n \n \n Zu dieser Zeit war der Gipfel des Berges erstmals dauerhafter bewohnt, was früher wohl religiöse Gründe ausschlossen. Die Häuser waren verstreut oder in Reihen auf den Terrassen innerhalb der Höhenburg, gegebenenfalls auch außerhalb von ihr errichtet. Eine dichte Häuserreihe auf dem Plateau unter der Südmauer bildete eine Art erste Verteidigungslinie, ähnlich wie wir es auf anderen notdürftig besiedelten Höhenburgen beobachten konnten (Podtureň-Bašta, Jasenica). Während des Angriffs auf diese letzte Festung wurde von der Befestigung nur das Tor verbrannt, aber dem Feuer fielen auch alle Häuser dieser Siedlung und deren innere Einrichtung zum Opfer. \n \n \n \n \n \n Später wurden die Mauern auf dem Havránok nicht mehr erneuert. Es wurden auch keine Spuren einer jüngeren Besiedlung festgestellt. Erst in der zweiten Hälfte des 2. Jahrhunderts n. Chr. haben wir auf der ehemaligen Höhenburg Spuren eines sporadischen Aufenthalts von Menschen verzeichnet, die hier vielleicht kurz in der Zeit des Exodus der örtlichen Bevölkerung am Ende der Markomannenkriege wohnten. \n Die frühgeschichtlichen Befestigungen in Liptovská Mara waren im Mittelalter noch so deutlich, dass sie Generationen von Bewohnern der Gemeinde als Steinbruch dienten. Ihrem Eifer fielen Teile der Mauern der Ostterrasse zum Opfer. Nur dort, wo sie mit einer ausreichenden Schicht abgerutschten oder angewehten Lehms überdeckt waren, haben sie sich bis in die Zeit der Ausgrabungen erhalten. Sie haben zwei Jahrtausende überdauert und sind in ihrer heutigen, teilweise rekonstruierten Gestalt ein anschauliches Beispiel der Baukunst der alten Bewohner der Liptau. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren",
+    "alt": "Die Gruppe Vae Victis belebt die keltische Geschichte auf dem Havránok schon seit einigen Jahren",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bild",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "der sogenannte Taranis-Kreis (Sonnensymbol, Zeichen der Kotiner)…",
+    "alt": "der sogenannte Taranis-Kreis (Sonnensymbol, Zeichen der Kotiner)…",
+    "width": "30",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": true
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "… und seine Rekonstruktion von Miroslav Bros",
+    "alt": "… und seine Rekonstruktion von Miroslav Bros",
+    "width": "30",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hölzerner Götze auf dem Havránok",
+    "alt": "Hölzerner Götze auf dem Havránok",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Häuser",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Die erfahrenen Zimmerleute der keltischen Zeit nutzten die natürlichen Eigenschaften des Holzes wirkungsvoll. In verschiedenen Bauzusammenhängen verwendeten sie Pfosten und Balken aus Eiche, Buche, Tanne, Fichte und Kiefer. Die Bäume fällten sie, und auch die meisten übrigen Holzarbeiten verrichteten sie mit der traditionellen Axt, die aus Stahl ausgezeichneter Qualität hergestellt war. Vortreffliche Werkzeuge waren auch Stechbeitel mit Holzheft und Löffelbohrer, mit denen vor allem die verbindenden Zimmermannsarbeiten ausgeführt wurden – das Verzapfen und das Verkeilen. Sägen wurden, wie es scheint, für gröbere Arbeiten nicht verwendet. Zum Schneiden, Schaben und Ausschnitzen gab es hier verschiedene Klingen, von schweren Hackmessern bis zu kleinen Messerchen. Das spätlatènezeitliche Bauwesen verwendete schon gewöhnlich eiserne Nägel, Keile, Krampen, Niete, Haken und verschiedene Beschläge. \n Die Wohngebäude entwickelten sich im Gebirgsmilieu unter dem Einfluss der Naturbedingungen und der gesellschaftlichen Entwicklung so, dass sie ihrem Zweck möglichst gut entsprachen: der Unterbringung und der Arbeit der Familiengemeinschaften. Die Häuser baute man hier nach den räumlichen Möglichkeiten frei auf den Terrassen oder in Reihen entlang des Verkehrswegs dicht nebeneinander, wie es auf der bekannten Höhenburg Tupá skala bei Vyšný Kubín belegt ist. Es waren zweiräumige Blockbauten mit einer Feuerstelle im größeren Wohnraum. Eine ähnliche Disposition, ergänzt um einen kalten Vorraum entlang zweier Seiten, hatte auch die hallstatt-latènezeitliche Behausung, die auf einer der Terrassen der Höhenburg Zvon bei Lazisko in der Liptau freigelegt wurde. Die Umfassungswände waren nicht aus Blockwerk, sondern aus waagerechten Bohlen, die in Nuten der Eckpfosten eingesetzt waren. \n Ein ähnliches Aussehen und ähnliche Ausmaße hatten auch die ältesten Häuser in den Siedlungen von Liptovská Mara. Ein gut erhaltenes Haus dieses Typs mit Umzäunung und Wirtschaftsbauten aus der Siedlung wurde zur Grundlage der Rekonstruktion des Gehöfts im Freilichtmuseum. An diesem durch Brand zerstörten Bau können wir seine Konstruktion und seine innere Einrichtung ausführlich studieren. Den unteren Teil des Blockwerks aus Fichtenbalken schützte vor Feuchtigkeit eine Reihe keilförmig geschichteter Sandsteinplatten. Die Fugen zwischen den Balken waren mit Lehmbewurf abgedichtet. Eine Besonderheit sind die Überreste massiver Pfosten, die bei den äußeren Ecken der Wände standen und die Dachkonstruktion trugen, die (mit Ausnahme der vorderen Stütze unter der Firstpfette) unabhängig von der Blockwerkhülle war.  \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein weiterer Blick auf die rekonstruierte Behausung",
+    "alt": "Ein weiterer Blick auf die rekonstruierte Behausung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Innere des Hauses teilte eine Trennwand in einen Vorrats- und einen Wohnteil. In der Kammer standen zwei große Vorratsgefäße, einige kleinere Gefäße, und es lag hier auch eine Spindel. In ein kleines Krüglein waren vier silberne Schläfenringe eingelegt, der Schmuck der Hausherrin, für die sie nicht mehr zurückkam. Den Wohnteil mit verstrichenem Boden beherrschte eine mit Steinen ausgelegte Feuerstelle. Um sie herum konzentrierte sich die Arbeitstätigkeit der Familienmitglieder, vor allem das Kochen. Nach den gefundenen Eisenfragmenten und einer unfertigen eisernen Fibel nehmen die Archäologen an, dass sich einer der Bewohner (vielleicht neben anderer Arbeit) mit der Herstellung einfacher Zierstücke befasste. "
+       },
+       {
+        "type": "text",
+        "text": " In späteren Zeitabschnitten erscheinen unter germanischem Einfluss kleinere einräumige Bauten mit einer Sechspfostenkonstruktion des Daches. Wir wissen nicht, ob es Wirtschaftseinrichtungen waren, wie es auf einigen westgermanischen Siedlungen mit großen Wohnhäusern belegt ist, oder ob diese nicht großen Hütten im mitteleuropäischen Milieu eine universelle Verwendung hatten. "
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": " Wirtschaftsbauten waren zweifellos Bauten mit Pfosten, die das Dach trugen, und mit einfachen Wänden aus Stangen und Flechtwerk, grob mit Lehm verputzt, der mit Spreu vermischt war. Als Speicher können wir – ähnlich wie auch in anderen Gebieten und Kulturen – einige quadratische Grundrisse mit Pfosten in den Ecken ansehen. Vereinzelt, etwa auf der Siedlung II, gelang es in ihnen auch, verstreute Getreidereste festzustellen. Selten sind Gruben, die wohl als Keller dienten, und es wurde auch ein einziges eingetieftes Grubenhaus mit einem Pfostenpaar für eine zeltartige Dachkonstruktion freigelegt. "
+       },
+       {
+        "type": "text",
+        "text": " Brunnen fanden sich nur zwei, vielleicht deshalb, weil in den Siedlungen auch damals mehrere Quellen entsprangen und nicht weit entfernt der Fluss floss. Der gut erhaltene Brunnen am nördlichen Fuß des Havránok gehörte nach der gefundenen Keramik zur älteren Phase der Besiedlung. Im oberen Teil waren die Wände mit trocken geschichteten Sandsteinen ausgelegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das rekonstruierte Heiligtum",
+    "alt": "Das rekonstruierte Heiligtum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Heiligtum",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n \n Ein außergewöhnlicher Fund von der Höhenburg auf dem Havránok ist zweifellos der Fund der Überreste eines keltischen Heiligtums. Nach den ältesten Gegenständen aus der nördlichen Pflasterung des Heiligtums fanden hier die ersten Riten irgendwann am Ende der Mittellatènezeit statt. Auf großen Feuerstellen im mittleren Teil der Fläche wurden die Opfergaben verbrannt, die zusammen mit den Resten des Holzstoßes in einem bogenförmigen Streifen neben hölzernen Pfosten (wohl einer Art Totems oder Stelen) in Richtung von Norden nach Osten niedergelegt wurden. Kleinere Feuer brannten auch auf dieser Fläche. Die Asche von den Brandstellen deckte man von Zeit zu Zeit mit flachen Steinen ab, wodurch eine durchgehende Pflasterung entstand. In der Mitte des Areals fand sich eine in den Felsen eingetiefte Grube. Auf ihrer Sohle lag ein mächtiges Vorratsgefäß und daneben ein Krüglein. Rings umher, aber auch in den höheren Schichten der Verfüllung waren unvollständige Skelette sowie einzelne Schädel und Knochen mehrerer menschlicher Individuen hineingeworfen. Bei der Opfergrube legte man die Reste eines außergewöhnlich großen hölzernen Pfostens frei, der 110 cm tief im Felsuntergrund eingesetzt war, wie ein zentrales Symbol des Heiligtums. \n \n In der Mitte des 1. Jahrhunderts v. Chr. wurde zusammen mit der umliegenden Befestigung auch der Opferplatz umgebaut, wobei von der ursprünglichen Gestalt nur der nördliche Flügel der Pflasterung mit der Pfostenreihe blieb. In der Mitte entstand ein neuer Schacht, ebenfalls mit einem hölzernen Totem, zu dem vom südlichen Teil symmetrisch eine weitere, von Pfosten gesäumte Pflasterung führte. Das ganze Areal war von der übrigen Fläche der Höhenburg durch eine Umzäunung getrennt, die im Streifen beim Wall gleichzeitig dessen rückwärtigen Teil bildete. \n Der Umbau entstand offensichtlich planmäßig und auf einmal. Auf den Pflasterungen fanden sich jedoch schon relativ wenige Reste von Opfergaben. In der Grube waren keine Körperteile niedergelegt, sondern nur einzelne Schädel und Knochen. In das Heiligtum trat man durch ein Tor in der Befestigung ein, auf dem Weg unterhalb der Mauer der Ostterrasse. Beim Freilegen der Befestigungsmauer entdeckte man einen senkrecht eingesetzten Sandsteinquader mit quadratischem Querschnitt von 185 cm Höhe. Auf der Brandstelle unterhalb des Steines lagen verkohlte Reste verschiedener landwirtschaftlicher Feldfrüchte, durchgebrannte Scherben wie auch ganze Gefäße, eine eiserne Pflugschar, ein Messer, Pfeilspitzen, silberne Münzen und verschiedene bronzene Zierstücke. Die Metallgegenstände waren im Unterschied zur Mehrzahl der Funde vom Opferplatz nicht deformiert und auch nicht der Glut des Holzstoßes ausgesetzt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die steinerne Stele, die ursprünglich auf dem Havránok stand, ist heute im Museum der Púchov-Kultur in Púchov ausgestellt",
+    "alt": "Die steinerne Stele, die ursprünglich auf dem Havránok stand, ist heute im Museum der Púchov-Kultur in Púchov ausgestellt",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": " Wir nehmen an, dass es sich um einen örtlichen Opferplatz am Weg zum Heiligtum handelt, wobei das steinerne Prisma – die Stele – mit flachem Abschluss als Sockel einer Kultplastik aus einem anderen Material (Holz?) oder als eine Art „Altar“, als purifikatorischer, reinigender Ort vor dem Eintritt in das Kultareal dienen konnte. Nach den Resten von Brandstellen und vereinzelten ganzen bronzenen Gegenständen an anderen, durch Steingewinnung zerstörten Stellen der Mauer entlang des Weges können wir annehmen, dass es entlang des Weges zum Heiligtum mehrere ähnliche Opferplätze gab. Es ist interessant, dass sich eine Gruppe unbeschädigter Gegenstände ähnlicher Zusammensetzung (Armringe, Pflugschar) auch im beschädigten Teil des nördlichen Flügels des Heiligtums fand. Das Kultareal der Ostterrasse ging zusammen mit der Höhenburg am Ende des letzten Jahrhunderts der alten Zeitrechnung unter. Aus der angeführten Beschreibung ergibt sich, dass hier im Grunde zwei Zeremonien abliefen: das Verbrennen von Tieren und Gegenständen und das Töten von Menschen. Auf dem Holzstoß wurden am häufigsten verschiedene landwirtschaftliche Feldfrüchte geopfert (Erbse, Bohne, Weizen, Gerste und Hirse). Als blutige Brandopfer, in den Funden durch nicht durchgebrannte Knochen belegt, kamen vor allem Körperteile von Rindern, Schafen und Schweinen zur Anwendung. Vereinzelt wurde auch das Fleisch von Pferd, Hund und Rehwild geopfert. Scherben, seltener auch ganze Gefäße, sind wohl Überreste von Behältern für Lebensmittel, Speisen und Getränke, die Teil der Opfergabe oder der sie begleitenden Riten waren. Die Gegenstände aus der „aschigen Schicht“, also aus den Deponien der Kremationsopfer, waren vielfältig. Unter ihnen überwiegen Zierstücke und Teile der Frauentracht: Armringe, Halsringe, Fibeln, Teile von Halsketten und Gürteln. Vereinzelt fanden sich auch wertvolle Bronzegefäße, Gerät und Werkzeuge (Messer, ein Durchschlag, ein Meißel, eine Pflugschar und eine Sichel). Es fehlen auch metallene Rohstoffe nicht: eiserne Kuchen, ein Kupferbarren, Rollen aus Silberdraht und Schmelzklumpen aus demselben Metall. Erwähnen wir noch Stücke duftenden Harzes, die auch heute noch nach dem Anzünden einen ausgeprägten, dem Thymian ähnlichen Duft verströmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Zugang in die Höhenburg und zum Heiligtum war durch ein turmartiges Tor geschützt",
+    "alt": "Der Zugang in die Höhenburg und zum Heiligtum war durch ein turmartiges Tor geschützt",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der angeführten Funde können wir versuchen, zumindest in groben Zügen"
+       },
+       {
+        "type": "text",
+        "text": " den Ablauf des Kremationszeremoniells zu rekonstruieren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Die Gegenstände, überwiegend Säckchen oder Gefäße mit Feldfrüchten, und die Opfertiere nahmen wahrscheinlich zuerst die Vermittler des Kultes (Priester?) an und reinigten sie rituell. Es folgte die Tötung der Opfertiere und die Abtrennung der Teile, die zur Verbrennung auf dem Feueraltar bestimmt waren. Das Zerschlagen der Gefäße und das Deformieren der metallenen hatte einen ähnlichen Sinn wie das Töten des Tieres. Es musste nämlich der Geist des Gegenstandes freigesetzt werden, der nach den damaligen Vorstellungen in ihnen ebenso wie im Tier wohnte. Es folgte das Anzünden der Opfergabe, deren Wesen die Flamme verwandelte und die der aufsteigende Rauch der Gottheit vermittelte. Für die Kremation verwendete man (möglicherweise nach bestimmten Gewohnheiten und Prozeduren) Kiefern- und Tannenholz, weniger Fichte, Eibe und Eiche. Aus den geschmolzenen Metallgegenständen und dem starken Durchbrennen des Felsuntergrundes lässt sich auf eine hohe Glut des Holzstoßes schließen. Einige wenig angebrannte oder auch vom Feuer unberührte Gegenstände – etwa alle Messer, die Sichel, die Gefäße – konnten Kultgegenstände sein, die nach dem Gebrauch zwischen den Resten des schwelenden Holzstoßes abgelegt wurden, ähnlich wie auch die übrigen Stücke Weihrauch, der während des Verbrennens einen Duftschleier bildete.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keltischer Ritus im Heiligtum",
+    "alt": "Keltischer Ritus im Heiligtum",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir irren nicht, wenn wir auf der Grundlage einiger indirekter Belege die Existenz eines Festmahls zulassen, das Teil der Riten der meisten Kulte war. Nach den Analysen der verbrannten Tierreste gelangten auf den Holzstoß als „pars pro toto“ – als symbolische Vertretung des Ganzen – nur die unteren Teile der Gliedmaßen und die Köpfe, d. h. die zum Verzehr nicht geeigneten Teile. Die fleischigen Teile wurden zusammen mit weiteren Lebensmitteln aus den Opfergaben nach der Zubereitung beim heiligen Festmahl der Teilnehmer der Riten verzehrt. Damit schloss sich (neben der angenehmen Seite der Sache) zugleich der Kreis der Verbindung zwischen den Opfernden und dem übernatürlichen Adressaten durch die geweihte Opfergabe. Möglicherweise endeten auch die Gefäße zum Trinken von Met oder Bier nach dem Ausgießen des Getränks für die Götter (libamen) und nach dem Festmahl zerschlagen zwischen den Resten des Holzstoßes, weil sie den heiligen Raum nicht verlassen durften. Zum Abschluss des Ritus am Ende des Festmahls wurde die noch glühende Glut auf eine bestimmte Stelle der Pflasterung zwischen den Pfosten verstreut (das ist belegt). Hier brannte sie allmählich aus und wurde mit Steinen und Lehm abgedeckt. Nach der Verteilung und der Menge der Kremationsreste waren solche Opfer eine häufige Gewohnheit. Mit ihnen kamen wohl einzelne Bittsteller oder Gruppen von Antragstellern, die um einen konkreten Beistand der allmächtigen Gottheiten ersuchten, oder Teilnehmer von Dankfesten zu deren Ehren. Im Bestreben, diese theoretische Auslegung fortzusetzen, können wir hinter den verschiedenen Gaben Vertreter einzelner sozialer Gruppen dieser religiösen Gemeinschaft sehen: Bauern, die ihre Feldfrüchte opferten, Handwerker mit symbolischen Erzeugnissen oder Metallen und Angehörige der höheren Gesellschaftsschicht mit wertvollen fremden Waren.  Im Heiligtum fanden sich jedoch auch die Überreste von Menschenopfern. Belegt sind mindestens 10 Menschen im Alter von 20 bis 30 Jahren. Die Reste eines Skeletts gehörten einem sechzehnjährigen Unerwachsenen und Teile eines weiteren einem vierzigjährigen Menschen. In mindestens fünf Fällen lässt sich auf Frauen schließen, in einem einzigen Fall auf einen Mann. Die übrigen Skelettfunde ließen sich nicht sicher bestimmen. Interessante Erkenntnisse brachte auch das Studium der Knochen vom pathologischen Standpunkt, das in sogar drei Fällen deutliche Anomalien der Geopferten bestätigte. An den Oberschenkelknochen des sechzehnjährigen Jugendlichen oder eher der Jugendlichen aus der älteren Grube wurden chronische osteomyelitische Veränderungen (Knochenmarkentzündung) festgestellt, was ein sehr schwerer gesundheitlicher Defekt war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Im höchsten Teil des Berges wurde im Mittelalter eine hölzerne kleine Burg errichtet, die durch eine einfache, mit Ruten geflochtene Palisade geschützt war",
+    "alt": "Im höchsten Teil des Berges wurde im Mittelalter eine hölzerne kleine Burg errichtet, die durch eine einfache, mit Ruten geflochtene Palisade geschützt war",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch in der jüngeren Grube fand sich ein Oberschenkelknochen mit einem schlecht verheilten Bruch, der eine schwere Einschränkung der Bewegung bedeutete. Zum dritten fand sich auch zwischen den Schädelfragmenten, die über die Fläche des Opferplatzes verstreut waren, ein Unterkiefer mit deutlichen Deformationen nach Entzündungsprozessen, die ursprünglich durch einen retinierten rechten Eckzahn ausgelöst worden waren. Viele der Schädel und der Knochen von Köpfen und Gliedmaßen wurden vor dem Tod durch stumpfe Schläge zerschlagen und gebrochen. An den Gelenken der Oberschenkelknochen eines unvollständigen weiblichen Skeletts sind auch Spuren von Spaltung, vielleicht einer Vierteilung des Rumpfes, sichtbar. Schließlich wurden bei einem anderen Individuum an zwei Stellen des Schädels und am Beckenknochen vom Feuer versengte Stellen festgestellt.  Aus diesen Funden ist offensichtlich, dass am Kultplatz auch Menschen getötet – geopfert – wurden. Ihre Überreste tragen Spuren des Totschlagens bei lebendigem Leibe, der Vierteilung der Körper und möglicherweise auch des Brennens mit Feuer. Unvollständige Körper, ihre kleineren Teile sowie einzelne Köpfe und Stücke von Gliedmaßen wurden in die Gruben geworfen und teilweise mit Lehm überschüttet. Viele Teile der Geopferten fehlen. Das Töten verlief unabhängig vom Verbrennen anderer Opfergaben.  Das Menschenopfer war und ist immer der höchste Preis, und einst galt es als wirksamste Art, sich die Zuneigung der Götter zu erwerben. Wir wissen das aus zahlreichen antiken Texten und kennen es auch aus ethnographischen Beobachtungen primitiver Völker, wo das Opfern von Menschen oft mit rituellem Kannibalismus verbunden war. Ebenso gibt es genügend archäologische Belege, und zwar auch in der Lausitzer Kultur, die eine der alten Wurzeln der einheimischen Komponente der Bevölkerung von Liptovská Mara sein sollte. Eine noch reichere Quelle von Erkenntnissen in dieser Richtung ist der keltische Kulturkreis mit einer Menge von Heiligtümern und von Beispielen für Menschenopfer in ihnen.  Viele der keltischen Gebräuche beschrieben griechische und römische Autoren, bei denen schon zu jener Zeit rituelle Menschenopfer äußerst selten, aber auch aus der eigenen Geschichte bekannt waren. Die Kelten opferten Menschen – Gefangene, aber auch Mitbürger – auf vielerlei Weise und zu verschiedenen Gelegenheiten, weil es so der jahrhundertealte Brauch und die Riten der Verehrung der einzelnen Götter ihres umfangreichen Pantheons erforderten. Dem Esus hängte man die Menschen an die Bäume, dem Himmelsherrscher Taranis wurden die Opfer verbrannt und dem Teutates wurden die Opfergaben in großen Gefäßen ertränkt. Das erinnert unwillkürlich an das große Tonfass, das in der älteren unserer Opfergruben gefunden wurde. Vielfältig waren auch die Gründe für diese Kultmorde. Mit Hilfe des Tötens weissagte man die Zukunft, brachte Bitt- und Versöhnungsopfer dar, trieb das Böse aus, hielt periodische Reinigungsfeste ab und sicherte eine gute Ernte.  Der Ursprung des Brauchs, Menschen aus kultischen Gründen zu töten, ist nebelhaft, auch wenn die meisten Beispiele der keltische Kreis bietet. In unserem Fall wurden die Opfer gequält (totgeschlagen), gevierteilt und die Reste in eine tiefe Grube geworfen, die eigentlich den Eingang in die Unterwelt und den Kontakt mit den Gottheiten der Erde als Gegensatz zum Himmelskult symbolisierte. Die unterirdischen Kräfte beherrschten nicht nur jene andere Welt der Verstorbenen, sondern hatten paradoxerweise auch direkten Einfluss auf die Grundlage des Lebens, auf die Ernte der Felder.  Noch näher kommen wir der Auslegung unseres Fundes mit der Verwendung ethnographischer Beschreibungen indischer Erntefeste, bei denen das Opfern eines Menschen auffällig an die Befunde vom Opferplatz in Liptovská Mara erinnert. Dem Opfer zerschlug man die Gliedmaßen und quälte es grausam, weil Tränen, Schweiß und Blut den künftigen Regen darstellten. Nach der Tötung trug man das Fleisch und Teile der Gliedmaßen des Opfers auf die Felder und in die Speicher, während die Reste des Körpers am Ort des Ritus verbrannt oder begraben wurden. Auf das Motiv der Ernte (Frühlingsfeste der ersten Pflügung) weisen auch die Funde von Pflugscharen, einer Sichel und die Menge der verwendeten Feldfrüchte im Heiligtum hin. Es ist in gewissem Maße natürlich, dass man als „Sündenbock“, der das Böse aus der Gemeinde forttrug und den Segen der Ernte brachte, (auch) minderwertige, sonderbare Wesen auswählte, wie es wohl die körperlich Behinderten vom Opferplatz waren.      Über eine weitere Besonderheit dieser Höhenburg schreibt Pavel Dvořák: „Freilich stand auf dem Havránok nicht nur der Opferplatz, die Mauern umgaben einen ausgedehnten Raum mit einer Menge verschiedener Bauten, und auf der Wiese unter ihnen lagen mehrere verhältnismäßig große unbefestigte Dörfer. In der Zeit des größten Ruhms wurden auf dem Havránok auch Münzen geprägt, was die entdeckten Fragmente von Formen für Münzschrötlinge beweisen.       Alle Münzen haben auf der einen Seite ein Pferd, auf der anderen eine muschelförmige Wölbung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Schuldige kniet vor dem Druiden",
+    "alt": "Der Schuldige kniet vor dem Druiden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist ein bemerkenswerter Beleg für Traditionen, die die Menschen noch dann bewahrten, als sie schon nicht mehr wussten, was sie eigentlich bedeuten. Die Münzen vom Havránok ahmen nämlich griechische Münzen nach, sie haben deren Form und Gewicht und in gewissem Maße auch deren Prägung. Die Wölbung auf dem Avers ersetzt nämlich den Kopf Philipps II. von Makedonien, der den Púchov-Kelten schon nichts mehr sagte, und offenbar aus demselben Grund verwandelten sie den ursprünglichen Reiter in ein Pferdchen mit einigen Punkten auf dem Rücken anstelle des Menschen im Sattel. Der Rauch, der vom Heiligtum auf dem Havránok aufstieg, erinnerte viele Jahrhunderte daran, dass der Wille der Götter das höchste Gesetz ist. Viele Jahrhunderte sind jedoch zu viel, in der großen Zeitspanne ereignete sich allerlei, was das Heiligtum von Grund auf veränderte. An der Wende der Zeitrechnung wuchs um den Opferplatz eine zweieinhalb Meter hohe Steinmauer und an den unzugänglichen Stellen ein Wall. Die Mauer veränderte die Situation des ganzen Opferplatzes. Den alten Brunnen schaffte man ab und grub einen neuen. Die Archäologen fanden in ihm nur noch zwei Skelette, wieder weibliche. Es nahmen auch die übrigen Opfergegenstände ab, zudem sind sie weniger vollkommen als die Opfer aus der ersten Periode. Mehrere Umstände zeugen vom Verfall. Es ist nicht ausgeschlossen, dass jemand die Leute vom Havránok von der Rohstoffquelle verdrängte. Schließlich kam es auch zur Katastrophe. Das Heiligtum und die umliegenden Gemeinden gingen auf einmal unter, der Havránok und zwei der sechs Siedlungen in der Umgebung sicher durch Gewalt. Das beweisen die umgestürzten Mauern und die von der Außenseite im Wall steckenden Pfeilspitzen, aber auch der zerstörte Keramikbrennofen in einer der Siedlungen – ein Ofen, aus dem anstelle des Töpfers erst nach zwei Jahrtausenden die Archäologen die Ware herausnahmen. Es wurde hart gekämpft, den Verteidigern half weder die hohe Mauer noch die komplizierte Befestigung noch der sinnreiche Wachturm. Jemand fürchtete die Götter des Havránok nicht und zerstörte ohne Bedenken ihren Tempel. In das Land fielen fremde Menschen ein. Sie brannten und verwüsteten nicht nur Liptovská Mara, sondern auch weitere Höhenburgen. Mindestens sieben Befestigungen, die die Archäologen in den Gebieten von Žilina (Sillein), der Arwa, der Liptau und der Zips untersucht haben, gingen plötzlich unter: es blieben nur durch Brand zerstörte Mauern und Häuser, aus denen die Menschen ihr Hab und Gut nicht mehr herausbringen konnten.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bearbeitet von: Orgoň"
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": " Fotogalerie – Keltischer Tag auf dem Havránok, 16.7.2011. Die Veranstaltung organisierte der Verein "
+       },
+       {
+        "type": "link",
+        "url": "http://www.kelti.wbl.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "VAE VICTIS aus Lietavská Lúčka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ":"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Havránok – Liptovská Mara",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Havránok – Liptovská Mara",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Quellen und Literatur"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein wesentlicher Teil des Textes ist mit kleinen Anpassungen der ausgezeichneten Publikation entnommen: Karol Pieta: Liptovská Mara. Včasnohistorické centrum severného Slovenska. Bratislava 1996"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.vydavatelstvorak.sk/product/stopy-davnej-minulosti-2-slovensko-v-staroveku-9/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dvořák P.: Stopy dávnej minulosti 2 (Slovensko v staroveku), Rak, 2003"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.mojliptov.sk/co-navstivit/skanzeny-open-air-muzea/keltske-muzeum-havranok#",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://www.mojliptov.sk/co-navstivit/skanzeny-open-air-muzea/keltske-muzeum-havranok#"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "/blog/zivy-starovek-na-havranku",
+        "children": [
+         {
+          "type": "text",
+          "text": "Fotogalerie von der Veranstaltung Živý starovek vom Juli 2013"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Havránok – Liptovská Mara",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

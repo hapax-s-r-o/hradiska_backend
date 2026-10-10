@@ -3,7 +3,7 @@
  "data": {
   "title": "Sedliacka Dubová – Žiar, eine hallstattzeitliche Höhenburg über dem Tal der Arwa",
   "slug": "sedliacka-dubova-ziar-hallstattzeitliche-hoehenburg",
-  "excerpt": "Die Ruinen der kleinen Kirche auf dem Berg Žiar, auch Hrádok genannt, stützen sich unmittelbar auf den Wall einer hallstattzeitlichen Höhenburg. Ein etwa 6 m hoher Abschnittswall, ein 4 m breiter hölzerner Wehrgang auf steinernem Unterbau und ein 2 m tiefer Spitzgraben sicherten die Anlage, die im 3. bis 2. Jahrhundert vor Christus samt ihrem Suburbium verbrannte.",
+  "excerpt": "Die Ruinen der kleinen Kirche auf dem Berg Žiar, auch Hrádok genannt, stützen sich unmittelbar auf den Wall einer hallstattzeitlichen Höhenburg. Ein etwa 6 m hoher Abschnittswall, ein 4 m breiter hölzerner Wehrgang auf steinernem Unterbau und ein 2 m tiefer Spitzgraben sicherten die Anlage, die im 3. bis 2. Jahrhundert vor Christus samt der Siedlung unterhalb verbrannte.",
   "metaTitle": "Sedliacka Dubová – Žiar, hallstattzeitliche Höhenburg",
   "metaDescription": "Der Berg Žiar (Hrádok) über Sedliacka Dubová birgt eine befestigte hallstattzeitliche Siedlung, 1954 nachgewiesen. Heute stehen dort Kirchenruinen.",
   "keyFacts": [
@@ -23,7 +23,7 @@
     "icon": "flag"
    },
    {
-    "label": "Siedlung im Suburbium",
+    "label": "Siedlung unterhalb der Burg",
     "value": "an der Stelle der heutigen Gemeinde Sedliacka Dubová, freigelegte Fundamente hallstattzeitlicher Anwesen",
     "icon": "building"
    }
@@ -38,7 +38,7 @@
    {
     "year": "3.–2. Jahrhundert vor Christus",
     "title": "Untergang der kleinen Höhenburg durch Brand",
-    "description": "Der Untergang der kleinen Höhenburg wird in die Mittellatènezeit datiert – Ursache war ein Brand, der die kleine Höhenburg und das Suburbium verbrannte; es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging.",
+    "description": "Der Untergang der kleinen Höhenburg wird in die Mittellatènezeit datiert – Ursache war ein Brand, der die kleine Höhenburg und die Siedlung unterhalb der Burg verbrannte; es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging.",
     "type": "destruction"
    },
    {
@@ -200,7 +200,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Unterhalb des Burgbergs lag eine Siedlung, in der sich das hauptsächliche wirtschaftliche Leben der umliegenden Bevölkerung abspielte. Die Ortschaft im Suburbium lag an der Stelle der heutigen Gemeinde Sedliacka Dubová, an der Straße, die vom Gemeindeamt zum Friedhof führt, wo die Fundamente mehrerer hallstattzeitlicher Anwesen und Scherben hallstattzeitlicher Art freigelegt wurden; es traten aber auch schon verstärkte Ränder kammstrichverzierter Gefäße auf, die bereits Graphit enthielten, aus der älteren Latènezeit. Die hallstattzeitlichen Häuser waren stufenförmig in Reihen am Abhang des Žiar errichtet, weil der Fluss Arwa zu dieser Zeit das Tal noch überschwemmen konnte."
+        "text": "Unterhalb des Burgbergs lag eine Siedlung, in der sich das hauptsächliche wirtschaftliche Leben der umliegenden Bevölkerung abspielte. Die Siedlung unterhalb der Burg lag an der Stelle der heutigen Gemeinde Sedliacka Dubová, an der Straße, die vom Gemeindeamt zum Friedhof führt, wo die Fundamente mehrerer hallstattzeitlicher Anwesen und Scherben hallstattzeitlicher Art freigelegt wurden; es traten aber auch schon verstärkte Ränder kammstrichverzierter Gefäße aus der älteren Latènezeit auf, die bereits Graphit enthielten. Die hallstattzeitlichen Häuser waren stufenförmig in Reihen am Abhang des Žiar errichtet, weil der Fluss Arwa zu dieser Zeit das Tal noch überschwemmen konnte."
        }
       ]
      }
@@ -227,7 +227,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Über die Geschichte der Dubováer kleinen Höhenburg wissen wir sehr wenig; wir können nur ihren Untergang in die Mittellatènezeit, in das 3. bis 2. Jahrhundert vor Christus, datieren. Ursache des Untergangs war ein Brand, der die kleine Höhenburg und das Suburbium verbrannte. Es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging. Wahrscheinlich wurden beide Höhensiedlungen erobert und niedergebrannt."
+        "text": "Über die Geschichte der Dubováer kleinen Höhenburg wissen wir sehr wenig; wir können nur ihren Untergang in die Mittellatènezeit, in das 3. bis 2. Jahrhundert vor Christus, datieren. Ursache des Untergangs war ein Brand, der die kleine Höhenburg und die Siedlung unterhalb der Burg verbrannte. Es wird angenommen, dass sie zusammen mit der Höhensiedlung in Istebné unterging. Wahrscheinlich wurden beide Höhensiedlungen erobert und niedergebrannt."
        }
       ]
      }

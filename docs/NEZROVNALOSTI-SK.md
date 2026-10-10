@@ -736,3 +736,6 @@ preložený, rovnako ako anglická.
 
 **sutovo-ratkovo-hradisko**
 : prvá veta je neúplná („na strategickom bode medzi hlavnou komunikačnou trasou…" bez druhého člena); Molpír je označený za „významné keltské centrum", hoci je halštatský
+
+**spissky-stvrtok-slovenske-mykeny**
+: keyFact „39 domov a kultové miesto" a timeline „1968 – 1974" nie sú nikde v tele (telo hovorí len „po viac než dvadsiatich rokoch"); keyFact tvrdí „hlavná brána v tvare U", telo hovorí o hradbách v tvare U

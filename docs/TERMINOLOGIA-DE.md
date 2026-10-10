@@ -1159,6 +1159,63 @@ priesmyk → **der Biksárd-Pass**, Plavecký hrad → **Blasenstein** (exonym p
 prvom výskyte). „Kráľovské valy" v Trzcinici ostávajú v úvodzovkách ako
 **„Königswälle"**.
 
+**Podhradie podľa obdobia.** *Das Suburbium* je stredoveké a slovanské
+predmestie pod hradom a ostáva len tam. Pri pravekej lokalite (Sedliacka
+Dubová, laténsky hrádok) sa „podhradie" prekladá neutrálne ako **die
+Siedlung unterhalb der Burg** — *Suburbium* by bolo anachronizmus a
+*Vorburg* by tvrdilo, že to bola časť opevnenia, čo článok nehovorí.
+*Predhradie* ostáva **die Vorburg** (§ 30. dávky).
+
+**Akropola v Spišskom Štvrtku — rozhodnuté.** Aj tam je **die Hauptburg**,
+hoci článok stojí na mykénskej paralele a prekladateľ navrhoval *Akropolis*.
+Dôvod: celý web má mať jeden termín pre tú istú vec a egejské porovnanie
+nesie samotný text, nie to jedno slovo. *Akropolis* tak ostáva vyhradené
+antike bez výnimky.
+
+**Dve zjednotenia.** Predpúchovský stupeň → **die Vor-Púchov-Stufe** (nie
+*Vorpúchov-*) a spona spojenej konštrukcie → **Fibel in verbundener
+Konstruktion** (nie *geschlossener*). Oba tvary už boli v článkoch dvojako,
+staršie sa prepísali.
+
+**Nálezy a výskum (47. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| úštep | **der Abschlag** |
+| odštepok | **der Abspliss** |
+| rádiolarit | **Radiolarit** |
+| tuľajková sekerka | **das Tüllenbeil** |
+| sekáčik typu Dürrnberg | **das Hackmesser vom Typ Dürrnberg** |
+| nánožník | **der Fußring** |
+| tuhovanie | **die Graphitierung** |
+| plošný odkryv | **die Flächengrabung** |
+| ornica | **die Ackerkrume** |
+| kovolejárstvo (odbor) | **das Metallgusshandwerk** (jednotlivá práca = *die Gussarbeit*) |
+
+**Opevnenie a stavby (47. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| šija (hrebeňa) | **der Hals** |
+| oštrožinový výbežok | **der Bergsporn** |
+| kamenná nadmurovka | **der steinerne Unterbau** |
+| zemný hrad | **die Erdburg** |
+| polbastión | **die Halbbastion** |
+| lievikovitý pôdoris | **trichterförmiger Grundriss** |
+| strážnica, varta | **die Wachstube**, **der Wachposten** |
+
+**Spoločnosť, cirkev, peniaze.** Vlastnícky kostol → **die Eigenkirche**,
+prvotnopospolná spoločnosť → **die Urgesellschaft**, viedenský fenig → **der
+Wiener Pfennig**. Mená uhorských kráľov podľa §1: Ondrej II. → **Andreas
+II.**, Belo IV. → **Béla IV.**
+
+**Prezývka v singulári.** „Slovenské Mykény" → **das „Slowakische Mykene"**
+(nemčina má pre mesto singulár), „Spišské Mykény" → **das Zipser Mykene**.
+
+**Zemepis (47. dávka).** Ponická pahorkatina → **das Hügelland von Poniky**,
+Severná cesta → **die Nordstraße**. Pri Skalici je „inundácia Moravy"
+rieka, teda **die March** — nie *Mähren* (§12).
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

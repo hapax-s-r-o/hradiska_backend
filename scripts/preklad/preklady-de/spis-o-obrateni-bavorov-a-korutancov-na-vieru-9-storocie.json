@@ -1,0 +1,183 @@
+{
+ "slug": "spis-o-obrateni-bavorov-a-korutancov-na-vieru-9-storocie",
+ "data": {
+  "title": "Die Schrift Conversio Bagoariorum et Carantanorum (9. Jahrhundert)",
+  "slug": "conversio-bagoariorum-carantanorum-salzburger-schrift",
+  "excerpt": "Die Conversio Bagoariorum et Carantanorum entstand 871–873 am Hof des Salzburger Erzbischofs Adalwin – als Reaktion auf die Mission Methods und zur Begründung der Salzburger Ansprüche auf Pannonien. Sie nennt die Kirche, die Erzbischof Adalram auf dem Besitz Pribinas in Nitra weihte: die erste schriftlich belegte Kirche Mitteleuropas. Zugleich berichtet sie über das Reich des Samo, die Vertreibung Pribinas und seinen neuen Sitz Blatnohrad. Es folgen die Kapitel 3–4 und 9–14 im Wortlaut.",
+  "metaTitle": "Conversio Bagoariorum et Carantanorum (9. Jahrhundert)",
+  "metaDescription": "Die Salzburger Schrift Conversio Bagoariorum et Carantanorum (871–873): Pribina, Kocel und die erste schriftlich belegte Kirche Mitteleuropas in Nitra.",
+  "keyFacts": [
+   {
+    "label": "Entstehung des Werkes",
+    "value": "Jahre 871–873, Hof des Salzburger Erzbischofs Adalwin",
+    "icon": "scroll"
+   },
+   {
+    "label": "Erste Erwähnung",
+    "value": "Die Kirche in Nitra, die Erzbischof Adalram weihte (höchstwahrscheinlich 828) – die erste schriftlich belegte Kirche in Mitteleuropa",
+    "icon": "building"
+   },
+   {
+    "label": "Schlüsselpersonen",
+    "value": "Samo, Pribina, Kocel, Erzbischof Adalram, Method",
+    "icon": "crown"
+   },
+   {
+    "label": "Übersetzung",
+    "value": "Ján Lukačka, in: Pramene k dejinám Slovenska a Slovákov II (1999)",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "828",
+    "title": "Weihe der Kirche in Nitra",
+    "description": "Der Salzburger Erzbischof Adalram weihte auf dem Besitz Pribinas in Nitra eine christliche Kirche – die erste schriftlich belegte Kirche in Mitteleuropa.",
+    "type": "event"
+   },
+   {
+    "year": "848",
+    "title": "Versammlung in Regensburg",
+    "description": "König Ludwig der Deutsche übergab Pribina Besitzungen in Pannonien zu Eigentum; der Akt fand am 12. Oktober 848 unter Beteiligung vieler Bischöfe und Adliger statt.",
+    "type": "event"
+   },
+   {
+    "year": "865",
+    "title": "Kirchweihen in Blatnohrad",
+    "description": "Erzbischof Adalwin feierte auf dem Burgwall Kocels (Blatnohrad) die Geburt Christi und weihte mehrere Kirchen in der Umgebung.",
+    "type": "event"
+   },
+   {
+    "year": "871–873",
+    "title": "Entstehung der Schrift Conversio",
+    "description": "Die Schrift Über die Bekehrung der Bayern und Karantanen entstand am Hof des Erzbischofs Adalwin als Verteidigung der Salzburger Ansprüche gegenüber der Mission Methods.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 3024,
+    "caption": "Die Schrift „Über die Bekehrung der Bayern und Karantanen“",
+    "alt": "Die Schrift „Über die Bekehrung der Bayern und Karantanen“"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "alt": "Die Schrift Conversio Bagoariorum et Carantanorum (9. Jahrhundert)",
+    "caption": "",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schrift „Über die Bekehrung der Bayern und Karantanen“ (De Conversione Bagoariorum et Carantanorum) entstand in den Jahren 871–873 am Hof des Salzburger Erzbischofs Adalwin als Reaktion auf das Wirken der byzantinischen Mission im Gebiet Großmährens und Pannoniens und auf die Tätigkeit des mährisch-pannonischen Metropoliten Method, mit dem Ziel, die Rechte des Erzbistums Salzburg auf das Gebiet Pannoniens zu begründen. Das Werk hebt die Verdienste der Salzburger Erzbischöfe an der Christianisierung der slawischen Bevölkerung hervor, die im Gebiet Pannoniens lebte, und verurteilt das Wirken der byzantinischen Mission in Großmähren. In der Schrift findet sich die Erwähnung der Kirche in Nitra (Neutra) – im Jahr 828 weihte der Salzburger Erzbischof Adalram auf dem Besitz Pribinas in Nitra eine christliche Kirche –, die zur ersten schriftlich belegten Kirche in Mitteleuropa wurde. Die Schrift enthält ebenso wertvolle Angaben über die Existenz des Reiches des Samo, über das Fürstentum Neutra, über die Vertreibung Pribinas aus Nitra, über die Verbindung des Fürstentums Neutra mit dem Mährischen Fürstentum und über die Ansiedlung Pribinas und seines Sohnes Kocel in Blatnohrad (Mosaburg) in Transdanubien."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Conversio"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Bekehrung der Bayern und Karantanen – die erste schriftliche Erwähnung von Nitra, Pribina und Blatnohrad",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "(De Conversione Bagoariorum et Carantanorum)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "3. Bisher haben wir davon gesprochen, wie die Bayern Christen wurden, und es wurde das Verzeichnis der Bischöfe und Äbte in der Salzburger Diözese zusammengestellt. Nun ist hinzuzufügen, wie die Slawen, die Karantanen genannt werden, und ihre Nachbarn im heiligen Glauben unterrichtet wurden und wie sie Christen wurden, aber auch, wie die Hunnen (Awaren) die Römer, Goten und Gepiden aus Niederpannonien vertrieben und dieses Land in Besitz nahmen. Danach führten die Franken und die Bayern mit den Karantanen unablässig Kriege, bezwangen sie, und jene von ihnen, die den Glauben gehorsam annahmen und sich taufen ließen, wurden Untertanen der (fränkischen) Könige. Und den Boden, den die übrigen halten, nutzen sie bis heute gegen Abgaben an den König.\n4. Nun ist die Darstellung über die Karantanen kurz zu wiederholen. Zu Zeiten des berühmten Königs der Franken Dagobert\n[…]\n ",
+    "author": "Unbekannter Autor (Klerus des Erzbistums Salzburg)",
+    "source": "Conversio Bagoariorum et Carantanorum (871–873), Kap. 3–4"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "9. Nach dem Hinscheiden des Erzbischofs Arn aus dieser Welt übernahm im Jahr 821 nach der Geburt des Herrn die Verwaltung der Salzburger Diözese der sehr fromme Lehrer Adalram […]\n10. Nach der Aufzählung der Salzburger Bischöfe werden wir versuchen, für jene, die es erfahren wollen, die Aufzeichnungen so zugänglich zu machen, wie wir sie wahrheitsgemäß in den Chroniken der fränkischen und bayerischen Kaiser und Könige niedergeschrieben gefunden haben. Als also Kaiser Karl die Hunnen (Awaren) verjagt und die bischöfliche Befugnis über dieses Land dem Verwalter der Salzburger Kirche, also dem Erzbischof Arn und seinen Nachfolgern, übertrug, damit sie es auf ewige Zeiten innehaben und verwalten, begannen sich in dem Land, aus dem die Hunnen (Awaren) vertrieben worden waren, einerseits Slawen, andererseits Bayern zu vermehren. In jenen Zeiten setzte der Kaiser Goteram zum ersten Markgrafen ein, nach ihm folgte als zweiter Werinhar, als dritter Albrik, als vierter Gotafrid, als fünfter Gerold. Während die erwähnten Grafen für das östliche Gebiet Sorge trugen, saßen in jenen Gegenden, die dem genannten Bischofsstuhl unterstanden, auch einige (einheimische) Herzöge. Diese waren durch die erwähnten Grafen dem Kaiser untergeordnet und hatten ihm zu dienen. Sie hießen Pribislav, Semikas, Stojmír und Edgar. Nach ihnen erhielten jedoch die erwähnten Gebiete durch Schenkung der Könige die bayerischen Adligen Helmwin, Albgar und Pabo als Grafschaften in ihren Besitz. Als es dazu kam, übernahm den Schutz der Grenzen Ratbod […]\n11. Als sich jedoch unterdessen eine gewisse Gelegenheit bot, erhielt damals Pribina auf die Bitte der Getreuen des erwähnten Königs einen gewissen Teil Niederpannoniens um den Fluss, der Sala genannt wird, zu Lehen. Daraufhin ließ er sich dort nieder und begann in einem gewissen sumpfigen Hain am Ufer der Sala einen Burgwall zu errichten. Von allen Seiten sammelte er Leute und vermehrte die Zahl seiner Untertanen. Ihm (Pribina) hatte einst Erzbischof Adalram auf seinem eigenen Besitz jenseits der Donau an einem Ort, der Nitrava genannt wird, eine Kirche geweiht.\n12. Es gelangte also an die Ohren des frommsten Königs Ludwig, dass sich Pribina dem Dienst für Gott und für ihn ergeben habe, und weil ihn viele seiner Getreuen oft daran erinnerten, übergab er ihm (Pribina) zu Eigentum alles, was er vorher zu Lehen innegehabt hatte. Allerdings mit Ausnahme jener Besitzungen, die schon dem Bistum Salzburg, dem Fürsten der Apostel, dem heiligen Petrus, und dem seligen Hrodbert gehörten, wo sein Leib ruht und wo, wie bekannt ist, der ehrwürdige Erzbischof Liupram als Verwalter an der Spitze steht. Auf dieser Grundlage entschied unser Lehnsherr, der König, dass die Besitzungen, die der erwähnte Bischof an diesen Orten schon vorher erworben hatte und die durch Gottes Gnade noch vermehrt werden können, unwiderruflich auf ewig und ohne jegliche Verringerung zu diesen Orten der vorher erwähnten Heiligen gehören sollen, ungeachtet der Einwände und der gerichtlichen Entscheidung von wem auch immer. Bei diesem Akt waren diese Personen zugegen: Erzbischof Liupram, Bischof Erchanbert, Bischof Erchanfrit, Bischof Hartvig, Karlmann, Ludwig, Ernest, Ratbod, Werinhar, Pabo, Fritilo, Tacholf, Deotrich, Waninc, Gerolt, Liutolt, Deotheri, Wolfregi, Jezi, Egilolf, Puopo, Adalprecht, Megingoz, ein anderer Adalprecht, Odalrich, Pernger und Managolt. Vollzogen auf der öffentlichen Versammlung in Regensburg im Jahr des Herrn 848, in der elften Indiktion, am vierten Tag vor den Iden des Oktober (12. 10.). Solange er (Pribina) lebte, verringerte er in nichts den kirchlichen Besitz und nahm auch nichts von der Befugnis des erwähnten Bischofsstuhls weg. Auf die Ermahnung des Erzbischofs bemühte er sich im Gegenteil, diese Besitzungen nach seinen Kräften noch zu vermehren, denn zur Erweiterung der Gottesdienste wurde dorthin nach dem Tod des Priesters Dominicus zuerst der Priester und ausgezeichnete Lehrer Swarnagal zusammen mit Diakonen und Klerikern gesandt. Nach ihm sandte dann Liupram dorthin den Priester und Magister aller Künste Altfrid. Diesen setzte Liuprams Nachfolger Adalwin dort zum Archipresbyter ein, vertraute ihm die Schlüssel der Kirche an und beauftragte ihn, in seinem Namen für alles Volk Sorge zu tragen. Und ebenso setzte er nach dessen Tod Rihpald zum Archipresbyter ein. Dieser wirkte hier längere Zeit und übte sein Amt im Auftrag des Erzbischofs eifrig aus. Dann jedoch bewirkte ein gewisser Grieche Method nach der kürzlich erfolgten Erfindung der slawischen Schrift, indem er nach Art der Philosophen die lateinische Sprache, die römische Lehre und die lateinische autoritative Schrift geringschätzte, dass die Messen, die Evangelien und die Kirchenstunden, die von jenen abgehalten wurden, die sie auf Latein hielten, bei allem Volk teilweise an Ansehen verloren. Da er (Rihpald) dies nicht zu ertragen vermochte, kehrte er zum Salzburger Stuhl zurück.\n13. Im Jahr 865 feierte der ehrwürdige Salzburger Erzbischof Adalwin die Geburt Christi auf dem Burgwall Kocels, neuerdings Blatnohrad genannt, der ihm (Kocel) nach dem Tod seines von den Mährern erschlagenen Vaters Pribina zugefallen war. Und hier hielt er an jenem Tag die kirchlichen Gottesdienste ab und weihte am folgenden Tag auf dem Wittimar gehörenden Besitz eine Kirche zu Ehren des heiligen Stephan, des Erstmärtyrers. Am Tag der Kalenden des Januar (1. 1.) weihte er wiederum auf dem Besitz Kocels in Ortahu eine Kirche zu Ehren des heiligen Michael, des Erzengels. Im selben Jahr weihte er an den Iden des Januar (13. 1.) in Werid eine Kirche zu Ehren des heiligen Apostels Paulus. Ebenso weihte er in jener Zeit, 19 Tage vor den Kalenden des Februar (14. 1.), in Spizzun einen Tempel zu Ehren der heiligen Jungfrau Margareta. In Termperk weihte er eine Kirche zu Ehren des heiligen Laurentius. Im selben Jahr weihte er auch die Kirche in Fizker und setzte in jedem Tempel einen Priester ein. Ebenso geschah es bei einer weiteren Gelegenheit, als er in dieses Land kam, um zu firmen und zu predigen, dass er sich an einem Ort namens Cella einfand, der Unzat gehörte, wo er einen zur Weihe vorbereiteten Tempel fand. Er weihte ihn also zu Ehren des heiligen Petrus, des Fürsten der Apostel, und setzte hier einen eigenen Priester ein. Die Kirche in Stradach weihte er zu Ehren des heiligen Stephan. In Werid wiederum blüht die dem heiligen Petrus, dem Fürsten der Apostel, geweihte Kirche. Außerdem weihte er noch drei Tempel: einen in Quartinaha, der dem heiligen Evangelisten Johannes geweiht ist, den zweiten in Muzziliheschirichun und den dritten in Ablanza, und in jeden setzte er einen eigenen Priester ein.\n14. Seit den Zeiten, da auf Entscheidung und Befehl des Herrn Kaiser Karl die Salzburger Oberpriester begannen, auch das Volk Ostpannoniens zu verwalten, sind 75 Jahre vergangen, in denen kein Bischof außer dem Salzburger in diesem Grenzgebiet irgendeine kirchliche Befugnis hatte. Auch wagte hier kein Priester, der von anderswoher gekommen wäre, länger als drei Monate zu wirken, bevor er dem Bischof seinen Entlassungsbrief vorlegte. Dieser Zustand erhielt sich hier so lange, bis der Philosoph Method mit neuen Lehren begann.\n",
+    "author": "Unbekannter Autor (Klerus des Erzbistums Salzburg)",
+    "source": "Conversio Bagoariorum et Carantanorum (871–873), Kap. 9–14"
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Die Schrift Conversio Bagoariorum et Carantanorum (9. Jahrhundert)",
+    "caption": "",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anmerkungen zu Personen und Daten: Samo – der fränkische König Dagobert regierte in den Jahren 629–639. Adalram war Salzburger Bischof (821–824) und Erzbischof (824–836). Ratbod war Markgraf der Ostmark in den Jahren 833–854. Mojmír war der erste bekannte mährische Fürst, er regierte von der Mitte der 20er Jahre des 9. Jahrhunderts bis zum Jahr 846. Pribina war der erste bekannte Neutraer Fürst, er regierte von der Mitte der 20er Jahre des 9. Jahrhunderts bis zum Jahr 833 in Nitra und von 840 bis 861 in Blatnohrad. Ludwig der Deutsche, ostfränkischer König, lebte um 805–876. Kocel, der Sohn Pribinas, war in den Jahren 861–876 Fürst von Blatnohrad. Salzburger Erzbischof war Adalwin in den Jahren 863–867 und 873–885. Die Weihe der Kirche in Nitra fand höchstwahrscheinlich im Jahr 828 statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

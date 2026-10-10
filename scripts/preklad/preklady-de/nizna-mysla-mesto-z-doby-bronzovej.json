@@ -1,0 +1,611 @@
+{
+ "slug": "nizna-mysla-mesto-z-doby-bronzovej",
+ "data": {
+  "title": "Nižná Myšľa – eine Stadt aus der Bronzezeit über dem Zusammenfluss von Hornád, Olšava und Torysa",
+  "slug": "nizna-mysla-bronzezeitliche-stadt-otomani",
+  "excerpt": "Auf der Erhebung Várhegy über dem Zusammenfluss von Hornád, Olšava und Torysa errichtete das Volk der Otomani-Kultur eine bedeutende befestigte Höhensiedlung. Zwei sich überlagernde Anlagen bestanden hier etwa 300 Jahre: die Siedlung I mit Erdwall und Spitzgraben, dann die siebenfach größere Siedlung II mit fast 7 ha Fläche. Sie lag an der Bernsteinstraße, lebte vom Metallguss und besitzt eine der umfangreichsten Nekropolen des Karpatenbeckens. Am Beginn der Mittelbronzezeit brannte sie nieder.",
+  "metaTitle": "Nižná Myšľa – befestigte Stadt aus der Bronzezeit",
+  "metaDescription": "Nižná Myšľa ist für seine reiche Bronzezeit berühmt: Das Volk der Otomani-Kultur errichtete auf der Erhebung Várhegy eine bedeutende befestigte Siedlung.",
+  "keyFacts": [
+   {
+    "label": "Dauer der befestigten Siedlung",
+    "value": "etwa 300 Jahre, zwei sich gegenseitig überlagernde befestigte Höhensiedlungen",
+    "icon": "calendar"
+   },
+   {
+    "label": "Fläche der Höhensiedlung I",
+    "value": "50 × 60 Meter",
+    "icon": "map"
+   },
+   {
+    "label": "Gräberfeld",
+    "value": "eine der umfangreichsten gleichzeitigen Nekropolen im Karpatenbecken, geschätzt bis zu 700 Gräber",
+    "icon": "users"
+   },
+   {
+    "label": "Lage am Handelsweg",
+    "value": "an der Kreuzung von Handelswegen einschließlich der Bernsteinstraße",
+    "icon": "flag"
+   },
+   {
+    "label": "Handwerk",
+    "value": "entwickelter Metallguss – steinerne Gussformen, Bronzegusskuchen und fertige Erzeugnisse",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1700 – 1400 v. Chr.",
+    "title": "Entstehung der befestigten Siedlungen der Otomani-Füzesabony-Kultur",
+    "description": "Auf dem Gebiet der Ostslowakei entstanden im Umfeld der Otomani-Füzesabony-Kultur befestigte Siedlungen und befestigte Höhensiedlungen von Handwerkern und Landwirten, unter ihnen auch Nižná Myšľa.",
+    "type": "founding"
+   },
+   {
+    "year": "unbekannt",
+    "title": "Höhensiedlung I – die älteste befestigte Siedlung",
+    "description": "Die älteste Siedlung entstand am südlichen Rand der Erhebung, die Befestigung verband bogenförmig die steilen Abstürze des Sporns; die Fortifikation bildeten ein mächtiger Erdwall und ein sechs Meter tiefer Spitzgraben. Das geschützte Areal hatte eine Fläche von 50 × 60 Metern.",
+    "type": "construction"
+   },
+   {
+    "year": "unbekannt",
+    "title": "Höhensiedlung II – siebenfache Erweiterung des Areals",
+    "description": "Am Beginn der Mittelbronzezeit vergrößerte sich das ursprüngliche Areal der Siedlung um das Siebenfache, durch die Aushebung eines neuen Grabens und die Errichtung eines neuen bogenförmigen Walles mit Stein-Erde-Holz-Konstruktion.",
+    "type": "construction"
+   },
+   {
+    "year": "um 1500 v. Chr.",
+    "title": "Die schwerste Krise und die Verstärkung der Befestigung",
+    "description": "Die Verstärkung der Befestigung im Rahmen der Höhensiedlung II und die Erhöhung der Einwohnerzahl deuten darauf hin, dass die Bewohner den Angriff eines Feindes mit großer militärischer Macht erwarteten.",
+    "type": "event"
+   },
+   {
+    "year": "1450 – 1500 v. Chr.",
+    "title": "Rituelle Opfer vor dem Untergang der Siedlung",
+    "description": "Durch die Untersuchung wurde festgestellt, dass Opfergegenstände und Menschenopfer in kurzen Zeitabständen etwa um 1450–1500 v. Chr. in die Grube geworfen wurden, als die Siedlung unterging.",
+    "type": "destruction"
+   },
+   {
+    "year": "unbekannt",
+    "title": "Untergang der befestigten Höhensiedlung",
+    "description": "Die Archäologen legten an der Stelle der Siedlung nur schwarze verbrannte Trümmer von Häusern und Gegenständen frei; es fanden sich keine Überreste von Gebäuden aus späteren Perioden, was darauf hindeutet, dass niemand mehr in die Siedlung zurückkehrte.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3375,
+    "caption": "Blick auf die Fundstelle. Übernommen von der Website Návrat na Várhegy",
+    "alt": "Blick auf die Fundstelle. Übernommen von der Website Návrat na Várhegy"
+   },
+   {
+    "mediaId": 3376,
+    "caption": "Häuser in der befestigten Siedlung",
+    "alt": "Häuser in der befestigten Siedlung"
+   },
+   {
+    "mediaId": 3377,
+    "caption": "Rekonstruktion eines Hauses aus der Bronzezeit",
+    "alt": "Rekonstruktion eines Hauses aus der Bronzezeit"
+   },
+   {
+    "mediaId": 3378,
+    "caption": "Ein Gesellschaftsspiel aus der Bronzezeit?",
+    "alt": "Ein Gesellschaftsspiel aus der Bronzezeit?"
+   },
+   {
+    "mediaId": 3379,
+    "caption": "Opfer einer rituellen Hinrichtung",
+    "alt": "Opfer einer rituellen Hinrichtung"
+   },
+   {
+    "mediaId": 3380,
+    "caption": "Goldschmuck",
+    "alt": "Goldschmuck"
+   },
+   {
+    "mediaId": 3381,
+    "caption": "Ein 3500 Jahre altes Spielzeug",
+    "alt": "Ein 3500 Jahre altes Spielzeug"
+   },
+   {
+    "mediaId": 3385,
+    "caption": "In der befestigten Siedlung finden Sie ein schönes rekonstruiertes Blockhaus aus der Bronzezeit",
+    "alt": "In der befestigten Siedlung finden Sie ein schönes rekonstruiertes Blockhaus aus der Bronzezeit"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nižná Myšľa ist eine ostslowakische Gemeinde an der Grenze zwischen dem Kaschauer Becken, dem Fuß der Slanské vrchy und dem Zusammenfluss der Flüsse Hornád, Olšava und Torysa. Von den übrigen ähnlichen Gemeinden unterscheidet sie sich jedoch deutlich durch ihre außerordentlich reiche Geschichte aus der Bronzezeit, als das Volk der Otomani-Kultur auf dem Gebiet von Nižná Myšľa eine bedeutende befestigte Höhensiedlung errichtete. Die befestigte Höhensiedlung lag auf der ausgeprägten Erhebung Várhegy über dem Zusammenfluss der genannten Flüsse, wobei es sich um eine strategisch vorteilhafte Lage in einer Meereshöhe von 217 Metern handelt. Die Archäologen bringen von dort Jahr für Jahr neue interessante Entdeckungen. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Gebiet der Ostslowakei entstanden im Umfeld der Otomani-Füzesabony-Kultur (etwa 1700 bis 1400 v. Chr.) befestigte Siedlungen oder befestigte Höhensiedlungen von Handwerkern und Landwirten. Außer Nižná Myšľa ist vor allem die befestigte Höhensiedlung Spišský Štvrtok sehr gut bekannt, die viele auch die Slowakischen Mykene nennen. Die befestigten Höhensiedlungen des Volkes der Otomani-Kultur (es wird angenommen, dass dieses Volk aus dem Gebiet Siebenbürgens in das Gebiet der Slowakei kam) wurden nicht nur zu Zentren der Produktion, sondern auch zu gesellschaftlich-administrativen und Machtzentren, die der gleichzeitigen Entwicklung den Charakter einer entwickelten Zivilisation verliehen. Siedlungen mit mächtiger Fortifikation und einer städtebaulichen Gliederung ihrer Areale, Kultplätze, Gräberfelder und Zeugnisse der materiellen und geistigen Kultur sind ein vielsagendes Zeugnis des Niveaus der damaligen Zeit und ein Beleg der schöpferischen Fähigkeiten, der Geschicklichkeit und des künstlerischen Empfindens der einstigen Bewohner der Ostslowakei."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die Fundstelle. Übernommen von der Website Návrat na Várhegy",
+    "alt": "Blick auf die Fundstelle. Übernommen von der Website Návrat na Várhegy",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bisherige Forschung weist darauf hin, dass wir es mit zwei sich gegenseitig überlagernden befestigten Höhensiedlungen aus der Zeit der Otomani-Kultur zu tun haben. Die befestigte Siedlung bestand dort etwa 300 Jahre. In der Periode, in die wir sie einordnen, entstanden in Eurasien mehrere Unruhen, deren Folge eine deutliche Bewegung der Bevölkerung war. Manchmal spricht man auch von der ersten Völkerwanderung. Konkret handelte es sich um die Konflikte der Hyksos in Ägypten, um den Zusammenbruch des Hethiterreiches, Mykenes und Kretas. Ganz Europa vom Süden bis zu den Britischen Inseln war von Kriegskonflikten und der Migration flüchtender oder einfallender Bevölkerung erfasst. Gerade in dieser Zeit bestand in dieser Siedlung Leben, und aus diesem Grund ist die Siedlung in Nižná Myšľa befestigt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Häuser in der befestigten Siedlung",
+    "alt": "Häuser in der befestigten Siedlung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung lag an der Kreuzung mehrerer Handelswege. Aus diesem Grund standen ihre Bewohner in Kontakt mit anderen, reicheren Kulturen, aber auch mit Völkern, die sie bedrohten. Von Süden waren es die mediterranen Kulturen und das Hethiterreich, von Norden wiederum die Kulturen aus der Umgebung der Ostsee. Da die Siedlung in Nižná Myšľa direkt an der Trasse der Bernsteinstraße lag, zudem an einer Stelle, wo diese sich mit anderen kreuzte, war zu erwarten, dass sie eine Menge Besitz angehäuft hatten. Unter anderem gibt es Belege dafür, dass die Bewohner der örtlichen Siedlungen bedeutende Händler mit Metallerzeugnissen waren, was damals eines der lukrativsten Sortimente war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bedingungen für die Entstehung und den schnellen Aufstieg der befestigten Siedlungen in der Ostslowakei beeinflusste ohne Zweifel auch die rasche Entwicklung der Metallurgie der Nichteisenmetalle. Das Aufsuchen und Verarbeiten von Kupfererz aus den örtlichen Lagerstätten und später auch die Herstellung von Bronzegegenständen beeinflussten die Entwicklung der bis dahin grundlegenden Produktionszweige und beschleunigten die gesellschaftliche Entwicklung des Volkes der Bronzezeit stürmisch. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung I."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Siedlung (befestigte Siedlung I) entstand am südlichen Rand der Erhebung, und ihre Befestigung verband bogenförmig die steilen Abstürze des Sporns. Die Fortifikation bestand aus einem mächtigen Erdwall und einem sechs Meter tiefen Spitzgraben, den man zweimal herrichtete und erweiterte. Das geschützte Areal der Siedlung mit einer Fläche von 50 × 60 Metern bebauten seine Bewohner mit rechteckigen einräumigen Häusern. Diese waren in zwei Reihen gruppiert, die durch eine Gasse getrennt waren, und folgten parallel dem Verlauf der Befestigung. Die Häuser mit Lehmböden waren wahrscheinlich von Blockbautyp mit steinernen Untermauerungen und Feuerstellen. Das Inventar bildeten neben reichen Keramikgefäßen auch steinerne Reibsteine und Unterlagen, Schlägel und Hauen, Gegenstände aus Bronze und Knochen sowie tönerne Webgewichte und Spinnwirtel. Diese Funde weisen auf den landwirtschaftlich-handwerklichen Charakter der Besiedlung hin und belegen die örtliche Verarbeitung von Grund- und Sekundärrohstoffen. Zu den bemerkenswerten Keramikfunden gehören tönerne Tierplastiken, kleine Frauenstatuetten und ein Depot von Krüglein, das unter dem Fußboden einer der Behausungen verborgen war. Der festgestellte zweifache Umbau des Fortifikationssystems der Siedlung I belegt deren längere, wahrscheinlich ununterbrochene Besiedlung. Beim letzten Umbau der Befestigung, der zeitlich bereits in den Beginn der Mittelbronzezeit fällt, kam es nicht nur zur Aushebung des mächtigsten, bis zu 20 Meter breiten Grabens, sondern auch zur Erneuerung des älteren, offenbar bereits zerstörten Erdwalls, dessen neue Frontmauer die Bewohner der Siedlung noch zusätzlich mit einer 1 Meter dicken Lössschicht verstärkten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion eines Hauses aus der Bronzezeit",
+    "alt": "Rekonstruktion eines Hauses aus der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der jüngste Siedlungshorizont war durch intensives Pflügen fast vollständig zerstört. Auf seine einstige Existenz weisen heute nur eingetiefte Wirtschaftsbefunde hin, die die ältere Siedlungsschicht und die Behausungen störten. Ähnliche eingetiefte Befunde, Lehmentnahmegruben, Vorrats- und Abfallgruben wurden im Vorfeld der befestigten Siedlung festgestellt und freigelegt. Wahrscheinlich bedeutete auch der nachfolgende Untergang des jüngsten Grabens, in dessen Verfüllung auffällig häufig auch Funde von Fragmenten menschlicher Knochen auftraten, keine Störung der Kontinuität der Besiedlung der Fundstelle. Die weitere, anschließende Besiedlung der Lage hing mit der Entstehung der neuen, weitläufigeren befestigten Siedlung II zusammen, als in das neue Areal sowohl der ursprüngliche Raum der Siedlung I als auch die Fläche des Gräberfeldes einbezogen wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung II"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch eine neue umfangreiche Bautätigkeit, die am Beginn der Mittelbronzezeit wahrscheinlich die anwachsende Bevölkerung der Siedlung oder ihre neuen Zuwanderer erzwangen (aber offenbar auch die Drohung militärischer Angriffe eines unbekannten Feindes), vergrößerte sich das ursprüngliche Areal der Siedlung um das Siebenfache. Durch die Aushebung eines neuen Grabens und die Errichtung eines neuen bogenförmigen Walles, diesmal mit einer Stein-Erde-Holz-Konstruktion, gewannen sie fast 7 ha befestigter Fläche, und damals verloren alle vorhergehenden Siedlungsformen und auch das Gräberfeld ihre ursprüngliche Bedeutung und gingen allmählich unter. Das Areal der neuen, außerordentlich weitläufigen Siedlung II war mit großflächigen Behausungen erneut von Blockbautyp bebaut, zu denen zahlreiche eingetiefte Wirtschaftsbefunde gehörten. Spuren der jüngeren Besiedlung wurden sowohl im Raum der ursprünglichen Siedlung I als auch in ihrem zum Teil bereits verfüllten Graben und auch über den älteren Gräbern erfasst. Die neue, mächtige und technisch vollkommenere Befestigungslinie hatte ebenfalls einen bogenförmigen Grundriss, und es scheint, dass ein wesentlicher Teil der Häuser erneut in einer Doppelreihe errichtet war, sich an die innere Wand des Walles anschmiegend. Leider wurden diese Behausungen, weil sie ursprünglich ebenerdigen Typs waren, durch das nachfolgende, Jahrhunderte andauernde intensive Pflügen in erheblichem Maße verwüstet. Von den Häusern haben sich nur verschleifte Reste ihrer steinernen Fundamente und der Steine erhalten, die ihre Pfostenkonstruktion verfestigten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Gesellschaftsspiel aus der Bronzezeit?",
+    "alt": "Ein Gesellschaftsspiel aus der Bronzezeit?",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dieser Zeit wurde der Metallguss zu einer der entscheidenden handwerklichen Tätigkeiten in der Siedlung, und das sicherte offensichtlich den Aufschwung und die Prosperität dieses Zentrums. Neben Dutzenden steinerner Formen zum Gießen von Bronzeerzeugnissen fanden sich in den Abfallgruben auch Bronzegusskuchen, zum Umschmelzen bestimmte Bronzegegenstände, Fehlgüsse und auch fertige Gegenstände. Durch einen einzigartigen Fund, den Torso einer Gussform, ist an der Fundstelle auch die örtliche Herstellung gegossenen Goldschmucks belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung II war nicht nur durch ihren außerordentlich großen Umfang und damit auch durch die Konzentration der Bevölkerung einzigartig, sondern sie war, wie die erfassten Reste der Steinfront des Walles bezeugen, auch ein bedeutendes Machtzentrum. In der Ostslowakei wurden gleichzeitige Steinmauern nur an der Fundstelle bei Spišský Štvrtok gefunden. Ähnlich wie dort war auch das Gräberfeld in Nižná Myšľa ein Zentrum des Kultes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Untergang der befestigten Höhensiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Opfer einer rituellen Hinrichtung",
+    "alt": "Opfer einer rituellen Hinrichtung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bewohner der befestigten Höhensiedlung erlebten nach Jahren der Prosperität und Blüte auch sehr schwere Zeiten. Die ernsteste Situation muss um 1500 v. Chr. eingetreten sein. Gerade die Verstärkung der Befestigung im Rahmen der befestigten Höhensiedlung II und die Erhöhung der Einwohnerzahl können darauf hindeuten, dass die Bewohner erwarteten, es könne sie ein Feind mit großer militärischer Macht angreifen, auf den man sich entsprechend vorbereiten musste. Doch auch die Verstärkung und Vergrößerung der befestigten Höhensiedlung retteten die Bewohner letztlich nicht vor der Katastrophe. Am Beginn der Mittelbronzezeit wurde die befestigte Höhensiedlung durch einen mächtigen Brand zerstört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dass in die Siedlung irgendwann noch einmal jemand zurückkehrte, darauf deutet nichts hin. An ihrer Stelle legten die Archäologen nämlich nur schwarze verbrannte Trümmer von Häusern und Gegenständen frei. Es fanden sich dort keine Überreste von Gebäuden aus späteren Perioden. Das ist eine interessante Erscheinung. In Ždaňa gibt es Belege aus der älteren Eisenzeit oder der jüngeren Bronzezeit. In der Umgebung finden sich auch Belege, die von der Anwesenheit von Menschen aus der keltischen Zeit, von der Ankunft der Germanen, der Slawen, der Awaren und vom Mittelalter zeugen. All das lag in der nahen Umgebung, doch die Stelle, an der die Siedlung von Nižná Myšľa stand, blieb verlassen. Wie ein Tabu. Das ist wirklich schon deshalb interessant, weil sie an einer vorteilhaften Stelle liegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der religiöse Kult"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Goldschmuck",
+    "alt": "Goldschmuck",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von einem entwickelten religiösen Kult zeugen unter anderem auch die Fundstellen von Opfergruben, in denen rituell Körperteile beziehungsweise ganze Menschen hingeworfen wurden. Blutige Kultriten, bei denen neben Tier- und anderen gewöhnlichen Opfern ausnahmsweise auch das Opfern von Menschen praktiziert wurde, waren mit Sicherheit von der Furcht vor Gefahr, vor Missernten oder vielleicht vor Krankheiten motiviert. Entdeckt wurden sie nicht nur in der Umgebung, sondern auch in Nižná Myšľa selbst. In sie warf man den unterirdischen Gottheiten Menschenopfer. Die letzte gefundene Opfergrube plant man im örtlichen archäologischen Museum auszustellen. In ihr wurden vier Leichen junger Mädchen gefunden. Nach den anatomischen Merkmalen waren es noch Jungfrauen. Ihre Hände waren über der Brust gekreuzt und zusammengebunden. Sie lagen in derselben Position, liegend auf dem Bauch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch die Untersuchung wurde festgestellt, dass sie in kurzen Zeitabständen in die Grube geworfen wurden, und zwar etwa um 1450–1500 v. Chr., als die Siedlung unterging. Daraus lässt sich schließen, dass es sich um heilige Opfer unmittelbar vor einem Kampf handelte und ihr Zweck darin bestehen sollte, die Gottheiten gerade den Bewohnern der Siedlung gewogen zu machen. Bei den Opfern wurden verschiedene Opfergegenstände gefunden wie Nahrung, Getreideähren, Gaben, aber zum Beispiel auch der gekochte Schädel eines etwa fünfjährigen Kindes. Es handelte sich also sicherlich um eine ernste Situation. Den Bewohnern der Siedlung halfen die Opfer jedoch offensichtlich nicht. Die Archäologen entdeckten nämlich nur verbrannte Ruinen und Anzeichen, die davon zeugen, dass das Niederbrennen der Siedlung nicht das Schlimmste war, was die Eroberer ihnen antaten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein 3500 Jahre altes Spielzeug",
+    "alt": "Ein 3500 Jahre altes Spielzeug",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einer der Abfallgruben fand man goldenen und bronzenen Schmuck. Das ist ein Beleg dafür, dass diese Kultur Schmuck aus Gold herzustellen vermochte, und eine Besonderheit ist die Tatsache, dass der Schmuck in einer Abfallgrube verborgen war, was davon zeugt, dass es sich um eine verzweifelte Flucht der Bevölkerung in der Zeit handelte, als die Eroberer sie angriffen. Auf der Flucht mussten sie die Wertgegenstände an einer Stelle verbergen, an der die Eindringlinge sie nicht finden würden. Dass sie nicht nach dem Schmuck zurückkehrten, zeugt davon, dass sie wohl getötet oder in die Sklaverei verschleppt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gräberfeld und seine Geheimnisse"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gräberfeld in Nižná Myšľa gehört zu den umfangreichsten gleichzeitigen Nekropolen, die aus dem Karpatenbecken bekannt sind. Wir nehmen an, dass die Gesamtzahl der Gräber etwa 700 betragen haben konnte. Die ältesten Gräber wurden am westlichen Hang der Erhebung ausgehoben, und das Gräberfeld erweiterte sich allmählich in Richtung Osten. Bestattet wurde in mehr oder weniger zusammenhängenden Reihen, es wurden auch eigenständige Gruppen, Grabnester, festgestellt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der befestigten Siedlung",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das durchgehende, etwa 200 Jahre andauernde allmähliche Bestatten der Toten in mehr oder weniger zusammenhängenden sieben Reihen spiegelt wohl verwandtschaftliche, traditionelle großfamiliäre Beziehungen der aufeinanderfolgenden Generationen wider. Die bislang freigelegten drei isolierten Grabgruppen mit einer Zahl von 8 bis 10 Individuen gehören nach den Grabbeigaben in den jüngsten Horizont des Gräberfeldes und repräsentieren vielleicht kleinere eigenständige Familien. Diese Grabnester wurden bislang nur am nördlichen Rand des Gräberfeldes festgestellt, ihr Grabinventar ist im Vergleich zu den Gräbern aus dem Kern des Gräberfeldes ärmer. In den Grabnestern trat jedes Mal nur ein Grab eines erwachsenen Mannes und 2 bis 4 Gräber von Frauen auf, der Rest waren Kindergräber. Diese eigenständigen Grabgruppen gehörten Zeitgenossen, die außerhalb der befestigten Siedlung lebten. Dass ihren Toten die Bestattung auf dem gemeinsamen Gräberfeld, aber isoliert, ermöglicht wurde, belegt vielleicht die Beziehungen der Bewohner der befestigten Siedlung zur umliegenden, offenbar ärmeren und wohl auch untergeordneten Bevölkerung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nižná Myšľa – Stadt aus der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ergebnisse der Untersuchung des Gräberfeldes haben bewiesen, dass die damalige Gesellschaft bereits sozial und wirtschaftlich differenziert war. Ein Beleg dafür sind die festgestellten Unterschiede in der Herrichtung der Grabgruben, die gelegentliche Verwendung verschiedener hölzerner Grabbehältnisse sowie die Zahl und Qualität des begleitenden Grabinventars. In der Regel waren die Gräber erwachsener, reicher und bedeutender Individuen größer und etwa zwei Meter tief. Gerade in den Gräbern von Kriegern, Jägern und Handwerkern fanden sich häufig Spuren einer kombinierten hölzernen Verschalung der Gruben oder Reste hölzerner Truhen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die archäologische Untersuchung des Gräberfeldes beweist, dass die Bewohner der Siedlung an ein Leben nach dem Tod glaubten. Die stereotype Lage der Toten in Hockerlage bedingte die sich wiederholende Anordnung ihres Grabinventars. Die Niederlegung der Gegenstände der persönlichen Ausstattung ging in der Regel von deren vorheriger praktischer Bestimmung aus. Vielfältiger Schmuck aus Bronze, Gold, Bernstein, Muscheln, Fayence, Knochen, Geweih und Zahn bildete einen Bestandteil der Herrichtung des Haares, der Körper, der Kleidung und des Totengewandes. Die Waffen waren bei den Händen niedergelegt oder dort, wo sie gewöhnlich getragen wurden. Das gilt besonders für Köcher mit Pfeilen hinter dem Rücken und für Dolche mit steinernen Wetzsteinen hinter dem Gürtel. Arbeitswerkzeuge, Halbfabrikate und Arbeitshilfen wurden am häufigsten zu den Füßen der Toten gelegt. Die Keramik, in der Nahrung und Getränke für das Leben nach dem Tod enthalten waren, legte man zu den unteren Extremitäten, seltener in den Schoß oder zum Kopf, und zwar unmittelbar vor den Mund oder hinter den Schädel. In Gräbern mit Holzkonstruktion kam gelegentlich ein Gefäß vor, das auf dem Deckel der Truhe lag. Die Zahl der Gefäße in den einzelnen Gräbern bewegte sich zwischen 1 bis 8 Exemplaren. Die Keramik wurde speziell für Grabzwecke hergestellt, nur selten wurde als Grabbeigabe ein Nutzgefäß aus der Siedlung verwendet. Die Grabkeramik war in der Regel schwach gebrannt, im Vergleich zu den Funden aus der Siedlung war sie jedoch wesentlich dekorativer. Die Variabilität der funeralen Keramik ist ebenfalls merklich geringer und beschränkt sich im Grunde auf die überwiegende Verwendung von Schalen, Krügen, Töpfen, Bechern und deren Miniaturnachbildungen. Ein einzigartiger Fund ist das tönerne Modell eines Wägelchens aus dem Kindergrab Nr. 40, das ursprünglich auch kultische Bedeutung haben konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nižná Myšľa – Stadt aus der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vielleicht die Furcht vor den Toten, aber auch andere Gründe führten die Hinterbliebenen manchmal zum nachträglichen Öffnen der Gräber und zur anschließenden Störung der körperlichen Überreste der Toten. In solchen Fällen kam es absichtlich entweder zur Abtrennung einzelner Körperteile, zur Entfernung der unteren Extremitäten oder zur Beschwerung des Brustbereichs mit einem Felsblock. Der Grund der genannten Handlungen war wohl der Glaube an die Existenz von Vampiren; die sekundären Eingriffe an den bestatteten Individuen hatten wahrscheinlich schützenden Sinn. Fast 30 Prozent der Gräber waren evident durch sekundäre Eingriffe gestört, die offenbar kurz nach ihrer Verfüllung erfolgten. Von den Eingriffen zeugen trichterförmige Schächte, die am häufigsten in den Bereich des Kopfes und des Brustkorbes der bestatteten Menschen geführt wurden. Ob es sich um Beraubung im eigentlichen Sinne des Wortes handelte oder um das rituelle Entnehmen der wertvollsten Grabbeigaben aus den Gräbern, lässt sich heute nur noch schwer bestimmen. Im Mittelpunkt des Interesses standen sicher Goldschmuck, Machtinsignien und massive Waffen aus der damals sehr wertvollen Bronze. Das Berauben der Gräber, das praktisch auf allen gleichzeitigen Gräberfeldern des Karpatenbeckens festgestellt wurde, war damals eine gesellschaftliche Erscheinung. Es konnte sich auch um einen erlaubten Akt handeln, dessen Motive komplizierten philosophisch-religiösen Vorstellungen über das Leben nach dem Tod entstammen konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

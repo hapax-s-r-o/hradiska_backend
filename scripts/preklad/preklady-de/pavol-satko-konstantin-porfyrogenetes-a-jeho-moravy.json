@@ -1,0 +1,994 @@
+{
+ "slug": "pavol-satko-konstantin-porfyrogenetes-a-jeho-moravy",
+ "data": {
+  "title": "Pavol Satko: Konstantin Porphyrogennetos und die Frage der „megale Moravia“",
+  "slug": "konstantin-porphyrogennetos-megale-moravia",
+  "excerpt": "„Megale Moravia“ – das Wort aus De administrando imperio dient bis heute als Argument im Streit über die Ausdehnung der Herrschaft der Mojmiriden. Pavol Satko liest den Text samt seiner Entstehungsgeschichte: Gewährsmann Konstantins VII. war Arpáds Enkel Termaču, und der Kaiser verortete das Land Svatopluks dort, wo zu seiner Zeit die „Türken“ saßen – von der oberen Theiß über Siebenbürgen bis zur Donau vor dem Eisernen Tor. Großmähren hat er damit nicht bezeichnet.",
+  "metaTitle": "Konstantin Porphyrogennetos und die „megale Moravia“",
+  "metaDescription": "Pavol Satko untersucht, was „megale Moravia“ im Werk De administrando imperio des byzantinischen Kaisers Konstantin VII. wirklich bezeichnet.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Pavol Satko",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Analyse der „megale Moravia“ in De administrando imperio und De Ceremoniis",
+    "icon": "scroll"
+   },
+   {
+    "label": "Konstantin VII.",
+    "value": "Byzantinischer Kaiser, regierte 944–959, verfasste das DAI 949–952",
+    "icon": "crown"
+   },
+   {
+    "label": "Fazit",
+    "value": "„Megale Moravia“ bezeichnet bei Konstantin nicht das Reich der Mojmiriden, sondern das Gebiet zwischen der oberen Theiß und Siebenbürgen, wo zu seiner Zeit die ungarische Stämmeföderation (HTF) lebte",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "874–892",
+    "title": "Möglicher Einfluss Svatopluks in der „megale Moravia“",
+    "description": "Nach einer Theorie konnte Svatopluk Machteinfluss auch im Gebiet der späteren „megale Moravia“ (Siebenbürgen) haben.",
+    "type": "event"
+   },
+   {
+    "year": "943",
+    "title": "Friedensvertrag mit der HTF",
+    "description": "Byzanz schloss mit der ungarischen Stämmeföderation (HTF) einen fünfjährigen Friedensvertrag.",
+    "type": "event"
+   },
+   {
+    "year": "944–959",
+    "title": "Regierung Konstantins VII. Porphyrogennetos",
+    "description": "Byzantinischer Kaiser, Autor der Werke De administrando imperio und De Ceremoniis.",
+    "type": "event"
+   },
+   {
+    "year": "948",
+    "title": "Besuch von Termaču und Bulču",
+    "description": "Arpáds Enkel Termaču und Fürst Bulču besuchten Konstantinopel – die Hauptquelle für Konstantins Informationen über die „megale Moravia“.",
+    "type": "event"
+   },
+   {
+    "year": "949–952",
+    "title": "Niederschrift des DAI",
+    "description": "Konstantin schrieb De administrando imperio als praktisches Handbuch für seinen Nachfolger Romanos II.",
+    "type": "event"
+   },
+   {
+    "year": "955",
+    "title": "Schlacht auf dem Lechfeld",
+    "description": "Nach der verlorenen Schlacht wurde Bulču in Regensburg durch Erhängen hingerichtet.",
+    "type": "event"
+   },
+   {
+    "year": "956–959",
+    "title": "Niederschrift des De Ceremoniis",
+    "description": "Konstantin stellte eine Sammlung von Regeln der kaiserlichen Korrespondenz und der Hofzeremonien zusammen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4200,
+    "caption": "Die Krönung des achtjährigen Konstantin zum Mitkaiser. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "Die Krönung des achtjährigen Konstantin zum Mitkaiser. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Die Krönung des achtjährigen Konstantin zum Mitkaiser. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "Die Krönung des achtjährigen Konstantin zum Mitkaiser. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vielfach begegnen Sie in Artikeln dem Hinweis, dass die heute verwendete Bezeichnung Großmähren sehr alt sei und sie schon vor langer Zeit der byzantinische Kaiser Konstantin VII. Porphyrogennetos verwendet habe, der in den Jahren 944–959 regierte. In seinem Werk De administrando imperio (im Folgenden nur „DAI“) steht die Wortverbindung „megale Moravia“, und sie ist eine Quelle von Polemiken bei der Bestimmung von Umfang und Lage der Besitzungen der Mojmiriden im 9. Jahrhundert. Vielfach nur deshalb, weil niemand das DAI gründlich liest, nichts über seine Entstehung weiß und so Unvereinbares verbindet. Sehen wir uns an, was Konstantin über die „megale Moravia“ tatsächlich und unter welchen Umständen geschrieben hat. Außer dem DAI ist für die Beschreibung Großmährens am Rande auch sein weiteres Werk De Ceremoniis aule byzantine (im Folgenden nur „Ceremoniis“) interessant sowie die Werke der damaligen byzantinischen Historiker. Es ist Zeit, eine weitere Polemik anzustoßen, und so beginnen wir mit Zitaten:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zitate aus De administrando imperio (DAI)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 13 Über die mit den Türken benachbarten Stämme:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "In der Nachbarschaft der Türken sitzen diese Völker: auf ihrer Westseite ist das Land der Franken, im Norden sitzen die Petschenegen und auf der Südseite ist das große Mähren, nämlich das Land Svatopluks, das diese Türken völlig verwüstet und in Besitz genommen haben. Von der Seite der Berge grenzen an die Türken die Kroaten.",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De administrando imperio, Kap. 13 – Über die mit den Türken benachbarten Stämme"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 38 Über die Herkunft des Volkes der Türken und darüber, woher sie stammen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Nach einiger Zeit fielen die Petschenegen die Türken an und vertrieben sie samt ihrem Fürsten Arpád. Die Türken wandten sich zur Flucht und suchten ein Land, in dem sie sich niederlassen könnten. So kamen sie, vertrieben das Volk, das das große Mähren bewohnte, ließen sich in ihrem Land nieder und wohnen hier bis heute. Seit jener Zeit trafen die Türken nie mehr mit den Petschenegen im Kampf zusammen.",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De administrando imperio, Kap. 38 – Über die Herkunft des Volkes der Türken"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 40 Über die Stämme der Kabaren und der Türken"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "...die Türken ließen sich nach der Vertreibung durch die Petschenegen in dem Land nieder, in dem sie heute sind. An diesem Ort befinden sich Landmarken aus alten Tagen. Als erste ist es die Brücke des Kaisers Trajan, die am Anfang des Landes der Türken liegt. Drei Tagesreisen von dieser Brücke entfernt ist Belgrad mit dem Turm des heiligen und großen Kaisers Konstantin. Auf dem Rückweg liegt an der Flusskrümmung, zwei Tagesreisen von Belgrad, das sogenannte Sirmium. Hinter diesen Orten erstreckt sich das große Mähren, das ungetaufte, das die Türken vernichtet haben und über das in vergangenen Tagen Svatopluk herrschte. Dies sind also die bedeutenden Punkte am Fluss Donau und ihre Namen. Die höher gelegenen Gebiete jedoch, die von den Türken besiedelt sind, werden gegenwärtig nach den Namen der Flüsse genannt, die hier durchfließen. Diese Flüsse sind die folgenden: der erste von ihnen ist die Temesch, der zweite Fluss die Tutis, der dritte Fluss die Mieresch, der vierte Fluss die Kreisch und noch ein weiterer Fluss die Theiß. Nachbarn der Türken sind auf der Ostseite die Bulgaren, wo sie der Fluss Istros, auch Donau genannt, trennt, im Norden die Petschenegen, im Westen die Franken und im Süden die Kroaten.“ und ebenso „Man muss wissen, dass Teveli gestorben ist und dass gerade sein Sohn Termaču unlängst (zu uns) als Freund gekommen ist, zusammen mit Bulču, dem dritten Fürsten und Karchas von Turkia",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De administrando imperio, Kap. 40 – Über die Stämme der Kabaren und der Türken"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 41 Über das mährische Land"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Man muss wissen, dass der Herrscher Mährens Svatopluk ein tapferer und bei den mit ihm benachbarten Völkern gefürchteter Mann war. Dieser Svatopluk hatte drei Söhne. Als er starb, teilte er sein Land in drei Teile und hinterließ jedem der Söhne einen Teil. Den ersten setzte er feierlich als großen Herrscher ein, mit der Bedingung, dass die beiden übrigen Söhne der Oberhoheit des ersten Sohnes unterstellt seien. Dann mahnte er sie, nicht in Zwietracht zu geraten und sich nicht gegeneinander zu stellen. Er zeigte ihnen folgendes Beispiel: Er brachte drei Ruten und band sie zusammen; er gab sie dem ersten Sohn, damit er sie zerbreche; als dazu seine Kräfte nicht ausreichten, reichte er sie erneut dem zweiten und auf dieselbe Weise auch dem dritten; dann teilte er die drei Ruten und reichte sie seinen Söhnen je einzeln; diese nahmen sie und zerbrachen sie auf seine Aufforderung hin auch. Mit diesem Beispiel mahnte er sie und sagte: Wenn ihr in Eintracht und Liebe leben werdet, werdet ihr unteilbar werden, die Feinde werden euch nicht überwinden und nicht besiegen. Wenn aber unter euch Zwist und Rivalität entstehen und ihr das Land in drei selbstständige, dem ersten Bruder nicht unterworfene Herrschaften teilt, werdet ihr euch gegenseitig vernichten, und auch die benachbarten Feinde werden euch völlig vernichten.\nNach Svatopluks Tod hielten die Brüder es ein Jahr im Frieden aus. Dann aber entstanden zwischen ihnen Zwist und Zerwürfnisse, und sie begannen, gegeneinander zu kämpfen. Da kamen die Türken und vernichteten sie völlig, bemächtigten sich ihres Landes und bewohnen es bis heute. Und die, die es überlebten, zerstreuten sich und flohen zu den benachbarten Stämmen, zu den Bulgaren, Türken, Kroaten und zu den übrigen Völkern.",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De administrando imperio, Kap. 41 – Über das mährische Land"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 42 Beschreibung der Gegenden von Thessaloniki bis zum Fluss Donau und bis zur Stadt Belgrad, Beschreibung von Turkia und des Landes der Petschenegen bis zur chasarischen Stadt Sarkel und der Rus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Man muss wissen, dass es von Thessaloniki bis zum Fluss Donau, wo die Stadt namens Belgrad liegt, acht Tagesreisen sind, falls der Mensch jedoch nicht schnell, sondern mit Unterbrechungen reist. Die Türken sitzen jenseits des Flusses Donau im Gebiet von Mähren, aber auch auf dieser Seite des Flusses, zwischen der Donau und dem Fluss Save.",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De administrando imperio, Kap. 42"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zitat aus De Ceremoniis aule byzantine (Ceremoniis)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Ceremoniis im Buch II im Kapitel 48. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Den Herrschern der Türken ein Brief mit goldenem Siegel und mit der Anrede: Brief des Kaisers von Konstantinopel und der christusliebenden Römer an die Fürsten von Turkia. Dieselbe Aufschrift und dasselbe Siegel auch auf dem Brief für die Fürsten der Petschenegen. Für den Fürsten von Kroatien, Serbien, Dioklea, Moravia, Terbunia, Kanalia, Zachlumia ein Brief mit der Anrede: Auftrag des christusliebenden Kaisers für den Herrscher der Provinz ... mit goldenem Siegel.",
+    "author": "Konstantin VII. Porphyrogennetos",
+    "source": "De Ceremoniis aulae byzantinae, Buch II., Kap. 48"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So viel an Zitaten, und nun gehen wir einige damalige Gegebenheiten durch, die mit diesem Teil des DAI verbunden sind, denn von ihnen hängt auch das richtige Verständnis des Textes ab. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum Konstantin „Türken“ schrieb."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gleich am Anfang sollten wir uns erklären, warum Konstantin und nach ihm einige Jahrhunderte lang auch andere byzantinische Chronisten und Herrscher die Bezeichnung Türken für jene Menschen verwendeten, die wir heute als „Altungarn“ bezeichnen und die der damalige Westen, einschließlich unserer Vorfahren, Ungarn (Uhri) nannte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Türken stammen aus dem Gebiet oberhalb des heutigen Nordchinas, von dem aus sie sich über Zentralasien und einen Teil Südosteuropas verbreiteten. Die Byzantiner trafen mit den Türken schon im Jahr 568 zusammen, und im Jahr 627 halfen die Türken Kaiser Herakleios zum Sieg über die Perser. Vierhundert Jahre lang kannten sie die Türken, und die Elite der „Altungarn“ im 10. Jahrhundert kam ihnen nicht nur durch Lebensstil, Kleidung und Kriegswesen wie Türken vor, sondern ein Teil dieser Elite war sicher auch türkisch. Diese „türkische“ Elite lebte damals im 7. Jahrhundert südlich des Flusses Kama gemeinsam mit einem finnougrischen Ethnikum, das aus dem südlichen Waldgürtel von der Westseite des Urals stammte. Wann es zur Unterwerfung der Finnougrier durch die Türken kam, können wir nicht genau bestimmen, aber es konnte erst nach dem Einfall der Türken in die südrussischen Steppen um das Jahr 559 geschehen, bei dem sie die Awaren in das Karpatenbecken vertrieben. Diese Ansicht hatte auch der aus Svätý Jur (Sankt Georgen) stammende Herman Wamberger oder Ármin Vámbéry. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Byzantiner unterschieden klar zwischen finnougrischer und türkischer Ethnizität, und obwohl sie die Bezeichnung Ungri kannten, verwendeten sie sie in jenen Zeiten selten. Der Name Uhri, Onoguri, Ungri drückt etwas wie ein Stämmebündnis aus, und nach Westen verbreiteten ihn die Slawen, entweder Kaufleute, die über die Wolga nach Persien reisten, oder die Kiewer, die ebenso wie die Ungarn einige Zeit Vasallen der mächtigen westlichen Göktürken – der Chasaren – waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer die „Türken“ zur Zeit Konstantins eigentlich waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nur gab es zwischen den „Türken“, die die Byzantiner zur Zeit des Kaisers Herakleios kennenlernten, und den „Türken“, über die Konstantin schreibt, einen Unterschied. Damals gehörten zu den finnougrisch-türkischen Stämmen schon auch die drei Stämme der Kabaren, die als erste in das Karpatenbecken vordrangen und zur Zeit der Niederschrift des DAI nach einigen Historikern an der oberen Theiß lebten. Vorherrschend ist die Ansicht, dass die Kabaren ihrer Herkunft nach Chasaren jüdischen Glaubens waren, die in einen Machtstreit mit dem höchsten Herrscher der Chasaren – dem Kagan – gerieten. Es gibt aber auch eine andere Ansicht, vor allem bei den muslimischen Geschichtsschreibern; nach ihnen waren die Kabaren Mohammedaner, die die „staatliche“ jüdische Religion der Chasaren nicht annahmen, und ihre Flucht nach Westen hatte einen religiösen Grund. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aber auch bei den Kabaren endet das Problem mit der Zusammensetzung des Ethnikums nicht, das im DAI unter dem Namen „Türken“ angeführt ist. Die persischen und chinesischen Geschichtsschreiber verwendeten die Bezeichnung Baschkire. Einige verstehen unter diesem Namen alle Ungarn, andere nur jene Ungarn, die Mohammedaner sind, und weitere nennen so eine andersartige Gruppe türkischer Herkunft aus Zentralasien, die als Gast bei den „Altungarn“ lebt. Wenn wir schon beim Wort Magyaren sind: Unserer heute verwendeten Bezeichnung am nächsten kommt die arabische Bezeichnung Magyaren (al-Maggarija) aus dem Jahr 870, als die „Türken“ noch nördlich des Schwarzen Meeres lebten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und schließlich dürfen wir nicht vergessen, dass zur Elite, die im Jahr 950 als „Türken“ bezeichnet wird, nicht nur jene Menschen gehörten, die um das Jahr 900 aus dem Osten in das Karpatenbecken kamen, sondern auch ein Teil der Elite der ursprünglichen Bevölkerung, der sich unterwarf und zu Vasallen wurde oder einem Bündnis beitrat. Davon zeugen die slawischen Namen der Heerführer, die die Angriffe der „Altungarn“ nach Westen anführten. Deshalb werden wir weder die Bezeichnung „Türken“ noch „Altungarn“ verwenden, sondern eine weitere, eine von jenen, die ungarische Historiker in englischen Artikeln verwenden. Zur Auswahl haben wir drei: Levedis Tribal Alliance, Hungarian Tribal Alliance oder Hungarian Tribal Federation. Diese mehrgliedrigen Bezeichnungen entsprechen verschiedenen Zeitabschnitten und auch einem verschiedenen Grad politischer und militärischer Zentralisierung. Für das Jahr 950 passt die letzte am besten, denn bei einer Föderation wird die Existenz eines Hauptvertreters vorausgesetzt, auch wenn vielfach mit begrenzter Befugnis. Diese vorzügliche Bezeichnung verwendete Sándor László Tóth, und sie berücksichtigt am besten den Zustand, in dem im Laufe der zweiten Hälfte des 10. Jahrhunderts das Geschlecht der Arpaden zum führenden Familienklan im Karpatenbecken wird. Eine „sklavische“ Übersetzung der Bezeichnung ins Slowakische als Maďarský kmeňový zväz (Ungarischer Stämmebund) ist aus dem oben Gesagten unpassend, und deshalb verwenden wir weiterhin für Konstantins „Türken“ nur die Kurzbezeichnung HTF. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "„Türken“ verfolgen die Bulgaren. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "„Türken“ verfolgen die Bulgaren. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein wenig Ordnung in die Namen Morava."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Problem der richtigen Auslegung des DAI und auch des Ceremoniis beruht auf dem Namen Morava, der eine verschiedene geographische, politische und historische Bedeutung hat. Damit wir nicht jedes Mal weitschweifig und genau beschreiben müssen, welches Morava wir meinen, müssen wir in den „Moravas“ mit Hilfe unterscheidender Namen Ordnung schaffen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Das in Ceremoniis erwähnte Morava, also das Land in Serbien am Fluss Große Morava, die vor dem Eisernen Tor von rechts in die Donau mündet, werden wir „"
+       },
+       {
+        "type": "text",
+        "text": "Provincia Moravia",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Das Morava, wo der Kern der Besitzungen der Mojmiriden lag, d. h. das Land an beiden Ufern der March, die unterhalb von Devín (Theben) von links in die Donau mündet, d. h. das Gebiet vom heutigen Olomouc (Olmütz) bis Devín, werden wir „"
+       },
+       {
+        "type": "text",
+        "text": "Niedermähren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Das Gebiet des von den Mojmiriden beherrschten Reiches, besonders zur Zeit der Regierung Svatopluks I., werden wir mit dem modernen Namen „"
+       },
+       {
+        "type": "text",
+        "text": "Großmähren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- Das Morava, so wie es Kaiser Konstantin verstand, wo die HTF lebte, werden wir „"
+       },
+       {
+        "type": "text",
+        "text": "megale Moravia",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ nennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entstehung von DAI und Ceremoniis"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach allgemein angenommener Ansicht schrieb Konstantin das DAI zwischen den Jahren 949 und 952 und das Ceremoniis in den Jahren 956 bis 959. Beide Werke wurden für das praktische Leben geschaffen. Das Ceremoniis sollte der Bewahrung der Traditionen dienen, die die kaiserliche Herrschaft und das byzantinische Reich festigten, und das DAI entstand als praktisches Handbuch für die Politik von Konstantins Nachfolger Romanos II. (938–963). Beurteilen wir das Geschriebene, aber in umgekehrter Reihenfolge, als die Aufzeichnungen entstanden. Zuerst das Ceremoniis und dann das DAI."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Eintrag in Ceremoniis"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dem umfangreichen Werk Ceremoniis gibt es einen Teil, der sich mit der kaiserlichen Korrespondenz befasst. In jenen, auch wenn manchmal feindlichen Zeiten, gab es zwischen den Herrschern eine kultivierte Form der wechselseitigen Korrespondenz. Auf die Art der einleitenden Anrede, den Gebrauch des richtigen Titels und die Qualität der beigefügten Siegel kam es wirklich an, und auch ein unbeabsichtigter Fehler konnte als Missachtung aufgefasst werden und Anlass zum Krieg geben. Byzanz führte eine lebhafte Korrespondenz von England bis Indien und kommunizierte außer mit den weltlichen Herrschern auch intensiv mit kirchlichen Würdenträgern. Konstantin schuf eine Sammlung von Regeln, bei der er von der langjährigen diplomatischen Praxis der kaiserlichen Verwaltung ausging. Es lässt sich annehmen, dass im Palast etwas wie ein Handbuch existierte, das aus einer Menge von Notizen und Korrespondenz bestand, und Konstantin schuf daraus eine aktualisierte Verwaltungsvorschrift. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Ceremoniis stehen die zeitgenössischen Titel der Herrscher jener Länder, mit denen das damalige Byzanz Korrespondenz führte, und die Anrede des Adressaten berücksichtigt auch die gegenseitige Machtstellung. Das Kapitel 48 ist ein Verzeichnis der Länder und Würdenträger um das Jahr 950. Das schon seit 50 Jahren nicht mehr existierende „Großmähren“ wird darin nicht erwähnt, denn Konstantin wusste von seinem Untergang. Leider erwähnte der Kaiser nicht einmal, ob irgendwann in der Vergangenheit eine Korrespondenz mit den Mojmiriden existierte, und so sind auf diesem Gebiet nur die Lebensbeschreibungen der beiden Slawenapostel die Quelle, deren Beweiswert nicht absolut ist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kaiser Michael III. (jener, der die Gesandtschaft Rastislavs empfing) empfängt die „Post“. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "Kaiser Michael III. (jener, der die Gesandtschaft Rastislavs empfing) empfängt die „Post“. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie aus dem Zitat zu sehen ist, schreibt der Kaiser in Ceremoniis über die Fürsten der HTF. Aus der Anrede ergibt sich, dass die Fürsten der HTF nicht von Byzanz abhängig sind. Was noch interessanter ist: Aus der Sicht von Byzanz sind die einzelnen Fürsten selbstständig und unterliegen nicht der Zentralmacht des arpadischen Großfürsten, denn es existiert keine andere, höhere Form der Korrespondenz direkt mit den Arpaden (eine andere Anrede, mehr goldene Siegel). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im selben Kapitel wird über ein Land mit dem Namen Morava gemeinsam mit Ländern wie Kroatien, Serbien, Dioklea und weiteren in Dalmatien und Illyrien geschrieben. Aus der Anrede seines Herrschers ergibt sich eine gewisse Unterordnung, auch wenn nur eine formale, und deshalb ist offensichtlich, dass es sich nicht um „Großmähren“ handelt. Die Reihenfolge der Länder in diesem Teil der Schrift schafft einen gewissen geographischen Zusammenhang. Das definiert zusammen mit der Anrede das dort erwähnte Morava als Gebiet am Fluss Große Morava in Mittelserbien und südlich der Donau. Diesen Schluss bestätigt auch ein Eintrag aus dem Jahr 975, der belegt, dass Adralestos Diogenes Strategos von Moravia ist. Es ist offensichtlich, dass niemand mit solchem Namen und Titel zu jener Zeit in „unserem“ Mähren lebte. In Ceremoniis ist eindeutig die „Provincia Moravia“ verzeichnet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Quelle von Konstantins Informationen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie die Aufzeichnungen im DAI aufmerksam lesen, ist es verblüffend, ein wie relativ kleines Gebiet – jenes, in dem die HTF saß – der Kaiser mit Flüssen definierte. Er verzeichnete die Namen der Flüsse im Einzugsgebiet der Theiß, erwähnt aber nicht die Waag und die Gran nördlich der Donau und auch nicht die Flüsse Leitha oder Raab in Transdanubien. Noch überraschender ist, dass er bei den Sitzen der HTF nicht die älteren römischen geographischen Bezeichnungen wie Pannonia I., Pannonia Valeria, Pannonia II. oder Savia verwendet und vor allem, dass er die Namen Sarmatia oder Dacia nicht verwendete. Die Ursachen dieser geographisch begrenzten Form der Aufzeichnung können zwei sein. Entweder lebte die HTF im Jahr 950 wirklich nur in dem erwähnten Gebiet, oder die Ursache ist die benutzte Informationsquelle, und möglicherweise auch beides. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 943 wurde der Konflikt zwischen Byzanz und der HTF durch einen fünfjährigen Friedensvertrag beendet. Viele bedeutende Mitglieder der HTF gerieten damals in byzantinische Gefangenschaft und wurden Geiseln. Im DAI im Kapitel 40 schreibt der Kaiser über den Besuch von Termaču und Bulču, der im Jahr 948 stattfand und den wahrscheinlich Friedensgespräche ausfüllten. Diesem Besuch folgten bis zum Jahr 952 noch zwei weitere. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zuerst ein erneuter Besuch Bulčus, bei dem sich Bulču taufen ließ, mit dem Titel Patrikios geehrt wurde und eine große Menge Geld erhielt. Der Historiker Skylitzes verzeichnete, dass Bulču nach der Rückkehr aus Konstantinopel dem Christentum abschwor und ihn deshalb die Strafe Gottes traf. Nach der verlorenen Schlacht am Fluss Lech im Jahr 955 wurde Bulču in Regensburg gehängt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum dritten Besuch kam der Archont (Fürst) Gylas – Gyula, der sich ebenfalls taufen ließ, ebenfalls den Titel Patrikios erhielt und sicher auch den entsprechenden Geldbetrag. Aber Gylas blieb im Unterschied zu Bulču ein gläubiger Christ und verließ Konstantinopel gemeinsam mit dem Mönch Hierotheos, der vom Patriarchen von Konstantinopel zum Bischof der „Türken“ ernannt worden war. Wahrscheinlich ist Gyula kein Name, sondern eher ein Titel, und der persönliche „heidnische“ Name des Fürsten war nach dem Historiker György Györffy Zombor. Zombor wurde in Konstantinopel mit dem Namen Stephan getauft. Die Wahl des Namens war überhaupt nicht zufällig. Stephan ist der Name des ersten Märtyrers des Christentums, und bei der Christianisierung neuer gentes pflegte man mit diesem Namen den höchsten Herrscher der Heiden zu taufen. Ebenso wie Gyula in Konstantinopel wurden auch der arpadische Großfürst Géza und sein Sohn Vajk mit dem Namen Stephan getauft. Die Taufe mit dem Namen des Erstmärtyrers konnte zwei Ursachen haben. Erstens verstand Konstantin Gylas-Zombor als den damals höchsten Herrscher der HTF, auch wenn er nach dem DAI von der führenden Rolle der Nachkommen Arpáds wusste. Das ist nicht unmöglich, und die Wirklichkeit konnte so gewesen sein, dass Gylas der mächtigste Fürst war. Das Machtverhältnis zwischen den einzelnen Fürsten veränderte die Schlacht am Fluss Lech vollkommen. Wahrscheinlich ist auch, dass es sich um eine übliche Art der byzantinischen Außenpolitik handelte, d. h. Zwist und Uneinigkeit unter den Feinden hervorzurufen – und die Fürsten der HTF, getaufte wie ungetaufte, waren Feinde von Byzanz."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Taufe Bulčus. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "Die Taufe Bulčus. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn Sie diese historischen Aufzeichnungen mit dem Satz über den Besuch von Termaču und Bulču vergleichen, ist klar, dass Konstantin jenen Teil des DAI, in dem die „megale Moravia“ erwähnt wird, während oder sehr kurz nach dem Besuch von Arpáds Enkel Termaču und des Karchas Bulču schrieb. Hätte er den Eintrag später vorgenommen, so hätte er sicher die Taufe Bulčus bei dessen zweitem Besuch erwähnt, gegebenenfalls auch die noch spätere Taufe des Gylas. Gleichzeitig ist zu sehen, dass er zu diesem Teil des DAI nie mehr zurückkehrte, um ihn zu aktualisieren. Aus allen Umständen und aus dem Inhalt selbst ergibt sich, dass die Quelle von Konstantins Informationen der Enkel des Fürsten Arpád, Termaču, und wahrscheinlich auch Termačus Dolmetscher war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum Termaču die Quelle ist"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im DAI im Kapitel 38 Über die Herkunft des Volkes der Türken und darüber, woher sie stammen, hielt der Kaiser außer dem zitierten Auszug ausführlicher die Genese der HTF fest. Aus dem Geschriebenen ist ein geradezu auffälliges Herausstreichen Arpáds und seines Vaters Álmoš zu sehen sowie die Betonung der führenden Rolle des Arpaden-Geschlechts innerhalb der HTF. Es lässt sich annehmen, dass die führende Rolle der Arpaden als Heerführer eine Stammestradition war, die noch aus den Steppen mitgebracht wurde. Die Vernichtung von Svatopluks „Niedermähren“ geschah unter der Führung Arpáds, und dieser bedeutende und für die weitere Entwicklung der HTF prägende Sieg festigte deren führende Position, mindestens aus der Sicht der arpadischen Fürsten selbst. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Niederlage und das Erhängen Bulčus. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "alt": "Die Niederlage und das Erhängen Bulčus. Quelle: The Illustrated Chronicle of Ioannes Skylitzes in Madrid",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der arpadische Familienklan saß im Jahr 950 in Pannonien in „Städten“ wie Veszprém, Gran (Esztergom) und Stuhlweißenburg, und die Byzantiner trafen zur Zeit Konstantins nur selten mit ihnen zusammen; möglicherweise fühlten sie sich deshalb von den Arpaden nicht bedroht, wovon der Eintrag zeugt, dass Termaču als Freund kam. Arpáds Enkel forderte wahrscheinlich kein „Schutzgeld“, und Termaču lieferte dem Kaiser, der ein neugieriger Gelehrter war, interessante und zur Aufzeichnung geeignete Informationen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es lässt sich nicht annehmen, dass Konstantin die Sprache der „Türken“ beherrschte, und schon gar nicht, dass Termaču Griechisch oder Latein konnte. Es musste übersetzt werden, und der Übersetzer war ein Slawe. In der Erzählung über Arpád verwendete Termaču, eher aber sein Dolmetscher, zwei slawische Wörter: vojvoda (Heerführer) und zákon (Gesetz), die Konstantin nicht ins Griechische übersetzte, sondern lautlich mit griechischen Buchstaben aufschrieb. Hätte ein Grieche übersetzt, der die Gegebenheiten in der HTF kannte, so wären diese Wörter nicht aufgetaucht, denn er hätte ihre griechische Entsprechung verwendet. Der Dolmetscher musste ein Slawe sein und eher ein Mönch oder Priester als ein Kaufmann. Und deshalb geschah es, dass Konstantin das Wort vojvoda und zákon als einzigartig und nur mit der HTF verbunden verstand, ähnlich wie er auch die Titel der Fürsten aufzeichnete. („Man muss wissen, dass dilas und karchas keine persönlichen Namen, sondern Würden sind.“) Schließlich ist das nicht ungewöhnlich; auf ähnliche Weise gelangte in seine Schrift Ceremoniis auch die slawische Bezeichnung Nemci (Deutsche) für die Bayern und später auch das slawische Wort „kralis“ als Titel der ungarischen Könige."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage Großmährens nach dem DAI"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Grundlage für das Verständnis von Konstantins Bezeichnung „megale Moravia“ ist der Name Morava, mit dem Termaču das Land bezeichnete, in dem Svatopluk herrschte und das die „Türken“ unter der Führung Arpáds nach dem Bürgerkrieg seiner Söhne vernichteten. Arpáds Enkel erklärte dem Kaiser aber die genaue geographische Lage von „Niedermähren“ nicht ausreichend, und wahrscheinlich kannte sie auch sein Dolmetscher nicht. Auf der Grundlage der Beschreibung, „dass der Herrscher Mährens Svatopluk ein tapferer und bei den mit ihm benachbarten Völkern gefürchteter Mann war“, bildete sich Konstantin die Vorstellung von einem großen Land. Dieser seiner Vorstellung entsprach das Gebiet, in dem zu seiner Zeit die HTF lebte. Deshalb beginnt Konstantins „megale Moravia“ am entgegengesetzten Ufer der Donau gegenüber der „Provincia Moravia“ und endet an der oberen Theiß, und durch sie fließen die Flüsse Temesch, Tutis, Mieresch, Kreisch und Theiß. Der Kaiser ergänzte noch, dass ein Teil der HTF nicht nur in der „megale Moravia“ sitzt, sondern auch zwischen der Donau und der Save. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem Eintrag im DAI ergibt sich unmittelbar, dass die „megale Moravia“ ungetauft ist (μεγαλη Μοραβια, η αβαπτιοτος). In dem Gebiet, in dem die HTF saß, fand vor dem Jahr 950 wahrscheinlich nie eine erfolgreiche Christianisierung statt. Dieses Gebiet, in dem überwiegend Slawen lebten, wurde von den Awaren beherrscht, die nach dem Jahr 800 der bulgarische Zar Krum besiegte, und es blieb bis zur Zeit der Ankunft der HTF unter dem Machteinfluss der Bulgaren. Auch wenn einige Historiker annehmen, dass die im Brief des bayerischen Erzbischofs aus dem Jahr 900 erwähnte „quaedam neophita gens“ (ein frisch getaufter „Stamm“) die Bewohner der oberen Theiß sein konnten, ist das wenig wahrscheinlich. Die Ansicht, dass man so zur Zeit Svatopluks das Gebiet an der oberen Theiß bezeichnete, ist eine neuzeitliche Erfindung. Im ganzen Gebiet der „megale Moravia“ wurde nur in Alba Iulia eine kleine Rotunde gefunden, die möglicherweise im Jahr 800 erbaut wurde, aber über das damalige Christentum ist nichts anderes bekannt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Natürlich ist es möglich, eine Theorie zu bilden, die die „megale Moravia“ mit „Niedermähren“ verbindet. Es gibt im Werk des Johannes Aventinus die Angabe, dass Svatopluk vor der Ankunft der HTF über „Dacia“ herrschte. Aventinus ging beim Schreiben seiner Annales Boiorum angeblich von verlorenen älteren Quellen aus. Svatopluk konnte vom Jahr 874 bis zum Jahr 892 Machteinfluss in der „megale Moravia“ haben, als König Arnulf die Bulgaren bat, den Mährern in jenem Gebiet den Ankauf von Salz nicht zu erlauben. Ein Beweis könnten die für mährisch gehaltenen Schmuckstücke sein, die im Gräberfeld von Ciumbrud unweit von Alba Iulia gefunden wurden. Jedenfalls ist die Besetzung dieses Gebiets durch Krieger der HTF im Unterschied zu „Niedermähren“ durch keinerlei Spuren von Kämpfen und Verwüstung dokumentiert. Es stellt sich die Frage, ob die HTF im Karpatenbecken um das Jahr 950 wirklich auch nach den materiellen Hinterlassenschaften hauptsächlich diesen vom Kaiser beschriebenen Teil bewohnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Schmuck aus Ciumbrud. Quelle: Madgearu 2006",
+    "alt": "Schmuck aus Ciumbrud. Quelle: Madgearu 2006",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die nomadische Lebensweise hinterlässt im Land keine Zeugnisse in Form bedeutender Bauten, aber im Land bleiben die Gräber der Nomaden. Uns interessieren natürlich nicht die Gräber aus der Zeit der Inbesitznahme des Karpatenbeckens, sondern die Gräber, die dem Jahr 950 nahe sind. Diese lassen sich an den Münzen und den christlichen Artefakten erkennen. Wenn wir die Funde byzantinischer Münzen betrachten, die wahrscheinlich Teil des Schutzgeldes für die „Neugetauften“ waren, und die Funde von Pektoralkreuzen, die mit der späteren byzantinischen Christianisierung verbunden sind, so decken sich beide Gebiete fast. Die meisten Kreuzchen wurden in Kindergräbern des „gemeinen Volkes“ gefunden, wie die ursprünglichen Bewohner ethnisch neutral genannt werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Natürlich kann das Siedlungsgebiet deutlich kleiner sein als das Gebiet des Machteinflusses. Nomadischer Brauch war es, die stärkste konkurrierende Macht im eingenommenen Raum auszurotten und aus den Schwächeren Vasallen oder Verbündete zu machen. Der Idealfall war die Aufnahme der kollaborierenden Elite in die eigenen Reihen. Vielen örtlichen Adligen, Großen und Herren auf den Burgwällen passte Svatopluks Zentralisierung der Macht und die wirtschaftliche Last der großen fürstlichen Gefolgschaft nicht, und sie unterwarfen sich aus Berechnung den Ankömmlingen. Anstelle der nie endenden Verteidigung des Landes gegen die Bayern und die Franken konnten sie sich als Vasallen „auf ungarische Art die Köpfe scheren“ und in Westeuropa plündern. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die drei Ruten Svatopluks."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Vorstellung eines Reiters der HTF um das Jahr 950 mit einem „fränkischen“ Schwert anstelle eines Säbels. Quelle: http://www.twcenter.net/",
+    "alt": "Vorstellung eines Reiters der HTF um das Jahr 950 mit einem „fränkischen“ Schwert anstelle eines Säbels. Quelle: http://www.twcenter.net/",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bestandteil des DAI ist auch die Begebenheit mit den drei Ruten des Königs Svatopluk. Diese Lehrerzählung gehört scheinbar nicht in das seriöse Werk eines gebildeten Herrschers, aber dass sie dort „festgehalten“ ist, hat seine Gründe. Man muss sich bewusst machen, dass das DAI weder eine Chronik noch ein Geschichtswerk ist, sondern ein praktisches Handbuch für den später herrschenden Sohn. Moralische Belehrungen zu schreiben war in jenen Zeiten keine Seltenheit, siehe die „Ermahnungen des heiligen Königs Stephan an seinen Sohn Emmerich“. Der zweite Grund, warum diese Erzählung im Teil über die „Türken“ und Svatopluk steht, ist der, dass sie dem Kaiser Arpáds Enkel erzählte und sie Konstantin gefiel. Auch wenn einige erwägen, dass sie ihren Ursprung in der griechisch-römisch-byzantinischen Kultur hat, ist diese Belehrung ihrer Herkunft nach nomadisch. Die alten Türken begannen ihren Zug in die Steppen Zentralasiens und Südrusslands aus demselben Raum wie später die Mongolen. In der Geheimen Geschichte der Mongolen steht dieselbe Erzählung, nur treten in ihr die Urmutter der Mongolen, ihre fünf Söhne und begreiflicherweise fünf Pfeile auf. Termaču wusste, dass die Slawen im Karpatenbecken keine Bogenschützen waren, und so verwendete er anstelle der Pfeile Ruten. Zwei erschienen ihm zu wenig, und so sprach er von drei. Der Christ Konstantin verstand dieses nomadische Gleichnis richtig und verlangte von Arpáds Enkel überhaupt nicht die Namen der drei uneinigen mährischen Prinzen. Wie die meisten Lehrerzählungen funktionierte auch diese nicht sehr gut, weder in Byzanz noch unter den Arpaden im frühen Königreich Ungarn. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schluss: Was Konstantin unter der Bezeichnung „megale Moravia“ eigentlich verstand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rot – von der HTF besiedeltes Gebiet, Blau – von der HTF beherrschtes Gebiet, Gelb – Münzfunde aus der Zeit Konstantins VII., Schwarz – Pektoralkreuze aus der Zeit der byzantinischen Christianisierung",
+    "alt": "Rot – von der HTF besiedeltes Gebiet, Blau – von der HTF beherrschtes Gebiet, Gelb – Münzfunde aus der Zeit Konstantins VII., Schwarz – Pektoralkreuze aus der Zeit der byzantinischen Christianisierung",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Konstantin bezeichnete so das Land von der oberen Theiß über Siebenbürgen bis zur Donau vor dem Eisernen Tor, wo zu seiner Zeit die „Türken“ lebten, mit denen er persönlich in Berührung kam. Auf der Grundlage der Erzählung von Arpáds Enkel Termaču verortete er in diesem Raum auch das Reich Svatopluks. Da er die „Provincia Morava“ kannte und Termaču ihm sagte, dass sie Morava vernichtet hätten, kam er zu dem Schluss, dass auf der gegenüberliegenden nördlichen Seite der Donau, gegenüber der „Provincia Morava“, ebenfalls ein Morava liege, nur ein größeres oder richtiger ein ausgedehnteres Morava. Er bezeichnete damit nicht das Reich der Mojmiriden, wie wir es heute tun."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
