@@ -1,0 +1,637 @@
+{
+ "slug": "pohanska-keltske-oppidum",
+ "data": {
+  "title": "Pohanská bei Plavecké Podhradie – ein keltisches Oppidum auf 49 Hektar",
+  "slug": "pohanska-keltisches-oppidum-plavecke-podhradie",
+  "excerpt": "Die Pohanská erhebt sich auf der Kote 497 am westlichen Abhang der Kleinen Karpaten über Plavecké Podhradie, nur 550 m von der Ruine der Burg Plavecký zámok. Schon vom Volk der Velatice-Kultur befestigt, wurde sie in der jüngeren Latènezeit zu einem keltischen Oppidum von 49 ha mit drei Wallringen. Hinter den Mauern arbeiteten Töpfer und Schmiede, drei Depotfunde enthielten Werkzeuge, einen Amboss und eiserne Barren. In der ersten Hälfte des 1. Jahrhunderts v. Chr. brannte das Oppidum nieder.",
+  "metaTitle": "Pohanská – keltisches Oppidum bei Plavecké Podhradie",
+  "metaDescription": "Das keltische Oppidum Pohanská (Kote 497) am westlichen Abhang der Kleinen Karpaten bei Plavecké Podhradie nahm 49 ha ein und war von drei Wallringen umgeben.",
+  "keyFacts": [
+   {
+    "label": "Fläche des Oppidums",
+    "value": "49 ha, geschützt durch drei Wallringe",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Höhe ohne Zinnen etwa 2,5 m, Breite 4 m; an den verwundbarsten Stellen eine doppelte Mauer (murus duplex)",
+    "icon": "shield"
+   },
+   {
+    "label": "Lage",
+    "value": "Kote 497, westlicher Abhang der Kleinen Karpaten, Gemarkung der Gemeinde Plavecké Podhradie",
+    "icon": "mountain"
+   },
+   {
+    "label": "Handwerk",
+    "value": "Töpferei, Schmiedehandwerk – Funde von drei Depots mit Werkzeugen einschließlich eines Ambosses und eiserner Barren",
+    "icon": "building"
+   },
+   {
+    "label": "Untergang",
+    "value": "die Daker nach ihrem Sieg über die Kelten am Neusiedler See unter König Burebista",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Jungsteinzeit",
+    "title": "Erste Spuren der Besiedlung",
+    "description": "An verschiedenen Stellen wurden mehrere geschliffene und geschlagene Steingeräte gefunden, die die ältesten Bauern wahrscheinlich bei der Jagd oder bei der Holznutzung verloren hatten.",
+    "type": "discovery"
+   },
+   {
+    "year": "ältere Bronzezeit",
+    "title": "Vereinzelte Funde",
+    "description": "Zu den vereinzelten Funden aus der älteren Bronzezeit gehört eine Bronzenadel mit durchbohrtem Kopf.",
+    "type": "discovery"
+   },
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Erste Höhensiedlung des Volkes der Velatice-Kultur",
+    "description": "Die erste Siedlung entstand in der jüngeren Bronzezeit – das Volk der Velatice-Kultur errichtete hier eine kleinere befestigte Höhensiedlung, besiedelt waren vor allem die Hauptburg und einige Terrassen.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Jahrhundert v. Chr.",
+    "title": "Entstehung des keltischen Oppidums",
+    "description": "In der jüngeren Latènezeit wurde die Pohanská zu einem keltischen Oppidum mit einer Fläche von 49 ha, geschützt durch drei Wallringe.",
+    "type": "construction"
+   },
+   {
+    "year": "1. Jahrhundert v. Chr.",
+    "title": "Untergang des Oppidums durch Brand",
+    "description": "Die Gegenstände vergrub man in der ersten Hälfte des 1. Jahrhunderts vor unserer Zeitrechnung in der Erde, damals ging die Pohanská wohl unter; das Oppidum ging durch einen Brand unter, wahrscheinlich bei einem Angriff der Daker nach ihrem Sieg über die Kelten am Neusiedler See.",
+    "type": "destruction"
+   },
+   {
+    "year": "1928",
+    "title": "Beschreibung des Oppidums durch Štefan Janšák",
+    "description": "Štefan Janšák beschrieb die Befestigung des Oppidums einschließlich des Verlaufs der einzelnen Wälle ausführlich.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3551,
+    "caption": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung",
+    "alt": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung"
+   },
+   {
+    "mediaId": 3553,
+    "caption": "Hortfund von Goldschmuck aus der Spätbronzezeit (SA 2020)",
+    "alt": "Hortfund von Goldschmuck aus der Spätbronzezeit (SA 2020)"
+   },
+   {
+    "mediaId": 3564,
+    "caption": "Magische Runen, in die die keltischen Druiden die GPS-Koordinaten des Oppidums kodierten – ohne sie zu entschlüsseln kommen Sie nicht zum Oppidum",
+    "alt": "Magische Runen, in die die keltischen Druiden die GPS-Koordinaten des Oppidums kodierten – ohne sie zu entschlüsseln kommen Sie nicht zum Oppidum"
+   },
+   {
+    "mediaId": 3565,
+    "caption": "Blick auf die Burg Plavecký hrad",
+    "alt": "Blick auf die Burg Plavecký hrad"
+   },
+   {
+    "mediaId": 3566,
+    "caption": "Der äußere Wall des Oppidums – dieser „Eingang“ wurde erst im Spätmittelalter durchbrochen, um Zugang zur Quelle (zum Brunnen) zu erhalten",
+    "alt": "Der äußere Wall des Oppidums – dieser „Eingang“ wurde erst im Spätmittelalter durchbrochen, um Zugang zur Quelle (zum Brunnen) zu erhalten"
+   },
+   {
+    "mediaId": 3567,
+    "caption": "Im Hintergrund der äußere Wall",
+    "alt": "Im Hintergrund der äußere Wall"
+   },
+   {
+    "mediaId": 3568,
+    "caption": "ein weiterer Blick auf den Wall",
+    "alt": "ein weiterer Blick auf den Wall"
+   },
+   {
+    "mediaId": 3569,
+    "caption": "Den Brunnen nutzten im Mittelalter die Herren der Burg Plavecký hrad",
+    "alt": "Den Brunnen nutzten im Mittelalter die Herren der Burg Plavecký hrad"
+   },
+   {
+    "mediaId": 3570,
+    "caption": "Blick vom unteren Teil in Richtung Hauptburg",
+    "alt": "Blick vom unteren Teil in Richtung Hauptburg"
+   },
+   {
+    "mediaId": 3571,
+    "caption": "Etwa der mittlere Teil des Oppidums",
+    "alt": "Etwa der mittlere Teil des Oppidums"
+   },
+   {
+    "mediaId": 3574,
+    "caption": "Der innere Wall, der die Hauptburg umgrenzt",
+    "alt": "Der innere Wall, der die Hauptburg umgrenzt"
+   },
+   {
+    "mediaId": 3575,
+    "caption": "Die Hauptburg",
+    "alt": "Die Hauptburg"
+   },
+   {
+    "mediaId": 3576,
+    "caption": "Sichtbare Gruben von archäologischen Ausgrabungen",
+    "alt": "Sichtbare Gruben von archäologischen Ausgrabungen"
+   },
+   {
+    "mediaId": 3577,
+    "caption": "Auf der Hauptburg befindet sich eine relativ weitläufige Ebene",
+    "alt": "Auf der Hauptburg befindet sich eine relativ weitläufige Ebene"
+   },
+   {
+    "mediaId": 3578,
+    "caption": "Der Rand der Hauptburg mit dem Wall",
+    "alt": "Der Rand der Hauptburg mit dem Wall"
+   },
+   {
+    "mediaId": 3579,
+    "caption": "Der Wall der Hauptburg",
+    "alt": "Der Wall der Hauptburg"
+   },
+   {
+    "mediaId": 3580,
+    "caption": "Sollte das eine Rekonstruktion einer keltischen Feuerstelle sein?",
+    "alt": "Sollte das eine Rekonstruktion einer keltischen Feuerstelle sein?"
+   },
+   {
+    "mediaId": 3581,
+    "caption": "heute Steinhaufen, vor 2300 Jahren bildeten sie vielleicht die Fundamente von Gebäuden",
+    "alt": "heute Steinhaufen, vor 2300 Jahren bildeten sie vielleicht die Fundamente von Gebäuden"
+   },
+   {
+    "mediaId": 3582,
+    "caption": "an mehreren Stellen sind Terrassen sichtbar",
+    "alt": "an mehreren Stellen sind Terrassen sichtbar"
+   },
+   {
+    "mediaId": 3583,
+    "caption": "Im Hintergrund der Wall der Hauptburg",
+    "alt": "Im Hintergrund der Wall der Hauptburg"
+   },
+   {
+    "mediaId": 3584,
+    "caption": "Detail des Walles",
+    "alt": "Detail des Walles"
+   },
+   {
+    "mediaId": 3585,
+    "caption": "Blick auf die Terrasse von der Hauptburg",
+    "alt": "Blick auf die Terrasse von der Hauptburg"
+   },
+   {
+    "mediaId": 3586,
+    "caption": "Terrassen von der gegenüberliegenden Seite der Hauptburg",
+    "alt": "Terrassen von der gegenüberliegenden Seite der Hauptburg"
+   },
+   {
+    "mediaId": 3587,
+    "caption": "Blick auf die Terrasse von der Hauptburg",
+    "alt": "Blick auf die Terrasse von der Hauptburg"
+   },
+   {
+    "mediaId": 3588,
+    "caption": "Einige weitere Blicke auf die Hauptburg",
+    "alt": "Einige weitere Blicke auf die Hauptburg"
+   },
+   {
+    "mediaId": 3590,
+    "caption": "Das sind die im Text erwähnten trichterförmigen Gruben – vielleicht Opferplätze",
+    "alt": "Das sind die im Text erwähnten trichterförmigen Gruben – vielleicht Opferplätze"
+   },
+   {
+    "mediaId": 3591,
+    "caption": "Blick in Richtung des höchsten Punktes des Oppidums",
+    "alt": "Blick in Richtung des höchsten Punktes des Oppidums"
+   },
+   {
+    "mediaId": 3592,
+    "caption": "Hervorragend sichtbarer Wall der Hauptburg",
+    "alt": "Hervorragend sichtbarer Wall der Hauptburg"
+   },
+   {
+    "mediaId": 3593,
+    "caption": "Weitere Blicke auf den inneren Ring der Befestigung",
+    "alt": "Weitere Blicke auf den inneren Ring der Befestigung"
+   },
+   {
+    "mediaId": 3597,
+    "caption": "Blick vom Oppidum auf die Burg – zwischen ihnen liegt ein Unterschied von etwa 2000 Jahren",
+    "alt": "Blick vom Oppidum auf die Burg – zwischen ihnen liegt ein Unterschied von etwa 2000 Jahren"
+   },
+   {
+    "mediaId": 3598,
+    "caption": "Der höchstgelegene Teil des Oppidums",
+    "alt": "Der höchstgelegene Teil des Oppidums"
+   },
+   {
+    "mediaId": 3599,
+    "caption": "Vom Gipfel der Hauptburg hat man eine schöne Aussicht – schade, dass die Sonne aus der falschen Richtung schien",
+    "alt": "Vom Gipfel der Hauptburg hat man eine schöne Aussicht – schade, dass die Sonne aus der falschen Richtung schien"
+   },
+   {
+    "mediaId": 3601,
+    "caption": "Noch einmal einige Blicke auf den Verlauf des inneren Walles",
+    "alt": "Noch einmal einige Blicke auf den Verlauf des inneren Walles"
+   },
+   {
+    "mediaId": 3604,
+    "caption": "Auf der Wallkrone",
+    "alt": "Auf der Wallkrone"
+   },
+   {
+    "mediaId": 3607,
+    "caption": "Der Weg zurück – der äußere Wall mit dem durchbrochenen Durchgang",
+    "alt": "Der Weg zurück – der äußere Wall mit dem durchbrochenen Durchgang"
+   },
+   {
+    "mediaId": 3608,
+    "caption": "Auf der Wandermarkierung finden Sie keine Information darüber, dass einige Dutzend Meter von dieser Stelle das keltische Oppidum beginnt. Ein für die Slowakei so typisches Bild",
+    "alt": "Auf der Wandermarkierung finden Sie keine Information darüber, dass einige Dutzend Meter von dieser Stelle das keltische Oppidum beginnt. Ein für die Slowakei so typisches Bild"
+   },
+   {
+    "mediaId": 3610,
+    "caption": "Pohanská, im Hintergrund auf dem Nachbarberg die mittelalterliche Burg",
+    "alt": "Pohanská, im Hintergrund auf dem Nachbarberg die mittelalterliche Burg"
+   },
+   {
+    "mediaId": 3611,
+    "caption": "Blick auf das Oppidum Pohanská",
+    "alt": "Blick auf das Oppidum Pohanská"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung",
+    "alt": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Pohanská erhebt sich auf der Kote 497 am westlichen Abhang der Kleinen Karpaten in der Gemarkung der Gemeinde Plavecké Podhradie. Nördlich von ihr, in einer Entfernung von 550 m, befindet sich die Ruine einer mittelalterlichen Burg, genannt Plavecký zámok. Die Pohanská bildet an diesen Stellen ein Vorgebirge, und zwar ein recht hohes, denn die höchsten Gipfel des mittleren Zuges der Kleinen Karpaten, der sich östlich von ihr hinzieht, überragen sie kaum um 60 m. Deshalb ist der Blick auf die Pohanská von Norden und Westen – wie auf einen Berg, der jäh aus der einförmigen Ebene aufsteigt – schön, ja hinreißend. Ebenso kann man bei guter Sicht von ihrem Gipfel mit den Augen einen weiten Horizont erfassen, von der Javorina im Nordwesten über die Umrisse der Weißen Karpaten, die Berge von Buchlov über Velehrad, die Pollauer Berge in Südmähren bis im Süden zum Wienerwald. Diese Umstände spielten sicher eine wichtige Rolle bei der Wahl des Ortes, als Zuflucht für die Bevölkerung und ihren Besitz, eines weitläufigen befestigten Sitzes der Stammesverwaltung, der öffentlichen wie der religiösen. Wie schon Štefan Janšák anführte, "
+       },
+       {
+        "type": "text",
+        "text": "kann man sich heute vom Gipfel der Pohanská nicht ohne Bewegung umschauen. Und was empfand erst der noch primitive Mensch, der sich alles durch übernatürliche Kräfte erklärte – die Tiefe des Tales, die Höhe des Berges und den fernen Horizont! Seinem Gott konnte er nirgends näher sein, dessen Macht und Kraft konnte er nirgends stärker empfinden als eben dann, wenn er sich hier befand. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Diesen Umständen ist es zu verdanken, dass die Pohanská wohl eine der größten geschlossenen, von zusammenhängenden Wällen umgebenen urgeschichtlichen Siedlungen in der Slowakei ist. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Geschichte"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Pohanská war schon in der Jungsteinzeit bewohnt. An verschiedenen Stellen wurden hier mehrere geschliffene und geschlagene Steingeräte gefunden, die die ältesten Bauern wahrscheinlich bei der Jagd oder bei der Holznutzung verloren hatten. Ähnlich lassen sich auch die vereinzelten Funde aus der älteren Bronzezeit interpretieren – eine Bronzenadel mit durchbohrtem Kopf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pohanská – keltisches Oppidum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Siedlung entstand erst in der jüngeren Bronzezeit. Das Volk der Velatice-Kultur errichtete hier eine kleinere befestigte Höhensiedlung. Besiedelt waren vor allem die Hauptburg und einige Terrassen, die offenbar schon in dieser Zeit hergerichtet wurden. Erkenntnisse über die Besiedlung in dieser Periode lieferten Keramikfunde. Typisch für die betreffende Zeit waren amphorenartige Formen, Vorratsgefäße, aber auch gewöhnliches Küchengeschirr – Töpfe, Teller, Schalen, Tassen. Bronzeartefakte sind, obwohl Bronze damals der grundlegende Produktionsrohstoff war, nur durch einige Messer, Nadeln oder Pfeilspitzen belegt. Das deutet darauf hin, dass es sich vielleicht nur um eine militärische Fortifikation handelte, in der sogar Belege handwerklicher Tätigkeit fehlen, die im Umfeld dieser Zeit sonst geläufig war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hortfund von Goldschmuck aus der Spätbronzezeit (SA 2020)",
+    "alt": "Hortfund von Goldschmuck aus der Spätbronzezeit (SA 2020)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Höhepunkt der Geschichte der Pohanská trat mit der Ankunft der Kelten ein. Schon zur Zeit ihrer Ankunft in Mitteleuropa war ihre Gesellschaft strukturiert und hierarchisch organisiert. Den Bau befestigter Höhensiedlungen verstanden sie deshalb als logische Notwendigkeit. Die Kelten waren gleichzeitig hervorragende Handwerker, vor allem in der Metallverarbeitung, in der Töpferei und dergleichen. Diese Gegebenheiten spiegelten sich auch darin, dass die befestigten Höhensiedlungen außer Machtzentren auch zu Zentren des Handwerks und des Handels wurden, zu denen selbstverständlich noch der Kult hinzukam. Den genannten Typ keltischer befestigter Höhensiedlungen nennen wir Oppidum. In der jüngeren Latènezeit (etwa im 2. Jahrhundert vor unserer Zeitrechnung) wurde auch die Pohanská zu einem solchen Oppidum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Oppidum auf der Pohanská nahm eine Fläche von 49 ha ein. Diesen Raum schützten drei Wallringe. Der äußere Ring bildete einen gewissen Halbkreis, der nach Nordosten gedreht war. Eine ähnliche Form verfolgten die Erbauer auch bei der Vermessung des mittleren Walles. Die Hauptburg war durch einen dritten, wesentlich kleineren Ring geschützt, der dem Verlauf der Höhenlinien am konsequentesten folgte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pohanská – keltisches Oppidum",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Štefan Janšák beschreibt die Befestigung des Oppidums folgendermaßen (die Bezeichnungen der Wälle in der Beschreibung entsprechen seiner Zeichnung auf der Abbildung oben): "
+       },
+       {
+        "type": "text",
+        "text": "Der Zugang zum Burgwall führte einst von der östlichen Seite durch ein bis heute relativ gut erhaltenes Tor. Die doppelten Wälle biegen sich in die Richtung des Weges, um eine Art Verteidigungsbasteien am Eingang zu bilden. Die zusammenhängenden Wälle sind die folgenden: der äußere g h = 750 m, h i f = 1250 m; der innere a b c = 850 m, c d = 700 m. Die von diesen Wällen umgrenzte Fläche beträgt 38,2 ha und ist mit Buchen- und Eichenwald bewachsen. Dieser erste Teil des Burgwalls liegt an den Abhängen des Berges Pohanská, den die Wälle an seinem Fuß umschlingen. Zwischen dem Eingang in den Burgwall und seinem höchsten Punkt beträgt der Höhenunterschied 117 m. Die flache Kuppe des Berges, nach Osten und Südosten geneigt, ist auf der nordwestlichen, westlichen, südlichen und südöstlichen Seite von einem Wall s r l o p = 480 m umschlungen und durch eine parallele Schanze j k = 300 m geschützt. An den Kern schließen zwei strahlenförmige Wälle l m = 120 m und l n = 70 m an. Insgesamt beträgt somit die Länge aller künstlich angelegten Wälle 4520 m und der äußere Umfang des Burgwalls a b h i e f r a = 2475 m.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der Wall g h schließt im Punkt g an den steilen Felsen an, auf dem die Ruine der historischen Burg steht, und schützt so den Sattel zwischen den Koten 497 und 419 gegen einen Einfall von nordöstlicher Seite. Der Wall h f bricht sich dreimal im rechten Winkel in den Punkten i, e, ei und schließt im Punkt f an den steilen Hang an. Der Wall j k schützt den relativ leichten Zugang von Nordwesten, wobei seine beiden Enden an felsige, steile Ausläufer anschließen. Ebenso endet auch der Wall a b mit seinem Punkt a in steilem Terrain. Der Wall s r l o p schützt die Gipfelplattform als Kern oder Akropolis dieser Siedlung. An der Stelle p s verhindert eine felsige Klippe den Zugang. Die strahlenförmigen Wälle l m, l n schließen den Burgwall gegen einen möglichen Zugang von der Seite r f ab. Alle Wälle sind sehr deutlich und ragen 0,5 bis 2,00 m über das Terrain hinaus. Nur im Raum zwischen h und i, wo sich bebaute Grundstücke ausbreiten, verlieren sich die Wälle und hinterlassen nur eine unbedeutende, 10–20 cm hohe flache Welle. Der Zugang zum Burgwall erfolgte durch das Tor h c. Von dort stieg man zur Akropolis auf einem künstlichen, leicht ansteigenden, stellenweise in den Felsen gehauenen Weg c o hinauf, der beim Tor o in den Kern des Burgwalls mündete.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Eine Besonderheit dieses Burgwalls sind die zwei Quellen Pi, P2, die sich hinter den Schutzschanzen befinden. Beide ermöglichten einen langen Aufenthalt auch einer größeren Menge von Menschen und Vieh im geschützten Bereich. Die Quelle Pi diente auch der Versorgung der mittelalterlichen Burg. Sie bewahrt Reste guter Mauern, die ihrer Fassung und ihrer Reinhaltung dienten. Gewiss war der Wall im Punkt b zum Zweck der Verbindung mit dieser Quelle durchgegraben worden.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Der interessanteste Teil des Burgwalls ist sein Kern o p s r o. Er liegt 117 m höher als das Tor h c; auf den weniger steilen Seiten p o r s schützen ihn Wälle, von Nordosten an der Stelle /; s ist eine steile Felsklippe. Die Plattform des Gipfels neigt sich in östlicher und südöstlicher Richtung (Abb. 2) und stellt sich so möglichst günstig zur Sonne. Auf ihrer Oberfläche liegt eine starke Kulturschicht aus schwarzem Humus, der stellenweise sogar Ruß gleicht und mit einer Menge Scherben durchmischt ist. Weiter befinden sich dort trichterförmige Gruben, von denen die größten einen Durchmesser von 15 m haben und 5 m tief sind. Diese künstlichen Anlagen nennt die französische Fachliteratur „mardely“. Über ihren Zweck auf der Pohanská lässt sich ohne vorhergehende Grabung schwer etwas sagen. Fachleute halten sie für gemeinschaftliche Wohngruben. In der Slowakei wurden sie bislang auf keinem einzigen Burgwall festgestellt.",
+    "author": "Štefan Janšák",
+    "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pohanská – keltisches Oppidum",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Festungsmauern waren aus Lehm und in Reihen gesetzten, trocken gesetzten und grob behauenen Steinen aus dem örtlichen Sandstein errichtet, die die Steinfront bildeten. Die Konstruktion verfestigten mächtige hölzerne Pfosten. Ähnlich bauten die Kelten die Festungen in Gallien – es handelte sich um den sogenannten murus gallicus. Von der inneren Seite war die Befestigung über eine Erdaufschüttung zugänglich. Der Wehrgang war wahrscheinlich durch hölzerne Zinnen geschützt. Die Höhe der Befestigung ohne Zinnen lässt sich auf etwa 2,5 m, ihre Breite auf 4 m schätzen. Pavel Dvořák führt an, dass vorn eine Mauer aus trocken (ohne Mörtel) gesetzten Steinen stand, dahinter ein Lehmwall mit Holzkonstruktion. An den strategisch verwundbarsten Stellen stand eine doppelte Mauer, „murus duplex“ (den Lehmwall begrenzten zwei Mauern, die hintere höher als die vordere). Der bauliche Höhepunkt der Pohanská war das Eingangstor zur Hauptburg, der höchsten, besonders befestigten Stelle. Zu ihm führte ein nach innen gebrochener Weg, der von beiden Seiten von einer Mauer gesäumt war. Den Eingang verschloss ein solides, aus dicken Balken errichtetes hölzernes Tor, wie der Fund eines langen eisernen Nagels zeigt. Wer das Tor erobern wollte, musste Verteidiger angreifen, die nicht nur von beiden Seiten des gebrochenen Walles herandrängten, sondern auch von einem hohen, mächtigen hölzernen Turm, der auf Pfeilern über dem Tor stand. Der Pfosten, der ihn in der Mitte stützte, teilte den Weg zur Hauptburg in zwei Ströme. Eine so durchdachte Befestigung konnte nur ein erfahrener Baumeister und Hunderte von Arbeitern errichten. Die hohe Organisation der Gesellschaft bestätigen auch weitere Funde, zum Beispiel fünf große Vorratsgefäße nicht weit vom Wall. Für eine Familie waren sie zu groß, sie müssen der organisierten Versorgung gedient haben (mindestens in Zeiten einer Belagerung)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pohanská – keltisches Oppidum",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinter den Mauern des Oppidums waren mehrere handwerkliche Werkstätten ansässig und tätig. Die zahlreichste Gemeinschaft bildeten außer den Töpfern die Schmiede. Wenn wir vom Fundbestand ausgehen, stellten sie landwirtschaftliche und handwerkliche Geräte, Gegenstände des täglichen Gebrauchs und sogar Schmuck oder Fibeln her. Archäologisch belegt sind Lebensmittelproduzenten, Händler und selbstverständlich Krieger. Unter den Wurzeln eines Baumes fanden sich eine Schmiedeschaufel, Äxte, ein Bohrer, ein Meißel, eine Sense, eine Schere, ein Hakenschlüssel und eine Schwertscheide, alles wahrscheinlich in Eile in einer Schmiedeesse zusammengerafft (in der Kollektion befanden sich fertige Erzeugnisse, Halbfabrikate, aber auch beschädigte, zur Reparatur bereitgelegte Dinge). Der zweite Schatz – ein Depotfund (in ihm befand sich auch ein schwerer Amboss) – lag neben einem auffälligen Felsblock, mit dem der unglückliche Besitzer sich den Weg zu seinem Eigentum markiert hatte. Im dritten Depotfund befanden sich eiserne Barren, die nicht nur als Rohstoff, sondern auch als primitives Zahlungsmittel dienten. In dem Depotfund befanden sich auch eiserne Fesseln, offenbar als Belege einer organisierten Strafgewalt, und Waagen für Goldmünzen als schlagender Beweis für den Geldhandel. Die Gegenstände vergrub man in der ersten Hälfte des 1. Jahrhunderts vor unserer Zeitrechnung in der Erde, damals ging die Pohanská wohl unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pohanská – keltisches Oppidum",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Oppidum ging durch einen Brand unter, doch die konkreteren Gründe – ob es Feinde waren (Daker? Germanen?), der Ausbruch eines Brandes durch Unachtsamkeit oder ein innergesellschaftlicher Konflikt – konnten nicht ermittelt werden. Nach meiner Ansicht deuten jedoch die vergrabenen Schätze, die ihre Besitzer nicht mehr gehoben haben, eher darauf hin, dass das Oppidum unter einem Angriff von Feinden fiel. Wenn wir von der Mitte des 1. Jahrhunderts v. Chr. sprechen, dann muss man mit der ziemlich realen Möglichkeit rechnen, dass das Oppidum von den Dakern zerstört wurde, die in der Mitte des 1. Jahrhunderts im Gebiet der heutigen Slowakei die keltische Bevölkerung, geschwächt durch die Kämpfe mit Rom, militärisch beherrschten. Über das Schicksal der Kelten entschied die Schlacht nicht weit vom Neusiedler See, wo sie im ersten Jahrhundert vor unserer Zeitrechnung eine Niederlage gegen das dakische Heer erlitten, das König Burebista anführte. Nach diesem Sieg begannen die Daker allmählich das keltische Gebiet zu besetzen. Seine Funktion übernahm wahrscheinlich das neu entstehende Oppidum auf dem Gebiet des heutigen Bratislava (Pressburg). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Verwendete Literatur:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.vydavatelstvorak.sk/product/stopy-davnej-minulosti-2-slovensko-v-staroveku-9/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dvořák P.: Stopy dávnej minulosti 2 (Slovensko v staroveku), Rak, 2003"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "\n \n Vladimír Turčan und Kollektiv: Archeologické pamiatky – Kultúrne krásy Slovenska, Dajama, 2009\n \n Janšák, Štefan. Niektoré Novoobjavené Hradiská Slovenské. Turč. sv. Martin: Muzeum Slov. Spol., 1928\n \n Abbildungen der Funde: Jozef Paulík: Najstaršie hromadné nálezy železných predmetov na Slovensku, Zborník SNM 1970"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "BARTÍK, ČAMBAL, LIESKOVSKÝ. POHANSKÁ PRI PLAVECKOM PODHRADÍ – Nové poznatky o hradisku z mladšej a neskorej doby bronzovej, SA 2020 \n \n "
+       },
+       {
+        "type": "text",
+        "text": "Pohanská 28. 1. 2012:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

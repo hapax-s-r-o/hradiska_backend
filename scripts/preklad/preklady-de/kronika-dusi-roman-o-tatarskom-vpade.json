@@ -1,0 +1,158 @@
+{
+ "slug": "kronika-dusi-roman-o-tatarskom-vpade",
+ "data": {
+  "title": "Kronika duší – ein Roman über den Tatareneinfall",
+  "slug": "kronika-dusi-roman-ueber-den-tatareneinfall",
+  "excerpt": "Gute Romane, die im Mittelalter im Gebiet der heutigen Slowakei spielen, sind dünn gesät – darum stellen wir hier den gesamten Roman von Pavol Satko zum kostenlosen Herunterladen bereit. Er ist in die Zeit des Tatareneinfalls in das Königreich Ungarn in den Jahren 1241 und 1242 versetzt. Lesen Sie die kurze Einführung des Autors, der erklärt, wie er Quellen, Archäologie und Erfindung verbunden hat; am Ende steht der direkte Link zum Buch.",
+  "metaTitle": "Kronika duší – ein Roman über den Tatareneinfall",
+  "metaDescription": "Der historische Roman Pavol Satkos spielt im Tatareneinfall in das Königreich Ungarn 1241–1242 und ist kostenlos herunterzuladen – mit dem Vorwort des Autors.",
+  "keyFacts": [
+   {
+    "label": "Werk",
+    "value": "Roman von Pavol Satko über den Tatareneinfall (kostenloser Download)",
+    "icon": "star"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "Tatareneinfall in das Königreich Ungarn, 1241–1242",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1241–1242",
+    "title": "Der Tatareneinfall",
+    "description": "Kern der Geschichte; Quellen Carmen miserabile, Historia Salonitana.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5898,
+    "alt": "Gemälde eines Reiterheeres mit Banner, das durch die Ebene zieht"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Freude bieten wir Ihnen auf unserer Website die Möglichkeit, den gesamten Roman von Pavol Satko herunterzuladen, der in die Zeit des Tatareneinfalls in das Gebiet des Königreichs Ungarn in den Jahren 1241 und 1242 versetzt ist. Gute Romane, die im Mittelalter im Gebiet der heutigen Slowakei spielen, sind dünn gesät, und darum glaube ich, dass das Buch möglichst viele Leser finden wird und sich in Zukunft vielleicht auch ein Verlag findet, der es herausbringen würde. Lesen Sie die kurze Einführung des Autors zu seinem Roman – und am Ende entdecken Sie den direkten Link zum Herunterladen des Buches auf Ihren PC oder Tablet.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Kronika duší: ein Roman über den Tatareneinfall",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Tatareneinfall, wie das Ereignis genannt wird, das den Kern der Geschichte meines Buches bildet, fand in den Jahren 1241 und 1242 statt. Zu dieser Zeit war im Königreich Ungarn die Anfertigung schriftlicher Aufzeichnungen bereits üblich. Geschrieben wurden nicht nur Donationsurkunden in der königlichen Kanzlei, sondern auch Verträge, Urteile und selbstverständlich die diplomatische Post, die kirchliche wie die staatliche. Sogar die ersten Chroniken tauchten schon auf, und eine von ihnen, die sogenannte Ungarisch-Polnische Chronik, entstand unmittelbar vor dem Einfall am Hof Kolomans von Halitsch. Leider gibt es keine ungarische Chronik über den Tatareneinfall. Die Informationsquellen sind hauptsächlich zwei Werke, Carmen miserabile und Historia Salonitana, die italienische Kleriker schrieben. In Ungarn selbst gab es niemanden, der die Ursachen, den Verlauf und die Folgen des Tatareneinfalls beschrieben hätte. Man mag es nicht glauben, aber so ist es; vielleicht schrieben sie nicht darüber, weil er allzu schmerzhaft war. Doch nicht nur das damalige Königreich Ungarn, sondern auch die heutige Slowakei hat kein geschlossenes und umfangreiches Werk über den Tatareneinfall und seine Folgen. Außer einigen Absätzen in verschiedenen historischen Überblicken und Sammelwerken ist der einzige wirklich historische Artikel „Vpády Mongolov na Slovensko v roku 1241“ von František Uličný, veröffentlicht in Vojenská história 3/2004. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Auch ich habe kein historisches Buch über den Tatareneinfall geschrieben, denn ich bin kein Historiker. Ich habe etwas wie History-Fiction geschrieben, habe mich aber dennoch bemüht, bei den Fakten zu bleiben. Die Angaben in den Werken der Historiker habe ich bewertet und gegebenenfalls korrigiert. Ich habe dabei Ergebnisse archäologischer Ausgrabungen, neue Erkenntnisse über die Mongolen und Aufzeichnungen islamischer und chinesischer Chronisten verwendet. Ich habe 12 GB an authentischen Quellen (der Google-Übersetzer hat deshalb zwei Lateinlehrer in Vollzeit eingestellt), historischen Büchern, Diplomarbeiten und Artikeln gelesen.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Auf dem Fundament des Erkannten habe ich eine romantische Geschichte aufgebaut. Ich habe die Schicksale historischer Männer zusammengeführt – des Königs Béla IV., des Grafen Sebeš von Svätý Jur (Sankt Georgen), der Grafen Achill und Kosma von Pezinok (Bösing) – und sie mit fiktiven Männern vermischt, dem Pleban Peter und dem Maler Alexei. In meiner Geschichte kommen auch Frauen vor. In erster Linie die wahrscheinlich beste ungarische Königin Maria Laskaris, aber auch eine Nonne, eine Wirtin und sogar einige Heilige, wenn auch nicht in dem Anteil, den die Europäische Union verlangt. Es gibt den Sultan von Damaskus, den weltbeherrschenden Dschingis Khan, den türkischen Heerführer Timur und auch den heiligen Franz von Assisi. Gibt es Sex? Natürlich gibt es in einem Roman auch Sex. Nur sind meine „Fifty Shades of Grey“ in einen dreizeiligen Absatz gegangen, aber so oder so ist es eine Todsünde. Ich habe die historisch realen und meine erfundenen Rädchen in einen 800 Jahre alten Mechanismus eingepasst, mit dem man drehen kann, ohne dass es sehr knirscht. (Es ist allerdings möglich, dass ich, von meinen eigenen Vorstellungen überwältigt, taub geworden bin und das raue Knirschen nicht höre.)",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Viele Ereignisse haben sich wirklich genau so zugetragen, wie ich sie beschrieben habe. Einige haben sich wahrscheinlich etwa so zugetragen, weil es sich mir aus dem Erkannten so ergab. Und viele Geschichten habe ich mir ganz unverschämt ausgedacht. Welche welche sind, lässt sich an den 810 Anmerkungen unter dem Text unterscheiden. Die Handlung spielt vom mittelasiatischen Buchara bis Šaštín und von Neštich oberhalb von Svätý Jur bis Jerusalem. Obwohl sie sich mit den Ereignissen der Jahre 1241 bis 1243 befasst, enthält sie meine Erkenntnisse und Ansichten über die historischen Ursachen konkreter Ereignisse, die bis in die Zeit Großmährens, der Entstehung des Königreichs Ungarn und der Kreuzzüge zurückreichen.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Ich habe versucht, eine „objektive“ historische Fiktion über das Leben im damaligen Königreich Ungarn zu schreiben. Über ein Land, das die Heimat von Magyaren, Slawen, Deutschen, Wallonen, Baschkiren, Kumanen, Italienern und auch Petschenegen war. In ihm lebten römische wie orthodoxe Christen, Juden wie Mohammedaner. Ein Ungarn, das mehr multikulti war als die heutigen westlichen Metropolen – und die gegenseitigen Beziehungen zwischen den verschiedenen Gemeinschaften waren nicht im Geringsten korrekt im heutigen Sinne des Wortes. Es war eine Zeit, in der es zu tiefgreifenden gesellschaftlichen Veränderungen, zur Entwicklung der Bildung, der Städte, des Metallbergbaus und zu Bevölkerungswachstum kam. Das Königreich Ungarn wurde zu einer europäischen Macht im Raum zwischen dem katholischen Westen und dem orthodoxen Osten, und der Tatareneinfall veränderte vieles davon dramatisch.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Ich wollte eine andere Chronik schreiben als die Italiener Rogerius und Thomas von Split, die Magyaren und Slawen nicht leiden konnten. Ein echtes patriotisches Werk aus der Sicht eines Menschen, der am Fuß der Kleinen Karpaten lebt. Ich weiß, das ist eine altmodische Ansicht, aber ich verstehe die damaligen Menschen als meine (unsere) Vorfahren, die ihre Zeit vor eine schwere Prüfung stellte. Sie zeigten darin Feigheit wie Heldentum, Dummheit wie Weitsicht, vor allem aber eine ungeheure Kraft zu überleben.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Ich bin kein Schriftsteller, und an der slowakischen Rechtschreibung begehe ich in jedem Satz einen Völkermord an den Regeln. Das Buch hat wohl auch nicht das richtige moderne Format, und seine Sprache ist nahezu archaisch. Ich weiß, dass es manchem seltsam vorkommen kann, dass ein materialistischer Atheist wie ein Pressburger Kanoniker in einem Keller von Svätý Jur schreibt, aber ich habe das Format gewählt, die Geschichte von den damaligen Personen erzählen zu lassen, und das waren gläubige Menschen.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Aber was. Es ist, wie es ist, und ich bin MGE (meiner geliebten Ehefrau) dankbar, dass sie auf die Idee kam, mir das Schreiben des Buches vorzuschlagen. Mit ihrer Unterstützung habe ich mich einige Jahre dem Kennenlernen jener Zeit und dem Schreiben gewidmet, was mir Freude machte und mich manchmal auch mit dem Gefühl der Nützlichkeit erfüllte.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Noch eine Anmerkung. Jede Kritik, Ergänzung oder jeder Hinweis wird von meiner Seite willkommen sein. Ich bin ein Mensch, der die Polemik und den Widerspruch für den Motor der eigenen Belehrung hält.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pavol Satko",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Den gesamten Roman von Pavol Satko können Sie kostenlos unter dieser Adresse herunterladen:\n \n "
+       },
+       {
+        "type": "link",
+        "url": "https://docs.google.com/file/d/0B-r4vtsqegOfZWpPTTI2V0dra2M/edit",
+        "children": [
+         {
+          "type": "text",
+          "text": "KRONIKA DUŠÍ"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

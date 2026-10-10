@@ -739,3 +739,51 @@ preložený, rovnako ako anglická.
 
 **spissky-stvrtok-slovenske-mykeny**
 : keyFact „39 domov a kultové miesto" a timeline „1968 – 1974" nie sú nikde v tele (telo hovorí len „po viac než dvadsiatich rokoch"); keyFact tvrdí „hlavná brána v tvare U", telo hovorí o hradbách v tvare U
+
+**dolne-oresany-vapenice-alebo-ako-sme-nasli-nove-hradisko**
+: názov píše „Vápenice", telo „Vápenica"; alt fotografie hovorí o „kamennom vale", hoci článok val výslovne nenašiel
+
+**zazracny-dazd-zachranil-rimanov-na-slovensku**
+: v citáte Cassia Diona je bodka v strede vety („…podrobil. Markomanov")
+
+**zakonnik-z-velkej-moravy-zakon-sudnyj-ljudem**
+: „štruktúry kráľa Kolomana" sú zjavne štatúty; břeclavská redakcia datovaná /1123/ a § 365 označený „Tr. por."; v citáte ZSL chýbajú články 11 a 23
+
+**starobyly-rastislavov-devin-a-sprava-o-nom-z-roku-871**
+: text označuje Slavomíra za „Svätoplukovho nástupcu"; 47 poznámkových odkazov vedie na mŕtve blogger.com adresy
+
+**spis-o-obrateni-bavorov-a-korutancov-na-vieru-9-storocie**
+: poznámky uvádzajú Adalvína ako arcibiskupa 863 – 867 a 873 – 885 (literatúra 859 – 873); veta „Samo – franský kráľ Dagobert vládol…" je neúplná
+
+**najstarsi-recept-na-medovinu-14-storocie**
+: český preklad receptu na dvoch miestach odporuje stredohornonemeckému originálu v tom istom článku — „aby výpary mohly odcházet" (predloha: nemohly) a „stará se o doplňování kvasnic" (predloha: aby sa kvasnice nedostali dovnútra); Würzburg mal v 14. storočí biskupa, nie arcibiskupa
+
+**pavol-satko-konstantin-porfyrogenetes-a-jeho-moravy**
+: autor zavádza „Provincia Moravia" (bloky 28, 39), v závere (blok 64) píše „provincia Morava"
+
+**zemianske-podhradie-martakova-skala**
+: blok 11 — prevliečka „s dĺžkou 101 cm" (pri oválnom pútku zrejme 10,1 cm)
+
+**zilina-zastranie-stranik**
+: metaTitle a metaDescription píšu „Stráník", názov aj telo „Straník"
+
+**praveke-hradisko-na-sitne**
+: blok 15 a timeline hovoria o „stopách po Slovanoch z 2. storočia pred naším letopočtom"; blok 0 píše „koncom minulého storočia", keyFacts „koncom 19. storočia"
+
+**zibrica**
+: blok 8 — misovité jamy „priemeru 150 – 200 m" (zrejme cm)
+
+**vrable-fidvar-mesto-z-doby-bronzovej-b**
+: „stará zhruba 3000 rokov" (aj keyFacts) × „zostala nedotknutá celých 4000 rokov" pri staršej dobe bronzovej; blok 7 má nezavretú zátvorku
+
+**trencianske-teplice-certova-skala**
+: „spony typu Neuheim" — ustálený typ je Nauheim
+
+**zamcisko-modra**
+: v Janšákovom citáte je poškodený text (OCR) — „val ľ b" namiesto f b, „klesá na kólii 484" namiesto kóta, a „a b ľ a (T) v rozlohe 3, 9 a, f b c d e f (II) v rozlohe (), I a"
+
+**pezinok-stary-zamok-ii**
+: blok 5 má nedokončenú vetu „podopretého drevenými."; blok 11 má zdvojené slová „od kamenných od podstatne známejších kamenných hradov"
+
+**nizna-mysla-mesto-z-doby-bronzovej**
+: timeline má trikrát rok „neznámy"; zánik je datovaný raz „okolo 1500 pred n. l.", raz „1450 – 1500 pred n. l."

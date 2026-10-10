@@ -1112,8 +1112,11 @@ Uhorská brána → **die Ungarische Pforte**, dunajská cesta → **die
 Donaustraße**, Marianka → **Mariathal** (exonym pri prvom výskyte).
 Bójovia → **die Boier**.
 
-**Dekády.** „50. roky" → **die 1950er Jahre**. Nemčina storočie v takom
-zápise nevynecháva, lebo samotné „50er" by viselo bez opory.
+**Dekády.** Oba tvary sú správne: **die 1950er Jahre** aj **die fünfziger
+Jahre**. Záleží len na tom, aby bolo zrejmé storočie — číselný tvar ho nesie
+sám, pri vypísanom ho musí dať okolie („seit den Ausgrabungen in den
+fünfziger Jahren"), inak sa dopíše **des 20. Jahrhunderts**. Samotné „50er"
+bez opory nie.
 
 **Akademický titul.** „Promovaný historik" → **diplomierter Historiker**.
 
@@ -1215,6 +1218,136 @@ II.**, Belo IV. → **Béla IV.**
 **Zemepis (47. dávka).** Ponická pahorkatina → **das Hügelland von Poniky**,
 Severná cesta → **die Nordstraße**. Pri Skalici je „inundácia Moravy"
 rieka, teda **die March** — nie *Mähren* (§12).
+
+**Autori prameňov (50., 51. dávka).** Nemčina má pre nich ustálené tvary:
+Helmold z Bosavy → **Helmold von Bosau**, Prokopios → **Prokopios von
+Kaisareia** (Cézarea → *Kaisareia*), Konštantín VII. → **Konstantin VII.
+Porphyrogennetos**, mág Arnufis → **Arnuphis**, Džingischán → **Dschingis
+Khan**. Diela: Slovo o pluku Igorovom → **das Igorlied**, Tajná kronika
+Mongolov → **Die Geheime Geschichte der Mongolen**, Kniha Rožmberská → **das
+Rosenberger Buch**, Zákon sudnyj ljudem → **Zakon sudnyj ljudem** s glosou
+*(Gerichtsgesetz für das Volk)* pri prvom výskyte, Spis o obrátení Bavorov
+a Korutáncov → **Conversio Bagoariorum et Carantanorum** (latinský názov,
+nemecká literatúra ho cituje tak).
+
+**Etnonymá v prameňoch.** Sporovia → **die Sporoi**, Massageti → **die
+Massageten**, Baškiri → **die Baschkiren**, Burdasovia → **die Burtasen**,
+Severania → **die Nordmänner**. Rusi 9. storočia → **die Rus** (nie *die
+Russen* — to sú dnešní Rusi), Konštantínovo „Turecko" → **Turkia**,
+turkické etnikum → **turksprachiges Ethnikum**. Tituly *kende* a *gyula*
+ostávajú.
+
+**Slovanskí bohovia.** Mená sa prepisujú, neprekladajú: **Svarog**,
+**Dažbog**, **Svarožič**, **Svantovit**, **Prove** (Helmoldov tvar pre
+„Prov"), **Porevit**, **Perunič**, **Triglav**, **Chors**, **Stribog**,
+**Lada**. Upír → **der Vampir**, beregiňa → **die Beregine**.
+
+**Veľkomoravské a stredoveké pojmy.** Vierozvestcovia → **die
+Slawenapostel**, pektorál → **das Pektoralkreuz**, výpalné → **das
+Schutzgeld**, pospolitý ľud → **das gemeine Volk**, kmeť → **der Kmete**,
+archipresbyter → **der Archipresbyter**, stĺp Marca Aurelia → **die
+Mark-Aurel-Säule**.
+
+**Jedlo a remeslo.** Medovina → **der Met**, mladina → **die Würze**, mázový
+hrnec → **halbmaßiger Topf**, pryskyričný súdok → **geharztes Fässchen**.
+
+**Nálezy.** Faléra → **die Phalera** (ozdobné *Zierphaleren*), perleťový
+vzor → **das Perlmuster**. Laténsky „guľový gombík" je **kugelförmiger
+Knopf** — *Gombík* podľa §11.8 ostáva veľkomoravskému šperku. Vykradnuté
+detektoristami → **von Raubgräbern ausgeräumt**.
+
+**Zemepis (50., 51. dávka).** Transylvánia → **Siebenbürgen**, Stoličný
+Belehrad → **Stuhlweißenburg**, Znojmo → **Znaim**, Podyjí → **das
+Thayatal**, Železné vráta → **das Eiserne Tor**, rieky Temeš/Maroš/Kriš/Tisa
+→ **Temesch/Mieresch/Kreisch/Theiß**, Rába → **die Raab**. Autorov zavedený
+termín „Dolná Morava" → **„Niedermähren"** (v úvodzovkách, ako v origináli).
+
+**Echo anglického názvu v prvom bloku.** Keď článok začína názvom knihy,
+v ktorom je *Magyars*, prvý blok smie mať **Magyaren**, aby nasledujúce
+vysvetlenie autora („prečo píšem starí Maďari") v nemčine fungovalo; od toho
+bloku ďalej platí §4 a píše sa **Altungarn**.
+
+**Chatová osada.** Dnešná rekreačná zástavba → **die
+Wochenendhaussiedlung** (× *Kleingartensiedlung* = záhradkárska osada).
+
+**„Sloveni" ako autorov termín.** Keď autor sám zavedie trojstupňové
+rozlíšenie (Slovania – Sloveni – Slováci) a termín v texte definuje,
+„Sloveni" ostávajú **die Sloveni**. Preklad *die Slawen* by jeho rozlíšenie
+zrušil, *die Slowaken* by bol anachronizmus podľa §11.9. Platí len tam, kde
+článok termín naozaj vysvetľuje — nie ako všeobecné riešenie.
+
+**Kultúry (45. dávka).** Unětická kultúra → **die Aunjetitzer Kultur**
+(fáza → *Aunjetitzer Phase*), čakanská kultúra → **die Čaka-Kultur**,
+severovýchodohalštatská kultúra → **die Nordost-Hallstattkultur** (nemecká
+literatúra jednotný tvar nemá, držíme tento).
+
+**Nálezy (45. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| ružicová spona | **die Rosettenfibel** |
+| sekerka s lištami | **das Randleistenbeil** (× s tuľajkou = *Tüllenbeil*) |
+| bójsky statér | **der Boierstater** |
+| mince veľkobystereckého typu | **Münzen des Typs Veľký Bysterec** |
+| kadlub | **die Gussform** |
+| nepravý damask | **falscher Damast** |
+| tyčinkový zámok | **das Stangenschloss** |
+| drvič obilia | **der Getreidequetscher** |
+| tuhový povrch | **graphitierte Oberfläche** |
+| pupák | **der Buckel** |
+
+**Terén a plán (45. dávka).** Priečny val → **der Querwall**, sídlisková
+mohyla → **der Siedlungshügel**, nálevkovitá jama → **trichterförmige
+Grube**, vrstevnicový plán → **der Höhenlinienplan**, náves → **der
+Dorfanger**, kopaničné role → **Rodungsäcker**.
+
+**Staré miery.** Štvorcová siaha → **das Quadratklafter**, „stupeň" ako
+miera 19. storočia → **der Fuß**.
+
+**Zemepis a exonymá (45. dávka).** Biele Karpaty → **die Weißen Karpaten**,
+Bošácka dolina → **das Tal von Bošáca**, Tríbeč → **das Tribeč-Gebirge**,
+Karpatská kotlina → **das Karpatenbecken**, Blatenské jazero → **der
+Plattensee**, Kežmarok → **Käsmark**, Kremnica → **Kremnitz**, Levice →
+**Lewenz**, loršská diecéza → **die Diözese Lorch**, Tekovské múzeum → **das
+Tekovské-Museum**. Rieka Žitava exonymum nemá a ostáva **die Žitava**.
+
+**Spoločnosť a vojenstvo.** Maďarská konkvista → **die ungarische
+Landnahme**, sklavínsky prúd → **der sklavenische Strom**, hradské mestá →
+**Burgstädte**, vojvodstvo → **das Herzogtum**, strmeň → **der Steigbügel**.
+
+**Dnešok.** Rogalista → **der Drachenflieger**.
+
+**Dechtárstvo (44. dávka).** Celé hniezdo slov, ktoré sa bude opakovať:
+dechtárstvo → **die Teerschwelerei**, decht → **der Holzteer**, dechtárska
+jama → **die Teerschwelgrube**, dechtárska pec → **der Teerofen**, dechtár →
+**der Teerschweler**, suchá destilácia → **trockene Destillation**. Smola je
+**das Pech** a jej výrobca **der Pechsieder** — nie je to to isté ako decht.
+
+**Kult a pohreb (44. dávka).** Obetná šachta → **der Opferschacht**, hranica
+(pohrebná) → **der Holzstoß**, žiarovisko → **die Brandstelle**.
+
+**Nálezy a stavby (44. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| majzlík | **der Meißel** (dláto = *der Stechbeitel*) |
+| vŕtacia lyžica | **der Löffelbohrer** |
+| gotický kľúč s plochou zástavkou | **Drehschlüssel mit flachem Bart** |
+| krokvicový ornament | **das Sparrenmuster** |
+| kamenný veniec | **der Steinkranz** |
+| vežovitý strážny zrub | **turmartiges Wachblockhaus** |
+| vyhne kováčske | **Schmiedeessen** |
+| krúžok z pálenej hliny (korala) | **das Ringlein**, **die tönerne Perle** |
+
+**Dobové jednotky v citátoch 19. storočia.** Holubyho a Janšákove texty ich
+používajú bežne, prekladajú sa nemeckým dobovým tvarom, nie prepočtom:
+jutro → **das Joch**, cól → **der Zoll**, stupeň → **der Fuß**, okuva →
+**der Hammerschlag**, škridla → **der Ziegel**.
+
+**Zemepis (44. dávka).** Liptovská kotlina → **das Liptauer Becken**,
+Strážovské vrchy → **das Strážov-Gebirge**, Pohronský Inovec → **das Gebirge
+Pohronský Inovec**, horné Požitavie → **das Žitavatal**. Muzeálna slovenská
+spoločnosť → **die Slowakische Musealgesellschaft**.
 
 ---
 

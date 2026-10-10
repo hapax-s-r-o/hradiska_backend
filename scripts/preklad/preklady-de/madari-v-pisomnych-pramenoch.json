@@ -1,0 +1,231 @@
+{
+ "slug": "madari-v-pisomnych-pramenoch",
+ "data": {
+  "title": "Die Altungarn in den Schriftquellen des 9. Jahrhunderts",
+  "slug": "altungarn-in-den-schriftquellen",
+  "excerpt": "Das Bild der Vorfahren der heutigen Ungarn in den zeitgenössischen Chroniken des 9. Jahrhunderts – aus der Zeit, als sie in das Karpatenbecken einfielen – ist wahrlich nicht schmeichelhaft. Auszüge aus Liudprands Chronik, der Chronik des Regino von Prüm, dem Annalista Saxo und den Annales Boiorum des Johannes Aventinus zeigen, welchen Ruf diese fremden Nomaden in Europa hatten – und wie König Arnulf durch die Beseitigung der Grenzverhaue den Weg nach Westen öffnete.",
+  "metaTitle": "Die Altungarn in den Schriftquellen des 9. Jahrhunderts",
+  "metaDescription": "Das Bild der Altungarn in zeitgenössischen Chroniken aus der Zeit ihres Einfalls in das Karpatenbecken, wie es vor allem fränkische Chronisten festhielten.",
+  "keyFacts": [
+   {
+    "label": "Zusammengestellt von",
+    "value": "Orgoň (Auswahl von Auszügen aus zeitgenössischen Chroniken)",
+    "icon": "book"
+   },
+   {
+    "label": "Chroniken",
+    "value": "Liudprand von Cremona, Regino von Prüm, Annalista Saxo, Johannes Aventinus",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "9.–12. Jahrhundert, ergänzt durch eine Chronik aus dem 16. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Thema",
+    "value": "Das Bild der Altungarn und der Untergang des Reiches Svatopluks mit den Augen fränkischer und deutscher Chronisten",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "889",
+    "title": "Ankunft der Altungarn (Chronik des Regino)",
+    "description": "Nach Regino von Prüm zog das Volk der Altungarn, von den Petschenegen vertrieben, aus den skythischen Ländern aus.",
+    "type": "event"
+   },
+   {
+    "year": "890",
+    "title": "Beschreibung der Altungarn (Annalista Saxo)",
+    "description": "Der Annalista Saxo beschreibt zum Jahr 890 die Kampfweise und die Sitten der Altungarn (Quelle aus der Mitte des 12. Jahrhunderts).",
+    "type": "event"
+   },
+   {
+    "year": "915",
+    "title": "Tod Reginos von Prüm",
+    "description": "Der Autor der Chronik des Regino, Abt des Trierer Klosters, starb im Jahr 915.",
+    "type": "event"
+   },
+   {
+    "year": "1139",
+    "title": "Ende der Aufzeichnungen des Annalista Saxo",
+    "description": "Der Annalista Saxo verzeichnet die Ereignisse der Jahre 741–1139.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4154,
+    "alt": "Zeichnerische Rekonstruktion des Aussehens eines altungarischen Kriegers und seiner Frau"
+   },
+   {
+    "mediaId": 4155,
+    "caption": "Verhau",
+    "alt": "Verhau"
+   },
+   {
+    "mediaId": 3231,
+    "alt": "Kopfzeile der Website Slovanské hradiská mit Logo und der Adresse hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Altungarn in den Schriftquellen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Bild der Vorfahren der heutigen Ungarn in den zeitgenössischen Chroniken des 9. Jahrhunderts, also aus der Zeit, als sie in das Karpatenbecken einfielen – so, wie sie die Zeitgenossen, vor allem fränkische Chronisten, wahrnahmen –, ist wahrlich nicht sehr schmeichelhaft. Ich bringe Auszüge aus einigen interessanten Chroniken dieser Zeit, die festhalten, welchen Ruf diese fremden Nomaden in Europa hatten. Die "
+       },
+       {
+        "type": "link",
+        "url": "/blog/fuldske-analy",
+        "children": [
+         {
+          "type": "text",
+          "text": "Fuldaer Annalen"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " lasse ich aus, denn Sie finden sie an anderer Stelle dieser Website.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Liudprands Chronik",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (10. Jahrhundert) enthält eine interessante Erwähnung darüber, wie der fränkische König Arnulf dafür sorgte, dass die Altungarn in das Gebiet der heutigen Slowakei gelangten, und welchen strategischen Fehler er beging, als er die Verhaue bzw. Sperren beseitigen ließ, die eine natürliche Schutzmauer gegen die Feinde aus dem Osten bildeten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Inzwischen beseitigte Arnulf, der König jener Völker, die im Norden leben, da er den Herzog der Mährer Svatopluk nicht zu bezwingen vermochte – jenen, dessen wir oben Erwähnung getan haben und der sich ihm mannhaft im Kampfe widersetzte –, ach, jene überaus festen Sperren, von denen wir vorher gesagt haben, dass sie allgemein Verhaue genannt werden, und ruft das Volk der Ungarn zu Hilfe: ein begehrliches, kühnes, den allmächtigen Gott nicht kennendes, aller Verbrechen wohl kundiges und allein nach Mord und Raub dürstendes Volk – wenn man denn Hilfe nennen darf, was nicht lange danach, als er gestorben war, sowohl seinem eigenen Volk wie auch den übrigen Völkern, die im Süden und Westen leben, zur schweren Gefahr, ja geradezu zum Verderben wurde. Was also? Svatopluk wird bezwungen, unterworfen, tributpflichtig gemacht; aber nicht er allein. O du blinde Herrschsucht des Königs Arnulf! O jene unglücklichen und bitteren Tage! Der Sturz eines einzigen Menschen wird zum Verderben ganz Europas. Blinde Ehrsucht, wie vielen Frauen bereitest du die Witwenschaft, den Vätern den Tod der Kinder, den Jungfrauen die Schändung, den Priestern und dem Volke Gottes die Gefangenschaft, den Kirchen die Verlassenheit und den bewohnten Landschaften die Verwüstung! Doch kehren wir zur Sache zurück. Nach der Niederlage Svatopluks also, des Herzogs der Mährer, herrscht Arnulf im eingetretenen Frieden. Die Ungarn aber, nachdem sie den Ausgang wahrgenommen und das Land besehen hatten, sannen in ihren Herzen Böses, was später offenbar wurde.",
+    "author": "Liudprand von Cremona",
+    "source": "Liudprands Chronik, 10. Jahrhundert"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weiterhin verdient ein Auszug aus "
+       },
+       {
+        "type": "text",
+        "text": "der Chronik des Regino",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Beachtung, die die Erwähnungen über die Altungarn wohl am ausführlichsten und in großem Maße auch sachlich und objektiv festhält. Regino war Abt in Prüm, später wirkte er in Trier. Er schrieb mehrere Werke. Seine Chronik bringt weniger tendenziöse Nachrichten. Er starb im Jahr 915."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Im Jahre 889 nach der Fleischwerdung des Herrn zog das Volk der Ungarn aus, das wildeste und über alle Ungeheuer grausamere, in den vergangenen Jahrhunderten deshalb unbekannt, weil es nirgends genannt wurde, irgendwoher aus den skythischen Königreichen und Sümpfen, die der Don mit seinem Lauf ins Unendliche ausbreitet.\nVon dort also wurde das genannte Volk aus seinen eigenen Wohnsitzen von den Nachbarvölkern vertrieben, die Petschenegen heißen, denn diese übertrafen es an Zahl und an Tapferkeit, und das heimatliche Land reichte, wie wir schon gesagt haben, bei dem gewaltigen Anwachsen der Bevölkerung zum Wohnen nicht aus. Und so machen sich die Ungarn, nachdem sie von diesen mit Gewalt vertrieben worden waren, nach dem Abschied von der Heimat auf den Weg, um neue Länder zu suchen, die sie bewohnen könnten, und um sich dort Wohnsitze erbauen zu können.\nZuerst irren sie durch die Einöden der Pannonier und Awaren und suchen ihren täglichen Unterhalt in Jagd und Fischfang. Später fallen sie mit häufigen feindlichen Einfällen in die Gebiete der Karantanen, Mährer und Bulgaren ein; nur wenige Menschen töten sie mit dem Schwert, viele Tausende jedoch mit Pfeilen, die sie mit solcher Kunst aus Bogen aus Horn entsenden, dass man ihren Treffern nur mit Mühe entgehen kann.",
+    "author": "Regino von Prüm",
+    "source": "Chronik des Regino (bis 915)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Sächsische Annalist"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Werk entstand in der Mitte des 12. Jahrhunderts und verzeichnet Angaben aus den Jahren 741–1139. Der Autor ging von bislang unbekannten oder schon verlorenen Schriftquellen aus. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "890 [...] Sie (die Ungarn) wissen jedoch nicht in geschlossener Schlachtreihe zu kämpfen und Städte zu erobern. Es wäre nicht möglich, ihnen zu widerstehen, wären sie so ausdauernd, wie sie angriffslustig sind. Sie kämpfen auf Pferden, die vorwärts galoppieren oder zurückfliehen; oft stellen sie einen Angriff vor und können nicht lange kämpfen, auf dem Höhepunkt der Schlacht verlassen sie das Schlachtfeld und kehren bald darauf aus der Flucht in sie zurück, sodass du die Entscheidungsschlacht dann schlagen musst, wenn du schon glaubst, gesiegt zu haben.\nSie nähren sich nicht wie Menschen, sondern wie wilde Tiere, von rohem Fleisch und vom Trinken des Blutes. Die Herzen der Menschen, die sie gefangen haben, teilen sie in Stücke und essen sie als Heilmittel. Von keinerlei Mitleid lassen sie sich erweichen. Das Haar scheren sie sich mit dem Messer bis auf die Haut; auf den Pferden pflegen sie sich zu bewegen, zu stehen, zu sprechen und auch nachzudenken. Mit großer Beharrlichkeit lehren sie ihre Kinder und Sklaven, auf Pferden zu reiten und von ihnen aus zu schießen.\nWie die Frauen, so sind auch die Männer von ausschweifendem, widerspenstigem, hinterlistigem und frechem Wesen. Stets sind sie unruhig und zu äußeren wie häuslichen Zwistigkeiten neigend, von Natur schweigsam, mehr zu Taten als zu Reden bereit.\nDiese verheerten die genannten Länder, aber auch das italische Königreich. Bis zur Zeit Arnulfs waren sie durch Sperren abgetrennt, die die Leute Verhaue nennen, und hatten daher keine Möglichkeit, weder nach der westlichen noch nach der südlichen Seite auszubrechen. Nach deren Beseitigung besiegte Arnulf mit Hilfe der Ungarn Svatopluk und fiel mit dem Heer in das Mährische Königreich ein; er zerstörte alles, was er außerhalb der Stadt fand. Und als die Obstbäume mit den Wurzeln ausgerissen waren, bat Svatopluk um Frieden und gab seinen Sohn als Bürgen; später erlangte er ihn. Arnulf verwaltete das Reich in Ruhe. Die Ungarn aber, die den Ausgang wahrnahmen und die Länder besahen, sannen in ihren Herzen Böses, das später offenbar wurde.",
+    "author": null,
+    "source": "Annalista Saxo (Der Sächsische Annalist), Mitte des 12. Jahrhunderts"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Johannes Aventinus",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " lebte an der Wende vom Mittelalter zur Neuzeit. Für die Geschichte Großmährens standen ihm ältere glaubwürdige Quellen zur Verfügung, von denen viele heute nicht mehr existieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "In demselben Jahr, welches das achthundertneunundachtzigste der christlichen Ära war, kamen unsere Nachbarn, die Ungarn, die sich in ihrer eigenen Sprache Magyaren nennen ... nach der Überschreitung des Don nach Europa und in das sarmatische Germanien. Einige behaupten, sie hätten die väterlichen Wohnsitze wegen eines besseren Bodens verlassen, andere, es sei geschehen, um der allzu großen Menge an Königen daheim Erleichterung zu schaffen, andere, sie seien von den Nachbarn verjagt worden; ein Teil wiederum behauptet, sie seien von Arnulf gegen die Slawen und gegen Svatopluk gerufen worden, dessen Reich damals in Niedergermanien das ausgedehnteste war, und sie seien von ihm nach Germanien hereingelassen worden.\nDoch ich kehre zu den Magyaren zurück: diese zogen drei Jahre lang irrend durch das Gebiet des östlichen Teils von Großgermanien und durch die Gebiete beider Sarmatien, kamen mitten durch sehr wilde Völker über weite Einöden und Ebenen und suchten ihren Unterhalt durch Beutezüge, Raub und Jagd. Erst im vierten Jahr erlangen sie von Arnulf feste Wohnsitze. Damals fallen sie in Dakien ein – dieses erstreckt sich mit der Donau nach Osten – über den Fluss Theiß hinaus. Sie ermorden und vernichten die Awaren und Hunnen (von denen wir gesagt haben, sie seien von Pippin und den Bayern aus Norikum und aus den Pannonien verdrängt und verjagt worden) und besetzen ihr Land und halten es bis heute. Damals übernahmen sie in Europa das Volk und den Namen der Awaren und Hunnen als ihre eigenen. Sie saßen hier an der Donau und wohnten teils in Dakien, teils in den Pannonien und in Norikum, fünfhundertneun Jahre bis zu jener Zeit.\nDamals treffen diese Magyaren die Wenden, die Dakien bewohnten und dem mährischen König Svatopluk gehorchten, mehr mit Verderben als mit einer Niederlage. Sie unterwerfen sich ganz Dakien und werden hier bis heute „Ungarn in Großgermanien“ genannt. Nach dem Tod Arnulfs und der Tötung der mährischen Könige Mojmír und Svatopluk besetzen sie einen Teil Mährens und fallen, die Donau überschreitend, in Bayern ein. Vom Königreich der Bayern reißen sie das an der Donau gelegene Pannonien los: sie trinken Menschenblut, doch wird es angebracht sein, solche Dinge erst an den gehörigen Stellen anzuführen. Nun kehre ich zur Folge der Ereignisse zurück. (...)",
+    "author": "Johannes Aventinus",
+    "source": "Annales Boiorum (1517–1521)"
+   }
+  ]
+ }
+}

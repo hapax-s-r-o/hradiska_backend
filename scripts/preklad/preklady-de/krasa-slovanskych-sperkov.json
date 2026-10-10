@@ -1,0 +1,546 @@
+{
+ "slug": "krasa-slovanskych-sperkov",
+ "data": {
+  "title": "Die Schönheit des slawischen Schmucks – Gombíks, Schläfenringe und Ohrringe Großmährens",
+  "slug": "schoenheit-des-slawischen-schmucks",
+  "excerpt": "Granulation, Filigran, Treibarbeit, Kerbschnitt und Tauschierung – mit diesen Techniken entstand in großmährischer Zeit ein Schmuck, dessen Schönheit heute kaum jemand kennt. Der Beitrag führt durch seine Typologie: Gombíks, Fingerringe, Gürtelriemenzungen, Halsketten, Schläfenringe sowie einfache und prunkvolle Ohrringe. In Großmähren lassen sich zwei Schmuckkreise unterscheiden – der einfache und der prunkvolle, denn schmücken konnte sich nicht jeder auf dieselbe Weise.",
+  "metaTitle": "Die Schönheit des slawischen Schmucks",
+  "metaDescription": "Gombíks, Schläfenringe, Riemenzungen und Ohrringe: ein Überblick über Techniken und Formen des Schmucks, den die Slawen in großmährischer Zeit trugen.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Typologie des großmährischen Schmucks – Techniken, Formen und gesellschaftliche Gliederung",
+    "icon": "crown"
+   },
+   {
+    "label": "Epoche",
+    "value": "Großmähren (9.–10. Jahrhundert)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Verzierungstechniken",
+    "value": "Granulation, Filigran, Treibarbeit, Kerbschnitt, Tauschierung",
+    "icon": "star"
+   },
+   {
+    "label": "Schmucktypen",
+    "value": "Gombíks, Fingerringe, Gürtelriemenzungen, Halsketten, Schläfenringe, einfache und prunkvolle Ohrringe",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Die Zeit Großmährens",
+    "type": "event",
+    "description": "In diese Zeit gehört die überwiegende Mehrheit der beschriebenen Schmuckstücke, die verschiedene gesellschaftliche Schichten trugen – vom einfachen Volk bis zu den bedeutendsten Adligen."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3916,
+    "alt": "Zwei silberne Gombíks mit Treibverzierung aus großmährischer Zeit"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der heutigen modernen Zeit interessiert sich kaum jemand für die Geschichte, für längst vergangene Zeiten, für die eigenen Vorfahren und schon gar nicht dafür, wie sie sich kleideten, was sie trugen, was sie aßen, wo sie wohnten – und niemandem kommt in den Sinn, welch herrlichen Schmuck sie herstellten … also … tauchen Sie mit mir ein in die Schönheit und Einzigartigkeit des slawischen Schmucks (da hier ohnehin nicht alles Platz fände und Sie davon nur ein „Durcheinander“ hätten) … ich stelle Ihnen vor allem jenen Schmuck vor, der überwiegend in der Zeit Großmährens hergestellt und bei verschiedenen gesellschaftlichen Schichten getragen wurde, hauptsächlich aus dem Gebiet der heutigen Slowakei. So wie es heute ist, konnte sich auch in jenen Zeiten nicht jeder Mensch auf dieselbe Weise „schmücken“. In Großmähren lassen sich zwei Schmuckkreise unterscheiden: der einfache und der prunkvolle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Schönheit des slawischen Schmucks",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein typisches Verzierungselement des großmährischen Schmucks ist die Zierde mittels Granulation und Filigran. Die Verzierung durch Granulation ist, wie der Name schon sagt, das Zieren der Schmuckoberfläche mit winzigen Körnchen aus Edelmetall. Die Körnchen bilden auf dem Schmuckstück dann verschiedene Ornamente. Die Technik, bei der mit feinen verflochtenen und gekerbten Drähtchen verziert wird, nennt man Filigran. Die Drähtchen bilden entweder Ornamente auf dem Körper des Schmuckstücks (z. B. bei Gombíks und Riemenzungen), oder das Schmuckstück besteht ausschließlich aus ihnen (Körbchenohrringe). Bei Gombíks und verschiedenen Plaketten begegnen wir häufig einer Treibverzierung. Kerbschnitt – das Einschneiden von Ziermustern in die Oberfläche des Gegenstandes mit tiefen und scharfen Schnitten. So wird ein Kontrast von Licht und Schatten erreicht. Tauschierung – das Einschlagen eines Edelmetalls in ein gegenüberliegendes Metall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "SCHMUCKTYPEN"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Gombíks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Schönheit des slawischen Schmucks",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Gombík (kugelförmiger Knopfanhänger) ist ein für Großmähren typisches Schmuckstück. Er diente als Verschluss der Kleidung oder auch nur als Zierde des Gewandes. Hergestellt wurde er aus Gold, Silber, Bronze, Kupfer und sogar aus Glas. Gombíks aus „gewöhnlichen“ Metallen, aber auch jene aus Silber, waren oft vergoldet. Die Verzierung der Gombíks musste nicht nur getrieben sein, sie konnte auch granuliert oder aus Filigran gearbeitet sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fingerringe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Schönheit des slawischen Schmucks",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Großmährische Fingerringe finden wir zumeist in Frauengräbern. Ringförmige: a) gegossene Ringe, b) Drahtringe, c) Blechringe. Mit Filigran und Granulation verzierte Ringe – aus Gold oder Silber, mit farbigem Glas verzierte Ringe, mit Stein verzierte Ringe, getriebene Ringe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Gürtelgarnituren"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die prunkvollen Gürtel der bedeutendsten Adligen endeten in herrlichen Riemenzungen. Diese Gürtelriemenzungen sind ein vollkommenes Beispiel der hoch entwickelten großmährischen Goldschmiedetechniken unter Verwendung von Granulation und Filigran. Das einfache Volk konnte sich solche Riemenzungen verständlicherweise nicht leisten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Halsketten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Schönheit des slawischen Schmucks",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Perlen für Halsketten wurden am häufigsten aus Glas gefertigt. Häufig war auch die Verwendung von bearbeitetem Bernstein und Amethyst. Aus Großmähren kennen wir auch metallene Perlen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schläfenringe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schläfenringe hatten die Form eines Drahtringes, der an einem Ende oft ausgeschmiedet und eingerollt war. Als Material diente vor allem Bronze und Silber. Die Frauen trugen die Schläfenringe in ein Stirnband aus Leder oder Textil eingesteckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ohrringe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenso wie die Gombíks sind auch die großmährischen Ohrringe für diese Zeit und diesen Raum typisch. Sie haben eine sehr umfangreiche Typologie. Nach der Art der Verarbeitung lassen sie sich in Ohrringe aus Filigrandraht und in aus Blech getriebene Ohrringe unterteilen. Weiter gibt es Ohrringe des Donautyps, die oft aus Bronzedraht bestanden, manchmal mit Granulation verziert, und solche des Veligrad-Typs, die häufig sehr massiv und prunkvoll sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Einfache Ohrringe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "a) einfache Ringohrringe – im ganzen slawischen Raum"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "b) Ohrringe mit Öse"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "c) S-förmiges Ende"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "d) mäanderförmiges Ende – Vorläufer des S-förmigen Schläfenringes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "e) spiralförmiges Ende"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "f) spiralförmige Anhänger – byzantinisch-orientalisch beeinflusst"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "g) röhrchenförmige Anhänger"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "h) hohle unverzierte Kügelchen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Prunkvolle Ohrringe",
+        "italic": true,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \n a) traubenförmige \n b) Ohrringe mit Trommelanhänger \n c) Körbchenohrringe \n e) lunulaförmige Ohrringe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weiterer Schmuck",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \n Weniger zahlreiche Schmuckgruppen stellen verschiedene Beschläge, Schließbroschen, Amulette und Ähnliches dar. Fast ausschließlich aus Frauen- und vor allem aus Mädchengräbern stammen lunulaförmige und andere Anhänger. Oft sind sie aus Edelmetallen und mit Granulation sowie Filigran verziert, und es gibt auch aus Bronze gegossene Lunulae."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "… dies ist nur eine kleine Kostprobe der unglaublichen Schönheit des slawischen Schmucks; ich hoffe, dass sie Ihnen wenigstens ein wenig ans Herz geht, und füge deshalb noch einige Bilder von Grabungsfunden hinzu sowie Repliken des sehr geschickten Herrn Pavol Francúz, der sich unter anderem auch mit Rekonstruktionen jenes slawischen, aber auch anderen Schmucks befasst."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://www.kovlad.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "und die Repliken des genannten Herrn"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Viele weitere herrliche slawische Schmuckstücke finden Sie "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bohatstvo-slovenov-slavic-wealth",
+        "children": [
+         {
+          "type": "text",
+          "text": "HIER"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " \n Zusammengestellt von: Veronika Ethereal"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

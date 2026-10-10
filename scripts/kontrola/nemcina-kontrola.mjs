@@ -95,6 +95,9 @@ const CISLA = [
 const VYNIMKY = {
   'mosaburg-pribinas-sitz-in-pannonien': ['slowakisch… pri dobových ľuďoch'],
   'hradiste-bei-partizanske-hoehensiedlung-nitrica': ['Akropolis →'],
+  /* Pohanská: oba výskyty sú v Janšákovom citáte z roku 1928, autorský text
+     článku píše Hauptburg 31×. Citát sa prekladá verne (§14). */
+  'pohanska-keltisches-oppidum-plavecke-podhradie': ['Akropolis →'],
   /* Anglický názov citovanej knihy (Zimonyi: Muslim Sources on the Magyars…)
      sa podľa §1 neprekladá; nemčina k nemu dáva zátvorkovú glosu. Osem
      „anglicizmov" v tom článku je práve z tohto názvu. */
