@@ -1,0 +1,386 @@
+{
+ "slug": "oresany-slepy-vrch",
+ "data": {
+  "title": "Slepý vrch bei Orešany – eine keltische Höhensiedlung der älteren Latènezeit",
+  "slug": "oresany-slepy-vrch-keltische-hoehensiedlung",
+  "excerpt": "Die keltische befestigte Höhensiedlung Slepý vrch (544 m ü. M.) liegt auf einem Seitenkamm der Kleinen Karpaten zwischen dem Tal der oberen Parná und den Dörfern Dolné und Horné Orešany. Sie stammt aus dem 5. Jahrhundert v. Chr., dem Beginn der jüngeren Eisenzeit, und nahm zwei Hektar mit zwei Befestigungsgürteln ein. Belegt sind Eisenerzabbau, Schmiede- und Verhüttungswerkstätten und sehr viele Waffen. Niederlegungen menschlicher und tierischer Knochen deuten auf ein gewaltsames Ende hin.",
+  "metaTitle": "Slepý vrch bei Orešany – keltische Höhensiedlung",
+  "metaDescription": "Die keltische Höhensiedlung Slepý vrch (544 m ü. M.) der älteren Latènezeit auf einem Seitenkamm der Kleinen Karpaten bei Dolné und Horné Orešany.",
+  "keyFacts": [
+   {
+    "label": "Meereshöhe",
+    "value": "544 m ü. M.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche",
+    "value": "auf zwei Hektar, Höhensiedlung mit zwei Befestigungsgürteln",
+    "icon": "map"
+   },
+   {
+    "label": "Wirtschaftliche Tätigkeit",
+    "value": "Eisenerzabbau, Schmiede- und Verhüttungswerkstätten, Schmuckherstellung",
+    "icon": "building"
+   },
+   {
+    "label": "Belege des gewaltsamen Untergangs",
+    "value": "Menge von Waffen (Lanzen, Speere, Pfeile, Schwerter), Niederlegung menschlicher und tierischer Knochen",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "5. Jahrhundert v. Chr.",
+    "title": "Entstehung der keltischen Höhensiedlung",
+    "description": "Die Höhensiedlung stammt aus dem 5. Jahrhundert vor unserer Zeitrechnung, also aus dem Beginn der jüngeren Eisenzeit – sie belegt, dass die Kelten das Gebiet der heutigen Slowakei früher besiedelten, als bislang angenommen wurde.",
+    "type": "founding"
+   },
+   {
+    "year": "1999",
+    "title": "„Entdeckung“ durch Schatzsucher",
+    "description": "Die systematischen Raubgrabungen in der Höhensiedlung begannen nach den Feststellungen mit der „Entdeckung“ durch Schatzsucher.",
+    "type": "event"
+   },
+   {
+    "year": "2002",
+    "title": "Erste Besichtigung des Fundortes",
+    "description": "Die ersten Informationen über die Fundstelle tauchten auf, als Z. Farkaš an dem Fundort eine Besichtigung durchführte.",
+    "type": "discovery"
+   },
+   {
+    "year": "2007",
+    "title": "Informative Veröffentlichung der Ergebnisse",
+    "description": "Die ersten Ergebnisse wurden in informativer Form veröffentlicht (Pieta 2007).",
+    "type": "discovery"
+   },
+   {
+    "year": "2008",
+    "title": "Sondagegrabung",
+    "description": "Im Rahmen des Projekts „Rettung des archäologischen Kulturerbes“ wurde eine Sondagegrabung durchgeführt, die auf das Ausmaß der Beschädigung der Siedlungsschichten und auf die Art der Befestigung der Höhensiedlung ausgerichtet war.",
+    "type": "discovery"
+   },
+   {
+    "year": "2011",
+    "title": "Analyse des osteologischen Materials",
+    "description": "Nach den ersten Analysen (Miklíková/Jakab 2011) sind unter den Tierknochen in den Deponierungen vor allem Hausrind und Schaf/Ziege vertreten, weniger Pferd und Schwein.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3760,
+    "alt": "Plan der Höhensiedlung Horné Orešany (Slepý vrch) mit eingezeichneten Schnitten und Maßstab"
+   },
+   {
+    "mediaId": 3778,
+    "caption": "Das ist wohl der schnellste Weg zur Höhensiedlung. Der Anfang ist nicht wichtig, interessant wird es von der Stelle an, wo der Waldrand beginnt. Die Hänge der Höhensiedlung sind übrigens recht steil; wir sind auch auf einem anderen Weg hinaufgestiegen – quer zu den Höhenlinien –, das war aber sehr anstrengend. Eine weitere Möglichkeit ist, den Weg von Majdan zu nehmen, von der gegenüberliegenden Seite des Berges.",
+    "alt": "Das ist wohl der schnellste Weg zur Höhensiedlung. Der Anfang ist nicht wichtig, interessant wird es von der Stelle an, wo der Waldrand beginnt. Die Hänge der Höhensiedlung sind übrigens recht steil, der Aufstieg quer zu den Höhenlinien ist anstrengend."
+   },
+   {
+    "mediaId": 3779,
+    "caption": "An dieser Stelle müssen Sie vom Hauptforstweg auf einen schmalen Pfad abbiegen. Er führt Sie bequem bis auf den Gipfel der Höhensiedlung.",
+    "alt": "An dieser Stelle müssen Sie vom Hauptforstweg auf einen schmalen Pfad abbiegen. Er führt Sie bequem bis auf den Gipfel der Höhensiedlung."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die keltische befestigte Höhensiedlung der älteren Latènezeit mit dem Namen Slepý vrch, in einer Meereshöhe von 544 m ü. M., liegt auf einer der Erhebungen eines Seitenkammes, der in nord-nordöstlicher Richtung aus dem Hauptmassiv der Kleinen Karpaten ausläuft, zwischen dem Tal des Oberlaufs der Parná im Westen und den Gemarkungen der Dörfer Dolné und Horné Orešany im Osten. Der Kern der Erhebung besteht aus Quarziten und Tonschiefern, die an eine Linie sandiger und fleckiger Kalksteine gebunden sind. Am östlichen Hang liegt in seinem unteren Teil auch ein Horizont von Phylliten und Schiefern des Altpaläozoikums. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung stammt aus dem 5. Jahrhundert vor unserer Zeitrechnung, also aus dem Beginn der jüngeren Eisenzeit. Bislang nahm man an, dass die Kelten das Gebiet der heutigen Slowakei erst später massenhaft besiedelten. Karol Pieta führte zu der Höhensiedlung an: „Auf dem Slepý vrch baute man offenbar Eisenerz ab. Auf zwei Hektar befand sich hier eine Höhensiedlung mit zwei Befestigungsgürteln.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der Höhensiedlung Orešany – Slepý vrch",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten Informationen über die Fundstelle tauchten im Jahr 2002 auf, als Z. Farkaš an dem Fundort eine Besichtigung durchführte. Im Rahmen des Projekts „Rettung und Schutz archäologischer Fundstellen als Teil des europäischen Kulturerbes“ erfolgte die Dokumentation samt einer Vermessung des Terrains, und es wurden Angaben über die Fundstelle sowie die von ihr verfügbaren Materialien zusammengetragen. Die Innenfläche der Höhensiedlung und auch die terrassenartigen Siedlungsflächen unter den Wällen sind gegenwärtig sehr stark durch systematische Raubgrabungen gestört, die nach unseren Feststellungen mit der „Entdeckung“ der Höhensiedlung durch Schatzsucher im Jahr 1999 begannen und in den letzten Jahren ihren Höhepunkt erreichten. Außer der Vermessung der Befestigung und der Stellen bedeutender Funde (Hortfunde, Konzentrationen von Artefakten) wurde an ausgewählten Stellen eine Sondage durchgeführt, deren Ziel es war, den Zustand und den Charakter der Siedlungsschichten festzustellen. Es bestätigte sich, dass die ganze Innenfläche sowie die westlichen und südlichen Hänge unter dem Wall intensiv durchsucht worden waren, wovon Hunderte von Grübchen nach Grabungen zeugen. Sie sind gleichzeitig ein Beleg dafür, wie reich diese Höhensiedlung vor ihrer Ausplünderung an Metallfunden war. Das bestätigt übrigens auch die umfangreiche Kollektion von Gegenständen, die zusammengetragen werden konnte. Die ersten Ergebnisse wurden in informativer Form veröffentlicht (Pieta 2007). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Beil aus der Höhensiedlung Orešany – Slepý vrch",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Rahmen des von der Regierung der Slowakischen Republik unterstützten Projekts „Rettung des archäologischen Kulturerbes“ wurde an dem Fundort im Jahr 2008 eine Sondagegrabung durchgeführt. Ihr Ziel war es, das Ausmaß der Beschädigung vor allem der unteren Siedlungsschichten und deren Stratigrafie festzustellen sowie die Art der Befestigung der Höhensiedlung zu überprüfen. Die Feldforschung war durch die begrenzte Zahl der Arbeitskräfte und die komplizierte Zugänglichkeit der Fundstelle eingeschränkt. Vor der Ausgrabung wurden die Fundstelle und die abgesteckten Flächen geodätisch vermessen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Besiedlung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sondage im Innenareal untersuchte nur kleine Flächen auf den Terrassen entlang der Befestigungen. Es erwies sich, dass diese Flächen künstlich eingeebnet und mit Steinen gepflastert waren. Im Schnitt I auf der südlichen Seite der Höhensiedlung wurden auf der Terrasse auch Fragmente verkohlter Hölzer festgestellt, die vielleicht Überreste eines ebenerdigen Baus sind. In diesem Teil der Höhensiedlung konzentrierten sich auffällig auch reichliche Belege für Schmiedehandwerk – Eisenschlacke, Halbfabrikate, zahlreiche Werkzeuge und Eisenerzeugnisse –, die Siedlungsschicht war jedoch zum Teil abgeschwemmt, mit Steinen vermischt und relativ dünn. Eine stärkere Schicht stellten wir entlang des nördlichen inneren Walles fest, wo sich in den oberflächennahen Partien auch ganz vereinzelte mittellatènezeitliche Scherben fanden. Auch hier gelang es nicht, Baureste zu identifizieren. Praktisch alle keramischen und metallenen Funde gehören in die Frühlatènezeit. Über dem hergerichteten Untergrund fanden sich Anhäufungen bemerkenswerter Funde aus dieser Zeit, die weiter unten als Deponierungen beschrieben werden. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fundinventar",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der Ausgrabung wurden hundert Inventarnummern Keramik, 32 Inventarnummern Proben, 575 Stück Kleinfunde und 14 Beutel osteologischen Materials erfasst. Aus der Keramik gelang es, fünf ganze Gefäße und mehrere Gefäßfragmente zu rekonstruieren, die ausschließlich aus den Fundniederlegungen im Schnitt III stammen. Unter den Kleingegenständen überwiegt eindeutig kleiner Abfall aus der Produktion, weiter Ahlen, Niete, Riemenschlaufen, Gürtelhaken und Teile von solchen (23 Stück). Auffällig ist die Zahl der tönernen Spinnwirtel (27 Stück), die auch auf der Oberfläche der Höhensiedlung reichlich auftreten; eine Menge dieser Gegenstände wurde auch in den vergangenen Jahren gefunden. Zu der hohen Zahl von Waffen, die bislang an der Fundstelle gefunden wurden, kamen weitere Stücke hinzu (Spitzen von zwei Speeren, zwei Pfeile, ein Fragment einer Schwertscheide). Auch die Zahl der gefundenen frühlatènezeitlichen eisernen Fibeln hat sich erhöht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Funde aus der Höhensiedlung Orešany – Slepý vrch",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sondagegrabung auf der Höhensiedlung Slepý vrch in Horné Orešany im Jahr 2008 brachte mehrere neue Feststellungen und Erkenntnisse. Der äußere Wall auf der südlichen Seite war überwiegend aus Erde und Steinen errichtet und hatte eine Steinfront. Die Freilegung auf der Terrasse entlang des Walles bestätigte deren künstliche Herrichtung, auf der nicht großen Fläche konnte sie jedoch keine Baubefunde produktiven Charakters feststellen, die wir hier auf der Grundlage der außerordentlichen Menge an Metallabfall vermuten. Der Wall wies keine Brandspuren auf, andererseits wurden auf der inneren Terrasse Überreste verkohlter Hölzer festgestellt. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der nördlichen Seite fanden sich im westlichen Teil der freigelegten Fläche (Schnitt II) keine überzeugenden Spuren einer durch Brand zerstörten Befestigung, doch einige Meter weiter östlich fanden sich Teile einer Wallkonstruktion, die durch waagrechte Balken verstärkt war (Schnitt III). Der geringe Umfang der Ausgrabung konnte die Frage nicht beantworten, ob wir auf die Grenze zweier unterschiedlicher Bautechniken der Befestigung gestoßen sind – eines einfachen aufgeschütteten Walles und einer anderen, Holz-Erde-Konstruktion – oder auf eine Stelle, an der ihr geplanter Bau nicht fertiggestellt wurde. Diese Fragen sowie detailliertere Erkenntnisse über den Bautyp dieser frühlatènezeitlichen Fortifikation könnte eine zusätzliche, erweiterte Ausgrabung dieser Stelle ergänzen. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Depotfunde"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzefibel aus der Höhensiedlung Orešany – Slepý vrch",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ohne Zweifel interessanteste Zugewinn sind die festgestellten Niederlegungen im Schnitt III, die aus menschlichen und tierischen Knochen bestehen. Es fanden sich hier auch Metallgegenstände und große Gefäßfragmente sowie ganze Exemplare. Nach den ersten Analysen (Miklíková/Jakab 2011) sind unter den Tierknochen vor allem Hausrind und Schaf/Ziege vertreten, weniger Pferd und Schwein, und zwar kraniale wie postkraniale Skelettteile. Die menschlichen Knochen wurden noch nicht analysiert, vertreten sind unvollständige Schädel wie auch Langknochen. Nach der Beobachtung im Gelände handelt es sich allgemein um Niederlegungen nicht anatomisch gelagerter Körperteile. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bisherige wirklich überdurchschnittliche Menge an Funden aus der Höhensiedlung mit einem hohen Anteil an Belegen des Handwerks sowie an Waffen, aber auch die Massenfunde lenken die Überlegungen zur Funktion und zum Untergang dieses Ortes in Richtung der Thesen von einer gewaltsamen Erstürmung der Höhensiedlung. Einige Tatsachen, wie etwa die extreme Menge mitunter deformierter Waffen (Speere, Lanzen, Schwerter), deuten auch auf die Möglichkeit der Existenz ritueller Deponierungen (Trophäen) hin. Zu diesem Schluss könnten vielleicht auch die entdeckten Deponierungen führen. Die laufende osteologische Analyse wird helfen, die Schlussfolgerungen in dieser Richtung zu präzisieren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bronzefibel aus der Höhensiedlung Orešany – Slepý vrch",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von dem gewaltsamen Untergang dieses Zentrums zeugt die Menge der gefundenen Waffen wie Lanzen, Speere, Pfeile und Schwerter. Das Drama, das sich hier offenbar einst abspielte, belegt auch die Niederlegung von Knochen und Schädeln von Menschen aller Altersstufen. Die Archäologen fanden auch Schmiede- und Verhüttungswerkstätten, Werkstätten für Schmuck und Edelmetalle, handwerkliche Werkzeuge und auch Erzeugnisse. „Ein wunderbarer Beleg der entwickelten frühkeltischen Kunst sind die Bronzefibeln, die an die keltische Mythologie gebunden sind und Fabelwesen darstellen“, führte Pieta an.\n \n \n "
+       },
+       {
+        "type": "text",
+        "text": "Kennzeichnung der Höhensiedlung vor Ort",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ": Wie bei vielen weiteren Burgwällen in der Slowakei finden Sie auch auf dem Slepý vrch keine Tafel und nichts Ähnliches, was die Besucher darüber informieren würde, dass sie sich auf einer bedeutenden keltischen Höhensiedlung befinden. Ebenso führen Sie keine Wandermarkierungen zu der Höhensiedlung. Typische slowakische Ignoranz gegenüber unserer Geschichte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

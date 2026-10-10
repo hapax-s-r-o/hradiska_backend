@@ -1,0 +1,294 @@
+{
+ "slug": "stary-plast-plavecky-mikulas",
+ "data": {
+  "title": "Starý plášť – eine befestigte Höhensiedlung über Plavecký Mikuláš in den Kleinen Karpaten",
+  "slug": "stary-plast-hoehensiedlung-kleine-karpaten",
+  "excerpt": "Wenig bekannt, aber sehr schön ist die befestigte Höhensiedlung Starý plášť in den Kleinen Karpaten, in der Gemarkung von Plavecký Mikuláš. Über 640 m hoch, auf einem aus dem Waldbestand ragenden Kalksteinfelsen, umschließt sie ein ovales Areal von 190 × 140 m und 1,9 ha: von drei Seiten bis zu 15 m hohe Felswände, von Norden ein Wall aus Holz und Erde mit einem trichterförmigen Tor, das noch heute genutzt wird.",
+  "metaTitle": "Starý plášť – Höhensiedlung bei Plavecký Mikuláš",
+  "metaDescription": "Die Höhensiedlung Starý plášť über 640 m im Plavecký kras: ovales Areal von 1,9 ha, Wall aus Holz und Erde und Felswände; Velatice- bis Podolí-Kultur.",
+  "keyFacts": [
+   {
+    "label": "Höhe ü. M.",
+    "value": "über 640 m (Plavecký kras, Kleine Karpaten)",
+    "icon": "star"
+   },
+   {
+    "label": "Maße",
+    "value": "ovales Areal ~190 × 140 m, Fläche 1,9 ha",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall aus Holz und Erde ~260 m + Felswände bis 15 m",
+    "icon": "star"
+   },
+   {
+    "label": "Kultur",
+    "value": "Velatice- → Podolí-Kultur (Spätbronzezeit)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätbronzezeit",
+    "title": "Volk der Urnenfelderkultur",
+    "description": "Erbauer der Velatice- und später der Podolí-Kultur; brillenförmige Spiralfibeln, Messer vom Typ Stillfried.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5952,
+    "caption": "LiDAR-Aufnahme der Höhensiedlung Starý plášť (Tibor Lieskovský)",
+    "alt": "LiDAR-Aufnahme der Höhensiedlung Starý plášť (Tibor Lieskovský)"
+   },
+   {
+    "mediaId": 5953,
+    "caption": "Blick auf den Steinwall",
+    "alt": "Blick auf den Steinwall"
+   },
+   {
+    "mediaId": 5954,
+    "caption": "Das Eingangstor zur Höhensiedlung wird auch nach 3000 Jahren noch genutzt",
+    "alt": "Das Eingangstor zur Höhensiedlung wird auch nach 3000 Jahren noch genutzt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "W",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "enig bekannt, aber dafür sehr schön ist die befestigte Höhensiedlung Starý plášť in den Kleinen Karpaten, die in der Gemarkung der Gemeinde Plavecký Mikuláš liegt. Ihr Name klingt recht geheimnisvoll, doch vor einigen Monaten habe ich im Forum unserer "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/groups/118846781525141",
+        "children": [
+         {
+          "type": "text",
+          "text": "Facebook-Gruppe Hradiska.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " aufgeschnappt, dass ein Leser, der aus der Umgebung der Höhensiedlung stammt, angab, der ursprüngliche Name sei Stará plošť gewesen. Eine solche Benennung würde angesichts des verhältnismäßig flachen Plateaus der Höhensiedlung schon einen ganz anderen Sinn ergeben. Bisher ist es mir jedoch nicht gelungen, diesen Namen auf irgendeiner alten Karte nachzuweisen, sodass wir diese Information noch mit Vorbehalt nehmen müssen. Der Zugang zu ihr ist sowohl von der Orešany-Seite als auch vom Záhorie her möglich, da man von beiden Seiten auf dem Wanderweg bequem zum Mon Repos kommt und von dort über das Steintor ohne Probleme auf den Waldweg gelangt, der zur Höhensiedlung führt. "
+       },
+       {
+        "type": "text",
+        "text": "Dieser Teil des Gebirgsmassivs besteht aus Kalkstein, der den sogenannten „Plavecký kras“ bildet. Im Rahmen der Kleinen Karpaten liegt die Höhensiedlung in höherer Lage, ihre Höhe über dem Meer übersteigt 640 m, und da die Höhensiedlung selbst teilweise auf einem erhöhten Felsen liegt, der aus dem Waldbestand herausragt, ist sie aus der Umgebung auf große Entfernung gut sichtbar. Das bedeutet gleichzeitig, dass die Bewohner der Höhensiedlung einen sehr guten Ausblick auf die weite Umgebung hatten, was ein großer taktischer Vorteil ist. Die Höhensiedlung schützen von der West-, Süd- und Ostseite senkrechte, bis zu 15 m hohe Felswände oder ein steiler Hang. Von der nördlichen, am leichtesten zugänglichen Seite errichteten ihre Verteidiger einen Wall aus Holz und Erde, dessen Überreste in einigen Teilen noch immer gut sichtbar sind. Die Felswände, der steile Hang und die Fortifikation umgrenzen ein Areal von ungefähr ovaler Form mit Maßen von 190 × 140 m, mit einer Gesamtinnenfläche von 1,9 ha, die verhältnismäßig flach ist, auch wenn es sich natürlich um keine ideale Ebene handelt und es hier auch Stellen mit deutlicheren Höhenunterschieden gibt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Aufnahme der Höhensiedlung Starý plášť (Tibor Lieskovský)",
+    "alt": "LiDAR-Aufnahme der Höhensiedlung Starý plášť (Tibor Lieskovský)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\nWas die Beschreibung der Wallbefestigung betrifft, so führt Juraj Bartík in dieser Hinsicht an, dass „das einzige derzeit bekannte Element der künstlichen Befestigung des Starý plášť ein Wall ist, der den Zugang von Norden und Westen schützt. Der im Gelände gut zu beobachtende Bogen, aufgeschüttet aus örtlichen Kalksteinblöcken mit größten Maßen von über 0,5 m, überwiegend jedoch nur 0,2–0,3 m, zieht sich über eine Länge von etwa 180 m hin. Im Westen verliert sich der Wall für das menschliche Auge allmählich. In diesem Teil ist sein Verlauf aber auf der Visualisierung des digitalen Reliefmodells gut zu beobachten. Der Bogen der künstlichen Befestigung, der den nordöstlichen und den südwestlichen Rand der Felswand verbindet, erreicht so eine Gesamtlänge von etwa 260 m. Im nördlichen, mächtigsten Teil hat die Destruktion aus Steinen und Lehm eine Höhe von 2 m und eine Breite von bis zu 12 m. Die heutigen Maße sind jedoch zweifellos durch das Abrutschen der Steinmasse den Hang hinab verändert. Spuren eines Grabens zeigten sich im Gelände nicht.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tor",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\nIm nordöstlichen Teil des Walls befindet sich der auch heute genutzte Zugang in das Areal der Befestigung. Es handelt sich offensichtlich um das ursprüngliche Tor, das vom östlichsten, in südlicher Richtung umgebogenen Abschnitt des Walls gebildet wird. Die „Halbbastion“, die die Ostseite des Zugangs schützt, folgt der natürlichen Konfiguration des felsigen Untergrunds, den man durch eine künstliche Befestigung erhöhte. Beide Arme des Zugangs sind nach innen in die Höhensiedlung umgebogen und bilden so ein mächtiges Tor mit trichterförmigem Grundriss. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf den Steinwall",
+    "alt": "Blick auf den Steinwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obwohl die Höhensiedlung schon zu Beginn der 50er Jahre entdeckt wurde, fand auf ihr bislang keine Sondagegrabung statt, sondern nur Oberflächenaufsammlungen. Zugleich wurde die Höhensiedlung von Sondengängern ausgeraubt. Einige illegal gewonnene Funde konnten die Mitarbeiter des Slowakischen Nationalmuseums (SNM) dokumentieren. Zwei bronzene Tüllenbeile waren zusammen mit einer brillenförmigen Spiralfibel gemeinsam deponiert, dicht hinter dem Wall, östlich der Innenseite des Eingangstores. Brillenförmige Spiralfibeln mit achterförmiger Schlinge treten vor allem in Hortfunden der jungen und späten Urnenfelderkultur auf, und daher lässt sich offenbar auch die älteste Datierung der Höhensiedlung in diese Periode einordnen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer dokumentierter Komplex illegaler Funde aus der Höhensiedlung sind bronzene Messer vom Typ Stillfried, Sicheln und ein Armringfragment, die nicht im inneren Areal der Höhensiedlung Starý plášť gefunden wurden, sondern in ihrer unmittelbaren Nähe, am Hang unter dem Wall und am Fuß der umlaufenden Felswand. Sie bildeten offenbar keinen geschlossenen Hortfund, sondern es handelt sich um Einzelfunde. In der Slowakei sind sie derzeit vor allem auf Fundstellen der Lausitzer Kultur vertreten, datiert in die Spätbronzezeit. Das Armringfragment ist ein Bruchstück eines kreisförmigen, nicht geschlossenen Schmuckstücks mit leicht nach außen gebogenen Enden. Den Schmuck des Handgelenks oder des Fußknöchels bedeckte auf der sichtbaren „äußeren“ Seite ein Ornament, das durch Ritzen und auch durch Treiben (Punzeinschläge) hergestellt wurde. Verschiedene lokale Varianten dieser Verzierung bedecken Armringe und auch Fußringe im mittleren Donauraum, im Ostalpenraum und auch in Böhmen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Eingangstor zur Höhensiedlung wird auch nach 3000 Jahren noch genutzt",
+    "alt": "Das Eingangstor zur Höhensiedlung wird auch nach 3000 Jahren noch genutzt",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1993–2000 führten die Mitarbeiter des SNM an der Fundstelle Oberflächenaufsammlungen durch. Sie fanden zahlreiche Scherben von Keramikgefäßen im inneren Areal der Höhensiedlung, vor allem im Raum hinter dem am weitesten nördlich gelegenen Wallabschnitt. In diesem Teil wurde auch ein Fragment der Klinge eines bronzenen Messers gefunden. Im Bereich des westlichen Wallendes fanden sie Fragmente urgeschichtlicher Keramik auch von der Vorderseite der Befestigung. Die Bruchstücke sind ausnahmslos von kleinen Maßen und in der absoluten Mehrheit unverziert. Eines von ihnen, ein dickwandiges, ist massiv sekundär durchglüht. In keinem einzigen Fall wurde eine Graphitierung der Oberfläche festgestellt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Datierung und Besiedlung der Höhensiedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der Keramik und der gefundenen Bronzegegenstände können wir die Höhensiedlung in die Spätbronzezeit datieren, und ihre Erbauer und Bewohner waren offenbar das Volk der Velatice- und später der Podolí-Kultur. Allgemein gehört diese Periode in den Rahmen des Volkes der Urnenfelderkultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Starý plášť (Plavecký Mikuláš)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Rahmen der Bewertung der Höhensiedlung führt Juraj Bartík an, dass die Höhensiedlung Starý plášť nicht in einer von menschlichen Aktivitäten unberührten Region lag, sondern in einer häufig besuchten und wahrscheinlich wirtschaftlich genutzten Landschaft. Das Gebirgsgebiet eignete sich für das saisonale Weiden von domestizierten Herdentieren, das Sammeln von Waldfrüchten und die Jagd auf Wild. Mit dem Metallgusshandwerk hing der Verbrauch von Holzkohle zusammen, die in jüngeren Perioden vor allem in bewaldeten Gebirgsgeländen produziert wurde. Archäologisch nicht belegt, jedoch potenziell möglich ist eine urgeschichtliche Ausbeutung von Erzen im Gebiet der Kupfervererzung zwischen Smolenice und Sološnica, also in unmittelbarer Nähe der Höhensiedlung Starý plášť."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

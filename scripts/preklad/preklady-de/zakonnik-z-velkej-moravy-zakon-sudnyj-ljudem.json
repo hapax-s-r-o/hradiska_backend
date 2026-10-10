@@ -1,0 +1,410 @@
+{
+ "slug": "zakonnik-z-velkej-moravy-zakon-sudnyj-ljudem",
+ "data": {
+  "title": "Zakon sudnyj ljudem – das Gesetzbuch aus Großmähren",
+  "slug": "zakon-sudnyj-ljudem-gerichtsgesetz-grossmaehren",
+  "excerpt": "Aus der Zeit vor Großmähren ist keine Rechtssammlung erhalten; dass es eigenes, vor allem gewohnheitsmäßiges Recht gab, verraten nur indirekte Spuren wie die Fuldaer Annalen von 849. Das älteste bekannte slawische Rechtsdenkmal, der Zakon sudnyj ljudem, schufen Konstantin und Method auf Bitte Rastislavs nach der byzantinischen Ekloge: 33 Artikel über Glauben, Sittlichkeit, Kriegsbeute und Zeugen. Der Beitrag bringt seinen Text und vergleicht ihn mit dem heutigen slowakischen Recht.",
+  "metaTitle": "Zakon sudnyj ljudem – Gesetzbuch aus Großmähren",
+  "metaDescription": "Der Zakon sudnyj ljudem, das älteste slawische Rechtsdenkmal: Konstantin und Method, die byzantinische Ekloge und 33 Artikel großmährischen Rechts.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Konstantin (Kyrill) und Method, auf Bitte des Fürsten Rastislav",
+    "icon": "book"
+   },
+   {
+    "label": "Datierung",
+    "value": "Zweite Hälfte des 9. Jahrhunderts (nach der Ankunft der Mission 863)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Inhalt",
+    "value": "33 Artikel des Straf- und des Privatrechts nach der byzantinischen Ekloge",
+    "icon": "scroll"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Das älteste bekannte slawische Rechtsdenkmal",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "849",
+    "title": "Erwähnung slawischer Gesetze",
+    "description": "Die Fuldaer Annalen erwähnen Verhandlungen der Franken mit den Slawen aus Böhmen unter Beteiligung von Männern, die der slawischen Gesetze und Gewohnheiten kundig waren.",
+    "type": "event"
+   },
+   {
+    "year": "863",
+    "title": "Ankunft der byzantinischen Mission",
+    "description": "Nach Mähren kamen Konstantin und Method, die später auf Bitte Rastislavs und der Adligen den Zakon sudnyj ljudem verfassten.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 9. Jh.",
+    "title": "Entstehung des Zakon sudnyj ljudem",
+    "description": "Konstantin schuf gemeinsam mit Method nach der byzantinischen Ekloge das älteste slawische Rechtsdenkmal mit 33 Artikeln.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4164,
+    "alt": "Doppelseite einer altkirchenslawischen Handschrift mit Text in zwei Spalten"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Zeit vor der Entstehung des großmährischen Staates ist uns keine ausführliche Rechtssammlung erhalten, wie wir sie z. B. aus dem Ostfränkischen Reich, aus Byzanz usw. kennen. Es ist jedoch anzunehmen, dass sich eine eigene Rechtssammlung, überwiegend wohl gewohnheitsrechtlicher Art, auch in den Zeiten vor der Entstehung Großmährens in Nitra (Neutra) und in Mähren gebildet hat. Ein indirekter Beleg dafür ist auch die Angabe der Fuldaer Annalen aus dem Jahr 849 über die Verhandlungen der Franken mit den Slawen aus Böhmen, für die Männer bestimmt wurden, die der slawischen Gesetze und Gewohnheiten kundig waren. Wichtig ist, dass der Chronist zwischen Gesetzen und Gewohnheiten – leges et consuetudines – unterschied. Damals galt nämlich allgemein die Regel, dass Gesetze in der Regel nur dann erlassen wurden, wenn bestimmte Gewohnheiten oder Bräuche geändert oder ersetzt werden mussten, damit sie den neuen Bedürfnissen entsprachen. Gewohnheiten und Bräuche, die den Adligen entsprachen und die in Gebrauch waren, mussten verständlicherweise nicht besonders in gesetzlicher Form festgeschrieben werden. Da der Eintrag nur 16 Jahre nach der Entstehung Großmährens entstand, ist anzunehmen, dass die erwähnten Gewohnheiten und Bräuche noch aus älteren Zeiten stammen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das unvollkommene Bild vom Recht und vom Verfahren vor den weltlichen Gerichten – den sogenannten "
+       },
+       {
+        "type": "text",
+        "text": "placita secularia",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – im Großmährischen Reich lässt sich zumindest teilweise aus bruchstückhaften Angaben der Chroniken, vor allem ostfränkischer Provenienz, ergänzen und weiter durch den Vergleich mit einigen Institutionen der ältesten böhmischen, slawischen überhaupt und ungarischen Rechtsdenkmäler. Von den ungarischen Rechtsdenkmälern ist es z. B. das sogenannte "
+       },
+       {
+        "type": "text",
+        "text": "Regestum Varadiense",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", das eigentlich eine Aufzeichnung über vollzogene Gottesurteile war. Schon die Bezeichnung des betreffenden Gerichtstribunals selbst – "
+       },
+       {
+        "type": "text",
+        "text": "iudicium ad praudam",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " /pravdam/ – zeugt davon, dass es noch in der Zeit vor der Entstehung des Königreichs Ungarn entstand. Der unmittelbare Bezug zum Großmährischen Reich bzw. zur Region Nitra ist dadurch gegeben, dass die Grenzen der Wirksamkeit dieses Tribunals bis an das Grenzgebiet reichten, das sie von der Region Nitra trennte. Darauf deuten schließlich auch die Statuten des ungarischen Königs Koloman hin, die es zuließen, diese „iudicia“ nur in Bischofssitzen abzuhalten, wobei gerade Nitra und Bratislava (Pressburg) eine Ausnahme bildeten, und zwar deshalb, weil sie als Gerichtsstuhl schon eine große Tradition hatten. Es ist sehr wahrscheinlich, dass einen bestimmten Zusammenhang mit dem großmährischen Recht auch einige alte slawische Termini und Bestimmungen der sogenannten Statuten des Fürsten Konrad Otto /Statuta ducis Ottonis/ haben, die wohl am Ende des 12. Jahrhunderts erlassen wurden. Erhalten haben sie sich jedoch in drei späteren Redaktionen, und zwar für das Teilfürstentum Znojmo (Znaim) /1222/, Brünn /1229/ und Břeclav (Lundenburg) /1123/, d. h. gerade für die einstigen zentralen Gebiete des großmährischen Staates. Es sind z. B. die alten Rechtstermini: nárok /nárok/, der auch in Methods Übersetzung des Nomokanon angeführt wird, weiter zok /sok/, druho /druh/, zuod /svod/, powod /pôvod/, zlubni zud /sľubný súd/, Wiboy /výboj/, hirdozt /hrdosť/, wrez /vrez/, pohonce /póhončie/, nestoite /nestojte/, kiy /kyj/. Es sind aber auch Vorschriften über Gottesurteile /iudicium ferri, vergleiche auch die Chronik des Cosmas, iudicium aguae/. Auch die Funktion der vetula /der Alten/ bei diesen Ordalien hat wohl sehr alte Wurzeln, ebenso die Bestimmungen über Zeugen /„sub testimonio ... probos viros“/, die viel mit den entsprechenden Vorschriften des Zakon sudnyj ljudem und mit der sogenannten Methodhomilie /aus dem Sammelkodex Glagolita Clozianus/ gemeinsam haben. Aus dem Bereich der Staatsverwaltung werden die suppani /Gespane, ebenso führt sie auch der Zakon sudnyj ljudem an/ in Erinnerung gerufen. Von den böhmischen Rechtsdenkmälern ist unter diesem Aspekt weiter auch das sogenannte Rosenberger Buch (Kniha Rožmberská) zu untersuchen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Zakon sudnyj ljudem – das Gesetzbuch aus Großmähren",
+    "caption": "",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch fränkische Quellen bezeugen, dass in Großmähren als Beweismittel "
+       },
+       {
+        "type": "text",
+        "text": "„Gottesurteile“ /Ordalien",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "/ oder der "
+       },
+       {
+        "type": "text",
+        "text": "Eid",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " verwendet wurden, der jedoch – neben dem Handschlag bzw. der Übergabe von Bürgen – auch der Sicherung einer Verpflichtung diente. Eine sehr häufig verwendete Institution war das Asyl. Als Strafe wurde auch die Verbannung verwendet. Die Vollstreckung des Urteils sicherten die Organe der öffentlichen Gewalt, Gerichtsdiener und Söldner, sowie die sachliche Ausstattung: Verliese, Gefängnisse, eiserne Fesseln, Blöcke usw."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Grenzgebieten versuchten fränkische comites Einfluss auf das mährische Gerichtswesen zu gewinnen. Allgemein ist anzunehmen, dass der Einfluss des fränkischen Rechts verhältnismäßig groß war, auch wenn er nicht willkommen war. Bedeutend war jedoch auch der byzantinische Einfluss /die Rezeption des byzantinischen Rechts/. Nach den überzeugenden sprachwissenschaftlichen Nachweisen von J. Vašica ist nämlich der sogenannte Zakon sudnyj ljudem (Gerichtsgesetz für das Volk) /das älteste bekannte slawische Rechtsdenkmal/ als ein Werk anzusehen, das Konstantin gemeinsam mit Method für das Großmährische Reich auf Bitte Rastislavs und seiner Adligen bzw. Gespane etwa in der zweiten Hälfte des 9. Jahrhunderts /nach der Ankunft ihrer Mission in Mähren im Jahr 863/ schuf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den "
+       },
+       {
+        "type": "text",
+        "text": "Zakon sudnyj ljudem",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " erarbeiteten seine Autoren nach byzantinischen Vorbildern, vor allem nach der sogenannten Ekloge, jedoch mit bestimmten markanten Änderungen und Ergänzungen weströmischen bzw. slawischen Charakters. Der Zakon sudnyj ljudem enthält in 33 Artikeln vor allem Vorschriften des Strafrechts: Delikte gegen den Glauben, gegen die Sittlichkeit und Vermögensdelikte – Diebstahl und Brandstiftung –, weiter das Asylrecht, Bestimmungen über die Teilung der Kriegsbeute und über die Zeugen. Aus dem Privatrecht sind es vor allem die Bestimmungen des Familienrechts /monogame Ehe und ihre Hindernisse, Scheidung usw./, weiter das commodatum /ähnlich die entsprechenden Artikel aus den Gesetzen König Ladislaus' in Ungarn/ und der Schadensersatz und schließlich auch die Bestimmungen über den Loskauf von Kriegsgefangenen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erwähnten Abweichungen des Textes des ZSL von der byzantinischen Ekloge sind in der sogenannten Anonymen – auch Methodhomilie genannten – Homilie /aus der Sammlung Glagolita Clozianus/ hervorgehoben, die eine Art Mahnrede an die Fürsten-Richter ist, die Bestimmungen des ZSL einzuhalten. Es waren vor allem diese Änderungen, die überwiegend durch die Übernahme von Vorschriften des weströmischen Kirchenrechts zustande kamen: die aktive Beteiligung der Zeugen am Verfahren, der Ersatz der grausamen Körperstrafen der Ekloge durch kirchliche Fasten und das Verbot heidnischer Eide und Bräuche. Außerdem betonte diese Homilie einige weitere Bestimmungen und Vorschriften des ZSL, die aus Sicht der Kirche bedeutsam waren, wie z. B.: die Unparteilichkeit vor Gericht, das Verbot der Ehe zwischen geistlich verwandten Personen, den Grundsatz der monogamen Ehe und ihrer Unauflöslichkeit und vor allem den Vorrang der sogenannten „göttlichen“, kirchlichen Gesetze über die weltlichen Gesetze."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die verhältnismäßig unvollständige Systematik und ebenso der Inhalt dieses Gesetzes selbst, das vor allem solche Rechtsverhältnisse regelte oder änderte, an denen die Kirche ein eminentes Interesse hatte, bezeugen, dass der Zakon sudnyj ljudem im Großmährischen Reich wahrscheinlich nur als ergänzende und "
+       },
+       {
+        "type": "text",
+        "text": "Hilfsnorm einer schon bestehenden eigenen Rechtssammlung und Rechtsordnung überhaupt verwendet wurde, deren Grundlage das Gewohnheitsrecht war",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Der Zakon sudnyj ljudem bezeugt nicht nur die Existenz, sondern auch die Lebensfähigkeit eines eigenen Rechtssystems. Dieses slawisch-mährische Recht unterlag nicht nur nicht als Ganzes der Rezeption des entwickelten byzantinischen Rechts, sondern transformierte im Gegenteil einige seiner Vorschriften auf schöpferische Weise im Einklang mit den eigenen Institutionen und den gesamten gesellschaftlichen Verhältnissen überhaupt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dieser Zeit sind auch bedeutende Denkmäler des Kirchenrechts erhalten. Neben der schon erwähnten sogenannten Anonymen bzw. Methodhomilie war es vor allem Methods Übersetzung des sogenannten "
+       },
+       {
+        "type": "text",
+        "text": "Nomokanon",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Vorlage für diese Übersetzung war Method eine byzantinische Sammlung des kanonischen Rechts, deren Autor der Konstantinopeler Patriarch Johannes Scholastikos war, und zwar die sogenannte Synagoge in 50 Titeln, die nicht nur die oströmische, sondern auch die weströmische Kirche anerkannte, weshalb sie auch für Großmähren geeignet war. Dennoch kürzte Method seinen Nomokanon um 142 Kanones; die Synagoge hatte 377 davon. Die Übersetzung des Nomokanon enthält folgende Termini, die vielleicht mährischen Ursprungs sind: „istina“ /in der Bedeutung einer gestohlenen Sache/ – dieser Terminus findet sich auch im böhmischen Rosenberger Buch –, weiter „rok“ /führt auch die Dalimil-Chronik an/, „nárok“ /führen auch das Rosenberger Buch und die Statuten Konrad Ottos an/, „obrok“, „uvarovati“ /ein Kind/ usw. Aus der Staatsorganisation sind es folgende Termini: „snem“ /auch in den Leben Konstantins und Methods/, „oblasť“ und „predel“ /vergleiche medza, meza/."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere bedeutende Sammlung des kanonischen Rechts, diesmal ausgesprochen weströmischen Charakters, ist die sogenannte "
+       },
+       {
+        "type": "text",
+        "text": "Collectio canonum",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " /auch „Erweiterte Hadriana“/, die Method auf einer seiner Reisen nach Rom vom Papst zur Stärkung seiner erzbischöflichen, metropolitanen Befugnis über die untergeordneten Bischöfe, die Suffragane, erhielt. Die Collectio canonum ist auch deshalb bedeutend, weil sie die ältesten bekannten slawischen Glossen enthält, die sogenannten Emmeramer /glossiert ist der 35.34./ Kanon, „De primatu episcoporum“. Das kirchliche kanonische Recht und sogar die Vorschriften der Bibel hatten allgemein großen Einfluss auf das weltliche Recht und besonders auf das Verfahren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zakon sudnyj ljudem (Großmähren, 9. Jahrhundert)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "1. Vor jedem Gesetzbuch ist von der Gerechtigkeit Gottes zu sprechen. Darum schrieb und sprach der heilige Konstantin im ersten Gesetz so: Jedes Dorf, in dem heidnische Opfer oder Eide vollzogen werden, soll dem Tempel Gottes übergeben werden mit allem Besitz, der den Herren in diesem Dorfe gehört. Jene, die die Opfer und Eide vollziehen, sollen mit allem ihrem Besitz verkauft werden, und der gewonnene Erlös soll den Armen gegeben werden.\n2. In jedem Streit, jeder Klage und jeder Anzeige ist einzuhalten, dass der Fürst und der Richter eine Anzeige nicht ohne Vernehmung vieler Zeugen annehmen. Den Parteien, den Klägern und den Anzeigenden ist zu sagen: Wenn ihr es nicht mit Hilfe von Zeugen beweist, wie es auch das Gesetz Gottes gebietet, so erwartet, dass ihr dieselbe Strafe empfangt, die ihr gegen den anderen ausgesprochen habt. So gebietet es das Gesetz Gottes, und wer es nicht hält, der sei verflucht.\n3. Über die Beute. Wer gegen den Feind in den Kampf auszog, der soll sich aller bösen Worte und Taten hüten. Er soll Gott im Sinne haben, beten und den Kampf mit Bedacht führen. Denn Hilfe von Gott empfangen jene, die bedachte Herzen haben. Der Sieg beruht nämlich nicht auf übergroßer Stärke, denn die Stärke ist von Gott. Wenn Gott den Sieg gibt, so nehme der Fürst den sechsten Teil, und das Übrige sollen alle Leute zu gleichen Teilen unter sich teilen, ob sie groß oder klein sind. Denn den Gespanen soll der fürstliche Anteil und die Zulage zum Söldnerlohn ihrer Mannschaft genügen. Finden sich unter ihnen einige, sei es Kmeten oder einfache Krieger, die dank Mut und Tapferkeit Heldentaten vollbringen, so füge ihnen der Fürst oder der anwesende Woiwode aus dem fürstlichen Anteil hinzu, wie es sich gebührt, um sie auszuzeichnen. Dieselbe Summe, die jene erhalten, die am Kampf teilgenommen haben, sollen auch jene erhalten, die im Lager geblieben sind. Denn so hat es der Prophet David gesagt, geschrieben und festgesetzt.\n4. Wer eine eigene Ehefrau hat und mit einer Sklavin sündigt – wenn sich dieses Vergehen bestätigt, ist es nötig, dass der Fürst dieses Landes sie in ein anderes Land verkauft und die für sie erlangte Summe unter die Armen geteilt wird. Ebenso soll der Unzüchtige nach dem Gesetz Gottes vom Fürsten den Priestern zu siebenjähriger Buße überlassen werden: zwei Jahre soll er während der Messe vor dem Tempel Gottes stehen, zwei weitere Jahre soll er bis zur Lesung des Evangeliums in den Tempel gehen und den Rest der Messe draußen verbringen und die Messe anhören, und weitere zwei Jahre darf er bis zum Ich glaube an den einen Gott bleiben. Im letzten, siebten Jahr soll er im Tempel stehen, aber nicht kommunizieren. Nach Ablauf der sieben Jahre, im achten Jahr, soll er schon kommunizieren. (Die Verurteilten) sind verpflichtet, sieben Jahre lang nichts anderes als Brot und Wasser zu essen.\n5. Wer mit einer fremden Sklavin sündigt, der zahle dem Herrn der Sklavin 30 Goldstücke und unterziehe sich selbst der siebenjährigen Buße, wie wir schon gesagt haben, damit er nicht gestraft werde. Ist er arm, so zahle er dem Herrn der Sklavin nach der (Größe) seines Vermögens und unterziehe sich selbst dem erwähnten Fasten.\n6. Wer mit einer Nonne Unzucht treibt, dem schneidet man nach dem weltlichen Gesetz die Nase ab; nach dem kirchlichen jedoch soll ihm fünfzehnjährige Buße auferlegt werden.\n7. Wer die Mutter seines Patenkindes zur Frau nimmt, dem schneidet man nach dem weltlichen Gesetz beiden die Nasen ab und scheidet sie. Nach dem kirchlichen Gesetz sollen sie geschieden werden und sich 15 Jahre der Buße unterziehen. Die Ordnung des Fastens ist diese: fünf Jahre draußen (vor dem Tempel) mit Weinen stehen und die Messe anhören, dann dürfen sie vier Jahre im Tempel bis zum heiligen Evangelium sein und drei Jahre bis zum Ich glaube an den einen Gott und weitere drei Jahre bis zum Ende der Messe, bei Brot und Wasser. Und wenn sie so die Fastenfrist beenden, sollen sie im sechzehnten Jahr schon kommunizieren. Dieselbe Strafe soll den treffen, der eine Patentochter heiratet oder sich mit einer verheirateten Frau versündigt.\n7a. Über die Zeugen. Über all diese (Schuldigen) soll der Fürst und der Richter in jedem Streit mit aller Sorgfalt und Geduld die Untersuchung führen und nicht ohne Zeugen verurteilen. Es sind jedoch wahrhaftige Zeugen zu suchen, gottesfürchtige, geachtete und solche, die keinen Hass noch Bosheit, noch Zorn, noch Streit, noch Beschuldigung gegen den haben, über den sie Zeugnis geben, sondern nur die Furcht vor Gott und seiner Gerechtigkeit. Die Zahl der Zeugen sei elf oder auch mehr als diese Zahl. In einem kleinen Streit von sieben bis drei, aber nicht weniger als diese Zahl. Der Richter hat jedoch die Macht, von dem, gegen den sie aussagen, ein Pfand anzunehmen und den Zeugen einen Eid oder auch eine Buße oder dieselbe Strafe zu bestimmen, falls sich einmal zeigt, dass sie gelogen haben. In keinem einzigen Streit sollen jene als Zeugen angenommen werden, die einmal überwiesen wurden, dass sie lügen oder das Gesetz Gottes übertreten oder ein verkehrtes Leben führen, oder die als unfähig vom Eid ausgeschlossen werden.\n8. Wenn jemand eine Jungfrau ohne Zustimmung der Eltern verführt hat und diese später davon erfahren, so soll, falls er sie nehmen will und auch ihre Eltern es wollen, die Hochzeit gehalten werden. Weigert sich jedoch einer von ihnen und ist es ein (Mensch), der um seines Reichtums willen geachtet ist, so gebe er dem Mädchen für die Entehrung ein Litra Gold, das heißt 72 Goldsolidi. Ist er ärmer, so gebe er die Hälfte seines Vermögens. Ist er aber besitzlos, so lasse ihn der Richter auspeitschen und aus seinem Bezirk verbannen. Er ist auch verpflichtet, sich sieben Jahre lang der Buße zu unterziehen, wie wir geschrieben haben.\n9. Wer eine Jungfrau an einem verlassenen Ort notzüchtigte, wo niemand war, der ihr helfen konnte, der soll gestraft werden, und sein Vermögen soll dem Mädchen gegeben werden.\n10. Wer ein heranwachsendes Mädchen vor der Vollendung des dreizehnten Jahres verführt hat, der soll mit (dem Verlust) seines ganzen Vermögens gestraft werden, und der Erlös daraus soll dem Mädchen gegeben werden. Nach dem kirchlichen Gesetz unterliegen er und auch jener, der an einem einem Manne verlobten Mädchen Gewalt verübte, alle der siebenjährigen Buße, wie wir es schon früher bei der verheirateten Frau erwähnt haben.\n12. Die Blutschänder, die mit Blutsverwandten eine Ehe geschlossen haben, sollen geschieden werden.\n13. Wer zwei Ehefrauen hat, der verstoße jene, die er später genommen hat, samt den Kindern. Danach soll man ihn auspeitschen, und er büße sieben Jahre.\n14. Wer einen fremden Wald anzündet oder in ihm Bäume fällt, der zahle doppelten Ersatz.\n15. Wer aus Feindschaft oder um des Raubes von Gut willen Wohngebäude mit Feuer anzündet, den soll man verbrennen, wenn es in der Stadt geschieht. Geschieht es im Dorf oder auf einem Gehöft, so soll man ihn mit dem Schwert hinrichten. Nach dem Kirchenrecht aber wird er auf 12 Jahre zur Buße übergeben, denn er ist ein Feind. Will jemand Stoppeln oder Gesträuch auf seinem Grundstück verbrennen und entzündet ein Feuer, und dieses springt über und entzündet ein fremdes Feld oder einen fremden Weinberg, so ist die ganze Sache zu beurteilen und zu untersuchen. Ist es so dazu gekommen, dass er das Feuer aus Unwissenheit oder Leichtsinn entzündete, so entschädige er den Betroffenen. Hätte er das Feuer an einem windigen Tag entzündet oder die nötigen Vorkehrungen nicht getroffen und gesagt: das Feuer breitet sich nicht aus, oder aus Faulheit, oder dass er nicht kann, und das Feuer richtet Schaden an, so zahle er und werde ausgepeitscht. Hätte er jedoch alle Vorkehrungen gewahrt und es kam plötzlich ein Sturm und das Feuer breitete sich deshalb sehr aus, so soll er nicht verurteilt werden. Entzündet sich jemandes Haus durch einen Blitz und verbrennt entweder seine eigene Behausung, oder das Feuer breitet sich aus und es verbrennen auch die Häuser seiner Nachbarn, so soll er, weil dieser Brand unversehens entstand, nicht gerichtet werden.\n16. Niemand soll den, der sich in den Tempel geflüchtet hat, mit Gewalt aus ihm herausführen. Wer hierher flieht, der setze den Priester von seiner Sache und von der Schuld in Kenntnis, die er begangen hat. Der Priester nehme ihn als Flüchtling auf, damit sein Verbrechen nach dem Gesetz untersucht und geprüft werde. Versucht jemand, wer es auch sei, den, der hierher geflohen ist, mit Gewalt aus dem Tempel herauszuführen, der empfange 140 Stockschläge. Danach soll das Verbrechen dessen, der hierher geflohen ist, gebührend geprüft werden.\n17. Hat jemand mit einem anderen Streit und zeigt es den Adligen nicht an und streitet um seinen Nachteil, indem er seine Absicht entweder mit Macht oder mit Gewalt durchsetzen will – tut er dies, so soll er, auch wenn er im Recht ist, um seine Sache kommen und sie zurückgeben. Hätte er etwas Fremdes genommen, so soll ihn der Adlige jenes Landes mit Stockschlägen züchtigen, denn er unterwirft sich nicht der Obrigkeit und wird selbst zu seinem eigenen Rächer. Und wenn er so handelt, so gebe er zurück, was er genommen hat.\n18. Wenn Eltern und Kinder einander widersprechen, so soll man ihnen nicht glauben. Und weder zugunsten des Herrn noch gegen ihn soll ein Sklave oder ein Freigelassener als Zeuge auftreten.\n19. Wenn jemand von fremden Kriegern einen Kriegsgefangenen kauft und ihn zu sich ins Haus nimmt, so gebe der Gefangene, falls er die Summe bei sich hat, für die er gekauft wurde, diese für sich und darf frei weggehen.\n20. Zeugen vom Hörensagen sollen nicht Zeugnis geben und sollen nicht sagen: Wir haben von jemandem gehört, dass dieser ein Schuldner ist, oder wenn sie über etwas anderes vom Hörensagen Zeugnis geben. Sie sollen auch in dem Falle nicht Zeugnis geben, wenn es sich um Gespane handelt.\n21. Krieger, die gefangen genommen wurden und ihren christlichen Glauben verleugneten, sind bei der Rückkehr in ihr Land und zu ihrem bürgerlichen Recht der Kirche zu übergeben.\n22. Wenn sich jemand ein Pferd für den Weg zu einem bestimmten Ort leiht oder es aussendet, und es geschieht, dass das Pferd sich verletzt oder verendet, so muss der Entleiher den Eigentümer des Pferdes entschädigen.\n24. Wer im Krieg stiehlt: ist es eine Waffe, so werde er geschlagen. Ist es ein Pferd, so zahle er eine Buße.\n25. Will der Herr einen solchen Sklaven, der stiehlt, behalten, so ersetze er den Schaden. Will er diesen Sklaven nicht mehr haben, so übergebe er ihn dem Bestohlenen in die Sklaverei.\n26. Wer eine fremde Herde wegtreibt: hat er es zum ersten Mal getan, so werde er geschlagen. Hat er es zum zweiten Mal getan, so werde er aus dem Lande vertrieben. Hat er es zum dritten Mal getan, so werde er der Strafe ausgesetzt, aber erst dann, wenn er alles zurückgegeben hat, was er weggetrieben hat.\n27. Wer die Toten im Grabe auszieht, der werde bestraft.\n28. Wer bei Tag oder bei Nacht zum Altar eindringt und etwas von den heiligen Gefäßen oder Gewändern oder irgendeine andere Sache nimmt, der werde bestraft. Wer etwas aus den übrigen Teilen der Kirche nimmt, der werde mit Stockschlägen gezüchtigt, geschoren und als Gottloser aus dem Lande vertrieben.\n29. Wer einen freien Menschen gefangen nimmt und ihn verkauft oder zum Sklaven macht, der werde auch selbst zum Sklaven gemacht; da auch er einen Freien zum Sklaven machte, so soll er selbst die Sklaverei erfahren.\n30. Wer einen fremden Sklaven zu sich lockt, ihn verbirgt und nicht sagt, wo er ist, der ist verpflichtet, ihn seinem Herrn zurückzugeben oder ihm einen anderen oder dessen Preis zu geben.\n30a. Der Streit der Ehegatten. Die Weisheit des Schöpfers und Erlösers, unseres Herrn und Gottes, lehrt uns, dass die eheliche Gemeinschaft von Gott her unauflöslich ist. Denn als er den nicht vorhandenen Menschen ins Sein schuf, erschuf er die Frau nicht auf dieselbe Weise, dass er Lehm von der Erde genommen hätte, obwohl er es konnte, sondern er nahm eine Rippe vom Manne und schuf sie, um so weise durch die Verbindung eines Leibes in zwei Personen die unauflösliche Ehe zum Gesetz zu machen. Darum trennte er auch die Frau, als sie durch die List des Teufels die Bitterkeit zu schmecken begann und davon auch den Mann kosten ließ, nicht vom Manne. Auch den Mann, der mit seiner Frau das Gebot Gottes übertrat, trennte er nicht von der Frau, sondern er bestrafte sie für diese Sünde mit Leiden. Ihre Ehe aber erhielt er. Nach diesem Gesetz also – das schon offenbart und durch das Evangelium bestätigt wurde, als die Pharisäer Christus, unseren Gott, fragten, ob es erlaubt sei, die eigene Frau um jeder Sünde willen zu entlassen, und Jesus antwortete: Was Gott verbunden hat, das soll der Mensch nicht trennen, außer um der Ursache des Ehebruchs willen – richten auch wir uns als wahrhafte Jünger Christi Gottes und wagen nicht, etwas anderes zum Gesetz zu machen. Da jedoch der Teufel zwischen den Ehegatten Hass sät wegen Klagen oder wegen leiblicher oder anderer Laster, setzen wir darum als Ursachen, aus denen die Ehegatten geschieden werden, durch Gesetz diese fest: der Mann trennt sich von seiner Frau wegen einer solchen Sünde, wenn die Frau überwiesen wird, dass sie Anschläge gegen sein Leben schmiedete, oder auch wenn sie von irgendwelchen bösen Taten fremder Personen erfuhr, die gegen den Mann gerichtet waren, und es ihm nicht anzeigte, oder wenn sie in die Krankheit des Aussatzes verfällt. Die Frau trennt sich von ihrem Mann dann, wenn er ihr Anschläge schmiedet oder davon bei anderen weiß und es ihr nicht sagt, sowie auch dann, wenn er in die Krankheit des Aussatzes verfällt. Und auch in dem Falle, wenn einer von ihnen vor dem ehelichen Verkehr in eine schlimme Krankheit verfällt. All dies steht dem Fürsten und den Richtern zu, mit Zeugen zu untersuchen, wie wir darüber früher geschrieben haben, vor dem Gericht Gottes, wo alle menschlichen Laster von den Fürsten gerichtet werden sollen. Und darum dürfen wir auf niemanden sehen, sondern alle Tag für Tag im Gesetz Gottes unterweisen und auf Christus Gott hoffen, dass wir beim letzten Gericht die selige Stimme hören werden: Kommt, selige treue Knechte, über Vieles will ich euch setzen, gehet ein in die Freude des Herrn, eures Gottes, und freuet euch mit den Engeln in Ewigkeit.",
+    "author": "Konstantin (Kyrill) und Method",
+    "source": "Zakon sudnyj ljudem, Großmähren, 9. Jahrhundert"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vergleich ausgewählter Bestimmungen mit dem geltenden Recht der Slowakischen Republik:"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 127 Abs. 1 StPO: Jeder ist verpflichtet, einer Vorladung der Strafverfolgungsbehörden und des Gerichts Folge zu leisten und als Zeuge darüber auszusagen, was ihm über die Straftat und über den Täter oder über die für das Strafverfahren wichtigen Umstände bekannt ist."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 346 Abs. 1 StGB: Wer als Zeuge in einem Verfahren vor Gericht oder im Strafverfahren oder für die Zwecke eines Strafverfahrens im Ausland vor einem Staatsanwalt oder einem Polizisten oder vor einem Richter eines von der Slowakischen Republik anerkannten internationalen Organs die Unwahrheit über einen Umstand angibt, der für die Entscheidung wesentliche Bedeutung hat, oder wer einen solchen Umstand verschweigt, wird mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren bestraft."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 203 StGB: „Wer mit einem Verwandten in gerader Linie oder mit einem Geschwister den Beischlaf vollzieht, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft.“"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 204 StGB: „Wer während des Bestehens seiner Ehe eine andere Ehe schließt, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft.“"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hier ist offenkundig nicht die Inbesitznahme von Sachen des Feindes gemeint, sondern von Sachen, die den Soldaten des eigenen Heeres gehören. Heute ist das praktisch Diebstahl."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 212 Abs. 1 StGB: „Wer sich eine fremde Sache aneignet, indem er sich ihrer bemächtigt, und dadurch einen geringen Schaden verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft“"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "§ 365 Abs. 1 StPO: „Wer ein Grab, eine Urne mit menschlichen Überresten, ein Denkmal oder eine Grabplatte zerstört, beschädigt oder entweiht oder wer die Einrichtung eines Begräbnisplatzes oder eines anderen Ortes der letzten Ruhe zerstört oder beschädigt, oder wer sich auf einem Begräbnisplatz oder an einem anderen Ort der letzten Ruhe einer anderen groben Unanständigkeit oder eines Unfugs schuldig macht, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft. Zugleich handelt es sich aber auch um einen klassischen Diebstahl“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Familienrecht, Ehescheidung, Verhältnisse zwischen den Ehegatten – Familiengesetz)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

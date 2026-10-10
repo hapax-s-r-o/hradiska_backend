@@ -730,3 +730,9 @@ preložený, rovnako ako anglická.
 
 **horne-plachtince-pohansky-vrch**
 : „severný val patrí medzi najväčšie na východnom Slovensku", pričom lokalita leží v Krupinskej vrchovine
+
+**trzcinica-pl**
+: dve vety sú okresané elipsou — „podrobný archeologický … v rokoch 1991 – 1996" a „priekopami a … so sklonom 20 – 40°"
+
+**sutovo-ratkovo-hradisko**
+: prvá veta je neúplná („na strategickom bode medzi hlavnou komunikačnou trasou…" bez druhého člena); Molpír je označený za „významné keltské centrum", hoci je halštatský

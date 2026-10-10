@@ -1,0 +1,180 @@
+{
+ "slug": "humno-najstarsia-zmienka",
+ "data": {
+  "title": "Humno – die älteste Erwähnung eines slawischen Wirtschaftsbaus",
+  "slug": "humno-aelteste-schriftliche-erwaehnung",
+  "excerpt": "Als humno bezeichnet man heute einen Wirtschaftsbau zur Aufbewahrung von geerntetem Getreide, Heu und Wirtschaftsgerät. Archäologisch sind solche Bauten bei den Slawen bereits nach ihrer Ankunft im Gebiet der heutigen Slowakei nachgewiesen – kaum bekannt ist jedoch, dass schon das 9. Jahrhundert dafür genau dieses Wort verwendete. Den Beleg liefern die großmährischen „Bestimmungen der heiligen Väter über die Buße für Mord und für jede Sünde“, erhalten im glagolitischen Euchologium Sinaiticum.",
+  "metaTitle": "Humno – älteste Erwähnung eines slawischen Wirtschaftsbaus",
+  "metaDescription": "Der Wirtschaftsbau humno bei den Slawen: archäologisch schon nach ihrer Ankunft belegt, die Bezeichnung selbst bereits im 9. Jahrhundert verwendet.",
+  "keyFacts": [
+   {
+    "label": "Quelle",
+    "value": "Bestimmungen der heiligen Väter über die Buße für Mord und für jede Sünde",
+    "icon": "scroll"
+   },
+   {
+    "label": "Handschrift",
+    "value": "Euchologium Sinaiticum (Glagoliza), 11. Jahrhundert, makedonischer Herkunft",
+    "icon": "book"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Älteste belegte schriftliche Erwähnung des Wortes „humno“ (gumno)",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung der Entstehung",
+    "value": "Großmährische Zeit, 9. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jh.",
+    "title": "Entstehung der Bestimmungen der heiligen Väter",
+    "description": "Die Übersetzung lateinischer Pönitentialien entstand in Großmähren, wahrscheinlich durch einen der Schüler Methods.",
+    "type": "event"
+   },
+   {
+    "year": "11. Jh.",
+    "title": "Eintrag im Euchologium Sinaiticum",
+    "description": "Der Text ist in einer glagolitischen Handschrift makedonischer Herkunft erhalten.",
+    "type": "event"
+   },
+   {
+    "year": "13.–16. Jh.",
+    "title": "Jüngere Abschriften in Kyrilliza",
+    "description": "Der Text wurde in den altrussischen Handschriften Ustjužskaja und Joasafskaja kormčaja kniga abgeschrieben.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4166,
+    "caption": "Slawische Häuser aus Mužla-Čenkov. Autor Igor Furuglás",
+    "alt": "Slawische Häuser aus Mužla-Čenkov. Autor Igor Furuglás"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter dem Begriff HUMNO versteht man heute einen Wirtschaftsbau, der vor allem der Aufbewahrung des geernteten Getreides, des Heus oder des Wirtschaftsgeräts diente. Die Errichtung solcher Bauten haben Archäologen bei den Slawen bereits in der Zeit nach ihrer Ankunft im Gebiet der heutigen Slowakei nachgewiesen. Kaum jemand weiß jedoch, dass unsere slawischen Vorfahren im 9. Jahrhundert zur Bezeichnung dieses Bautyps genau das Wort „HUMNO“ verwendeten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Beleg für die älteste Verwendung des Wortes „HUMNO“ haben wir nämlich in einem Text gefunden, dessen Ursprünge in die Zeit Großmährens zurückreichen. Es handelt sich um das Werk „Bestimmungen der heiligen Väter über die Buße für Mord und für jede Sünde“. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Punkt 27 der Bestimmungen findet sich die folgende Festlegung:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wenn jemand ein Haus oder ein humno in Brand setzt, soll er sieben Jahre Buße tun, bei Brot und Wasser.",
+    "author": "Bestimmungen der heiligen Väter über die Buße für Mord und für jede Sünde",
+    "source": "Euchologium Sinaiticum, 9. Jahrhundert (altkirchenslawisch)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wortlaut im Altkirchenslawischen: den ursprünglichen, in Glagoliza geschriebenen Text können Sie auf dem folgenden Bild lesen. Das Wort „GUMNO“ ist für jene hervorgehoben, die – Gott behüte – die Glagoliza nicht lesen könnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Slawische Häuser aus Mužla-Čenkov. Autor Igor Furuglás",
+    "alt": "Slawische Häuser aus Mužla-Čenkov. Autor Igor Furuglás",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bestimmungen der heiligen Väter entstanden als Übersetzung aus lateinischen Pönitentialien. Diese wurden im Original in Großmähren schon vor der Ankunft der byzantinischen Mission verwendet. Es handelte sich um eine grundlegende Handreichung, die das Kirchenrecht vorschrieb. Den Text übersetzte jemand aus dem Kreis der Schüler Methods, der gut Lateinisch verstand. In Betracht kommen Gorazd und Kliment, das ist jedoch nur eine Hypothese. Möglich ist auch, dass die Bestimmungen unmittelbar von Konstantin dem Philosophen stammen. Der Text ist in der Handschrift (Glagoliza) Euchologium sinaiticum makedonischer Herkunft aus dem 11. Jahrhundert und sodann in zwei jüngeren Abschriften (in Kyrilliza) in altrussischen Handschriften erhalten (Ustjužskaja kormčaja kniga vom Ende des 13. Jahrhunderts und Joasafskaja kormčaja kniga aus dem 16. Jahrhundert)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Text sind Evangelienauszüge samt Elementen der großmährischen Sprache erhalten. In sprachlicher Hinsicht fällt vor allem der reichliche Gebrauch von Partizipien in substantivischer Bedeutung und in determinativen Syntagmen auf – der Autor nutzte dieses Mittel, um den Text der Rechtsbestimmungen zu verkürzen und zu verdichten. (Quelle: Wikipedia)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Hilfe und Unterlagen danke ich Stanka F."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

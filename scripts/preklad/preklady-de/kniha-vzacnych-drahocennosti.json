@@ -1,0 +1,137 @@
+{
+ "slug": "kniha-vzacnych-drahocennosti",
+ "data": {
+  "title": "Das Buch der kostbaren Kleinodien – Ibn Rusta über Svatopluk",
+  "slug": "ibn-rusta-buch-der-kostbaren-kleinodien",
+  "excerpt": "Das Buch der kostbaren Kleinodien entstand am Anfang des 10. Jahrhunderts, nach 903. Sein siebter Teil – der einzige erhaltene – bringt Erwähnungen über die Krönung Svatopluks, über seine Titulierung als Fürst der Fürsten und über seinen Sitz Džirváb. Geschrieben hat es der arabisch-persische Geograph, Reisende und Enzyklopädist ibn Rusta – ein Zeitgenosse Großmährens, der seine Informationen gewissermaßen aus erster Hand hatte.",
+  "metaTitle": "Buch der kostbaren Kleinodien – Ibn Rusta über Svatopluk",
+  "metaDescription": "Die arabisch-persische Schrift ibn Rustas vom Anfang des 10. Jahrhunderts erwähnt Svatopluk als Fürst der Fürsten und nennt seinen Sitz Džirváb.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Ibn Rusta (Abū ʿAlī Aḥmad ibn ʿUmar ibn Rusta)",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Buch der kostbaren Kleinodien, Anfang des 10. Jahrhunderts (nach 903)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Herrscher",
+    "value": "Svatopluk (870–894), tituliert als „Fürst der Fürsten“, Sitz Džirváb",
+    "icon": "crown"
+   },
+   {
+    "label": "Übersetzung",
+    "value": "Ján Pauliny, in: Pramene k dejinám Slovenska a Slovákov II (1999)",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "885",
+    "title": "Die Quelle Ibn Hurdádbihs",
+    "description": "Ibn Rusta nutzte bei der Zusammenstellung seines Werkes neben eigenen Erfahrungen auch Kitāb al-masālik wa l-mamālik von Ibn Hurdádbih aus dem Jahr 885.",
+    "type": "event"
+   },
+   {
+    "year": "vor 900",
+    "title": "Das verlorene Buch al-Džajhánís",
+    "description": "Ibn Rusta schöpfte auch aus dem verlorenen Buch gleichen Namens, das vor dem Jahr 900 der samanidische Wesir Abū Abdallāh Muhammad al-Džajhání zusammenstellte.",
+    "type": "event"
+   },
+   {
+    "year": "903–913",
+    "title": "Entstehung des Buches der kostbaren Kleinodien",
+    "description": "Ibn Rusta schrieb sein Werk wahrscheinlich in diesem Zeitraum, nach dem Jahr 903.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4152,
+    "alt": "Faksimile des arabischen Textes mit tschechisch-deutscher Übersetzung der einzelnen Wörter"
+   },
+   {
+    "mediaId": 4153,
+    "caption": "Die Reiseroute der persischen Kaufleute nach der Website http://www.wogastisburc.com/index.php?text=10-veligrad",
+    "alt": "Die Reiseroute der persischen Kaufleute nach der Website http://www.wogastisburc.com/index.php?text=10-veligrad"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Buch der kostbaren Kleinodien",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Buch der kostbaren Kleinodien (Kitāb al-aʿlāq an-nafīsa) entstand am Anfang des 10. Jahrhunderts, nach dem Jahr 903. Es umfasst mehrere Kapitel, wobei uns der siebte Teil Erwähnungen über die Krönung Svatopluks, über seine Titulierung als Fürst der Fürsten und über seinen Sitz Džirváb bringt. Geschrieben hat es der arabisch-persische Geograph, Reisende und Enzyklopädist Abū ʿAlī Aḥmad ibn ʿUmar "
+       },
+       {
+        "type": "text",
+        "text": "ibn Rusta. ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Er schrieb es wahrscheinlich zwischen den Jahren "
+       },
+       {
+        "type": "text",
+        "text": "903 und 913",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Bei der Zusammenstellung des Textes nutzte der Autor neben seinen eigenen Reiseerfahrungen wahrscheinlich auch Kitāb al-masālik wa l-mamālik von Ibn Hurdádbih aus dem Jahr 885 sowie ein verlorenes Buch gleichen Namens, das vor dem Jahr 900 der samanidische Wesir Abū Abdallāh Muhammad al-Džajhání zusammengestellt hatte. Das Buch der kostbaren Kleinodien ist eine wichtige Quelle für die Kenntnis der Geschichte der frühen Slawen, insbesondere der Russen und Kroaten. Erhalten ist von ihm nur der 7. Teil, der sich mit der Geographie befasst und auch Informationen über die Bulgaren, Burtasen, Slawen, Altungarn, Chasaren und andere Völker enthält. Er erwähnt darin auch den König Svatopluk (870–894). Den Sitz des Königs Svatopluk führt er unter dem Namen Džirváb an. Die Deutung dieses offenbar durch das Arabische verballhornten Namens ist unklar. Es konnte sich um eine Verballhornung des Namens Grad handeln, woraus manche Veligrad ableiten. Ebenso kann es sich jedoch um den heute schon vergessenen Namen des Burgwalls von Mikulčice oder eines anderen bedeutenden Burgwalls handeln. Die Besonderheit dieses Werkes liegt vor allem darin, dass es ein Zeitgenosse des Großmährischen Reiches schrieb, der gewissermaßen Informationen „aus erster Hand“ hatte. Es bringt uns viele Einzelheiten und Besonderheiten aus dem Leben der mährischen Slawen. Unter anderem ist zu beachten, dass er Svatopluk als „Fürst der Fürsten“ tituliert und zugleich angibt, er sei „gekrönt“ worden. In dem Werk wird auch der Name Wáb-Nít genannt, den in der Vergangenheit manche Autoren (etwa L. Havlík) als Nitra (Neutra) deuteten; gegenwärtig wird eine solche Lesung des arabisierten Namens und deren Übersetzung jedoch bezweifelt, und J. Steinhübel erwägt etwa, dass es sich um Kiew handelt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die Slawen\nZwischen dem Land der Petschenegen und dem Land der Slawen beträgt die Entfernung zehn Tage (Reise). An dessen Grenze liegt eine Stadt, die Vá’b-Nít heißt. Du gelangst in ihr Land durch Steppen und unwegsame Gegenden, in denen es Wasserquellen und dichte Wälder gibt. Die Länder der Slawen sind flach und bewaldet. Dort liegen ihre Wohnsitze. Sie haben weder Weingärten noch bebaute Felder. Sie haben eine Art hölzerner Gefäße, in denen sich Öffnungen für die Bienen und den Honig befinden, und sie nennen sie ulišče. Aus einem Gefäß lassen sich zehn Ibrik Honig entnehmen. Die Slawen weiden Schweine ebenso wie Schafe.\nStirbt einer von ihnen, so verbrennen sie ihn. Stirbt ihren Frauen ein Verwandter, so verletzen sie sich mit dem Messer Arme und Gesicht. Haben sie irgendwo einen Leichnam verbrannt, so kommen sie am nächsten Tag zur Brandstelle, sammeln die Asche, legen sie in ein Tongefäß und stellen das Gefäß auf eine erhöhte Stelle. Ist ein Jahr seit dem Tod des Verwandten vergangen, so nehmen sie etwa zwanzig mit Honig gefüllte Gefäße mit und steigen mit ihnen zu jener erhöhten Stelle hinauf. Und wenn sich dort alle versammelt haben, essen und trinken sie. Dann kehren sie nach Hause zurück. Hatte der Verstorbene drei Frauen und meint eine von ihnen, er habe sie am meisten geliebt, so nimmt sie zwei Balken und stellt sie unweit des Toten auf die Erde. Über die Balken legt sie einen dritten Balken, befestigt daran einen Strick, stellt sich auf einen Schemel und bindet sich das andere Ende des Stricks um den Hals. Hat sie das getan, so zieht man ihr den Schemel unter den Füßen weg, und sie bleibt hängen, bis sie erstickt und stirbt. Dann wirft man sie ins Feuer, und sie verbrennt. Alle Slawen verehren das Feuer.\nGewöhnlich säen sie Hirse. Zur Erntezeit nehmen sie von den Hirsekörnern auf einen Löffel, heben den Löffel zum Himmel und sprechen: „Herr, du bist unser Ernährer, gewähre uns eine reiche Ernte!“ Sie haben verschiedene Musikinstrumente: Lauten, Tamburen und Flöten. Ihre Flöten sind zwei Ellen lang, und ihre Laute hat acht Saiten.\nIhre Getränke stellen sie aus Honig her. Wenn sie die Toten verbrennen, spielen sie auf Musikinstrumenten. Sie behaupten, man müsse sich dann freuen, da Gott den Verstorbenen in seine Gnade aufgenommen habe. Sie haben nicht viele Zugtiere, und ein Pferd besitzen nur die angesehenen Leute. Ihre Waffen sind Wurfspeere, Schilde und Lanzen. Andere haben sie nicht.\nIhr Herrscher ist gekrönt. Sie gehorchen ihm und handeln nach seinen Befehlen. Sein Sitz liegt in der Mitte des Landes der Slawen. Der bedeutendste und bekannteste unter ihnen ist der Herrscher, der den Rang Fürst der Fürsten innehat. Sie nennen ihn Svatopluk. Er ist mächtiger als der Župan, und der Župan ist sein Stellvertreter. Dieser Herrscher hat viele Reitpferde, und seine Speisen bereitet man ihm aus Stutenmilch. Er besitzt hervorragende, feste und kostbare Rüstungen, und die Stadt, in der er seinen Sitz hat, heißt Džirváb. In dieser Stadt findet jeden Monat drei Tage lang ein Markt statt. Dann schließen die Slawen untereinander Geschäfte ab und verkaufen.\nIn ihrem Land herrscht ein strenger Winter. Deshalb graben sie sich Behausungen unter der Erde, überdachen sie mit einem Holzdach, wie es die Kirchen deckt, und schütten Erde darauf. In eine solche Behausung geht der Mann mit seiner Familie, und er bringt Holz und einige Steine hinein. Dann macht er darin Feuer und heizt, bis die Steine rotglühend werden. Wenn sie am heißesten sind, begießt er sie mit Wasser, und die Behausung wird warm. Dann legen alle die Oberkleider ab und verbringen in der Wohnstätte den ganzen Winter bis zum Frühjahr.\nDer Herrscher hebt bei ihnen jedes Jahr Abgaben (Steuern) ein. Hat jemand eine Tochter, so nimmt er aus deren Kleidung einmal im Jahr ein Gewand. Hat jemand einen Sohn, so nimmt er auch aus dessen Kleidung ein Gewand. Hat jemand weder Tochter noch Sohn, so nimmt er ein Gewand aus der Kleidung seiner Frau oder seiner Konkubine.\nFängt man im Königreich der Slawen einen Dieb, so lässt ihn ihr Herrscher hängen oder schickt ihn nach Džíra – in die entlegenste Provinz seines Reiches.",
+    "author": "Ibn Rusta",
+    "source": "Buch der kostbaren Kleinodien (Anfang 10. Jh.), slowakische Übersetzung von Ján Pauliny"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Die deutsche Fassung folgt der slowakischen Übersetzung von PAULINY, Ján: 2. Ibn Rusta o Slovanoch. In: Pramene k dejinám Slovenska a Slovákov II. Slovensko očami cudzincov. Bratislava – Budmerice 1999, S. 234–239.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

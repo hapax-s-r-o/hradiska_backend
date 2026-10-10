@@ -1117,6 +1117,48 @@ zápise nevynecháva, lebo samotné „50er" by viselo bez opory.
 
 **Akademický titul.** „Promovaný historik" → **diplomierter Historiker**.
 
+**Konštrukcie valov (46. dávka).** Poľská literatúra rozlišuje typy, ktoré
+slovenčina pomenúva opisne: prekladový val → **Wall in
+Rostkonstruktion**, vypletaný val → **Wall in Flechtwerkkonstruktion**.
+Opevnené podhradie Trzcinice je **die Vorburg** — je to časť fortifikácie,
+nie sídelné predmestie, takže *Suburbium* (§ 30. dávky) tam neplatí.
+
+**Kult a svätyne.** Prírodná svätyňa → **das Naturheiligtum**, božište →
+**die Kultstätte**, rituálna sekerka → **die Ritualaxt**, krížová cesta
+(novodobá) → **der Kreuzweg**.
+
+**Nálezy (46. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| štítová puklica | **der Schildbuckel** |
+| loďkovitá spona | **die Kahnfibel** |
+| spona spojenej konštrukcie | **Fibel in verbundener Konstruktion** (*Mittellatèneschema*) |
+| spona skupiny Gebhard | **Fibel der Gruppe Gebhard** |
+| nákrčník (laténsky) | **der Halsring** (*Torques*) |
+| dláto s tuľajkou | **der Tüllenmeißel** |
+| biely peniaz | **der Weißpfennig** |
+| poltura | **der Poltura** |
+
+**Stredoveký hrad.** Pevnôstka → **die kleine Festung**, bergfrit → **der
+Bergfried**, donjon → **der Donjon**, liata maltová dlážka → **gegossener
+Mörtelboden**. Lužické popolnicové polia → **die Lausitzer Urnenfelder**,
+predpúchovský stupeň → **die Vorpúchov-Stufe**.
+
+**Novovek a dnešok.** Kuruci → **die Kuruzen**, labanci → **die Labanzen**,
+klosterneuburská kronika → **die Klosterneuburger Chronik**, vodné dielo →
+**die Stauanlage**, strelecký kryt → **die Schützenstellung**, fotopasca →
+**die Fotofalle**.
+
+**Mená podľa §1.** Berčéni → **Nikolaus Bercsényi**, Károli → **Alexander
+Károlyi**, Očkaj → **Ladislaus Ocskay**.
+
+**Zemepis (46. dávka).** Gaderská dolina → **das Gader-Tal**, chočské
+dolomity → **Choč-Dolomite**, Malopoľsko → **Kleinpolen**, Biksárdsky
+priesmyk → **der Biksárd-Pass**, Plavecký hrad → **Blasenstein** (exonym pri
+prvom výskyte). „Kráľovské valy" v Trzcinici ostávajú v úvodzovkách ako
+**„Königswälle"**.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu
