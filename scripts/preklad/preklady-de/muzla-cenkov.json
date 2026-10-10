@@ -1,0 +1,601 @@
+{
+ "slug": "muzla-cenkov",
+ "data": {
+  "title": "Mužla-Čenkov – eine slawische Niederungsburg am Ufer der Donau",
+  "slug": "muzla-cenkov-niederungsburg-an-der-donau",
+  "excerpt": "An der Fundstelle Mužla-Čenkov erstreckte sich im 9. und 10. Jahrhundert ein slawischer Burgwall, dessen Teile heute in den Lagen Vilmakert und Orechový sad liegen. Er zählt zu den Burgwällen mit überwiegender Wach- und Militärfunktion und liegt unmittelbar am Ufer der Donau. Die polykulturelle Fundstelle war schon von der Kultur mit jüngerer Linearkeramik an besiedelt; auf dem Burgwall wurden 271 Siedlungsbefunde untersucht.",
+  "metaTitle": "Mužla-Čenkov – slawische Niederungsburg an der Donau",
+  "metaDescription": "Slawischer Wachburgwall des 9.–10. Jahrhunderts unmittelbar am Donauufer; eine polykulturelle Fundstelle mit 271 untersuchten Siedlungsbefunden.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Der Burgwall liegt unmittelbar am Ufer der Donau, auf einer der wenigen deutlich erhöhten Lagen zwischen Štúrovo und Komárno",
+    "icon": "map"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Die Lage Vilmakert war von drei Seiten von einem Wall mit einer erhaltenen Länge von etwa 500 m umgeben; auf der Seite zur Donau schützte sie ein 3 bis 5 m hohes, steiles Ufer",
+    "icon": "shield"
+   },
+   {
+    "label": "Fläche",
+    "value": "Die heutige Fläche der Lage Vilmakert beträgt 2,79 ha; die ursprüngliche Fläche lässt sich wegen der Erosion des Donauufers nicht bestimmen",
+    "icon": "mountain"
+   },
+   {
+    "label": "Siedlungsbefunde",
+    "value": "Auf dem Burgwall wurden 271 Siedlungsbefunde untersucht, überwiegend Reste eingetiefter Bauten mit viereckigem Grundriss",
+    "icon": "building"
+   },
+   {
+    "label": "Befund X",
+    "value": "Dr. Hanuliak entdeckte im Inneren des Burgwalls einen Bau von in der slawischen Zeit im Gebiet der Slowakei einzigartigen Ausmaßen, umgeben von Gräbern mit reicher Ausstattung",
+    "icon": "star"
+   },
+   {
+    "label": "Lebensunterhalt",
+    "value": "Archäozoologische Untersuchungen belegen die Haltung von Rindern, Schweinen, teilweise von Schafen, Ziegen und Geflügel, ergänzt durch Jagd und Fischfang",
+    "icon": "custom"
+   },
+   {
+    "label": "Schriftquellen",
+    "value": "Die Gesta Hungarorum des Simon von Kéza erwähnen die Eroberung einer Burg an der Furt Zub, die hypothetisch mit Čenkov verbunden wird; aus dem Jahr 1135 stammt der Beleg über ein „predium in villa Chenka“",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Bestehen des slawischen Burgwalls",
+    "description": "An der Fundstelle Mužla-Čenkov erstreckte sich im 9. bis 10. Jahrhundert ein slawischer Burgwall, dessen Teile sich heute in den Lagen Vilmakert und Orechový sad befinden.",
+    "type": "era"
+   },
+   {
+    "year": "2. Viertel des 9. Jahrhunderts",
+    "title": "Besiedlung der Fundstelle",
+    "description": "Die Fundstelle wurde spätestens im zweiten Viertel des 9. Jahrhunderts auf kolonisatorische Weise von einer größeren Gruppe von Bewohnern besiedelt, die in der Lage war, die gewählte Fläche planmäßig zu bebauen und sie mit einem Wall solider Konstruktion zu befestigen.",
+    "type": "founding"
+   },
+   {
+    "year": "2. Drittel des 9. Jahrhunderts",
+    "title": "Errichtung der Befestigung des ersten Horizonts",
+    "description": "Im Zusammenhang mit der wachsenden Spannung zwischen dem Ostfränkischen und dem Großmährischen Reich lassen sich mit dieser Zeit auf dem Burgwall von Čenkov das Befestigungssystem und die Funde militanten Charakters aus dem ersten Besiedlungshorizont verbinden.",
+    "type": "construction"
+   },
+   {
+    "year": "861",
+    "title": "Militärische Zusammenstöße und Anschluss des Gebietes an Großmähren",
+    "description": "Auf der Grundlage der Ergebnisse militärischer Zusammenstöße wurde dem Territorium Großmährens das Gebiet von Gran bis Veszprém, zum Bakonywald und zum unteren Lauf der Raab angeschlossen, was eine Wende in der Funktionalität der befestigten Siedlung von Čenkov bringen konnte (zweiter Horizont).",
+    "type": "battle"
+   },
+   {
+    "year": "1135",
+    "title": "Schriftliche Erwähnung der „villa Chenka“",
+    "description": "Ein nicht erhaltenes Dokument aus dem Jahr 1135 erwähnt ein „predium in villa Chenka“, das Stephan I. einem der Vorfahren des Geschlechts Hunt-Poznan schenkte; die Bezeichnung villa zeugt vom Verlust der Funktion der Befestigung.",
+    "type": "event"
+   },
+   {
+    "year": "2.–3. Drittel des 10. Jahrhunderts",
+    "title": "Reduktion der Besiedlung im dritten Horizont",
+    "description": "Im dritten Besiedlungshorizont, der in die nachgroßmährische Zeit gehört, kommt es zu einer deutlichen Reduktion der Konzentration der Besiedlung, wobei von den ursprünglichen Bewohnern nur ein kleiner Teil bleibt; die Archäologen schließen einen katastrophalen Untergang durch eine militärische Aktion aus.",
+    "type": "event"
+   },
+   {
+    "year": "11.–12. Jahrhundert",
+    "title": "Vierte Periode – eine kleine Siedlung",
+    "description": "Der Trend der Reduktion der Besiedlung setzt sich auch in die vierte Periode fort; im ursprünglichen Siedlungsareal erscheinen die Befunde einer kleinen Siedlung verstreuten Typs, die in den Schriftquellen als villa erfasst ist.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6418,
+    "alt": "Rekonstruktion einer rechteckigen Niederungsburg mit Palisade, Graben und innerer Befestigung"
+   },
+   {
+    "mediaId": 2103,
+    "caption": "Unsere Vorstellung vom Aussehen des Burgwalls. Autor: T. Humaj",
+    "alt": "Unsere Vorstellung vom Aussehen des Burgwalls. Autor: T. Humaj"
+   },
+   {
+    "mediaId": 2104,
+    "caption": "Und hier haben wir die 1. militärische Landesaufnahme (1764–1787). Ist der Burgwall darauf eingezeichnet?",
+    "alt": "Und hier haben wir die 1. militärische Landesaufnahme (1764–1787). Ist der Burgwall darauf eingezeichnet?"
+   },
+   {
+    "mediaId": 2105,
+    "caption": "Befund X. Bei der Ausgrabung des slawischen Burgwalls entdeckte Dr. Hanuliak dort einen Bau, der mit seinen Ausmaßen in der slawischen Zeit im Gebiet der Slowakei einzigartig ist. Er stand auf einer Anhöhe im Inneren des Burgwalls, umgeben von mehreren Gräbern mit reicher Ausstattung. Er konnte religiösen Charakter haben, zugleich aber als Repräsentationsbau des Adels dienen. Ein Götze ist dort nicht belegt, die Pfosten bei den Gräbern ebenfalls nicht, doch Dr. Hanuliak hält sie für möglich.",
+    "alt": "Befund X. Bei der Ausgrabung des slawischen Burgwalls entdeckte Dr. Hanuliak dort einen Bau, der mit seinen Ausmaßen in der slawischen Zeit im Gebiet der Slowakei einzigartig ist. Er stand auf einer Anhöhe im Inneren des Burgwalls."
+   },
+   {
+    "mediaId": 2106,
+    "alt": "3D-Visualisierung der Niederungsburg am Fluss mit einem Boot und hölzerner Mauer"
+   },
+   {
+    "mediaId": 2107,
+    "alt": "3D-Visualisierung des Burgwalls mit Palisade, Torturm und Blockhäusern"
+   },
+   {
+    "mediaId": 2108,
+    "alt": "3D-Visualisierung der inneren Bebauung des Burgwalls mit Häusern mit Strohdächern"
+   },
+   {
+    "mediaId": 2109,
+    "alt": "Zeichnerische Fundtafel aus Mužla-Čenkov: Schmuck, Beschläge und Gefäße mit Maßstab"
+   },
+   {
+    "mediaId": 2110,
+    "caption": "Prunkvoller großmährischer Gombík vom Burgwall",
+    "alt": "Prunkvoller großmährischer Gombík vom Burgwall"
+   },
+   {
+    "mediaId": 2111,
+    "alt": "3D-Visualisierung eines langen Hauses mit Strohdach und einem hölzernen Idol im Hof"
+   },
+   {
+    "mediaId": 2112,
+    "alt": "Zeichnerische Tafel kleiner Funde: Spinnwirtel, Knochenspitzen und Beschläge"
+   },
+   {
+    "mediaId": 2113,
+    "alt": "Zeichnerische Tafel eiserner Funde: Messer, Spitzen, Sichel und Spinnwirtel"
+   },
+   {
+    "mediaId": 2114,
+    "alt": "Zeichnungen keramischer Gefäße und Fragmente mit Wellenbandverzierung"
+   },
+   {
+    "mediaId": 2115,
+    "alt": "Drei Zeichnungen silberner Schläfenringe mit Maßstab"
+   },
+   {
+    "mediaId": 2116,
+    "alt": "Überwachsener Wallkörper im blattlosen Wald in der Dämmerung"
+   },
+   {
+    "mediaId": 2117,
+    "alt": "Wall des Burgwalls mit einer Böschung zwischen Gebüsch"
+   },
+   {
+    "mediaId": 2118,
+    "alt": "Lichter blattloser Wald auf dem Plateau des Burgwalls"
+   },
+   {
+    "mediaId": 2119,
+    "alt": "Graben am Wall, im Hintergrund die Wasseroberfläche des Flusses"
+   },
+   {
+    "mediaId": 2120,
+    "alt": "Kante des Walls über einem Geländeabbruch im blattlosen Wald"
+   },
+   {
+    "mediaId": 2121,
+    "alt": "Mit Efeu bewachsener Hang des Walls"
+   },
+   {
+    "mediaId": 2122,
+    "alt": "Vertiefung im Gelände des Burgwalls zwischen Bäumen"
+   },
+   {
+    "mediaId": 2123,
+    "alt": "Langgestreckter Wallkörper im Gebüschbestand"
+   },
+   {
+    "mediaId": 2124,
+    "alt": "Mit Moos und Efeu bewachsener Wall des Burgwalls"
+   },
+   {
+    "mediaId": 2125,
+    "alt": "Überwachsener Wall im blattlosen Wald in der Dämmerung"
+   },
+   {
+    "mediaId": 2126,
+    "alt": "Überwachsener Wall des Burgwalls im blattlosen Bestand"
+   },
+   {
+    "mediaId": 2127,
+    "alt": "Entwaldete Fläche am Wall nach dem Holzeinschlag"
+   },
+   {
+    "mediaId": 2128,
+    "alt": "Flussufer mit der Wasseroberfläche bei Sonnenuntergang"
+   },
+   {
+    "mediaId": 2129,
+    "alt": "Eine Gestalt am Flussufer im abendlichen Dämmerlicht"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle Mužla-Čenkov erstreckte sich im 9. bis 10. Jahrhundert ein slawischer Burgwall, dessen Teile sich heute in den Lagen Vilmakert und Orechový sad befinden. Er lässt sich zu den Burgwällen mit überwiegender Wach- und Militärfunktion zählen (Hulínek). Die Fundstelle liegt unmittelbar am Ufer der Donau. Es handelt sich um eine polykulturelle Fundstelle, an der bisher eine Besiedlung der Kultur mit jüngerer Linearkeramik, der Želiezovce-Gruppe, der Badener Kultur, der Gruppe Kosihy-Čaka, Funde von der Wende der älteren zur mittleren Bronzezeit, der Vekerzug-Kultur, der Latènezeit und der Zeit des Frühmittelalters – des 9. bis 12. Jahrhunderts – festgestellt wurden. Es handelt sich um eine der wenigen deutlich erhöhten Lagen unmittelbar am Ufer der Donau, zwischen Štúrovo und Komárno."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "oDujLc1u4-w",
+    "url": "https://www.youtube.com/embed/oDujLc1u4-w",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage Vilmakert war ursprünglich von drei Seiten von einem Wall umgeben, auf der Seite zur Donau befindet sich ein 3 bis 5 m hohes, steiles Ufer. Die heutige Fläche der Lage beträgt 2,79 ha. Die ursprüngliche Fläche lässt sich angesichts der Erosion des Ufers nicht bestimmen. Die gesamte Fläche der Fundstelle tritt im Gelände gegenüber dem umgebenden Niveau um etwa 1 m hervor. Wie bereits erwähnt wurde, ist die Fundstelle von drei Seiten von einem Wall umgeben. Am besten ist er auf der nordöstlichen Seite erhalten, wo er gegenüber dem inneren Areal eine Überhöhung von 2 bis 3 m erreicht. Auf der nordwestlichen Seite wurde er durch Kultivierung abgetragen und auf der Westseite teilweise durch den Bau eines Hochwasserschutzdeiches gestört. Die Form der Befestigung ist trapezförmig, und die gesamte erhaltene Länge beträgt etwa 500 m. Die ursprüngliche Länge des Walls ist infolge der Erosion des Donauufers schwer abzuschätzen. Die Befestigung auf dieser Seite musste jedoch angesichts der Höhe des Ufers nicht in derselben Weise errichtet werden wie in Richtung des Binnenlandes. Sie bestand möglicherweise nur aus einer Palisade. Freigelegt wurde die Destruktion des Walls aus kleineren Bruchsteinen, die sich in Richtung nach außen aus der Befestigung bis zum Niveau des heutigen Geländes erstreckt. In ihr war es jedoch nicht möglich, die Frontmauer eindeutig zu erkennen, so wie noch in den fünfziger Jahren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "l6LqWu4IdaU",
+    "url": "https://www.youtube.com/embed/l6LqWu4IdaU",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Schnitt durch die Befestigung fällt eine braunschwarze Schicht auf, die sich über die gesamte Länge erstreckt und fließend in den Graben übergeht. Sie ist verhältnismäßig kompakt, enthält jedoch archäologisches Material aus allen Perioden. Die steinerne Destruktion des Walls befindet sich in allen bekannten Profilen auf dieser Schicht. Sie besteht aus Bruchstein von Schiefertyp, der gut spaltbar ist. In einer Entfernung von 190 cm von ihrem Beginn von der Innenseite der Befestigung befanden sich Reste der Frontmauer, die aus trocken gesetzten größeren flachen Steinen errichtet war. Die Dicke bewegte sich um 60 cm. In Richtung nach außen aus der Befestigung sank die Höhe der Destruktion unregelmäßig bis zu einer Entfernung von 400 cm von der Frontmauer. In diesem Teil befanden sich größere Bruchsteine sandsteinartigen Charakters. Man kann daher annehmen, dass beim Bau der Mauer zweierlei Material verwendet wurde. Im unteren Teil flacher, spaltbarer und somit für diese Zwecke höchst geeigneter Stein, im oberen Teil bzw. für die Mauerkrone unregelmäßiger Bruchstein. Praktisch die gesamte Destruktion war durchbrannt, von ziegelroter Farbe, stellenweise mit einer erheblichen Menge Holzkohle durchmischt. Größere Stücke Holzkohle befanden sich vor allem in der Umgebung des inneren Randes der Destruktion. Ohne Spuren des Durchbrennens war nur der Teil in unmittelbarer Nähe der Frontmauer bis zu einer Höhe von etwa 40 cm und unter ihr. Das könnte möglicherweise erlauben, über eine Anschüttung des Mauerfußes von der Außenseite nachzudenken. Der gesamte äußere Teil der Destruktion ist von einer Verfüllung aus brauner Erde überdeckt. Von der Destruktion in das Innere des Areals hin, in einer Entfernung von 80 cm von ihr, beginnt eine braunschwarze Aufschüttung von 500 cm Länge und 30–60 cm Höhe, die von der Grundschicht durch eine dünne Sandschicht getrennt ist. Offenbar handelt es sich um eine innere Berme. Sie ist im Wesentlichen von demselben Charakter wie die Schicht unter ihr, enthält im Unterschied zu dieser jedoch auch eine Beimischung feinen Flusskieses. Die gesamte Berme wird von einer Verfüllung hellerer brauner Erde sandigen Charakters abgeschlossen, die bis zum Niveau des Ackerbodens reicht. Verhältnismäßig unzureichende Informationen haben wir über den Graben, da es aus technischen Gründen nicht möglich war, ihn vollständig zu untersuchen. Wir können nur feststellen, dass er in einer Entfernung von 610 cm von der Frontmauer beginnt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere Vorstellung vom Aussehen des Burgwalls. Autor: T. Humaj",
+    "alt": "Unsere Vorstellung vom Aussehen des Burgwalls. Autor: T. Humaj",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Und hier haben wir die 1. militärische Landesaufnahme (1764–1787). Ist der Burgwall darauf eingezeichnet?",
+    "alt": "Und hier haben wir die 1. militärische Landesaufnahme (1764–1787). Ist der Burgwall darauf eingezeichnet?",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Frage der Entstehung und des Untergangs der Befestigung kann die Erwähnung bei Simon von Kéza in dem bekannten Buch der Fabeln und Sagen Gesta Hungarorum interessant sein, die die Altungarn betrifft: „Sie zogen also mit erhobenen Bannern, mit Frauen, Kindern und Herden aus und überschritten die Donau bei Pest und an der Furt Zub (Szob), und dort eroberten sie eine Burg in der Umgebung der Donau, in der sich Svatopluks Soldaten versammelt hatten, die sich durch Flucht gerettet hatten, als ihr Herr umkam.“ Auch wenn die Glaubwürdigkeit dieser Quelle gering ist und durch die Zeit ihrer Entstehung in den Jahren 1282 bis 1285 bestimmt wird (erhalten nur in einer Abschrift aus dem 15. Jahrhundert), muss auf die Tatsache hingewiesen werden, dass es sich im Falle von Čenkov um den bisher einzigen bekannten Burgwall im Gebiet der Donau handelt. Auf der anderen Seite wurde in der Siedlung jedoch kein Katastrophenhorizont festgestellt. Hypothetisch könnten wir die genannte Nachricht also mit der Fundstelle in Čenkov verbinden, ihre eindeutige Gleichsetzung bleibt jedoch mehr als problematisch. Eine weitere schriftliche Nachricht, die sich indirekt auf die Befestigung bezieht, stammt aus einem nicht erhaltenen Dokument aus dem Jahr 1135, in dem ein „predium in villa Chenka“ erwähnt wird, das Stephan I. einem der Vorfahren des Geschlechts Hunt-Poznan schenkte. Die Bezeichnung villa wird in der lateinischen Terminologie des 11.–12. Jahrhunderts für einen unbefestigten Siedlungskomplex mit mehreren Familien verwendet, was also von einem Verlust der Funktion der Befestigung zeugt. Ebenso wird eine Umzäunung des Areals mit einem leichten Zaun angenommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Innere Struktur der Bebauung"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Befund X. Bei der Ausgrabung des slawischen Burgwalls entdeckte Dr. Hanuliak dort einen Bau, der mit seinen Ausmaßen in der slawischen Zeit im Gebiet der Slowakei einzigartig ist. Er stand auf einer Anhöhe im Inneren des Burgwalls, umgeben von mehreren Gräbern mit reicher Ausstattung. Er konnte religiösen Charakter haben, zugleich aber als Repräsentationsbau des Adels dienen. Ein Götze ist dort nicht belegt, die Pfosten bei den Gräbern ebenfalls nicht, doch Dr. Hanuliak hält sie für möglich.",
+    "alt": "Befund X. Bei der Ausgrabung des slawischen Burgwalls entdeckte Dr. Hanuliak dort einen Bau, der mit seinen Ausmaßen in der slawischen Zeit im Gebiet der Slowakei einzigartig ist. Er stand auf einer Anhöhe im Inneren des Burgwalls.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die bisherigen Erkenntnisse über Intensität und Qualität der Besiedlung dieser Fundstelle deuten darauf hin, dass sich hier eine ungewöhnlich große Konzentration von Siedlungsbefunden aus der Zeit des Frühmittelalters (vor allem des 9. und 10. Jahrhunderts) befand. Auf dem Burgwall wurden 271 Siedlungsbefunde gefunden, bei denen es sich überwiegend um Reste eingetiefter Bauten mit viereckigem Grundriss, um Konstruktionen und Einrichtungen, vor allem um Heizeinrichtungen, sowie um Gruben, vor allem Getreidegruben, handelt. Die Verteilung der Bauten erinnert am meisten an einen unregelmäßigen Haufentyp der Bebauung. Detaillierte Analysen des Grundrissplans des untersuchten Teils der Fundstelle führten zu dem Schluss, dass die Bebauung der Fundstelle wahrscheinlich planmäßig nach vorab festgelegten Regeln erfolgte, unter denen die wichtigste die Einhaltung der Distanzverhältnisse bzw. der gegenseitigen Abstände zwischen den einzelnen Bauten (den Gebäudeecken) im Prozess ihrer Anlage war. Die Grundeinheit der Besiedlung bildete eine Gruppe von 2–6 Häusern (Familien), die in urbanistische Einheiten gegliedert waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Stellung der Bewohner des Burgwalls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla – Čenkov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Bild vom Niveau des sozioökonomischen Milieus des freigelegten Siedlungskomplexes nimmt konkretere Gestalt an, nachdem seine Verbundenheit mit dem Befestigungssystem nachgewiesen wurde, das aus einem Wall aus Holz und Erde mit Steinfront und aus einem Graben bestand. Das Siedlungsgebilde lässt sich dann mit einer der Niederungsburgen großmährischen Typs gleichsetzen. Die Belege für ein höheres sozioökonomisches Niveau der betreffenden Siedlung, die traditionell mit dieser Kategorie verbunden wird, sind nicht eindeutig. Dazu trägt auch die geringe Zahl der durch die Ausgrabung gewonnenen Gegenstände bei, wie Waffen und Teile der Kriegerausrüstung, axtförmige Eisenbarren, Schalen schlesischen Typs und Eimer. Ihre Vertreter kommen nämlich in großem Umfang in den gleichzeitigen administrativ-wirtschaftlichen Zentren und ihren Siedlungsagglomerationen vor. Die übrigen Gegenstände der materiellen Kultur informieren gemeinsam mit einem wesentlichen Teil des keramischen Fundbestands eher über Durchschnittlichkeit. Nur eine weniger umfangreiche Kollektion von Gefäßen trägt Merkmale einer höheren produktionstechnischen Vollkommenheit der Ausführung. Die Außergewöhnlichkeit einiger ihrer Formen und die Art der Anbringung der Verzierung entspricht höheren funktional-ästhetischen Ansprüchen der Benutzer und überzeugt indirekt von einem Milieu einer relativ höheren Schicht. In die Kategorie solcher Funde gehört auch der gefundene Sporn mit Teilen der Riemenbefestigung. Im Grab dieses Individuums, aus der Kategorie der Reiterkrieger, fanden sich ausnahmsweise auch Spuren einer inneren Herrichtung der Grabgrube. Die übrigen Individuen aus den Gräbern und aus den Siedlungsbefunden gehören zur Gruppe der durchschnittlich bis unterdurchschnittlich ausgestatteten. Die relative Uniformität und die konstruktive Einfachheit der Bauten zeugen gemeinsam mit dem Fehlen spezialisierter handwerklicher Einrichtungen ebenso von keinen großen wirtschaftlichen und sozialen Differenzierungen zwischen den Bewohnern des Burgwalls."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Lebensunterhalt der Bewohner des Burgwalls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla – Čenkov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Vorstellungen von der Produktionsbasis der dortigen Gemeinschaft ergänzten die Ergebnisse archäozoologischer Untersuchungen. Sie brachten Angaben über die gezielte Haltung von Rindern, Schweinen, teilweise auch von Schafen, Ziegen und Geflügel, ergänzt durch Jagd und Fischfang. Die paläobotanischen Expertisen überzeugten wiederum vom Überwiegen traditioneller Getreidearten. Nicht auszuschließen ist auch, dass die genannten Feldfrüchte in entfernteren Regionen angebaut und auf Handelswegen in den Burgwall von Čenkov transportiert wurden. In ähnlicher Weise wurden Drehmühlen und Schleifsteine an die Fundstelle transportiert, die aus Steinrohstoff gefertigt waren, der im Gebiet des mittleren Grantals gewonnen wurde. Auf die Möglichkeit, dass landwirtschaftliche Feldfrüchte aus entfernterem Gebiet zulasten der örtlichen Produktion zusammengetragen wurden, weisen indirekt die Feststellungen über die überwiegend bewaldete nächste Umgebung der Siedlung von Čenkov hin. Ein anderer Punkt ist das sporadische Vorkommen landwirtschaftlicher Geräte, das sich kaum mit den Vorstellungen von einer intensiven landwirtschaftlichen Produktion vergleichen lässt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bewohner des Burgwalls – Heiden"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla – Čenkov",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Archäologen führen an, dass die festgestellten Äußerungen der Begräbnissitten gemeinsam mit der verstreuten Art der Anordnung der Gräber innerhalb der Siedlungsfläche und mit dem Vorkommen von Individuen in Vorratsgruben vor allem für das Milieu heidnischer Vorstellungen typisch sind. Qualitativ handelt es sich um die Schlussetappe des Heidentums mit dem Beleg von Krisenerscheinungen, die in der Regel nach dem Verlust des Vertrauens in die traditionellen religiösen Dogmen auftreten. Zeugnisse irgendwelcher Art über einen eindringenden Einfluss der neuen christlichen Ideologie fehlen bisher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zusammenfassung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der Siedlungsanalysen lässt sich festhalten, dass die Fundstelle spätestens im zweiten Viertel des 9. Jahrhunderts auf kolonisatorische Weise von einer größeren Gruppe von Bewohnern besiedelt wurde. Diese Gemeinschaft von Menschen war wenig sozial stratifiziert, aber in dem Maße einheitlich organisiert, dass sie nicht nur in der Lage war, die gewählte Fläche planmäßig zu bebauen, sondern sie auch mit einem Wall solider Konstruktion und Mächtigkeit zu befestigen. Die Entwicklung der Besiedlung der Fundstelle selbst lässt sich nicht als Teil oder Höhepunkt einer spontanen und natürlichen Entwicklung der Besiedlung der dortigen Mikroregion interpretieren, die bis dahin von den Slawen praktisch unbesiedelt war. Die Körpergräberfelder aus der Zeit des Awarenkhaganats in Štúrovo, Štúrovo-Obid und Radvaň nad Dunajom gingen am Ende des 8. Jahrhunderts unter. In Mužla-Čenkov wurde kein Einfluss ihrer materiellen Kultur festgestellt. Andere deutlichere vorgroßmährische Besiedlungen aus der näheren Umgebung kennen wir bisher nicht. Wahrscheinlich handelte es sich um einen Kolonisationsprozess, der von höheren Komponenten der damaligen Gesellschaftsstruktur gelenkt bzw. ermöglicht wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla – Čenkov",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anfänge der Besiedlung von Čenkov lassen sich mit dem Prozess des Aufbaus und der territorialen Vereinigung des Fürstentums Neutra in Zusammenhang bringen. Nach dem Erreichen einer so bedeutenden Grenzscheide, wie es die Donau ist, lässt sich in dem gegebenen Raum durchaus realistisch die Gründung einer Siedlung mit militanter Bestimmung ihrer Bewohner erwarten. Außer der Demonstration der territorial-staatlichen Souveränität durch eine ständige Militärbesatzung konnte zu dieser Bestimmung auch die Beobachtung des Geschehens im Gebiet südlich der Donau gehören. Eine Steigerung des Bedarfs an Informationen dieser Art lässt sich vor allem im Verlauf des zweiten Drittels des 9. Jahrhunderts erwarten. In dieser Zeit ist infolge der Entwicklung der politisch-militärischen Ambitionen des Ostfränkischen Reiches und des Großmährischen Reiches ein Anwachsen der Spannung in den gegenseitigen Beziehungen zu beobachten. Mit der genannten Zeit lassen sich auf dem Burgwall von Čenkov auch das Befestigungssystem und die Funde militanten Charakters aus dem ersten Besiedlungshorizont verbinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Prunkvoller großmährischer Gombík (kugelförmiger Knopfanhänger) vom Burgwall",
+    "alt": "Prunkvoller großmährischer Gombík (kugelförmiger Knopfanhänger) vom Burgwall",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der funktionale Schwerpunkt der Besiedlung verlagert sich im zweiten Horizont in die wirtschaftliche Sphäre (Anbau von Feldfrüchten und Viehhaltung sowie Handel mit landwirtschaftlichen Produkten), was auch die Veränderungen in der Siedlungsstruktur belegen. In dieser Zeit kam es zu einer Verringerung der Konzentration von Wohnbauten und zu einem Anwachsen der Zahl wirtschaftlicher Einrichtungen, besonders von Getreidegruben. Zu der genannten Wende in der Funktionalität der befestigten Siedlung von Čenkov konnte es nach den Ereignissen des Jahres 861 kommen. Auf der Grundlage der Ergebnisse militärischer Zusammenstöße wurde dem Territorium Großmährens das Gebiet von Gran (Esztergom) bis Veszprém, zum Bakonywald und zum unteren Lauf der Raab angeschlossen. Diese Veränderungen konnten ein direkter Impuls für das Verschwinden der ursprünglichen militanten Ausrichtung der Bewohner der betrachteten Fundstelle sein. Größere Bedeutung kann umgekehrt die Möglichkeit der Verbindung der gegenüberliegenden Ufer durch einen Flussübergang erlangen, dessen Existenz in unmittelbarer Nähe des Burgwalls historisch begründet ist. Den Widerschein weiterer Veränderungen im bisherigen Charakter der Besiedlung registrieren wir im dritten Besiedlungshorizont, der den Abschnitt der nachgroßmährischen Zeit ausfüllt (zweites und drittes Drittel des 10. Jahrhunderts). Er äußert sich in einer deutlichen Reduktion der Konzentration der Besiedlung, wobei hier von den ursprünglichen Bewohnern nur ein kleiner Teil bleibt. Die Archäologen weisen jedoch darauf hin, dass es sich nicht um einen katastrophalen Untergang infolge einer direkten militärischen Aktion aus der Zeit der Besetzung der heutigen Slowakei durch Angehörige des ungarischen Ethnikums handelt. Für eine solche Überlegung fehlen in den Befundsituationen irgendwelche Indizien. Die neuesten Ergebnisse unserer Geschichtsschreibung (Steinhübel) schließen eine Gleichsetzung von Čenkov mit dem Burgwall aus, den nach Simon von Kéza die Altungarn erobert haben. Eine Begründung für die deutliche Reduktion der Intensität der Besiedlung können wir hypothetisch im Verschwinden der primären Determinanten annehmen, die die ursprüngliche Konzentration der Besiedlung bedingten. Der Trend der Reduktion der Besiedlung setzt sich auch in die vierte Periode fort, die rahmenhaft in das 11.–12. Jahrhundert gehört. In dieser Zeit erscheinen im ursprünglichen Siedlungsareal die Befunde einer kleinen Siedlung verstreuten Typs, die in den Schriftquellen als villa erfasst ist. In der lateinischen Terminologie handelt es sich um die Bezeichnung für einen unbefestigten Komplex agrarischen Typs."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla – Čenkov",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "items": []
+   }
+  ]
+ }
+}

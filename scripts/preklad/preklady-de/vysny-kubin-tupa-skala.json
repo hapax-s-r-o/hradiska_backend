@@ -1,0 +1,733 @@
+{
+ "slug": "vysny-kubin-tupa-skala",
+ "data": {
+  "title": "Vyšný Kubín – Tupá skala, eine befestigte Höhensiedlung der Lausitzer Kultur",
+  "slug": "vysny-kubin-tupa-skala-lausitzer-hoehensiedlung",
+  "excerpt": "Die befestigte Höhensiedlung Tupá skala nördlich von Vyšný Kubín nutzt eine markante Erhebung: Nach Süden bricht sie in 40–50 m tiefen Felswänden ab, von Norden riegelt ein Erdwall von stellenweise 10 und mehr Metern die etwa 4 ha große Fläche ab. Errichtet hat sie das Volk der Lausitzer Kultur – die Orava-Gruppe – in der späten Bronzezeit und am Beginn der Hallstattzeit; auf der Fläche standen mehr als 300 Wohn- und Werkbauten.",
+  "metaTitle": "Vyšný Kubín – Tupá skala: Höhensiedlung der Lausitzer Kultur",
+  "metaDescription": "Die befestigte Höhensiedlung Tupá skala über Vyšný Kubín (4 ha): im Süden 40–50 m tiefe Felswände, im Norden ein Erdwall von über 10 m mit zwei Toren.",
+  "keyFacts": [
+   {
+    "label": "Ausmaße der befestigten Fläche",
+    "value": "etwa 200 × 400 m, Orientierung O–W",
+    "icon": "map"
+   },
+   {
+    "label": "Wall",
+    "value": "von der Unterseite her stellenweise 10 und mehr Meter hoch, später um mehr als 200 cm aufgestockt",
+    "icon": "shield"
+   },
+   {
+    "label": "Fläche der angrenzenden Siedlung",
+    "value": "mehr als 20 ha",
+    "icon": "flag"
+   },
+   {
+    "label": "Charakteristischer Metallfund",
+    "value": "Nadeln mit Kreuzkopf, sogenannter Orava-Typ",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "späte Bronzezeit – Beginn der Hallstattzeit",
+    "title": "Entstehung der Höhensiedlung der Orava-Gruppe der Lausitzer Kultur",
+    "description": "Errichtet und genutzt wurde die Höhensiedlung vom Volk der Lausitzer Kultur – von der eigenständigen Orava-Gruppe der Lausitzer Kultur mit Besonderheiten, die sie von anderen Regionen unterscheiden.",
+    "type": "founding"
+   },
+   {
+    "year": "1859",
+    "title": "Erste Erwähnung durch Michal Kubínyi",
+    "description": "Die Tupá skala als Siedlung erwähnt im Jahr 1859 Michal Kubínyi (Prässburger Zeitung, 13. 2. 1859), der eine ganze Sammlung von Bronzeobjekten von seinen hiesigen Grundstücken besaß.",
+    "type": "discovery"
+   },
+   {
+    "year": "1960er- und 1970er-Jahre",
+    "title": "Archäologische Ausgrabung von P. Čaplovič",
+    "description": "In den 1960er- und 1970er-Jahren fand hier eine archäologische Ausgrabung unter der Leitung von P. Čaplovič statt, die zeigte, dass Siedlungsbefunde nahezu auf der gesamten Fläche der Tupá skala standen.",
+    "type": "discovery"
+   },
+   {
+    "year": "nach dem Ende der hallstattzeitlichen Siedlung",
+    "title": "Verlagerung auf die Ostrá skala",
+    "description": "Nach der Zerstörung der hallstattzeitlichen befestigten Siedlung auf der Tupá skala verlagerte sich das Leben auf die Ostrá skala, wo bereits in der Hallstattzeit eine kleinere Siedlung bestand.",
+    "type": "destruction"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3714,
+    "alt": "Zeichnung der befestigten Siedlung: Ansicht, Grundriss mit Wall und Querprofil mit Maßstab"
+   },
+   {
+    "mediaId": 3715,
+    "caption": "Die Höhensiedlung auf einer Orthofotokarte aus dem Jahr 1950. Darauf sind der Wall und das Eingangstor gut erkennbar.",
+    "alt": "Die Höhensiedlung auf einer Orthofotokarte aus dem Jahr 1950. Darauf sind der Wall und das Eingangstor gut erkennbar."
+   },
+   {
+    "mediaId": 3716,
+    "caption": "Die Funde malte Theodor Dorre.",
+    "alt": "Die Funde malte Theodor Dorre."
+   },
+   {
+    "mediaId": 3723,
+    "caption": "im Hintergrund die Tupá (links) und die Ostrá skala",
+    "alt": "im Hintergrund die Tupá (links) und die Ostrá skala"
+   },
+   {
+    "mediaId": 3724,
+    "caption": "Blick auf die Höhensiedlung (im Hintergrund der Wall)",
+    "alt": "Blick auf die Höhensiedlung (im Hintergrund der Wall)"
+   },
+   {
+    "mediaId": 3725,
+    "caption": "Die Siedlung Mokrý kút. Der Verein Ipea betreibt dort experimentelle Archäologie mit Schwerpunkt auf der Zeit der Lausitzer Kultur. Rechts eine rekonstruierte Behausung der Lausitzer Kultur. Im Hintergrund die Tupá skala.",
+    "alt": "Die Siedlung Mokrý kút. Der Verein Ipea betreibt dort experimentelle Archäologie mit Schwerpunkt auf der Zeit der Lausitzer Kultur. Rechts eine rekonstruierte Behausung der Lausitzer Kultur. Im Hintergrund die Tupá skala."
+   },
+   {
+    "mediaId": 3726,
+    "caption": "Schnitt durch den Wall",
+    "alt": "Schnitt durch den Wall"
+   },
+   {
+    "mediaId": 3727,
+    "caption": "Kopien Lausitzer Keramik",
+    "alt": "Kopien Lausitzer Keramik"
+   },
+   {
+    "mediaId": 3729,
+    "caption": "Das Tor",
+    "alt": "Das Tor"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung Tupá skala liegt nördlich der Gemeinde Vyšný Kubín. Es handelt sich um eine markante Erhebung (relative Höhe 300 m). Die nördliche Seite der Tupá skala mit einer Fläche von etwa 4 ha ist schräg geneigt, während die südliche plötzlich in 40–50 m tiefen Felswänden endet. Von Norden, also von der zugänglichen und strategisch besonders empfindlichen Seite, ist die Siedlungsfläche durch einen Erdwall abgeriegelt, in dem zwei Tore erhalten sind. Ursprünglich gab es hier nur eines, und zwar im nordöstlichen Teil der Befestigung. Das zweite entstand in der Neuzeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Errichtet und genutzt wurde die Höhensiedlung vom "
+       },
+       {
+        "type": "text",
+        "text": "Volk der Lausitzer Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in der späten Bronzezeit und am Beginn der Hallstattzeit. Es handelte sich um einen eigenständigen Zweig der Lausitzer Kultur, die sogenannte "
+       },
+       {
+        "type": "text",
+        "text": "Orava-Gruppe der Lausitzer Kultur",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die im Vergleich zur Lausitzer Kultur in anderen Regionen bestimmte eigene Besonderheiten aufweist. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Plan der Höhensiedlung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es handelte sich um eine sorgfältig befestigte "
+       },
+       {
+        "type": "text",
+        "text": "Höhensiedlung auf dem Niveau eines Stammeshäuptlings",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit einer Kriegergefolgschaft. Darin unterscheidet sie sich wesentlich von anderen unbefestigten oder offenen Siedlungen. Hier konnte sich das handwerkliche Schaffen konzentrieren, vor allem die Verarbeitung von Metall und Knochen, aber auch die Töpferei und anderes, wodurch die Siedlung allmählich zum Zentrum der Produktion, des Handels und der Verwaltung des zu ihr gehörenden Gebietes wurde. Für den Alltag darf man annehmen, dass sie den reibungslosen Ablauf der Arbeiten und die Sicherheit der Bevölkerung in der Umgebung gewährleistete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Höhensiedlung gehörte auch eine "
+       },
+       {
+        "type": "text",
+        "text": "Siedlung unterhalb von ihr",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", mit einer Fläche von mehr als 20 ha. Man darf annehmen, dass sich hier Gehege, Höfe und sogar Behausungen eines Teils der Ackerbau- oder Hirtenbevölkerung befanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Fläche hat eine rechteckige Form mit ungefähren "
+       },
+       {
+        "type": "text",
+        "text": "Ausmaßen von 200 × 400 m",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "; ihre Längsachse ist in Richtung O–W orientiert. Die Tupá skala als Siedlung erwähnt bereits im Jahr 1859 Michal Kubínyi (Prässburger Zeitung, 13. 2. 1859), der von seinen hiesigen Grundstücken eine ganze Sammlung von Bronzeobjekten besaß. Die Neubewertung und Einordnung der Funde von der Tupá skala nahmen später J. Eisner und V. Budinský-Krička vor. In den 1960er- und 1970er-Jahren fand hier eine archäologische Ausgrabung unter der Leitung von P. Čaplovič statt. Dabei zeigte sich, dass Siedlungsbefunde nahezu auf der gesamten Fläche der Tupá skala standen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Schwerpunkt der Befestigung der Höhensiedlung lag auf der mächtigen Aufschüttung des "
+       },
+       {
+        "type": "text",
+        "text": "Erdwalls, der von der Unterseite her manchmal eine Höhe von 10 und mehr Metern erreicht",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Das Material für seine Aufschüttung stammt aus der nächsten Umgebung und ist durch unregelmäßig eingebrachte Steine gebunden. Nur in den Gipfelpartien kommt ein von der Außenseite verblendetes Steinmauerwerk vor. Von einer hölzernen Rampe haben sich keine Spuren erhalten. Sie konnte jedoch durch eine Rampe aus Lehm und Stein ersetzt worden sein, die zur Siedlung hin nivelliert war. Auf ihr wurden Feuerstellen, Asche, Knochen und Scherben festgestellt, und sie war im Profil des Erdwalls deutlich erkennbar. Diese Anlauframpe aus aufgehäuften und an der Außenseite auch verblendeten Steinen, von einer verhärteten Erdschicht bedeckt, war im Bereich des Steinmauerwerks durch eine hölzerne Palisade ergänzt. Die Palisade konnte aus Rundholz gefertigt und nach Art eines Blockbaus gelegt gewesen sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Höhensiedlung auf einer Orthofotokarte aus dem Jahr 1950. Darauf sind der Wall und das Eingangstor gut erkennbar.",
+    "alt": "Die Höhensiedlung auf einer Orthofotokarte aus dem Jahr 1950. Darauf sind der Wall und das Eingangstor gut erkennbar.",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Später wurde der Erdwall um mehr als 200 cm Höhe aufgestockt. Auf der ganzen Länge wurde in einer Spanne von 4 bis 7 m ein Steinmauerwerk in drei Reihen errichtet, mit Holz verbunden und mit Erde verfüllt. Auf diesem so erhöhten Unterbau wurde eine neue Blockkonstruktion errichtet, die auch an massiven Pfosten verankert war, die stellenweise daneben, anderswo direkt im Steinmauerwerk eingesetzt waren. Die Wallkrone bestand nun aus einer 4 m breiten Stufe mit Aussicht in die Umgebung und einer 3 m breiten niedrigeren Stufe für die Handhabung bzw. als Raum für den Nachschub, alles von einem gemeinsamen, zur Siedlung hin geneigten Dach bedeckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In die Wallaufschüttung im nordöstlichen Teil war das "
+       },
+       {
+        "type": "text",
+        "text": "Eingangstor",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " eingesetzt. Dieses Tor hat einen um mehr als 1 m erhöhten Durchgang aus großformatigen Sandsteinen, die ursprünglich die Wallaufschüttung rund um den Eingang und die Torflügel böschungsartig banden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die innere Bebauung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle Siedlungsbefunde, die im Inneren der Höhensiedlung standen, waren von der Innenseite des Wallkörpers durch eine Steinmauer getrennt. Der Raum zwischen ihnen war in Zeiten der Gefahr ein strategischer Verkehrsweg und konnte den Scherben von Vorratsgefäßen nach auch der Wasservorhaltung als Löschwasserreserve dienen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Funde malte Theodor Dorre.",
+    "alt": "Die Funde malte Theodor Dorre.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fassen wir die Erkenntnisse zur Siedlungsstruktur zusammen, so lassen sich vor allem ihre Wehrbauten – die gedeckte hölzerne Palisade – und sodann die Wohn- und Werkbefunde erkennen. Zwei Phasen im Bau der Palisade deuten auf ihre Entwicklung hin, und die Reste des trocken gelegten Steinmauerwerks verraten, dass es sich wirklich um eine mächtig befestigte Höhensiedlung handelte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die gesamte Siedlungsstruktur spiegelt sich in den reihenweise angeordneten Wohn- und Werkbefunden. "
+       },
+       {
+        "type": "text",
+        "text": "Die Befunde zur Speisenzubereitung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " hatten neben einer Feuerstelle mit kleiner Pfostengrube in der Nähe auch Nahrungsvorräte, vor allem Getreide, Hülsenfrüchte und Fleisch. Sie waren üblicherweise mit Lehm ausgestrichen und nach Süden orientiert. Abwechselnd zwischen den Wohnbauten waren "
+       },
+       {
+        "type": "text",
+        "text": "Werkbefunde",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " angelegt, die durch Feuerstellen mit hoher Hitze, in den Boden eingesenkte Gefäße und eine andersartige Raumdisposition gekennzeichnet sind. Einer der gefundenen Befunde war eine "
+       },
+       {
+        "type": "text",
+        "text": "Schmiede- oder Gießerwerkstatt",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zur Reparatur von Arbeits- und Kampfausrüstung. Zwischen den Reihen dieser Befunde lagen Durchgänge nach Art von Gassen, die dem Verlauf des Walls folgten. Die Zahl der so errichteten Befunde auf der Siedlungsfläche lässt sich auf mehr als 300 schätzen, wenn man die übrigen Flächen für Hilfs-, technische, Verkehrs- und soziale Zwecke nicht berücksichtigt. Vor allem im westlichen, niedrigsten Teil darf man den Schwerpunkt dieser Einrichtungen vermuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Keramik"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Befestigung der Höhensiedlung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Keramik der Siedlung vertreten gerillte und "
+       },
+       {
+        "type": "text",
+        "text": "graphitierte Lausitzer Scherben",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", gefunden in den unteren Schichten der Siedlungsbefunde und in der Aufschüttung des Wehrwalls aus Erde. Zur jüngeren verzierten Keramik gehören Scherben, die "
+       },
+       {
+        "type": "text",
+        "text": "in Form eines Nadelzweiges oder in Rillenbündeln geritzt",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " sind. Eine häufige Form sind henkellose "
+       },
+       {
+        "type": "text",
+        "text": "unverzierte Töpfe",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit runden und längsgerichteten Buckeln unter dem Rand. Eine eigene Keramikgruppe bilden in der Siedlung "
+       },
+       {
+        "type": "text",
+        "text": "großformatige Vorratsgefäße,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " die teils in den Befunden, teils im Verkehrsraum aufgestellt waren. Einige Vorratsgefäße waren nicht in den Boden eingesenkt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die im Freien aufgestellten Vorratsgefäße hatten größere Böden, massivere Wände und erinnerten an sackförmige Gefäße mit buckeliger Oberfläche. Sie konnten "
+       },
+       {
+        "type": "text",
+        "text": "der Wasservorhaltung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " dienen, während die Vorratsgefäße mit kleinem Boden im Inneren der Befunde zur Aufbewahrung von Nahrungsmitteln verwendet wurden. Die meisten von ihnen hatten je zwei oder vier Bandhenkel und zwei oder vier zungenförmige Fortsätze in der unteren Hälfte. Diese hatten eine stabilisierende Funktion und ermöglichten das Tragen oder jegliches Umstellen der Vorratsgefäße."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Bebauung der Höhensiedlung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den keramischen Erzeugnissen sind hier noch zahlreiche "
+       },
+       {
+        "type": "text",
+        "text": "Spinnwirtel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " von scheiben- oder kegelförmiger Gestalt, "
+       },
+       {
+        "type": "text",
+        "text": "Webgewichte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und steinerne "
+       },
+       {
+        "type": "text",
+        "text": "Reibsteine",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu nennen. Aus Stein waren auch längliche Wetzsteine mit durchbohrtem Loch. In der Siedlung wurden "
+       },
+       {
+        "type": "text",
+        "text": "knöcherne Ahlen, Glättgeräte und Hämmer aus Geweih",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " verwendet. Vielleicht eine "
+       },
+       {
+        "type": "text",
+        "text": "Pfeife",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " konnte ein knöchernes, an der Oberfläche mit Ringen verziertes Röhrchen sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Metall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den Metallgegenständen sind am häufigsten "
+       },
+       {
+        "type": "text",
+        "text": "Nadeln mit Kreuzkopf,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " der sogenannte Orava-Typ, dreieckige Blechstücke und das Fragment einer "
+       },
+       {
+        "type": "text",
+        "text": "hallstattzeitlichen Paukenfibel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Weiter fanden sich "
+       },
+       {
+        "type": "text",
+        "text": "ein bronzener Meißel, eine Nadel, das Fragment eines Armrings, ein Spiralröhrchen und ein Zierbuckel aus Blech",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit umgebogenen Enden. Aus dem Kampfinventar fand sich ein Teil"
+       },
+       {
+        "type": "text",
+        "text": " eines bronzenen Schildbeschlags",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", 8 dreikantige, 1 zweikantige und 2 knöcherne "
+       },
+       {
+        "type": "text",
+        "text": "Pfeilspitzen.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Keramik von der Höhensiedlung",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schließlich sind hier "
+       },
+       {
+        "type": "text",
+        "text": "Körner",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " von Getreide samt Körnern von Hirse, Erbse und Bohne. Es fehlten auch die Mühlsteine zur Verarbeitung des Getreides nicht. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Insgesamt fällt das Fundinventar von der Tupá skala nicht aus dem Rahmen der hallstattzeitlichen Produktion auf anderen Siedlungen dieser Zeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Zerstörung der hallstattzeitlichen befestigten Siedlung auf der Tupá skala verlagerte sich das Leben auf die Ostrá skala, wo bereits in der Hallstattzeit eine kleinere Siedlung bestand, die durch jüngere Eingriffe gestört wurde, weshalb sich die einzelnen Überreste (Keramik) in sekundärer Lage befinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

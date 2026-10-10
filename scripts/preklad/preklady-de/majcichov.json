@@ -29,7 +29,7 @@
    },
    {
     "label": "Archäologische Ausgrabung",
-    "value": "Archäologisches Institut der Slowakischen Akademie der Wissenschaften in Nitra (1960er Jahre und Beginn des 21. Jahrhunderts)",
+    "value": "Archäologisches Institut der Slowakischen Akademie der Wissenschaften in Nitra (60er Jahre des 20. Jahrhunderts und Beginn des 21. Jahrhunderts)",
     "icon": "scroll"
    },
    {
@@ -53,13 +53,13 @@
    {
     "year": "5000–3000 v. Chr.",
     "title": "Siedlung der Kultur mit Volutenkeramik",
-    "description": "In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt, in deren Zusammenhang eine Siedlung der Menschen mit der Kultur mit Volutenkeramik erwähnt wird.",
+    "description": "In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt, in deren Zusammenhang eine Siedlung des Volkes mit Volutenkeramik erwähnt wird.",
     "type": "event"
    },
    {
     "year": "1900–700 v. Chr.",
     "title": "Besiedlung in der Bronzezeit",
-    "description": "Die häufigsten Spuren ihrer Vorfahren finden die Einwohner von Majcichov in der Bronzezeit; es handelt sich um die Lausitzer und die Velatice-Kultur.",
+    "description": "Die Einwohner von Majcichov finden die häufigsten Spuren ihrer Vorfahren in der Bronzezeit; es handelt sich um die Lausitzer und die Velatice-Kultur.",
     "type": "event"
    },
    {
@@ -87,9 +87,9 @@
     "type": "discovery"
    },
    {
-    "year": "1960er Jahre und Beginn des 21. Jh.",
+    "year": "60er Jahre des 20. Jh. und Anfang des 21. Jh.",
     "title": "Ausgrabung des Archäologischen Instituts der SAV",
-    "description": "Die archäologische Ausgrabung des Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften in Nitra in den 1960er Jahren und zu Beginn des 21. Jahrhunderts durch.",
+    "description": "Die archäologische Ausgrabung des Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften in Nitra in den 60er Jahren des 20. Jahrhunderts und zu Beginn des 21. Jahrhunderts durch.",
     "type": "discovery"
    },
    {
@@ -200,7 +200,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Archäologische Fundstellen deuten darauf hin, dass im Gebiet des heutigen Majcichov bereits in der Altsteinzeit (35.000–8000 Jahre v. Chr.) der urgeschichtliche Mensch lebte. In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt (von 5000 bis 3000 v. Chr.). In diesem Zusammenhang wird eine Siedlung der Menschen mit der Kultur mit Volutenkeramik (Linearbandkeramik) erwähnt. Die häufigsten Spuren ihrer Vorfahren finden die Einwohner von Majcichov in der Bronzezeit (von 1900–700 v. Chr.), es handelt sich um die Lausitzer und die Velatice-Kultur. Aus der älteren Eisenzeit (von 700–300 v. Chr.) ist eine Siedlung südlich von Majcichov bekannt, schon im Kataster der Gemeinde Hoste, in der Lage Malý háj. An der Wende vom 5. zum 6. Jahrhundert unserer Zeitrechnung ließen sich hier die Slawen nieder. Zu den erhaltenen Spuren gehört eine Siedlung mit Keramik des Prager Typs."
+        "text": "Archäologische Fundstellen deuten darauf hin, dass im Gebiet des heutigen Majcichov bereits in der Altsteinzeit (35.000–8000 Jahre v. Chr.) der urgeschichtliche Mensch lebte. In der Literatur wird häufiger die Besiedlung von Majcichov aus der jüngeren Steinzeit angeführt (von 5000 bis 3000 v. Chr.). In diesem Zusammenhang wird eine Siedlung des Volkes mit Volutenkeramik (Linearbandkeramik) erwähnt. Die Einwohner von Majcichov finden die häufigsten Spuren ihrer Vorfahren in der Bronzezeit (von 1900–700 v. Chr.), es handelt sich um die Lausitzer und die Velatice-Kultur. Aus der älteren Eisenzeit (von 700–300 v. Chr.) ist eine Siedlung südlich von Majcichov bekannt, schon im Kataster der Gemeinde Hoste, in der Lage Malý háj. An der Wende vom 5. zum 6. Jahrhundert unserer Zeitrechnung ließen sich hier die Slawen nieder. Zu den erhaltenen Spuren gehört eine Siedlung mit Keramik des Prager Typs."
        }
       ]
      }
@@ -227,7 +227,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Aus dem 9. Jahrhundert ist in Majcichov vom Ortsteil Palaj bis zum Vlčkovský háj eine großmährische Schutzburg bekannt, die eine Fläche von 3 ha hatte. Die archäologische Ausgrabung dieses Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) in Nitra (Neutra) in den 1960er Jahren und zu Beginn des 21. Jahrhunderts durch. Die Untersuchungen behaupten, dass die Fläche sogar bis zu 9 ha betragen könnte. Der Burgwall lag an einer wichtigen Handelskreuzung. Es ist sehr wahrscheinlich, dass Majcichov schon in dieser Zeit unter dem Namen Majtech als kleine Siedlung an der heutigen oberen Gasse unterhalb der Kirche existierte. An der Stelle der Kirche stand wahrscheinlich ein Wachturm. Um den Burgwall von Majcichov bildete sich ein ganzes Netz von Dienstsiedlungen. In dieser Zeit nahmen die Einwohner von Majcichov das Christentum an, das nach dem Untergang des Burgwalls auch die Altungarn im Rahmen des ungarischen Staates festigten, wovon wiederum viele ungarische Namen zeugen – Farkašín (Vlčkovce), Majthény (Majcichov)."
+        "text": "Aus dem 9. Jahrhundert ist in Majcichov vom Ortsteil Palaj bis zum Vlčkovský háj eine großmährische Schutzburg bekannt, die eine Fläche von 3 ha hatte. Die archäologische Ausgrabung dieses Burgwalls führte das Archäologische Institut der Slowakischen Akademie der Wissenschaften (AÚ SAV) in Nitra (Neutra) in den 60er Jahren des 20. Jahrhunderts und zu Beginn des 21. Jahrhunderts durch. Die Untersuchungen behaupten, dass die Fläche sogar bis zu 9 ha betragen könnte. Der Burgwall lag an einer wichtigen Handelskreuzung. Es ist sehr wahrscheinlich, dass Majcichov schon in dieser Zeit unter dem Namen Majtech als kleine Siedlung an der heutigen oberen Gasse unterhalb der Kirche existierte. An der Stelle der Kirche stand wahrscheinlich ein Wachturm. Um den Burgwall von Majcichov bildete sich ein ganzes Netz von Dienstsiedlungen. In dieser Zeit nahmen die Einwohner von Majcichov das Christentum an, das nach dem Untergang des Burgwalls auch die Altungarn im Rahmen des ungarischen Staates festigten, wovon wiederum viele ungarische Namen zeugen – Farkašín (Vlčkovce), Majthény (Majcichov)."
        }
       ]
      }
@@ -254,7 +254,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Matej Ruttkay, Eva Fottová und Joachim Henning führen in dem Artikel Archeologický výskum včasnostredovekého hradiska v Majcichove (in Pieta K., Ruttkay A., Ruttkay M.: 2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra) an, dass die Gründer des Burgwalls ihn auf eine leichte Anhöhe in die Biegung eines Flussarmes setzten, die auf alten Karten sowie auf dem Luftbild deutlich zu erkennen ist. Damit waren der südwestliche, der südliche und der südöstliche Rand der Befestigung abgegrenzt. Das bedeutet, dass der Flussarm als Wassergraben genutzt wurde (wahrscheinlich nach einer Versteilung der Ufer). Die nordwestliche und die nordöstliche Seite wurden ohne Anknüpfung an das ursprüngliche System der Flussarme errichtet. Deshalb war es möglich, gerade Wälle mit einem künstlichen Graben zu bauen. Wir nehmen an, dass das Bachbett, das nordwestlich des Burgwalls verläuft, erst später an diese Stelle gelangte. Darauf deutet auch die Tatsache hin, dass die nördliche Ecke des Burgwalls durch diesen Bach gestört wurde. Gegenwärtig erscheint auch die südwestliche Seite des Burgwalls fast als Gerade, d. h. insgesamt hat der Burgwall einen rechteckigen Grundriss (Orientierung mit der längeren Achse in Richtung Nordwest–Südost) und eine abgerundete südöstliche Seite. Die Ausmaße betragen etwa 220 × 300 m. Etwa in der Mitte der kürzeren Seiten sind auf den Luftbildern Unterbrechungen des Walls zu beobachten – wahrscheinlich Tore. Die gesamte Fläche des Burgwalls wurde in der Vergangenheit intensiv landwirtschaftlich bearbeitet, was eine deutliche Abtragung der Wälle zur Folge hatte. Im nordöstlichen Teil ist die Befestigung durch einen Flussmäander gestört, der bereits auf der 1. militärischen Landesaufnahme zu beobachten ist. Interessant ist, dass auf neueren Karten als Lage Hradisko bzw. Valy ein Gebiet in der Nachbarschaft des Burgwalls bezeichnet wird."
+        "text": "Matej Ruttkay, Eva Fottová und Joachim Henning führen in dem Artikel Archeologický výskum včasnostredovekého hradiska v Majcichove (in Pieta K., Ruttkay A., Ruttkay M.: 2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra) an, dass die Gründer des Burgwalls ihn auf eine leichte Anhöhe in die Biegung eines Flussarmes setzten, die auf alten Karten sowie auf dem Luftbild deutlich zu erkennen ist. Damit waren der südwestliche, der südliche und der südöstliche Rand der Befestigung abgegrenzt. Das bedeutet, dass der Flussarm als Wassergraben genutzt wurde (wahrscheinlich nach einer Versteilung der Ufer). Die nordwestliche und die nordöstliche Seite wurden ohne Anknüpfung an das ursprüngliche System der Flussarme errichtet. Deshalb war es möglich, gerade Wälle mit einem künstlichen Graben zu bauen. Wir nehmen an, dass das Bachbett, das nordwestlich des Burgwalls verläuft, erst später an diese Stelle gelangte. Darauf deutet auch die Tatsache hin, dass die nördliche Ecke des Burgwalls durch diesen Bach gestört wurde. Gegenwärtig erscheint auch die südwestliche Seite des Burgwalls fast als Gerade, d. h. insgesamt hat der Burgwall einen rechteckigen Grundriss (Orientierung mit der längeren Achse in Richtung Nordwest–Südost) und eine abgerundete südöstliche Seite. Die Ausmaße betragen etwa 220 × 300 m. Etwa in der Mitte der kürzeren Seiten sind auf den Luftbildern Unterbrechungen des Walls zu beobachten – wahrscheinlich Tore. Die gesamte Fläche der Fundstelle wurde in der Vergangenheit intensiv landwirtschaftlich bearbeitet, was eine deutliche Abtragung der Wälle zur Folge hatte. Im nordöstlichen Teil ist die Befestigung durch einen Flussmäander gestört, der bereits auf der ersten militärischen Landesaufnahme zu beobachten ist. Interessant ist, dass auf neueren Karten als Lage Hradisko bzw. Valy ein Gebiet in der Nachbarschaft des Burgwalls bezeichnet wird."
        }
       ]
      }

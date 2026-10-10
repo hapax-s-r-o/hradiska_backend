@@ -1,0 +1,165 @@
+{
+ "slug": "ponicka-huta-na-klastore",
+ "data": {
+  "title": "Ponická Huta – Na Kláštore, eine befestigte Höhensiedlung der Kupfergewinnung",
+  "slug": "ponicka-huta-na-klastore-hoehensiedlung-kupfergewinnung",
+  "excerpt": "Die befestigte Höhensiedlung Na Kláštore liegt im Hügelland von Poniky auf dem westlichen Grat des Učovník-Massivs, zwischen den Tälern der Bäche Zolná und Malá Zolná. Ihr Wall von etwa 400 m, die Nähe der Kupfervorkommen von Drienok und die Qualität der Funde sprechen für eine Anlage, die Kupfer gewann, verarbeitete und lagerte – und zugleich den Weg ins Bergbaurevier von Ľubietová bewachte.",
+  "metaTitle": "Ponická Huta – Na Kláštore, Höhensiedlung der Kupferleute",
+  "metaDescription": "Die Höhensiedlung Na Kláštore im Učovník-Massiv mit einem Wall von etwa 400 m wird mit Kupfergewinnung verbunden. Ein Fund ist eine Bronzefigur.",
+  "keyFacts": [
+   {
+    "label": "Höhe ü. M.",
+    "value": "565–574 m ü. M. (Učovník-Massiv)",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall von ca. 400 m, am massivsten im Osten",
+    "icon": "star"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Gewinnung und Verarbeitung von Kupfer, Wachfunktion",
+    "icon": "star"
+   },
+   {
+    "label": "Schlüsselfund",
+    "value": "Bronzefigur eines nackten Mannes",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Lausitzer Kultur",
+    "title": "Älteste Besiedlung",
+    "description": "Nach den Funden die älteste Phase.",
+    "type": "event"
+   },
+   {
+    "year": "Vor-Púchov-Stufe (C)",
+    "title": "Latènezeit — jüngere Eisenzeit",
+    "description": "Datiert von K. Pieta; Hortfund von Eisengegenständen, Hackmesser vom Typ Dürrnberg.",
+    "type": "event"
+   },
+   {
+    "year": "Stufe C2",
+    "title": "Spätere Latènezeit",
+    "description": "Fibeln geschlossener Konstruktion; intensive Eisenverarbeitung.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5729,
+    "caption": "1. militärische Landesaufnahme Ungarns…",
+    "alt": "1. militärische Landesaufnahme Ungarns…"
+   },
+   {
+    "mediaId": 5730,
+    "caption": "Zeichnung der Höhensiedlung aus dem Buch Keď pri Hrone vládli Kelti",
+    "alt": "Zeichnung der Höhensiedlung aus dem Buch Keď pri Hrone vládli Kelti"
+   },
+   {
+    "mediaId": 5731,
+    "caption": "Hortfund von Eisengegenständen (Pieta)",
+    "alt": "Hortfund von Eisengegenständen (Pieta)"
+   },
+   {
+    "mediaId": 5732,
+    "caption": "Bronzefigur von der Höhensiedlung (Pieta)",
+    "alt": "Bronzefigur von der Höhensiedlung (Pieta)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle der befestigten Höhensiedlung Na Kláštore liegt im Hügelland von Poniky auf dem westlichen Grat des Učovník-Massivs (759 m ü. M.). Den Gipfel des Berges trennen die Täler der Bäche Zolná auf der Nordseite und Malá Zolná auf der Südseite. Nach Westen hin fließen beide Bäche zusammen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhensiedlung liegt etwa 500 m östlich ihres Zusammenflusses. Die durchschnittliche Höhe beträgt 565,00–574,00 m ü. M. Der Nord- und der Südhang fallen steil in das Tal ab. Der westliche Grat endet in einer Felsklippe, in Richtung der Lage Baby. Der ursprüngliche Zugang zur Höhensiedlung führt von der Südseite des Tales her, durch das der Bach Malá Zolná fließt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "1. militärische Landesaufnahme Ungarns…",
+    "alt": "1. militärische Landesaufnahme Ungarns…",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bis heute sind im Gelände die Spuren eines Serpentinenweges gut zu erkennen, der im westlichen Teil des befestigten Areals der Höhensiedlung endet. Die Wallbefestigung ist auf der Ostseite am massivsten, ihre ungefähre Länge beträgt 400 m. Die Qualität der Funde, die Nähe der Kupfervorkommen in der Lage Drienok (4 km NO), die Eisenvorkommen sowie die Befestigung des Areals belegen, dass die Höhensiedlung Na Kláštore mindestens regionale Bedeutung haben musste. Die älteste Besiedlung der Höhensiedlung gehört in die Zeit der Lausitzer Kultur. Karol Pieta datiert die Anlage in die sogenannte Vor-Púchov-Stufe (Stufe C) der Latènezeit (Ausgang der jüngeren Eisenzeit). In diese Zeit gehören vor allem der gefundene Hortfund von Eisengegenständen und darin das sogenannte Hackmesser vom Typ Dürrnberg. Die spätere Periode (C2) datieren wiederum Fibeln geschlossener Konstruktion. Gefunden wurden hier auch eiserne Lanzen. In dieser Zeit verzeichnen wir hier ebenfalls eine intensive Eisenverarbeitung. Der interessanteste Fund ist eine Bronzefigur eines nackten Mannes, die zu den bedeutenden Funden der gesamten Slowakei zählt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zeichnung der Höhensiedlung aus dem Buch Keď pri Hrone vládli Kelti",
+    "alt": "Zeichnung der Höhensiedlung aus dem Buch Keď pri Hrone vládli Kelti",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neben der Gewinnung und Verarbeitung von Erzen ist es wahrscheinlich, dass die Höhensiedlung auch eine Wachfunktion an dem Weg erfüllte, der aus dem Tal der Zolná heraufkam und entlang dessen der Weg zu den Fundstellen in der Umgebung von Zvolen (Altsohl) sowie in das Gebiet des Bergbaureviers von Ľubietová mit bedeutenden Kupfervorkommen und mit Funden aus der Jungbronzezeit führte. Durch dieses Gebiet verliefen bedeutende Wege überregionalen Charakters, über die das Kupfer an die Endabnehmer verteilt wurde. \n \n Es wird angenommen, dass die Bewohner dieser Höhensiedlung für die Gewinnung und Verarbeitung des Kupfers aus der örtlichen Lagerstätte zuständig waren und eine wichtige Stellung innerhalb der Kommunikationswege des Tauschhandels einnahmen. Die Befestigung um das gesamte Areal der Höhensiedlung deutet auch darauf hin, dass sie nicht nur wehrhaften Charakter hatte, sondern auch als Lager für Kupferhalbfabrikate diente. Daraus ergibt sich auch die wesentliche Tatsache, dass ein solcher Typ einer Höhensiedlung das Ergebnis organisierter Arbeit einer größeren Bevölkerungsgruppe sein musste. Ein Beleg dafür ist die reich vertretene Tafelkeramik (Tassen, Schalen), die Qualität ihrer Ausführung (geglättete, polierte Oberfläche) sowie die reiche Ornamentik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

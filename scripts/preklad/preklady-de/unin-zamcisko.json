@@ -1,0 +1,240 @@
+{
+ "slug": "unin-zamcisko",
+ "data": {
+  "title": "Unín – Zámčisko, eine der schönsten befestigten Höhensiedlungen der Westslowakei",
+  "slug": "unin-zamcisko-befestigte-hoehensiedlung",
+  "excerpt": "Das Zámčisko bei Unín zählt zu den schönsten befestigten Höhensiedlungen der Westslowakei: Auf 17 ha sind ein bis zu 6 m hoher Wall und ein bis zu 10 m tiefer Graben noch heute im Gelände zu bewundern. Entdeckt hat die Anlage Štefan Janšák im Jahr 1927. Besiedelt war sie von der älteren Bronzezeit bis in die ältere römische Kaiserzeit – aus der Zeit der Maďarovce-Věteřov-Kultur stammen Bronzedolche, Nadeln und ein Hortfund.",
+  "metaTitle": "Unín – Zámčisko: befestigte Höhensiedlung der Westslowakei",
+  "metaDescription": "Eine der schönsten befestigten Höhensiedlungen der Westslowakei (17 ha): Wall von 4–6 m, Graben von 8–10 m. 1927 von Štefan Janšák entdeckt.",
+  "keyFacts": [
+   {
+    "label": "Ausmaße",
+    "value": "etwa 70 × 132 m, Fläche 17 ha",
+    "icon": "star"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Wall 4–6 m + Graben 8–10 m",
+    "icon": "star"
+   },
+   {
+    "label": "Entdeckung",
+    "value": "Štefan Janšák, 1927",
+    "icon": "star"
+   },
+   {
+    "label": "Wichtigste Funde",
+    "value": "Bronzehortfund, Dolche, Nadeln, Fibel (römische Kaiserzeit)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2000–1250 v. Chr.",
+    "title": "Ältere und mittlere Bronzezeit",
+    "description": "Die älteste Besiedlung der Höhensiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "1550–1530 v. Chr.",
+    "title": "Maďarovce-Věteřov-Kultur",
+    "description": "Erste Blütezeit; Hauptburg, mehrere Verteidigungslinien.",
+    "type": "event"
+   },
+   {
+    "year": "1450–1250 v. Chr.",
+    "title": "Mitteldanubische Hügelgräberkultur",
+    "description": "Bestattung unter Hügelgräbern mit militärischen Beigaben.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jh. v. Chr.",
+    "title": "Schlesisch-Platěnice-Kultur",
+    "description": "Grubenhaus auf der Hauptburg, Brandritus.",
+    "type": "event"
+   },
+   {
+    "year": "750–450 v. Chr.",
+    "title": "Hallstattzeit",
+    "description": "Ununterbrochene Besiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "275–120 v. Chr.",
+    "title": "Mittellatènezeit",
+    "description": "Einzelne Scherben – mögliche keltische Besiedlung.",
+    "type": "event"
+   },
+   {
+    "year": "25–50 n. Chr.",
+    "title": "Ältere römische Kaiserzeit",
+    "description": "Fibel, germanische Scherben, ein vollständiges Gefäß.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5845,
+    "caption": "Bronzener Hortfund der Aunjetitzer Kultur von der befestigten Höhensiedlung Unín – Zámčisko. Gefunden im Jahr 1982 bei einer Ausgrabung (Ľudia a hory, 2019)",
+    "alt": "Bronzener Hortfund der Aunjetitzer Kultur von der befestigten Höhensiedlung Unín – Zámčisko. Gefunden im Jahr 1982 bei einer Ausgrabung (Ľudia a hory, 2019)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zámčisko bei Unín zählt zu den schönsten befestigten Höhensiedlungen der Westslowakei, und seine mächtige Wallbefestigung können wir noch heute bewundern. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie wurde in der Mitte eines 2 km langen Bergrückens nordöstlich der Gemeinde Unín errichtet. An einer Stelle, in Richtung der Kote 411, fällt der Rücken plötzlich ab und bildet so einen Bergsporn, der sich für die Anlage einer Höhensiedlung eignet – was unsere Vorfahren auch entsprechend nutzten. Štefan Janšák, der die Anlage im Jahr 1927 entdeckte, führt an, die Natur habe hier eine Art unregelmäßiger, gestufter Erdpyramide geschaffen. Ihre fast völlig waagerechte Gipfelfläche wird von einer unregelmäßigen eiförmigen Linie begrenzt, die von Wällen oder einem steilen Hang gesäumt ist; so entsteht eine gut zu verteidigende befestigte Fläche mit Ausmaßen von etwa 70 × 132 m. Wie auch bei anderen Höhensiedlungen ist der Wall an jenen Stellen am höchsten, von denen der Zugang zur Anlage am besten war, und erreicht im mächtigsten Abschnitt eine Höhe von 4–6 Metern, was mit einem tiefen Graben von 8–10 Metern verbunden ist. Die Höhensiedlung nimmt eine Fläche von bis zu 17 ha ein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bronzener Hortfund der Aunjetitzer Kultur von der befestigten Höhensiedlung Unín – Zámčisko. Gefunden im Jahr 1982 bei einer Ausgrabung (Ľudia a hory, 2019)",
+    "alt": "Bronzener Hortfund der Aunjetitzer Kultur von der befestigten Höhensiedlung Unín – Zámčisko. Gefunden im Jahr 1982 bei einer Ausgrabung (Ľudia a hory, 2019)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Internetseite der Gemeinde wird angeführt, dass der älteste Teil der Höhensiedlung wohl bereits in der älteren und mittleren Bronzezeit (2000–1250 v. Chr.) errichtet wurde. Ihren Höhepunkt erreichte sie in zwei Etappen, die jeweils mit einer verheerenden Plünderung endeten, wovon die bei den archäologischen Ausgrabungen entdeckten verkohlten Reste zeugen. Die erste Kultur dieser Blütezeit war die Maďarovce-Věteřov-Kultur, deren Besiedlung der Höhensiedlung in die Jahre 1550–1530 v. Chr. fällt. Die Angehörigen dieser Kultur bewohnten nicht nur die Südwestslowakei, sondern auch die angrenzenden Gebiete des heutigen Mährens und des nördlichen Österreich. Den archäologischen Funden nach entsprach der Siedlungstyp eher der kulturellen Entwicklung der Maďarovce-Kultur auf der mährischen Seite als dem zentralen Gebiet, das in der Südwestslowakei lag. Die Bewohner waren ausgezeichnete Handwerker, vor allem Töpfer, obwohl sie die Töpferscheibe nicht kannten. Der dominierende Teil des gesamten Komplexes der Höhensiedlung war die Hauptburg. Die Verteidigung insgesamt war durch mehrere Verteidigungslinien gesichert. Ein dreifaches Netz war in den Lagen Ku klancu und k Brovištiam vorgelagert. In Zeiten der Gefahr diente so dieser Raum zwischen der ersten und der zweiten Verteidigungslinie als Zuflucht für die Bevölkerung der Umgebung. Diese Befestigung, gebildet aus einer mit Holzbalken verstärkten Stein-Lehm-Konstruktion und einem anliegenden Spitzgraben, stellte eine wirksame Verteidigung gegen Feinde dar. Aus dieser Zeit stammen fein getriebene Bronzedolche, Bronzenadeln und Gewandverschlüsse sowie der entdeckte Bronzehortfund, der Knöpfe, Beschläge und bronzene Zierstücke enthält – die sogenannten Zierbuckel, die auf die Kleidung genäht wurden und eine Schutzfunktion hatten. Fotos bzw. Zeichnungen davon konnte ich bisher nicht beschaffen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die nächsten Bewohner der Höhensiedlung in der mittleren Bronzezeit (1450–1250 v. Chr.) waren die Menschen der mitteldanubischen Hügelgräberkultur. Im Unterschied zu den vorherigen Bewohnern bestatteten sie ihre Toten unter Hügelgräbern, oft mit reichen Beigaben, vor allem militärischen. Aus dieser Periode gelang es den Archäologen zum Beispiel, das Fragment einer bronzenen Lanze und einen bronzenen Anhänger in Herzform zu entdecken. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Štefan Janšák",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der jüngeren Bronzezeit (1250–1000 v. Chr.) ließ sich keine ausreichende Menge an Artefakten finden, anhand derer sich das Leben in dieser Höhensiedlung rekonstruieren ließe. Wir wissen jedoch, dass am Ende dieser Phase auf der Hauptburg die Träger der Schlesisch-Platěnice-Kultur (9. Jahrhundert v. Chr.) in einem nahezu quadratischen Grubenhaus lebten, die ihre Toten verbrannten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zámčisko war ununterbrochen bis in die Hallstattzeit (750–450 v. Chr.) besiedelt, und einzelne Scherben aus der Mittellatènezeit (275–120 v. Chr.), mit der wir in die Epoche der Kelten gelangen, deuten darauf hin, dass es auch hier eine keltische Besiedlung gegeben haben könnte. Die jüngsten bisher entdeckten Funde in Form einer Fibel, germanischer Scherben und eines vollständigen Gefäßes stammen aus der älteren römischen Kaiserzeit (0–180 n. Chr.) und lassen sich genauer in den Zeitraum 25–50 n. Chr. datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bisher ist es mir nicht gelungen, einschlägige Informationen zu finden, die eine Besiedlung der Höhensiedlung in großmährischer Zeit oder im Mittelalter belegen würden. Einen Besuch der Anlage kann ich empfehlen; Sie finden dort sogar eine Informationstafel zu ihrer Siedlungs- und Forschungsgeschichte. Ein Stück von der Höhensiedlung entfernt steht ein interessanter Aussichtsturm."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň\n \n "
+       },
+       {
+        "type": "link",
+        "url": "https://www.geocaching.com/geocache/GC1RVHT_zamcisko-se",
+        "children": [
+         {
+          "type": "text",
+          "text": "GEOCACHE"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

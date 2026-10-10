@@ -694,3 +694,27 @@ preložený, rovnako ako anglická.
 
 **spisske-tomasovce**
 : rozloha trikrát inak — blok 3 „asi 3 ha", blok 22 „3,3 ha", anglické resumé „12 hektárov" (400 × 300 m); blok 22 má nedokončenú vetu „ostroha s trojuholníkovitými …"
+
+**obisovce-straza**
+: telo aj keyFacts uvádzajú „cca 47 ha", citovaná štúdia v bloku 26 „viac ako 45 ha"
+
+**podbranc-stary-hrad**
+: keyFact „dĺžka hradiska takmer 500 m" — Janšákov citát udáva len obvod valu 1060 m a šírku 145 m
+
+**podturen-basta-velinok-varta**
+: blok 18 uvádza rozmery „70x90" bez jednotky (keyFacts majú „70×90 m"); preklep „Natürhistorisches Muzeum" (správne Naturhistorisches Museum)
+
+**prasnik-hradok-osada-u-fajnorov**
+: plochy areálov v Janšákovom citáte (1,33 + 3,15 + 2,6 ha) nesúhlasia s Novákovým opisom tých istých troch areálov
+
+**molpir**
+: rozloha je v perexe a bloku 1 „12 – 14 ha", v bloku 5 „12 ha"
+
+**moravany-nad-vahom-hradiste**
+: výška polohy Hradište je v keyFacts a bloku 10 „369 m n. m.", v Janšákovom opise (blok 4, timeline) „kóta 371"
+
+**muzla-cenkov**
+: blok 22 píše „Radvani Dunajom" — chýba „nad"
+
+**majcichov**
+: blok 25 nie je blok Zdrojov, ale rich-text s nadpisom „Zdroje a literatúra" (bibliografia je tak súčasťou tela)

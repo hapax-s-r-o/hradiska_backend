@@ -1,0 +1,580 @@
+{
+ "slug": "velky-tribec-mohutne-praveke-hradisko",
+ "data": {
+  "title": "Veľký Tríbeč – eine mächtige urgeschichtliche Höhensiedlung im Gebirge Tríbeč",
+  "slug": "velky-tribec-urgeschichtliche-hoehensiedlung",
+  "excerpt": "Das Gebirge Tríbeč ist nicht nur für Legenden über rätselhaft verschwindende Menschen bekannt, sondern auch für seine reiche Geschichte: Es ist von einem Netz ausgedehnter Befestigungen der Spätbronzezeit und anderer Perioden überzogen. Zu den bekanntesten gehört Veľký Tríbeč – 102 Hektar, umschlossen von einem 1882 m langen Wall, beschrieben schon von Lívius Odescalchi und Štefan Janšák und seit 2024 wieder im Blickfeld der Archäologen.",
+  "metaTitle": "Veľký Tríbeč – urgeschichtliche Höhensiedlung im Tríbeč",
+  "metaDescription": "Veľký Tríbeč, eine der bekanntesten Anlagen des Gebirges Tríbeč: eine mächtige befestigte Höhensiedlung mit 102 ha und einem 1882 m langen Wall.",
+  "keyFacts": [
+   {
+    "label": "Höhe über dem Meer",
+    "value": "820 m (höchster Punkt der Anlage), Kote 829 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Fläche der Anlage",
+    "value": "102 ha",
+    "icon": "map"
+   },
+   {
+    "label": "Länge des Umfassungswalls",
+    "value": "1882 m, Hilfswall ca. 200 m",
+    "icon": "shield"
+   },
+   {
+    "label": "Höhe des Walls",
+    "value": "0,5–1 m (nach außen bildet er eine 4–5 m hohe Stufe)",
+    "icon": "shield"
+   },
+   {
+    "label": "Tore",
+    "value": "vier Öffnungen (Tore) von 8–10 m Breite, Haupteingang auf der Nordwestseite",
+    "icon": "flag"
+   },
+   {
+    "label": "Datierung der Besiedlung",
+    "value": "Spätbronzezeit und Hallstattzeit (Lausitzer Kultur), später erneut Latènezeit und römische Kaiserzeit",
+    "icon": "calendar"
+   },
+   {
+    "label": "Erster Forscher",
+    "value": "Lívius Odescalchi – Beschreibung und Zeichnung, 1922 veröffentlicht",
+    "icon": "book"
+   },
+   {
+    "label": "Zentraler Forscher",
+    "value": "Štefan Janšák – ausführliche Beschreibung und Zeichnung der Anlage, 1929",
+    "icon": "book"
+   },
+   {
+    "label": "Untersuchung 2024",
+    "value": "Denkmalamt der Slowakischen Republik und Kreisdenkmalamt Nitra mit dem Verein Hradiská und Archeo Moravia, Metalldetektor, LiDAR",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Spätbronzezeit",
+    "title": "Entstehung und Hauptnutzung der Anlage",
+    "description": "Funde von Keramik der ersten Eisenzeit (der Hallstattzeit), Scherben, die in die Spätbronzezeit und die Hallstattzeit datiert werden, sowie Funde der Lausitzer Kultur am Ausgang der Bronzezeit verbinden die Hauptnutzung der mächtigen Anlage mit dem Volk der Lausitzer Kultur und mit der Hallstattzeit.",
+    "type": "founding"
+   },
+   {
+    "year": "Latènezeit und römische Kaiserzeit",
+    "title": "Erneute Nutzung der Anlage",
+    "description": "Nach dem Untergang der Lausitzer Kultur war die Anlage offenbar eine Zeit lang verlassen; nach einigen Jahrhunderten nutzten die Bewohner sie in der Latènezeit und in der römischen Kaiserzeit wieder, allerdings nicht im ursprünglichen Umfang der Befestigung, sondern nur in geeigneteren kleineren Teilen.",
+    "type": "event"
+   },
+   {
+    "year": "1922",
+    "title": "Erste veröffentlichte Beschreibung der Anlage",
+    "description": "Lívius Odescalchi beschrieb und zeichnete die Anlage als Erster; sein Manuskript wurde in deutscher Sprache im Jahresbericht der Anthropologischen Gesellschaft in Wien samt 5 Textabbildungen veröffentlicht.",
+    "type": "discovery"
+   },
+   {
+    "year": "Beginn des 20. Jahrhunderts",
+    "title": "Anonymes Manuskript über die Anlage",
+    "description": "Im Archiv der Matica slovenská in Martin hat sich ein 11-seitiges Manuskript der Studie „O prähistorickom pevnostnom vale na vrchu Tríbči“ ohne Angabe des Autors erhalten; der Botaniker Pavol Eliáš wies nach, dass es eine slowakische Übersetzung des deutschen Artikels von Odescalchi ist.",
+    "type": "discovery"
+   },
+   {
+    "year": "1929",
+    "title": "Ausführliche Untersuchung durch Štefan Janšák",
+    "description": "Štefan Janšák beschrieb und zeichnete die Anlage in seinem Artikel ausführlich; er nannte etwa die Gesamtlänge des Umfassungswalls von 1882 m, eine Fläche von 102 ha und Funde kleiner Keramikscherben der ersten Eisenzeit.",
+    "type": "discovery"
+   },
+   {
+    "year": "1990er Jahre",
+    "title": "Ausraubung der Anlage durch Sondengänger",
+    "description": "Nach Janšák widmete sich der Anlage niemand näher und sie war illegalen Sondengängern überlassen, die sie vor allem um die größeren Metallgegenstände brachten.",
+    "type": "destruction"
+   },
+   {
+    "year": "2001",
+    "title": "Oberflächenaufsammlung der Archäologen",
+    "description": "Die Archäologen Jana Katkinová und Slavomír Katkin führten auf der Anlage nur eine Oberflächenaufsammlung durch und veröffentlichten die Ergebnisse in AVANS für das Jahr 2001; die gefundenen Scherben datierten sie ähnlich wie Janšák rahmenhaft in die Spätbronzezeit und die Hallstattzeit.",
+    "type": "discovery"
+   },
+   {
+    "year": "2019",
+    "title": "Untersuchung auf der Grundlage von Luftbildern",
+    "description": "Die Archäologen Borza und Borzová widmeten sich der Anlage auf der Grundlage von Luftbildern; ihr Artikel brachte interessante Informationen über den Verlauf der Befestigung und über den vorgeschobenen Wall.",
+    "type": "discovery"
+   },
+   {
+    "year": "September 2024",
+    "title": "Systematische Untersuchung mit dem Metalldetektor",
+    "description": "Das Denkmalamt der Slowakischen Republik und das Kreisdenkmalamt Nitra führten auf der Anlage unter Mitwirkung des Vereins Hradiská und von Archeo Moravia eine systematische Untersuchung auch mit Hilfe eines Metalldetektors durch; als Grundlage diente auch eine hochwertige moderne LiDAR-Aufnahme des Geländes.",
+    "type": "discovery"
+   },
+   {
+    "year": "2024",
+    "title": "Neue Erkenntnisse zur Datierung und unerwartete Funde",
+    "description": "Die Ergebnisse der Untersuchung brachten völlig neue Erkenntnisse zur Datierung der Anlage und mehrere unerwartete Funde (kleine Fragmente von Bronzegegenständen der jüngeren und der Spätbronzezeit, Metallgusskuchen, Fibelfragmente) sowie einen tönernen Spinnwirtel und Keramikscherben, die in die Zeit des Volkes der Lausitzer Kultur am Ausgang der Bronzezeit datiert werden.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6425,
+    "alt": "Steinschutt des Walls in einem Buchenwald, auf dem Weg gehen Wanderer"
+   },
+   {
+    "mediaId": 4651,
+    "caption": "Die älteste bekannte Zeichnung der Anlage von Odescalchi stammt vom Beginn der 1920er Jahre. Hier sehen Sie sie auf einer Abschrift des genannten Artikels (von einem unbekannten Mitarbeiter des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften in Nitra)",
+    "alt": "Die älteste bekannte Zeichnung der Anlage von Odescalchi stammt vom Beginn der 1920er Jahre. Hier sehen Sie sie auf einer Abschrift des genannten Artikels (von einem unbekannten Mitarbeiter des AÚ SAV in Nitra)"
+   },
+   {
+    "mediaId": 4652,
+    "alt": "Ein steiniger Wall in einem sommerlichen Buchenwald"
+   },
+   {
+    "mediaId": 4653,
+    "caption": "Plan der Anlage von Štefan Janšák aus dem Jahr 1929",
+    "alt": "Plan der Anlage von Štefan Janšák aus dem Jahr 1929"
+   },
+   {
+    "mediaId": 4654,
+    "alt": "Der Wallkörper in einem lichten sommerlichen Wald"
+   },
+   {
+    "mediaId": 4655,
+    "alt": "Ein Mensch sitzt im Gras bei der Informationstafel auf der Anlage"
+   },
+   {
+    "mediaId": 4656,
+    "alt": "Steinschutt des Walls in einem sommerlichen Wald"
+   },
+   {
+    "mediaId": 4657,
+    "alt": "Zeichnungstafel der Funde der Lausitzer Kultur von Veľký Tribeč mit Maßstab"
+   },
+   {
+    "mediaId": 4658,
+    "caption": "Teil einer Fibel aus der römischen Kaiserzeit",
+    "alt": "Teil einer Fibel aus der römischen Kaiserzeit"
+   },
+   {
+    "mediaId": 4659,
+    "caption": "Eine ungarische frühneuzeitliche Silbermünze",
+    "alt": "Eine ungarische frühneuzeitliche Silbermünze"
+   },
+   {
+    "mediaId": 4660,
+    "caption": "Fragment eines Spiegels aus der römischen Kaiserzeit",
+    "alt": "Fragment eines Spiegels aus der römischen Kaiserzeit"
+   },
+   {
+    "mediaId": 4661,
+    "caption": "Kopf einer Bronzenadel (Lausitzer Kultur)",
+    "alt": "Kopf einer Bronzenadel (Lausitzer Kultur)"
+   },
+   {
+    "mediaId": 4662,
+    "caption": "Eine eiserne Pferdetrense",
+    "alt": "Eine eiserne Pferdetrense"
+   },
+   {
+    "mediaId": 4663,
+    "caption": "Ein Bronzegusskuchen als Beleg für Produktionstätigkeit",
+    "alt": "Ein Bronzegusskuchen als Beleg für Produktionstätigkeit"
+   },
+   {
+    "mediaId": 4664,
+    "caption": "Ein tönerner Spinnwirtel",
+    "alt": "Ein tönerner Spinnwirtel"
+   },
+   {
+    "mediaId": 4665,
+    "caption": "Fragment eines kleinen Bronzemessers (Lausitzer Kultur)",
+    "alt": "Fragment eines kleinen Bronzemessers (Lausitzer Kultur)"
+   },
+   {
+    "mediaId": 4666,
+    "alt": "Eine Handfläche mit einem runden Steingegenstand, der auf der Anlage gefunden wurde"
+   },
+   {
+    "mediaId": 4667,
+    "alt": "Ein Keramikfragment zwischen Baumwurzeln"
+   },
+   {
+    "mediaId": 4668,
+    "alt": "Eine Handfläche mit dem Fragment eines dickwandigen Gefäßes"
+   },
+   {
+    "mediaId": 4669,
+    "alt": "Freigelegter Steinschutt in hellem Lehm"
+   },
+   {
+    "mediaId": 4670,
+    "alt": "Eine Handfläche mit einem Keramikfragment mit glatter Oberfläche"
+   },
+   {
+    "mediaId": 4671,
+    "alt": "Bildschirmfoto eines Handys mit einem freigelegten Fragment in der Erde"
+   },
+   {
+    "mediaId": 4672,
+    "alt": "Eine Handfläche mit einem dunklen Gefäßfragment"
+   },
+   {
+    "mediaId": 4673,
+    "alt": "Der Wallkörper in einem sommerlichen Buchenwald"
+   },
+   {
+    "mediaId": 4674,
+    "alt": "Der Graben der Anlage in einem lichten Wald"
+   },
+   {
+    "mediaId": 4675,
+    "alt": "Die grasbewachsene Fläche der Anlage zwischen Bäumen"
+   },
+   {
+    "mediaId": 4676,
+    "alt": "Steiniger Schutt des Walls in einem sommerlichen Wald"
+   },
+   {
+    "mediaId": 4677,
+    "alt": "Der Wall der Anlage mit Steinen am Hang"
+   },
+   {
+    "mediaId": 4678,
+    "alt": "Lichter Wald auf der Fläche der Anlage mit offenem Boden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebirge Tríbeč ist nicht nur für Legenden über rätselhaft verschwindende Menschen bekannt, sondern auch für seine reiche Geschichte. Es ist von einem Netz ausgedehnter Befestigungen der Spätbronzezeit, aber auch anderer Perioden überzogen. Zu den bekanntesten Burganlagen des Tríbeč gehören Žibrica, Veľký und Malý Lysec, Zobor oder Veľký Tríbeč. Und genau der letztgenannten werden wir uns in den folgenden Zeilen widmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "f7d198310aa449dbb843f1a169b11095",
+    "url": "https://sketchfab.com/models/f7d198310aa449dbb843f1a169b11095/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-velky-tribec-narodna-kultur-pamiatka-f7d198310aa449dbb843f1a169b11095?utm_medium=embed&utm_campaign=share-popup&utm_content=f7d198310aa449dbb843f1a169b11095",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradisko Veľký Tribeč - národná kultúr. pamiatka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " von "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_campaign=share-popup&utm_content=f7d198310aa449dbb843f1a169b11095",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pamiatkový úrad SR"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f7d198310aa449dbb843f1a169b11095",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sketchfab"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Zugang"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anlage Veľký Tríbeč ist von mehreren Seiten über Wanderwege zugänglich. Durch sie führt die rote Fernwanderroute Ponitrianska magistrála, auf die Sie sowohl von Zlatno als auch von Kostoľany pod Tríbečom gelangen. Von Westen führt eine blaue Markierung von Kovarce auf die Anlage, von Norden wiederum von Solčany. Auf dem Gipfel der Anlage, der nicht von Bäumen zugewachsen ist, können Sie sich ausruhen und sich im Schoß der Natur von mitgebrachten Vorräten verpflegen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Geschichte der Forschung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Erster beschrieb und zeichnete die Anlage Lívius Odescalchi, Großgrundbesitzer in Solčany, der sein Manuskript der Anthropologischen Gesellschaft in Wien vorlegte; der Artikel wurde daraufhin in deutscher Sprache in vollem Umfang im Jahresbericht dieser Gesellschaft im Jahr 1922 samt 5 Textabbildungen veröffentlicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In späterer Zeit wurde im Archiv der Matica slovenská in Martin das erhaltene Manuskript einer 11-seitigen Studie „O prähistorickom pevnostnom vale na vrchu Tríbči“ vom Beginn des 20. Jahrhunderts entdeckt, bei der kein Autor angegeben ist. Der Botaniker Pavol Eliáš wies in seinem Artikel mit dem Titel „O autorstve rukopisu o predhistorickom obrannom vale na vrchu Tribeč“ ganz überzeugend nach, dass dieser Text praktisch nur eine slowakische Übersetzung des oben genannten deutschen Artikels von Odescalchi ist. In dem Artikel heißt es zum Beispiel: "
+       },
+       {
+        "type": "text",
+        "text": "„Im steinernen Wall befanden sich vier Öffnungen – Tore von 8–10 Metern Breite. Bei jedem Tor lag eine 10–30 Meter große Nische, die eine Schutzbastei bildet. Zu der Anlage führten vier Wege – einer nach Süden in Richtung Velčice, drei nach Norden nach Solčany.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Außer der interessanten Beschreibung der Anlage enthält der ursprüngliche Artikel auch eine Zeichnung der Anlage vom Beginn des 20. Jahrhunderts, aus der klar zu sehen ist, wo innerhalb der Befestigung die ursprünglichen Tore in die Anlage lagen. In späteren Zeiten wurde der Wall der Anlage nämlich an mehreren Stellen aus verschiedenen Gründen künstlich durchbrochen (wohl Holzgewinnung und Ähnliches). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die älteste bekannte Zeichnung der Anlage von Odescalchi stammt vom Beginn der 1920er Jahre. Hier sehen Sie sie auf einer Abschrift des genannten Artikels (von einem unbekannten Mitarbeiter des Archäologischen Instituts der Slowakischen Akademie der Wissenschaften in Nitra)",
+    "alt": "Die älteste bekannte Zeichnung der Anlage von Odescalchi stammt vom Beginn der 1920er Jahre. Hier sehen Sie sie auf einer Abschrift des genannten Artikels (von einem unbekannten Mitarbeiter des AÚ SAV in Nitra)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer Forscher, der sich der Anlage widmete, war unser alter Bekannter, der legendäre Štefan Janšák, der die Anlage ausführlich beschrieb und zeichnete. Lassen wir also diesen Barden der slowakischen Archäologie in seinem Artikel aus dem Jahr 1929 zu Wort kommen: "
+       },
+       {
+        "type": "text",
+        "text": "Die befestigte Höhensiedlung Veľký Tribec liegt auf dem Gipfel des Berges gleichen Namens, der sich im SW-Zug der Nitrianske hory zu einer Höhe von 820 m erhebt. Die dominierende Stellung, wie sie die Anlagen auf dem Zobor und auf der Zubrica haben, steigert sich hier noch. Allerdings zu ihren Lasten: Zum Nachteil der Zweckmäßigkeit und der Bequemlichkeit der einstigen Bewohner ist die übermäßige Entfernung von Wasser, von fruchtbaren Ebenen und von geeigneten Verkehrswegen – ein Moment, das sich im Ausbau der Anlage niederschlug. Man kann dem Veľký Tríbec freilich eine robuste und raue Mächtigkeit nicht absprechen, die sich durch die wilde, sogenannte unberührte Natur, eigentlich einen halben Urwald, noch erhöht. Der Veľký Tribec ist die höchste kuppelförmige Spitze des Hauptkamms der Nitrianske hory, welche Spitze auf der NO-Seite kaum 60 m über den Kamm aufsteigt, auf der SW-Seite dagegen mit einer großen, 450 m hohen Stufe abfällt, wodurch der zusammenhängende Kamm eigentlich unterbrochen wird. Durch dieses geographische Gebilde nähert sich der Veľký Tribec einem in die Ebene auslaufenden Bergsporn. Da sein Gefälle jedoch nicht steil genug ist und der Berg die Form eines Kegels mit kuppelförmigem Abschluss behält, entstand auf dem Veľký Tríbec eine Anlage, die zur zweiten Kategorie gehört. Das geologische Gebilde des Gipfels des Veľký Tribec und des nächstgelegenen Hanges im Umkreis von 3–6 km ist guter, der Verwitterung wenig unterliegender Granit. Der Veľký Tribec endet unter der Kote 829 m auf der SW-Seite mit einem niedrigen Granitfelsen. Die natürliche Sicherheit der Anlage besteht wohl allein darin, dass sie zu weit von der Ebene entfernt ist, inmitten eines dichten Waldes, in einem Gewirr sich kreuzender Gräben und Nebenkämme, und deshalb schwer zu finden ist. Allein auf der N-, NO- und O-Seite ist die natürliche Geländestufe in gewissem Maße steiler, und das entschieden zugunsten der Sicherheit. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Veľký Tríbeč – eine mächtige urgeschichtliche Höhensiedlung",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Befestigung der Anlage besteht aus einem einzigen Wall, dessen Verlauf aus dem Kärtchen ersichtlich ist. Zwischen dem höchsten Punkt der Anlage (820) und dem niedrigsten (730) besteht ein Unterschied von 90 m, was ihrer Sicherheit in keiner Weise zugutekommt. Auf der Ostseite, von wo der Zugang recht bequem und leicht ist, errichteten die Bewohner der Anlage einen Hilfswall, der später durch einen dem Holztransport dienenden Weg unterbrochen wurde. Die Gesamtlänge des Umfassungswalls beträgt 1882 m, die des Hilfswalls 200 m. Seine Höhe in Richtung zum Inneren der Anlage bewegt sich von 0,5 bis 1 m. Nach außen verschmilzt der Wall mit dem natürlichen Gefälle des Geländes und bildet so eine 4–5 m hohe Stufe. Das zum Bau verwendete Material wurde an Ort und Stelle gewonnen und zeigt keinerlei Spuren von Feuer, noch enthält es irgendwelche anderen Funde. Der Haupteingang, durch in Richtung des Weges verlängerte Wälle gesichert (durch eine Blockade, analog wie auf dem Zobor), befindet sich auf der Nordwestseite und scheint der einzige ursprüngliche Eingang zu sein. Den übrigen, deren es mehrere gibt, fehlt zumindest die Blockade. Die Fläche der Anlage beträgt 102 ha und ist durch ihre Qualität (im Hinblick auf die von den ursprünglichen Bewohnern verfolgte Zweckmäßigkeit) in fast allen ihren Teilen gleichwertig und weist keine qualitative Abstufung auf. Der ausgedehnte, nach Süden geneigte Hang ist zwar gegen die Nordwinde geschützt, bietet aber keine besondere Sicherheit für den Fall einer notwendigen Verteidigung. Die Sicherheit des höchsten Gipfels und der Fläche, die sich von ihm in Richtung NO erstreckt, besteht allein in ihrer Überhöhung über die Umgebung und in der Entfernung von den Wällen, die dem ersten Anprall ausgesetzt sind. Auf dem Veľký Tribec gibt es keinerlei Reste von Behausungen, Zufluchtsstätten oder Zisternen, die dem Bedarf seiner Urbewohner gedient hätten. Auf dem Gipfel finden sich zahlreiche Funde kleiner Keramikscherben aus der ersten Eisenzeit (der hallstättischen)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Plan der Anlage von Štefan Janšák aus dem Jahr 1929",
+    "alt": "Plan der Anlage von Štefan Janšák aus dem Jahr 1929",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach Janšák widmete sich einer näheren Untersuchung der Anlage im Grunde niemand, und die Anlage war illegalen Sondengängern überlassen, die wie auch bei anderen Burganlagen – offenbar schon im Laufe der 1990er Jahre – für die Ausraubung vor allem der größeren Metallgegenstände sorgten. Im Jahr 2001 führten die Archäologen Jana Katkinová und Slavomír Katkin auf der Anlage nur eine Oberflächenaufsammlung durch und veröffentlichten die Ergebnisse der Begehung in AVANS für das Jahr 2001. Sie fanden nur einige wenige aussagekräftige Scherben, die sie ähnlich wie Janšák rahmenhaft in die Zeit der Spätbronzezeit und der Hallstattzeit datierten. Der Anlage widmeten sich auf der Grundlage von Luftbildern auch die Archäologen Borza und Borzová im Jahr 2019, wobei sie hier jedoch weder eine klassische Sondage noch eine Aufsammlung durchführten. Dennoch bringt ihr Artikel interessante Informationen über den Verlauf der Befestigung und über den vorgeschobenen Wall. Im September 2024 führten das Denkmalamt der Slowakischen Republik (Peter Bisták, Petra Kmeťová, Martin Neumann) und das Kreisdenkmalamt Nitra (Michal Gróf) unter Mitwirkung unseres Bürgervereins Hradiská und von Archeo Moravia eine Untersuchung durch, wobei die Anlage systematisch auch mit Hilfe eines Metalldetektors untersucht wurde. Als Grundlage diente unter anderem eine hochwertige moderne LiDAR-Aufnahme des Geländes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Veľký Tríbeč – eine mächtige urgeschichtliche Höhensiedlung",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Untersuchung im Jahr 2024"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ergebnisse der archäologischen Untersuchung im Jahr 2024 überraschten uns alle und brachten völlig neue Erkenntnisse zur Datierung der Anlage, aber auch mehrere unerwartete Funde (zum Beispiel kleine Fragmente von Bronzegegenständen der jüngeren und der Spätbronzezeit, Metallgusskuchen, Fibelfragmente), die, wie wir glauben, bald fachlich bearbeitet und veröffentlicht werden, damit wir sie mit unseren Lesern teilen können. In diesem Stadium haben wir die Zustimmung zur Veröffentlichung einiger von ihnen erhalten. Außerdem können Sie auch einen tönernen Spinnwirtel und mehrere Keramikscherben betrachten, die offenbar gerade in die Zeit des Volkes der Lausitzer Kultur am Ausgang der Bronzezeit datiert werden. Vielleicht darf ich wenigstens so viel verraten, dass auch die Untersuchung auf dem Veľký Tríbeč gezeigt hat, dass die riesigen Lausitzer/hallstattzeitlichen Anlagen nach dem Untergang der Lausitzer Kultur eine Zeit lang offenbar verlassen waren und die Bewohner sie nach einigen Jahrhunderten in der Latènezeit und in der römischen Kaiserzeit nutzten, allerdings nicht im ursprünglichen Umfang der Befestigung, sondern sie neigten eher dazu, nur geeignetere kleinere Teile der Anlage zu nutzen. Dieser Trend ist auch bei anderen ursprünglich hallstattzeitlichen ausgedehnten Anlagen zu sehen, zum Beispiel Holíš, Udiča Hradište, Marhát und vielen weiteren. Das wird wohl damit zusammenhängen, dass in den späteren Perioden kleinere Gruppen von Bewohnern die Anlagen bewohnten, die eine so riesige Befestigung, wie es ihr ursprünglicher Umfang war, nicht hätten verteidigen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Veľký Tríbeč – eine mächtige urgeschichtliche Höhensiedlung",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einige Funde aus der Untersuchung im Jahr 2024 (veröffentlicht mit Zustimmung der Archäologen):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen Besuch der Anlage empfehle ich jedem, den urgeschichtliche Befestigungen und Kulturen interessieren, aber auch das Wandern und der Aufenthalt im Schoß der Natur. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für Konsultationen, Unterlagen und Hilfe bei der Entstehung des Artikels danke ich Petra Kmeťová und Peter Bisták"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

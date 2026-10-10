@@ -1004,6 +1004,74 @@ do nemčiny; nenecháva sa po anglicky.
 **Áre.** 455 árov → **455 Ar** (nemecká jednotka má tvar *Ar*, nie *Are*
 v odbornom zápise s číslom).
 
+**Akropola aj v praveku.** §11.3 platí bez ohľadu na obdobie: „akropola"
+halštatského Molpíru je **die Hauptburg**, nie *Akropolis*. Grécky tvar
+ostáva vyhradený antike.
+
+**Opevnenie a hospodárske stavby (37., 38. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| strážne hradisko | **der Wachburgwall** |
+| strážny hrádok | **die kleine Wachburg** |
+| drevozemný hrádok (stredoveký, bez násypu) | **die kleine Holz-Erde-Burg** (nie *Motte*) |
+| polokliešťová brána | **halbzangenförmiger Torabschluss** (*polkliešťovitý* = halbzangenförmig) |
+| podkladový rošt | **der Unterlagsrost** |
+| ochodza | **der Wehrgang** |
+| obilnica | **die Getreidegrube** |
+| extravilán hradiska | **außerhalb der umwallten Fläche** |
+| hradné panstvo | **die Burgherrschaft** |
+| archeologický objekt (Objekt X) | **der Befund** (*Befund X*) |
+| zhlukový typ zástavby | **Haufentyp der Bebauung** |
+| riečne prepravisko | **der Flussübergang** |
+
+**Nálezy (37., 38. dávka).**
+
+| slovensky | nemecky |
+|---|---|
+| pekáč | **die Backplatte** |
+| oradlo | **der Hakenpflug** |
+| šidlo | **die Ahle** |
+| sekeromlat | **der Axthammer** |
+| zubadlo | **die Trense** |
+| písadlo, stilus | **der Schreibgriffel** (*Stilus*) |
+| ostroha s očkami | **Sporn mit Ösen** |
+| železná lupa | **die Luppe** |
+| ihlica s pečatidlovou hlavicou | **die Petschaftkopfnadel** |
+| mesiačikovitý idol | **mondförmiges Idol** |
+| misky sliezskeho typu | **Schalen schlesischen Typs** |
+
+**Kultúry a skupiny (37., 38. dávka).** Archeologické skupiny sa v nemčine
+pomenúvajú podľa lokality v jej domácom tvare — ako *Púchov-Kultur* či
+*Gáva-Kultur*: **die Orava-Gruppe**, **die Ludanice-Gruppe**, **die
+Želiezovce-Gruppe**, **die Vekerzug-Kultur**, **die Kalenderberg-Kultur**,
+**die Gravettien-Kultur**, **das Věteřov-Gebiet**, **die schlesische Phase**,
+**die mitteldanubische Hügelgräberkultur**, **die Kultur mit kannelierter
+Keramik**. Kultúra volútovej keramiky → **die Kultur mit Volutenkeramik**,
+pri prvom výskyte s glosou *(Linearbandkeramik)*.
+
+Exonymum *Arwa* ostáva pre krajinu a hrad (**die Arwa**, **die Arwaburg**),
+nie pre archeologickú skupinu — tam je *Orava-Gruppe*.
+
+**Zemepis a inštitúcie (37., 38. dávka).** Nadvihorlatská oblasť → **das
+Gebiet nördlich des Vihorlat**, Jablonický priesmyk → **der Jablonica-Pass**,
+Slovenská brána → **die Slowakische Pforte**, Hlohovecké hory → **die
+Hlohovecer Berge**, Košicko-bohumínska magistrála → **die Kaschau-Oderberger
+Bahn**, Východoslovenské múzeum → **das Ostslowakische Museum**, Liptovské
+múzeum → **das Liptauer Museum**, Uhorský karpatský spolok → **der Ungarische
+Karpathenverein**, Európske dni archeológie → **die Europäischen Tage der
+Archäologie**, kráľovský erár → **das königliche Ärar**. Medzibodrožie
+exonymum nemá a ostáva po slovensky.
+
+**Dobové a historické pojmy.** „Brány zemské" → **die Landespforten**
+(*portae*), konfínium → **das Konfinium**, Šimon z Kézy → **Simon von Kéza**,
+Moravianska venuša → **die Venus von Moravany**, rigolovanie vinohradu →
+**Rigolen eines Weingartens**.
+
+**„Šiance" v citáte.** Varovanie §12 pred *Schanze* platí pre autorský text.
+Keď Janšák v dobovom citáte píše „šiance", prekladá sa **die Schanzen** —
+dobový register sa zachováva (§14).
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

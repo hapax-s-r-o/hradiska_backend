@@ -1,0 +1,864 @@
+{
+ "slug": "skalka-nad-vahom",
+ "data": {
+  "title": "Skalka nad Váhom – Höhensiedlung an der Trenčíner Pforte und ihr Vampirgrab",
+  "slug": "skalka-nad-vahom-chochel-vampirgrab",
+  "excerpt": "An der engsten Stelle des Waagtals, der Trenčíner Pforte, schiebt sich der Sporn Chochel über den Zusammenfluss der Súčianka mit der Waag vor. Befestigt wurde er schon in der älteren Bronzezeit, erneuert von den Kelten und später von den Germanen. Auf der nur 0,55 ha großen Fläche stand in der zweiten Hälfte des 9. Jahrhunderts ein winziges Heiligtum mit einem Schiff von 14,8 m² – und in seinem Inneren ein Grab, dem man den Kopf entfernt und den Brustkorb mit elf Steinen beschwert hatte.",
+  "metaTitle": "Skalka nad Váhom – Höhensiedlung an der Trenčíner Pforte",
+  "metaDescription": "Die Anhöhe Chochel über dem Zusammenfluss von Súčianka und Waag: befestigt seit der Bronzezeit, mit winzigem Heiligtum und einem Vampirgrab darin.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Trenčíner Pforte, der Spornausläufer „Chochel“ auf der Anhöhe Skalka über dem Zusammenfluss der Súčianka mit der Waag",
+    "icon": "map"
+   },
+   {
+    "label": "Maße der Höhensiedlung",
+    "value": "Länge 192 m, Breite 23–39 m, Gesamtfläche 0,55 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Höhenunterschied",
+    "value": "Die Hänge der Anhöhe fallen um mehr als 70 m zu ihrem Fuß ab",
+    "icon": "mountain"
+   },
+   {
+    "label": "Volksüberlieferung",
+    "value": "Die örtliche Bevölkerung glaubte, auf der Anhöhe habe ein heidnisches Heiligtum gestanden – der „Venustempel“",
+    "icon": "scroll"
+   },
+   {
+    "label": "Sakralbau",
+    "value": "Schiff und Apsis mit den Maßen 5,3 × 5,4–5,6 m (6,2 m einschließlich der Apsis), Fläche des Schiffes nur 14,8 m²",
+    "icon": "building"
+   },
+   {
+    "label": "Vampirgrab",
+    "value": "Im Inneren des Heiligtums freigelegtes Grab mit nachträglich entferntem Schädel und mit elf Steinen beschwertem Brustkorb",
+    "icon": "custom"
+   },
+   {
+    "label": "Benediktinerabtei",
+    "value": "1224 vom Neutraer Bischof Jakob gegründet, 800 m vom Sakralbau auf dem Chochel entfernt",
+    "icon": "flag"
+   },
+   {
+    "label": "Archäologische Untersuchung",
+    "value": "Erste Ausgrabungen 1889–1890, weitere Untersuchung in den 1930er Jahren und eine ausführliche Untersuchung im Jahr 1995 beim Autobahnbau",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1889–1890",
+    "title": "Erste Grabungsarbeiten an der Fundstelle",
+    "description": "Es fanden die ersten Ausgrabungen statt, bei denen ein knöcherner Stilus, eine römische Fibel und Keramikfragmente gefunden wurden; die Funde wurden zusammen mit weiteren nach Wien verkauft.",
+    "type": "discovery"
+   },
+   {
+    "year": "1930er Jahre",
+    "title": "Untersuchung mit reichen Funden von Schmuck und Geräten",
+    "description": "Bei der Untersuchung der Fundstelle fanden sich S-förmige Schläfenringe, Fingerringe, Perlen, Kreuzchen, Münzen, Messer, Fischspeere, Schnallen, eine Bartaxt, bronzene Nadeln, Fibeln, topfförmige Gefäße, Spinnwirtel, ein Kettchen, ein Rasiermesser und ein Glasarmring.",
+    "type": "discovery"
+   },
+   {
+    "year": "1995",
+    "title": "Ausführliche Untersuchung beim Autobahnbau",
+    "description": "In unmittelbarer Nachbarschaft der Fundstelle begann der Bau einer Autobahn, was eine ausführliche Untersuchung erforderte; es fanden sich Funde aus der Bronzezeit, der frühgeschichtlichen Zeit und dem Mittelalter.",
+    "type": "discovery"
+   },
+   {
+    "year": "Ältere Bronzezeit",
+    "title": "Entstehung der befestigten Siedlung der Maďarovce-Kultur",
+    "description": "Am südwestlichen Rand der Fundstelle wurde eine Fortifikation mit einer Rostkonstruktion im Kern des Walles errichtet; die Siedlung war in der Zeit der klassischen Stufe der Maďarovce-Kultur besiedelt.",
+    "type": "founding"
+   },
+   {
+    "year": "Übergang zur mittleren Bronzezeit",
+    "title": "Untergang der Fortifikation durch einen Brand",
+    "description": "Während der späten Maďarovce-Stufe ging die Fortifikation am südwestlichen Rand der Fundstelle infolge eines Brandes unter, und ihr Körper zerfiel anschließend auf natürliche Weise.",
+    "type": "destruction"
+   },
+   {
+    "year": "Spätlatènezeit",
+    "title": "Erneuerung der Fortifikation durch die Kelten",
+    "description": "In der frühgeschichtlichen Zeit, während der mit dem keltischen Ethnikum verbundenen Spätlatènezeit, wurde die ältere Fortifikation durch die Errichtung eines neuen, mächtigeren Körpers mit Rostkonstruktion und Graben wieder funktionsfähig gemacht.",
+    "type": "construction"
+   },
+   {
+    "year": "Ende der Latènezeit / frühe römische Kaiserzeit",
+    "title": "Untergang der Befestigung durch Brand und Ankunft der Germanen",
+    "description": "Die Befestigung der Spätlatènezeit zerstörte ein mächtiger Brand, was mit der Ankunft der Germanen in Verbindung gebracht werden kann; die Besiedlung durch das Volk der Púchov-Kultur wurde reduziert, und ein Teil der Bevölkerung wich in nördlicher Richtung in das Púchov-Gebiet aus.",
+    "type": "destruction"
+   },
+   {
+    "year": "Zeit der Markomannenkriege",
+    "title": "Erneute Besiedlung der Höhensiedlung durch die Germanen",
+    "description": "Nach der Besetzung des Gebietes durch die Germanen, vor allem in der Zeit der Markomannenkriege gegen das Römische Reich, wurde die Höhensiedlung erneut besiedelt, denn die Fundstelle war leicht zu verteidigen.",
+    "type": "event"
+   },
+   {
+    "year": "Zweite Hälfte des 9. Jahrhunderts",
+    "title": "Errichtung eines hölzernen Sakralbaus",
+    "description": "Mit großer Wahrscheinlichkeit wurde hier ein hölzerner Sakralbau von spezifischer Disposition (Schiff und Apsis) errichtet, hinter dessen Apsis man zu bestatten begann.",
+    "type": "construction"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Bestattungen hinter der Apsis des Heiligtums",
+    "description": "Hinter der Apsis des Sakralbaus entstand eine Gruppe von sechs Gräbern des 9.–10. Jahrhunderts; unter ihnen auch ein Grab mit nachträglich vollzogenen antivampirischen Praktiken (entfernter Schädel, mit elf Steinen beschwerter Körper).",
+    "type": "discovery"
+   },
+   {
+    "year": "11.–12. Jahrhundert",
+    "title": "Kuppelofen im zentralen Teil der Fundstelle",
+    "description": "Der zweite untersuchte Befund stellt die durchgebrannte Lehmauskleidung des Feuerraums eines Kuppelofens aus dem zentralen Teil der Fundstelle dar.",
+    "type": "construction"
+   },
+   {
+    "year": "1224",
+    "title": "Gründung der Benediktinerabtei auf der Skalka",
+    "description": "Der Neutraer Bischof Jakob gründete auf der Skalka eine Benediktinerabtei; der Pfarrer aus der Gemeinde Skala trat später zusammen mit der Untertanenwirtschaft der Pfarre in sie ein, wodurch der Sakralbau auf dem Burgwall seine Funktion nicht mehr erfüllte und unterging.",
+    "type": "founding"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6400,
+    "alt": "3D-Rekonstruktion des verputzten Kirchleins mit hölzernem Dachstuhl hinter einem steinernen Mäuerchen"
+   },
+   {
+    "mediaId": 1807,
+    "caption": "LiDAR-Aufnahme der Höhensiedlung (ZBGIS)",
+    "alt": "LiDAR-Aufnahme der Höhensiedlung (ZBGIS)"
+   },
+   {
+    "mediaId": 1808,
+    "caption": "Visualisierung des Kirchleins nach Dwarf digital",
+    "alt": "Visualisierung des Kirchleins nach Dwarf digital"
+   },
+   {
+    "mediaId": 1809,
+    "alt": "Zeichnungstafel der Keramikfunde aus der älteren und der mittleren Bronzezeit"
+   },
+   {
+    "mediaId": 1810,
+    "alt": "Zeichnungstafel von Kleinfunden der Bronzezeit: Geräte aus Knochen und Stein"
+   },
+   {
+    "mediaId": 1811,
+    "alt": "Historische Schwarz-Weiß-Luftaufnahme des Geländes mit den Linien der Befestigung"
+   },
+   {
+    "mediaId": 1812,
+    "alt": "Zeichnungstafel von Kleinfunden der frühgeschichtlichen Zeit mit Maßstab"
+   },
+   {
+    "mediaId": 1813,
+    "caption": "Hypothetische Rekonstruktion nach R. Erdélyi und B. Vachová aus dem Buch von Andrej Botek – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+    "alt": "Hypothetische Rekonstruktion nach R. Erdélyi und B. Vachová aus dem Buch von Andrej Botek – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období."
+   },
+   {
+    "mediaId": 1814,
+    "alt": "Schwarz-Weiß-Fotografie der bei der Untersuchung freigelegten Mauerreste des Sakralbaus"
+   },
+   {
+    "mediaId": 1815,
+    "alt": "Plan der Reste der steinernen Untermauerung und des Innenraums des Sakralbaus mit Maßstab"
+   },
+   {
+    "mediaId": 1816,
+    "alt": "Byzantinische Bronzemünze des Johannes I. Tzimiskes, Vorder- und Rückseite"
+   },
+   {
+    "mediaId": 1817,
+    "alt": "Zeichnungstafel der Keramikfunde aus dem Früh- und dem Hochmittelalter"
+   },
+   {
+    "mediaId": 1818,
+    "alt": "Zeichnungstafel von Kleinfunden: Schmuck, Halsketten, Münzen und Spitzen"
+   },
+   {
+    "mediaId": 1819,
+    "caption": "Blick in Richtung Nemšová und Vršatec",
+    "alt": "Blick in Richtung Nemšová und Vršatec"
+   },
+   {
+    "mediaId": 1820,
+    "alt": "Panorama des grasbewachsenen Plateaus der Höhensiedlung mit Menschen auf dem Weg"
+   },
+   {
+    "mediaId": 1821,
+    "caption": "Ein Wall (?)",
+    "alt": "Ein Wall (?)"
+   },
+   {
+    "mediaId": 1822,
+    "caption": "Vom Chochel stiegen wir über den steilen Abhang zur Skalka hinab – zum Kloster",
+    "alt": "Vom Chochel stiegen wir über den steilen Abhang zur Skalka hinab – zum Kloster"
+   },
+   {
+    "mediaId": 1823,
+    "alt": "Bewaldeter Berg mit dem Kloster im Tal darunter"
+   },
+   {
+    "mediaId": 1824,
+    "alt": "Verwachsener Graben der Höhensiedlung mit dichtem Gras"
+   },
+   {
+    "mediaId": 1825,
+    "alt": "Wall der Höhensiedlung mit grünem Unterwuchs zwischen Bäumen"
+   },
+   {
+    "mediaId": 1826,
+    "alt": "Alte Bäume auf dem von Efeu überwachsenen Wall der Höhensiedlung"
+   },
+   {
+    "mediaId": 1827,
+    "alt": "Wiese mit der eingezeichneten Lage der Höhensiedlung Chochel und dem Zugangsweg"
+   },
+   {
+    "mediaId": 1828,
+    "alt": "Drei Fragmente eiserner Gegenstände und Schlacke auf weißem Untergrund"
+   },
+   {
+    "mediaId": 1829,
+    "alt": "Luftbild mit der eingezeichneten Höhensiedlung Chochel über der Autobahn und dem Fluss"
+   },
+   {
+    "mediaId": 1830,
+    "alt": "Luftbild des bewaldeten Hanges über dem Fluss, der Straße und dem Dorf"
+   },
+   {
+    "mediaId": 1831,
+    "alt": "Luftbild des bewaldeten Sporns zwischen der Autobahn und den Feldern"
+   },
+   {
+    "mediaId": 1832,
+    "alt": "Luftbild der Höhensiedlung über der Autobahn, im Hintergrund das Dorf und der Fluss"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den markanten geografischen Scheiden in der Region des mittleren Waagtals gehört die Trenčíner Pforte. Es handelt sich um die engste Stelle des Waag-Längstals, die von dem Trenčíner Burgfelsen und der Anhöhe Skalka begrenzt wird. Deren Massiv am rechten Ufer der Waag fällt allmählich und nahezu regelmäßig vom Gipfel zu den Umfassungsseiten hin ab. Eine Ausnahme bildet der Spornausläufer, der sich über dem Zusammenfluss der Súčianka mit der Waag in das Überschwemmungsgebiet des Flusses hinausschiebt. Dieses Gebilde, 570 m vom Gipfel der Skalka entfernt, hat eine schmale, rückenartige Gestalt. Die Anhöhe erhielt in der örtlichen Benennung die Bezeichnung „Chochel“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den randlichen nördlichen, nordwestlichen und südöstlichen Linien neigen sich die Hänge der Anhöhe steil und fallen um mehr als 70 m zu ihrem Fuß ab. Das vom Gipfel der Skalka zur Fundstelle hin sanft abfallende Gelände war bereits in urgeschichtlicher Zeit an der engsten Stelle durch einen künstlich aufgeschütteten Wall abgetrennt. Die auf diese Weise ergänzte natürliche Verteidigungsfähigkeit verwandelte die Fundstelle in eine zuverlässig zu verteidigende befestigte Höhensiedlung mit einer Länge von 192 m, einer Breite von 23–39 m und einer Gesamtfläche von 0,55 ha.\n \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "LiDAR-Aufnahme der Höhensiedlung (ZBGIS)",
+    "alt": "LiDAR-Aufnahme der Höhensiedlung (ZBGIS)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten Grabungsarbeiten an der Fundstelle werden in die Jahre 1889–1890 datiert. Die gefundenen Artefakte wie ein knöcherner Stilus, eine römische Fibel und Keramikfragmente wurden zusammen mit weiteren Funden nach Wien verkauft. Dank der gewonnenen Erkenntnisse zählte die Fundstelle auf der Anhöhe Chochel jedoch in der Umgebung von Trenčín (Trentschin) zu den bedeutenden Fundorten vorgeschichtlicher Hinterlassenschaften. Im Bewusstsein der örtlichen Bevölkerung bildete sich die Ansicht, hier habe in alten Zeiten ein heidnisches Heiligtum gestanden – der „Venustempel“. In den 1930er Jahren wurden bei der Untersuchung der Fundstelle interessante Artefakte gefunden, etwa S-förmige Schläfenringe größerer Maße und Fingerringe (aus einem Stäbchen, aus einem Band, mit Schildchen, mit Öse). Ergänzt wurden sie durch Perlen, Kreuzchen, Münzen, Messer, Fischspeere, Schnallen und einen kleinen Schleifstein, eine Bartaxt, bronzene Nadeln, Fibeln, topfförmige Gefäße, Scherben, Spinnwirtel, ein Kettchen, ein Rasiermesser und einen Glasarmring. Im Jahr 1995, als in unmittelbarer Nachbarschaft eine Autobahn im Bau war, begann an der Fundstelle eine ausführliche Untersuchung. Im Verlauf der Untersuchung fanden sich viele Funde aus mehreren geschichtlichen Etappen, konkret aus der Bronzezeit, der frühgeschichtlichen Zeit und dem Mittelalter.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bronzezeit",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die älteste Besiedlung der Fundstelle auf der Anhöhe Chochel lässt sich grob in den Ausgang der älteren und in den Beginn der mittleren Bronzezeit einordnen. Sie wird durch die Fortifikation, durch Siedlungsbefunde und durch Gegenstände der materiellen Kultur vertreten. Die Fortifikation"
+       },
+       {
+        "type": "text",
+        "text": " ist am südwestlichen Rand der Fundstelle an der Stelle der halsartigen Anbindung des Spornausläufers an das abschüssige Gelände der Skalka gelegen. Ihr ursprünglicher Körper wurde durch einen Brand zerstört und zerfiel anschließend auf natürliche Weise. In der frühgeschichtlichen Zeit wurde er in funktionaler Weise in den Körper der neuen Fortifikation einbezogen und von einer erheblichen Kubatur neu aufgeschütteter Erde überdeckt. Das stabilisierende Element des Wallkerns bildete eine Rostkonstruktion. Außer dem Wall haben sich aus der Bronzezeit Fragmente mehrerer Siedlungsbefunde erhalten. Was die Gegenstände der materiellen Kultur betrifft, haben die Keramikfunde die dominierende Vertretung, belegt durch nahezu tausend Fragmente. Die typologische Skala der Gefäße ist für die Maďarovce-Kultur bezeichnend. Von bronzenen Geräten wurde nur ein Minimum gefunden. Man kann also schließen, dass die befestigte Siedlung auf der Anhöhe Chochel in der Zeit der klassischen Stufe der Maďarovce-Kultur, die den Höhepunkt der älteren Bronzezeit ausfüllt, und der späten Maďarovce-Stufe vom Beginn der mittleren Bronzezeit besiedelt war. In deren Verlauf ging die Fortifikation am südwestlichen Rand der Fundstelle infolge eines Brandes unter. Bis heute ist weder die Funktion der beschriebenen Siedlung bekannt noch die Gründe, die zu ihrer Errichtung führten. Mit großer Wahrscheinlichkeit waren in dieser Hinsicht keine wirtschaftlichen Aspekte entscheidend. Im Hinblick auf die Lage einer bedeutenderen gleichzeitigen befestigten Siedlung auf dem Trenčíner Burgfelsen ist die Möglichkeit in Zweifel gezogen, die den Bedarf an der Errichtung eines weiteren Verwaltungszentrums in deren unmittelbarer Nachbarschaft veranlasst hätte. Realistischer sind die Erwägungen über Refugialzwecke im Grenzgürtel der Siedlungsökumene der Maďarovce-Kultur, verstärkt durch den eventuellen Bedarf am Schutz des Verkehrsweges, der durch das Tal der Vlára zum Gebirgspass führte.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Visualisierung des Kirchleins nach Dwarf digital",
+    "alt": "Visualisierung des Kirchleins nach Dwarf digital",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die frühgeschichtliche Zeit",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zweite Etappe der Besiedlung der Anhöhe Chochel aus der frühgeschichtlichen Zeit lässt sich in drei Phasen bzw. Rahmenabschnitte von der Spätlatènezeit bis zur frühen römischen Kaiserzeit, der älteren und der späten römischen Kaiserzeit gliedern. Die Äußerungen der Aktivitäten der Bevölkerung aus den genannten Abschnitten lassen sich an der Fortifikation, in den Siedlungsbefunden und in der materiellen Kultur wahrnehmen.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der frühgeschichtlichen Zeit wurde die ältere Fortifikation aus der ersten Besiedlungsetappe während der Spätlatènezeit wieder funktionsfähig gemacht. Diese Zeit ist im Gebiet der heutigen Slowakei mit dem keltischen Ethnikum verbunden. Dabei kam ein in der Vergangenheit bekanntes und nicht selten angewandtes Verfahren zum Einsatz. Sein Prinzip besteht in der Errichtung eines neuen, mächtigeren Körpers, der so geplant wird, dass in seinem Rahmen auch die ältere Fortifikation zweckmäßig genutzt wird. In Einklang mit dieser Konzeption wurde im Vorfeld des Walles aus der ersten Besiedlungsetappe die Erde eingeebnet, die von seinem Körper den Hang hinab abrutschte. Dieses Niveau wurde anschließend von einer 15–18 cm starken Schicht sandigen Lehms überdeckt, der mit scharfkantigem Schotter vermischt war und eine isolierende sowie eine dränierende Funktion haben konnte. Der untere Abschluss dieser Schicht wurde vor dem Rand des Grabens erfasst. Über ihrem oberen Ende wurde eine Rostkonstruktion errichtet. Im Querschnitt erreichte sie eine Breite von etwa 3 m. Auf einer Spanne von knapp einem Meter wurden in ihrem Profil Spuren von fünf vertikal angeordneten Holzbalken verzeichnet. Zur Füllung der Konstruktion wurde vor allem hellgelber Lehm aus dem Untergrund verwendet, sporadisch auch kleine und mittelgroße Steine. An den Rändern der Front- und der Rückwand ergänzte ihn Rutenwerk. Seine Ruten waren gegenüber der Querlinie schräg unter einem Winkel von etwa 45–50° gelegt. Die Front der Rostkonstruktion schützte eine Wand aus mit Lehm verbundenen Steinen. Von ihr hat sich das unterste Fundamentniveau aus großen und mittelgroßen Steinen erhalten. Die Krone der Mauer konnte mit einem hölzernen Aufbau abgeschlossen sein. Vor der Mauer befand sich ein Graben. Die Befestigung der Spätlatènezeit zerstörte ein mächtiger Brand. Die Funktion der Höhensiedlung wurde mit großer Wahrscheinlichkeit während der nächsten Besiedlungsphase wieder erneuert. Dabei kam es nicht zu einem umfangreicheren Umbau des ursprünglichen Zustands, sondern nur zu einer begrenzten Anpassung des gegebenen Zustands. Was die Siedlungsbefunde betrifft, waren an der Fundstelle am häufigsten Vorratsgruben vertreten. Verzeichnet wurden auch Überreste ovaler Hütten, die vereinzelt auf den Siedlungen in Branč und Veľký Meder verzeichnet wurden.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die größte Besiedlungsdichte der Anhöhe Chochel verzeichnen wir in der frühgeschichtlichen Periode, vor allem in der Spätlatènezeit bis zur frühen römischen Kaiserzeit. Vor allem die Zeit der Púchov-Kultur ist reich vertreten. Diese Besiedlung wird durch zahlreiche Scherben einer für die gegebene Zeit typischen Keramik vertreten. Unter den Kleinfunden aus der frühgeschichtlichen Zeit sind verschiedenartige Spinnwirtel und Schleifsteine aus längsförmigen Flusskieseln am zahlreichsten. Chronologisch empfindlicher sind Fragmente landwirtschaftlicher Geräte, ergänzt von einem Rasiermesser mit halbbogenförmiger Schneide, einem Teil eines Glasarmrings von blauer Farbe mit schrägen plastischen Rippen und einem Teil einer Federschere. Weiter wurden eine bronzene Fibel vom Typ Alesia, eine Fibel mit durchgebogenem Bügel aus einem Eisenstäbchen, ein bronzener quer gerillter Armring und eine eiserne omegaförmige Fibel, eine bronzene Fibel vom Typ Almgren und das Bruchstück einer bronzenen Gürtelschließe des frühen norisch-pannonischen Typs gefunden. Interessant sind auch ein Messer mit bogenförmigem Rücken und eine Lanzenspitze mit Tülle.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die landwirtschaftliche Ausrichtung der Bevölkerung bestätigen nicht nur die eisernen Geräte, sondern auch die Vorratsgruben und die Zusammensetzung der Tierknochen, die aus den Befunden und aus der Siedlungsschicht gewonnen wurden. Die Mehrheit stammt von Haustieren, namentlich von Schafen, Rindern und Ziegen. Von den wild lebenden Tieren waren es Hirsch, Auerochse und Wildschwein. An einigen Knochen wurden Spuren von Hundebiss verzeichnet, andere Eingriffe sind mit der Zubereitung der Fleischteile der Tiere durch den Menschen in Verbindung zu bringen, einschließlich des Bratens. Markante Merkmale an den Hirschgeweihen belegen das Bestreben nach ihrer primär praktischen Nutzung. Nicht alle Geweihstücke wurden von erlegten Tieren gewonnen. Nicht außergewöhnlich war auch das Sammeln von Abwurfstangen. Die Zusammensetzung der wild lebenden Tiere deutet dabei darauf hin, dass die Umgebung der Fundstelle von einem lichten Mischwald bedeckt gewesen sein könnte. Mit der Nähe des Wasserlaufes ist der Fund von Biberknochen und von Schalen von Flussmuscheln in Verbindung zu bringen, die als ergänzende Quelle fleischlicher Nahrung genutzt wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Untergang der spätlatènezeitlichen Fortifikation durch einen mächtigen Brand in der frühen römischen Kaiserzeit kann man mit der Ankunft der Germanen in Verbindung bringen, und auf gleiche Weise traf es mehrere befestigte Gebilde des Volkes der Púchov-Kultur. Durch ihr Zutun kam es zu einer Reduktion der Besiedlung, die anschließend von einem Ausweichen in nördlicher Richtung abgelöst wurde – aus der Trenčíner Mikroregion in das Púchov-Gebiet. Den frei gewordenen Raum füllten während der älteren römischen Kaiserzeit allmählich die Siedlungen der germanischen Quaden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach der Besetzung des Gebietes durch die Germanen, vor allem in der Zeit der Markomannenkriege gegen das Römische Reich, wurde die Höhensiedlung erneut besiedelt, denn die Fundstelle war leicht zu verteidigen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Mittelalter – die Slawen",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Zeit des frühen Mittelalters, als das Gebiet des Waagtals von den Slawen bewohnt war, stammen mehrere Siedlungsbefunde, ein Sakralbau, Gegenstände der materiellen Kultur und eine Nekropole."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste der beiden erforschten slawischen Befunde ist ein Grubenhaus, das unter dem nordwestlichen Rand des abrutschenden Körpers des frühgeschichtlichen Walles liegt, in der Nachbarschaft des Zugangsweges zur Fundstelle. Seine Längsachse verläuft parallel zur Falllinie des abfallenden Geländes. Es hat eine Länge von 4,4 m und eine Eintiefung von 1,7–1,9 m. Von der vermuteten Breite von 3 m wurde ein Abschnitt von 1,9 m erfasst. Am Umfang des Südsektors wurden zwei Pfostengruben festgestellt, deren Pfosten zur Sicherung der Stabilität in den Profilen der Wände gesetzt waren. Zwei Niveaus eines kompakten Lehmestrichs bezeugen eine längerfristige Nutzung des Befundes im 9.–10. Jahrhundert. Der zweite Befund stellt die durchgebrannte Lehmauskleidung des Feuerraums eines Kuppelofens aus dem zentralen Teil der Fundstelle dar, die aus dem 11.–12. Jahrhundert stammt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundamente des Heiligtums",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im mittleren Teil der Fundstelle, am Schnittpunkt ihrer Längs- und ihrer Querachse, wurde ein Sakralbau errichtet. Er bestand aus einem Schiff von unregelmäßig quadratischer Disposition und einer flach ausgewölbten, halbbogenförmigen Apsis. Seine Außenmaße kennzeichnet die Angabe 5,3 × 5,4–5,6 m bzw. 6,2 m einschließlich der Apsis. Die Längsachse des Baus, durch die Mitte der Apsis geführt, hat die Richtung SO-NW, ist also um 43° von der in der Linie O-W abgesteckten Sakralachse abgewichen. Von der Südseite schmiegen sich an die Mauer zwei quadratische Vorsprünge an, die wahrscheinlich der Rest der Fundamente einer halsartigen Überdachung des Eingangsportals sind. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bau hat sich in Form von einer bis zwei untersten Reihen des Fundamentmauerwerks erhalten, das aus Bruchsteinen lokaler Provenienz errichtet und mit Mörtel verbunden war. Die Steine einiger Abschnitte des Umfassungsmauerwerks verband nur Lehm. Der Innenfußboden war nach Art eines Terrakottaverbands mit dünnen, flachen Sandsteinen bedeckt. Das völlige Fehlen von Steinen in der Umgebung des Sakralbaus ruft Zweifel daran hervor, dass aus diesem Material seine Umfassungswände, gegebenenfalls auch die halsartige Überdachung des Eingangsportals, errichtet waren. Im positiven Fall wäre deren Kubatur nicht unbeträchtlich, die man auf über 30 m³ schätzen kann. Bei der Untersuchung wurden jedoch nicht einmal Bruchstücke des Mörtelbindemittels erfasst, die an Ort und Stelle geblieben wären, auch wenn das Mauerwerk abgetragen und die Steine zur Zweitverwendung an einen anderen Ort transportiert worden wären. Man kann daher nicht ausschließen, dass die Wände des Sakralbaus aus Holz errichtet gewesen sein konnten. Das konzentrierte Auftreten eiserner Krampen und Nägel in der Umgebung des Sakralbaus gehört ebenso zu den Belegen für die Verwendung von Holz und für die konstruktive Verbindung einiger seiner Teile. Der durch die Untersuchung freigelegte Verlauf des Fundamentmauerwerks erinnert an die Untermauerungen hölzerner Sakralbauten, die im Früh- und auch im Hochmittelalter mit mehreren Techniken angefertigt wurden. Aus dem 10.–12. Jahrhundert sind solche Bauten im benachbarten Österreich und in Polen belegt, in reichlicherer Zahl jedoch in den Ländern West- und Nordeuropas. In der Mehrzahl der Fälle stellten sie sakrale Provisorien dar, die nach einiger Zeit durch steinerne ersetzt wurden. Milan Hanuliak führt an, es sei wahrscheinlich, dass die Kirche bereits in der Zeit des Bestehens Großmährens erbaut wurde. Dafür sprechen mehrere Tatsachen, wie z. B. die Platzierung des Baus, die im 9. Jahrhundert gewöhnlich angewandt wurde, in den Zeiten der Entwicklung der Sakralarchitektur im ungarischen Staat im 11. und 12. Jahrhundert jedoch nicht auftritt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hypothetische Rekonstruktion nach R. Erdélyi und B. Vachová aus dem Buch von Andrej Botek – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+    "alt": "Hypothetische Rekonstruktion nach R. Erdélyi und B. Vachová aus dem Buch von Andrej Botek – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Verlegung der Anfänge der Errichtung des Sakralbaus in das 9. Jahrhundert unterstützt auch die Konzentration charakteristischer Keramikfunde in seiner nächsten Umgebung sowie eine Gruppe von sechs Gräbern des 9.–10. Jahrhunderts, die hinter seiner Apsis liegen. In diesem chronologischen Rahmen ist – im Unterschied zum sakralen Kanon, der die Orientierung der Längsachse hochmittelalterlicher Kirchen lenkt – die Abweichung des analysierten Baus von der in der späteren Zeit verwendeten Orientierung nicht derart unzulässig. Mit einem Teil der genannten Tatsachen ist auch die Frage der Funktionalität des freigelegten Baus eng verbunden. Die Gesamtfläche des Schiffes von 14,8 m² konnte kaum für eine zahlreichere Gruppe von Gläubigen bestimmt sein. In diesem Detail kann man vielleicht ebenfalls eine Äußerung des kultischen Archaismus sehen, bei dem der Sakralbau als Wohnstätte des Gottes gilt und die Teilnehmer der Gottesdienste in seinem Außenraum stehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bemerkenswert ist dabei, dass dieser Bau trotz der archaischen Grundzüge der verzeichneten Besonderheiten (Disposition, Maße, Fehlen einer Altarmensa, offenbar auch die hölzerne Konstruktion der Wände) in der Zeit vom 11. bis zum 13. Jahrhundert die Attribute einer Pfarrkirche hatte. Ein Beleg dafür ist nicht nur der Kirchhof, sondern auch die schriftliche Erwähnung eines Pfarrers aus der Gemeinde Skala, der später in die 1224 auf der Skalka gegründete Benediktinerabtei eintrat. Da zusammen mit ihm auch die Untertanenwirtschaft der Pfarre in das Klostervermögen überging, ist offensichtlich, dass der Sakralbau seine einstigen Funktionen nicht mehr erfüllte, verfiel und unterging. Auf gleiche Weise wurden offenbar auch die Bestattungen auf dem Kirchhof gedämpft und später beendet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle Umstände rund um das betreffende Kirchlein auf dem Burgwall sind ein wenig ein Rätsel. War es also steinern oder hölzern? Stammt es aus der Zeit Großmährens, oder wurde es erst in der Zeit der Entwicklung der Sakralarchitektur im Königreich Ungarn erbaut? Handelte es sich überhaupt um einen christlichen Bau, oder stand hier ursprünglich ein heidnischer Tempel, der im Bewusstsein des einfachen Volkes als der eingangs erwähnte „Venustempel“ blieb? Warum baute jemand auf einem Burgwall, der mehrere Merkmale eher eines Zufluchtsortes trägt, eine Kirche, wenn sich wenige Kilometer von der Skalka der zentrale Burgwall an der Stelle der heutigen Burg von Trenčín befand? Eines der größten Rätsel bleibt jedoch das Vampirgrab, das sich im Inneren des Heiligtums befindet. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Vampir im Heiligtum auf dem Burgwall",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fall des Individuums aus dem Grab, das im Inneren des Sakralbaus liegt, könnte auf den ersten Blick an die Anwendung des in der „Legis Salicae“ verankerten Grundsatzes erinnern, nach dem über dem Grab eines bedeutenden Individuums ein Sakralbau zu errichten war. Der Verstorbene aus dem Inneren des Heiligtums auf dem Burgwall Skalka konnte jedoch kaum aus der gleichzeitigen Kategorie der bedeutenderen Individuen stammen, denn an ihm wurden antivampirische Praktiken vollzogen, einschließlich der nachträglichen Entfernung des Kopfes und der Beschwerung des oberen Teils des Rumpfes mit elf Steinen. Wie erwähnt, fehlte dem Skelett der Schädel mit fünf Halswirbeln, die nachträglich aus dem Grab entfernt worden waren.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Äußerungen dieser Art werden in unserem Umfeld als posteriore antivampirische Praktiken bezeichnet, und sie wurden vor allem auf Gräberfeldern ohne Kirche vollzogen, auf denen mehrere ausklingende Äußerungen des heidnischen Ritus zu beobachten sind. Aus dem Umfeld Großmährens kennen wir mehrere Fälle sogenannter Vampirgräber, bei denen Individuen aus rituellen Gründen nach dem Tod bzw. nach der Bestattung nachträglich verstümmelt wurden, namentlich durch die Entfernung einer Extremität oder des Kopfes, oder mit großen Felsblöcken beschwert wurden. Der Zweck dieser Praktiken konnte z. B. das Bestreben sein, zu gewährleisten, dass der Verstorbene nicht aus dem Grab aufstehen und an den Lebenden Böses verüben konnte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Funde aus dem Mittelalter",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gruppe der Siedlungsfunde vertreten schon traditionell Keramikgefäße und deren Fragmente. Sie stammen von topfförmigen Formen, die mit der Hand hergestellt wurden und deren nachgedrehter oberer Teil von einer Skala von Verzierungsmotiven bedeckt ist, die für das 9.–10. Jahrhundert bezeichnend sind. Auf der Grundlage des Fundortes sind unter die Siedlungsfunde des 9.–10. Jahrhunderts auch ein Ringohrring aus Bronzedraht, ein bronzener Gombík (kugelförmiger Knopfanhänger) und eine Pfeilspitze mit Widerhaken einzuordnen. In das 10.–11. Jahrhundert gehören die rhomboide und die deltoide Form der Pfeilspitzen. Von den weiteren Funden kann man eine Riemenzunge aus Blech, den Stachel eines Sporns, einen Angelhaken, ein eisernes Messer und eine Knochenpfeife, Perlen aus perlmuttfarbenem Glas sowie einen bandförmigen, längs gerillten Fingerring anführen. Bei den früheren Untersuchungen (in den 1930er Jahren) wurden Messer, ein topfförmiges Gefäß, eine Bartaxt, ein Schleifstein aus Sandstein und eine bronzene Riemenzunge vom Gürtel in zungenförmiger Gestalt gefunden. Einige weitere Funde stammen auch aus dem 11. und 12. Jahrhundert, wobei die Fundstelle in dieser Zeit als Gräberfeld genutzt wurde. Es fanden sich mehrere Fingerringe und Frauenschmuck. Eine gesonderte Gruppe von Funden stellen die Münzen dar. Von ihren Eigenschaften verdient namentlich ihre Datierungsfähigkeit Anerkennung. Zwei von den ursprünglich sieben ausgegrabenen Stücken sind ungarische anonyme Denare vom Beginn des 12. Jahrhunderts. Sie sind eine Stütze für die Präzisierung der Anfänge der Bestattungen auf dem Friedhof. \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Vergleich mit dem Charakter der urgeschichtlichen und der frühgeschichtlichen Besiedlung der Anhöhe Chochel kam es im Mittelalter zu einem Wandel, und in den Vordergrund trat die sakrale Komponente. Bis heute unbekannte Gründe entschieden darüber, dass dieses zuverlässig zu verteidigende Areal mit den typischen Merkmalen großmährischer Fliehburgen nicht zusammenhängender besiedelt war. Im Verlauf der zweiten Hälfte des 9. Jahrhunderts wurde hier mit großer Wahrscheinlichkeit ein hölzerner Sakralbau von spezifischer Disposition errichtet, und im Raum hinter seiner Apsis begann man zu bestatten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Verlauf der ersten drei chronologischen Abschnitte (ältere Bronzezeit, Spätlatènezeit, ältere römische Kaiserzeit) wurde das Areal als befestigte Höhensiedlung genutzt. Die Skalka hatte dank ihrer Lage und im Hinblick auf die Nähe des zentralen Burgwalls auf der Trenčíner Burg eine militärisch-wachende und refugiale Nutzung, allenfalls ergänzt um die Pflicht zum Schutz einer der Straßentrassen, die zum Gebirgspass führten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Skalka nad Váhom",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sicherlich nicht ohne tieferen Zusammenhang tritt auch die Entfernung dieser Fundstelle von jenem Ort hervor, an dem im Jahr 1224 vom Bischof von Nitra (Neutra), Jakob, eine Benediktinerabtei gegründet wurde. Es handelt sich um eine schmale Terrasse mit einer Höhle, in der der Überlieferung nach der Mönch Benedikt seine Einsiedelei hatte, der später zusammen mit Andreas (Svorad) heiliggesprochen wurde. Die Höhleneinsiedelei war auf ideale Weise von der Trasse des frequentierten Verkehrsweges im Waagtal und auch vom neu errichteten Verwaltungszentrum auf der Trenčíner Burganhöhe abgerückt. Außerdem liegt sie nur 800 m vom Sakralbau auf der Anhöhe Chochel entfernt, der offenbar das älteste Denkmal dieser Art im nördlichen Teil des mittleren Waagtals ist. \n \n Fotogalerie – Julka Spustová:\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Foto: Laco Šubovič"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

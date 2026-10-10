@@ -1,0 +1,342 @@
+{
+ "slug": "stary-konus",
+ "data": {
+  "title": "Starý Koňuš – eine mächtige Höhensiedlung auf einem Tafelberg",
+  "slug": "stary-konus-tafelberg-burgwall",
+  "excerpt": "Auf dem Tafelberg östlich von Koňuš in der Ostslowakei, einst Stari Konjus genannt, erhebt sich eine mächtige Anlage der Bronzezeit: 7,8 ha Fläche, von der leichter zugänglichen Westseite ein bis zu 8 m hoher Wall. Die intensivste Besiedlung gehört der Gáva-Kultur, die hier bis zum Ende der Bronzezeit um 750 v. Chr. andauerte. Acht Keramikbruchstücke des 10.–11. Jahrhunderts zeigen, dass der Berg später auch den Slawen Zuflucht bot – vielleicht vor den altungarischen Stammesgefolgschaften.",
+  "metaTitle": "Starý Koňuš – mächtige Höhensiedlung auf einem Tafelberg",
+  "metaDescription": "Auf dem Tafelberg bei Koňuš (7,8 ha) stand eine mächtige Anlage der Bronzezeit mit einem bis zu 8 m hohen Wall, die später auch die Slawen nutzten.",
+  "keyFacts": [
+   {
+    "label": "Fläche",
+    "value": "7,8 ha (nach der Literatur)",
+    "icon": "map"
+   },
+   {
+    "label": "Höhe der Wallbefestigung",
+    "value": "bis zu 8 m von der westlichen (leichter zugänglichen) Seite, 1–3 m von den übrigen Seiten",
+    "icon": "shield"
+   },
+   {
+    "label": "Lage",
+    "value": "Popričný vrch, östlich der Gemeinde Koňuš, Bezirk Michalovce",
+    "icon": "mountain"
+   },
+   {
+    "label": "Besiedlung der Bronzezeit",
+    "value": "Gáva-Kultur, etwa 1200–750 v. Chr.",
+    "icon": "book"
+   },
+   {
+    "label": "Slawische Funde",
+    "value": "8 Keramikbruchstücke, in das 10.–11. Jahrhundert datiert",
+    "icon": "star"
+   },
+   {
+    "label": "Archäologische Untersuchung",
+    "value": "in den 1950er Jahren durchgeführt (V. Budinský-Krička)",
+    "icon": "book"
+   },
+   {
+    "label": "Wasserquelle",
+    "value": "Quelle am Hang der Anlage, die auch trotz der Trockenheit nicht versiegte",
+    "icon": "custom"
+   },
+   {
+    "label": "Ursprünglicher Name",
+    "value": "Stari Konjus",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "um 1200 v. Chr.",
+    "title": "Beginn der Gáva-Kultur",
+    "description": "Die Gáva-Kultur löste in der Ostslowakei die Piliny-Kultur und die Suciu-de-Sus-Kultur ab und wurde zur Trägerin der intensivsten Besiedlung der Anlage im jüngeren Abschnitt der jüngeren Bronzezeit.",
+    "type": "era"
+   },
+   {
+    "year": "bis 750 v. Chr.",
+    "title": "Ende der Besiedlung der Bronzezeit",
+    "description": "Die Besiedlung durch die Träger der Gáva-Kultur dauerte auf der Anlage bis zum Ende der Bronzezeit.",
+    "type": "era"
+   },
+   {
+    "year": "10.–11. Jahrhundert",
+    "title": "Slawische Besiedlung der Anlage",
+    "description": "Acht gefundene Keramikbruchstücke lassen sich in diese Periode datieren, also in die Zeit des untergehenden Großmährischen Reiches und der folgenden instabilen Formierung des ungarischen Staates; der Burgwall bot den Slawen vielleicht Zuflucht vor dem Andrang der altungarischen Stammesgefolgschaften in das Medzibodrožie.",
+    "type": "event"
+   },
+   {
+    "year": "1950er Jahre",
+    "title": "Archäologische Untersuchung der Anlage",
+    "description": "Die Untersuchung der Anlage fand noch in den 1950er Jahren statt.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6413,
+    "alt": "Blick vom Waldrand auf den bewaldeten Hang der Anlage in der Sommersonne"
+   },
+   {
+    "mediaId": 2280,
+    "caption": "Die Anlage auf der Karte der 2. milit. Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die Anlage auf der Karte der 2. milit. Landesaufnahme aus dem 19. Jahrhundert"
+   },
+   {
+    "mediaId": 2281,
+    "caption": "Das Areal „Starý Koňuš“ von Westen; so treten die steilen Hänge des Plateaus besser hervor. Grün sind die Zugangswege, rot die gut sichtbaren Wälle (NW oder SO) oder – auf der am wenigsten steilen W-Seite – hohe Terrassen mit steilen Hängen darunter. Blau ist die Quelle, die trotz der Trockenheit nicht versiegte. Am Ostende verengt sich das Plateau zu einem schmalen Rücken, geschützt von einem hohen, heute vom Weg teils beschädigten Wall. Dort herrscht herrliche Ruhe, kommen Sie spazieren.",
+    "alt": "Blick auf das Areal „Starý Koňuš“ von Westen mit eingezeichneten Zugangswegen (grün), gut sichtbaren Wällen und hohen Terrassen (rot) sowie der Quelle (blau)"
+   },
+   {
+    "mediaId": 2282,
+    "caption": "Vorstellung vom Aussehen der Anlage. (Autor: Naj)",
+    "alt": "Vorstellung vom Aussehen der Anlage. (Autor: Naj)"
+   },
+   {
+    "mediaId": 2283,
+    "caption": "Dort oben ist die Anlage!",
+    "alt": "Dort oben ist die Anlage!"
+   },
+   {
+    "mediaId": 2284,
+    "caption": "Der laaaaange Fuß des Starý Koňuš vom Tal des Syrový-Baches",
+    "alt": "Der laaaaange Fuß des Starý Koňuš vom Tal des Syrový-Baches"
+   },
+   {
+    "mediaId": 2285,
+    "caption": "Der Wall im W-Teil, das Gelände ist hier unübersichtlich",
+    "alt": "Der Wall im W-Teil, das Gelände ist hier unübersichtlich"
+   },
+   {
+    "mediaId": 2286,
+    "caption": "Die Untersuchung in den 1950er Jahren wies eine Besiedlung der Anlage in der Bronzezeit und auch im 10.–11. Jahrhundert nach.",
+    "alt": "Die Untersuchung in den 1950er Jahren wies eine Besiedlung der Anlage in der Bronzezeit und auch im 10.–11. Jahrhundert nach."
+   },
+   {
+    "mediaId": 2287,
+    "caption": "Der Wall am NW-Rand schützt eine ausgetrocknete zeitweilige Wasserquelle (links)",
+    "alt": "Der Wall am NW-Rand schützt eine ausgetrocknete zeitweilige Wasserquelle (links)"
+   },
+   {
+    "mediaId": 2288,
+    "caption": "Die Schrägebene im westlichen Teil des Burgwallareals liegt auf einer Terrasse, rechts (was schon nicht mehr zu sehen ist) befindet sich eine steile Geländekante. Die Vegetation erlaubte keine Aufnahme. Das ist der am wenigsten geschützte Abschnitt, deshalb sollten hier bis zu 8 m hohe Wälle sein. Wälle waren keine da, aber die Terrasse liegt stellenweise auch mehr als 8 m höher (vielleicht sogar 20).",
+    "alt": "Die Schrägebene im westlichen Teil des Burgwallareals liegt auf einer Terrasse, rechts (was schon nicht mehr zu sehen ist) befindet sich eine steile Geländekante. Die Vegetation erlaubte keine Aufnahme. Das ist der am wenigsten geschützte Abschnitt, desha"
+   },
+   {
+    "mediaId": 2289,
+    "caption": "Wall im NW-Teil der Anlage",
+    "alt": "Wall im NW-Teil der Anlage"
+   },
+   {
+    "mediaId": 2290,
+    "caption": "Der nördliche Wall über dem Steilhang",
+    "alt": "Der nördliche Wall über dem Steilhang"
+   },
+   {
+    "mediaId": 2291,
+    "caption": "Eingezäuntes Feldchen mit Sauerampfer (damit ihn die Kühe nicht abweiden? -auch in diesem Jahr trieb man sie angeblich von der Genossenschaft aus Choňkovce hier herauf, aber es war trocken, deshalb blieben sie hier nicht",
+    "alt": "Eingezäuntes Feldchen mit Sauerampfer (damit ihn die Kühe nicht abweiden? -auch in diesem Jahr trieb man sie angeblich von der Genossenschaft aus Choňkovce hier herauf, aber es war trocken, deshalb blieben sie hier nicht"
+   },
+   {
+    "mediaId": 2292,
+    "caption": "... und so konnte es dort im 9. Jahrhundert ausgesehen haben ...",
+    "alt": "... und so konnte es dort im 9. Jahrhundert ausgesehen haben ..."
+   },
+   {
+    "mediaId": 2293,
+    "caption": "So sieht der große Vihorlat aus, man sieht ihn nur von dieser Wiese",
+    "alt": "So sieht der große Vihorlat aus, man sieht ihn nur von dieser Wiese"
+   },
+   {
+    "mediaId": 2294,
+    "caption": "Die Zemplínska Šírava im Dunst",
+    "alt": "Die Zemplínska Šírava im Dunst"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemarkung der Gemeinde Koňuš (Bezirk Michalovce) in der Ostslowakei erhebt sich auf einem hohen Berg – einem Tafelberg, einst Stari Konjus genannt – eine mächtige Burganlage und Höhensiedlung aus der Bronzezeit, die später auch die Slawen nutzten. Die Fläche der Anlage beträgt nach der Literatur 7,8 ha. Sie wird jedoch erneut vermessen werden müssen. Die Wallbefestigung erreicht von der leichter zugänglichen Westseite eine Höhe von bis zu 8 m, die übrigen Seiten von 1 bis 3 m. Wer weiß, wann die Slawen an den Fuß des Berges umzogen und das neue Dorf Koňuš gründeten … die Wiesen nutzen sie jedoch bis heute. Die Untersuchung der Anlage fand noch in den 1950er Jahren statt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "sketchfab",
+    "embedId": "c3a774e8eebc4e1f9f3fc9779da8060b",
+    "url": "https://sketchfab.com/models/c3a774e8eebc4e1f9f3fc9779da8060b/embed",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-stary-konus-narodna-kulturna-pamiatka-c3a774e8eebc4e1f9f3fc9779da8060b?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Hradisko Starý Koňuš - národna kultúrna pamiatka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " von "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pamiatkovy_Urad_SR"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " auf "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sketchfab"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle breitet sich auf einer langen Wiese auf dem Hochplateau des Berges aus, im westlichen Teil des Bergmassivs Popričný vrch, östlich der Gemeinde Koňuš. Am besten ist sie vom Tal des Syrový-Baches zugänglich. Die erwähnte Wiese neigt sich sanft von O nach W. Ihr westliches Ende schließt ein Steinwall ab, der von einem Bergweg durchschnitten ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Anlage auf der Karte der 2. milit. Landesaufnahme aus dem 19. Jahrhundert",
+    "alt": "Die Anlage auf der Karte der 2. milit. Landesaufnahme aus dem 19. Jahrhundert",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die jüngere Bronzezeit",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \n \n Zahlreiche Scherbenfunde aus der Begehung (zumeist untypische) deuten darauf hin, dass die Fundstelle im jüngeren Abschnitt der genannten Periode am intensivsten besiedelt war, wobei es sich wahrscheinlich um die Gáva-Kultur handelt, die in der Ostslowakei um 1200 v. Chr. die Piliny-Kultur und die Suciu-de-Sus-Kultur ablöste. Sie dauerte hier bis zum Ende der Bronzezeit – bis 750 v. Chr. Für diese Periode ist der Bau von Burganlagen, eine eigenartige Keramik und eine umfangreiche Bronzemetallurgie charakteristisch (Schmuck, Waffen, Panzer, Helme, Trinkgarnituren, Gefäße). \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gefäße von schalenförmiger Gestalt vertritt auf der Anlage das Fragment eines halbkugeligen Gefäßes mit leicht verstärktem und leicht ausbiegendem Rand, die Scherbe eines dünnwandigen Gefäßes mit im oberen Teil gebrochenem Körper und einige Bruchstücke von konischen Schälchen mit innen verstärkter Mündung. Die erwähnten Bruchstücke stammen von Gefäßen, die außen braun bis braungrau, innen schwarzgrau sind. Von vasenartigen Gefäßen zeugen ein Bruchstück mit einer waagerechten plastischen Rippe und eine mit Rillenbündeln verzierte Scherbe, beide außen schwarzgrau, innen braun. Am zahlreichsten sind im Keramikmaterial die Bruchstücke topfförmiger Gefäße mit geradem oder leicht eingebogenem Hals, überwiegend braun. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Areal „Starý Koňuš“ von Westen; so treten die steilen Hänge des Plateaus besser hervor. Grün sind die Zugangswege, rot die gut sichtbaren Wälle (NW oder SO) oder – auf der am wenigsten steilen W-Seite – hohe Terrassen mit steilen Hängen darunter. Blau ist die Quelle, die trotz der Trockenheit nicht versiegte. Am Ostende verengt sich das Plateau zu einem schmalen Rücken, geschützt von einem hohen, heute vom Weg teils beschädigten Wall. Dort herrscht herrliche Ruhe, kommen Sie spazieren.",
+    "alt": "Blick auf das Areal „Starý Koňuš“ von Westen mit eingezeichneten Zugangswegen (grün), Wällen und hohen Terrassen (rot) sowie der Quelle (blau)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawische Zeit ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " \n \n Budinský-Krička führt an, dass sich nach den Funden zeigt, dass das Plateau des Berges in dieser Periode wahrscheinlich nur sporadisch aufgesucht wurde. Die Slawen konnten den Burgwall als Fliehburg nutzen, Krička weist jedoch auch auf die strategische Bedeutung dieser Fundstelle hin, die über dem Weg zwischen dem Gebiet unter dem Vihorlat und dem Becken der Uh im Gebiet der heutigen Ukraine liegt. Die acht gefundenen Keramikbruchstücke (von den markanteren sind es eine dunkelgraue Scherbe, die mit einer Reihe von Einstichen und einem Wellenband verziert ist, ein rotbraunes Bruchstück mit der Verzierung waagerechter Rillen und ein braungraues Bruchstück mit Spuren waagerechter Rillen) lassen sich in das 10. bis 11. Jahrhundert datieren, d. h. in die Zeit des untergehenden Großmährischen Reiches und der folgenden instabilen Periode der Formierung des ungarischen Staates. Der Burgwall bot den Slawen vielleicht Zuflucht vor dem Andrang der altungarischen Stammesgefolgschaften in das Medzibodrožie. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Vorstellung vom Aussehen der Anlage. (Autor: Naj)",
+    "alt": "Vorstellung vom Aussehen der Anlage. (Autor: Naj)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

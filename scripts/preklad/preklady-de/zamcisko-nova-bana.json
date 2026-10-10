@@ -1,0 +1,416 @@
+{
+ "slug": "zamcisko-nova-bana",
+ "data": {
+  "title": "Zámčisko bei Nová Baňa – eine mächtige Burganlage unter dem Veľký Inovec",
+  "slug": "zamcisko-nova-bana-burganlage-velky-inovec",
+  "excerpt": "Rund 10 km westlich von Nová Baňa, über den Siedlungen Stará Huta und Bukovina, liegt auf einem steilen Berg (690 m ü. M.) unter dem Veľký Inovec die Fundstelle Zámčisko. Ein 430 m langer Erdwall, von innen durch einen Steinkranz verstärkt, umschloss ein etwa 7 ha großes Areal. Die Sondagegrabung von 1970–1971 legte hier Reste turmartiger Wachbauten frei und datierte die Keramik in das 10.–13. Jahrhundert – ein Beleg für eine slawische Fliehburg auf einer schon in der Urgeschichte befestigten Höhe.",
+  "metaTitle": "Zámčisko bei Nová Baňa – Burgwall unter dem Veľký Inovec",
+  "metaDescription": "Der Burgwall Zámčisko (690 m ü. M.) unter dem Veľký Inovec bei Nová Baňa mit einem 430 m langen Erdwall, der von innen durch einen Steinkranz verstärkt ist.",
+  "keyFacts": [
+   {
+    "label": "Höhe über dem Meer",
+    "value": "690 m ü. M. (unter dem Gipfel Veľký Inovec, 900 m ü. M.)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Länge des Walls",
+    "value": "430 m, von der Innenseite durch einen Steinkranz verstärkt",
+    "icon": "shield"
+   },
+   {
+    "label": "Fläche des Burgwalls",
+    "value": "etwa 7 ha, durch eine Felsformation in zwei ungleiche Teile geteilt",
+    "icon": "map"
+   },
+   {
+    "label": "Höhe von Wall und Graben",
+    "value": "Wall über 250 cm, Graben stellenweise bis zu 150 cm tief",
+    "icon": "building"
+   },
+   {
+    "label": "Datierung der Keramik",
+    "value": "10.–13. Jahrhundert",
+    "icon": "book"
+   },
+   {
+    "label": "Umfang der Ausgrabung",
+    "value": "15 Schnitte, drei freigelegte Befunde, ein Schnitt durch den Wall (Grabung 1970–1971)",
+    "icon": "custom"
+   },
+   {
+    "label": "Funde von der Fundstelle",
+    "value": "ein bronzenes Beil, eiserne Sporen, Hufeisen und Scherben in den Beständen des Städtischen Museums in Nová Baňa",
+    "icon": "star"
+   },
+   {
+    "label": "Versiegte Wasserquelle",
+    "value": "unter einer vertikalen Kluft in der Felsformation entdeckt",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1869",
+    "title": "Vermessung des Burgwalls",
+    "description": "Der Berg- und Forstingenieur der Stadt Nová Baňa, Ján Flakovits, vermaß den Burgwall Zámčisko und fertigte einen Lageplan von ihm an.",
+    "type": "discovery"
+   },
+   {
+    "year": "1970–1971",
+    "title": "Archäologische Sondagegrabung",
+    "description": "An der Fundstelle fand eine kurze Sondagegrabung statt, die dem Charakter der Besiedlung des Burgwalls gewidmet war; angelegt wurden 15 Schnitte, drei Befunde wurden freigelegt und ein Schnitt durch den Wall geführt.",
+    "type": "discovery"
+   },
+   {
+    "year": "10.–13. Jahrhundert",
+    "title": "Slawische Besiedlung des Burgwalls",
+    "description": "Die Keramikfunde aus den freigelegten Befunden gehören typologisch in das 10.–13. Jahrhundert und zeugen von einer ursprünglich slawischen Besiedlung mit dem Charakter einer Fliehburg im Frühmittelalter, und zwar auf einer bereits bestehenden, in der Urgeschichte entstandenen befestigten Siedlung.",
+    "type": "era"
+   },
+   {
+    "year": "14. Jahrhundert",
+    "title": "Gründung von Nová Baňa",
+    "description": "Nach einer bis vor kurzem verbreiteten Ansicht war die Umgebung von Nová Baňa erst seit der Gründung der Stadt zur Zeit der Kolonisation durch deutsche Siedler im 14. Jahrhundert besiedelt – die Grabung auf dem Burgwall hat diese Vorstellung jedoch widerlegt.",
+    "type": "founding"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6430,
+    "alt": "Historische Zeichnung des Burgwalls Zámčisko mit Wällen, Felsen und der Aufschrift Nagyvár"
+   },
+   {
+    "mediaId": 2380,
+    "alt": "Lageplanskizze des Burgwalls Zámčisko bei Nová Baňa mit Höhenlinien"
+   },
+   {
+    "mediaId": 2381,
+    "caption": "Zwischen den beiden Plänen liegen mehr als 100 Jahre, ansonsten sind sie einander sehr ähnlich",
+    "alt": "Zwischen den beiden Plänen liegen mehr als 100 Jahre, ansonsten sind sie einander sehr ähnlich"
+   },
+   {
+    "mediaId": 2382,
+    "alt": "Zeichentafel mit Keramikfragmenten aus den einzelnen Schnitten"
+   },
+   {
+    "mediaId": 2383,
+    "alt": "Zeichentafel mit Keramikfunden und Kleinfunden aus den Schnitten"
+   },
+   {
+    "mediaId": 2384,
+    "alt": "In Teile zerbrochener steinerner Mühlstein mit Loch"
+   },
+   {
+    "mediaId": 2385,
+    "alt": "Steindestruktion des Walls im Buchenwald, von Laub bedeckt"
+   },
+   {
+    "mediaId": 2386,
+    "alt": "Verstreute Steine des Walls im herbstlichen Wald"
+   },
+   {
+    "mediaId": 2387,
+    "alt": "Steine des Walls an einem von Laub bedeckten Hang"
+   },
+   {
+    "mediaId": 2388,
+    "alt": "Trockenmauer des Burgwalls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2389,
+    "alt": "Buchenwald auf dem Plateau des Burgwalls"
+   },
+   {
+    "mediaId": 2390,
+    "alt": "Von Laub bedeckter Hang des Burgwalls im Nebel"
+   },
+   {
+    "mediaId": 2391,
+    "alt": "Steiniger Wall mit Schnee zwischen Buchen"
+   },
+   {
+    "mediaId": 2392,
+    "alt": "Umgestürzter Stamm auf dem steinigen Wall des Burgwalls"
+   },
+   {
+    "mediaId": 2393,
+    "alt": "Steiniger Hang des Burgwalls im sommerlichen Buchenwald"
+   },
+   {
+    "mediaId": 2394,
+    "alt": "Felswand mit Schichten unterhalb des Burgwalls"
+   },
+   {
+    "mediaId": 2395,
+    "alt": "Graben des Burgwalls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2396,
+    "alt": "Wall des Burgwalls mit Baumwurzeln im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2397,
+    "alt": "Bemooste Buche auf dem Wall des Burgwalls"
+   },
+   {
+    "mediaId": 2398,
+    "alt": "Geschichteter Felsturm im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2399,
+    "alt": "Steinschutt des Walls im Buchenwald"
+   },
+   {
+    "mediaId": 2400,
+    "alt": "Ein Mann sitzt als Maßstab auf dem Steinwall des Burgwalls"
+   },
+   {
+    "mediaId": 2401,
+    "alt": "Zerfallene Steinmauer des Walls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2402,
+    "alt": "Ein Hund steht auf dem Wall des Burgwalls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2403,
+    "alt": "Graben zwischen den Wällen im Buchenwald"
+   },
+   {
+    "mediaId": 2404,
+    "alt": "Steiniger Wall des Burgwalls am Hang"
+   },
+   {
+    "mediaId": 2405,
+    "alt": "Eine Gestalt mit Rucksack am Wall des Burgwalls im Wald"
+   },
+   {
+    "mediaId": 2406,
+    "alt": "Bemooste Steine des Walls im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2407,
+    "alt": "Steiniges Plateau des Burgwalls zwischen Buchen"
+   },
+   {
+    "mediaId": 2408,
+    "alt": "Von Laub bedeckter Hang des Burgwalls mit Steinen"
+   },
+   {
+    "mediaId": 2409,
+    "alt": "Felsvorsprung und Graben im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2410,
+    "alt": "Helle Steine des Walls im lichtdurchfluteten Wald"
+   },
+   {
+    "mediaId": 2411,
+    "alt": "Steinschutt auf dem Wall im sommerlichen Wald"
+   },
+   {
+    "mediaId": 2412,
+    "alt": "Buchenwald auf dem Plateau des Burgwalls im Sommer"
+   },
+   {
+    "mediaId": 2413,
+    "alt": "Hang des Burgwalls mit grünem Unterwuchs"
+   },
+   {
+    "mediaId": 2414,
+    "alt": "Graben des Burgwalls zwischen Bäumen im Sommer"
+   },
+   {
+    "mediaId": 2415,
+    "alt": "Steiniger Wall des Burgwalls im sommerlichen Bestand"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Kartenskizze zur Lage von Zámčisko",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rund 10 km westlich von Nová Baňa (Bezirk Žiar nad Hronom), über den Siedlungen Stará Huta und Bukovina, erstreckt sich auf einem steilen Berg (690 m ü. M.) unter dem höchsten Gipfel des Gebirges Pohronský Inovec, dem Veľký Inovec (900 m ü. M.), die archäologische Fundstelle Zámčisko. Ein 430 m langer Erdwall, der von der Innenseite durch einen festen Steinkranz verstärkt ist, zeugt von einem mächtigen Befestigungssystem, das auf der Nordseite an eine 200 m lange Verteidigungslinie anschließt, die durch die günstige Geländekonfiguration gebildet wird. Der Erdwall geht stellenweise auf größeren Abschnitten in eine Steinkonstruktion über. Der mächtige Wall sicherte den Schutz des gesamten Areals der Burganlage mit seinem welligen Gelände, das eine Fläche von etwa 7 ha einnimmt und durch eine langgestreckte Andesit-Felsformation in Richtung Nord–Süd in zwei ungleiche Teile zerschnitten wird.\n \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall hat eine strategisch sehr günstige Lage, denn er ist schwer zugänglich, bietet eine gute Aussicht nach Osten in das Grantal und ermöglicht den entscheidenden Schutz des engen Passes, durch den die Straße in Richtung Veľká Lehota führt – wahrscheinlich seit alters her als Verbindungsweg vom oberen Žitavatal in das mittlere Grantal genutzt.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese bedeutende archäologische Fundstelle, hoch im Gebirge Pohronský Inovec gelegen, war bereits den ungarischen Archäologen des 19. Jahrhunderts bekannt. Im Jahr 1869 vermaß der Berg- und Forstingenieur der Stadt Nová Baňa, Ján Flakovits, den Burgwall und fertigte einen Lageplan von ihm an. In den Beständen des Städtischen Museums in Nová Baňa befinden sich verschiedenartige Funde, die in der zweiten Hälfte des vorigen Jahrhunderts erworben wurden (ein bronzenes Beil, eiserne Sporen, Hufeisen und Scherben) und von denen man annimmt, dass sie vielleicht aus dem Areal von Zámčisko stammen. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1970 und 1971 fand an der Fundstelle eine kurze Sondagegrabung statt, deren Ziel es war, Erkenntnisse über den Charakter der Besiedlung des Burgwalls auf dem Zámčisko zu gewinnen. Während dieser Grabung wurden der 430 m lange Wall und die Lage der Andesit-Felsformation erneut vermessen, die den Burgwall durchschneidet und in einen höher gelegenen westlichen und einen niedrigeren östlichen Teil gliedert. Die Felsformation ist durch den erwähnten engen Pass unterbrochen, durch den die Straße führt. Das Areal des Burgwalls ist sehr unregelmäßig und von einem relativ dichten Waldbestand (Tannen, Buchen) bedeckt. Die Höhe des Walls beträgt an der besterhaltenen Stelle mehr als 250 cm, der Graben erreicht stellenweise eine Tiefe von 150 cm.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zwischen den beiden Plänen liegen mehr als 100 Jahre, ansonsten sind sie einander sehr ähnlich",
+    "alt": "Zwischen den beiden Plänen liegen mehr als 100 Jahre, ansonsten sind sie einander sehr ähnlich",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Angelegt wurden 15 Schnitte, drei Befunde freigelegt und außerdem ein Schnitt durch den Wall geführt. Im westlichen Teil des Burgwalls, in unmittelbarer Nähe des Walls (an seiner Innenseite), haben sich die Reste von 40–45 cm dicken und 110 cm hohen Mauern eines Baus mit nahezu quadratischem Grundriss von 250 × 260 cm erhalten, die aus flachen Andesitbruchstücken der örtlichen Felsformation trocken aufgeschichtet sind. In unmittelbarer Nähe der Außenseite des Walls wurden Spuren steinerner Fundamente zweier ähnlicher Bauten mit annähernd gleichem Grundriss festgestellt, die beiderseits einer Unterbrechung im Wall lagen. Diese Befundsituation verleitet zu der Annahme, dass es sich um die Fundamente turmartiger Wachblockhäuser zu beiden Seiten des ursprünglichen Zugangs in das Areal des Burgwalls handelt.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Schnitten, in denen Reste von Baudestruktionen der Siedlungsbefunde freigelegt wurden – sie lagen auf terrassenartig angelegten Flächen vor allem in der Nähe der Wälle –, traten vor allem kreisförmige Feuerstellen deutlich hervor; außerdem wurden Keramikscherben geborgen. Typologisch lässt sich diese Keramik in das 10.–13. Jahrhundert einordnen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Funde von Zámčisko",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besondere Aufmerksamkeit galt der Konstruktion des Walls. Dieser hatte folgenden Aufbau: einheitlicher roter Lehm, stellenweise – wie gesintert – zu ziegelartigen Stücken verfestigt. In einer Tiefe von 180 cm begann sich der rote Lehm allmählich mit dunkel gefärbtem Erdmaterial zu vermischen. Hier wurde in der Mitte des Schnitts auf der Sohle eine durchgehende, 60–70 cm breite Schicht aus 20–30 cm hohen Steinen festgestellt, die parallel zur Linie des Wallkamms verläuft. Zweifellos handelt es sich um den steinernen Kern des Fundaments der Wallkonstruktion, der vor dem Ausheben des Grabens und dem allmählichen Aufschütten des Walls auf die Oberfläche gelegt wurde. In den tieferen Schichten des Grabens kam ein ähnliches rotes Erdmaterial zum Vorschein, aus dem der Wall auf etwa der Hälfte seiner Länge errichtet ist (unterhalb von Zámčisko liegt eine kleine Siedlung namens Červené zeme, und es kommt dort derselbe ziegelrote Lehm vor). Im übrigen Teil des Walls überwiegt eine Steinkonstruktion ohne diesen Lehm. Spuren von Holzkohle, die beim Vertiefen des Wallschnitts in vertikaler wie in horizontaler Richtung auftraten, zeugen auch von einer wahrscheinlichen Holzkonstruktion. Der Wall ist in jenem Teil, in dem roter Lehm (gegebenenfalls in Verbindung mit Holz) als Hauptbaumaterial verwendet wurde, auf seiner ganzen Länge von der Innenseite durch einen dicken Kranz steinerner Verblendung verstärkt, stellenweise bis zu einer Höhe von 150 cm und in einer maximalen Breite von bis zu 100 cm am Fuß. Die steinerne Verblendung geht weiter in die übrige Konstruktion über, in der Andesitbruchstücke als Baumaterial verwendet wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter einer vertikalen Kluft in der Felsformation entdeckten die Archäologen eine versiegte Wasserquelle, von der eine eigentümliche Geländegestaltung und die ständige Feuchtigkeit der Umgebung zeugen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Funde von Zámčisko",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ergebnisse der Sondagegrabung widerlegen überzeugend die bis vor kurzem verbreiteten tendenziösen Ansichten, die Umgebung von Nová Baňa sei erst seit der Gründung der Stadt vor mehr als sechseinviertel Jahrhunderten – zur Zeit der Kolonisation durch deutsche Siedler im 14. Jahrhundert – besiedelt gewesen. Die bisherigen Ergebnisse der kurzen Sondagegrabung auf dem Burgwall können die Gründe für eine Besiedlung an einem so unzugänglichen Ort mit einer ungewöhnlich welligen Oberfläche des Burgwallareals nicht vollständig erklären. Sie zeugen jedoch von einer ursprünglich slawischen Besiedlung wahrscheinlich mit dem Charakter einer Fliehburg im Frühmittelalter (10.–13. Jahrhundert), also in der Zeit des entstehenden und sich allmählich festigenden ungarischen Staates, und zwar auf einer bereits bestehenden, in der Urgeschichte entstandenen befestigten Siedlung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

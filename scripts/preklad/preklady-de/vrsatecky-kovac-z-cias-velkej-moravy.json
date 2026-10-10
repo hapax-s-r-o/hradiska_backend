@@ -1,0 +1,728 @@
+{
+ "slug": "vrsatecky-kovac-z-cias-velkej-moravy",
+ "data": {
+  "title": "Der Schmied von Vršatec – Eisenwerkzeuge aus der Zeit Großmährens",
+  "slug": "vrsatec-schmied-grossmaehren-werkzeugfund",
+  "excerpt": "Vršatecké Podhradie (Oroszlánko 1348, Podhrady 1470) liegt in den Weißen Karpaten am Fuß der Felsen von Vršatec. Gefunden wurden hier eine Siedlung und ein Brandgräberfeld der Lausitzer Kultur, eine Siedlung der Púchov-Kultur von der Zeitenwende, eine slawische Besiedlung des 9. Jahrhunderts – und ein Sammelfund eiserner Werkzeuge eines slawischen Schmieds, dessen Werkstatt ein Bulldozer zerstörte, bevor sie jemand untersuchen konnte.",
+  "metaTitle": "Der Schmied von Vršatec – Werkzeuge aus Großmährens Zeit",
+  "metaDescription": "Unter den Felsen von Vršatec fand sich ein Sammelfund eiserner Werkzeuge eines slawischen Schmieds des 9. Jahrhunderts, neben älteren Siedlungen.",
+  "keyFacts": [
+   {
+    "label": "Höhe über dem Meer",
+    "value": "um 700 m – eine der höchstgelegenen Siedlungen im Waagtal",
+    "icon": "mountain"
+   },
+   {
+    "label": "Erster Fund (März 1965)",
+    "value": "3 Ambosse, ein Meißel, 4 Schmiedezangen, 2 Äxte, eine „obsta“, ein Sech, eine Pflugschar, eine Hacke, eine Rodehacke und Eisenstücke",
+    "icon": "custom"
+   },
+   {
+    "label": "Zweiter Fund (August 1965)",
+    "value": "eine Axt, eine „obsta“, eine kurze Sense und ein teilweise bearbeiteter Eisenbarren",
+    "icon": "custom"
+   },
+   {
+    "label": "Die Axt von Vršatec",
+    "value": "Länge 205 mm, Breite der Schneide 65 mm, aus zwei Materialien mit unterschiedlichem Kohlenstoffgehalt geschmiedet",
+    "icon": "shield"
+   },
+   {
+    "label": "Schmiedekunst",
+    "value": "Der Schmied kannte die Methode, härteres, kohlenstoffreicheres Eisen auf die Schneide der Werkzeuge aufzuschweißen.",
+    "icon": "star"
+   },
+   {
+    "label": "Zerstörte Werkstatt",
+    "value": "Die Fundamente der Schmiedewerkstatt vom Ende des 9. bis zum Beginn des 10. Jahrhunderts zerstörte ein Bulldozer beim Bau eines Erholungszentrums.",
+    "icon": "building"
+   },
+   {
+    "label": "Ungelöstes Rätsel",
+    "value": "Ein möglicher Zusammenhang mit dem Hortfund von Eisengegenständen vom Burgwall in Pružina, nur wenige Kilometer von Vršatec entfernt.",
+    "icon": "map"
+   },
+   {
+    "label": "Schutzgebiet",
+    "value": "Seit 1970 ist das Felsgebilde Vršatec wegen seiner seltenen kalkliebenden Flora ein geschütztes Naturgebilde.",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "jüngere Bronzezeit",
+    "title": "Siedlung der Lausitzer Kultur",
+    "description": "Auf dem Vršatec befanden sich eine Siedlung und ein Brandgräberfeld der Lausitzer Kultur aus der jüngeren Bronzezeit.",
+    "type": "era"
+   },
+   {
+    "year": "Zeitenwende",
+    "title": "Siedlung der Púchov-Kultur",
+    "description": "An der Stelle bestand eine Siedlung der Púchov-Kultur von der Zeitenwende.",
+    "type": "era"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Slawische Besiedlung des Vršatec",
+    "description": "Es entstand eine zusammenhängende Fläche einer slawischen Siedlung in der Mulde eines Bächleins unter den Burgfelsen; die Slawen bewohnten beide Seiten des unteren Teils des Tals.",
+    "type": "founding"
+   },
+   {
+    "year": "Ende des 9. bis Anfang des 10. Jahrhunderts",
+    "title": "Schmiedewerkstatt in Vršatecké Podhradie",
+    "description": "In der Siedlung arbeitete die Schmiedewerkstatt eines slawischen Schmieds, deren Fundamente später Bauarbeiten völlig zerstörten.",
+    "type": "construction"
+   },
+   {
+    "year": "1348",
+    "title": "Erste schriftliche Erwähnung als Oroszlánko",
+    "description": "Vršatecké Podhradie wird in den Schriftquellen unter dem Namen Oroszlánko erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "1470",
+    "title": "Erwähnung als Podhrady",
+    "description": "Die Gemeinde wird unter dem Namen Podhrady erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "März 1965",
+    "title": "Erster Fund von Schmiedewerkzeug",
+    "description": "Bei Bauarbeiten stieß ein Bulldozer auf einen Sammelfund: drei Ambosse, einen Meißel, vier Schmiedezangen, zwei Äxte, eine „obsta“, ein Sech, eine kleine symmetrische Pflugschar, eine Hacke, eine Rodehacke und Eisenstücke – Halbfabrikat.",
+    "type": "discovery"
+   },
+   {
+    "year": "August 1965",
+    "title": "Zweiter Fund von Schmiedewerkzeug",
+    "description": "An derselben Stelle wurde der zweite Teil des Fundes entdeckt: eine Axt, eine „obsta“, eine kurze Sense und ein teilweise bearbeiteter Eisenbarren.",
+    "type": "discovery"
+   },
+   {
+    "year": "1970",
+    "title": "Vršatec als geschütztes Naturgebilde",
+    "description": "Das Felsgebilde Vršatec wurde wegen seiner seltenen kalkliebenden Flora zum geschützten Naturgebilde.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6406,
+    "alt": "Zeichnung eines Schmieds an der glühenden Esse, der eine fertige Axt betrachtet"
+   },
+   {
+    "mediaId": 2001,
+    "caption": "Vršatec auf einer Karte aus dem Jahr 1567 unter dem Namen Oroszlánko",
+    "alt": "Vršatec auf einer Karte aus dem Jahr 1567 unter dem Namen Oroszlánko"
+   },
+   {
+    "mediaId": 2002,
+    "caption": "Das Innere einer großmährischen Schmiedewerkstatt (Modrá)",
+    "alt": "Das Innere einer großmährischen Schmiedewerkstatt (Modrá)"
+   },
+   {
+    "mediaId": 2003,
+    "caption": "Der Schmied von Vršatec nach Tomáš Humaj",
+    "alt": "Der Schmied von Vršatec nach Tomáš Humaj"
+   },
+   {
+    "mediaId": 2004,
+    "caption": "Rekonstruktion der Schmiedewerkstatt von B. Klíma (Mikulčice)",
+    "alt": "Rekonstruktion der Schmiedewerkstatt von B. Klíma (Mikulčice)"
+   },
+   {
+    "mediaId": 2005,
+    "caption": "Das Inventar der Schmiedewerkstatt von Vršatec",
+    "alt": "Das Inventar der Schmiedewerkstatt von Vršatec"
+   },
+   {
+    "mediaId": 2006,
+    "caption": "Die Streitaxt, die unser Schmied herstellte",
+    "alt": "Die Streitaxt, die unser Schmied herstellte"
+   },
+   {
+    "mediaId": 2007,
+    "caption": "Die Sense und der teilweise bearbeitete Eisenbarren",
+    "alt": "Die Sense und der teilweise bearbeitete Eisenbarren"
+   },
+   {
+    "mediaId": 2008,
+    "alt": "Höhenlinienplan von Vršatské Podhradie mit eingezeichneten Schnitten und dem Fund"
+   },
+   {
+    "mediaId": 2009,
+    "alt": "Zeichnung der Rekonstruktion einer slawischen Schmiedewerkstatt mit Vordach und Esse"
+   },
+   {
+    "mediaId": 2010,
+    "alt": "Schwarzweißfoto des Komplexes von Schmiedewerkzeugen und Halbfabrikaten"
+   },
+   {
+    "mediaId": 2011,
+    "alt": "Zeichnungstafel von Keramikfragmenten mit Wellenband- und Ritzverzierung"
+   },
+   {
+    "mediaId": 2012,
+    "alt": "Historische Fotografie eines Sondageschnitts am oberen Wall"
+   },
+   {
+    "mediaId": 2013,
+    "alt": "Zeitgenössische kolorierte Fotografie der Felsen von Vršatec mit der Burgruine"
+   },
+   {
+    "mediaId": 2014,
+    "alt": "Historische Fotografie des Dorfes unter den Felsen mit der Burg"
+   },
+   {
+    "mediaId": 2015,
+    "alt": "Schwarzweißfoto des Panoramas der Felsen von Vršatec über dem Dorf"
+   },
+   {
+    "mediaId": 2016,
+    "alt": "Schwarzweißfoto der Felsen über Wiesen und Feldern"
+   },
+   {
+    "mediaId": 2017,
+    "alt": "Historische Fotografie der Felsen von Vršatec mit einer Schafherde im Vordergrund"
+   },
+   {
+    "mediaId": 2018,
+    "alt": "Die Felsen von Vršatec über grünen Wiesen unter blauem Himmel"
+   },
+   {
+    "mediaId": 2019,
+    "alt": "Die Burgruine auf dem Felsen über dem Wald"
+   },
+   {
+    "mediaId": 2020,
+    "caption": "Eine schöne slawische Bartaxt aus Vršatec. Fund des Barons Hoenning",
+    "alt": "Eine schöne slawische Bartaxt aus Vršatec. Fund des Barons Hoenning"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Vršatec auf einer Karte aus dem Jahr 1567 unter dem Namen Oroszlánko",
+    "alt": "Vršatec auf einer Karte aus dem Jahr 1567 unter dem Namen Oroszlánko",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vršatecké Podhradie (Oroszlánko 1348, Podhrady 1470) liegt in den Weißen Karpaten am Fuß der Felsen von Vršatec. Seit 1970 ist das Felsgebilde Vršatec wegen seiner kalkliebenden Flora ein geschütztes Naturgebilde. Gefunden wurden hier eine Siedlung und ein Brandgräberfeld der Lausitzer Kultur aus der jüngeren Bronzezeit, eine Siedlung der Púchov-Kultur von der Zeitenwende, eine slawische Besiedlung des 9. Jahrhunderts und ein Sammelfund eiserner Werkzeuge eines slawischen Schmieds aus dem 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hört eine alte Geschichte, den Menschenbüchern verborgen",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Eine Geschichte, die bis heute im Waldesdämmer lebt",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Im Dämmer verwehter Pfade, im Atem der Waldhallen",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Eingeschrieben in die Rinde der Eichen, die sie treu beschatten",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Die Dämonen flüstern sie im Schoß des Neumonds",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Sie spiegelt sich im Auge verborgener klarer Tümpel",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawische Besiedlung des Vršatec"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Darauf, dass der Vršatec im frühen Mittelalter von Slawen besiedelt war, wies schon Petrovský-Šichman hin, der eine zusammenhängende Fläche einer slawischen Siedlung in der Mulde eines Bächleins feststellte, das von der Nordseite unter der Burg hindurchfließt. Der Umfang der Siedlung war, wie sich später zeigte, viel größer als der von Šichman vermutete Hektar, und die Slawen bewohnten beide Seiten des unteren Teils des Tals. Ein Teil ihrer Siedlung befindet sich an einem mäßigen Hang, direkt unter den Burgfelsen. Vielleicht waren bereits in der slawischen Periode auch diese Burgfelsen gleichzeitig besiedelt und befestigt. Am nordwestlichen Rand der Siedlung wurde eine zweiteilige Drehmühle gefunden. Außerdem fand sich hier eine Menge typischer slawischer Keramik mit Wellenbandverzierung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Innere einer großmährischen Schmiedewerkstatt (Modrá)",
+    "alt": "Das Innere einer großmährischen Schmiedewerkstatt (Modrá)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Knapp unter dem unteren Teil der Siedlung verläuft ein niedriger Wall von der einen Seite des Tälchens zur anderen, und ein zweiter ähnlicher Wall befindet sich an der höchsten Stelle des Tals unter dem Scheitel der Chmelová. Auch die Ausgrabung der Slowakischen Akademie der Wissenschaften (SAV) in den 1960er Jahren brachte keine überzeugende Antwort auf die Frage, ob die Wälle die slawische Siedlung oder die hallstattzeitliche Siedlung schützten, deren Spuren hier ebenfalls entdeckt wurden. Es wird angenommen, dass an der Stelle, an der sich die malerischen Reste der steinernen Burg von Vršatec erheben, in der Zeit Großmährens ein Burgwall in Höhenlage lag, der vor allem als Fliehburg für die Bewohner der darunter ausgebreiteten Siedlung dienen konnte. Mit einer Höhe von etwa 700 m ü. M. gehört sie zu den höchstgelegenen Siedlungen im Waagtal überhaupt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der rätselhafte großmährische Schmied",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Am Grünen Hain lebte ein Schmied, Jasmuz genannt",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Das Alter hatte ihn eingeholt, doch nahm es ihm die Kraft nicht",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Weißes Haar zum Zopf und Falten im Gesicht",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Und in die Schluchten dieser Falten ist die Weisheit des Schmieds geritzt",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei den Bauarbeiten eines Erholungszentrums im Gebirgsgelände stieß in den 1960er Jahren ein Bulldozer auf einen archäologischen Fund, auf eine große Menge slawischen Schmiedewerkzeugs. Die Rettungsgrabung bestätigte, dass die Bauarbeiten die Fundamente eines Produktionsbefundes – wahrscheinlich einer Schmiedewerkstatt vom Ende des 9. bis zum Beginn des 10. Jahrhunderts – völlig zerstört hatten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Glanz folgt dem Schatten, Glanz lässt Neues erwachen\nSchatten folgt dem Glanz, Schatten gibt dem Lebenden neue Gestalt\nIn den Wäldern und in den Wänden der Schmiede\nDasselbe Gesetz, derselbe mächtige Traum\nDer Schmied kennt den ältesten Kreislauf\nWenn er Klinge und Hufeisen aus dem Feuer hebt\nDie Flammen in der Esse, in den Wolken\nDer Hammer wirbelt den glühenden Schnee der Funken auf\n\n\n\n\n\n\n\n",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der erste Fund",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " vom März 1965 bestand aus drei"
+       },
+       {
+        "type": "text",
+        "text": " Ambossen, einem Meißel, vier Schmiedezangen, zwei Äxten, einer „obsta“, einem Sech, einer kleinen symmetrischen Pflugschar, einer Hacke, einer Rodehacke",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und mehreren Eisenstücken – Halbfabrikat."
+       },
+       {
+        "type": "text",
+        "text": " Der zweite Teil",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " des Sammelfundes wurde im August 1965 an derselben Stelle entdeckt. Es handelte sich um"
+       },
+       {
+        "type": "text",
+        "text": " eine Axt, eine „obsta“, eine kurze Sense",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und einen teilweise bearbeiteten"
+       },
+       {
+        "type": "text",
+        "text": " Eisenbarren.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Schmied von Vršatec nach Tomáš Humaj",
+    "alt": "Der Schmied von Vršatec nach Tomáš Humaj",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der gesamte Komplex der gefundenen Gegenstände bildet ein organisches Ganzes, sodass wir die Möglichkeit völlig ausschließen können, dass es sich um ein Lager von Eisengegenständen handelt, die als Schrott zur weiteren Verarbeitung bestimmt gewesen wären. Es ist also eindeutig, dass in Vršatecké Podhradie Werkzeuge und fertige Erzeugnisse entdeckt wurden, die aus einer alten Schmiedewerkstatt stammen, wobei wir diesen Fundkomplex in das Ende des 9., beziehungsweise den Beginn des 10. Jahrhunderts datieren können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nie vergaß Jasmuz, worauf man achten muss",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Sich den Mächten zu beugen, die die Ordnung des Waldes hüten",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Sich den Bäumen zu beugen, mit deren Holz er einheizte",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Er dankte für die Kräuter und den Honig der wilden Bienen",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Licht der politischen Ereignisse jener Zeit betrachtet, ist die Schmiedewerkstatt aus Vršatecké Podhradie entweder die Werkstatt eines großmährischen Schmieds, der mit seinen Erzeugnissen die Umgebung dieses Randgebiets Großmährens versorgte, oder die Werkstatt eines Schmieds, der nach den Einfällen der Altungarn oder innerer Feinde zu Beginn des 10. Jahrhunderts das tiefer gelegene, bedrohte Gebiet des Großmährischen Reiches verließ und in ein geschütztes Gebirgstal umzog, um dort mit der Herstellung seiner Erzeugnisse fortzufahren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion der Schmiedewerkstatt von B. Klíma (Mikulčice)",
+    "alt": "Rekonstruktion der Schmiedewerkstatt von B. Klíma (Mikulčice)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es stellt sich noch die Frage, ob wir in der Nähe ein Zentrum der Eisenverhüttung annehmen können, oder ob das Eisen in Form sogenannter axtförmiger Eisenbarren (einer stammt auch aus unserem Fund) aus entfernteren Gebieten eingeführt wurde, und zwar entweder aus der Gegend von Uničov oder aus dem Slowakischen Erzgebirge. Es ist jedoch bekannt, dass unweit von Vršatecké Podhradie am Nordhang des Berges Hašková in der Neuzeit Eisenerz abgebaut wurde. Vielleicht war diese Lagerstätte bereits in der Zeit Großmährens oder noch früher bekannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie stellte sie der Schmied her?",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Äxte, Messer, Waffen",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "So leuchten die Werkzeuge in der Esse",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Das glühende Eisen wird abgetrennt",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Bis die Formen zu brillanten Kostbarkeiten reifen",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Betrachten wir genauer die Art der Herstellung der Axt von Vršatec, an der wir die Technologie der Herstellung von Gegenständen dieses Typs in der Zeit Großmährens aufzeigen. Die Axt ist gut erhalten. Die gestreckte Form verbreitert sich in Richtung zur Schneide. Der Nacken ist rechteckig. Die Länge der Axt beträgt 205 mm, die Breite der Schneide 65 mm. Die Art und der Ablauf ihrer Herstellung waren folgende. Die Axt wurde aus einem flachen Streifen geschmiedet, der an der Stelle der Öffnung für den Stiel zu einer Öse gebogen und im Arbeitsteil erneut zusammengeschmiedet wurde, und zwar noch mit einem weiteren Materialplättchen zur Vergrößerung der Dicke zwischen der Öffnung und der Schneide. Die Verbreiterung der Schneide wurde durch Ausschmieden in die Breite erreicht, wodurch sich die einzelnen Plättchen in Richtung zur Schneide verjüngen. Die Axt wurde aus zwei Materialien mit unterschiedlichem Kohlenstoffgehalt geschmiedet. Der Teil mit dem höheren prozentualen Kohlenstoffgehalt wurde als der härtere verständlicherweise für die Schneide der Axt verwendet. Das Eisen wurde bei der Bearbeitung durch Schmieden auf eine hohe Temperatur erhitzt und dann relativ schnell abgekühlt. Eine andere Art der Wärmebehandlung wurde nicht beobachtet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Inventar der Schmiedewerkstatt von Vršatec",
+    "alt": "Das Inventar der Schmiedewerkstatt von Vršatec",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der gefundene teilweise bearbeitete Eisenbarren ist ein Plättchen geschmiedeten Eisens, das sich zu beiden Enden hin verjüngt; seine Länge beträgt 168 mm. Bei der Prüfung der Mikroreinheit wurden ähnliche Verunreinigungen wie bei der Axt festgestellt. Der ganze Gegenstand ist aus einem Stück Eisen hergestellt, sodass keine Unterschiede im Kohlenstoffgehalt wie bei der Axt festgestellt wurden und das Gefüge homogen ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kurze Sense mit einer Länge von 310 mm hat eine gestreckte Form mit rechteckigem Querschnitt. Am Arbeitsende ist sie stumpf abgeschlossen, das andere Ende verjüngt sich leicht bis zu der Stelle, an der es sich biegt und sich scharf zu einem Dorn verjüngt, der zum Aufsetzen des Stiels diente. Die Sense ist aus zwei verschiedenen Eisenplättchen gefertigt, von denen jedes einen anderen Kohlenstoffgehalt hat. Im Querschnitt ist zu sehen, dass es sich um zwei flach zusammengeschmiedete Materialien handelt, wobei die obere Schicht aus beinahe reinem Eisen besteht, während der untere Teil ein ferritisch-perlitisches Gefüge hat. Aus diesen Tatsachen schließen wir, dass dem Schmied von Vršatec bereits zur Zeit der Herstellung dieser Sense die Tatsache bekannt war, dass Eisen mit höherem Kohlenstoffgehalt eine größere Härte hat. Eine ähnliche Erscheinung konnten wir schon bei der Axt verfolgen. Deshalb wurden die Eisenplättchen mit höherem Kohlenstoffgehalt auf die Schneide der Werkzeuge gelegt. In diesem Werkzeug wurde eine relativ geringe Menge an Verunreinigungen festgestellt, die Beimengungen und Oxide zwischen den beiden Metallschichten bilden würden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die „obsta“ ist ein Werkzeug in U-Form mit einer Länge von 165 mm, mit parallelen Armen, die sich konisch zu Spitzen verjüngen, auf die Griffe aufgetrieben waren. Das ganze Werkzeug wurde aus einem Stück Material geschmiedet. Bei der Prüfung der Mikroreinheit wurde eine erhebliche Menge an Verunreinigungen festgestellt. Die Feinheit des Gefüges deutet darauf hin, dass der Gegenstand bei niedriger Temperatur fertiggeschmiedet wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Im ganzen Land gelobt\nDas Schmiedewerk dieses Greises\nDer so verwachsen mit der Waldwelt war\nSchmiedete sein Herz an alle Ambosse der Stille",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir haben also festgestellt, dass der slawische Schmied in Vršatecké Podhradie bereits die Methode kannte, den härteren (kohlenstoffreicheren) Teil des Eisens auf den funktionalen Teil des Werkzeugs aufzuschweißen (Axt, kurze Sense). Wir haben die Art der Herstellung der Axt aus mehreren Streifen Rohmaterial kennengelernt, wir haben festgestellt, dass das Erzeugnis vor dem Schmieden auf eine hohe Temperatur erhitzt wurde, weiter haben wir festgestellt, dass einige, vor allem kleine und dünne Gegenstände erst bei niedriger Temperatur fertiggeschmiedet wurden (bei der sogenannten „obstarávacia“ Temperatur). Ebenso haben wir einige technologische Mängel gesehen, wie zum Beispiel die Menge an Verunreinigungen im Eisen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "Eines Tages – warum ward die Stille zerstört\nDa kam jemand geritten, trug sich hoch und stolz\nVon dort oben blickte er auf den Mann, auf Jasmuz\nSein Ross ein Bettler, ohne Eisen am Hinterfuß\n\nStumpfe Wachen ohne Gefühl dienen nun dem Prinzen treu\nUnd der verlangt, der Wahnsinnige, für alle die gleiche Rüstung\nTrotz aller bösen Schmach bewahrt Jasmuz noch sein Gesicht\nSo darf dem Schmied nur ein wahrer König befehlen",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum ging er?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Sense und der teilweise bearbeitete Eisenbarren",
+    "alt": "Die Sense und der teilweise bearbeitete Eisenbarren",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer war jener rätselhafte Schmied von Vršatec? Wurde er direkt unter den malerischen Felsen von Vršatec geboren, oder versteckte er sich in dem Tal nur vor dem Wüten der wilden altungarischen Horden im Süden? Wen belieferte er mit seinen Erzeugnissen? War seine Schmiedekunst in der weiten Umgebung bekannt? Und wo hat er sie gelernt? Warum stellte er seinen letzten Eisenbarren nicht fertig? Welches Schicksal traf diesen wichtigen Mann und seine Angehörigen? Wie ist es möglich, dass nach seinem Tod bzw. nach seinem Weggang aus der Schmiedewerkstatt niemand in sie zurückkehrte und das Schmiedehandwerk fortsetzte? Wenn der Vršatec damals von einem Feind erobert wurde, ist umso unverständlicher, warum die Sieger die wertvollen Werkzeuge und Erzeugnisse des Schmieds nicht mitnahmen, sondern sie unberührt an ihrem Platz ließen? War der Hortfund von Eisengegenständen, der auf dem Burgwall in Pružina, nur wenige Kilometer von Vršatec entfernt, gefunden wurde, das Werk unseres Schmieds von Vršatec? Fragen, Fragen, Fragen. Auf die letzte wüsste eine metallographische Analyse des Hortfundes von Pružina eine Antwort zu geben. Auf die meisten von ihnen werden wir jedoch wohl keine eindeutigen Antworten mehr finden. Oder versuchen Sie es?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Schmied von Vršatec aus der Zeit Großmährens",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.poem",
+    "text": "Jasmuz schläft schon...\nJasmuz schläft schon...\nDer Tag schien zu dunkeln und leuchtet doch\nRöri hebt den verwundeten Leib\nHinter der Regenbogenbrücke ist eine andere Welt\nDer Tod setzt sich in das Gesicht des Greises\nEs war die verräterische Wache in des Prinzen Dienst\nDie mit tödlichem Streich die Hoffnung aller trübt\nDer Schmied flüstert dann unter Tränen eine Entschuldigung\n„Vergib, Herrin, dass ich die Ruhe gestört habe.“ Unter der Zaubertanne legt sich Jasmuz zum Schlaf Frei versank er in den Traum Die Esse erlosch wie der Glanz in Jasmuz’ Augen Nie mehr speit sie einen Schwarm glühender Funken Die Hämmer schlagen nicht mehr wie das warme Herz des Schmieds Nie mehr fertigt er eine Zauberrüstung Die Schmiede kühlte aus wie die Arme des Greises Nie mehr erklingt in diesem Raum das Klirren der Werkzeuge Im Grünen Hain legte sich auf alle die Trauer Jasmuz entschlief, gab seinen Reichtum hin... Jasmuz schläft schon... Jasmuz schläft schon...",
+    "title": null,
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

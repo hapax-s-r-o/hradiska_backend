@@ -1,0 +1,350 @@
+{
+ "slug": "zeleznik-dolne-oresany",
+ "data": {
+  "title": "Železník – eine mittelalterliche Höhenburg der Falschmünzer bei Dolné Orešany",
+  "slug": "zeleznik-dolne-oresany-hoehenburg-falschmuenzer",
+  "excerpt": "Auf dem kegelförmigen Železník bei Dolné Orešany in den Kleinen Karpaten bestand vom 11. bis zum 15. Jahrhundert eine Höhenburg mit einer Siedlungsterrasse rund um den ganzen Berg. Berühmt ist sie durch etwa 2000 Falschmünzen nach dem Vorbild der Wiener Pfennige – in einem dokumentierten Blockbau arbeitete offenbar eine Falschmünzerwerkstatt. Zahlreiche Militaria, darunter Pfeile, Sporen und ein Teil eines Kettenhemdes, sprechen für eine militärische Zerstörung am Ende des 13. Jahrhunderts.",
+  "metaTitle": "Železník – mittelalterliche Höhenburg der Falschmünzer",
+  "metaDescription": "Die Höhenburg Železník bei Dolné Orešany in den Kleinen Karpaten: 2000 Falschmünzen nach Wiener Vorbild, Militaria und eine umlaufende Siedlungsterrasse.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Gemarkung der Gemeinde Dolné Orešany, im Tal der Parná",
+    "icon": "map"
+   },
+   {
+    "label": "Form des Berges",
+    "value": "Markanter kegelförmiger Berg mit recht steilen Hängen",
+    "icon": "mountain"
+   },
+   {
+    "label": "Befestigung",
+    "value": "Siedlungsterrasse um den ganzen Berg, an den Rändern ursprünglich durch eine hölzerne Palisade befestigt",
+    "icon": "shield"
+   },
+   {
+    "label": "Falschmünzen",
+    "value": "Etwa 2000 Falschmünzen nach dem Vorbild der Wiener Pfennige in verschiedenen Herstellungsstadien",
+    "icon": "star"
+   },
+   {
+    "label": "Falschmünzerwerkstatt",
+    "value": "Befand sich offenbar in dem dokumentierten Blockbau auf dem Gipfel der Höhenburg",
+    "icon": "building"
+   },
+   {
+    "label": "Militaria aus der Ausgrabung",
+    "value": "6 eiserne Pfeile und 3 Sporen, gefunden vor allem am südwestlichen Hang beim vermuteten Tor",
+    "icon": "shield"
+   },
+   {
+    "label": "Weitere Funde",
+    "value": "Zwei gotische Schlüssel, Schnallen, Messer, Fragmente mittelalterlicher Münzen, ein Knopf und blütenförmige Zierbeschläge",
+    "icon": "star"
+   },
+   {
+    "label": "Benachbarte Befestigungen",
+    "value": "In der Nähe liegen die kleinen Burgen Vápenná und Vápenica, die eine ähnliche Wachfunktion erfüllten",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Äneolithikum",
+    "title": "Erste Besiedlung (Ludanice-Gruppe)",
+    "description": "Auf dem Železník und in seiner Umgebung siedelten bereits Menschen in der Zeit der Ludanice-Gruppe (frühes Äneolithikum).",
+    "type": "era"
+   },
+   {
+    "year": "Mittel- bis Spätbronzezeit",
+    "title": "Besiedlung in der Bronzezeit",
+    "description": "Die Höhenburg wurde auch in der Mittel- bis Spätbronzezeit genutzt, aus der einige Metallfunde stammen.",
+    "type": "era"
+   },
+   {
+    "year": "Hallstattzeit",
+    "title": "Besiedlung in der Hallstattzeit",
+    "description": "Die Fundstelle wurde auch in der Hallstattzeit genutzt.",
+    "type": "era"
+   },
+   {
+    "year": "11.–15. Jahrhundert",
+    "title": "Hochmittelalterliche Besiedlung",
+    "description": "Am stärksten besiedelt war die Höhenburg im Mittelalter, und zwar etwa vom 11. bis zum 15. Jahrhundert.",
+    "type": "era"
+   },
+   {
+    "year": "13. Jahrhundert",
+    "title": "Angriff des Heeres von Přemysl Otakar II.",
+    "description": "Es ist begründet anzunehmen, dass der Železník im 13. Jahrhundert das Ziel eines Angriffs eines der damaligen Heere war, höchstwahrscheinlich des Heeres von Přemysl Otakar II., dem die Zerstörung mehrerer kleiner Burgen im Gebiet der Kleinen Karpaten zugeschrieben wird, zum Beispiel der kleinen Burg Altenburg in Pezinok.",
+    "type": "battle"
+   },
+   {
+    "year": "Ende des 13. Jahrhunderts",
+    "title": "Militärische Zerstörung der Höhenburg",
+    "description": "Die Funde relativ zahlreicher Militaria (eiserne Pfeile, Sporen, die Parierstange eines Hiebmessers) sprechen für eine mögliche militärische Zerstörung der Höhenburg am Ende des 13. Jahrhunderts.",
+    "type": "destruction"
+   },
+   {
+    "year": "1990er Jahre",
+    "title": "Ausgrabung von Zdenek Farkaš",
+    "description": "Auf der Höhenburg grub in den 1990er Jahren Zdenek Farkaš; dabei wurden etwa tausend Gegenstände im Zusammenhang mit der Münzfälschung festgestellt, darunter ein Fragment eines Kettenhemdes.",
+    "type": "discovery"
+   },
+   {
+    "year": "2018–2020",
+    "title": "Archäologische Ausgrabung des SNM",
+    "description": "Das Slowakische Nationalmuseum führte unter der Leitung von Pavol Jelínek eine archäologische Ausgrabung durch, an der sich im Rahmen freiwilliger Tätigkeit auch der Verein Hradiská beteiligte und eine Menge Funde vor allem aus dem Mittelalter entdeckte.",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6415,
+    "alt": "Luftbild einer schneebedeckten bewaldeten Anhöhe mit den Konturen der Befestigung"
+   },
+   {
+    "mediaId": 2416,
+    "alt": "LiDAR-Schummerungsbild mit einer kreisförmigen Befestigung und Gräben"
+   },
+   {
+    "mediaId": 2417,
+    "caption": "Auf dem Luftbild ist die Siedlungsterrasse hervorragend zu erkennen, an deren Rand eine hölzerne Palisade zum Schutz der Höhenburg gestanden haben könnte",
+    "alt": "Auf dem Luftbild ist die Siedlungsterrasse hervorragend zu erkennen, an deren Rand eine hölzerne Palisade zum Schutz der Höhenburg gestanden haben könnte"
+   },
+   {
+    "mediaId": 2418,
+    "caption": "Blick auf die Höhenburg von Norden",
+    "alt": "Blick auf die Höhenburg von Norden"
+   },
+   {
+    "mediaId": 2419,
+    "alt": "Der Hang der Höhenburg im unbelaubten Buchenwald"
+   },
+   {
+    "mediaId": 2420,
+    "caption": "Kettenrüstung vom Železník",
+    "alt": "Kettenrüstung vom Železník"
+   },
+   {
+    "mediaId": 2421,
+    "caption": "Falschmünzen, Blechabschnitte und 2 Fragmente von Silbermünzen. Darunter der typische mittelalterliche Rand eines Keramikgefäßes",
+    "alt": "Falschmünzen, Blechabschnitte und 2 Fragmente von Silbermünzen. Darunter der typische mittelalterliche Rand eines Keramikgefäßes"
+   },
+   {
+    "mediaId": 2422,
+    "caption": "Ein Schlüssel, 2 Pfeile und 2 Falschmünzen",
+    "alt": "Ein Schlüssel, 2 Pfeile und 2 Falschmünzen"
+   },
+   {
+    "mediaId": 2423,
+    "caption": "Mittelalterliche Keramik aus der Hauptburg der Höhenburg",
+    "alt": "Mittelalterliche Keramik aus der Hauptburg der Höhenburg"
+   },
+   {
+    "mediaId": 2424,
+    "caption": "Älterer Typ eines Reitersporns",
+    "alt": "Älterer Typ eines Reitersporns"
+   },
+   {
+    "mediaId": 2425,
+    "caption": "Jüngerer Typ eines Reitersporns (14./15. Jahrhundert)",
+    "alt": "Jüngerer Typ eines Reitersporns (14./15. Jahrhundert)"
+   },
+   {
+    "mediaId": 2426,
+    "caption": "Eine Auswahl von Funden – ein Knopf, die Parierstange eines Hiebmessers, ein Messer, Pfeile, Zierbeschläge, Falschmünzen und offenbar ein Ring aus einem Kettenhemd",
+    "alt": "Eine Auswahl von Funden – ein Knopf, die Parierstange eines Hiebmessers, ein Messer, Pfeile, Zierbeschläge, Falschmünzen und offenbar ein Ring aus einem Kettenhemd"
+   },
+   {
+    "mediaId": 2427,
+    "caption": "Der vorgelagerte Wall mit Graben",
+    "alt": "Der vorgelagerte Wall mit Graben"
+   },
+   {
+    "mediaId": 2428,
+    "alt": "Der mit Laub bedeckte Graben der Höhenburg zwischen den Bäumen"
+   },
+   {
+    "mediaId": 2429,
+    "alt": "Der Wall der Höhenburg mit gefallenem Laub im Frühling"
+   },
+   {
+    "mediaId": 2430,
+    "alt": "Der Wallkörper am Hang im unbelaubten Wald"
+   },
+   {
+    "mediaId": 2431,
+    "alt": "Lichter Wald auf der Fläche der Höhenburg"
+   },
+   {
+    "mediaId": 2432,
+    "alt": "Der Wall der Höhenburg im nebligen unbelaubten Wald"
+   },
+   {
+    "mediaId": 2433,
+    "alt": "Eine nach dem Holzeinschlag abgeholzte Fläche auf der Höhenburg"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhenburg Železník liegt in der Gemarkung der Gemeinde Dolné Orešany. Der beste Zugang führt jedoch über Horné Orešany: Sie durchfahren das Dorf und biegen hinter dem Ort in Richtung Lošonec und anschließend nach Majdán ab, wo Sie Ihr Auto in der Lage Olšovský mlyn auf einem kleinen Parkplatz abstellen und dann der grün markierten Wanderroute entlang des Husí stok folgen. Nach etwa 25 Minuten leichter Wanderung auf der Asphaltstraße – vorbei an dem erwähnten Husí stok, an der kleinen Burg Vápenná und entlang einer aufgelassenen Kleinbahn – erscheint vor Ihnen links ein markanter kegelförmiger Berg mit recht steilen Hängen, der den Namen Železník trägt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Železník (Dolné Orešany)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu ihr führt ein bis heute sichtbarer alter Weg, der senkrecht von der heutigen Asphaltstraße ausgeht und von Norden nach Süden verläuft, wobei er nach einigen Dutzend Metern nach rechts abzubiegen beginnt und langsam schräg über die Höhenlinien um den Berg herum bis zum Gipfel hinaufzieht. Im südwestlichen Teil, etwa in der oberen Hälfte des Hanges, führt der Weg über eine interessante kleine Plattform, auf der mehrere Funde aus dem Mittelalter entdeckt wurden und auf der möglicherweise das Eingangstor zur Höhenburg selbst stand. Diese meine Annahme ist jedoch bislang durch die Ausgrabungen nicht exakt belegt. Nicht weit von dieser Stelle geht der Weg dann fließend in eine markante Siedlungsterrasse über, die an den Rändern ursprünglich wohl durch eine hölzerne Palisade befestigt war und sich um den ganzen Berg herumzieht. Den Gipfel des Železník bildet eine verhältnismäßig ebene Fläche, auf der ursprünglich wohl hölzerne Gebäude standen. Spuren einer mittelalterlichen Steinarchitektur wurden bisher nicht gefunden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Höhenburg liegt im Tal der Parná, durch das in der Vergangenheit wohl einer der Wege nach Westen führte, und zwar nach Sološnica beziehungsweise Rohožník, woraus sich ganz zweifellos vor allem ihre strategische Wachfunktion ergibt. Eine ähnliche Funktion erfüllte wohl auch die einige hundert Meter entfernte Befestigung Vápenica. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dieser Höhenburg führte in den 1990er Jahren Zdenek Farkaš eine Ausgrabung durch, und in den Jahren 2018 bis 2020 unternahm hier das Slowakische Nationalmuseum (SNM) unter der Leitung von Pavol Jelínek eine archäologische Ausgrabung, an der sich unser Bürgerverein Hradiská im Rahmen seiner freiwilligen Tätigkeit beteiligte. Während der Ausgrabung entdeckten wir eine Menge sehr interessanter Funde, vor allem aus dem Mittelalter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Auf dem Luftbild ist die Siedlungsterrasse hervorragend zu erkennen, an deren Rand eine hölzerne Palisade zum Schutz der Höhenburg gestanden haben könnte",
+    "alt": "Auf dem Luftbild ist die Siedlungsterrasse hervorragend zu erkennen, an deren Rand eine hölzerne Palisade zum Schutz der Höhenburg gestanden haben könnte",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Železník und in seiner Umgebung siedelten bereits Menschen in der Zeit der Ludanice-Gruppe (frühes Äneolithikum), und später nutzten sie ihn in der Mittel- bis Spätbronzezeit, aus der einige Metallfunde stammen, sowie in der Hallstattzeit. Am stärksten besiedelt war er jedoch im Mittelalter, und zwar etwa vom 11. bis zum 15. Jahrhundert, wobei begründet anzunehmen ist, dass er im 13. Jahrhundert das Ziel eines Angriffs eines der damaligen Heere war, höchstwahrscheinlich des Heeres von Přemysl Otakar II., dem wir die Zerstörung mehrerer kleiner Burgen im Gebiet der Kleinen Karpaten zuschreiben, zum Beispiel der kleinen Burg Altenburg in Pezinok (Bösing). Aus gesamtslowakischer Sicht ist die Höhenburg dadurch interessant, dass auf ihrem Gipfel und an ihren Hängen etwa 2000 Falschmünzen nach dem Vorbild der Wiener Pfennige in verschiedenen Herstellungsstadien gefunden wurden. Hergestellt wurden sie aus Bronzegefäßen, die schrittweise in lange Streifen geschnitten wurden; aus diesen schnitt man quadratische „Schrötlinge“ heraus, prägte darauf ein undeutliches Quadrat und versilberte sie schließlich. Mehr als 20 dieser Falschmünzen entdeckten wir auch während unserer Ausgrabung. Die Falschmünzerwerkstatt befand sich offenbar in dem dokumentierten Blockbau. Der Täter war also wohl der örtliche Burgherr. Insgesamt wurden hier bei der Ausgrabung in den 1990er Jahren etwa tausend Gegenstände festgestellt, auf deren Grundlage sich der gesamte Prozess der Geldfälschung rekonstruieren lässt – von der Herstellung der Münzplättchen bis zu ihrer Prägung. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde relativ zahlreicher Militaria sprechen für eine mögliche militärische Zerstörung der Höhenburg am Ende des 13. Jahrhunderts. Auch während unserer Ausgrabung fanden wir vor allem am südwestlichen Hang der Höhenburg in der Nähe des vermuteten Tores insgesamt 6 eiserne Pfeile, die für das Hochmittelalter typisch sind, sowie insgesamt 3 Sporen, von denen zwei vorläufig in das 12.–13. Jahrhundert und einer in das 15. Jahrhundert datiert werden können. In diese Zeit können wir auch die Parierstange eines Hiebmessers einordnen. Darüber hinaus wurde auf der Höhenburg in den 1990er Jahren ein Teil eines Kettenhemdes gefunden, was ein verhältnismäßig seltener Fund aus dem Mittelalter ist. Während unserer Ausgrabung wurden auf der Höhenburg außerdem zwei sehr schön erhaltene gotische Schlüssel, Schnallen, Messer, zwei Fragmente mittelalterlicher Münzen, ein Knopf, blütenförmige Zierbeschläge und weitere Funde entdeckt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Besonderheit ist auch der vorgelagerte Wall mit einem tiefen Graben am südlichen Fuß der Höhenburg. Zdenek Farkaš gibt an, dass der Wall offenbar nicht fertiggestellt wurde, und nimmt seine Entstehung in der Bronzezeit an. In seiner unmittelbaren Umgebung gelang es uns nicht, Funde zu entdecken, die ihn näher datieren könnten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Blick auf die Höhenburg von Norden",
+    "alt": "Blick auf die Höhenburg von Norden",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Höhenburg hat ein großes Genius loci und ich empfehle jedem einen Besuch. Bislang steht auf ihr keine Informationstafel, ich nehme aber an, dass unser Verein Hradiská künftig eine erstellen wird…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

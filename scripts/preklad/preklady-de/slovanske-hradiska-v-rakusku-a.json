@@ -1,0 +1,465 @@
+{
+ "slug": "slovanske-hradiska-v-rakusku-a",
+ "data": {
+  "title": "Slawische Burgwälle in Österreich (A) – Wachposten an der Grenze zur Mark im Osten",
+  "slug": "slawische-burgwaelle-oesterreich-raabs",
+  "excerpt": "Drahoslav Hulínek rechnet im Sammelband Bitka pri Bratislave die befestigten Siedlungen Niederösterreichs nördlich der Donau zu den typischen frühmittelalterlichen Wachburgwällen im Grenzraum zwischen dem mährischen Teil Großmährens und der Mark im Osten. Sechs Fundstellen stellt dieser Beitrag vor – von Sand bei Raabs an der Thaya, das im 3. Viertel des 10. Jahrhunderts nach einem Überfall der Altungarn im Feuer unterging, bis zu urgeschichtlichen Höhenlagen, die die Slawen nur neu nutzten.",
+  "metaTitle": "Slawische Burgwälle in Österreich – Wacht an der Grenze zur Mark",
+  "metaDescription": "Frühmittelalterliche slawische Wachburgwälle in Niederösterreich nördlich der Donau, im Grenzraum zwischen Großmähren und der Mark im Osten.",
+  "keyFacts": [
+   {
+    "label": "Anzahl der beschriebenen Burgwälle in Niederösterreich",
+    "value": "6 Fundstellen – Sand bei Raabs, Maissau-Limberg, Oberleis-Oberleiserberg, Stein an der Donau, Senftenberg, Langenlois-Schiltern",
+    "icon": "map"
+   },
+   {
+    "label": "Sand bei Raabs – nördlicher Graben und Mauer",
+    "value": "Graben 2,4 m breit und 2 m tief, dahinter eine Mauer aus trocken gesetzten Steinen von etwa 2,4 m Höhe",
+    "icon": "shield"
+   },
+   {
+    "label": "Sand bei Raabs – langgestreckter Blockbau",
+    "value": "Länge knapp 18 m, Breite 7 m am östlichen und 4 m am westlichen Ende, mit einer Feuerstelle in der Mitte",
+    "icon": "building"
+   },
+   {
+    "label": "Sand bei Raabs – Untergang des Burgwalls",
+    "value": "ging etwa im 3. Viertel des 10. Jahrhunderts nach einem Überfall der Altungarn und einem anschließenden Brand unter",
+    "icon": "star"
+   },
+   {
+    "label": "Oberleis-Oberleiserberg – Höhe über dem Meer",
+    "value": "454 m ü. M., ursprünglich eine urgeschichtliche befestigte Siedlung, von den Slawen sekundär als Wachpunkt genutzt",
+    "icon": "mountain"
+   },
+   {
+    "label": "Maissau-Limberg – Lage Heidenstatt",
+    "value": "etwa 288 m ü. M., ursprünglich eine urgeschichtliche befestigte Höhensiedlung mit überwiegend keramischem Fundmaterial",
+    "icon": "mountain"
+   },
+   {
+    "label": "Stein an der Donau und Senftenberg",
+    "value": "beide liegen im Bezirk Krems an der Donau im östlichen Waldviertel und erfüllten eine Wachfunktion",
+    "icon": "map"
+   },
+   {
+    "label": "Fund auf dem Burghügel bei Raabs",
+    "value": "Fläche von 14 x 11 m mit Bruchsteinen – gedeutet als Bau mit steinerner Untermauerung und hölzernem Aufbau",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Anfang des 10. Jahrhunderts",
+    "title": "Entstehung des Burgwalls Sand bei Raabs",
+    "description": "Der slawische Burgwall Sand bei Raabs an der Thaya entstand am Anfang des 10. Jahrhunderts, wahrscheinlich als lokales Zentrum, gegebenenfalls mit einer Wachfunktion.",
+    "type": "founding"
+   },
+   {
+    "year": "3. Viertel des 10. Jahrhunderts",
+    "title": "Untergang des Burgwalls Sand bei Raabs",
+    "description": "Der Burgwall wurde offenbar von den Altungarn überfallen und ging bei einem Brand unter, bei dem die Mauer auf die Holzbauten stürzte.",
+    "type": "destruction"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Senftenberg an der Grenze Großmährens",
+    "description": "Das Gebiet mit dem Burgwall von Senftenberg konnte im 9. Jahrhundert ein Teil Großmährens sein, beziehungsweise war es ein Übergangsgebiet zwischen der Mark im Osten, Bayern und Mähren.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6412,
+    "alt": "Fragmente eines Tongefäßes mit Wellenbandverzierung und eine eiserne Lanzenspitze auf weißem Hintergrund"
+   },
+   {
+    "mediaId": 2276,
+    "alt": "Plan der oberen und der unteren Terrasse der Fundstelle Sand mit eingezeichneten Funden"
+   },
+   {
+    "mediaId": 2277,
+    "alt": "Fragmente eines Tongefäßes und ein eisernes Messer auf weißem Untergrund"
+   },
+   {
+    "mediaId": 2278,
+    "alt": "Eisernes Messer mit langer Klinge auf weißem Untergrund"
+   },
+   {
+    "mediaId": 2279,
+    "alt": "Höhenlinienplan des Burgwalls Sand mit eingezeichneter Bebauung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie Drahoslav Hulínek im Sammelband Bitka pri Bratislave anführt, waren wahrscheinlich die befestigten Siedlungen im Gebiet Niederösterreichs nördlich der Donau typische frühmittelalterliche Wachburgwälle, die sich im weiteren Grenzraum zwischen dem mährischen Teil Großmährens und der Mark im Osten (Marcha orientalis) ausbreiteten. Es handelt sich um einen politisch und machtpolitisch instabilen Gebietsraum, in dem die dominierende Funktion eines lokalen Zentrums der schon erwähnte Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/gars-thunau-velkomoravske-hradisko-v-rakusku",
+        "children": [
+         {
+          "type": "text",
+          "text": "Gars/Thunau"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " innehatte. Es war ein Mähren sehr nahes Gebiet, das einige Zeit auch Teil des großmährischen Staates war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sand bei Raabs an der Thaya",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall liegt etwa 1,5 km von der Burg Raabs entfernt in der Gemarkung der Gemeinde Oberpfaffendorf. Es handelt sich um eine kleine Spornfundstelle in einer Bucht der Thaya. Dieser slawische Burgwall konnte die Funktion eines lokalen Zentrums, gegebenenfalls eine Wachfunktion erfüllen, er entstand jedoch erst am Anfang des 10. Jahrhunderts. Etwa im 3. Viertel des 10. Jahrhunderts wurde er offenbar von den Altungarn überfallen und ging bei einem Brand unter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Struktur des Burgwalls und seine Fortifikation"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Slawische Burgwälle in Österreich (A)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die nördliche Terrasse war durch Gräben und Wälle geschützt. Der Graben war 2,4 m breit und 2 m tief. Hinter dem Graben befand sich eine Mauer aus trocken gesetzten Steinen. Die ursprüngliche Höhe der Mauer betrug etwa 2,4 m. Unmittelbar an der Innenseite dieser Mauer standen hölzerne Häuschen. Vor der unteren Siedlungsterrasse befand sich ebenfalls, hinter einer Berme, ein verhältnismäßig flacher, nur einen Meter tiefer und drei Meter breiter Graben. Dieser wurde jedoch in der zweiten Phase zugeschüttet, und an seiner Stelle wurde ein mit kleinen Bruchsteinen gepflasterter Weg angelegt. Auf der südlichen Terrasse befanden sich ebenfalls Wälle. Der äußere von ihnen bestand aus einer Steinmauer mit hölzerner Verstärkung. Die Innenwand des Walles war aus waagerecht liegenden Balken gebildet. Die Konstruktion lag stellenweise auf einem hölzernen Rost. Hinter dieser Befestigung befanden sich Bauten ohne Heizvorrichtung. Der innere Wall war aus einer 1,5 m breiten, trocken gesetzten Mauer von 2,4 m Höhe gebildet. An die Wand waren wiederum, nicht ganz zusammenhängend, Pfosten- und Blockbauten angebaut. Am westlichen Ende der Terrasse befand sich ein Tor. Am westlichen Hang des Burgwalls – dem sogenannten Burghügel – befanden sich eine Palisade und hinter ihr eine trocken gesetzte Wand, an die wiederum Wohnbauten angebaut waren, die sich auf einer Länge von 2 m kasemattenartig an sie anschlossen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bauten"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Häuser im nördlichen Teil des Sporns waren unmittelbar an der Innenseite des Walles errichtet. Auf der westlichen Seite befand sich ein trapezförmiges Blockhaus mit kuppelförmigen Öfen, das durch Balkenreste belegt ist. An diesen Bau schließt auf der östlichen Seite ein langgestreckter Bau von knapp 18 m Länge an. Er war aus senkrechten Pfosten und Blockwänden errichtet. Das Haus weitet sich im Osten trapezförmig aus, an der breitesten Stelle verlief eine Reihe von Mittelpfosten. Am östlichen Ende hat das Haus eine Breite von 7 m, am westlichen von 4 m, und in der Mitte des Baus befand sich eine Feuerstelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Slawische Burgwälle in Österreich (A)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bauten gingen durch einen Brand unter, bei dem die Mauer auf die Holzbauten stürzte. Nach dem Brand blieben Reste verkohlter Holzbalken, die überwiegend von den südlichen Wänden der Holzhäuser stammen. Im westlichen Teil des Walles stand an der Innenseite der Steinmauer ein Holzbau mit einer Breite von 2,3 m. Seine nördliche hölzerne Schwelle war verkohlt. Nördlich des oben genannten Baus und östlich wiederum unmittelbar an der Innenseite des Walles wurde eine Kulturschicht der Besiedlung freigelegt, die im Norden eine trocken gesetzte, größtenteils eingestürzte Mauer begrenzte. Die Mauer war von der Außenseite von einem etwa einen Meter breiten gepflasterten Weg begleitet. In der Mitte der Terrasse weitet sich die Siedlungsfläche nach Norden hin aus. Hier treten kleine Pfostengruben auf, sodass es recht wahrscheinlich ist, dass sich Pfostenbauten auch an diesen Stellen befanden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf einer Fläche von 14 × 11 m auf dem Burghügel wurden Bruchsteine gefunden, die teilweise auf der Kulturschicht lagen. Eine Menge großer Steine begrenzte die nördliche Seite. Die Archäologen deuten den Fund als einen Bau mit steinerner Untermauerung und hölzernem Aufbau."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere slawische Burgwälle in Österreich",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Maissau-Limberg",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Slawische Burgwälle in Österreich (A)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine ursprünglich urgeschichtliche befestigte Höhensiedlung, die im Frühmittelalter wahrscheinlich sekundär als Wachburgwall bzw. nur als Fliehburg genutzt wurde, war die Fundstelle in Maissau. Der Burgwall liegt in Limberg (etwa 288 m ü. M.), das unter der Verwaltung von Maissau steht. Die befestigte Siedlung ist in der Lage Heidenstatt bei Limberg lokalisiert. Diese Fundstelle enthielt vor allem keramisches Fundmaterial, und ihre Befestigung können wir nach ihrem Ursprung nicht für frühmittelalterlich halten. Es war eine ursprünglich urgeschichtliche befestigte Lage, die im Frühmittelalter sekundär von den Slawen besiedelt wurde. Ihre nähere gesellschaftlich-militärische Bedeutung können wir bisher nicht eindeutig genauer bestimmen. Eine weitere Untersuchung kann jedoch neue Tatsachen über diesen Burgwall verraten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Oberleis-Oberleiserberg",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Slawische Burgwälle in Österreich (A)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch die niederösterreichische Lage in Oberleis-Oberleiserberg (454 m ü. M.) in der Nähe der Stadt Korneuburg, nördlich von Ernstbrunn, wo sich ursprünglich eine urgeschichtliche befestigte Siedlung befand, nutzten die Slawen im Frühmittelalter sekundär als bedeutenden strategischen Wachpunkt. Auch wenn hier großmährisches Fundmaterial auftritt, wurde, was die Fortifikationen betrifft, bei deren Untersuchung kein frühmittelalterlicher slawischer Ursprung festgestellt. Ein baulicher Umbau der Befestigungen im Frühmittelalter ist also nicht eindeutig belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Stein an der Donau",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Frühmittelalter wurde wahrscheinlich der befestigte Burgwall Stein an der Donau (Niederösterreich, Bezirk Krems an der Donau) errichtet. Er liegt im östlichen Waldviertel, westlich der Stadt Krems (etwa 199 m ü. M.), und erfüllte eine Wachfunktion. Gebietsmäßig gehörte er entweder zum großmährischen Staatsgebilde oder zum Übergangsgebiet zwischen Großmähren und dem fränkischen staatlichen Umfeld."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Senftenberg",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer wahrscheinlich als Wachburgwall dienender Burgwall befand sich in Senftenberg (Niederösterreich, Bezirk Krems an der Donau). Mit größter Wahrscheinlichkeit handelte es sich um eine befestigte Siedlung, die im Frühmittelalter errichtet wurde. Sie befand sich in einem Gebiet, das im 9. Jahrhundert wahrscheinlich ein Teil Großmährens sein konnte bzw. ein Übergangsgebiet zwischen der Mark im Osten, Bayern und Mähren war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Langenlois-Schiltern",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Frühmittelalter wurde wahrscheinlich auch der Burgwall in Langenlois-Schiltern (etwa 219 m ü. M.; Bezirk Krems an der Donau) errichtet, der im östlichen Waldviertel, nördlich von Krems, lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
