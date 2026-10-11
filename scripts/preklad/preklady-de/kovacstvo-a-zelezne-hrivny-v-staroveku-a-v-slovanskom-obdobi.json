@@ -1,0 +1,731 @@
+{
+ "slug": "kovacstvo-a-zelezne-hrivny-v-staroveku-a-v-slovanskom-obdobi",
+ "data": {
+  "title": "Schmiedehandwerk und Eisenbarren im Altertum und in slawischer Zeit",
+  "slug": "schmiedehandwerk-und-eisenbarren-slawische-zeit",
+  "excerpt": "Die Slawen kannten von ihrer Ankunft im 5. Jahrhundert bis zum 11. Jahrhundert zwar Münzen, stellten sie aber nicht her und benutzten sie nicht als übliches Zahlungsmittel. Als anerkannte Währung und unmittelbarer Vorläufer des Geldes dienten axtförmige Eisenbarren. Der Artikel gibt einen kurzen Überblick über die Eisenverarbeitung im Altertum und im Mittelalter und über die häufigsten Barrenformen.",
+  "metaTitle": "Schmiedehandwerk und Eisenbarren in slawischer Zeit",
+  "metaDescription": "Die Slawen prägten keine Münzen, nutzten aber ein eigenes Zahlungsmittel: axtförmige Eisenbarren. Ein Blick auf Schmiedehandwerk und Eisenmetallurgie.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Axtförmige Eisenbarren als vormünzliches Zahlungsmittel in Großmähren",
+    "icon": "scroll"
+   },
+   {
+    "label": "Barrentypen",
+    "value": "Doppelspitzbarren (hallstattzeitlich), laibförmige Luppen, axtförmige Barren, Scheibe, Rute/Stange",
+    "icon": "sword"
+   },
+   {
+    "label": "Gewicht der axtförmigen Barren",
+    "value": "Drei Gruppen: 200–700 g, 80–120 g und 60–80 g",
+    "icon": "scroll"
+   },
+   {
+    "label": "Wichtigste Fundorte",
+    "value": "Bíňa, Pobedim, Bojná, Pružina, Mikulčice, Hrádok (Nové Mesto nad Váhom)",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor 3000 v. Chr.",
+    "title": "Der erste Kontakt des Menschen mit Eisen",
+    "description": "Im östlichen Mittelmeerraum wird die erste Begegnung des Menschen mit metallischem Eisen datiert, anfänglich vor allem mit meteorischem Eisen.",
+    "type": "event"
+   },
+   {
+    "year": "3.–2. Jahrtausend v. Chr.",
+    "title": "Die ersten Eisenöfen",
+    "description": "In Vorderasien und Anatolien beginnen die ersten Eisenöfen zu arbeiten, ausgerichtet vor allem auf Waffen und Gegenstände von außerordentlicher Bedeutung.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 2. Jahrtausends v. Chr.",
+    "title": "Trennung der Eisen- von der Kupfererzeugung",
+    "description": "Im östlichen Mittelmeerraum trennt sich die Technologie der Eisenerzeugung endgültig von der Kupfererzeugung.",
+    "type": "event"
+   },
+   {
+    "year": "um 8. Jh. v. Chr.",
+    "title": "Das Eisen kommt nach Mitteleuropa",
+    "description": "Die Kenntnis der Eisenverarbeitung gelangt über Makedonien und das östliche Alpenvorland in der Hallstattzeit nach Mitteleuropa.",
+    "type": "event"
+   },
+   {
+    "year": "8. Jahrhundert",
+    "title": "Eisenerzabbau in Mähren",
+    "description": "Es kommt zu einem intensiven Abbau von Eisenerz in Südmähren; die Nähe der reichen Burgwälle erleichterte seine weitere Verteilung.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Axtförmige Barren als Zahlungsmittel",
+    "description": "Axtförmige Eisenbarren werden als allgemein anerkanntes Zahlungsmittel auf dem Gebiet der Slowakei, Böhmens und Mährens verwendet – der unmittelbare Vorläufer des Geldes.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3910,
+    "caption": "Barrentypen 1,2 – Currency bar, 3,4 – Doppelspitzbarren, 5,6 – Luppen",
+    "alt": "Barrentypen 1,2 – Currency bar, 3,4 – Doppelspitzbarren, 5,6 – Luppen"
+   },
+   {
+    "mediaId": 3911,
+    "caption": "Laibförmige Luppen",
+    "alt": "Laibförmige Luppen"
+   },
+   {
+    "mediaId": 3912,
+    "caption": "Axtförmige Eisenbarren aus der Zeit Großmährens",
+    "alt": "Axtförmige Eisenbarren aus der Zeit Großmährens"
+   },
+   {
+    "mediaId": 3914,
+    "caption": "Links oben axtförmige Eisenbarren vom Burgwall Pružina (9.–10. Jahrhundert)",
+    "alt": "Links oben axtförmige Eisenbarren vom Burgwall Pružina (9.–10. Jahrhundert)"
+   },
+   {
+    "mediaId": 790,
+    "caption": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)",
+    "alt": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Barrentypen 1,2 – Currency bar, 3,4 – Doppelspitzbarren, 5,6 – Luppen",
+    "alt": "Barrentypen 1,2 – Currency bar, 3,4 – Doppelspitzbarren, 5,6 – Luppen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen kannten in der Zeit von ihrer Ankunft auf dem Gebiet der heutigen Slowakei irgendwann im 5. Jahrhundert bis zum 11. Jahrhundert zwar Münzen, da sie ihnen entweder bei Handelskontakten mit Byzanz oder bei verschiedenen Kriegszügen begegneten, doch als übliches Zahlungsmittel stellten sie sie nicht her und verwendeten sie nicht. Das bedeutet jedoch nicht, dass unsere slawischen Vorfahren keine eigene allgemein austauschbare Währung benutzten. Die Kaufleute verwendeten zur Zeit Großmährens neben Edelmetallen, Pelzen oder Leinen ein Zahlungsmittel, das man als eine Art erste Währung der Slawen bezeichnen könnte. Diese anerkannte Währung, der unmittelbare Vorläufer des Geldes auf dem Gebiet der heutigen Slowakei, waren "
+       },
+       {
+        "type": "text",
+        "text": "axtförmige Eisenbarren.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " In diesem Artikel, der größtenteils vom Server der "
+       },
+       {
+        "type": "link",
+        "url": "http://archeoforstudents.blogspot.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Studenten der Archäologie"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " übernommen ist, bringen wir Ihnen mit Zustimmung der Autoren einen kurzen Blick auf die Eisenverarbeitung im Altertum und im Mittelalter sowie auf die Entwicklung und die am häufigsten verwendeten Barrentypen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anfänge der Eisenerzeugung und die handelbaren Rohstoffe",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Beginn der Eisenerzeugung ging eine eingespielte Herstellung und Verarbeitung von Kupfer und seinen Legierungen voraus, die in Europa Wurzeln bereits seit dem Ausgang des Äneolithikums hat. Noch davor beherrschten jedoch schon im 7. bis 5. Jahrtausend v. Chr. einige Stämme im Vorderen Orient diese Technologie. Im Laufe der Bronzezeit begann sich die Erschöpfung der bis dahin bekannten Lagerstätten zu zeigen, was eine der Ursachen dafür war, dass die Menschen begannen, sich nach einem anderen Metall umzusehen, das die stetig wachsende Nachfrage befriedigen würde. Aufgrund sehr vereinzelter Funde darf man annehmen, dass die erste Begegnung des Menschen mit metallischem Eisen bereits lange vor dem Jahr 3000 v. Chr. auf dem Gebiet des östlichen Mittelmeerraumes stattfand. Anfänglich handelte es sich vor allem um meteorisches Eisen (charakteristisch durch einen hohen Nickelgehalt) oder um zufällig erzeugtes Eisen. Im dritten und zweiten Jahrtausend v. Chr. begannen die ersten Eisenöfen in Vorderasien und in Anatolien zu arbeiten, wobei es vor allem um Waffen und Gegenstände von außerordentlicher Bedeutung ging. Die Entstehung des Eisenhüttenwesens ist eng mit der eingespielten Technologie der Kupfererzeugung verbunden, bei der beim Verhütten sulfidischen Erzes Eisen als Nebenprodukt, als Abfallprodukt entsteht. Zur Trennung beider Technologien kam es zum Ende des 2. Jahrtausends v. Chr., doch es handelt sich immer noch nur um das Gebiet des östlichen Mittelmeerraumes. Die Frage, wo die Metallurgie des Eisens entstand, ist weiterhin unbeantwortet. Nach Europa gelangte die Kenntnis der Eisenerzeugung über den Mittelmeerraum, Makedonien, Nordserbien und in das östliche Alpenvorland, von wo sie sich dann frei in die übrigen Teile Mittel- und Nordeuropas verbreitete. Nach Mitteleuropa gelangte die Kenntnis der Eisenverarbeitung erst in der Hallstattzeit, um 8. Jahrhundert v. Chr."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Laibförmige Luppen",
+    "alt": "Laibförmige Luppen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Mitteleuropa und somit auch auf dem Gebiet der heutigen Slowakei entstanden im 8.–9. Jahrhundert n. Chr. spezialisierte Dörfer unmittelbar in der Umgebung der Eisenerzlagerstätten. In diesen Dörfern haben wir Belege nicht nur für Öfen zur Eisenverarbeitung, sondern auch für begleitende Tätigkeiten wie das Brennen von Holzkohle. Ein Beispiel kann der Raum des Mährischen Karstes sein, wo die Eisenverarbeitung bereits aus dem 6. Jahrhundert v. Chr. belegt ist. Aus dieser Zeit stammt die Schmiedewerkstatt in der Höhle Býčí skála. In der Eisenzeit wurde das Eisenerz nur durch das Aufsammeln oberflächlicher Vorkommen gewonnen, mit der Zeit war das Gebiet jedoch abgesammelt. Aus slawischer Zeit (also aus dem 7. bis 11. Jahrhundert) stammen archäologische Funde alter Hütten in der Umgebung von Rudice, Olomučany und Habrůvka. Das Eisenerz wurde weiterhin durch Aufsammeln gewonnen, doch es beginnt sich der Abbau in nicht tiefen Bergwerken auszubreiten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu einem intensiven Abbau von Eisenerz auf dem Gebiet Mährens kam es bereits im 8. Jahrhundert, als die Lagerstätten in den besiedelten Gebieten vor allem in Südmähren abgebaut waren und andere Quellen gefunden werden mussten. Überdies gab es in diesem Gebiet dichte Wälder, die hochwertiges Holz zum Brennen von Holzkohle lieferten. Es handelte sich um einen weiteren zur Eisenerzeugung notwendigen Rohstoff, der in den bereits bewohnten Gebieten fehlte. Ein weiterer unbestreitbarer Vorteil des Mährischen Karstes war die Nähe der reichen Burgwälle in Südmähren, wohin der größte Teil des Eisens schließlich ging.\n \nAn diesem Beispiel können wir also verfolgen, dass "
+       },
+       {
+        "type": "text",
+        "text": "die Eisenverarbeitung",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " im Vergleich etwa mit der Verarbeitung von Gold "
+       },
+       {
+        "type": "text",
+        "text": "weitaus anspruchsvoller war.",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Während es beim Gold genügte, es umzuschmelzen und zu gießen, verlangte das Eisen eine Prozedur von mehreren Tagen intensiver Arbeit. Im Unterschied zum Gold entstand jedoch eine verhältnismäßig große Menge schmiedbarer Eisenmasse, die seine Nutzung auch für größere Gegenstände und für Gegenstände des alltäglichen Gebrauchs ermöglichte. Möglicherweise haben gerade diese Eigenschaften dazu geführt, dass die Menschen sein Potenzial als handelbare Ware erahnten und "
+       },
+       {
+        "type": "text",
+        "text": "das Eisen in verschiedenen Formen später auch die Gestalt eines vormünzlichen Zahlungsmittels annahm",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Damit das Eisen aus einem Material zu einer handelbaren Ware oder zu einem Zahlungsmittel werden konnte, war es unerlässlich, es in eine vereinbarte Form zu verarbeiten, "
+       },
+       {
+        "type": "text",
+        "text": "womit der Barren entstand",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " – ein Gegenstand, der durch seine gestreckte und an einer Seite flachgeschlagene Form typisch ist. "
+       },
+       {
+        "type": "text",
+        "text": "In den Händen des Schmiedes konnte er dann in andere Gegenstände umgewandelt werden",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die aus Eisen hergestellt wurden, zum Beispiel Beschläge, Pferdegeschirr, landwirtschaftliche Geräte und Waffen. Metallografische Analysen haben die alte Behauptung widerlegt, der Barren selbst habe ein Werkzeug sein können, zum Beispiel eine Zimmermannsaxt oder eine Waffe. Die Analysen zeigten, dass der flachgeschlagene Teil metallurgisch in keiner Weise vergütet war, also nicht zur Bearbeitung festerer Materialien bestimmt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eiserne Barren auf dem Gebiet der heutigen Slowakei",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der jüngeren Hallstattzeit wurde Eisen nach Mittel- und Osteuropa überwiegend importiert, doch man rechnet bereits auch mit dem Beginn einer kleinen Produktion in den dortigen Siedlungen. Spuren dieser Produktion kennen wir zum Beispiel aus Polen, aber auch von uns."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An diesen Orten entstanden neben den eisernen Barren auch andere, verwandte Gegenstände ähnlichen Zwecks. Es sind die eisernen Luppen. Die Luppe ist ausgeschmolzenes Eisen, das in eine einfache runde, flache Form verarbeitet wurde, die an einen Kuchen oder an einen Brotlaib erinnert (davon die Bezeichnung laibförmige Luppe). Ihre Funktionen waren sehr ähnlich, im Unterschied zu den Barren waren sie jedoch immer aus frischem Rohstoff. Bei den Barren wurde durch Untersuchungen nachgewiesen, dass das Material oft recycelt war, also wahrscheinlich aus zerbrochenen oder anders unbrauchbaren Gegenständen stammte. Diese Tatsache macht weiterhin auf den Wert des Eisens aufmerksam: nichts ging verloren. Die Luppen wurden bis ins Mittelalter hoch geschätzt, und uns haben sich durch einen glücklichen Zufall einige Exemplare erhalten. Ihre Funde sind bislang aus der Slowakei bekannt, in den böhmischen Ländern fehlen sie bisher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Axtförmige Eisenbarren aus der Zeit Großmährens",
+    "alt": "Axtförmige Eisenbarren aus der Zeit Großmährens",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine große Luppe mit zwei ungewöhnlich großen Äxten wurde in der Slowakei in einem hallstattzeitlichen Siedlungsbefund vor der Höhle Fajka bei Jasov gefunden. Es handelt sich um ein umfangreiches Stück Metall mit schwarzer Korrosion, von unregelmäßiger Form und mit klumpiger Oberfläche. Die Basis bildete sich durch das eigene Gewicht, als der Rohstoff noch teigig war; das Gewicht des Stückes beträgt etwa 2 kg. Weitere hallstattzeitliche Luppen haben sich auf der Krásna Hôrka in der Gemeinde Medvedzie in der Arwa erhalten. Unter den eisernen und bronzenen Gegenständen waren auch drei Stücke eiserner Halbfabrikate. Ihre Form ist leicht prismatisch, was auf eine gründlichere Durchschmiedung und auf eine absichtliche Formung in eine bestimmte Gestalt hinweist. Der Hersteller hat ihre Form wahrscheinlich für die weitere Formgebung vorbereitet. Aus der Wende von der Hallstatt- zur Latènezeit haben sich in der Býčí skála Doppelspitzbarren mit gebogener Spitze erhalten, die Hälfte eines Barrens mit angerosteten bronzenen Ringen sowie Barren mit Öffnungen und gebogenen Spitzen. Eine Analogie würden wir erst in Altassyrien suchen, wo ganze Lager dieser Barren entdeckt wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Schmiedehandwerk und Eisenbarren im Altertum und in slawischer Zeit",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bereits aus großmährischer Zeit stammen die Hortfunde axtförmiger Eisenbarren aus "
+       },
+       {
+        "type": "text",
+        "text": "Bíňa, aus Pobedim, aus Bojná",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und neuestens z. B. aus "
+       },
+       {
+        "type": "text",
+        "text": "Pružina",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Diese Hortfunde wurden im Areal des Burgwalls gefunden. Aus den Siedlungsschichten stammen dann die Hortfunde aus Gajary-Pustiny, Vrablicov und aus Kúty. Bei einigen Hortfunden lässt sich ein Bezug zu einem konkreten Baubefund bestimmen, wie es gerade in Pobedim der Fall ist, wo wir Belege für zwei Hortfunde haben, wobei der eine in einem eingetieften Siedlungsbefund und der andere unter der Destruktion des Walls niedergelegt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mehrheit der Hortfunde liegt allgemein jedoch in natürlicher Umgebung ohne Spuren eines menschlichen Eingriffs. Bei einigen lässt sich jedoch erwägen, dass sie in einem künstlich geschaffenen Behälter lagen, worauf eine verdächtige Anhäufung von Steinen in der Umgebung hinweisen kann, z. B. beim Hortfund aus Slabina, der von einem großen Stein bedeckt war, oder in Moravský Ján. Anstelle eines flachen Steines diente in Staré Město auch ein Mühlstein.\nAus Mikulčice stammt dann ein Komplex von Gegenständen, der wahrscheinlich in Leinen eingewickelt war, worauf Abdrücke von Fasern hindeuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Links oben axtförmige Eisenbarren vom Burgwall Pružina (9.–10. Jahrhundert)",
+    "alt": "Links oben axtförmige Eisenbarren vom Burgwall Pružina (9.–10. Jahrhundert)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wenn wir zur Analyse der inhaltlichen Zusammensetzung der Hortfunde übergehen, kommen wir zu interessanten Erkenntnissen. Hortfunde, die nur axtförmige Barren enthalten (das erwähnte Bíňa und Pobedim), oder axtförmige Barren und andere eiserne Gegenstände, konzentrieren sich vor allem auf dem Burgwall, und zwar entweder in Siedlungsbefunden oder an nicht umkämpften Stellen des Areals. Das deutet darauf hin, dass es sich also vor allem um thesaurierten (verborgenen) Besitz handelt. Bei Hortfunden, die nur axtförmige Barren enthalten, kann es sich um ein Zahlungsmittel oder um einen zur weiteren Verarbeitung bestimmten Rohstoff handeln. Ich meine, dass es, wenn die Barren im Zusammenhang mit einer Schmiedewerkstatt gefunden werden, angebracht ist, sie für den Rohstoff zu halten, aus dem der Schmied eiserne Gegenstände herstellte. In den übrigen Fällen kann es sich entweder um das verborgene Zahlungsmittel eines Kaufmanns oder auch um den verborgenen Besitz eines reicheren Menschen handeln. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)",
+    "alt": "Axtförmige Eisenbarren aus Pobedim (9. Jahrhundert)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer reicher Hortfund von vierzig eisernen Barren stammt aus "
+       },
+       {
+        "type": "text",
+        "text": "Hrádok",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " (Nové Mesto nad Váhom). Die Barren waren in Bündeln von je zwanzig niedergelegt, das Gesamtgewicht des Hortfundes beträgt etwa 65 kg.\nWeitere Fundorte axtförmiger Eisenbarren: Staré zámky bei Líšeň, Nejdek, Mikulčice, Břeclav-Pohansko (Lundenburg)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Formenvielfalt der eisernen Barren und Halbfabrikate",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Doppelspitzbarren ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Hallstattzeit stammen die Doppelspitzbarren. Sie haben die Form einer doppelspitzigen Pyramide, mit gebogenen und oft durchbohrten Enden. In der Latènezeit dauert dieser Typ fort, allerdings schon mit geraden Enden. Oft finden sich nur Teile oder Bruchstücke der Barren, die wie kleine Meißel aussehen können; besonders ein stark korrodierter Gegenstand kann dann leicht verwechselt werden.\nDieser Barrentyp wird mit den Kelten in Verbindung gebracht, weil die größte Konzentration der Funde aus den Gegenden stammt, wo wir ihre Urheimat suchen würden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Laibförmige Luppen ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Luppen wurden technologisch anders verarbeitet. Sie waren nicht geschmiedet, was sowohl an der Oberfläche als auch an einem zerbrochenen oder zerhauenen Stück zu sehen ist, weil sich im Inneren Bläschen befinden. Sie waren aus frischem Eisen, das glühend in eine weiche Form oder auf eine Platte gegossen wurde, wo es erstarrte und seine Form erhielt. Das Eisen konnte auch in Wasser gegossen werden, wo es sehr heftig abkühlte und die Form sehr unregelmäßig und zerklüftet war und die ganze Struktur schwammig ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Schmiedehandwerk und Eisenbarren im Altertum und in slawischer Zeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Laibförmige Luppen wurden noch im glühenden Zustand mit einer Axt zerhauen, um den Erfolg der Schmelze und die Qualität des Materials festzustellen. Dieser Brauch ist in ganz Nord- und Osteuropa bekannt (Russland, Polen, Norwegen, Schweden, Litauen). Für diese Form der Luppe wird manchmal der Ausdruck hufeisenförmig verwendet.\nDas Gewicht der altrussischen Luppen bewegt sich zwischen 2 und 6 kg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Axtförmige Eisenbarren ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Art der Barren wurde ursprünglich für ein Werkzeug gehalten (Dechsel, Lehmbearbeitung, Mühlstein), doch ihre Schneide ist zu dünn. Das Schaftloch ist von normaler Größe, manchmal ist der Gegenstand jedoch mit Nackenlappen versehen. Wegen der Korrosion und anderer ungünstiger Einflüsse ist es sehr schwierig, ihr ursprüngliches Gewicht genau zu bestimmen. Das Gewicht der Barren war nicht zufällig. Durch die Untersuchung der gefundenen Barren lassen sie sich nach dem Gewicht in drei Gruppen einteilen: 200–700 g, 80–120 g und 60–80 g. Zur Zeit Großmährens wurden gerade die axtförmigen Barren als allgemein anerkanntes Zahlungsmittel verwendet, das wir deshalb mit Recht für den Vorläufer des Geldes auf dem Gebiet der heutigen Slowakei halten. Ihre Verwendung verzeichnen wir im Laufe des 9. und 10. Jahrhunderts vor allem auf dem Gebiet der Slowakei, Böhmens und Mährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Scheibe ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Form nach mit der Luppe verwandt, doch handelt es sich schon um eine geschmiedete Form. Sie ist nicht ganz gewöhnlich; es ist möglich, dass der Schmied, der dieses Halbfabrikat herstellte, schon mit einer weiteren Verarbeitung zu einem Gegenstand rechnete, der vom Kreis ausgeht. Ein außergewöhnlicher Fund aus Kolčina."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rute, Stange ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Form des Barrens ist für das Mittelalter die gewöhnlichste. Sie entwickelte sich aus dem axtförmigen Barren, der seine Besonderheiten zu verlieren begann, wie das (kreuzweise) Breitschmieden, die Ösen und Ähnliches. Obwohl dieser Gegenstand mit dem Verlust der Ösen die leichte Transportierbarkeit einbüßte, war er für die Verarbeitung und das Abmessen praktischer. Von den Stangen wurde oft nur jenes Stück abgeschlagen, das zur Herstellung benötigt wurde, und es war leicht abzumessen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Herstellung der Barren und die Technologien der Eisenverarbeitung",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So wie uns waren auch den alten Schmieden die Begriffe Eisen und Stahl bekannt, und es dauerte nicht lange, bis sie begriffen, wie man hochwertigen Stahl herstellt und seine Eigenschaften nutzt. Wahrscheinlich bei einem Wechsel des bei der Eisenverarbeitung genutzten Brennstoffes wurde ihnen bewusst, wie einige von ihnen die Härte des Materials beeinflussen können, und sie begannen jene Brennstoffe zu bevorzugen, die dem Eisen Kohlenstoff zuführen konnten. Natürlich mussten die Schmiede diese Unterschiede damals ohne chemische und physikalische Kenntnisse erkennen. Am häufigsten können wir die Qualität des Metalls erkennen, wenn wir es durch einen Schlag erklingen lassen oder mit der Feile prüfen: bei weichem Metall greift die Feile, bei hartem Stahl nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem Eisen entsprechen heute die weichen Stahlsorten, die nicht härtbar sind und etwa 0,06–0,2 % C enthalten und die zur Herstellung verschiedener Beschläge, Krampen, Haken, Reifen oder Laschen dienen. Dagegen sind die Kohlenstoffstähle für Werkzeuge geeignet, weil sie härtbar sind. Sie dienen als Material zur Herstellung von Sensen, Sicheln, Messern, Meißeln und Scheren. Noch ein anderer Typ sind dann die legierten Werkzeugstähle, die einen bedeutenden Anteil weiterer Elemente enthalten, z. B. Mangan oder Chrom. Es ist notwendig zu erwähnen, dass jeder Stahl die Beimischung irgendeines Elements enthält, allerdings in sehr geringer Menge; dennoch kann auch eine kleine Menge über seine Eigenschaften entscheiden.\nKohlenstoff erhöht wesentlich die Härte und die Festigkeit, aber auch die Sprödigkeit und die Kaltbrüchigkeit und erschwert die Schweißbarkeit. Mangan verleiht dem Material dann Festigkeit, Härte, Schmiedbarkeit und Schweißbarkeit und nimmt ihm Dehnbarkeit und Zähigkeit. Bei höherem Mangangehalt (2–4 %) kann es zur Überhitzungsempfindlichkeit des Materials und zur Vergröberung der Struktur kommen. Silizium ist in den alten Funden nur bescheiden enthalten (0,02–0,04 %), Phosphor konnte die Qualität des Materials unter den Bedingungen der historischen Produktion jedoch sehr stark beeinflussen. Bei niedrigeren Temperaturen ging der größte Teil gewöhnlich in die Schlacke über, doch das vom Metall aufgenommene Element beeinflusste deutlich die Härte der Legierung und ebenso die Gießbarkeit, die Brüchigkeit und die Kaltsprödigkeit. Zur Herstellung von Stahl eignet sich Phosphor überhaupt nicht, weil er auf unerwünschte Weise auch weitere Prozesse bei seiner Herstellung beeinflusst. Phosphor sollte im Stahl nicht mehr als 0,1 % ausmachen, in edlen Materialien sind nur 0,04–0,07 % zulässig. In der Urgeschichte war es üblich, zur Eisenerzeugung Holzkohle zu verwenden, und so ist darin kein zu hoher Schwefelgehalt. Dagegen finden wir in Eisen, das über Koks verarbeitet wurde, wesentlich mehr Schwefel. Er verursacht Sprödigkeit und Warmbrüchigkeit und wird für ein sehr schädliches Element gehalten. Kupfer ist eine sehr häufige Beimischung im Eisen und ist nicht unerwünscht; es verbessert die Festigkeit und die Widerstandsfähigkeit gegen Korrosion. Eine häufige Beimischung ist auch Nickel. Ist der Nickelgehalt im Eisen höher als 2,5 %, so kann es sich nur um Eisen meteoritischer Herkunft handeln.\nIn den Talenten und in den eisernen Luppen finden wir die erwähnten Elemente, die durch die Verarbeitung in sie gelangten. Bei den eisernen Barren ist es möglich, dass ein Element hier auch in auffällig höherem Maße vorkommt. Es kann sich um recyceltes Eisen handeln, um einen Gegenstand, der für bessere Eigenschaften z. B. aufgekohlt war, aber zerbrach oder sich abnutzte und zurück zu einem Barren verarbeitet wurde, um eine neue Gestalt zu erhalten. Die Herstellung der Barren war komplizierter als die Herstellung der Luppen. Der erste Schritt, der nahezu allen Typen gemeinsam ist, bestand darin, das Material zu einer langen Stange zu verarbeiten. Dann folgte das Ausschmieden in verschiedene Formen. Am interessantesten ist wahrscheinlich die Herstellung des axtförmigen Barrens, bei der ein Ende stärker breitgeschmiedet wurde und etwa in zwei Drittel des Barrens hineinreichte. Das andere Ende war ebenfalls breitgeschmiedet, allerdings quer zum ersten, und in ihm war eine Öse vorgezeichnet, die zum Zusammenbinden mehrerer Stücke diente, was den Transport erleichterte. Das Durchschlagen ist die schnellste Art, eiserne Gegenstände mit einer Öffnung zu versehen, und erfolgt im glühenden Zustand. Gegenüber dem Bohren hat es den Vorteil, dass es die Fasern des Materials respektiert und sie auseinanderzieht. Das erlaubt, auch große Öffnungen in schmalen Bändern durchzulochen. Das Durchschlagen erfolgt über einer kreisförmigen Öffnung im Amboss mit Hilfe eines Durchschlags aus hartem Stahl und eines Hammers. Die Öffnung wird etwa zu zwei Dritteln eingeschlagen, dann wird der Gegenstand gedreht und das Einschlagen von der anderen Seite wiederholt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň \n "
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(zum überwiegenden Teil übernommen von der Seite der Studenten der Archäologie)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

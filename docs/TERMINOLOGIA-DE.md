@@ -1422,6 +1422,34 @@ Skupina Vekerzug → **die Vekerzug-Gruppe** (kultúra = *Vekerzug-Kultur*).
 Strečnianska tiesňava → **die Strečno-Schlucht**. Dúpence ostávajú **Dúpence**
 s glosou *(Felshöhlen)* pri prvom výskyte.
 
+**Kmeň v citáte × v autorskom texte.** Moričania sú v autorskom texte **die
+Morizanen** (ako ostatné kmene na *-anen*), ale v citáte prameňa ostáva jeho
+vlastný tvar — Bavorský geograf má *Morizani* a Helmoldov úryvok tiež.
+To isté pravidlo platí pre každé meno kmeňa, ktoré prameň uvádza po svojom.
+
+**Opevnenie a vojenstvo (64. dávka).** Škrupinová hradba → **die
+Schalenmauer**, cimburie predprsne → **die Zinnen** (medzera medzi nimi =
+*die Zinnenlücke*), vojenská hotovosť → **das Heeresaufgebot**, rád mečových
+rytierov → **der Schwertbrüderorden**, župa ako spoločenská jednotka →
+**der Gau**, svébsky uzol → **der Suebenknoten**.
+
+**Kováčstvo a železo.** Dvojhrotá hrivna → **der Doppelspitzbarren**, lupa →
+**die Luppe** (bochníkovitá = *laibförmig*), tylové laloky → **Nackenlappen**,
+prebíjanie → **das Durchschlagen**, dierkovač → **der Durchschlag**,
+prelamovanie plechu → **die Durchbrucharbeit**, pazúrik → **der Flint**.
+
+**Jazykoveda.** Veľkomoravizmy → **Moravismen**. Ruské a ukrajinské mená sa
+prepisujú podľa nemeckej transliterácie (Kapustin, Nimtschuk, Arsenjew).
+
+**Mená a miesta (64. dávka).** Marobud → **Marbod**, Dobín → **Dobin**,
+Dymín → **Demmin**, Polabie → **Polabien**, Zvěřínske jazero → **der
+Schweriner See**, rieka Tollensa → **die Tollense** (dolina = *das
+Tollensetal*).
+
+**Glosa, ktorá v nemčine odpadá.** Keď slovenský text vysvetľuje nemecké
+slovo („Drang nach Osten – pochod na východ", „(nem.)"), v nemeckej verzii
+glosa zmizne; vysvetľovať nemčinu nemeckému čitateľovi je nad rámec §14.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

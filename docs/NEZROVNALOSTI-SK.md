@@ -799,3 +799,18 @@ preložený, rovnako ako anglická.
 
 **sumrak-velkej-moravy-povest-z-10-storocia**
 : blok 38 „Po zániku hradiska vil. stor." — preklep, zrejme 11. storočie
+
+**kyjevske-listy**
+: blok 15 tvrdí, že „pred rokom 986 Demetrius kódex napísať nemohol", keyFacts a timeline hovoria o „úvodnej strane dopísanej pred r. 986"; Antonínov denník je datovaný „od augusta 1830" (narodený 1817)
+
+**vojenstvo-na-velkej-morave-a-taktika-obrany-hradisk**
+: „Němčí 1017 cisárom Henrichom III." — v roku 1017 vládol Henrich II.; blok 11 pripisuje rok 864 Devínu, blok 24 a timeline Mikulčiciam
+
+**tollens-bitka-z-doby-bronzovej**
+: v blokoch 3, 4 a 19 slovenský text vypadol (veta začína výpustkou); „Retired University of Wisconsin" a „kolová stavba" pri zámku Wiligrad sú chyby slovenského prekladu
+
+**markomani-a-kvadi**
+: blok 1 píše „Arioviskov", timeline a blok 72 „Ariovista"; blok 90 hovorí o porážke „Marobudových vojsk" v roku 172 (Marbod zomrel 37/38); „via layer" je skomolená latinčina (via strata)
+
+**kovacstvo-a-zelezne-hrivny-v-staroveku-a-v-slovanskom-obdobi**
+: „V talentoch a v železných lupách" (blok 34) — talenty do kontextu hrivien nezapadajú; „nebojné miesta areálu" (blok 16) je nejasná formulácia
