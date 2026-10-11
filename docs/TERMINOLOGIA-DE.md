@@ -1450,6 +1450,29 @@ Tollensetal*).
 slovo („Drang nach Osten – pochod na východ", „(nem.)"), v nemeckej verzii
 glosa zmizne; vysvetľovať nemčinu nemeckému čitateľovi je nad rámec §14.
 
+**Mohyly a hroby (66. dávka).** Pahreba → **die Glut**, spodný násyp →
+**die untere Aufschüttung**, kenotaf → **das Kenotaph**, plochý hrob → **das
+Flachgrab**. Mohylová oblasť ostáva **das Hügelgräbergebiet**, mohylník
+**das Hügelgräberfeld**.
+
+**Viera a kult (66. dávka).** Apotropaický → **apotropäisch**, ideogram →
+**das Ideogram**, zbručská stéla → **die Zbruč-Stele**, orant → **der
+Orant**, demonolatria → **die Dämonolatrie**, záhrobie → **das Jenseits**,
+chtonický → **chthonisch**, henoteizmus → **der Henotheismus**, halová
+svätyňa → **das Hallenheiligtum**, kultová jama → **die Kultgrube**.
+Kamenné „baby", *Samhain*, *rusalie* a *immrama* ostávajú v pôvodnom tvare.
+
+**Kultúry a stavby (66. dávka).** Koštianska kultúra → **die
+Košťany-Kultur**, kosiderský horizont → **der Koszider-Horizont**, pleszówska
+skupina → **die Pleszów-Gruppe**, lunicovitý závesok → **der lunulaförmige
+Anhänger**, bastión → **die Bastion**, ochodza → **der Umgang**, zvoncovitá
+pokrievka → **der glockenförmige Deckel**, tur → **der Auerochse**.
+
+**Zemepis a ľudia (66. dávka).** Žitný ostrov → **die Große Schüttinsel**
+(v zátvorke pri prvom výskyte), Košická kotlina → **das Kaschauer Becken**,
+Považské múzeum → **das Považské-Museum**, valasi → **walachische Hirten**,
+chotárne značky → **Flurmarken**.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

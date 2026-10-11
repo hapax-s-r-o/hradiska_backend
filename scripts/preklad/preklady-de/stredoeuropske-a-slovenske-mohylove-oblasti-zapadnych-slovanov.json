@@ -1,0 +1,1565 @@
+{
+ "slug": "stredoeuropske-a-slovenske-mohylove-oblasti-zapadnych-slovanov",
+ "data": {
+  "title": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+  "slug": "huegelgraebergebiete-der-westslawen",
+  "excerpt": "Die typische slawische Art der Totenbestattung sind meist ovale Erdaufschüttungen, Grabhügel genannt. Mit ihrer mystischen Atmosphäre locken sie auch nach tausend Jahren – leider auch Raubgräber, obwohl slawische Grabhügel kaum Beigaben enthalten. Der Beitrag führt durch die Bestattungssitten der Slawen, durch 15 mitteleuropäische und sieben slowakische Hügelgräbergebiete mit etwa 614 Grabhügeln und durch den Brand-, den Körper- und den birituellen Ritus.",
+  "metaTitle": "Hügelgräbergebiete der Westslawen",
+  "metaDescription": "Grabhügel – die typische slawische Bestattungsform: Überblick über die mitteleuropäischen und slowakischen Hügelgräbergebiete der Westslawen.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Stanislava Flimmelová, Orgoň",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Bestattungssitten und Hügelgräbergebiete der Westslawen in Mitteleuropa",
+    "icon": "scroll"
+   },
+   {
+    "label": "Umfang",
+    "value": "15 mitteleuropäische Gebiete; in der Slowakei 7 Hügelgräbergruppen nach M. Hanuliak",
+    "icon": "map"
+   },
+   {
+    "label": "Zahl der Grabhügel in der Slowakei",
+    "value": "Etwa 614 (M. Hanuliak, 2001)",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "6. Jahrhundert",
+    "title": "Beginn des Hügelgrabritus",
+    "description": "Der Hügelgrabritus der Bestattung erscheint in Mitteleuropa im 6. Jahrhundert.",
+    "type": "event"
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Aufkommen des Körperritus",
+    "description": "Der Körperritus beginnt die ältere Brandbestattung zu ersetzen; er formt sich im Verlauf der ersten Hälfte des 9. Jahrhunderts.",
+    "type": "event"
+   },
+   {
+    "year": "1922",
+    "title": "Verzeichnis der Grabhügel in Skalica",
+    "description": "I. L. Červinka stellte auf dem Hügelgräberfeld in Skalica etwa 100 Grabhügel fest.",
+    "type": "event"
+   },
+   {
+    "year": "1943",
+    "title": "Neubewertung des Hügelgräberfeldes von Skalica",
+    "description": "V. Budinský-Krička zählte bei einer erneuten Messung nur noch 63 Grabhügel – ein Beleg für den allmählichen Verlust.",
+    "type": "event"
+   },
+   {
+    "year": "1957 – 1962",
+    "title": "Entdeckungen von Štefan Meliš",
+    "description": "Der externe Mitarbeiter des Považské-Museums Štefan Meliš entdeckte die meisten slawischen Hügelgräberfelder der Nordwestslowakei; die Ausgrabung leitete Anton Petrovský-Šichman.",
+    "type": "event"
+   },
+   {
+    "year": "10. – 12. Jahrhundert",
+    "title": "Ende des Hügelgrabritus",
+    "description": "Der Hügelgrabritus endet in Mitteleuropa etwa im 10. Jahrhundert, an der Küste der Ostsee besteht er bis in das 12. Jahrhundert fort.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3981,
+    "alt": "Federzeichnung eines Hügelgräberfeldes im Wald: niedrige Grabhügel mit Holzkonstruktionen und Pfosten"
+   },
+   {
+    "mediaId": 3982,
+    "caption": "Ein einzeln stehender Grabhügel in Visolaje. Auch er fiel den Raubgräbern zum Opfer…",
+    "alt": "Ein einzeln stehender Grabhügel in Visolaje. Auch er fiel den Raubgräbern zum Opfer…"
+   },
+   {
+    "mediaId": 3984,
+    "caption": "Es steht, es steht ein Grabhügel ...",
+    "alt": "Es steht, es steht ein Grabhügel ..."
+   },
+   {
+    "mediaId": 3987,
+    "caption": "Galuška: Slované – doteky předků",
+    "alt": "Galuška: Slované – doteky předků"
+   },
+   {
+    "mediaId": 3995,
+    "caption": "Ein langer Grabhügel",
+    "alt": "Ein langer Grabhügel"
+   },
+   {
+    "mediaId": 3996,
+    "caption": "Zwei Grabhügel aus dem Waagtal",
+    "alt": "Zwei Grabhügel aus dem Waagtal"
+   },
+   {
+    "mediaId": 4000,
+    "caption": "Ausgeraubte Grabhügel im nordwestlichen Waagtal. Ein trauriger Anblick.",
+    "alt": "Ausgeraubte Grabhügel im nordwestlichen Waagtal. Ein trauriger Anblick."
+   },
+   {
+    "mediaId": 4003,
+    "caption": "Grabhügel. Autor: Alnoth",
+    "alt": "Grabhügel. Autor: Alnoth"
+   },
+   {
+    "mediaId": 4005,
+    "caption": "Eine der Kärtchen der Hügelgräberfelder von Š. Meliš",
+    "alt": "Eine der Kärtchen der Hügelgräberfelder von Š. Meliš"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die typische slawische Art der Totenbestattung sind meist ovale Erdaufschüttungen, Grabhügel genannt. Mit ihrer unwiederholbaren, mystischen Atmosphäre locken sie auch nach tausend Jahren. Ein Fehler mancher Eiferer ist es jedoch, dass sie sie in der Vorstellung aufgraben, Schätze aus dem Grabhügel zu gewinnen, was – wie auch aus diesem Artikel ersichtlich ist – eine irrige Vorstellung ist. Michal Lutovský führt zum Aufgraben und Ausrauben der Grabhügel zum Beispiel an: "
+       },
+       {
+        "type": "text",
+        "text": "„Im Fall der slawischen Grabhügel handelt es sich um eine ganz und gar sinnlose Tätigkeit. Die heutigen Goldgräber graben nur arme ländliche Gräberfelder wegen einiger Scherben und korrodierter formloser Eisenstücke auf.“",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bestattungssitten der Slawen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Ritus der Leichenverbrennung gilt als indoeuropäisches Erbe der Slawen. Dem Wandel des Ritus – der Bestattung unverbrannter Toter in der Erde – begegnen wir allmählich ab dem 8. Jahrhundert unter dem Einfluss des Umfeldes, mit dem die Slawen in Berührung kamen. Zum Wandel kam es schon vor der Annahme des Christentums, das diesen Prozess nur beschleunigte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "title": "Přísahám",
+    "author": "Silent Stream of Godless Elegy",
+    "source": "Album Návaz (2011)",
+    "text": "Lass den Wald tanzen und auch den höchsten Baum\nSpring über das Feuer, ich geb dir die Kraft\nDer Opferstein wird uns verraten\nWohin wir weitergehen\n\nFee und Priester schlafen dort in den Grabhügeln\nTrink aus der Quelle, damit du deinen Weg kennst\nDer Opferstein wird uns verraten\nWohin wir weitergehen"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Tod eines Mitglieds des Geschlechts war in der slawischen Zeit eine Menge von Sitten und Riten verbunden. Zu den typischen Elementen der Begräbnisfeier gehört vor allem die Sitte, den Toten nicht durch die Tür oder das Tor im Zaun aus dem Haus zu tragen, sondern durch das Fenster, eine Öffnung in der Wand, ein Loch unter der Schwelle oder eine Öffnung im Zaun des Gehöfts. Der Sinn war es, die Seele des Verstorbenen zu verwirren, damit sie den Weg zurück nicht finden und den Hinterbliebenen nicht als Vampir oder anderer menschlicher Dämon schaden konnte. Noch Pavol Dobšinský hielt im 19. Jahrhundert im Märchen von der schönen Ibronka diese Sitte fest: „Schaut nur, meine lieben Nachbarn, wenn ich sterbe, tragt meinen Sarg nicht über die Schwelle durch die Tür und lasst den Sarg auch nicht dreimal an die Schwelle schlagen, sondern lasst unter der Schwelle eine Grube ausheben und zieht meinen Sarg durch dieses Loch aus dem Haus hinaus. Und spannt in den Wagen das Pferdchen, das wir noch im Stall haben, und begrabt mich dort, wo dieses Pferdchen mit mir stehen bleibt!“ Ein allgemein verbreiteter Bestandteil des Begräbnisritus waren Lobreden, Loblieder und das rituelle Weinen, verbunden mit dem Zerkratzen des Gesichts mit den Händen, mit Gebrüll oder dem Abschneiden der Haare und auch mit Selbstverletzung. Ihr Sinn war offenbar ein Opfer für die Seele des Verstorbenen in Form von Blut und Haaren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein einzeln stehender Grabhügel in Visolaje. Auch er fiel den Raubgräbern zum Opfer…",
+    "alt": "Ein einzeln stehender Grabhügel in Visolaje. Auch er fiel den Raubgräbern zum Opfer…",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In vielen Gegenden hat sich die altertümliche Sitte erhalten, Klagefrauen für die rituelle Klage über den Toten zu bestellen. Ihr Wehklagen und die Begräbnislieder, die die Seele des Toten beruhigen und die bösen Geister verjagen sollten, waren ein ganz unerlässlicher Bestandteil des Begräbniszuges. Zur Begräbnisfeier gehörten auch symbolische Spiele, die von Gesängen begleitet wurden, und Gastmähler. Eine Besonderheit des Begräbnisritus der Slawen waren die Bestattungen von Witwen oder Konkubinen. Es handelte sich um den freiwilligen Tod der geliebten Frau, ihre Entscheidung war jedoch davon beeinflusst, was die Umgebung erwartete. Den Selbstmord führten die Frauen meist durch Erhängen aus, ein anderes Mal verbrannten sie sich lebendig, wie es bei den Indern üblich war und wie es arabische Augenzeugen beschrieben haben, oder sie wurden nach Betäubung und Beischlaf mit den Anwesenden erdrosselt und erstochen, was vor allem Sklavinnen betraf. Eine indoeuropäische Vorstellung war es, dass das Leben im Jenseits eine Art Fortsetzung, obgleich in anderer Gestalt, des irdischen Lebens mit seinen physischen Bedürfnissen einschließlich Speise, Trank und körperlicher Liebe war. Deshalb wurden die Verstorbenen mit entsprechenden Grabbeigaben ausgestattet und sollten auch im Jenseits nicht ohne ihre beliebten Frauen leben. Diese Sitte betraf jedoch vor allem die Mitglieder der herrschenden Schicht, denn auf den Gräberfeldern des einfachen Volkes stellt die archäologische Forschung sie nicht fest. Aufgezeichnet sind zum Beispiel Bestattungen, die in Wäldern und auf Feldern stattfanden, und Spiele, die nach heidnischem Ritus an Wegscheiden und Kreuzungen stattfanden. Teil der Begräbnisvorstellung war manchmal auch eine Art vorgetäuschter Kampf von Männern, begleitet von Geschrei und Waffengeklängel, der keinen anderen Zweck haben konnte als den, die bösen Dämonen zu verjagen, die die Seele des Verstorbenen und die Hinterbliebenen bedrohten. Das Totenmahl wurde „strava“ genannt. Ihm ging ein Opfer von Speise und Trank für den Toten auf dem Grab voraus. Bezeichnend war besonders das Opfer eines berauschenden Getränks, vor allem des Mets, dem nach dem Begräbnis alle Hinterbliebenen huldigten.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Verbrennung des Toten",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach dem Hinaustragen des Verstorbenen und seinem Niederlegen an der Stelle, an der seine Verbrennung erfolgen sollte, war der wahrscheinliche Ablauf folgender: Nach der Ankunft des Trauerzuges legten die Hinterbliebenen die Bahre mit dem in Leder oder Stoff eingewickelten Toten auf den Holzstoß und legten die Grabbeigaben zu ihm. Es konnten Gegenstände sein, die der Tote liebte, aber auch verschiedene Getränke und Speisen. Der Holzstoß hatte eine Rostkonstruktion und war etwa 1,8 m hoch, 2 m lang und 1,2 m breit (Galuška). Zu seiner Errichtung wurden 3 – 4 m³ Holz verbraucht. Angezündet wurde er mit Feuer, das entweder aus dem Haus des Verstorbenen gebracht wurde, oder mit dem sogenannten lebendigen Feuer, das durch Reiben von Holz an Holz direkt an der Stelle des Holzstoßes entstand. Experimente haben bewiesen, dass die vollkommene Verbrennung des Körpers etwa 10 Stunden Brenndauer erforderte. Es ist offensichtlich, dass es zu den weiteren Begräbnisschritten dann erst am folgenden Tag kommen konnte. Die Hinterbliebenen sammelten dann die Teile dessen, was vom Holzstoß geblieben war, vor allem die angebrannten Knochenstücke, und trugen sie auf das Gräberfeld. Dort wurden die Überreste in pietätvoller Weise entweder in ein keramisches Gefäß gelegt, das in die Erde eingegraben wurde, oder, in späterer Zeit, in einen Grabhügel. Deren Errichtung folgte meist erst nach dem pietätvollen Niederlegen der Überreste. Manchmal wurden zur Aufbewahrung der Überreste sogar verschiedene Holzkonstruktionen angefertigt – eine Art Häuser der Toten. Es kommen jedoch auch Fälle vor, bei denen zuerst der Grabhügel errichtet wurde und die Überreste in ihn eingelegt wurden.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Es steht, es steht ein Grabhügel ...",
+    "alt": "Es steht, es steht ein Grabhügel ...",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem einstigen Gebiet der Westslawen sind im Frühmittelalter archäologisch zwei Arten der Bestattung erkennbar: unter Hügelaufschüttungen und in Grabgruben auf den sogenannten Flachgräberfeldern. Territorial wurden Gebiete mit vorherrschendem Hügelgrabritus abgegrenzt; ihre Grenzen lassen sich jedoch nur annähernd vermuten, denn viele Grabhügel in landwirtschaftlichem und im Vorgebirgsgelände fielen der Bodenbearbeitung zum Opfer. Angesichts der Zerstörung manchmal auch ganzer Gräberfelder ist ihre Existenz oft nur durch einen Namen belegt (zum Beispiel Homole, Na Mohylky), und ihre zeitliche Einordnung ist nicht überprüfbar. Auf dem Hügelgräberfeld in Skalica stellte I. L. Červinka im Jahr 1922 etwa 100 Grabhügel fest, wobei V. Budinský-Krička im Jahr 1943 nur noch 63 von ihnen vermessen hat. Die geographische Verbreitung der Hügelgräber-Nekropolen in geschlossenen Gebieten lässt sich durch das Vordringen der Slawen in das Gebiet der heutigen Slowakei in mehreren Wellen aus verschiedenen Richtungen und somit auch mit unterschiedlichen Bestattungssitten erklären. (Lutovský 1989, 1996a; Váňa 1952).\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Mitteleuropa ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "wurden 15 geschlossene Hügelgräbergebiete ausgegliedert:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Das südböhmisch-österreichische Gebiet ist das zahlreichste, mit Bestattungen im 7. bis 9. Jahrhundert. Ein gemeinsames Merkmal ist die Verwendung von Steinkonstruktionen und das Verstreuen der verbrannten kleinen Knochen auf dem ursprünglichen Geländeniveau unter der Hügelaufschüttung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Das ostböhmische Gebiet – mit der charakteristischen sogenannten unteren Aufschüttung und mit Bestattungen im 7. – 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Das mährisch-westslowakische Gebiet mit einem Überwiegen birituell und mit Körpergräbern belegter Hügelgräberfelder, mit dem Beginn der Bestattungen im 8. Jahrhundert und dem Ende im Verlauf der 1. Hälfte des 10. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Das obere Neutra-Gebiet – mit dem frühen Übergang vom Brand-Hügelgrabritus zur Körperbestattung im Grabhügel. Grabhügel errichtete man hier vom 7. bis zum 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Das Waagtal-Gebiet ist rituell uneinheitlich, mit dem langsamen Verschwinden der Brandbestattung und einer größeren Zahl birituell belegter Hügelgräber-Nekropolen. Zeitliche Einordnung: 8. – 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Das Turiec-Gebiet – ein gemeinsames Merkmal ist die geringe Fläche der Hügelgräberfelder und das Niederlegen der Körpergräber auf dem ursprünglichen Niveau des umliegenden Geländes. Es handelt sich um Gräber vom Beginn des 9. Jahrhunderts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Das ostslowakisch-karpatenvorländische Gebiet (einschließlich der Karpatenukraine) – typisch ist das Verstreuen der kleinen verbrannten Knochen auf dem ursprünglichen Geländeniveau und das lange Fortbestehen des Brand-Hügelgrabritus. Datierung: 8. – 9. Jahrhundert, nur in Topoľovka bis in das 11. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "8. Das Lausitzer Gebiet – ein gemeinsames Merkmal ist die Verwendung von Steinen in den Aufschüttungen der Grabhügel, der sogenannten Pflasterung, und auch von Holzkonstruktionen; Grabhügel errichtete man von der Mitte des 7. Jahrhunderts bis zur Wende vom 10. zum 11. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "9. Das schlesische Gebiet – es hat eine größere Variabilität im Bau der Grabhügel; in der Ober-Oder-Gruppe ist die untere Aufschüttung häufig, die Breslauer Gruppe verwendete Steinkonstruktionen, gemeinsam war die Verwendung hölzerner rechtwinkliger Konstruktionen. Die Hügelgrabbestattung bestand vom 7. bis zum 9. Jahrhundert fort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "10. Das nordkarpatische Gebiet vom San bis zur Weichsel, im Süden bis zu den Karpaten – charakteristische Merkmale hat nur die Krakauer Gruppe, die untere Aufschüttung in Kombination mit Stein- und Holzelementen. Der Hügelgrabritus begann im 7. Jahrhundert und endete im 11. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "11. Das Lubliner-Sandomierer Gebiet: typisch ist der geringe Umfang der Nekropolen mit dem Beginn der Bestattungen bereits im 6. Jahrhundert und dem Abschluss im 11. Jahrhundert. Gerade vom westlichsten Gebiet Sandomierz aus verbreitete sich offenbar der Hügelgrabritus nach Osten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "12. Das Bug-Bialystoker Gebiet zeichnet sich durch Grabhügel mit größeren Ausmaßen der Aufschüttungen und durch Bestattungen ab dem 6. Jahrhundert aus. Die größte Entfaltung des Ritus verlief im 10. bis 12. Jahrhundert. Diese Umstände erlaubten es, die Grabhügel bereits mit den Ostslawen zu verbinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "13. Das Untere-Havel-Gebiet ist durch die Verwendung von Lehmaufschüttungen bekannt, die von kreisförmigen Gräben umgeben sind. Die Hügelgrabbestattung beginnt im 7. und endet im 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "14. Das Gebiet des linken Elbufers: unter den Aufschüttungen fanden sich Überreste umfangreicher Brandstellen (Begräbnis-Holzstöße), die Grabhügel stammen aus dem 8. – 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "15. Das Gebiet der Ostseeküste: es umfasst den nördlichen Teil Polens und Deutschlands mit einer markanten Vertretung von Grabhügeln im Gebiet der Lübecker Bucht und auf Rügen. Interessant ist die Konzentration der Hügelgräber-Nekropolen an der Küste, zum Beispiel in der Umgebung von Wolin. (Das zweite wolhynische Gebiet am polnisch-ukrainischen Übergang wird schon mit dem ostslawischen Hügelgrabritus verbunden, in den Funden überwiegen ostslawische Kulturelemente. Der Burgwall Wolhynien am Bug war kleiner als Aksmanice mit einer Fläche von 2,8 ha und konnte nur eines der weniger bedeutenden Zentren der Wolhynier sein. Die Erwähnung über sie beim Bayerischen Geographen verband ein Teil der polnischen Historiker mit den Wolinern an der Ostsee, die ukrainischen und russischen Historiker wiederum mit den Wolhyniern am Bug. Ondrej R. Halaga, 1985)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hügelgrabritus begann in dem Gebiet im 8. Jahrhundert und endete an der ganzen Küste im 12. Jahrhundert. (M. Lutovský 1989)\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Gebiet der Slowakei",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " überwiegt der Hügelgrabritus in sieben Gebieten (M. Hanuliak 2001):"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Die Záhorie-Gruppe: Gbely, Skalica – etwa 115 Grabhügel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Die Mittel-Waagtal-Gruppe: etwa 23 Grabhügel, Borovce, Trenčín."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Die Nord-Waagtal-Gruppe: Beluša, Dolný Moštenec, Orlové, Sverepec, Prečín, Bohunice, Visolaje, zusammen etwa 135 Grabhügel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Die Žilina-Čadča-Gruppe: mit 162 Grabhügeln, Bitarová, Divina, Dolný Vadičov, Hôrky, Kotrčiná Lúčka, Krasňany, Krásno nad Kysucou, Žilina (Bánová, Teplička nad Váhom, Závodie)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5. Die obere Neutra-Gruppe: 58 Grabhügel zusammen an den Fundstellen Brezolupy, Diviaky nad Nitricou, Ješkova Ves, Mačov, Koš, Nemčeky, Veľké Hoste, Vysočany."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6. Die Turiec-Gruppe: 13 Grabhügel zusammen, festgestellt in Blatnica, Malý Čepčín, in Martin im Ortsteil Priekopa, in Moškovce, Sučany, Turany, Turčianske Jasenovo, Veľký Čepčín und Žabokreky."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7. Die Zemplín-Ondava-Gruppe: Malý Horeš, Kráľovský Chlmec, Streda nad Bodrogom, Topoľovka und zusammen 108 Grabhügel (M. Hanuliak 2001)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Aufzählung der Fundstellen ist nur annähernd. Angesichts der typisch geringen oder fehlenden Zahl von Gegenständen, die in die slawischen Grabhügel gelegt wurden, ihrer Zerstörung beim Brandritus oder des fehlenden anthropologischen Materials war es manchmal auch nach der Ausgrabung nicht möglich, die Zeit zu bestimmen und sie den slawischen zuzuordnen. In der Zeit der älteren archäologischen Ausgrabungen hielt man die Brandhügelgräber sogar für leer, da die paar verstreuten kleinen verbrannten Knochen in den Aufschüttungen der Grabhügel der Aufmerksamkeit leicht entgingen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hügelgrabritus und das Ritual",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Grundriss der slawischen Grabhügel ist kreisförmig, oval oder auch länglich mit abgerundeten Ecken. Die heutige Größe bewegt sich bei den kreisförmigen Grabhügeln von einem Durchmesser von 4 m (zum Beispiel Orlové) bis zu einer Länge von 27 m beim ovalen Grabhügel in Skalica. Die ursprüngliche Höhe der Aufschüttungen ist unbekannt, die Grabhügel sind der Verwitterung ausgesetzt oder in den Graben an ihrem Umfang abgerutscht, sie haben also verschiedene postdepositionelle Transformationen durchlaufen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hügelgrabritus erscheint im 6. Jahrhundert und endet etwa im 10. Jahrhundert, an der Küste der Ostsee im 12. Jahrhundert; im Norden Russlands sind Grabhügel auch im 16. Jahrhundert nicht ungewöhnlich. Bei den einzelnen Hügelgräberfeldern wird eine lange oder eine kurze Chronologie erwogen. Wenn eine größere Gemeinschaft eine Hügelgräber-Nekropole genutzt hätte, hätte sie sie in kurzer Zeit erschöpft. Wahrscheinlicher ist die lange Chronologie, wofür datierte Funde aus birituell belegten Hügelgräberfeldern als Beweis dienen. Der Hügelgrabritus beginnt als Brandritus, etwa in der Mitte des 9. Jahrhunderts wandelt er sich zum Körperritus, also zur Bestattung unverbrannter Körper. Auf einigen Hügelgräberfeldern fanden sich Brand- und Körpergräber – die sogenannten birituell belegten Hügelgräberfelder. Im Fall der langen Chronologie, also einer langen Bestattungsdauer auf dem Hügelgräberfeld, sind auf diesen Nekropolen zu wenige Grabhügel, und es taucht die Frage auf, wo die übrigen Toten aus den Gebieten mit ausschließlicher Hügelgrabbestattung sind (Lutovský 1989, 1990). Die Zahl der Grabhügel in der Slowakei beträgt etwa 614; zum Vergleich: die Zahl der Flachgräber aus dem 9. – 10. Jahrhundert beträgt etwa 3239 (Hanuliak 2001). Auf den Hügelgräberfeldern konnten nicht alle Toten aus so ausgedehnten Hügelgräbergebieten begraben sein, auch wenn man die Zahl der zerstörten Hügelgräberfelder und die Tatsache berücksichtigt, dass in einem Grabhügel mehrere Bestattungen sein können. Wir kennen die Zahl der Toten in den Brandhügelgräbern nicht; in den Körperhügelgräbern ist oft ein Toter, in Skalica zum Beispiel 2 bis 5 Personen, und der größte Grabhügel Nr. 13 enthielt bis zu 11 Gräber (Kraskovská 1992). Die Grabhügel stellen erhöhtes Gelände dar, offenbar aus diesem Grund sind in den Aufschüttungen auch sekundäre Gräber eingetieft; in der Gemeinde Přítluky begrub man im 11. Jahrhundert weitere Tote in älteren slawischen Grabhügeln nach dem Körperritus (Poulík 1951). Leere Grabhügel – Kenotaphe – sind im ganzen slawischen Gebiet bisher nur auf Rügen und im russischen Gnjosdowo belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den slawischen Grabhügeln sind traditionell wenige Artefakte, wichtig ist ihre räumliche Verteilung in der Aufschüttung und der Aufbau der Aufschüttung selbst, die andeuten, wie die Begräbnisrituale abliefen. In der Dokumentation der ersten Ausgrabungen, wenn überhaupt eine angefertigt wurde, fehlen gerade diese Informationen. Die Ausgrabung beschränkte sich auf einen zentralen Einschnitt in den Grabhügel. In den Aufschüttungen der slawischen Grabhügel wurden Feuerstellen, Stein- und Holzkonstruktionen und untere Aufschüttungen identifiziert. In Bezemín stellte man bei der Untersuchung der Aufschüttung fest, dass man nicht abwartete, bis die Holzkonstruktion ausgebrannt war; der Grabhügel wurde über dem noch brennenden „Holzstoß“ aufgeschüttet, wofür durchgebrannte Steine bei den Holzresten als Beweis dienen (Kudrnáč 1951)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Brandritus",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die verbrannten Knochen wurden nicht nach einem einheitlichen Ritus niedergelegt, das System war nicht gefestigt, Unterschiede bestanden nicht nur zwischen den Hügelgräbergebieten, sondern auch innerhalb einer Nekropole. Kalzinierte kleine Knochen fanden sich verstreut auf dem ursprünglichen Niveau der umliegenden Erde, einzeln oder in Gruppen im ganzen Körper des Grabhügels zerstreut, in einer Grube niedergelegt, auf der Oberfläche der unteren Aufschüttung aufgeschüttet, in einer Urne im Mantel und auch an der Basis des Grabhügels; Urnen waren auch auf der Oberfläche des Grabhügels angebracht, sogar auf Pfählen, die aus den Grabhügeln herausragten. Diese Bestattung oberhalb des Grabhügels beschrieb bei den Ostslawen Nestor: die Knochen legten sie in ein kleines Gefäß und stellten es auf Pfosten an den Wegen. Eine Bestattung oberhalb des Grabhügels wurde in Vitějovice und in Kožlí u Orlíku festgestellt; Keramikbruchstücke finden sich in einem solchen Fall am Hang und an der Basis des Grabhügels (Lutovský 1996a, 1996b, 2012). In Bulhary fanden sich direkt in der Hügelaufschüttung keine Spuren einer Bestattung, Fragmente zweier Gefäße lagen im Graben neben dem Grabhügel. Es wird angenommen, dass sie ursprünglich zusammen mit der Bestattung auf dem Gipfel des Grabhügels niedergelegt waren, von wo sie mit der Zeit über seinen Hang in den Graben abrutschten, der ihn umgab (Nekvasil 1955). Eine andere Art der Niederlegung der Urne wurde in Veľké Hoste festgestellt: das Gefäß mit nicht ganz verbrannten Knochen war in den Mantel des Grabhügels in einer Tiefe von etwa 30 cm eingelassen (Točík 1978).\n \n \n   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Gebieten mit vorherrschender unterer Aufschüttung findet sich die Asche zusammen mit einer geringen Menge kleiner verbrannter Knochen auf der Oberfläche dieses kompakten Körpers verstreut, der anschließend mit dem Mantel des Grabhügels überschüttet wurde. Diese Art ist in Nordostböhmen in den Prachovské skaly, in Nadslav, Vinařice und Dvakačovice verbreitet (Turčan 1984). Gruppen kleiner verbrannter Knochen, die in den ganzen Körper des Grabhügels zerstreut waren, fanden sich in Bezemín (Kudrnáč 1951). In Vysočany an der Thaya waren die Brandbestattungen auf dem ursprünglichen Niveau der umliegenden Erde unter der Hügelaufschüttung aufgeschüttet (Král 1955)..\n \n \n   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine weitere Art ist das Niederlegen nicht vollständig verbrannter Knochenbruchstücke in eine Grube. In Kráľovský Chlmec waren alle untersuchten Grabhügel Brandhügelgräber mit zwei oder mehreren Bestattungen in einem Grabhügel, die Gruben waren in den unteren Körper oder in den Untergrund des Grabhügels eingetieft. Einige verbrannte Knochen fanden sich in kleineren Gruppen auch in den Aufschüttungen der Grabhügel (Budinský-Krička 1950). In der Ostslowakei überwiegt der Brandritus, und belegt sind fast alle erwähnten Arten der Niederlegung der Bestattungen: in eine ausgehobene Grube, auf Häufchen, in den Torso eines Gefäßes – in der älteren Zeit. Eine wahrscheinlich jüngere Phase war das Verstreuen der kleinen zerriebenen, nicht vollständig verbrannten Knochen auf dem Geländeniveau oder in die ganze Aufschüttung. In der Mittelslowakei überwiegt das Verstreuen auf dem ursprünglichen Geländeniveau (Hanuliak 2001). Im birituell belegten Skalica wurde eine große Variabilität des Brandritus festgestellt, von der Niederlegung in Urnen, in ausgehobenen Gruben, auf Häufchen, auf dem ursprünglichen Niveau der Erde und in einem Fall blieben sie auf der Brandstelle (Kraskovská 1992). Das zweitgrößte Hügelgräberfeld der Nordwestslowakei ist Visolaje. Im Jahr 1960 stellte das Považské-Museum einen Brandritus mit in den Untergrund eingelassenen Gruben fest. Im Grabhügel Nr. 2 war in der Verfüllung der Grube die Erde am intensivsten durchgebrannt und enthielt die meisten Knochen. In der Grube brannte offenbar ein Feuer.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Interessant ist der Fund von Brandgräbern auch zwischen den Grabhügeln an der Fundstelle Přítluky (Poulík 1951) und eine Art System zur Verbesserung des Zuges beim Brennen in Veselí nad Lužnicí. In den verwitterten Felsen unter den Hügelaufschüttungen waren grabenartige rechteckige Gruben und flache Gruben in schräger Richtung eingetieft. Im zweiten Grabhügel waren in die Wand einer solchen Grube Steine eingesetzt, wie um den Zug zu ermöglichen. In keiner der Gruben fand sich eine Bestattung, was diesen Gedanken unterstützte (Turek 1952). Eine bisher einzigartige Erscheinung in der Slowakei ist die Steinverkleidung nicht vollständig verbrannter Knochen. In Kráľovský Chlmec waren in einem runden Grabhügel 3 Brandbestattungen, im südlichen Teil des Grabhügels war eine Steinkammer aus drei Steinen, unter ihr Holzkohle und Asche; in westlicher Richtung lag eine Brandstelle mit einem Durchmesser von 1 m mit durchgebranntem Lehm. Die Toten wurden im südlichen Teil des Grabhügels verbrannt (Pastor 1951).  \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dieser Aufzählung ist ersichtlich, dass sich unter einem Brandhügelgrab außer verkohlten Holzkonstruktionen, Asche und nicht vollständig verbrannten Knochen auch kleinere durchgebrannte Flächen – Feuerstellen – fanden, auf denen die Kremation wegen ihrer geringen Größe nicht ablaufen konnte. Das Anlegen dieser Feuer ist eine Äußerung ritueller Zeremonien (Lutovský 1996a)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belege für die Verbrennung der Toten unmittelbar an der Stelle, an der der Grabhügel aufgeschüttet werden sollte, sind wenige. In der Slowakei ist es der Grabhügel Nr. 14 in Kráľovský Chlmec (Budinský-Krička 1980), in Böhmen Kožlí u Orlíku. Brandstellen, also Orte, an denen die Slawen ihre Toten verbrannten, konnten bisher nicht gefunden werden. Auf der Grundlage ethnographischer Erhebungen konnte die Verbrennung unmittelbar in den Siedlungen ablaufen (Turčan 1984). Der Holzstoß musste jedoch nicht notwendigerweise in der Siedlung oder auf dem Gräberfeld sein. Bei den Ausgrabungen der Gräberfelder wurde teilweise auch die Fläche zwischen den Grabhügeln aufgedeckt. Bisher fehlen überall Belege für ein großes Feuer, und verbrannte Knochen müssten es etwa 3000 cm³ sein, nicht ein paar verstreute Bruchstücke (Lutovský 1996a).  \n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Körperritus",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Körperritus beginnt an der Wende vom 8. zum 9. Jahrhundert; er ersetzte die ältere Brandbestattung. Die neue Art der Bestattung konnten Gruppen gebracht haben, die unter dem Druck des Awarenkhaganats migrierten (Hanuliak 2001). Auch im Körperritus äußerten sich verschiedene Arten der Niederlegung der Toten, entweder auf dem Geländeniveau unter der Hügelaufschüttung oder in rechteckige oder mit Nischen versehene Grabgruben, die in den Untergrund der Grabhügel eingetieft waren. Wegen des Mangels an Daten, die von den bisher untersuchten Hügelgräberfeldern gewonnen wurden, lässt sich in der Slowakei nicht beweisen, dass die Bestattung auf dem Geländeniveau den Bestattungen in Grabgruben vorausging. Die Skelette vom Geländeniveau sind oft vollständig zersetzt, was eine anthropologische Untersuchung und eine detaillierte Chronologie unmöglich machte. Mit dem Fund von Grabgruben unter den Grabhügeln in Bánová endeten auch die Erwägungen über eine Bestattung auf dem ursprünglichen Niveau der Erde in gebirgigen und felsigen Gebieten, in denen sich Gruben schwer ausheben lassen. In Stěbořice waren die Grabgruben ebenfalls bis in den verwitterten Felsen eingetieft, das männliche Skelett lag in einem Holzrahmen und das weibliche in einem Sarg (Jisl 1953). In den Grabgruben der Slawen erscheinen häufig verschiedene Vorrichtungen aus Holz, sowohl in den Grabhügeln als auch auf den Flachgräberfeldern. Überreste hölzerner Vorrichtungen fanden sich auch bei der Bestattung auf dem Geländeniveau. In Sverepec war im Grabhügel Nr. 3 das Skelett in Richtung O – W orientiert. Beim Schädelknochen lag ein 85 cm langer gewellter Streifen von Holzkohlen in Richtung N – S, der durch trockene Destillation des Holzes entstanden sein konnte; der Tote war nach der Art eines Sarges mit Holz umlegt. Der 85 cm lange Streifen von Holzkohlen deutet die Breite des Sarges oder der Holzverkleidung an. Südlich des Skeletts fand sich unter der Hügelaufschüttung eine Glut. Diese war auch im Körperhügelgrab Nr. 4, und im Grabhügel Nr. 2 waren zwei Glutstellen (Petrovský-Šichman 1968). Beide Arten der Körperniederlegung wurden zum Beispiel in Skalica und in Veľké Hoste festgestellt. In Skalica war ein Mann in einem aus einem Eichenstamm ausgehöhlten Sarg begraben, in einigen Fällen lag der Körper in einem Sarg aus Eichenbrettern (Kraskovská 1959). Auf dem birituell belegten Hügelgräberfeld in Veľké Hoste waren in 6 Fällen Grabgruben vorhanden, und in 9 Grabhügeln lagen die Toten auf dem Niveau der Erde. Die eingelassenen Gruben hatten größere Ausmaße von bis zu 330 × 200 cm; in zwei Gruben fanden sich Spuren eines Rituralfeuers. Der Grabhügel Nr. 6, rund mit einem Durchmesser von 9 m und einer Höhe von 0,35 m, mit einer Grabgrube von 1,25 m Tiefe, trug Spuren eines größeren Feuers. Auf dem Boden der Grube und in ihren Ecken fanden sich Stücke verbrannten Holzes. Es ist ein Körpergrab, das mit dem Brandritus kombiniert ist: der hölzerne Holzstoß war in der Grabgrube errichtet, der Tote war teilweise verbrannt. Über dieser Bestattung lag in derselben Grube noch ein weiterer Toter (Porubský 1954). Zwei Grabgruben unter einem Grabhügel fanden sich in Bánová; in ihnen lagen unverbrannte Körper von Kriegern, die mit Baumrinde bedeckt waren. Im Grabhügel waren Waffen, und die für die Nordwestslowakei einzigartigen Grabgruben zeugen ebenfalls von der Anwesenheit von Mitgliedern großmährischer Kriegergefolgschaften des 9. Jahrhunderts (Moravčík 1975). Flachere oder tiefere Grabgruben waren auch in Skalica vorhanden, mit verschiedenen Vorrichtungen aus Holz; die Wände waren von zwei oder vier Seiten mit Brettern und Balken verkleidet. Manche Toten lagen auf einer hölzernen Unterlage oder waren von oben mit einem Brett bedeckt. Ebenso wie in Bánová fanden sich auch hier Tote, die auf Baumrinde niedergelegt waren, oder auf dem Boden der Grube war Moos ausgebreitet (Kraskovská 1992). Eine Besonderheit ist die Erwähnung aus Stěbořice, wo die Verfüllung der Grabgrube so locker war, dass nach ihrer Aufdeckung an ihren Wänden bogenförmige Spuren des Aushebens der Grube sichtbar waren – wahrscheinlich mit einer Axt. In der Wand hinter dem Kopf des Skeletts war eine Nische. Die Tiefe der Gruben betrug bis zu 155 cm (Jisl 1953)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach slawischer Sitte wurden die Toten in Richtung O – W niedergelegt, mit den Füßen im Osten und dem Kopf im Westen, damit sie das Gesicht dem Sonnenaufgang zugewandt hatten. Auf den Hügelgräberfeldern kommen in der Regel auch leichte Abweichungen in den Richtungen NO – SW und Ähnliches vor. Zum Beispiel hatten in Skalica 61 Tote die grundlegende Orientierung O – W und 5 die Orientierung N – S und NO – SW (Kraskovská 1992). Das größte slawische Hügelgräberfeld der Nordwestslowakei, das birituell belegte Krasňany mit 51 Grabhügeln, hatte die Körpergräber auf dem ursprünglichen Geländeniveau niedergelegt und in Richtung O – W orientiert (Moravčík 1975). Eine abweichende Orientierung N – S wurde im Grabhügel Nr. 2 in Beluša Koscelisšči und in zwei Grabhügeln in Sverepec auf Podvrščie festgestellt. Die fast zersetzten Skelette waren mit Steinen in Form eines Rechtecks in Richtung N – S umlegt. Ein Verzeichnis der Gräber mit außergewöhnlicher Orientierung auf den mährischen Nekropolen erarbeitete B. Dostál. V. Hrubý führte wiederum an, dass in diesen Gräbern Angehörige anderer ethnischer Herkunft zu suchen sind, weshalb A. Petrovský-Šichman im Zusammenhang mit Sverepec die Frage stellte, ob es sich hier nicht um Krieger fremder Herkunft handelte, die jedoch slawische Gegenstände benutzten, die in den Grabhügeln vorhanden sind. Auch die Steinverkleidung der Überreste des Skeletts im Grabhügel Nr. 1 war so eng (25 cm), dass der Tote auf der Seite niedergelegt sein musste und nicht auf dem Rücken, wie es bei den Slawen üblich war (Petrovský-Šichman 1968). Eine der möglichen Ursachen der leichten Abweichungen von der Ost-West-Richtung nach Norden oder Süden könnte die Stellung der Sonne in verschiedenen Jahreszeiten sein, oder Probleme mit der genauen Bestimmung des Sonnenaufgangs im Frühmittelalter auf Nekropolen mit schlechtem Blick zum Horizont.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Birituell belegte Grabhügel und Hügelgräberfelder",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das gemeinsame Auftreten des Brand- und des Körperritus auf einem Hügelgräberfeld ist eine Übergangsphase von der Einascherung der Toten im 7. – 8. Jahrhundert zur Bestattung unverbrannter Körper, die sich in der ersten Hälfte des 9. Jahrhunderts formt. Den Prozess der Umwandlung der Riten kann man am besten auf den Nekropolen beobachten, die fast vollständig untersucht wurden, wie die birituell belegten Krasňany, Skalica und Veľké Hoste, wo Brand- und Körperhügelgräber gemeinsam vorkommen. Die Biritualität ist in der Gruppe der Grabhügel des oberen Neutra-Gebietes reichlich vertreten. Beim gegenwärtigen Forschungsstand scheint es, dass die Hügelgräberfelder im Tal der Bebrava, wie Veľké Hoste, Brezolupy und Jerichov, mehrere ähnliche Merkmale haben. Die Brandhügelgräber haben größere Ausmaße als die Körperhügelgräber, in jedem Grabhügel ist nur eine Bestattung, und die häufigste Grabbeigabe sind Gegenstände, die zur Ausrüstung eines Kriegers gehören (Porubský 1954)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Äußerung des problemlosen Wechsels der Riten kann die Existenz von Grabhügeln sein, die unter einer Aufschüttung ein Brand- und ein Körpergrab enthalten (Hanuliak 2001). In Bitarová war im Grabhügel Nr. 17 mit einem Durchmesser von 10 m ein Brandgrab in der Aufschüttung des Grabhügels und unter der Aufschüttung zwei Körpergräber, die in Richtung SW – SO und O – W orientiert waren; ein Toter lag im östlichen Teil des Grabhügels, der zweite im westlichen (Budinský-Krička 1957). Ein birituell belegter Grabhügel war auch in Beluša Koscelisšči, wo im Jahr 1963 eine Brand- und eine Körperbestattung unter einer Aufschüttung auf dem ursprünglichen Niveau der Erde festgestellt wurde. Das Körpergrab war mit Steinen überschüttet (Petrovský-Šichman 1964). Ebenso fanden sich in Skalica unter einem Grabhügel Brand- und Körpergräber; in Krasňany bei Žilina waren in einem ovalen Grabhügel zwei Körper- und zwei Brandgräber."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei bis zu 31 % der untersuchten Hügelgräberfelder aus dem Gebiet der Slowakei lässt sich keiner der drei angeführten Riten eindeutig bestätigen. Acht Nekropolen werden als birituell belegt angeführt, obwohl nur einer oder zwei Grabhügel untersucht wurden (Hanuliak 2001)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lange Grabhügel, Sammel- und kumulative Grabhügel.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ovale lange Grabhügel der Westslawen findet man in ganz Mitteleuropa, in Böhmen, in Mähren, in Polen und in der Slowakei, in geringerem Maße in Deutschland. Für Sammelgrabhügel halten wir nur jene langen Grabhügel, die aus mehreren Hügelaufschüttungen bestehen (ohne Rücksicht auf die Zahl der Bestattungen), was im ostslawischen Umfeld üblich ist. Ihre langen Grabhügel entstanden durch das allmähliche Anschütten der einzelnen Grabhügel, die endgültige Länge erreicht bis zu 40 m, und sie enthalten bis zu 22 Brandbestattungen (Lutovský 1996a). Ein Beispiel für einen Sammelgrabhügel aus dem Gebiet Böhmens ist der Doppelgrabhügel in Bechyňská Smolč, und aus der Slowakei Borovce bei Piešťany.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Ausmaß der langen Grabhügel der Westslawen liegt bei etwa 20 m, in Skalica hatte der Grabhügel Nr. 22 bis zu 27 m. Die ersten böhmischen Ausgrabungen solcher Grabhügel führte Rudolf Turek in Veselí nad Lužnicí durch; die langen Grabhügel hatten einen unterschiedlichen Aufbau der Aufschüttung. Zum Beispiel hatte der ovale Grabhügel Nr. 3 in westöstlicher Richtung ursprünglich den Kern auf der östlichen Seite, wo ein unterer Körper aus gelbem Lehm war; auf seiner Oberfläche lag eine Ascheschicht, und darauf setzten weitere Schichten aus Lehm und Kies auf; im oberen Teil zog sich über die ganze Länge ein Streifen verstreuter kleiner verbrannter Knochen. Der Grabhügel hatte mehrere Bestattungen, offenbar eine doppelte Brandbestattung auf der westlichen Seite und über der östlichen Basis des Grabhügels eine weitere Brandbestattung (Turek 1952). Ein langer Brandgrabhügel wurde auch in Dvakačovice untersucht. Der Grabhügel Nr. 6 mit den Ausmaßen 16,4 × 10,8 m und einer Höhe von 130 cm hatte einen einfachen Aufbau mit einem unteren festgetretenen Körper, auf den die obere Lehmschicht gelegt war, die mit Holzkohlen und kleineren Überresten verbrannten Holzes durchmischt war. Auf der westlichen, östlichen und nördlichen Seite war er von Gräben umgeben (Turčan 1984).\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einzigartig ist der Bau des sogenannten kumulativen Grabhügels in Kožlí u Orlíku; der Grabhügel wurde aus vier Aufschüttungen gebildet, die im Quadrat angeordnet waren, Bestattungen waren nur unter zwei Aufschüttungen. In die Erde ließen sie einen Holzpfahl ein, befestigten ihn mit Steinen und schütteten einen kleinen Grabhügel an. An seiner Basis zündeten sie ein Feuer an. Noch im Verlauf des Brennens schütteten sie den Grabhügel auf. In unmittelbarer Nähe errichteten sie auf gleiche Weise einen weiteren Grabhügel. Gefäße mit Asche brachten sie auf Pfählen an. Das weitere Vorgehen war außergewöhnlich. Auf der westlichen Seite dieser Grabhügel begrenzten sie den Raum mit Steinen, zündeten ein mächtiges Feuer an und überschütteten es noch brennend mit Steinen und Lehm; obenauf zerbrachen sie zwei Gefäße. Alle Aufschüttungen bedeckten sie mit Steinen und schütteten einen vierten Grabhügel aus Lehm auf. Bestattungen waren nur in den ersten zwei Grabhügeln – auf Pfählen, alles andere war Teil näher unbekannter ritueller Begräbniszeremonien (Lutovský 1996b).\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein langer Grabhügel",
+    "alt": "Ein langer Grabhügel",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem birituell belegten Hügelgräberfeld in Brezolupy waren vier Grabhügel, zwei runde und zwei ovale. Der ovale Grabhügel Nr. 1 war 12 m lang und 65 cm hoch. In einer Tiefe von 20 – 25 cm unter dem Niveau der umliegenden Erde lagen entlang der langen Achse des Grabhügels 2 Körpergräber, die mit dem Kopf nach Westen orientiert waren. In der Nähe jedes Grabes war eine Brandstelle. Der Grabhügel Nr. 4, ebenfalls oval, mit der Orientierung N – S, 16 m lang, 12 m breit und 105 cm hoch, war birituell belegt. In der Mitte der Aufschüttung fanden sich verstreute Bruchstücke verbrannter Knochen. Weitere Bestattungen lagen nahe dem Niveau der Erde, eine war ein Körpergrab ohne Sarg, das Skelett mit dem Kopf nach Westen orientiert, die zweite war ein Urnengrab mit einer 185 cm langen und 130 cm breiten Brandstelle mit Bruchstücken verbrannten Holzes; die Urne war fast vollständig erhalten, handgeformt, mit durchgebrannten Knochen. Nordwestlich lag ein weiteres Brandgrab mit einer Brandstelle von 290 × 150 cm mit Bruchstücken verbrannten Holzes und verbrannten Knochen. Das letzte Grab in diesem Grabhügel war ein Urnengrab mit Bruchstücken nicht vollständig verbrannter Knochen (Budaváry 1935). Auf dem birituell belegten Hügelgräberfeld in Jerichov hatte der ovale Grabhügel Nr. 4 in nordsüdlicher Richtung das Ausmaß 16,20 × 9,35 m und eine Höhe von 130 cm. Er war ein Brandgrabhügel und enthielt nicht vollständig verbrannte kleine Knochen, die in der Hügelaufschüttung verstreut waren, mit Bruchstücken von Gefäßen und verbranntem Holz. Die Feuer waren vor dem Beginn des Baus der Aufschüttung angezündet. In einer Tiefe von 105 cm vom Gipfel des Grabhügels wurde im südwestlichen Teil eine Brandstelle von 120 × 70 cm aufgedeckt, deren Ascheschicht eine Dicke von 4 cm hatte. Westlich befand sich eine kleine Feuerstelle. Im südöstlichen Teil, auf dem Niveau der umliegenden Erde, war eine weitere Feuerstelle mit einem Durchmesser von 50 cm und mit einer 8 – 10 cm dicken durchgebrannten Schicht. Die Toten aus den Brandgräbern von Jerichov waren außerhalb der Grabhügel verbrannt (Budaváry 1935).\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hügelaufschüttungen.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zwei Grabhügel aus dem Waagtal",
+    "alt": "Zwei Grabhügel aus dem Waagtal",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Aufbau der Hügelaufschüttung ist das Wesentlichste, er hat einen höheren Aussagewert als die in die Grabhügel gelegten Artefakte selbst, er verrät Spuren der Rituale. Die Aufschüttung kann homogen sein, mit einem unteren Körper, mit Stein- oder hölzernen rechtwinkligen Konstruktionen. Der untere Körper, das heißt die Aufschüttung, ist der primäre Grabhügel, auf den weitere Schichten angeschüttet wurden. Er unterscheidet sich von seinem Hangenden durch Härte und Kompaktheit. Dieses Festtreten der unteren Aufschüttung ist zum Beispiel für das ostböhmische und das südböhmische Gebiet charakteristisch, für Bojetice, Dvakačovice, Nadslav, die Prachovské skaly und Vinařice. Beim Brandritus waren die Kremationsreste oft auf der Oberfläche einer solchen unteren Aufschüttung verstreut. In Dvakačovice unterschieden sich die Schichten des unteren Körpers im Profil farblich und in der Zusammensetzung nur bei den Grabhügeln 1, 6 und 9, während die Grabhügel 3 und 4 beide Schichten aus demselben Material aufgeschüttet hatten; sie unterschieden sich durch ihre Kompaktheit. Im Grabhügel Nr. 4 waren diese Schichten noch durch ein dünnes tonhaltiges Schichtchen getrennt. Nach den ursprünglichen Annahmen kam es zur Entstehung des unteren Körpers durch das Festtreten bei rituellen Tänzen, die in sportliche Kämpfe übergehen konnten, die bei den russischen Slawen belegt sind (Turčan 1984). In Veselí nad Lužnicí wurden ebenfalls untere Aufschüttungen dokumentiert. Der Grabhügel Nr. 1 hatte unter der oberen hellen sandig-lehmigen Aufschüttung eine dunkler gefärbte untere Aufschüttung, ihre Grenze war mit unregelmäßig gelegten Steinen bedeckt. Der Grabhügel Nr. 4 war wiederum aus Sand zweier Farbtöne aufgeschüttet, so konnte der untere Körper unterschieden werden (Turek 1952). Die Dokumentation des Aufbaus der Hügelaufschüttung war auf den slowakischen Hügelgräberfeldern oft nicht möglich, die Rettungsgrabung folgte erst nach ihrer Zerstörung bei Forst- und Landwirtschaftsarbeiten. Beispiele sind Sverepec – Podvrščie oder Kráľovský Chlmec, wo es sich im Jahr 1966 bereits um eine denkmalgeschützte archäologische Fundstelle handelte; trotzdem wurden 21 Grabhügel bei der Entfernung des Waldbestandes zerstört. Die übrigen Brandgrabhügel von Kráľovský Chlmec, die bei systematischen Ausgrabungen aufgedeckt wurden, waren aus dem Lehm der nächsten Umgebung errichtet, ohne Verwendung von Stein; eine Ausnahme war nur der Grabhügel Nr. 3, der einen Streifen von Steinen in der Oberflächenschicht der Aufschüttung enthielt (Budinský-Krička 1980)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Holzkonstruktionen.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Häuser der Toten“, also innere rechtwinklige Holzkonstruktionen in den Grabhügeln, wurden in den meisten mitteleuropäischen Hügelgräbergebieten der Westslawen verwendet, in der Slowakei, in Mähren, in Böhmen, in Kleinpolen, in Schlesien und in der Lausitz. Rahmen aus verkohltem Holz dokumentierte in Böhmen zum ersten Mal im Jahr 1922 Josef Antonín Jíra in Hlohovičky, veröffentlicht wurden sie jedoch erst nach siebzig Jahren. Vollständig wurden sie erst in den Prachovské skaly und in Nadslav aufgezeichnet und nach weiteren zwanzig Jahren in Kleinpolen bei den Ausgrabungen von Helena Zoll-Adamikowa (Lutovský 2012). Die Seitenlänge des Rahmens beträgt üblicherweise 3 – 4 m, Unterschiede bestehen in der Art der Konstruktion: sie wird aus Rundholz, Brettern oder Baumästen gebildet. Konstruktionsunterschiede lassen sich auch innerhalb eines Gräberfeldes beobachten, zum Beispiel in Kožlí u Orlíku. Teil des Übergangsrituals aus der Welt der Lebenden war die Zerstörung der Konstruktion durch Feuer. Dieses Vorgehen wandten sie auch in Vitějovice an; der im Grabhügel gefundene Rahmen maß 3 × 3 m, mit den Ecken zu den Haupthimmelsrichtungen orientiert. Die ganze Konstruktion ging durch das Feuer, der Lehm in der Umgebung war rot durchgebrannt, stellenweise bis in eine Tiefe von 20 cm (Lutovský 2012). Auf dem birituell belegten Hügelgräberfeld in Kožlí waren rechtwinklige Holzkonstruktionen in Brand- und in Körperhügelgräbern errichtet, verwendet wurde Eichenholz, in geringerem Maße Kiefer und Tanne. Die in den kumulativen Grabhügeln gefundenen Feuerstellen enthielten ebenfalls Eichenholz (Lutovský 1996b). Im großen länglichen Grabhügel in Dvakačovice fanden sich zusammen mit Holzkohlen auch Überreste verbrannten Holzes (Turčan 1984). Durchgebrannte Holzkonstruktionen sind auch aus den Grabhügeln von Bezemín belegt. Den „Holzstoß“ zündeten sie an und überschütteten ihn noch während des Brennens, sie warteten nicht, bis er ausgebrannt war (Kudrnáč 1951). In der Waagtal-Hügelgräbergruppe fanden sich verkohlte Überreste hölzerner rechtwinkliger Konstruktionen in den Brandgrabhügeln des birituell belegten Bitarová, mit einem Ausmaß von 4 × 4 m und mit Schichten durchgebrannten Lehms in der Umgebung. Nach dem Anzünden der Konstruktion schütteten sie über ihr die Aufschüttung auf, am Ende glomm sie nur noch. In Bánová wurde in den Grabhügeln im Quadrat durchgebrannter Lehm festgestellt, eine Spur eines Holzrahmens (Moravčík 1975). Auf dem birituell belegten Hügelgräberfeld in Krasňany war im Grabhügel Nr. 24 ein Körpergrab mit der Orientierung NW – SO auf dem Niveau der ursprünglichen umliegenden Erde, umgeben von schmalen Streifen dunklen Lehms in Form eines Rechtecks. Das Grab war ursprünglich von vier Seiten mit hölzernen Stangen umlegt; die längeren auf der östlichen Seite ragten über die kürzeren hinaus. Im Grabhügel Nr. 29 war der Tote nur von zwei Seiten mit Holz umlegt, ebenso im Grabhügel Nr. 38 (Budaváry 1938 – 1939). Die Holzkonstruktionen der Westslawen wurden nicht wegen der Stabilität der Aufschüttungen errichtet, vor der Errichtung des Grabhügels wurden sie angezündet, das Holz konnte jedoch nicht ausbrennen, wofür seine Umwandlung in Holzkohle als Beweis dient (sie entsteht beim Brennen ohne Luftzutritt). Die Konstruktionen sind eine Äußerung uns näher unbekannter Begräbnisrituale. Im Fall, dass das Holz vollständig ausbrannte, blieb an der Stelle sichtbar durchgebrannter Lehm zurück (Lutovský 1996a).\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Steinkonstruktionen und Steinelemente in den Grabhügeln.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Steinkonstruktionen, die zur Verstärkung der Grabhügel der Slawen dienten, sind auf dem Gebiet der Slowakei, Böhmens und Mährens weniger verbreitet. In Gebieten mit steinigem geologischem Untergrund sind unregelmäßig verteilte Steine Teil der Aufschüttungen, in die sie von der Stelle der Materialentnahme für die Errichtung des Grabhügels gelangten. Außergewöhnlich bilden die Steine eine Anhäufung inmitten des Grabhügels, den sogenannten Kern, einen Steinkranz am äußeren Umfang des Grabhügels oder eine Decke auf der Oberfläche des Grabhügels, die Mantel genannt wird. Deutlich wurde Stein in Bezemín verwendet, einige Grabhügel waren zum größeren Teil aus flach gelegten Steinen errichtet. Der Grabhügel B war aus drei Schichten dicht nebeneinander gelegter Steine errichtet, drei Steine hatten das große Ausmaß 125 × 60 × 25 cm (Kudrnáč 1951). Ein Steinkern des Grabhügels wurde in den Grabhügeln in Kožlí u Orlíku aufgezeichnet. Im kumulativen Grabhügel Nr. 2 bildeten die Steine einen Mantel im westlichen Teil des Grabhügels und unter ihm auch einen dreischichtigen Kern. In Vitějovice säumten Steine von der äußeren Seite die hölzerne rechtwinklige Konstruktion (Lutovský 1996b, 2012). In den slowakischen Hügelgräbergebieten wurden Steinkonstruktionen nur selten aufgezeichnet. In Kráľovský Chlmec enthielt der Grabhügel Nr. 5 3 Brandbestattungen, eine von ihnen lag unter einer Steinkammer, die aus drei Steinen bestand. Im Grabhügel Nr. 6 war ein Brandgrab auf dem Niveau der ursprünglichen Erde unter einem größeren langen Stein angebracht, um den kleine Knochen verstreut waren. Diese waren von der südlichen, östlichen und westlichen Seite mit weiteren Steinen umlegt, die die Konstruktion des Grabhügels bildeten (Pastor 1951). Auf dem zweiten Hügelgräberfeld von Kráľovský Chlmec hatte der Grabhügel Nr. 3 einen 60 cm breiten Steinstreifen in der Oberflächenschicht auf dem Grat des Grabhügels (Budinský-Krička 1950). Steinelemente wurden auch in Sverepec auf Podvrščie verwendet. In den Streifen von Holzkohlen im Körperhügelgrab Nr. 1 waren kleine Steine in Form eines Rechtecks von 60 × 170 cm eingelassen, mit der längeren Achse in Richtung N – S. Die Steine begrenzten die Lage des Toten. Im Grabhügel Nr. 2 waren zwei große Steine zu den Füßen des Toten angebracht (Petrovský-Šichman 1964). Im Grabhügel Nr. 6 in Kožlí war ein markanter flacher Stein senkrecht aufgestellt. Große Steine hatten auch die Toten in den Grabhügeln 8 und 9 zu den Füßen. Nach der Aufschüttung des Grabhügels blieben die Steine ganz unter der Aufschüttung, sie ragten nicht über die Oberfläche des Grabhügels hinaus, man sah sie nicht. Im Raum zwischen den Grabhügeln, dicht unter der Oberfläche, fand sich eine Steinpflasterung, auf der sich möglicherweise die Begräbnisfeier abspielte. Große und schwere Steinblöcke konnten nicht zufällig bei der Materialentnahme für die Aufschüttung in die Grabhügel gelangen; sie mussten dort absichtlich angebracht worden sein (Lutovský 1996a).\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gräben um die Grabhügel.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am äußeren Umfang einiger Grabhügel sind verschieden tiefe und breite Vertiefungen, die durch die Entnahme von Erdreich für die Aufschüttung der Hügel entstanden; ihre weitere Funktion ist nicht sicher. Eine Möglichkeit ist das Bestreben, das Grundwasser abzuleiten, damit die Grabhügel nicht in feuchtem Umfeld standen. Die Hügelgräberfelder müssten sich dann in damals feuchtem, sumpfigem Gelände befunden haben. Eine weitere und wahrscheinlichere Alternative ist, dass die Gräben eine kultische Bedeutung hatten. Nach Helena Zoll-Adamikowa konnten mit Wasser gefüllte oder zumindest feuchtere Vertiefungen als die Umgebung die Welt der Toten von der Welt der Lebenden trennen. Die Hügelgräber-Nekropolen in Südböhmen mit stärkeren Bindungen an Burgwälle als an unbefestigte Siedlungen sind stets gerade durch einen Wasserlauf voneinander getrennt. Bei der Ausgrabung von A. Knor in Dvakačovice wurde festgestellt, dass die Vertiefung um den Grabhügel Nr. 6 auf der südlichen Seite verschwindet und ebenso auch auf der südwestlichen Seite des Grabhügels Nr. 9. Die Tatsache, dass die Gräben nicht um den ganzen Umfang des Grabhügels ausgegraben waren und auf der südlichen Seite verschwanden, führte auch H. Zoll-Adamikowa bei mehreren Gräberfeldern Polens und V. Kucharenko im Gebiet von Novo Miropolje am Fluss Sluč an. Dieses „Brückchen“ auf der südlichen Seite hängt möglicherweise mit dem Sonnenkult zusammen (Turčan 1984). In Bulhary wurden die Vertiefungen um die einzelnen Grabhügel erst nach der flächigen Aufdeckung des Raumes zwischen den Grabhügeln festgestellt. Der Grabhügel Nr. 1 hatte ungleich breite Gräben auf seiner südwestlichen, südöstlichen und nordöstlichen Seite. Den Grabhügel Nr. 2 umgab wiederum ein halbkreisförmiger Graben, der im Süden begann und im Nordosten endete. In den Gräben der Grabhügel fanden sich Keramikfragmente; die Brandbestattungen konnten ursprünglich auf dem Gipfel des Grabhügels in einer Urne angebracht gewesen sein, diese zerfielen mit der Zeit und rutschten über den Hang in den Graben an seiner Basis (Nekvasil 1955). Den ausgedehntesten Grabhügel mit einem Durchmesser von 12 m und einer Höhe von 1,5 m in Lhota am Fluss Mže umgibt ein Graben mit einer Breite von 1,6 – 2,4 m; in Veselí nad Lužnicí hatte der Grabhügel Nr. 2 eine Vertiefung am nördlichen und östlichen Umfang, und gut sichtbare Gräben führte auch J. Jisl in Stěbořice an. In Vitějovice umgaben Gräben mit einer Breite von 1 m die einzelnen Grabhügel, die in der Mitte des Hügelgräberfeldes errichtet waren. In Bitarová im Waagtal-Hügelgräbergebiet hatte der Grabhügel Nr. 17 einen Graben auf seiner südlichen und nördlichen Seite; die Umgebung des Grabhügels war angeblich ständig sumpfig, deshalb schüttete der Eigentümer des Grundstücks die Gräben zu (Budinský-Krička 1957). In Sverepec auf Podvrščie waren beim Körperhügelgrab Nr. 1 flache Gräben unter dem südlichen und westlichen Rand des Grabhügels ausgegraben, offenbar wurde aus ihnen das Material für die Aufschüttung entnommen (Petrovský-Šichman 1968). In Veľké Hoste wurde von den großen Brandgrabhügeln einer untersucht; der Lehm für seine Aufschüttung war aus dem Graben um seinen Umfang entnommen (Porubský 1954)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pfähle in den Grabhügeln.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ausgeraubte Grabhügel im nordwestlichen Waagtal. Ein trauriger Anblick.",
+    "alt": "Ausgeraubte Grabhügel im nordwestlichen Waagtal. Ein trauriger Anblick.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pfähle sind eine weitere Art hölzerner Struktur in den Grabhügeln, ihre Existenz ist archäologisch durch Funde steinumlegter Pfostengrübchen belegt. Urnen mit einer Bestattung konnten unmittelbar auf Pfählen angebracht sein, wie Nestor diese Begräbnissitte bei den Ostslawen beschrieb. Die zweite Alternative ist die Ansicht von S. A. Azjumova, die Pfosten in den Grabhügeln konnten mit Plastiken slawischer Gottheiten bekrönt sein. Spuren der Verwendung von Pfählen haben sich auch in den Namen der Gräberfelder erhalten. In Teplička bei Žilina befindet sich das Hügelgräberfeld in der Lage Kolianske, in Mähren hat sich der Name Kůlové pole erhalten, der eine Stelle slawischer Gräber bezeichnet. Die alte slawische Sitte, Pfähle in den Grabhügeln zu errichten, belegen Pfostengrübchen, die zum Beispiel in Bitarová, Bánová und in Sverepec erfasst wurden. Auf Podvrščie in Sverepec fand sich in der Mitte des Grabhügels ein Pfostengrübchen, das an den Wänden und am Boden mit Steinen umlegt war. Der Durchmesser des Grübchens betrug 40 cm bei einer Tiefe von 30 cm unter der ursprünglichen Oberfläche der Erde (Petrovský-Šichman 1964, 1968).\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Inventar der Grabhügel",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gewinnen von Artefakten aus den slawischen Nekropolen, die in der Regel fundarm sind, ist keine Priorität, wichtiger ist ihre räumliche Verteilung. Die charakteristische Einfachheit der Grabausstattung ist kein Spiegel der Armut der Slawen, sie ist scheinbar, absichtlich und das Ergebnis der Bestattungssitten. Von der Anwesenheit von Angehörigen der Machtelite kann die Größe der Hügelaufschüttung, die Größe der Grabgrube und ihre Ausgestaltung, die zentrale Position des Grabhügels innerhalb der Nekropole oder umgekehrt seine Einzelstellung zeugen. Den überwiegenden Prozentsatz der Funde bilden Keramikfragmente. Ganze Gefäße wurden außerhalb des Grabhügels im Zusammenhang mit einem Begräbnisritual zerbrochen und in die Aufschüttung geworfen. Nicht immer lässt sich ein ganzes Gefäß rekonstruieren – in den Grabhügel gelangte nur ein Teil der Scherben, und es ist nicht auszuschließen, dass die Hinterbliebenen Scherben brachten, die sie in der Umgebung ihrer Behausung gesammelt hatten; so gelangte Keramik älterer Kulturen in die Grabhügel. Einige ältere Bruchstücke gelangten in die Grabhügel von der Stelle der Materialentnahme für die Aufschüttung. Ebenso konnten auch geschlagene Steinklingenwerkzeuge und geschliffene Wetzsteine in sie gelangen; sie sind oft ein Beleg für die Besiedlung der Fundstelle durch ältere urgeschichtliche Kulturen.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In die Grabhügel wurden Gegenstände des täglichen Bedarfs gelegt: Messer (in Gräbern von Frauen und Männern), Spinnwirtel, Sicheln, Feuersteine, Eimerchen. In geringerem Maße Schmuck: Glasperlen, Gombíks, Ohrringe. Als Beleg für die Anwesenheit von Kriegern und Reitern gelten die Funde von Teilen ihrer Ausrüstung: Äxte, Pfeilspitzen, Lanzen- und Speerspitzen und in Ausnahmefällen ein Schwert. Eisenwerkzeuge und Waffen sind schlecht erhalten, durch Rost deformiert. Als Kriegergrabhügel werden einige Grabhügel aus Sverepec, Krasňany und Bánová bezeichnet. Außergewöhnlich erhielten sich Abdrücke von Geweben in Stěbořice; sie können Überreste von Kleidung sein. Die auf den äußeren Seiten der Sporen erfassten Geweberesten sind eher ein Beleg dafür, dass die Verstorbenen in Stoff eingewickelt wurden, oder der Boden des Grabes war mit Textil ausgelegt (Jisl 1953). In Kráľovský Chlmec fanden sich bei der Analyse der verkohlten Holzreste Lederbruchstücke, und zwar in zwei Grabhügeln, Nr. 12 und 20. Auf diesem Hügelgräberfeld wurden in sechs Aufschüttungen Tierknochen festgestellt. Im Grabhügel Nr. 20 war eine Grube ausgehoben, deren Verfüllung nur kalzinierte Tierknochen bildeten; in diesem Fall handelt es sich um ein Opfer in Form eines tierischen Brandgrabes (Budinský-Krička 1980). Reicher waren nur die Hügelgräberfelder im Gebiet des Turiec, die im Jahr 1804 in Priekopa und im Jahr 1872 in Malý Čepčín aufgegrabenen Grabhügel. V. Groó deckte hier den Grabhügel eines Adligen auf, der in einem Sarg begraben war. Zusammen mit ihm begruben sie angeblich auch sein Pferd. Außer Waffen (Lanzen, Pfeilen, einer Axt) war Teil des Grabes auch ein Zaum, der aus einem in einen Ring eingehängten Stäbchen bestand, zwei Steigbügel und ein Sporn mit Dorn. Vom ganzen Fund erhielten sich nur drei Beschläge. Ähnliche karolingische Sporen waren auch in den großen Grabhügeln in Skalica (Eisner 1935).\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Krásno nad Kysucou in der Lage Na kopcoch wurden mit Schülern der örtlichen Schule zwei Grabhügel untersucht; in einer Aufschüttung fand sich ein kleines steinernes Idol, das typologisch an altslawische Plastiken aus dem Gebiet der Elbslawen erinnert.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lagen der Hügelgräberfelder und ihre Siedlungen.",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slawen legten ihre Hügelgräber-Nekropolen auf dominante Erhebungen, auf die Gipfel flacher Hügel und auf die Grate von Anhöhen mit gutem Blick auf die nächste Umgebung in einer Höhe von 400 – 600 m ü. M., nicht in Lagen mit markanter Überhöhung. Im Verhältnis zu den Siedlungen, sofern überhaupt welche aufgefunden wurden, liegen die Hügelgräberfelder höher, auf markanteren Geländedominanten. Es scheint, dass die Siedlungen und ihre Gräberfelder, also die Welt der Lebenden von der Welt der Toten, ein natürliches Hindernis trennte, eine Grenze in Form eines Tals, eines Baches oder eines Flusses. Vor allem in der Slowakei kennen wir Siedlungen mit nachweisbaren Bindungen an das betreffende Hügelgräberfeld fast nicht. Es wird angenommen, dass umfangreiche Hügelgräberfelder wie Kráľovský Chlmec und Skalica den Bewohnern mehrerer Siedlungen dienten. Die umgekehrte Situation besteht in den Prachovské skaly, wo eine Siedlung mehrere Hügelgräberfelder nutzte. Die Grabhügel sind auf den Gräberfeldern der Slowakei unregelmäßig verteilt, manchmal bilden sie Gruppen oder sind über die Nekropole zerstreut; die Anwendung eines Prinzips bei ihrer Platzierung wurde nicht festgestellt. Eine Ausnahme könnten zum Beispiel Verwandtschaftsbeziehungen der in einer Gruppe Begrabenen sein. Eine abweichende Situation besteht in Böhmen, auf einigen Gräberfeldern sind die Grabhügel in regelmäßigen Reihen geordnet, oft in Richtung Ost – West. Von den Lagen heute nicht mehr existierender Hügelgräberfelder zeugen nur erhaltene Namen wie Kopence in Bitarová, Homole in Nechvalín, Moholky in Súľov, Na Mohylky in Turany. Hügelgräber-Nekropolen haben sich in Lagen mit den Namen Chlum, Chlmec, Na Kopcoch, Kopečnica, Kozárovské kopce, Háj, Panský háj, Hrobice, Homole, Homôlka erhalten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hügelgräberfelder von Štefan Meliš",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Grabhügel. Autor: Alnoth",
+    "alt": "Grabhügel. Autor: Alnoth",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hügelgräber-Nekropolen der Nordwestslowakei konzentrieren sich in der Umgebung von Sverepec, Beluša und Visolaje. Vojtech Budinský-Krička deutete als erster die Möglichkeit einer Grenze in diesem Gebiet zwischen dem nordslowakischen und dem westslowakischen Stamm an, als bei der Ausgrabung in den 60er Jahren Gräber von Kriegern unter Grabhügeln in Visolaje und Sverepec festgestellt wurden. Nach der erhaltenen Überlieferung führte auf dieser Trasse auch der alte Burgweg mit den Flurnamen Súhradka (Svorádka), Markovec, Krčmiská, Rúsov laz, umgeben von den Hügelgräberfeldern Cesciny, Pravec, Panský háj, Podvrščie. Einen größeren einzeln stehenden Grabhügel fand Štefan Meliš in der Gemeinde Nosice in einer Höhe von 500 m; hier hat sich also ein Gräberfeld mit Flachgräbern und auch eine Bestattung unter einem Grabhügel erhalten. In den Jahren 1957 bis 1962 entdeckte der externe Mitarbeiter des Považské-Museums Štefan Meliš die meisten slawischen Hügelgräberfelder des Gebietes, untersucht hat sie Anton Petrovský-Šichman. Nach dem Abschluss der Ausgrabungen wurden die Grabhügel erneut aufgeschüttet.\n \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mitteleuropäische und slowakische Hügelgräbergebiete der Westslawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Autoren des Artikels: Stanislava Flimmelová, Orgoň.\n \n In der Redaktion von hradiska.sk verfügen wir über die Lokalisierung mehrerer Grabhügel in der Nordwestslowakei, die Štefan Meliš gefunden hat und die nach unserem Wissen bisher nirgends veröffentlicht sind. Wir haben uns jedoch aus Gründen des Schutzes der Grabhügel entschieden, ihre genauen Lokalisierungen nicht anzugeben. Bei Interesse von Archäologen stellen wir die Daten zur Verfügung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

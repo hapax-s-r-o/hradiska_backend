@@ -814,3 +814,15 @@ preložený, rovnako ako anglická.
 
 **kovacstvo-a-zelezne-hrivny-v-staroveku-a-v-slovanskom-obdobi**
 : „V talentoch a v železných lupách" (blok 34) — talenty do kontextu hrivien nezapadajú; „nebojné miesta areálu" (blok 16) je nejasná formulácia
+
+**stredoeuropske-a-slovenske-mohylove-oblasti-zapadnych-slovanov**
+: blok 50 končí dvoma bodkami — „(Král 1955).."
+
+**pohanska-viera-slovanov-a-jej-dokazy-v-archeologickych-nalezoch**
+: blok 6 končí uprostred vety („Objavujú sa tu však, najmä v staršej dobe (6. – 9. stor.)"); blok 32 má v zozname ideogramov „bicykel" (v českej predlohe zrejme „kolo" = koleso); „Pslkovsku" je Pskov; „ruských kupujúcich" na Volge sú kupci
+
+**mytologia-smrti-u-slovanov-a-inych-etnik**
+: blok 10 cituje český preklad Eddy s poškodeným textom „Fólkvang se zvedům" (správne „se zve dům")
+
+**sidliska-otomanskej-kultury-na-vychodnom-slovensku**
+: blok 53 hovorí o vale „s priemerom 7 m" — pri vale je priemer nelogický (zrejme šírka); blok 15 končí bez bodky
