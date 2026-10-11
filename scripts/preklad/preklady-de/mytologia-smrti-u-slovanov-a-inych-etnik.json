@@ -1,0 +1,422 @@
+{
+ "slug": "mytologia-smrti-u-slovanov-a-inych-etnik",
+ "data": {
+  "title": "Die Mythologie des Todes bei den Slawen und anderen Ethnien",
+  "slug": "mythologie-des-todes-bei-den-slawen",
+  "excerpt": "Mit Zustimmung der Autorin bringen wir die Studie von Katarína Marčeková im vollen Wortlaut. Sie vergleicht die Vorstellungen vom Tod und vom Jenseits bei Slawen, Kelten und Germanen: den slawischen Veles als Herrn der Unterwelt und sein Gegenstück im griechischen Hades, die germanische Hel und die keltischen Inseln westlich des Atlantiks. Die Welt der slawischen Vorstellungen lässt sich dabei am ehesten über die Sprachwissenschaft erschließen.",
+  "metaTitle": "Die Mythologie des Todes bei den Slawen",
+  "metaDescription": "Vorstellungen vom Tod und vom Jenseits bei Slawen, Kelten und Germanen: Veles, Hel und Hades in der vergleichenden Studie von Katarína Marčeková.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Katarína Marčeková",
+    "icon": "book"
+   },
+   {
+    "label": "Herkunft des Textes",
+    "value": "Acta Historica Neosoliensia 9/2006 (FHV UMB Banská Bystrica)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Thema",
+    "value": "Vergleichende Mythologie des Todes und des Jenseits — Slawen, Kelten, Germanen und weitere indoeuropäische Ethnien",
+    "icon": "scroll"
+   },
+   {
+    "label": "Schlüsselfiguren",
+    "value": "Veles (slawischer Gott der Unterwelt), Hel (germanische Göttin), Hades (griechische Parallele)",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "10. Jahrhundert",
+    "title": "Erste schriftliche Belege des Veles-Kultes",
+    "description": "Den Kult des Gottes Veles führen Quellen wie die Povest vremennych let (Nestorchronik), das Igorlied und die Legende vom hl. Wladimir an; seine Verehrung wird auch in eine frühere Zeit gesetzt.",
+    "type": "event"
+   },
+   {
+    "year": "2006",
+    "title": "Veröffentlichung der Studie",
+    "description": "Die Studie erschien in der Fachzeitschrift Acta Historica Neosoliensia (Lehrstuhl für Geschichte der Fakultät für Humanwissenschaften der Matej-Bel-Universität in Banská Bystrica, Nummer 9).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4024,
+    "caption": "Veles",
+    "alt": "Veles"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung der Autorin bringen wir den interessanten Fachartikel von Katarína Marčeková im vollen Wortlaut. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Phänomen des Todes ist sehr eng mit den religiösen Vorstellungen des jeweiligen Ethnikums verbunden. Deshalb ist es wichtig, die Welt der religiösen Vorstellungen hervorzuheben, zu beschreiben und zu rekonstruieren, die nicht nur den Ritus des Todes betreffen.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Welt der slawischen religiösen Vorstellungen war eine Welt, in der sich germanische, keltische und griechisch-römische Vorstellungen mit den ursprünglichen religiösen Vorstellungen der Slawen gegenseitig durchdrangen. Deren Kern können wir nicht erkennen, denn nach der Ankunft in neuen Gebieten nahmen sie die in diesem Gebiet wirkenden Vorstellungen in sich auf.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Veles",
+    "alt": "Veles",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die meisten Götter aus diesem Umfeld, in deren Zuständigkeit Tod und Unterwelt lagen, waren chthonischen Charakters. Aus dem keltischen Umfeld kennen wir mehrere Götter mit dieser Funktion: Aedmac Lir, Aericura, Arianrhod.1 Griechisch-römische Gottheiten gab es ebenfalls mehrere2, das größte Interesse werden jedoch Hades/Pluto erregen, bei denen sich eine Parallele zum slawischen Gott Veles aufzeigen lässt, sowie die germanische Göttin Hel.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Veles",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " war ein slawischer Gott der Fruchtbarkeit und Beschützer des Viehs, der Ernte, des Besitzes und des Wohlstands und zugleich ein Gott der Unterwelt. Verehrt wurde er von den Ostslawen mit den Zentren in Kiew und Rostow. Wahrscheinlich war er ein übergreifender Gott, was erhaltene Personen- und Ortsnamen sowie Überreste in der Volksmundart belegen. Seinen Kult führen Quellen wie die Povest vremennych let (Nestorchronik), das Igorlied und die Legende vom hl. Wladimir schon seit dem 10. Jahrhundert an. Seine Verehrung wird jedoch auch in eine frühere Zeit gesetzt. Nach der Festigung des Christentums wurde er mit dem Teufel, beziehungsweise mit dem Satan, gleichgesetzt, ebenso wie die meisten Gottheiten des slawischen Pantheons. Zu der leichteren Degradierung trugen wahrscheinlich auch seine Attribute der Stierhörner und der phallischen Symbole bei.3 Wenn wir die These von seiner Wirksamkeit als Gott der Unterwelt annehmen, erhebt sich die Frage, wie ein Gott des Viehs und des Besitzes zu einem wahrscheinlichen Gott der Unterwelt werden konnte. Die Antwort finden wir vielleicht im Vergleich mit dem griechischen Hades. Dieser gehört zu den ältesten griechischen Göttern. Er wird als chthonischer Gegensatz zum Gott Zeus betrachtet. Er ist der Herr des Totenreiches und gleichzeitig auch ein Gott des Reichtums (des Besitzes), denn alle Edelmetalle und Edelsteine liegen in der Erde.4 Angesichts der Kontakte dieses Gebietes zum antiken Raum lässt sich eine Übertragung von Ideen aus der antiken Welt hierher annehmen. Die wahrscheinlich sicherere Antwort ist jedoch, dass die Nachrichten über Veles als Gott der Unterwelt aus dem antiken Kulturkreis stammen und sich im Verständnis somit eine Parallele zwischen ihm und Hades auswirken konnte. Vom sprachwissenschaftlichen Standpunkt sind die Parallelen zu Veles als Gott der Unterwelt im baltischen Kulturkreis in beiden Aspekten am nächsten: sowohl als Gott des Viehs – Veles, Velinas – als auch als Herrscher der Unterwelt – véles (Seelen der Toten), Velionis (deus animarum), Vels (lettischer Gott des Todes), vela (Reich der Toten), Velinas, Velnias, Vels (Teufel). Ebenso wurde im Tschechischen die Bezeichnung „veles“ als Synonym für Teufel, Satan verwendet.5  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die germanische Göttin Hel ist ebenfalls eine chthonische Göttin der Unterwelt. Ihr Herrschaftsgebiet trägt ebenso den Namen Hel. Sie herrscht dort über alle Toten mit Ausnahme der im Kampf Gefallenen, die die Walküren nach Walhall begleiten. Eine Hälfte ihres Körpers ist weiß und eine Hälfte schwarz6, womit sie den unteilbaren Dualismus von Leben und Tod ausdrückt. Sie herrscht in Niflheim über neun Welten, das die Wohnstätte derer ist, die zu ihr geschickt werden, also derer, die an Alter oder Krankheit sterben.7 Die Vorstellungen vom slawischen Jenseits kennen wir nicht. Wir können nur versuchen, zwei andere Vorstellungen darzulegen, die keltische und die germanische, zu denen wir genug Schriftquellen haben, und hoffen, dass die slawischen Vorstellungen mit ihnen zumindest einige Züge gemeinsam hatten.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach zahlreichen Nachrichten antiker Autoren können wir schließen, dass die "
+       },
+       {
+        "type": "text",
+        "text": "Kelten",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " an die Unsterblichkeit der Seele glaubten. Caesar führt in seinen Aufzeichnungen an, dass nach der Lehre der Druiden die Seele nicht vergeht, sondern nach dem Tod von einem in den anderen übersiedelt.8 Das stellt uns zwar auch eine Art Reinkarnation der Seele vor, Näheres wissen wir darüber jedoch nicht. Diodoros von Sizilien sagt in seiner "
+       },
+       {
+        "type": "text",
+        "text": "Bibliothéké historiké ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ebenfalls, dass „die menschlichen Seelen unsterblich sind und nach einer bestimmten Anzahl von Jahren in einen anderen Körper zurückkehren“.9 Allgemein gilt, dass nach den Vorstellungen der Römer der Glaube der Kelten an ein Leben nach dem Tod und an einen Aufenthalt im Land des ewigen Glücks und der Jugend ihnen Mut im Kampf verleiht und sie von der Furcht vor dem Tod befreit. Bei der Darstellung der keltischen eschatologischen Vorstellungen treten jedoch mehrere Probleme auf, von denen die wichtigsten die Begriffe und die Einordnung der konkreten Vorstellung in einen Rahmen sind. Mit dieser Problematik befasst sich in ihrem Beitrag Tatiana Podolinská, die die Vorstellungen so darlegt, dass der Tod für den Kelten nur die Mitte eines langen Lebens ist. Wir können jedoch nicht einmal sagen, ob es sich um ein lineares oder ein zyklisches Leben und eine entsprechende Vorstellung handelt. Die keltische Lehre ist allgemein durch die Idee der Seelenwanderung und die Idee der Unsterblichkeit der Seele charakterisiert, wobei wesentlich ist, dass es sich um eine körperliche Existenz der Seele nach dem Tod handelt. Ihre Seele geht also in einem (anderen) Körper in eine andere Welt, und die Möglichkeit einer erneuten Rückkehr in diese Welt wird nicht ausgeschlossen.10 Der Glaube an das Weiterleben der Seele nach dem Tod ist mit der Vorstellung von einem Ort des Aufenthalts dieser Seele verbunden. Eine Möglichkeit, an diesen Ort zu gelangen, war die Fahrt mit einem Schiff (oft gehörten diese unmittelbar den Wesen aus dem Jenseits), manchmal mit einem gläsernen ohne Ruder und Segel, wenn das Schiff den Weg selbst kannte.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Jenseits war geographisch westlich des Atlantiks angesiedelt und hatte die Gestalt einer Insel inmitten des Ozeans. Es war Wohnsitz von Menschen ebenso wie von Göttern. Dorthin gelangen konnte man nicht nur durch eine Fahrt über das Meer, sondern auch mittels einer mentalen Übertragung. Die Benennungen waren unterschiedlich, doch alle hatten ein gemeinsames Merkmal: sie beschrieben etwas, was im gewöhnlichen Leben der Kelten nur schwer zu erreichen war und wovon sie sich ein süßes und von nichts gestörtes Leben versprachen: Tir mBeo (Land der Lebenden), Tir na mBan (Land der Frauen), Tir na nOg (Land der Jungen), Tir Sorcha (Land des Lichts), Mag Mor (großes Land), Mag Meld (Land der Wonnen). Ihre geographische Lokalisierung ist verhältnismäßig einfach: nach Plutarch, der die ältere Quelle des Demetrios zitiert, befinden sich westlich von Britannien Inseln, die die Namen von Göttern und Königen tragen.11  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gerade das Wandern durch unbekannte Orte ermöglichte in der irischen Literatur die Entstehung einer spezialisierten Gattung – der "
+       },
+       {
+        "type": "text",
+        "text": "immrama. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Die zwei bekanntesten sind: Die Fahrt Brans und Die Seefahrt des Bootes von Máel Dúin. Allgemein werden diese beiden Werke, vor allem die Fahrt Brans, als allegorische Reise der Seele betrachtet: „Zu Bran kommt eine Frau mit einem Zweig, den sie aus dem Jenseits mitgebracht hat. Sie drängt ihn, sich an diesen Ort zu begeben. Sie weissagt ihm auch die Geburt Christi, als eines von einer Jungfrau Geborenen ohne Anfang und Ende. Bran lässt sich überreden und überschreitet mit seinen 26 Gefährten die Ebene der Wonne (ein Paradies, in dem es keine Sünde gibt) und kommt auf die Insel der Freude. Dann erreicht er die Insel der Frauen als einen Ort ausschweifender Wonnen. Einer der Reisenden – Nechtáin – sehnt sich nach der Heimat, und die Königin der Insel lässt sie alle fortgehen. Vorher warnt sie sie jedoch, auf keinen Fall an Land zu treten. Als sie aber zurückkehren, gehorcht Nechtáin nicht und tritt an Land; im selben Augenblick verwandelt er sich in Asche. Bran stellt sich vor, und die Leute antworten ihm, dass sie ihn nicht kennen, die Fahrt Brans aber eine ihrer ältesten Sagen sei. Bran begreift, dass er zwar nach Hause zurückgekehrt ist, jedoch einige Jahrhunderte später; er erzählt ihnen also seine Abenteuer und sie segeln zurück auf das weite Meer.“ Aus dieser Geschichte folgt, dass eine vollständige Rückkehr aus dem Jenseits also niemals möglich ist. In jüngeren Geschichten verlagerte sich das Jenseits vom Meer auf das Festland. Die Orte der Eingänge waren dann zum Beispiel in Höhlen, auf Hügeln, an Quellen und an Seen. Die Zeit, in der die Grenzen zwischen der Welt der Lebenden und der Welt der Toten fast verwischt waren, war die Zeit des Festes Samhain.12 Die Toten kamen zu ihren lebenden Verwandten, um sich am Feuer zu wärmen und die Nahrung der Sterblichen zu essen. Damals konnten auch die Lebenden die von den Toten bewohnten Orte betreten und sich auf die Wege des Jenseits begeben. Nicht alle waren jedoch nur von freundlichen Motiven geleitet. Manche Toten kamen, um den Menschen zu schaden. Diese unerwünschten Rückkehren sollten vielfältige antivampirische Maßnahmen verhindern.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wohl reichste Beschreibung der "
+       },
+       {
+        "type": "text",
+        "text": "germanischen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " religiösen Vorstellungen ist die "
+       },
+       {
+        "type": "text",
+        "text": "Edda ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "von Snorri Sturluson. Obwohl bei der Edda das Risiko eines Versuchs der christlichen Organisation besteht, die mythologische Welt zu beherrschen, verarbeiten die einzelnen, aus dem literarischen Kontext herausgezogenen Phänomene wahrscheinlich ein narratives mythologisches System. Über das Schicksal der Menschen entscheiden die drei Jungfrauen, die Nornen Urd (Schicksal), Verdandi (Beständigkeit) und Skuld (Pflicht), die über die Schicksale der Menschen herrschen.13 Das Ziel der Verstorbenen sind mehrere Welten. Diejenigen, die den rechten Glauben haben, werden an einem Ort namens Gimlé oder Víngolf wohnen, während die Bösen zu Hel gehen und von dort nach Niflhel, also tief hinab in die neunte Welt.14 Gerade in dieser Passage zeigt sich die christliche Kosmologie wohl am deutlichsten. Gimlé/Víngolf ist das nordische Paradies, das für Menschen mit dem „rechten Glauben“ bestimmt ist. Sein Saal übertrifft an Schönheit alle anderen und glänzt heller als die Sonne. Er befindet sich erst im dritten Himmel: Vídbláin, Andlang.15 In der Annahme, dass der Himmel der Germanen mehrere übereinander liegende Teile hatte, spiegelt sich die Kosmologie des Christentums. Hel/Níflhel/Níflheim sind wahrscheinlich Namen, die parallel zur Benennung eines und desselben Ortes verwendet wurden. Hel ist vom Namen der an diesem Ort herrschenden Göttin abgeleitet. Niflheim ist ein Land der Schatten, möglicherweise ähnlich dem Land der Schatten in Vergils Aeneis. Sowohl der Himmel als auch die Unterwelt sind ähnlich gegliedert, wie der christliche Himmel und die Hölle in mehrere Ebenen gegliedert sind.16 In der Edda ist diese Gliederung am besten in der Beschreibung des Geschehens nach dem Ragnarők sichtbar.17 Es gibt noch einen weiteren Ort, der für die Kaste der Krieger bestimmt ist, die auf dem Schlachtfeld starben. „Fólkvang heißt das Haus, wo Freyja gebietet, wer im Saal Platz nehmen soll. Die Hälfte der Gefallenen erwählt sie jedes Mal, die andere führt Odin fort.“18 Die für Odin bestimmten Toten wählen die Walküren aus – Kämpferinnen, deren Name „die Erschlagenen auswählend“ bedeutet. Sie bestimmen, wer siegt und wer fällt.19 Anschließend führen sie die Erschlagenen nach Walhall, wobei sie die Hälfte der Göttin Freyja übergeben. Walhall ist dem himmlischen Jerusalem ähnlich, auch hier hat jeder seinen zugewiesenen Platz, nur muss er ihn durch seine Verdienste erreichen. In der Edda sind es die Verdienste der im Kampf Gefallenen.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Welt der slawischen Vorstellungen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ist nicht einfach zu rekonstruieren. Die größten Möglichkeiten bieten sich uns im Hinblick auf die Nutzung der Sprachwissenschaft zur Entschlüsselung der Begriffe. Das Wort "
+       },
+       {
+        "type": "text",
+        "text": "navka, navЪ ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ist ein Wort gotischen Ursprungs, das die Seelen der Toten oder das Jenseits bezeichnet. Ebenso kann die Wurzel des Wortes jedoch von der griechisch-lateinischen Bezeichnung "
+       },
+       {
+        "type": "text",
+        "text": "naus ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "– als Schiff, das zur Überfahrt der Toten dient – stammen.20 Nach Dušan Čaplovič wurde auch die Vorstellung vom Leben im Jenseits mit der Vorstellung eines Lebens jenseits des Meeres oder in einer tiefen Unterwelt verbunden.21 Die Vorstellung von Gottheiten der Unterwelt war ihnen jedoch nicht unbekannt (darauf kann auch das untere Band des Zbruč-Idols hindeuten) und muss nicht ausschließlich eine Frucht der Klassifizierung durch das Christentum sein. Die dualistische Existenz von Gut und Böse bezeugt auch die kosmogonische Fassung der "
+       },
+       {
+        "type": "text",
+        "text": "Povest vremennych let.22 ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Ihr Jenseits war nicht nach Verdiensten, nach einer ethischen Werteskala geteilt. Auch Begriffe wie „raj“ (Paradies) und „ad“ (Hölle) sprechen allgemein vom Jenseits, sie spezifizieren es nicht als einen bestimmten Ort nur für eine Kategorie von Menschen. Obwohl das Wort "
+       },
+       {
+        "type": "text",
+        "text": "pЪklЪ ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "– Hölle – unzweifelhaft slawischen Ursprungs ist, muss es noch nicht automatisch auf eine Hölle nach christlichen Vorstellungen hinweisen. Ursprünglich ist es der Übersetzung des lateinischen Wortes "
+       },
+       {
+        "type": "text",
+        "text": "pix ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "– Pech – ähnlich. Die Slawen konnten sich das Jenseits als einen Ort vorstellen, an dem die bösen Menschen mit Pech oder Feuer verbrannt wurden, und den ganzen Ort danach Hölle nennen. Dieser Gedanke ist jedoch nicht ursprünglich. Der Ort der Strafe ist eine christliche Anwendung. Die Slawen kannten die Hölle erst von der Zeit an, da sie mit dem Christentum bereits vertraut waren, und ihre Benennung leiteten sie von einer bestimmten, vom Christentum erörterten Eigenschaft ab.23 Das slawische Jenseits ist eine Welt der Schatten, ein Ort, an den alle ohne Unterschied gelangen. Die Art ihres „Lebens“ im Jenseits war jedoch qualitativ unterschiedlich, abhängig von der Sorge, die ihnen die Hinterbliebenen entgegenbrachten, von der durchgeführten Begräbnisfeier und von der Art des Todes. Diejenigen, die im Einklang mit dem Ritus begraben wurden, führten ein zufriedenes Leben. Jene aber, die durch einen gewaltsamen Tod aus der Welt gingen oder nicht gebührend begraben wurden, irrten zwischen der Welt und dem Jenseits und kehrten in die Welt der Menschen zurück. Diese Erscheinungen, die „nave“, wurden später als Dämonen des Bösen, als Teufel gedeutet. Den christlichen Teufel können wir also auch im slawischen Glauben an die „mory, nave“, an Erscheinungen und Gespenster, an Vampire und Wiedergänger finden, die die Macht hatten, den Lebenden zu schaden und sich an ihnen zu rächen.24 Der Himmel war der Gegenpol der Erde. Der Ausdruck entspricht dem altindischen "
+       },
+       {
+        "type": "text",
+        "text": "nábhas, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "dem iranischen "
+       },
+       {
+        "type": "text",
+        "text": "nabah, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "dem griechischen "
+       },
+       {
+        "type": "text",
+        "text": "nefos, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "dem lateinischen "
+       },
+       {
+        "type": "text",
+        "text": "nubis, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "dem deutschen "
+       },
+       {
+        "type": "text",
+        "text": "Nebel ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "und stellt den Himmel mit Wolken dar. Er ist also kein Ort der Belohnung für die Gerechten wie im Christentum. Es gibt jedoch auch spätere, bereits qualitativ vom Christentum beeinflusste Vorstellungen. Der Himmel flammt wie Feuer, in dem sich Gott verbirgt, die Engel und die Heiligen leben im sichtbaren Himmel, wohin nur die Seelen der Toten gelangen können. Sein Gewölbe berührt die Erde und reicht bis auf den Meeresgrund.25 Die meisten Begriffe, die mit der Terminologie wie Gott, Glaube oder heilig verbunden sind, sind iranischen Ursprungs und weisen somit auf slawisch-iranische kulturelle Bindungen und einen Anteil an der slawischen Ethnogenese hin. „Div, diva, divý“ ist für die Slawen ein Naturgeist, dem das altindische „deva“, das iranische „div, daeva“, das lateinische „divus, deus, dea“ und das litauische „dévas“ entsprechen.26 Ihr Begräbnisritus ist jedoch unterschiedlich.27 Die Terminologie übernahm das Slawentum also aus dem iranischen Kulturkreis, den Begräbnisritus jedoch aus dem indoeuropäischen. Nicht nur die slawische Religion hat ihre Wurzeln in einer gemeinsamen indoeuropäischen Grundlage. Sie hat deshalb gemeinsame Züge mit den religiösen Systemen der Inder, Iraner, Griechen, Römer, Germanen, Kelten und Balten.28  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist nicht einfach, die ursprüngliche Welt der slawischen Vorstellungen zu entwerfen und darzustellen. Wir können nur annehmen, dass sie einen verhältnismäßig übereinstimmenden Aufbau hatten wie die mythologischen Vorstellungen anderer indoeuropäischer Ethnien. Eine Möglichkeit, ihren Aufbau näher zu betrachten, besteht darin, die historische und die religionswissenschaftliche Forschung mit der sprachwissenschaftlichen zu verbinden, die auf den richtigen Weg führen kann.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(katarinamarcekova@yahoo.com)  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Fußnoten",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Übernommen aus: KATARÍNA MARČEKOVÁ: Mytológia smrti u Slovanov a iných etník, ACTA HISTORICA NEOSOLIENSIA. ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Fachzeitschrift des Lehrstuhls für Geschichte der Fakultät für Humanwissenschaften der Matej-Bel-Universität in Banská Bystrica, 9/2006",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

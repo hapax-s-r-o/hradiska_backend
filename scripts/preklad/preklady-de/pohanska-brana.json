@@ -1,0 +1,66 @@
+{
+ "slug": "pohanska-brana",
+ "data": {
+  "title": "Pohanská – das Tor des keltischen Oppidums",
+  "slug": "pohanska-oppidum-tor-zeichnung",
+  "excerpt": "Wir bringen eine künstlerische Vorstellung vom Aussehen des Tores und eines Teils der Befestigung des keltischen Oppidums Pohanská. Das Tor mit doppelter Zangenbefestigung befand sich im nordöstlichen Teil der Anlage. Der Urheber der Zeichnung ist Haden Sutton, dem großer Dank gebührt.",
+  "metaTitle": "Pohanská – das Tor des keltischen Oppidums (Zeichnung)",
+  "metaDescription": "Künstlerische Rekonstruktion des Tores mit doppelter Zangenbefestigung im nordöstlichen Teil des keltischen Oppidums Pohanská von Haden Sutton.",
+  "keyFacts": [
+   {
+    "label": "Urheber der Zeichnung",
+    "value": "Haden Sutton",
+    "icon": "users"
+   },
+   {
+    "label": "Art der Befestigung",
+    "value": "Doppelte Zangenbefestigung",
+    "icon": "shield"
+   },
+   {
+    "label": "Lage des Tores",
+    "value": "Nordöstlicher Teil des Oppidums",
+    "icon": "map"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3551,
+    "caption": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung",
+    "alt": "Künstlerische Rekonstruktion des Eingangstores und eines Teils der Befestigung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen eine künstlerische Vorstellung vom Aussehen des Tores und eines Teils der Befestigung des "
+       },
+       {
+        "type": "link",
+        "url": "/blog/pohanska-keltske-oppidum",
+        "children": [
+         {
+          "type": "text",
+          "text": "keltischen Oppidums Pohanská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Das Tor mit doppelter Zangenbefestigung befand sich im nordöstlichen Teil der Anlage. Der Urheber der Zeichnung ist Haden Sutton, dem großer Dank gebührt."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

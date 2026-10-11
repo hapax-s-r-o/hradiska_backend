@@ -787,3 +787,9 @@ preložený, rovnako ako anglická.
 
 **nizna-mysla-mesto-z-doby-bronzovej**
 : timeline má trikrát rok „neznámy"; zánik je datovaný raz „okolo 1500 pred n. l.", raz „1450 – 1500 pred n. l."
+
+**informacne-tabule-predna-horka-a-klape**
+: názov píše „Klape", telo „na vrchu Klape", ostatné články o tej istej lokalite „Klapy"
+
+**peter-schreiber-osidlenie-ziliny-a-okolia-od-doby-rimskej-po-stredovek-lokalita-divinka**
+: popis fotografie uvádza skratku „Hl. hrniec" — v preklade čítaná ako „hlinený"; treba potvrdiť

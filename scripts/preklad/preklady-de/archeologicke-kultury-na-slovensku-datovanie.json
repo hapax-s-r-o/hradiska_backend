@@ -1,0 +1,188 @@
+{
+ "slug": "archeologicke-kultury-na-slovensku-datovanie",
+ "data": {
+  "title": "Archäologische Kulturen in der Slowakei – eine Zeittafel zur Datierung",
+  "slug": "archaeologische-kulturen-slowakei-zeittafel",
+  "excerpt": "Verlieren Sie den Überblick, in welcher Reihenfolge die archäologischen Kulturen im Gebiet der heutigen Slowakei von der älteren Steinzeit bis zum Spätmittelalter aufeinanderfolgten, welchen Zeitabschnitten sie angehören und wie sie sich überschnitten? Eine übersichtliche Zeittafel dazu fehlte seit Jahrzehnten. Für das Buch „Putovanie po hradoch Slovenských 2“ ist nun eine entstanden – vom Äneolithikum bis in die Neuzeit, mit Epochen, Kulturen und Völkern auf einer Zeitachse.",
+  "metaTitle": "Archäologische Kulturen in der Slowakei – Zeittafel",
+  "metaDescription": "Übersichtliche Zeittafel der archäologischen Kulturen in der Slowakei: von der Steinzeit über die Lausitzer Kultur und die Latènezeit bis in die Neuzeit.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5918,
+    "alt": "Tabelle der archäologischen Kulturen und historischen Epochen in der Slowakei vom Äneolithikum bis zur Neuzeit"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verlieren Sie noch immer den Überblick darüber, in welcher Reihenfolge die archäologischen Kulturen im Gebiet der heutigen Slowakei von der älteren Steinzeit bis zum Spätmittelalter aufeinanderfolgten? Welchem Zeitabschnitt gehören diese Kulturen an? Wie überschnitten sie sich gegenseitig? Welche Völker lebten damals hier? Sich in Begriffen wie Lausitzer Kultur, Latènezeit, Hallstatt, ältere und jüngere Bronzezeit, Kelten, römische Kaiserzeit, Völkerwanderungszeit zurechtzufinden … es gibt eine Menge Menschen, die sich in diesen Begriffen verlieren und sie nicht einmal in groben Zügen in eine verständliche Zeitachse einordnen können. \nVersuchen Sie ruhig einmal, im Netz eine solche übersichtliche Tabelle zu finden. Wahrscheinlich kommen Sie dabei ordentlich ins Schwitzen und erreichen trotzdem nur sehr kümmerliche Ergebnisse. Noch mehr dürfte Sie überraschen, dass diese Periodisierung in der wissenschaftlichen Literatur noch im tiefsten Sozialismus veröffentlicht wurde und Sie seitdem (jedenfalls habe ich keinen gefunden, aber vielleicht habe ich nur schlecht gesucht) keinen vergleichbaren Fachbeitrag mit einer „offiziellen“ Periodisierung finden. \n Umso mehr freute uns die Idee von Rudo Malý und seiner Frau Evka, in ihr neues Buch „Putovanie po hradoch Slovenských 2“, das erst vor kurzem erschienen ist (und das weggeht wie warme Semmeln, zögern Sie also nicht und bestellen Sie), eine solche Tabelle (Zeitachse) aufzunehmen, damit der slowakische Leser eine bessere Vorstellung von unserer ältesten Geschichte bekommt. \nEr wandte sich deshalb mit der Bitte um Hilfe an Archäologen und machte sich an die Arbeit. Das Ergebnis ist diese übersichtliche Tabelle, in der Sie alles Notwendige finden. \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Archäologische Kulturen in der Slowakei – Datierung",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tabelle zeigt zum einen die einzelnen Epochen (Steinzeit, Bronzezeit, Eisenzeit usw.) und in ihnen alle Kulturen und bekannten Völker, die wir unterscheiden können. Zu den einzelnen Epochen ist in der Tabelle auch das Jahrhundert oder Jahrtausend angegeben, das ihnen entspricht. Rudo und Evka schreiben über die Tabelle: "
+       },
+       {
+        "type": "text",
+        "text": "„Dann kam mir die Idee einer grafischen, übersichtlichen Aufarbeitung der Epochen – Völker – Kulturen, die es in der Slowakei gab. Ich suchte nach zugänglichen Unterlagen und stellte fest, dass das gar nicht so einfach ist. Ein Freund, ein Archäologe, verwies mich auf Material, das in den 80er Jahren veröffentlicht worden war. Aber Achtung! Das war schon recht lange her, und vieles hat sich geändert. … auf der Seite www.hradiska.sk, etwas im Geschichtsbuch, im Netz … und ich machte mich an die Bearbeitung. Das Ergebnis sehen Sie auf der folgenden Seite, es umfasst die Zeit vom Äneolithikum bis in die Neuzeit (-4000 v. Chr. bis zum Jahr 1800). Ich habe die Bezeichnungen, Kulturen und die wesentlichen Völker ergänzt. Die Angaben sind mit einem Archäologen abgestimmt. Ich wurde darauf hingewiesen, dass „es mehr davon gibt“ und dass man für den Osten, die Mitte und den Westen der Slowakei genauer unterteilen könnte, aber ich bin fest davon überzeugt, dass so wie mir auch Ihnen diese Form der grafischen Darstellung genügen wird.“",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "PUTOVANIE PO HRADOCH SLOVENSKÝCH ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "2. TEIL",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor fünf Jahren gaben die Ehepartner Eva Mladá und Rudolf Mladý ihr erstes Buch über ihre Wanderungen zu Burgen – kleinen Burgen – Burganlagen – Befestigungen in der Slowakei heraus. In dem Buch waren 520 Fundstellen beschrieben, und der Erfolg dieser Publikation war für die Autoren überraschend. Der Geschichte widmen sie sich darin nicht. Es ist eher ein „Baedeker“, der zeigt, wo sich die einzelnen Befestigungen befinden. Ihr Reisen und Entdecken setzten sie weiter fort. Bis heute haben sie persönlich über 1200 Befestigungen in unserer wunderschönen Slowakei besucht, worin sie wohl den ersten Platz halten. Das führte sie zur Herausgabe des "
+       },
+       {
+        "type": "text",
+        "text": "zweiten Teils",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Das Buch enthält "
+       },
+       {
+        "type": "text",
+        "text": "675 Befestigungen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", viele davon werden sicher zum ersten Mal öffentlich publiziert. Darin ist wirklich die ganze Slowakei erfasst. Auf fast 400 Seiten finden Sie übersichtliche Karten, Tabellen mit genauen Koordinaten, Höhenangaben, Ort, Bezirk … Das Hauptkapitel bilden die Fundstellen, geordnet in alphabetischer Reihenfolge nach der Katastralgemeinde, in der sich die Befestigungen befinden. Es fehlen auch nicht die Kartenskizze mit dem eingezeichneten Ausgangspunkt, die Beschreibung der Route, der Schwierigkeitsgrad, Tausende eigener Fotografien, Grundrisse … "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Archäologische Kulturen in der Slowakei – Datierung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch die Einleitung des Buches wird für viele Laien interessant sein. Die Autoren beantworten darin häufige Fragen zur Arbeit der Archäologen und der Bürgervereine oder zu unkonventionellen Untersuchungsmethoden professioneller Fachleute. Aus ihrer Sicht stellen sie auch unsere Rekorde vor – die am höchsten gelegenen Befestigungen, die größten. Aber auch Informationen über historische Inschriften in Felsen oder über Dúpence (Felshöhlen). Sie haben nie behauptet, Fachleute zu sein, eher nur Touristen mit „guter Kondition“, die sie bei dieser Menge an Fundstellen brauchten. Wer beide Teile besitzt, erhält den umfassendsten Überblick über Befestigungen, der wohl schwer zu übertreffen sein wird. Die Leser sind oft überrascht, was alles Unbekannte oder wenig Bekannte sich in ihrer näheren Umgebung finden lässt. Auf die Frage, woher sie gerade von diesen unbekannten Befestigungen erfahren haben, antworten sie, dass sie Glück mit Freunden haben. Viele Archäologen haben ihnen die Daumen gedrückt und ihnen Hinweise auf Befestigungen gegeben. Viele davon sind noch unerforscht. Ohne solche Hilfe hätten sie ihr Ziel nie erreicht. Nur so am Rande: Auf ihren Wanderungen fuhren sie mit dem Auto 93.181 km durch die Slowakei, was dem 2,3-fachen Umfang des Äquators entspricht. Zu Fuß legten sie vom Auto zur Fundstelle und zurück 2422 km zurück, das ist das 5,7-fache der Luftlinie von Kremenec nach Záhorská Ves. Natürlich ist die Zahl von 1200 Befestigungen nicht endgültig. Die Archäologen arbeiten weiter, und immer „findet sich etwas Neues“. Das Buch ist privat herausgegeben, ohne Sponsoren, Fonds und Institutionen, in limitierter Auflage. "
+       },
+       {
+        "type": "text",
+        "text": "Format A4, 396 Seiten, durchgehend farbig",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Erhältlich ist es nur bei den Autoren, Info-Mail: "
+       },
+       {
+        "type": "link",
+        "url": "mailto:putovanie.hrady@gmail.com",
+        "children": [
+         {
+          "type": "text",
+          "text": "putovanie.hrady@gmail.com"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Ein Nachdruck wird es nicht geben… "
+       },
+       {
+        "type": "text",
+        "text": "Wer sich auch für den ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "ersten Teil ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " interessiert, findet ihn im Buchhandel.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Archäologische Kulturen in der Slowakei – Datierung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

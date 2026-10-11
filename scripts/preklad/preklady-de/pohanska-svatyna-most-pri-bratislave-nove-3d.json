@@ -1,0 +1,58 @@
+{
+ "slug": "pohanska-svatyna-most-pri-bratislave-nove-3d",
+ "data": {
+  "title": "Das heidnische Heiligtum von Most pri Bratislave – ein neues 3D-Video",
+  "slug": "heidnisches-heiligtum-most-pri-bratislave-3d-video",
+  "excerpt": "Wie konnten die alten heidnischen Rituale der Slawen ablaufen? In einem neuen Video haben wir versucht, der älteren Visualisierung des slawischen Heiligtums, das sich in Most pri Bratislave befand, etwas Atmosphäre einzuhauchen.",
+  "metaTitle": "Heidnisches Heiligtum Most pri Bratislave – neues 3D-Video",
+  "metaDescription": "Ein neues 3D-Video mit der Atmosphäre uralter heidnischer Rituale der Slawen am slawischen Heiligtum, das in Most pri Bratislave entdeckt wurde.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Most pri Bratislave",
+    "icon": "map"
+   },
+   {
+    "label": "Thema der Visualisierung",
+    "value": "heidnische Rituale der alten Slawen am slawischen Heiligtum",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie konnten die alten heidnischen Rituale der Slawen ablaufen? In einem neuen Video haben wir versucht, der älteren Visualisierung des slawischen Heiligtums, das sich in Most pri Bratislave befand, etwas Atmosphäre einzuhauchen. Mehr über die Fundstelle finden Sie hier: "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,1044 @@
+{
+ "slug": "bavorsky-geograf-prva-pisomna-zmienka-o-nitrianskych-slovenoch",
+ "data": {
+  "title": "Der Bayerische Geograph – die erste schriftliche Erwähnung der Slawen von Nitra",
+  "slug": "bayerischer-geograph-erste-erwaehnung-slawen-von-nitra",
+  "excerpt": "Der Bayerische Geograph (Geographus Bavarus) ist der konventionelle Name, den Jan Potocki 1796 dem Autor der anonymen Descriptio civitatum et regionum ad septentrionalem plagam Danubii gab. Das Dokument aus dem 9. Jahrhundert zählt die Stämme zwischen Elbe, Donau, Wolga und Schwarzem Meer samt der Zahl ihrer civitates auf – und es erwähnt gewisse „Merehanos“ mit 30 Burgwällen, in denen Třeštík, Steinhübel, Stanislav und Hulínek die Slawen des Neutraer Gebietes sehen.",
+  "metaTitle": "Der Bayerische Geograph – erste Erwähnung der Slawen von Nitra",
+  "metaDescription": "Das anonyme Dokument des Bayerischen Geographen (Descriptio civitatum) aus dem 9. Jahrhundert bringt eine der ersten Erwähnungen der Slawen von Nitra.",
+  "keyFacts": [
+   {
+    "label": "Dokument",
+    "value": "Descriptio civitatum et regionum ad septentrionalem plagam Danubii",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung",
+    "value": "9. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Schlüsselangabe",
+    "value": "Die „Merehanos“ (Slawen von Nitra) hatten dem Dokument nach 30 Burgwälle",
+    "icon": "shield"
+   },
+   {
+    "label": "Aufbewahrungsort",
+    "value": "Bayerische Staatsbibliothek, München (entdeckt 1772)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Entstehung des Dokuments Descriptio civitatum",
+    "description": "Ein unbekannter Autor, der wahrscheinlich im Kloster Reichenau, in Fulda oder in Regensburg wirkte, stellte ein Verzeichnis der slawischen Stämme und der Zahl ihrer Burgwälle zwischen Elbe, Donau, Wolga und Schwarzem Meer zusammen.",
+    "type": "event"
+   },
+   {
+    "year": "833",
+    "title": "Vereinigung der Mährer und der Neutraer",
+    "description": "Nach der Auslegung von J. Stanislav und weiteren Forschern vereinigte Mojmír um dieses Jahr das mährische (Marharii) und das Neutraer (Merehani) Fürstentum zu einem Ganzen.",
+    "type": "event"
+   },
+   {
+    "year": "845",
+    "title": "Ergänzung des Textes in Regensburg",
+    "description": "Nach einer der Hypothesen kamen zu dem ursprünglichen Verzeichnis aus Fulda um dieses Jahr Ergänzungen hinzu, die im Kloster St. Emmeram in Regensburg entstanden.",
+    "type": "event"
+   },
+   {
+    "year": "1772",
+    "title": "Entdeckung des Dokuments",
+    "description": "Die knappe Handschrift wurde in der Bayerischen Staatsbibliothek in München entdeckt.",
+    "type": "event"
+   },
+   {
+    "year": "1796",
+    "title": "Die Benennung „Bayerischer Geograph“",
+    "description": "Jan Potocki gab dem anonymen Autor des Dokuments den konventionellen Namen Geographus Bavarus – Bayerischer Geograph.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3806,
+    "caption": "Eine Seite aus dem Bayerischen Geographen, auf der gelb jener „rätselhafte“ Name unserer Vorfahren „Merehanos“ hervorgehoben ist",
+    "alt": "Eine Seite aus dem Bayerischen Geographen, auf der gelb jener „rätselhafte“ Name unserer Vorfahren „Merehanos“ hervorgehoben ist"
+   },
+   {
+    "mediaId": 3807,
+    "caption": "Hochwertiger Scan",
+    "alt": "Hochwertiger Scan"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bayerische Geograph (lateinisch Geographus Bavarus) ist ein konventioneller Name, den Jan Potocki im Jahr 1796 dem Autor des anonymen mittelalterlichen Dokuments Descriptio civitatum et regionum ad septentrionalem plagam Danubii („"
+       },
+       {
+        "type": "text",
+        "text": "Beschreibung der Städte und Gebiete auf der nördlichen Seite der Donau",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "“) gegeben hat. Das knappe Dokument wurde im Jahr 1772 in der Bayerischen Staatsbibliothek in München entdeckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Dokument aus dem 9. Jahrhundert enthält ein Verzeichnis der Stämme im Osten Mitteleuropas",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", zwischen der Elbe, der Donau, der Wolga und dem Schwarzen Meer. Es handelt sich zum größeren Teil um slawische Stämme. Es enthält auch Angaben über die Zahl der civitates (Städte, Burgen und Burgwälle), die von den einzelnen Stämmen beherrscht wurden. Die Auslegung dieser Quelle ist nicht eindeutig, denn es ist sehr schwer, die lateinischen Namen der Stämme zu identifizieren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Herkunft des Dokuments ist bis heute nicht befriedigend geklärt. Die ersten Forscher verlegten sie nach Regensburg oder Salzburg, heute verlegt man sie eher in das schwäbische Kloster Reichenau. Nach einer der Hypothesen stellte das Verzeichnis der hl. Method zusammen, der sich in den 70er Jahren des 9. Jahrhunderts wahrscheinlich in Reichenau aufhielt und der mit seiner Mission in den slawischen Ländern verbunden sein konnte. Ein anderer möglicher Autor ist der Klosterbibliothekar Reginbertinus, der wahrscheinlich in den 30er bis 50er Jahren des 9. Jahrhunderts wirkte. Nach einer anderen Theorie entstand es in der ersten Hälfte des 9. Jahrhunderts in Fulda auf Anregung des ostfränkischen Königs Ludwig des Deutschen, und um das Jahr 845 kamen Ergänzungen im Kloster St. Emmeram in Regensburg hinzu. Die Wissenschaftler nehmen an, dass das Verzeichnis aus zwei Teilen besteht, die in verschiedene Zeiten datiert und verschiedenen Autoren zugeschrieben werden können. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine Seite aus dem Bayerischen Geographen, auf der gelb jener „rätselhafte“ Name unserer Vorfahren „Merehanos“ hervorgehoben ist",
+    "alt": "Eine Seite aus dem Bayerischen Geographen, auf der gelb jener „rätselhafte“ Name unserer Vorfahren „Merehanos“ hervorgehoben ist",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum ist dieses Werk für uns so wichtig? Weil der Bayerische Geograph hier im 9. Jahrhundert "
+       },
+       {
+        "type": "text",
+        "text": "neben anderen Völkern auch gewisse „Merehanos",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ erwähnt, die zu dieser Zeit 30 Burgwälle hatten, wobei"
+       },
+       {
+        "type": "text",
+        "text": " diese Merehanos die Neutraer Slawen, die Sloveni oder, wenn Sie wollen, die Vorfahren der heutigen Slowaken sind",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Es ist also das älteste Dokument, in dem unsere slowakischen Vorfahren erwähnt werden, wobei wir uns in der Zeit Großmährens bewegen. Wir sehen, dass auch der Bayerische Geograph noch lange nach der Vereinigung Mährens mit dem Neutraer Gebiet den Unterschied zwischen den ursprünglichen Mährern und den „anderen Mährern“ (in Wirklichkeit den Neutraern) wahrnahm – leider nennt er sie nicht so, wie wir es uns wünschen würden, mit dem Begriff Neutraer, aber dennoch unterscheidet er sie klar. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie sagen, dass ich jetzt ein wenig übertrieben habe? Dann schauen wir, was zu diesem Thema zwei renommierte Historiker sagen, von denen keiner ein „Hurra-Slowake“ ist, sondern die in der Frage unserer Geschichte eher Skeptiker sind. Schauen wir uns zuallererst das Zitat aus dem "
+       },
+       {
+        "type": "link",
+        "url": "http://www.abcknihy.sk/Kniha/myty-kmene-cechu-dusan-trestik-2028311.aspx?src=sb",
+        "children": [
+         {
+          "type": "text",
+          "text": "Buch"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " des tschechischen Historikers"
+       },
+       {
+        "type": "text",
+        "text": " Dušan Třeštík",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Vznik Velké Moravy an."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf Seite 132 führt er an: "
+       },
+       {
+        "type": "text",
+        "text": "„",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Ein ethnisch-politischer Name ließe sich jedoch vielleicht auf die Slowakei beziehen.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Ihn führt der Autor des sog. Bayerischen Geographen an, allerdings ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "als Merehani",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – also offenbar Mährer. (…) Im ersten Teil werden die gentes von den Abodriten im Norden in Richtung Süden aufgezählt. Hinter den Boheman-Tschechen (Beheimare) sind richtig die Mährer (Marharii) platziert, dann ist aber von den Bulgaren die Rede und wieder von gewissen „Mährern“ - Merehani. Damit endet die Aufzählung der Grenz-gentes, und der zweite Teil, der jene umfasst, „die hinter ihnen sitzen „, beginnt mit den Donau-Abodriten, von denen wir oben gesprochen haben. Im Falle der Merehani können hier entschieden nicht – wie es aus der geographischen Reihenfolge hervorgehen würde – die Bewohner des Einzugsgebietes der serbischen Morava (des rechten, also südlichen Nebenflusses der Donau) in Betracht kommen, denn der Geograph hält sich konsequent an sein Programm und zählt wirklich immer nur die gentes auf, die nördlich der Donau sitzen. Daran, dass die „Marharii“ Mährer sind, hat nie jemand gezweifelt, ebenso wie immer ganz allgemein angenommen wurde, dass die „vulgarite“ Bulgaren sind. Die Frage war immer, wer jene „Merehani“ sind, die evident irgendwohin in diesen Raum zwischen Mähren und dem Gebiet des Eisernen Tores oder Belgrads platziert sind. Die Lokalisierung dieser Merehani zwischen die Thaya und die Donau, über die auch häufiger nachgedacht wurde, kommt nicht in Betracht, denn hier gab es in der ersten Hälfte des 9. Jahrhunderts nur eine sehr dünne slawische Besiedlung, und entschieden konnte hier keine gens gemeinsam leben. Eine verhältnismäßig dichte slawische Besiedlung befand sich erst am rechten Ufer der Donau, zwischen Wien und Mautern, also in der „Avaria“ auf dem Gebiet des Reiches. Weil aber an der unteren Theiß offenbar die Abodriten saßen, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "bleibt für die Lokalisierung der Merehani eigentlich nur die Slowakei",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Darüber wurde ebenfalls am häufigsten nachgedacht. In einem solchen Fall würde es sich bei dem Paar Marhari-Merehani wahrscheinlich um zwei Teile des mährischen Staates handeln, den mährischen und den Neutraer, benannt mit Varianten eines gemeinsamen Namens.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Hochwertiger Scan",
+    "alt": "Hochwertiger Scan",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ján Steinhübel",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", dem man ebenfalls sicher keinen übertriebenen Nationalismus vorwerfen kann, behauptet in seinem Buch Nitrianske kniežatstvo ganz eindeutig und ohne Zögern, dass die erwähnten Merehanos die Neutraer sind. Unter anderem führt er auf den Seiten 89–91 an, dass „"
+       },
+       {
+        "type": "text",
+        "text": "der bayerische Autor, der seine Kenntnisse über die slawischen Länder an den Grenzen des neuen Ostfränkischen Reiches zusammenfasste, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "unterscheidet klar die beiden großmährischen Fürstentümer ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "(…) Dieses Werk entstand etwa 10 Jahre nach der Eroberung des Neutraer Gebietes durch Mojmír. Deshalb sind für die ausländischen Beobachter die Bewohner beider Fürstentümer schon Mährer. Den Unterschied zwischen ihnen drückte unser unbekannter Autor durch eine Abweichung in der Benennung aus. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Die Näheren nannte er Marharii und die Entfernteren, die er noch immer für ein besonderes „Volk – populus“ hielt, Merehani. ",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Neutraer Slawen konnten sich jedoch vor dem Jahr 833 nicht Mährer nennen, denn die March (slawisch Morava), nach der die Mährer und ihr ganzes Fürstentum den Namen erhielten, floss nicht durch das Neutraer Gebiet. Die Fürstenburg und das Fürstentum Nitrava hatten den Namen vom Fluss Nitrava. Wenn wir daher die Analogie Morava - Nitrava fortsetzen können, kommen wir zu einer weiteren Analogie Moravania – Nitravania. So wie die Bewohner des Fürstentums Morava, genau so konnten wiederum ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "die Bewohner des Fürstentums Nitrava Nitravania sein",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Die Tschechen, Serben, Kroaten, Abodriten, Duleben und weitere alte Stämme trugen ihren Namen seit unvordenklicher Zeit, sie behielten ihn auch nach der Teilung in zwei (gegebenenfalls auch drei) kleinere Stämme, und er blieb ihnen auch nach der Besetzung eines neuen Gebietes. Die angenommenen Nitravania gehörten jedoch, so wie auch die Mährer, zu jenen Stämmen, die sich nach den Worten des russischen Chronisten Nestor mit ihren Namen (danach) benannten, wo sie sich niederließen, an welchem Ort. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Das Fürstentum Nitrava lag in der Zeit seiner Selbständigkeit außerhalb der Aufmerksamkeit der damaligen Berichterstatter, sie zeichneten also auch den Namen der angenommenen Nitravania nicht auf“. ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Weiter erwähne ich das Zitat des bedeutenden slowakischen Sprachwissenschaftlers und Slawisten "
+       },
+       {
+        "type": "text",
+        "text": "Ján Stanislav",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", der in dem Werk Starosloviensky jazyk anführt, dass "
+       },
+       {
+        "type": "text",
+        "text": "„Die Auslegungen dieser Aufzeichnung gehen auseinander. Man meint, dass die Marharii die Slovieni zwischen der Donau, der Thaya, der March und den Weißen Karpaten waren und dass diese Mojmír oder sein Vorgänger vereinigte. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Die Merehani wären ihre Blutsverwandten zwischen der Donau und den Karpaten mit dem Zentrum in Nitra",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Dieses Gebilde vereinigte Pribina oder sein Vorgänger. Beide Gebilde vereinigte Mojmír etwa im Jahr 833. So erklärt die Aufzeichnung neuestens Fr. Dvorník (Byzant. misie 93–94). Er führte die Meinung L. Havlíks an, nach der der Bayerische Geograph mit den Namen Marharii und Merehani nicht zwei verschiedene Stämme bezeichnen wollte, sondern zwei verschiedene politische Gebilde desselben Stammes, die um zwei unabhängige Zentren entstanden.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Schließlich darf der wichtige Beitrag von "
+       },
+       {
+        "type": "text",
+        "text": "Drahoslav Hulínek",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " nicht übergangen werden, der in dem anerkannten Sammelband Bitka pri Bratislave auf Seite 198 anführt, dass "
+       },
+       {
+        "type": "text",
+        "text": "„Trotz dieser Tatsachen ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "(Problem mit der Datierung der Burgwälle in der Slowakei - Anm. Orgoň)"
+       },
+       {
+        "type": "text",
+        "text": " können wir einen gewissen Anstieg der Entstehung von Burgwällen ab dem zweiten Drittel des 9. Jahrhunderts annehmen, was auch die erwähnte Nachricht des sog. Bayerischen Geographen bestätigt. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Die Erwähnung von 30 Burgen deutet auf eine verhältnismäßige Dichte des Vorkommens von Burgwällen hin.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Auf der Grundlage des bisherigen Stands der archäologischen Bestätigung können wir im 9. Jahrhundert - nach seinem ersten Drittel - ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "annehmen, dass im Gebiet der West- und der Mittelslowakei mindestens etwa 35–40 Burgwälle vorkamen.",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "… Auf der Grundlage ähnlicher archäologischer und statistischer Kriterien können wir annehmen, dass in Mähren innerhalb der heutigen Staatsgrenzen 15–20 befestigte Siedlungen vorkamen… ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Das Verhältnis innerhalb der von mir bisher angenommenen Zahl der Burgwälle zwischen dem mährischen und dem Neutraer Teil Großmährens",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " korrespondiert in einem gewissen Maße nur hypothetisch ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "mit den Angaben in der Schrift Bayerischer Geograph,",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " wo sich dieses Verhältnis auf der Grundlage der Interpretationen J. Steinhübels dem Niveau von etwa 1:3 bzw. auch dem Bereich von 1:2 bis 1:3 annähert.“ ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Bayerische Geograph in der Enzyklopädie der slowakischen Archäologie",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie Sie sehen, nehmen auch renommierte Historiker und Sprachwissenschaftler an, dass der Bayerische Geograph im 9. Jahrhundert unter den übrigen slawischen Stämmen auch unsere direkten Vorfahren aufzählte und sie mit einem besonderen Begriff benannte. Dass dort das Wort „Sloven“ oder „Slovák“ nicht steht? Nun, es steht dort aber auch nicht das Wort „Čech“. Beachten Sie, dass auch unsere westlichen Brüder hier benannt sind als "
+       },
+       {
+        "type": "text",
+        "text": "Betheimare, ",
+        "bold": true,
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "was nicht von der ethnischen Bezeichnung eines slawischen Stammes abgeleitet ist, sondern von dem Gebiet, das vorher den keltischen Boiern gehörte. Dennoch wird dieser Begriff automatisch als „Tschechen“ übersetzt. Werfen wir deshalb auch wir solche großartigen Dokumente nicht weg und machen wir uns bewusst, dass wir den Begriff Slowake im 9. Jahrhundert einfach nicht finden, unsere Vorfahren aber doch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wörtliche Übersetzung des Bayerischen Geographen lautet folgendermaßen: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       },
+       {
+        "type": "text",
+        "text": "Beschreibung der Städte und Gebiete auf der nördlichen Seite der Donau.",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Dies sind jene, die den Grenzen der Dänen am nächsten wohnen; sie werden Nortabtrezi [3] genannt - dort ist ein Gebiet, in dem 53 Städte liegen, nach ihren Fürsten aufgeteilt. Vuilci [4], wo es 95 Städte und vier Gebiete gibt. Lina [5] ist ein Volk, das 7 Städte hat. In ihrer Nähe wohnen jene, die man Bethenici, Smeldingon und Morizani [6] nennt, die 11 Städte haben. Neben ihnen sind jene, die Hehfeldi [7] genannt werden und die 8 Städte haben. Neben ihnen ist ein Gebiet, das man Surb [8] nennt, in einem solchen Gebiet gibt es mehrere (Gebiete), und es hat 50 Städte. Neben ihnen sind jene, die man Talaminzi [9] nennt, die 14 Städte haben. Betheimare [Becheimare] [10], bei denen es 15 Städte gibt. Marharii [11] haben 11 Städte. Vulgarite [12] haben weite Gebiete und ein zahlreiches Volk, das 5 Städte hat; denn weil sie in großer Menge sind, ist es nicht ihre Gewohnheit, Städte zu haben. Es gibt ein Volk, das man Merehani [13] nennt; diese haben 30 Städte. Das sind die Gebiete, die an unsere Grenzen angrenzen. Dies sind jene, die neben diesen Ländern wohnen: Osterabtrezi [14], wo es mehr als 100 Städte gibt, Miloxi [15], wo es 67 Städte gibt. Phesnuzi [15] haben 70 Städte. Tlaidesi [15] haben mehr als 200 Städte. Glopeani [16], bei denen es 400 Städte oder auch mehr gibt. Zuireani [17] haben 325 Städte. Busan [18] haben 231 Städte. Sittici [15], ein Gebiet, unermesslich an Volk und an überaus festen Städten. Stadici [15], bei denen es 516 Städte und ein unzählbares Volk gibt. Sebbirozi [15] haben 90 Städte. Unlizi [19], ein zahlreiches Volk, 318 Städte. Neriuani [15] haben 78 Städte. Artorozi [15] haben 145, ein sehr hartes Volk. Epataradici [15] haben 263 Städte. Vuillerozi [15] haben 180 Städte. Zabrozi [15] haben 212 Städte. Znetalici [15] haben 74 Städte. Aturezani [15] haben 104 Städte. Chozirozi [15] haben 250 Städte. Lendizi [20] haben 98 Städte. Thafnezi [15] haben 257 Städte. Zeriuani [15], was ein solches Königreich ist, dass von ihm, wie sie versichern, alle Völker der Slawen abstammen und ihren Ursprung herleiten. Prissani [21] (haben) 70 Städte. Velunzani [22] 70 Städte. BRUZ [23] sind von allen Seiten weiter als (die Entfernung) von der Enns bis zum Rhein. Vuizunbeire [15]. Caziri [24] 100 Städte. Ruzzi [25], Forsderen liudi [15], Fresiti [15], Serauici [15], Lucolane [15], Ungaro [26], Vuislane [27], Sleenzane [28] 15 Städte. Lunsizi [29] 30 Städte. Dadosesani [30] 20 Städte. Milzane [31] 30 Städte. Besunzane [32] 2 Städte, Verizane [15] 10 Städte. Fraganeo [15] 40 Städte. Lupiglaa [15] 30 Städte. Opolini [33] 20 Städte. Golensizi [34] 5 Städte.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Erläuterungen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3 nördliche Abodriten (Bodritzen)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4 Veleten (Liutizen)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5 Linonen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6 Bethenzen bzw. Vetnitzen, Smeldinger bzw. Smolinzen und Morizanen (in der Umgebung der Müritz)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "7 Heveller (Stodoranen)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "8 Sorben"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "9 Daleminzier (Glomatschen)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "10 Tschechen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "11 Mährer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "12 Bulgaren"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "13 „auch“ Mährer, - die (Neutraer) Stämme im Gebiet der heutigen Slowakei"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "14 östliche Abodriten "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "15 nicht zuverlässig bestimmbar"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "16 nicht lokalisiert, nach einigen Autoren die Poljanen in der Umgebung von Kiew oder die Bewohner am Goplo-See und in der Umgebung von Kruszwica in Kujawien"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "17 vielleicht die Sewerjanen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "18 Buschanen am Bug, vorher Duleben, später Wolhynier"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "19 vielleicht die Ulitschen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "20 vielleicht die L(j)achen, die Lokalisierung an die mittlere Weichsel in der Umgebung von Sandomierz oder in die Umgebung von Łęczyca in Polen ist unsicher"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "21 Pyritzer in Westpommern"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "22 vielleicht die Wolliner an der Oder, auf Wollin und zu beiden Seiten des Flusses Dievenow"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "23 vielleicht die Prußen, unter deren Namen die ganze baltische Gruppe gemeint ist"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "24 die Chasaren/Kabaren sind nicht auszuschließen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "25 die Rus"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "26 Altungarn"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "27 Wislanen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "28 Slensanen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "29 Lusizer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "30 Dadosesanen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "31 Milzener"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "32 Besunzaner, ein kleiner Stamm in der Umgebung des Burgwalls auf der Landeskrone bei Biesnitz "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "33 vielleicht die Bewohner in der Umgebung des polnischen Opole (Oppeln)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "34 Holasitzen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der lateinische Text der Descriptio:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       },
+       {
+        "type": "text",
+        "text": "Descriptio ciuitatum et regionum ad septentrionalem plagam Danubii.",
+        "italic": true,
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Isti sunt qui propinquiores resident finibus Danaorum quos uocant Nortabtrezi ubi regio in qua sunt ciuitates LIII per ducos partitae. Vuilci in qua ciuitates XCV et regiones IIII. Linaa est populus qui habet ciuitates VII. prope illis resident quas uocant Bethenici, et Smeldingon, et Morizani, qui habent ciuitates XI. Iuxta illos sunt qui uocantur Hehfeldi, qui habent civitates VIII. Iuxta illos est regio, quae uocatur Surbi. in qua regione plures sunt quae ha bent ciuitates L. Iuxta illos sunt quos uocantur Talaminzi, qui habent civitates XIIII. Betheimare in qua sunt civitates XV. Marharii habent ciuitates XI. Vulgarii regio est inmensa et populus multus habens ciuitates V. eo quod multitudo magna ex eis sit et non sit eis opus ciuitates habere. Est populus quem uocant Merehanos, ipsi habent ciuitates XXX. Iste sunt regiones quae terminant in finibus nostris. Isti sunt qui iuxta istorum fines resident. Osterabtrezi, in qua ciuitates plusquam C sunt. Miloxi, in qua ciuitates LXVII. Phesnuzi habent ciuitates LXX. Thadesi plusquam CC urbes habent. Glopeani, in qua ciuitates CCCC aut eo amplius. Zuireani habent ciuitates CCCXXV. Busani habent ciuitates CCXXXI. Sittici regio inmensa populis et urbibus munitissimis. Stadici in qua ciuitates DXVI populusque infinitus. Sebbirozi habent ciuitates XC. Vnlizi, populus multus, ciuitates CCCXVIII. Neriuani habent ciuitates LXXVIII. Attorozi habent CXL VIII, populus ferocissimus. Eptaradici habent ciuitates CCLXIII. Vuillerozi habent ciuitates CLXXX. Zabrozi habent ciuitates CCXII. Znetalici habent ciuitates LXXIIlI. Aturezani habent ciuitates CIIII. Chozirozi habent ciuitates CCL. Lendizi habent ciuitates XCVIII. Thafnezi habent ciuitates CCLVII. Zeriuani quod tantum est regnum ut ex eo cunctae gentes Sclauorum exortae sint et originem sicut affirmant ducant. Prissani ciuitates LXX. Velunzani ciuitates LXX. Bruzi plus est undique quam de Enisa ad Rhenum. Vuizunbeire. Caziri ciuitates C. Ruzzi. Forsderen. Liudi. Fresiti. Serauici. Lucolane. Vngare. Vuislane. Sleenzane ciuitates XV. Lunsizi ciuitates XXX. Dadosesani ciuitates XX. Milzane ciuitates XXX. Besunzane ciuitates II. Verizane ciuitates X. Fraganeo ciuitates XL. Lupiglaa ciuitates XXX. Opolini ciuitates XX. Golensizi ciuitates V. Sueui non sunt nati, sed seminati. Beire non dicuntur bauarii, sed boiarii, a boia fluvio.",
+    "author": null,
+    "source": null
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

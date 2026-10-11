@@ -1,0 +1,661 @@
+{
+ "slug": "sumrak-velkej-moravy-povest-z-10-storocia",
+ "data": {
+  "title": "Die Dämmerung Großmährens – eine Sage aus dem 10. Jahrhundert",
+  "slug": "daemmerung-grossmaehrens-sage-aus-dem-10-jahrhundert",
+  "excerpt": "Eine Sage aus der Schlussphase Großmährens: Im Sommer 907 beruft Fürst Mojmír das Heer gegen die Ungarn ein, und der Župan Ratihoj zieht mit seinen Kriegern vom Burgwall Priekopa in Zvolen-Môťová nach Nitra. Nur ein Bruchteil von ihnen kommt zurück. Radoslav Mandalík hat diese belletristisch gestaltete Erzählung in einem realen historischen Umfeld aufgezeichnet – wir bringen sie mit seiner Zustimmung im vollen Wortlaut.",
+  "metaTitle": "Die Dämmerung Großmährens – Sage aus dem 10. Jahrhundert",
+  "metaDescription": "Eine Sage aus dem Sommer 907: der Župan Ratihoj, der Burgwall Priekopa bei Zvolen und das Ende Großmährens, aufgezeichnet von Radoslav Mandalík.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "JUDr. Radoslav Mandalík",
+    "icon": "book"
+   },
+   {
+    "label": "Fundstelle",
+    "value": "Burgwall Priekopa in Zvolen-Môťová",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Die Handlung spielt im Sommer des Jahres 907, in der Zeit des Untergangs Großmährens",
+    "icon": "calendar"
+   },
+   {
+    "label": "Personen",
+    "value": "Župan Ratihoj, Befehlshaber Tur, die Söhne Milota und Levoslav",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "905",
+    "title": "Letzte Erwähnung des großmährischen Marktes",
+    "description": "In der Raffelstettener Zollordnung wird der Markt der Mährer erwähnt – eine der letzten schriftlichen Erwähnungen des Großmährischen Reiches.",
+    "type": "event"
+   },
+   {
+    "year": "906",
+    "title": "Niederlage der Altungarn gegen die Mährer",
+    "description": "Die Mährer besiegten die Altungarn noch einmal; es ist die letzte bekannte militärische Erwähnung des Reiches vor seinem Untergang.",
+    "type": "event"
+   },
+   {
+    "year": "Sommer 907",
+    "title": "Die Handlung der Sage auf dem Burgwall bei Zvolen",
+    "description": "Die Sage schildert die Schicksale des Župans Ratihoj und seiner Familie auf dem Burgwall Priekopa in Zvolen-Môťová zu der Zeit, als Fürst Mojmír II. das Heer gegen die Ungarn einberuft.",
+    "type": "event"
+   },
+   {
+    "year": "907",
+    "title": "Schlacht bei Bratislava und Untergang Großmährens",
+    "description": "Bei Bratislava fand eine „sehr unglückliche“ Schlacht statt, in der die Altungarn die Bayern besiegten; das großmährische Heer Mojmírs II. wird nicht mehr erwähnt, und die zentrale Fürstenmacht geht unter.",
+    "type": "event"
+   },
+   {
+    "year": "955",
+    "title": "Schlacht am Lech",
+    "description": "Nach der Niederlage am Lech bei Augsburg gehen die Altungarn zu einer sesshaften Lebensweise über und lassen sich dauerhaft im Karpatenbecken nieder.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4142,
+    "caption": "Môťová ...",
+    "alt": "Môťová ..."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Sage aus der Schlussphase Großmährens, vom Anfang des 10. Jahrhunderts, hat JUDr. Radoslav Mandalík aufgezeichnet und in seinem Buch Historické povesti zo Zvolenskej a Šarišskej stolice veröffentlicht. Mit seiner Zustimmung bringen wir Ihnen diese außergewöhnliche und interessante Sage im vollen Wortlaut. Dem Autor gebührt großer Dank. Es handelt sich um eine belletristisch gestaltete Erzählung des Autors, die in ein reales historisches Umfeld gesetzt ist, nicht um eine überlieferte Volkssage. Der Autor führt das auch im Vorwort seiner Sammlung an. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "DIE DÄMMERUNG GROSSMÄHRENS"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Sage vom Anfang des 10. Jahrhunderts"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebiet von Zvolen (Altsohl) war seit den ältesten Zeiten besiedelt. Die günstige Lage und die natürlichen Gegebenheiten boten schon in der Urgeschichte und im Altertum passende Bedingungen für eine Besiedlung. Im Museum befinden sich wertvolle Funde aus der Steinzeit, der Bronzezeit und der Eisenzeit, aus der Lausitzer Kultur, aus der Zeit der Kelten sowie Denkmäler aus der römischen Kaiserzeit. Die slawische Besiedlung ab dem 6.–7. Jahrhundert belegen mehrere archäologische Funde slawischer Siedlungen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den wichtigen slawischen (großmährischen) Sitzen in der Mittelslowakei zählt der zentrale Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zvolen-motova-hradok-priekopa",
+        "children": [
+         {
+          "type": "text",
+          "text": "Priekopa in Zvolen-Môťová"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", der auf einer Anhöhe gelegene (Wach-)Burgwall im nahen Detva-Kalamárka, der einen wichtigen Weg aus dem Eipeltal in das Becken von Zvolen bewachte, sowie die befestigte Siedlung Hrádok in Lieskovec."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die großmährische Zeit gehört zu den bedeutendsten Abschnitten unserer ältesten Geschichte. Über Großmähren, einen starken frühfeudalen Staat, sprechen mehrere Schriftquellen. Die letzten Erwähnungen des Großmährischen Reiches stammen aus dem Jahr 905 (die Angabe über den Markt der Mährer in der Raffelstettener Zollordnung) und aus dem Jahr 906 (die Niederlage der Altungarn gegen die Mährer)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die vorgelegte Sage bietet einen Blick auf die Schicksale der damaligen Menschen, der Bewohner eines der Burgwälle, in den weiteren Zusammenhängen des Untergangs Großmährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Môťová ...",
+    "alt": "Môťová ...",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Sommer des Jahres 907."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über dem ",
+        "italic": true
+       },
+       {
+        "type": "link",
+        "url": "/blog/zvolen-motova-hradok-priekopa",
+        "italic": true,
+        "children": [
+         {
+          "type": "text",
+          "text": "Burgwall von Zvolen"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bricht ein neuer Tag an.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wächter verjagen die letzten Reste des Schlafs. Das Krähen der Hähne weckt das Gesinde, das sich nach einer kurzen Erfrischung an die alltägliche Arbeit macht. Sie kratzen die Feuerstellen aus, entfachen das Feuer und bereiten das Frühstück für den Župan, seine Familie und die übrigen Bewohner des Burgwalls. Bald ist es auf dem Burgwall geschäftig und lebhaft wie gewöhnlich. An die Arbeit gehen der Bäcker, der Fleischer und der Zimmermann. Auch aus der Schmiedeesse hört man bald das Schlagen des Hammers auf den Amboss. Der Schmied beschlägt die Pferde, fertigt Äxte, Sicheln, Messer, aber auch Dolche und Schwerter für die Krieger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Župan Ratihoj nimmt die Meldung des Befehlshabers der Wache entgegen, eines erfahrenen Mannes, der schon unter seinem Vater gedient hat. Der Verwalter berichtet über den Stand der Vorräte. In den vorangegangenen Tagen kamen die Bewohner der Siedlungen auf den Burgwall und gaben, wie in jedem Jahr, die vorgeschriebene Abgabe für den Fürsten und für den Župan ab. Getreide, geräuchertes und gesalzenes Fleisch, Fische, Schmalz, Wachs und Honig. Der Župan von Zvolen ist, wie vor ihm sein Vater und sein Großvater, ein mächtiger Herr der Gegend. In diesem Jahr war die Ernte gut, die Speicher und Lager auf dem Burgwall sind bis zum Rand voll."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gemeinsam mit dem Befehlshaber Tur geht der Župan die Wälle ab und kontrolliert die Vollendung der Befestigungsarbeiten. Der Burgwall ist durch einen mächtigen Graben gut geschützt, von Norden durch den Fluss Slatina. Die verstärkten Wälle mit der Palisade werden auch einen etwaigen Angriff der Ungarn abhalten. Der Župan verbirgt seine Zufriedenheit nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem freien Platz unterhalb des Burgwalls haben sich junge Krieger versammelt und üben sich im Umgang mit den Waffen. Ihnen schaut eine kleine Gruppe älterer, erfahrener Soldaten zu. Die Burschen mit Schwertern, Schilden und Streitäxten greifen abwechselnd an und verteidigen sich. Andere werfen Lanzen und schießen mit dem Bogen auf eine Zielscheibe. Der Župan und der Befehlshaber bleiben für eine Weile bei ihnen stehen. Mit Wohlgefallen betrachten sie die Leistungen der Besten – des ältesten Sohnes des Župans, Milota, und seines treuesten Freundes, des Sohnes des Befehlshabers, Svatoš. Milota wurde eine Zeit lang am Fürstenhof in Nitra (Neutra) erzogen. Beide wurden im vorletzten Sommer in die Gefolgschaft aufgenommen. Unter den Jungen macht sich beim Bogenschießen auch der jüngere Sohn des Župans, Levoslav, gut, der erst vor kurzem den Ritus der Haarschur durchlaufen hat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wächter vom Turm beim Tor meldet am Nachmittag die Ankunft von Kaufleuten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach einer Weile fährt durch das Tor des Burgwalls eine kleine Kaufmannskarawane ein. Nach einer kurzen Begrüßung breiten die Kaufleute im Hof ihre Waren aus und bieten sie an. Die Frau des Župans, Slávená, betrachtet mit ihrer Tochter, der jungen Zora, und mit den Gefährtinnen begeistert die kostbaren Stoffe und Schmuckstücke aus fernen Gegenden. Die Krieger wiegen in den Händen Schwerter und Dolche mit verzierten Griffen, die von Meistern erst in Byzanz gefertigt wurden. Für die Waren verlangen die Kaufleute gute Felle, doch verschmähen sie auch Dinge aus der Kriegsbeute nicht. Im Hof ist es geschäftig, hier und dort hört man Lachen und Neckerei. Zwischen den Menschen ist jedoch dennoch eine gewisse Unsicherheit zu spüren. Auch die Kaufleute schicken sich nicht an zu übernachten. Sie lächeln, auf die Frage, ob sie unterwegs fremde Krieger gesehen hätten, antworten sie nicht. Sie eilen, wie sie sagen, einem weiteren Geschäft nach Böhmen und an die Ostsee nach."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ratihoj kehrt in das weitläufige Blockhaus zurück, das als Behausung des Župans und seiner Familie dient. Der Saal ist mit Fellen, Hirschgeweihen und Wildschweinhauern geschmückt. In der Mitte ein großer Eichentisch, eine steinerne Feuerstelle und der hölzerne Stuhl des Župans. Das Gesicht des Župans verdüstern Sorgen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Reich ist in Gefahr!",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erst vor einigen Jahren schloss Fürst Mojmír nach schweren Kämpfen mit den Deutschen Frieden. Jetzt ist ein neuer Feind da. Die Ungarn, nomadische Stämme aus dem Osten. Die Grenzeinheiten haben mit ihnen bisher schwere, aber erfolgreiche Kämpfe geführt. Heute ist die Gefahr jedoch größer als jemals zuvor. Die Ungarn haben mehrere Burgwälle und Siedlungen erobert und zerstört, haben das Theißgebiet und Transdanubien besetzt und wälzen sich unaufhaltsam nach Westen. Nachrichten darüber bringen Flüchtlinge, denen es gelungen ist, dem Tod oder der Sklaverei zu entkommen. Die Grenze des Reiches hat sich fast bis an die Gran verschoben. Aus diesem Grund stehen sie ständig in Verbindung mit den benachbarten Adligen und Ortsadligen. Die besten Beziehungen hat Ratihoj zu Rastislav, dem Ortsadligen aus der nahen Kalamárka, mit dem er auch schon familiär verbunden ist. Ratihojs Sohn Milota hat sich nämlich in Rastislavs jüngere Tochter Lada verguckt. Im Frühling feierten sie ihre Hochzeit. Wie viel gebratenes Fleisch aßen sie damals und wie viel guten Met tranken sie! Lada ist jetzt in gesegneten Umständen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der besorgte Župan verbirgt seine Befürchtungen vor den Nächsten nur schwer. In seinem Leben war er Zeuge von Freude und Unglück, von Svatopluks ruhmreichen Siegen, aber auch vom Bruderkampf der Fürsten, seiner Söhne. Er trägt die Verantwortung für sein Volk, wobei ihm seine treue Gattin Slávená eine Stütze ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Seine Befürchtungen haben sich erfüllt. Auf dem Burgwall traf bald ein Bote mit einem Aufruf für Ratihoj ein. Fürst Mojmír beruft das Heer gegen die Feinde ein. Jeder Adlige, Župan und Ortsadlige ist verpflichtet, sich unverzüglich mit der größtmöglichen Zahl von Leuten am Sammelplatz des fürstlichen Heeres in Nitra einzufinden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ratihoj wartet nicht. Der Pflicht gemäß stellt er gemeinsam mit dem Befehlshaber eilig eine Abteilung zusammen. Unter die Krieger reiht er auch Milota und Svatoš ein. Sie bereiten Bewaffnung und Vorräte für die Männer und die Pferde vor. Nur wenige Soldaten bleiben daheim. Den Schutz des Burgwalls während seiner Abwesenheit vertraut der Župan dem Befehlshaber Tur an. Den Ältesten der Siedlungen befiehlt er, Verhaue auf den Wegen und an den Gebirgsübergängen anzulegen. Im Notfall sollen die Menschen bereit sein, sich in den Bergen zu verstecken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeit des Aufbruchs kommt. Ratihoj und Milota verabschieden sich von der Familie. Frau Slávená mit der Tochter Zora und Lada halten nur mit Mühe die Tränen zurück. Der jüngere Levoslav blickt mit Stolz auf die Abziehenden. Svatoš und Zora tauschen einen kurzen Blick, der von verheimlichten Gefühlen zeugt. Der alte Befehlshaber Tur kennt seinen Sohn gut. Außer ihm hat bisher niemand die entstehende Beziehung der jungen Leute bemerkt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Jedem ist klar, dass es um das Schicksal des Reiches geht, um die Zukunft. Die Abteilung unter Führung des Župans vereinigt sich vor dem Tor mit den Männern, die von Rastislav und von Miloš, dem Ortsadligen aus dem nahen Lieskovec, geführt werden. Der Abrede gemäß werden die Familien der Ortsadligen gemeinsam in Zvolen auf ihre Rückkehr warten. Unterwegs sollen sich den Abteilungen Gruppen von Männern anschließen, freien Bewohnern der umliegenden Siedlungen, die zu Fuß gehen werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bewaffneten verschwinden in der Ferne.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die, die daheim geblieben sind, verstreichen die folgenden Tage langsam. Das Gesinde beschäftigt sich mit der alltäglichen Arbeit, die Handwerker mit der Herstellung von Gegenständen des täglichen Bedarfs. Die Fischer fangen Fische. Die Bauern fahren Stroh von den Feldern ein. Die Hirten treiben das Vieh auf die Weide. Frau Slávená lenkt gemeinsam mit dem alten Befehlshaber mit fester Hand das Leben auf dem Burgwall. Zusammen mit den Familien der Ortsadligen Rastislav und Miloš beten sie um die Rückkehr der Krieger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zwei Wochen sind vergangen. Über das fürstliche Heer gibt es keine Nachrichten. An einem Tag zieht auf der Heerstraße eine Schar von Menschen vorbei. Frau Slávená hält mit dem Befehlshaber und zwei Soldaten einige von ihnen auf und bietet ihnen Brot und Wasser an. Die Unbekannten kommen aus einer Siedlung an der Donau. Sie sind verschreckt. Sie sagen, es sei alles zu Ende. Die wilden Ungarn überschwemmen angeblich die ganze Gegend. Sie fliehen weiter nach Norden in Sicherheit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Nachricht vom Unglück bestätigte sich leider bald.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Wächter bemerkte die Rückkehr der Krieger. Es war keine siegreiche Rückkehr. Von den Männern, die vor kurzem mit Ratihoj, Rastislav und Miloš aufgebrochen waren, blieb nur ein Bruchteil. Fast alle sind verwundet. Einer hat eine von einem Pfeil verletzte Schulter, ein anderer ein aufgeschlagenes Gesicht, ein weiterer schleppt ein verwundetes Bein hinter sich her. Einer der Soldaten führt ein Pferd, das eine eilig angefertigte Trage zieht. Auf ihr liegt der schwer verwundete Župan Ratihoj. Auch in der Bewusstlosigkeit umklammert er in der Hand sein Schwert. Frau Slávená und die Tochter laufen zur Trage. Alle treten in den Burgwall ein. Den Župan legen sie im Haus auf ein Lager und bedecken ihn mit einem Bärenfell. Die Frauen sorgen für die Krieger, bieten ihnen Essen und Wasser an und versorgen die entzündeten Wunden. Es ist geschehen, was sie befürchtet hatten. Die Krieger verkünden die Niederlage! In der Pflege von Gattin und Tochter kommt der Župan Ratihoj am Abend zu sich. Aus dem einst starken Mann ist ein gebrochener Mensch geworden. Die Frauen ergreift eine böse Vorahnung. Endlich ist Ratihoj in der Lage zu erzählen, was geschehen ist. Das fürstliche Heer ist geschlagen! Einige Adlige aus Nitra und aus Mähren sind eigenmächtig nicht beim Heer erschienen. Mit den Ungarn trafen sie in einer Schlacht südlich der Donau zusammen. Die Feinde waren in der Überzahl. Auf schnellen Pferden griffen sie von allen Seiten an, schossen Pfeile ab und wichen dann wieder scheinbar zurück. Ein Teil der Befehlshaber befolgte die Befehle des Fürsten nicht. Sie jagten dem Feind nach, dem es gelang, sie abzuschneiden. Das geschwächte und geteilte fürstliche Heer unterlag. Fürst Mojmír, seine Gefolgschaft und die Adligen fielen. Ein Teil der fürstlichen Krieger nahm Zuflucht hinter den Mauern einer alten Festung. Im tapferen Kampf gegen die Überzahl fielen der Ortsadlige Rastislav, der Ortsadlige Miloš und auch Milota mit Svatoš. Beide kämpften bis zum Ende und schützten einander. Viele Nomaden fielen unter den Schlägen ihrer Schwerter. Er konnte es nicht verhindern. Nur ihm und ein paar Männern gelang es, sich wie durch ein Wunder durchzukämpfen und auf Umwegen nach Hause zu kommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach diesen Worten konnten sich die Anwesenden der Tränen nicht erwehren. Die Familien Rastislavs und Milošs verloren den Vater und Beschützer. Der Župan und Frau Slávená den ältesten Sohn und Erben. Die junge Lada wurde Witwe, und ihr ungeborenes Kind verlor den Vater. Der Befehlshaber Tur verlor den einzigen Sohn."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf dem Burgwall herrschte Trauer. Die Frauen und Mütter wehklagen über den Verlust der Nächsten. Die Unsicherheit und die Angst waren so groß, dass alle wie ohne Seele umhergehen. Am dritten Tag nach der Ankunft der Krieger betete man in Anwesenheit eines Priesters beim Kreuz für das Seelenheil der Toten, die man nicht einmal begraben konnte. Die Familien Rastislavs und Milošs kehrten nach der Trauerfeier nach Hause zurück."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Flüchtlinge werden mit jedem Tag mehr. Einige von ihnen haben auf Wagen ihren Besitz geladen, die meisten von ihnen haben nichts. Ein Teil der Flüchtlinge lässt sich beim Burgwall, in Budča und im nahen Rybáre nieder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Sommer ging langsam zu Ende. Trotz des Unglücks, das sie getroffen hatte, musste man leben. Der Župan Ratihoj erholte sich von den Wunden. Mit dem Befehlshaber Tur ergänzten sie die Besatzung des Burgwalls um Männer aus den Siedlungen. Den Nachrichten nach verheerten die Ungarn mehrere Gegenden und auch die Residenzstadt Velehrad. Einige Adlige und Ortsadlige haben sich angeblich fremden Anführern unterworfen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Herbstarbeiten auf den Feldern waren beendet. Es gelang, genug Holz zum Heizen und Futter für das Vieh für den Winter zusammenzubringen. Auch der Herbst verstrich. Im Dezember kündigte sich ein ungewöhnlich strenger Winter an. Alles versank im Schnee. Die Menschen gingen fast nicht aus ihren Behausungen heraus. Die Trauer der Bewohner des Burgwalls wurde von einem freudigen Ereignis überdeckt. Mitten im Winter wurde Lada, der Witwe Milotas, ein Sohn geboren, stramm wie eine Buche. Bei der Taufe gaben sie ihm den Namen nach dem Vater."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dem alten Befehlshaber Tur schenkte der Župan für seine treuen Dienste eine Siedlung nicht weit von Zvolen, die man noch heute Turová nennt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ratihoj und seiner Frau Slávená kehrte nach der Geburt des Enkels gleichsam die frühere Freude zurück. Niemand weiß, was die Zukunft bringt. Aus dem jüngeren Sohn Levoslav wird bald ein stattlicher und kräftiger Bursche heranwachsen, ein würdiger Nachfolger seines Vaters. Das Geschlecht des Župans wird weiterleben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 907 fand bei Bratislava (Pressburg) eine „sehr unglückliche“ Schlacht statt, in der die Altungarn die Bayern besiegten. Das großmährische Heer Mojmírs II. wird in diesem Zusammenhang nicht mehr erwähnt. In diesem Jahr starb Fürst Árpád, der Begründer der künftigen Königsdynastie. Irgendwann in den Jahren 906–907 kam es wahrscheinlich auch zur entscheidenden Schlacht der Mojmiriden und der Altungarn. Nach der von dem Chronisten Simon von Kéza im 13. Jahrhundert aufgezeichneten Überlieferung konnte das südlich von Komárno geschehen sein, in Bánhida, in der heutigen Republik Ungarn."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die zentrale Fürstenmacht und damit auch das Großmährische Reich gehen unter. Altungarische Gefolgschaften verheerten einen Teil Großmährens und setzten ihre Raubzüge in das Ostfränkische Reich fort. In den Gebieten nördlich der besetzten Territorien ging die weitere (nachgroßmährische) Entwicklung weiter. So war es auch im Gebiet des mittleren Grantals. Nach der Niederlage am Lech bei Augsburg im Jahr 955 gehen die Altungarn zu einer anderen Lebensweise über und lassen sich dauerhaft im Karpatenbecken nieder. Die nördlicheren und gebirgigeren Gegenden der Slowakei werden allmählich in den neuen ungarischen Staat eingegliedert, der auf den Grundlagen der vorangegangenen staatlichen Organisation entsteht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Noch im 10. Jahrhundert wurde auf dem Burgwall Priekopa bei Môťová eine mächtige Befestigung errichtet. Nach dem Untergang des Burgwalls im 11. Jahrhundert übernimmt ein größeres Zentrum – die Burg Starý Zvolen – seine Funktion."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

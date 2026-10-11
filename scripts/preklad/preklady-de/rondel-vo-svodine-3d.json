@@ -1,0 +1,99 @@
+{
+ "slug": "rondel-vo-svodine-3d",
+ "data": {
+  "title": "Die Kreisgrabenanlage von Svodín – in 3D",
+  "slug": "svodin-kreisgrabenanlage-3d",
+  "excerpt": "In Zusammenarbeit mit dem Projekt Dwarf digital archeology bringen wir Ihnen diese großartige neue 3D-Visualisierung der neolithischen Kreisgrabenanlage, die in der Gemeinde Svodín entdeckt wurde.",
+  "metaTitle": "Kreisgrabenanlage von Svodín – 3D-Visualisierung",
+  "metaDescription": "3D-Visualisierung der neolithischen Kreisgrabenanlage von Svodín – ein monumentaler Bau mit Palisaden, Gräben und vier Toren nach den Himmelsrichtungen.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "Gemeinde Svodín",
+    "icon": "map"
+   },
+   {
+    "label": "Art des Baus",
+    "value": "kreisförmiger Grundriss, umgeben von hölzernen Palisaden und Gräben, mit vier nach den Himmelsrichtungen orientierten Toren",
+    "icon": "building"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "jüngeres Neolithikum (4900–4500 v. Chr.), Lengyel-Kultur",
+    "icon": "calendar"
+   },
+   {
+    "label": "Astronomische Orientierung",
+    "value": "Das Südwesttor wies auf den Untergang des hohen Mondes (Juni–September, Zyklus von 18,6 Jahren), das Nordwesttor auf ihn in der Zeit von Dezember bis April",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4900–4500 v. Chr.",
+    "title": "Entstehung der Kreisgrabenanlage",
+    "description": "Die Kreisgrabenanlage entstand in der Zeit des jüngeren Neolithikums und gehört zur Lengyel-Kultur.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zusammenarbeit mit dem Projekt Dwarf digital archeology bringen wir Ihnen diese großartige neue 3D-Visualisierung der neolithischen Kreisgrabenanlage, die in der Gemeinde Svodín entdeckt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Xp-rTAFbrrA",
+    "url": "https://www.youtube.com/embed/Xp-rTAFbrrA",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Kreisgrabenanlage ist ein monumentaler Bau mit kreisförmigem Grundriss, der von hölzernen Palisaden und Gräben umgeben ist und vier Tore besitzt, die meist nach den Himmelsrichtungen orientiert sind. Sie tritt in der Slowakei, in Mähren, in Böhmen, in Ungarn, in Bayern, im Rheinland und ebenso in Britannien auf. Diese urgeschichtlichen Bauten stammen aus der Zeit des jüngeren Neolithikums (4900–4500 v. Chr.) und gehören zur sogenannten Lengyel-Kultur. Die Kreisgrabenanlagen sind also älter als die ägyptischen Pyramiden oder das bekannte englische Stonehenge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der bekanntesten Kreisgrabenanlagen liegt gerade in Svodín. Ihr Südwesttor ist auf jene Richtung orientiert, in der der hohe Mond (im Maximum seines 18,6-jährigen Zyklus) in den Monaten Juni bis September untergeht. Von Dezember bis April ging der Mond in der Richtung des Nordwesttores unter. Jedes der Tore der Kreisgrabenanlage war auf einen konkreten Punkt am Horizont orientiert, an dem der Mond auf- oder unterging. An diesen extremen Positionen des Mondauf- und -untergangs über der Anlage von Svodín konnte die Sonne niemals auf- oder untergehen. \n \n Die Kreisgrabenanlagen entstanden in einem einzigen Bauzyklus inmitten ausgedehnter Siedlungen mit einer Fläche von 13 bis 30 Hektar, die aus großen Pfostenhäusern bestanden. In die Anlagen führten üblicherweise vier symmetrisch verteilte, gegenüberliegende Eingänge, die jedoch nur selten eine gemeinsame Achse hatten. Durch ihre Orientierung an den Haupthimmelsrichtungen legen sie die Untersuchung möglicher Zusammenhänge mit dem Lauf der Himmelskörper, mit den Sonnenwenden oder mit der Tagundnachtgleiche geradezu nahe (eine solche Orientierung von Bauten wurde im Neolithikum allerdings nicht verwendet).\n \n Bei der Analyse der Orientierung der Kreisgrabenanlagen in der Slowakei zeigte sich ein Prinzip, nach dem ein großer Teil der Anlagen primär auf die Richtungen des Monduntergangs orientiert war. Sie hatten also auch eine bedeutende astronomische Aufgabe: Ihre Orientierung bereicherte die Rituale um einen Kalender, der der Verehrung von Sonne und Mond einen festen zeitlichen Rahmen gab. Ob sie auch als Befestigungen gegen Feinde genutzt werden konnten, ist nicht bekannt, ihre Konstruktion konnte eine solche Möglichkeit jedoch bieten.\n\nOrgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

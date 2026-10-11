@@ -1,0 +1,943 @@
+{
+ "slug": "tollens-bitka-z-doby-bronzovej",
+ "data": {
+  "title": "Das Schlachtfeld im Tollensetal – eine Schlacht der Bronzezeit",
+  "slug": "schlachtfeld-im-tollensetal-bronzezeit",
+  "excerpt": "Ein sehr aktueller Artikel über einen neuen Fund – die Überreste eines schrecklichen Krieges der Bronzezeit in Deutschland. Für die Übersetzung und die Zusammenstellung des Artikels gebührt unserem Mitarbeiter Martin Schuster großer Dank. Versetzen Sie sich mehr als 3000 Jahre zurück, in die Zeit einer grausamen Schlacht an der Tollense.",
+  "metaTitle": "Tollensetal – das älteste bekannte Schlachtfeld der Bronzezeit",
+  "metaDescription": "An der Tollense in Norddeutschland trafen um 1250 v. Chr. Tausende Krieger aufeinander; die Knochen von mindestens 130 Männern ändern das Bild der Bronzezeit.",
+  "keyFacts": [
+   {
+    "label": "Ort",
+    "value": "Fluss Tollense, Norddeutschland (~120 km von Berlin)",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung",
+    "value": "um 1250 v. Chr. (Radiokarbon)",
+    "icon": "star"
+   },
+   {
+    "label": "Umfang",
+    "value": "mind. 130 Individuen (Männer, 20–30 Jahre), Tausende Krieger",
+    "icon": "star"
+   },
+   {
+    "label": "Waffen",
+    "value": "Bronze- und Flintspitzen, Keulen, Schwerter, Speere",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "~1250 v. Chr.",
+    "title": "Die Schlacht an der Tollense",
+    "description": "Tausende Krieger, möglicherweise an einem einzigen Tag; der größte belegte Konflikt der Bronzezeit nördlich der Alpen.",
+    "type": "event"
+   },
+   {
+    "year": "1996",
+    "title": "Der erste Fund",
+    "description": "Ein Amateurarchäologe fand einen Knochen mit einer Flintspitze.",
+    "type": "event"
+   },
+   {
+    "year": "2009–2015",
+    "title": "Systematische Ausgrabungen",
+    "description": "MVPDHP, Greifswald u. a.; Knochen von mehr als 100 Männern und 5 Pferden.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6072,
+    "caption": "Abb. 1 Gefallene Krieger der Bronzezeit",
+    "alt": "Abb. 1 Gefallene Krieger der Bronzezeit"
+   },
+   {
+    "mediaId": 6073,
+    "caption": "Abb. 2 Krieger der Bronzezeit",
+    "alt": "Abb. 2 Krieger der Bronzezeit"
+   },
+   {
+    "mediaId": 6074,
+    "caption": "Abb. 3 Eine in diesen oberen Teil des Oberarmknochens eingedrungene Flintpfeilspitze machte die Archäologen als Erste auf die einstige Gewalt im Tollensetal aufmerksam.",
+    "alt": "Abb. 3 Eine in diesen oberen Teil des Oberarmknochens eingedrungene Flintpfeilspitze machte die Archäologen als Erste auf die einstige Gewalt im Tollensetal aufmerksam."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen Ihnen einen sehr aktuellen Artikel über einen neuen Fund – die Überreste eines schrecklichen Krieges der Bronzezeit in Deutschland. Für die Übersetzung und die Zusammenstellung des Artikels gebührt unserem Mitarbeiter Martin Schuster großer Dank. Versetzen Sie sich mehr als 3000 Jahre zurück, in die Zeit, als sich eine grausame Schlacht der Bronzezeit abspielte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1 Gefallene Krieger der Bronzezeit",
+    "alt": "Abb. 1 Gefallene Krieger der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Märzausgabe der angesehenen und anerkannten Zeitschrift Science brachte eine Abhandlung über eine große und brutale Schlacht am Fluss Tollense, die neue Erkenntnisse zur Kampfweise und zur Organisation des Lebens in der Bronzezeit beiträgt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Ausgrabung auf dem alten Schlachtfeld in Norddeutschland hat Anzeichen einer großen Schlacht aufgedeckt, worauf zum Beispiel die Konzentration der Knochen hinweist, wie auf dieser Fotografie aus dem Jahr 2013 zu sehen ist. …es wurden 1478 Knochen gefunden, darunter 20 Schädel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vor etwa 3200 Jahren trafen zwei Heere beim Versuch aufeinander, in der Nähe der Ostsee einen Fluss zu überschreiten. Diese Konfrontation lässt sich nicht …aus den Geschichtsbüchern – das geschriebene Wort wurde in dieser Gegend noch weitere 2000 Jahre nicht gebräuchlich. Doch das war kein Scharmützel zwischen örtlichen Sippen. Tausende Krieger trafen in einem brutalen Kampf aufeinander, möglicherweise sogar an einem einzigen Tag, unter Verwendung von Waffen aus Holz, Flint und Bronze – jenem Metall, das damals die beste Qualität der Militärtechnik bestimmte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2 Krieger der Bronzezeit",
+    "alt": "Abb. 2 Krieger der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Krieger versuchten, am Ufer der Tollense festen Boden unter den Füßen zu finden, an jenem schmalen Wasserband, das durch die Sümpfe im Norden Deutschlands in Richtung Ostsee fließt. Die Heere kämpften Mann gegen Mann, verstümmelten und töteten sich mit Streitkeulen, Speeren, Schwertern und Messern. Pfeile mit Bronze- und Flintspitzen wurden auf kurze Entfernung abgeschossen, durchschlugen Schädel und blieben tief in den Knochen junger Männer stecken. Pferde, die hochgestellten Kriegern gehörten, stürzten nach tödlichen Stichen in den Schlamm. Nicht jeder stand dem Feind von Angesicht zu Angesicht gegenüber: Einige Krieger brachen zusammen, flohen aus dem Kampf und wurden von hinten niedergestreckt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als der Kampf vorbei war, lagen Hunderte Leichen verstreut im sumpfigen Tal. Einige Körper waren ihrer Wertsachen beraubt und schaukelten im flachen Wasser; andere sanken auf den Grund, und die Tiefe bewahrte sie vor der Plünderung. Torfablagerungen bedeckten mit der Zeit die Knochen, und im Lauf der Jahrhunderte geriet die blutige Schlacht in Vergessenheit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1996 fand ein Amateurarchäologe ein Stück eines Oberarmknochens, der aus dem steilen Flussufer ragte. Es war der erste Anhaltspunkt dafür, dass das Tollensetal, etwa 120 Kilometer nördlich von Berlin, ein schreckliches Geheimnis verbirgt. Der Flint einer Pfeilspitze war fest in einem Ende des Oberarmknochens verankert und veranlasste die Archäologen, einen kleinen Probeschnitt anzulegen, der weitere Knochen, einen zerbrochenen Schädel und eine 73 Zentimeter lange, an einen Baseballschläger erinnernde Keule lieferte. Alle Artefakte wurden mit der Radiokarbonmethode auf etwa 1250 v. Chr. datiert, was darauf hindeutet, dass sie aus einer einzigen Episode der europäischen Bronzezeit stammen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 3 Eine in diesen oberen Teil des Oberarmknochens eingedrungene Flintpfeilspitze machte die Archäologen als Erste auf die einstige Gewalt im Tollensetal aufmerksam.",
+    "alt": "Abb. 3 Eine in diesen oberen Teil des Oberarmknochens eingedrungene Flintpfeilspitze machte die Archäologen als Erste auf die einstige Gewalt im Tollensetal aufmerksam.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nun, nach einer Reihe von Ausgrabungen zwischen den Jahren 2009 und 2015, beginnen die Forscher die Schlacht und ihre überraschenden Folgen für die Gesellschaft der Bronzezeit zu verstehen. Entlang eines drei Kilometer langen Abschnitts der Tollense entdeckten Archäologen der Denkmalpflege Mecklenburg-Vorpommern (MVPDHP) und der Universität Greifswald (UG) hölzerne Keulen, bronzene Speerspitzen und Pfeilspitzen aus Flint und Bronze. Sie fanden auch eine gewaltige Menge an Knochen: die Überreste von mindestens fünf Pferden und mehr als 100 Männern. Die Knochen von Hunderten weiteren, die ungehoben geblieben sein könnten, und die Tausenden, die gekämpft, aber überlebt haben könnten, deuten auf das enorme Ausmaß der Schlacht hin. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Wenn unsere Hypothese richtig ist, dass alle Funde zu demselben Ereignis gehören, dann haben wir es mit einem Konflikt von bisher vollkommen unbekanntem Ausmaß nördlich der Alpen zu tun“, sagt der Mitleiter der Ausgrabungen Thomas Terberger, Archäologe des niedersächsischen Landesamtes für Kulturerbe in Hannover. „Wir kennen nichts Vergleichbares.“ Wir können es sogar – einschließlich der Waffen und der Krieger – mit einer Schlacht dieser Größe irgendwo in der Antike vergleichen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nordeuropa in der Bronzezeit wurde lange als stilles Gewässer unterschätzt, im Schatten der entwickelteren Zivilisationen des Nahen Ostens und Griechenlands. Die Bronze selbst wurde im Nahen Osten um 3200 v. Chr. geschaffen, und es dauerte 1000 Jahre, bis sie hierher gelangte. Doch der Maßstab von Tollense deutet auf eine größere Organisation – und auf mehr Gewalt – hin, als bisher angenommen wurde. „Bisher wurden Szenarien von Raubzügen mit kleinen Gruppen junger Leute erwogen, von Töten und Nahrungsraub, aber sich einen so großen Kampf mit Tausenden Menschen vorzustellen, ist sehr überraschend“, sagt Svend Hansen, Leiter der Eurasien-Abteilung des Deutschen Archäologischen Instituts (DAI) in Berlin. Die gut erhaltenen Knochen und Artefakte haben diesem Bild einer weiter entwickelten Bronzezeit Details hinzugefügt, die auf die Existenz einer ausgebildeten Kriegerschicht hinweisen und darauf hindeuten, dass Menschen aus ganz Europa in den blutigen Kampf eintraten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tollense ist etwas Besonderes. „Was die Bronzezeit betrifft, so fehlten uns die Belege; jetzt haben wir ein Schlachtfeld, tote Menschen und Waffen, alles zusammen“, sagt der Archäologe des University College Dublin (UCD) Barry Molloy. „Wir haben die Belege gewonnen.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Jagdschloss an einem See mit dem Namen Schloss Wiligrad wurde um die Wende zum 19. Jahrhundert tief im Wald errichtet, 14 Kilometer nördlich von Schwerin, der Hauptstadt des norddeutschen Bundeslandes Mecklenburg-Vorpommern. Heute ist der Bau die Heimat beider Abteilungen der staatlichen Einrichtung für die Erhaltung historischer Denkmäler und eines kleinen örtlichen Kunstmuseums. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einem Raum mit hoher Decke im zweiten Stock des Schlosses blicken hohe Fenster auf den in Nebel gehüllten See. Im Inneren erhellt bleiches Winterlicht Dutzende Schädel, die auf Regalen und Tischen angeordnet sind. In der Mitte des Raumes liegen lange Knochen der unteren Extremitäten und kurze Rippen in dicht geschlossenen Reihen auf einem Tisch; weitere Überreste sind in Pappschachteln verwahrt, die auf Metallregalen fast bis zur Decke aufgestapelt sind. Die Knochen nehmen so viel Platz ein, dass hier kaum Raum zum Durchgehen bleibt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als der erste dieser Funde im Jahr 1996 ausgegraben wurde, war noch nicht klar, dass Tollense ein Schlachtfeld war. Einige Archäologen meinten, die Knochen könnten von einem überfluteten Friedhof stammen oder im Lauf der Jahrhunderte angeschwemmt worden sein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es gab Grund zur Skepsis. Vor Tollense waren unmittelbare Belege für Gewalt großen Ausmaßes in der Bronzezeit spärlich, und zwar besonders in dieser Region. Historische Berichte aus dem Nahen Osten und aus Griechenland beschrieben epische Schlachten, doch nur wenige Artefakte bestätigten diese überhöhten Berichte. „Auch in Ägypten haben wir, obwohl wir viele Geschichten über Kriege hören, niemals so wesentliche archäologische Belege für ihre Teilnehmer und ihre Opfer gefunden“, sagt Molloy vom UCD. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schlachtfeld im Tollensetal – eine Schlacht der Bronzezeit",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Europa der Bronzezeit …historische Berichte über irgendeinen Krieg, und alle Forscher erklärten die Waffen in den Gräbern als zeremonielle Beigaben, dazu einige Massengräber mit unzweifelhaften Belegen für Gewalt, wie hingerichtete Körper oder in die Knochen eingedrungene Pfeilspitzen. Vor dem Jahr 1990 „hatten wir lange Zeit keinen Grund, wirklich an einen Krieg in alten Zeiten zu glauben“, sagt Hansen vom DAI. Die Grabausstattungen wurden eher als Prestigeobjekte oder Machtsymbole erklärt denn als wirkliche Waffen. „Die meisten Menschen dachten, die alten Zivilisationen seien friedlich gewesen und in der Bronzezeit sei es um Handel und Ähnliches gegangen“, sagt Helle Vangkilde, Archäologin der Universität Aarhus in Dänemark. „Von Kriegführung war sehr wenig die Rede.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abb. 4 Die Archäologen entdeckten eine unübersehbare Menge an Artefakten vom Schlachtfeld. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "10.000 Knochen in diesem Raum – das, was von den Besiegten von Tollense übrig blieb – haben alles verändert. Sie wurden dicht gedrängt in unterirdischen Verstecken gefunden: An einer solchen Stelle fand man 1478 Knochen, darunter 20 Schädel, zusammengedrängt auf einem Raum von nur 12 Quadratmetern. Die Archäologen meinen, dass die Körper in flachen Tümpeln zu liegen kamen oder dort aufgeschichtet wurden, wo die Bewegung des Wassers die Knochen verschiedener Individuen vermischte. Durch das konkrete Auszählen der einzelnen Knochen – der Schädel und der Oberschenkelknochen zum Beispiel – haben die forensischen Anthropologen der UG, Ute Brinker und Annemarie Schramm, mindestens 130 Individuen bestimmt, fast ausschließlich Männer, meist im Alter von 20 bis 30 Jahren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schlachtfeld im Tollensetal – eine Schlacht der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zahl der Knochen deutet auf das Ausmaß der Schlacht hin. „Wir haben mindestens 130 Menschen und fünf Pferde. Und wir haben nur 450 Quadratmeter geöffnet. Das sind höchstens 10 % der Fundschicht und vielleicht nur 3 % oder 4 %“, sagt Detlef Jantzen, leitender Archäologe am MVDHP. „Wenn wir den ganzen Raum freilegen würden, könnten wir 750 Menschen haben. Das ist eine unglaubliche Zahl für die Bronzezeit.“ Wie sie in zurückhaltenden Schätzungen einräumen, behaupten er und Terberger, dass es, wenn einer von fünf Teilnehmern in der Schlacht getötet wurde und auf dem Schlachtfeld blieb, nahezu 4000 Krieger bedeuten könnte, die Teil des Kampfes waren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Brinker, die forensische Anthropologin, die für die Analyse der Überreste zuständig ist, sagt, dass die Feuchtigkeit und die chemische Zusammensetzung des Bodens im Tollensetal die Knochen nahezu vollkommen erhalten haben. „Wir können genau rekonstruieren, was geschehen ist“, sagt sie und zeigt eine Rippe mit zwei kleinen V-förmigen Einschnitten an einer Kante. „Diese Schnittspuren in der Rippe bedeuten, dass er zweimal an derselben Stelle gestochen wurde. Wir haben viele davon, oft mehrere Spuren an derselben Rippe.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abb. 5 Ein bronzener Pfeil durchdrang den Schädel und gelangte ins Gehirn "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Scannen der Knochen mittels mikroskopischer Computertomographie am Materials Science Institute in Berlin und an der Universität Rostock hat detaillierte 3D-Bilder dieser Verletzungen geliefert. Jetzt bestimmen die Archäologen die entsprechenden Waffen durch den Vergleich der Scan-Aufnahmen mit Waffen, die bei Tollense oder in gleichzeitigen Gräbern anderswo in Europa gefunden wurden. Rautenförmige Löcher in den Knochen zum Beispiel entsprechen deutlich der Form der bronzenen Pfeilspitzen, die auf dem Schlachtfeld gefunden wurden. (Bronzene Artefakte kommen bei Tollense häufiger vor als solche aus Flint, vielleicht deshalb, weil zum Durchsuchen der Fundhaufen nach Artefakten Metalldetektoren verwendet wurden.) "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Knochenscans haben auch ein genaueres Bild davon geliefert, wie sich die Schlacht entwickelte, sagt Terberger. Nach der Röntgenaufnahme des Oberarmknochens mit der Pfeilspitze – jener, die die Entdeckung des Schlachtfeldes auslöste – schien es, dass er Anzeichen einer Heilung aufweist. In einem Aufsatz von 2011 in Antiquity kam die Gruppe auf den Gedanken, dass der Mann die Verletzung bereits früher in der Schlacht erlitten habe, aber noch einige Tage oder Wochen vor seinem Tod kampffähig gewesen sei, was bedeuten könnte, dass der Konflikt nicht ein einziges Zusammentreffen war, sondern eine Reihe von Gefechten, die mehrere Wochen dauerten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die mikroskopische Untersuchung dieser Wunde sagte etwas anderes: Was zunächst wie eine Heilung aussah – eine undurchsichtige Masse um die Pfeilspitze im Röntgenbild – war in Wirklichkeit eine Schicht zerschlagenen Knochens, zusammengepresst durch eine einzige Einwirkung, die wahrscheinlich tödlich war. „Das zwingt uns, die Vorstellung zu revidieren, dass es sich im Laufe mehrerer Wochen abspielte“, sagt Terberger. Bisher weist kein Körper verheilte Wunden auf, daher ist es wahrscheinlich, dass die Schlacht nur an einem Tag oder höchstens während einiger Tage geschah. „Wenn wir es mit einem einzigen Ereignis zu tun haben, das wahrscheinlicher ist als Gefechte im Laufe mehrerer Wochen, dann hat das großen Einfluss auf unsere Interpretation des Ausmaßes des Konflikts.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im vergangenen Jahr hat ein Team von Ingenieuren in Hamburg Technologien eingesetzt, die für die Modellierung von Kollisionen von Flugzeugteilen entwickelt wurden, um zu verstehen, welche Arten von Wunden die Krieger erlitten. Zum Beispiel meinten die Archäologen zunächst, dass jener Krieger, dessen Oberschenkelknochen in der Nähe des Hüftgelenks gebrochen war, vom Pferd gefallen sein musste. Die Verletzung ähnelt jenen, die heute aus einem Motorradunfall oder einem Reitunfall hervorgehen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Doch die Modellierung erzählte eine andere Geschichte. Melanie Schwinning und Hella Harten-Buga, Archäologinnen und Ingenieurinnen der Universität Hamburg, zogen die physikalischen Eigenschaften der Knochen und der bronzenen Waffen in Betracht, dazu Beispiele von Verletzungen bei einem Sturz vom Pferd. Mit der Methode der experimentellen Archäologie stießen sie wiederholt Spitzen aus Flint und Bronze in verendete Schweine und hielten die Schäden fest. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schwinning und Harten-Buga sagten, dass sie die bronzene Lanzenspitze in einem scharfen Winkel nach unten in den Knochen trieben, um den Oberschenkel brechen zu können, und dieser brach entzwei wie ein Holzkloben. „Als wir das modellierten, sieht es viel mehr nach einer Handwaffe aus als nach einem Sturz vom Pferd“, sagt Schwinning. „Wir hätten die Kraft sogar noch erhöhen können, aber es war nicht nötig.“ Sie schätzen, dass ein durchschnittlich großer Mensch mit seinem Körpergewicht die Lanze ausreichend hineintreibt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum sich die Männer an diesem Ort versammelten, um zu kämpfen und zu sterben, ist ein weiteres Geheimnis, das die archäologischen Belege zu entwirren helfen. Das Tollensetal ist hier eng, an manchen Stellen nur 50 Meter breit. Teilweise ist es sumpfig, während es anderswo festen Boden unter den Füßen bietet. Der Ort kann eine Art Engstelle für Reisende gewesen sein, die durch die nordeuropäische Tiefebene zogen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 2013 haben geomagnetische Prospektionen Belege für eine 120 Meter lange Brücke oder einen Damm aufgedeckt, der sich durch das Tal zog. Im Laufe zweier Ausgrabungskampagnen erwiesen sich die eingetieften Konstruktionen als aus Holzpfählen und Stein gefertigt. Die Radiokarbondatierung zeigte, dass ein großer Teil der Konstruktion der Schlacht um mehr als 500 Jahre voranging, einige ihrer Teile jedoch zur Zeit der Schlacht erbaut oder erneuert worden sein konnten, was darauf hindeutet, dass der Damm über Jahrhunderte in ununterbrochener Nutzung gewesen sein könnte – auch als allgemein bekannter Orientierungspunkt in der Landschaft. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Der Übergang spielte eine wichtige Rolle im Konflikt. Möglicherweise versuchte eine Gruppe, ihn zu überschreiten, und die andere drängte sie zurück“, sagt Terberger. „Der Konflikt begann dort, und die Kämpfe breiteten sich entlang des Flusses aus.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abb. 6 Die heute ruhigen Mäander der Tollense, einst Ort eines grausamen Kampfes. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schlachtfeld im Tollensetal – eine Schlacht der Bronzezeit",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Folge konnten die Sieger von den Körpern die Wertsachen nehmen, die sie mitnehmen konnten, und warfen die Leichen dann in das flache Wasser, das sie vor Raubtieren und Vögeln schützte. Die Knochen sind nicht abgenagt, und auch weitere für die Einwirkung von Aasfressern typische Spuren fehlen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An anderer Stelle fand das Team Menschen und Pferde, die einen oder zwei Meter tiefer dort begraben blieben, wo in der Bronzezeit das Flussbett lag. Mit diesen Überresten waren goldene Ringe vermischt, wahrscheinlich Haarringe, spiralförmige Ringe aus Zinn, die ein Mann vielleicht an den Fingern trug, und winzige bronzene Spiralen, die wohl als Verzierung dienten. Diese Toten müssen in den tieferen Teilen des Flusses gefallen oder dorthin geworfen worden sein und sanken schnell auf den Grund, wo ihre Wertsachen den Klauen der Räuber entgingen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Zeit der Schlacht schien Nordeuropa ohne Städte oder auch nur kleine Gemeinden zu sein. Nach den Archäologen lässt sich sagen, dass die Menschen hier kulturell locker mit Skandinavien verbunden waren und mit ihren erweiterten Familien auf einzelnen Gehöften lebten, bei einer Bevölkerungsdichte von weniger als fünf Menschen pro Quadratkilometer. Die nächste bekannte große Besiedlung dieser Zeit liegt mehr als 350 Kilometer nach Südosten, in Watenstedt. Es war ein Land, nicht unähnlich den agrarischen Teilen Europas heute, aber ohne Straßen, Telefone oder Radio. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und dennoch deuten chemische Spuren in den Überresten darauf hin, dass die meisten Krieger von Tollense aus einer Entfernung von Hunderten Kilometern kamen. Die Isotope in Ihren Zähnen entsprechen der Nahrung und dem Wasser, die Sie in der Kindheit zu sich genommen haben, was wiederum die umgebenden geologischen Verhältnisse jenes Ortes widerspiegelt, an dem Sie aufgewachsen sind. Der Archäologe Doug Price von der Retired University of Wisconsin, Madison, analysierte Strontium-, Sauerstoff- und Kohlenstoffisotope von 20 Zähnen aus Tollense. Nur wenige zeigten Werte, die für die nordeuropäischen Ebenen typisch sind, die sich von den Niederlanden bis nach Polen erstrecken. Die übrigen Zähne kamen aus größerer Entfernung, auch wenn Price bislang nicht sagen kann, woher genau. „Die Spannweite der Isotopenwerte ist wirklich groß“, sagt er. „Wir können jedoch urteilen, dass die Toten von vielen verschiedenen Orten stammten.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere Anhaltspunkte stammen vom Isotop eines anderen Elements, des Stickstoffs, das die Ernährung widerspiegelt. Die Stickstoffisotope in den Zähnen einiger der Männer deuten darauf hin, dass sie eine Nahrung zu sich nahmen, die reich an Hirse war, die in dieser Zeit eher im südlichen als im nördlichen Europa gewöhnlicher war. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alte DNA könnte potenziell viel mehr aufdecken: Im Vergleich mit anderen bronzezeitlichen Proben aus ganz Europa dieser Zeit könnte sie auf die Heimat der Krieger hinweisen und ebenso auf solche Besonderheiten wie Augen- und Haarfarbe. Die genetische Analyse steht nur in den Anfängen, aber bislang stützt sie die Vorstellung einer fernen Herkunft. Die DNA aus den Zähnen deutet darauf hin, dass einige Krieger mit heutigen Südeuropäern verbunden sind und andere mit Menschen, die im heutigen Polen und in Skandinavien leben. „Das ist kein Haufen örtlicher Idioten“, sagt der Genetiker der Universität Mainz Joachim Burger. „Es ist eine sehr vielfältige Population.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie Vangkilde von der Universität Aarhus sagt: „Es ist ein Heer, wie es in den Epen Homers beschrieben wird, zusammengesetzt aus kleineren Kriegergruppen, die man zur Plünderung Trojas zusammenbrachte“ – was fast 100 Jahre später geschehen sein soll, im Jahr 1184 v. Chr. „Das könnte eine unerwartet weit reichende gesellschaftliche Organisation bedeuten“, sagt Jantzen. „Wenn Sie eine Schlacht in einer so gewaltigen Entfernung organisieren und alle diese Menschen an einem Ort zusammenbringen wollen, so ist das ein enormer Erfolg“, sagt er. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bislang hat das Team nur eine Handvoll begutachteter Artikel veröffentlicht. Sie haben die Ausgrabungen eingestellt, erwarten ein größeres Volumen an Finanzmitteln und schreiben nun eine Publikation. Doch mit dem Projekt vertraute Archäologen behaupten, dass die Folgen dramatisch sind. Tollense kann ein Überdenken der gesamten Periode im Gebiet von der Ostsee bis zum Mittelmeer erzwingen, sagt der Archäologe Kristian Kristiansen von der Universität Göteborg in Schweden. „Das öffnet die Tür zu vielen neuen Belegen für die Art, in der die Gesellschaften der Bronzezeit organisiert waren“, sagt er. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Schlachtfeld im Tollensetal – eine Schlacht der Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Beispiel deuten starke Belege darauf hin, dass dies nicht die erste Schlacht dieser Männer war. Siebenundzwanzig Prozent der Skelette zeigten erste Anzeichen der Heilung von Wunden aus früheren Kämpfen, darunter drei Schädel mit verheilten Frakturen. „Es ist schwer, den Grund ihrer Verletzungen zu benennen, aber diese sehen nicht nach den typischen Verletzungen junger Landwirte aus“, sagt Jantzen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Abb. 7 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dieser im Tollensetal entdeckte Schädel zeigt einen deutlichen Beleg für die Einwirkung stumpfer Gewalt, vielleicht von einer Keule. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die standardisierten Metallwaffen und die Überreste von Pferden, die an einer Stelle mit menschlichen Knochen vermischt gefunden wurden, deuten darauf hin, dass mindestens einige der Krieger gut ausgerüstet und gut ausgebildet waren. „Das waren keine bäuerlichen Soldaten, die alle paar Jahre zu einer Rauferei hinauszogen“, sagt Terberger. „Es sind professionelle Krieger.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Körperpanzer und Schilde erschienen in Nordeuropa im Laufe der Jahrhunderte unmittelbar vor dem Beginn des Konflikts bei Tollense, und ihre Entstehung konnte durch die Bedürfnisse militärischer Gesellschaften erzwungen worden sein. „Wenn Sie mit Körperpanzern, Helmen und Rüstungen kämpfen sollen, brauchen Sie entweder tägliches Training, oder Sie können sich nicht bewegen“, sagt Hansen. Das ist der Grund, warum zum Beispiel der biblische David, ein Hirte, vor dem Kampf mit Goliath die Rüstung und den bronzenen Helm ablehnte. „Diese Art des Trainings ist für besondere Kriegergruppen unverzichtbar“, sagt Hansen. In Tollense konnten diese in Bronze gerüsteten Reiterkrieger eine Art Offiziersschicht gewesen sein, die murrenden Fußsoldaten mit einfacheren Waffen befehligte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Warum aber lief so viel militärische Macht in einem engen Flusstal in Norddeutschland zusammen? Kristiansen sagt, dass diese Zeit eine Ära bedeutenden Aufschwungs vom Mittelmeer bis zur Ostsee zu sein scheint. In Griechenland brach etwa zur Zeit der Schlacht an der Tollense die hoch entwickelte mykenische Zivilisation zusammen; in Ägypten prahlten die Pharaonen mit dem Sieg über die „Seevölker“, Angreifer aus fernen Ländern, die die benachbarten Hethiter stürzten. Und kurz nach Tollense begannen sich die verstreuten landwirtschaftlichen Gehöfte in Nordeuropa zu befestigten Siedlungen zu verdichten, wie wir sie aus den südlichen Gegenden kennen. „Um 1200 v. Chr. gibt es dort einen radikalen Wandel in der Ausrichtung von Gesellschaft und Kultur“, sagt Vangkilde. „Tollense passt in eine Zeit, in der sich der Kriegsbrand überall ausbreitete.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tollense sieht wie der erste Schritt zu einer Lebensweise aus, wie wir sie auch heute kennen. Angefangen beim Ausmaß und bei der Brutalität der Schlacht bis hin zur Anwesenheit einer militärischen Elite mit hoch entwickelten Waffen sind die Ereignisse dieses fernen Tages mit bekannteren und jüngeren Konflikten verbunden. „Das könnte der erste Beleg für einen Bruch in der sozialen Organisation und in der Kriegführung in Europa sein“, sagt Vangkilde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Artikel wurde aus folgender Quelle übernommen: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle?utm_source=sciencemagazine&utm_medium=facebook-text&utm_campaign=bronzeagebattle-3174",
+        "children": [
+         {
+          "type": "text",
+          "text": "Science"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Übersetzung: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.antiqart.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Martin Schuster"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Anmerkungen des Übersetzers: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So weit zum Massaker am Fluss Tollense nach dem Magazin Science und dem Autor des Artikels. Doch es wäre nicht die akademische Gemeinschaft, wenn sich nicht eine Debatte und Bemühungen entspännen, die Schlacht etwas anders auszulegen – und, kennt man die Verhältnisse, auch das Bemühen, sich selbst sichtbar zu machen. Aus der wissenschaftlichen Vielfalt der Meinungen und der unverbindlichen Disputation stellt sich schließlich das wahrscheinlichste Ergebnis ein. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein meiner Meinung nach sehr gut informierter Mensch, der zu diesem Thema unter dem Nick Serbian Irish bloggt, kam auf den Gedanken, dass es kein Kampfzusammenstoß zweier Heere war, sondern ein gewaltiger militärischer Überfall auf eine große Karawane. Er argumentiert unter anderem auch damit, dass unter den Skeletten auch Frauen- und Kinderskelette gefunden wurden, was zwar Kämpferinnen und Träger gewesen sein konnten, ebenso aber auch Reisende in einer Karawane. Ein weiteres Argument sind die gefundenen goldenen, messingenen und zinnernen Barren, die er eher für Handelsware hält als für Schmuck der Krieger. Seit uralten Zeiten schlossen sich reisende Händler zu möglichst großen Karawanen zusammen, deren untrennbarer Bestandteil gut bewaffnete und ausgebildete Krieger waren, und er nimmt an, dass die Karawane Handelsware aus dem Gebiet des Erzgebirges und Schlesiens trug – aus den für Bodenschätze und deren Verarbeitung bekannten Gebieten der Aunjetitzer Kultur der Bronzezeit im heutigen Erzgebirge und Riesengebirge – und dass der angeworbene Schutz aus noch südlicheren, bis zu mittelmeerischen Gebieten stammte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Viel mehr mit Kärtchen und Fotodokumentation finden Sie unter dem Link:"
+       },
+       {
+        "type": "link",
+        "url": "http://oldeuropeanculture.blogspot.sk/2015/07/tollense-battle.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://oldeuropeanculture.blogspot.sk/2015/07/tollense-battle.html"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Polen wiederum nehmen an, dass sich die damaligen Bewohner des heutigen Polens mit antiken Kräften verbanden und die Vorgänger der Wikinger nach Norden zurückdrängten und sie so an einem Exodus vor den Klimaveränderungen im Norden und an der Unterwerfung Mitteleuropas hinderten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

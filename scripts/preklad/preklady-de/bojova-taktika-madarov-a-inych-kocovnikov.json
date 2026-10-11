@@ -1,0 +1,270 @@
+{
+ "slug": "bojova-taktika-madarov-a-inych-kocovnikov",
+ "data": {
+  "title": "Die Kampftaktik der Altungarn und anderer Reiternomaden",
+  "slug": "kampftaktik-der-altungarn-und-der-reiternomaden",
+  "excerpt": "Die Kampftaktik der Altungarn an der Wende vom 9. zum 10. Jahrhundert brachte den großen Heeren des damaligen Europas schwere Niederlagen bei und stand hinter den erfolgreichen Eroberungszügen dieses Ethnikums, dem schließlich auch unsere Vorfahren im Gebiet von Nitra und in Mähren unterlagen. Schießen aus dem Sattel, vorgetäuschte Flucht und ein ständiger Nachschub an Pfeilen – Plutarchos, Maurikios, Masudi und Leo der Weise beschreiben diese Kampfweise.",
+  "metaTitle": "Kampftaktik der Altungarn und der Reiternomaden",
+  "metaDescription": "Schießen aus dem Sattel und vorgetäuschte Flucht: die Taktik der Altungarn und der Reiternomaden von den Parthern bis zur Schlacht auf dem Lechfeld.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Taktik der Altungarn und der Reiternomaden (Schießen aus dem Sattel, vorgetäuschte Flucht)",
+    "icon": "star"
+   },
+   {
+    "label": "Quellen",
+    "value": "Plutarchos, Maurikios, Masudi, Leo der Weise",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "934",
+    "title": "Angriff auf Konstantinopel",
+    "description": "Gemeinsamer Angriff der Altungarn und der Petschenegen (nach der Beschreibung Masudis) – Einkreisung durch Pfeilbeschuss „wie ein Mühlrad“.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5983,
+    "alt": "Zeichnung von fünf Gestalten in der zeitgenössischen Tracht der Reiternomaden mit Bogen, Speer und Säbel"
+   },
+   {
+    "mediaId": 5985,
+    "caption": "Ungarischer Köcher für Pfeile",
+    "alt": "Ungarischer Köcher für Pfeile"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kampftaktik der Altungarn an der Wende vom 9. zum 10. Jahrhundert verursachte den großen europäischen Heeren der damaligen Welt nicht geringe militärische Niederlagen und stand hinter den erfolgreichen Eroberungszügen dieses Ethnikums, dem letztlich auch unsere Vorfahren unterlagen, die im Gebiet von Nitra (Neutra) und in Mähren herrschten. Schauen wir uns deshalb diese erfolgreiche Art des Kampfes etwas näher an. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine ähnliche Kampftaktik wie die Altungarn hatten auch andere Nomadenvölker. Die älteste Nachricht über einen solchen Kampfstil beschreibt die Kampfweise der Parther. Eine sehr anschauliche Beschreibung bei Plutarchos berichtet, dass "
+       },
+       {
+        "type": "text",
+        "text": "„… die Parther auseinandertraten und aus der Ferne von allen Seiten zu schießen begannen. Von diesem Augenblick an waren die Römer in einer schwierigen Lage, denn ob sie in ihren geschlossenen Reihen verharrten oder ob sie vorrücken wollten, sie erlitten dieselben Verluste, dem Feind aber taten sie nichts an. Die Parther schlugen sie und entzogen sich zugleich ihren Geschossen. In dieser Geschicklichkeit zeichneten sie sich gleich nach den Skythen aus. Es gibt wohl nichts Vernünftigeres, als sich beim Retten auf der Flucht auch zu verteidigen und sich so der Schändlichkeit dieser Flucht zu entledigen. Solange die Römer hofften, die Parther würden ihre Pfeile verschießen und sich im Kampf aufhalten oder sich zum Nahkampf entschließen, verloren sie ihre Kampfentschlossenheit nicht. Als sie aber feststellten, dass unweit eine Menge Kamele stand, auf denen viele Geschosse und Pfeile lagen, und dass die Reiter der vorderen Reihen sich von dort versorgten, verlor Crassus den Mut, denn er fand keinen Ausweg mehr…“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Kampfweise der Nomaden ist ersichtlich, dass ein Reiter niemals sehr viele Pfeile mit sich tragen konnte, weil sie ihn bei der Bewegung behindert hätten; zu ihrer Ergänzung diente aber in erster Linie ein feststehender Vorrat, was auch im zitierten Plutarchos bei den Kamelen erwähnt wird. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kampftaktik der Altungarn und anderer Reiternomaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Angaben über die Kampftaktik der Altungarn lassen sich den Werken des Maurikios, Masudis und Leos des Weisen entnehmen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Aufstellung der altungarischen Schlachtreihen beschreiben diese beiden Quellen dabei recht unterschiedlich. Nach Leo dem Weisen standen ihre Abteilungen in kleinen Gruppen von etwa 1000 Personen. Die Frontlinie war dicht, die entfernteren Abteilungen befanden sich in geringem Abstand zur Kampflinie. Der arabische Autor Masudi schreibt gleichzeitig über die Kampfordnung der Altungarn und der Petschenegen beim gemeinsamen Angriff auf Konstantinopel im Jahr 934. Sowohl das altungarische als auch das petschenegische Heer hatte einen rechten und einen linken Flügel, und in der Mitte befand sich das Hauptheer. Die petschenegischen Seitenflügel bestanden aus einer Militärabteilung von etwa 1000 Mann. "
+       },
+       {
+        "type": "text",
+        "text": "„Nachdem sie sich in Kampflinien aufgestellt hatten, trafen die Reiterabteilungen des rechten Flügels die byzantinischen Hauptabteilungen mit einem Hagel von Pfeilen. Inzwischen verlagerte sich der linke Flügel. Die Reiterabteilungen des linken Flügels ritten ebenfalls herum und beschossen die byzantinischen Hauptabteilungen mit Pfeilen. Inzwischen gelangten sie dorthin, von wo die Reiterabteilungen des rechten Flügels abgezogen waren. Der Pfeilhagel setzte sich also fort, und die Reiterabteilungen drehten sich im Kreis wie ein Mühlrad. Die türkischen Flügel und das Hauptheer rührten sich jedoch nicht.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Aus der Fortsetzung ergibt sich dann, dass es die Aufgabe der Petschenegen war, die byzantinischen Schlachtreihen zu zerrütten. Als das zerrüttete byzantinische Heer daraufhin den Angriff gegen das bis dahin ruhig stehende altungarische Hauptheer begann, öffnete sich ihm zunächst der Weg, und es wurde von einem Hagel von Pfeilen überdeckt. Diese Pfeilwolke besiegelte dann endgültig das Schicksal des byzantinischen Heeres: "
+       },
+       {
+        "type": "text",
+        "text": "„Die Reiterabteilungen erschienen von rechts und von links. Schon zogen sie die Schwerter. Der Horizont verfinsterte sich…“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – so beendet Masudi die Beschreibung des Kampfes.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn sich die beiden Kampfbeschreibungen voneinander unterscheiden, haben sie etwas gemeinsam. Beide Schlachtordnungen zielten auf die Zerrüttung und Zersprengung der dichten Reihen der Feinde. Eine besondere Methode war die vorgetäuschte Flucht: Wenn der Gegner angriff, zogen sie sich zurück und lockten ihn hinter sich her, um so seine Reihen völlig zu zerrütten, und einem Zusammenstoß suchten sie, soweit es möglich war, auszuweichen. Das Hauptkampfmittel waren Bogen und Pfeile, was es ihnen erlaubte, nicht auf den mit Schutzwaffen ausgerüsteten Gegner zu warten, und sie mussten sich nicht in einen Nahkampf mit unvorhersehbarem Ende verwickeln. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kampftaktik der Altungarn und anderer Reiternomaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein wichtiger Bestandteil ihrer Taktik war, wie wir oben schon erwähnt haben, die Sicherstellung einer ausreichenden Menge an Pfeilen und deren ständiger Nachschub während des Kampfes. Die Last musste sich in unmittelbarer Nähe des Heeres befinden. Rechnen wir die Zerrüttung, die Dezimierung und die Verfolgung der feindlichen Reihen zusammen, so ist klar, dass die Köcher der Krieger, die selbst nur eine sehr begrenzte Kapazität hatten, mehrmals neu gefüllt werden mussten. Für die Art des Angriffs wie ein Mühlrad, von verschiedenen Seiten, brauchten sie unzählige Pfeile. Es ist gewiss, dass eine bestimmte Zahl von Reitern auch viel Gepäck benötigte. Es wird angegeben, dass auf je zehn Menschen ein mit Waffen und Proviant beladenes Pferd nötig war. Die Übernahme der Munition erfolgte planmäßig, deshalb war jedes beladene Tier mit der Einheit bezeichnet, zu der es gehörte. Nehmen wir alle diese Gesichtspunkte in Betracht, so erhalten wir das Bild eines geordneten, gut gegliederten, organisierten und geführten Heeres. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Werk Leos des Weisen und des Maurikios lassen sich auch Angaben über die Waffen und den Nahkampf finden: "
+       },
+       {
+        "type": "text",
+        "text": "„Auf den Schultern trugen sie die Lanze, in der Hand hielten sie den Bogen,“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " Diese Behauptung kann die Archäologie, die sich mit der Zeit der Ankunft der Altungarn im Karpatenbecken befasst, jedoch nicht belegen. In den Gräbern aus der genannten Zeit ist gerade die Lanze sehr selten, offiziell sind nur etwa ein Dutzend verzeichnet. Deshalb lässt sich annehmen, dass sich dieser Teil bei Maurikios auf die Awaren bezieht. Für awarische Gräber sind Lanzen tatsächlich charakteristisch. Ihre Zahl auf einem einzigen Gräberfeld erreicht oder übersteigt die Gesamtzahl aller in altungarischen Gräbern gefundenen Lanzen. Ebenso gelten die Ausrüstung und wahrscheinlich auch der Schutz des Pferdes für die Awaren. Die Hauptwaffe der Altungarn für den Nahkampf war der Säbel. Der Säbel der leichten Reiterei konnte aber im geschlossenen Angriff gegen ein schwer bewaffnetes Reiterheer nicht erfolgreich eingesetzt werden. Die Altungarn wichen dem deshalb nach Möglichkeit aus.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ungarischer Köcher für Pfeile",
+    "alt": "Ungarischer Köcher für Pfeile",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei den altungarischen Niederlagen während der Raubzüge nach Westen spielten offenbar ähnliche Kenntnisse eine Rolle, doch lässt sich das aus Mangel an direkten Quellen nur vermuten. In der Schlacht bei Riade (933) war das altungarische Heer gegen die schwer bewaffnete Reiterei machtlos. Die kaiserlichen Einheiten liefen nicht auseinander, sondern unternahmen einen Gegenangriff. Die vorgetäuschte Flucht der Altungarn verwandelte sich in eine wirkliche Flucht. Wie Widukind schreibt, "
+       },
+       {
+        "type": "text",
+        "text": "„ergriffen sie derart die Flucht, dass im Umkreis von 8 Meilen niemand mehr anzutreffen oder gefangen zu nehmen war“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Doch wie wir erfahren, hatten sie auch keine andere Möglichkeit als die Flucht, denn ihr Lager war von den Deutschen besetzt. Da wir bereits wissen, dass die Altungarn im Verlauf des Kampfes ihre Köcher recht häufig nachfüllen mussten, verstehen wir leicht, welch ein Unglück es für sie war, als die gesamte Munition, die sich im altungarischen Lager befand, in die Hände des Feindes geriet. Deshalb hatten sie keine Möglichkeit, ihre wirksame Kampfmethode – die Abwehr aus der Ferne – fortzusetzen. Mit Säbeln konnten sie gegen die schwer bewaffneten Deutschen nicht lange kämpfen. Bei Riade hatte ein Teil des altungarischen Heeres noch Glück und konnte sich retten. Möglicherweise verloren sie nicht alle ihre Nachschubpferde und hatten noch genug Pfeile, mit denen sie sich den Rückzug sicherten. In der Schlacht auf dem Lechfeld (955) trafen die Altungarn jedoch auf einen viel besser vorbereiteten Gegner. Wie im vorhergehenden Fall verloren die Altungarn ihr Lager und die Möglichkeit, Vorräte zu ergänzen. Mit leeren Köchern konnten sie kaum tapfer kämpfen. Die gut vorbereiteten Gegner wussten schon, dass die altungarischen Reiter ohne ihre Pfeile nicht so gefährlich sind. Sie wagten es deshalb, gegen die Flüchtenden zu kämpfen, und vernichteten das größte altungarische Heer dieses Raubzuges. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das absolute Ende ihrer traditionellen Taktik verursachte die Veränderung der Bewaffnung. Im Heer des hl. Stephan und vielleicht schon unter Géza hatten die leicht bewaffneten Reiterabteilungen nur noch einen untergeordneten Platz. Bogen und Pfeile waren in dieser Zeit in der Bewaffnung der ungarischen Heere schon völlig zurückgedrängt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

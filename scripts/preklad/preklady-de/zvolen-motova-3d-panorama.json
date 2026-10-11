@@ -1,0 +1,37 @@
+{
+ "slug": "zvolen-motova-3d-panorama",
+ "data": {
+  "title": "Zvolen-Môťová – ein 3D-Panorama des großmährischen Burgwalls",
+  "slug": "zvolen-motova-360-grad-panorama",
+  "excerpt": "Sehen Sie sich auf dem großmährischen Burgwall Zvolen-Môťová um: Es genügt, auf das Bild zu klicken, es nach dem Öffnen mit gedrückter linker Maustaste festzuhalten und die Maus in eine beliebige Richtung zu bewegen. Durch Drehen des Scrollrades lässt sich das Bild heranzoomen.",
+  "metaTitle": "Zvolen-Môťová – 3D-Panorama des großmährischen Burgwalls",
+  "metaDescription": "Interaktives 3D-Panorama des großmährischen Burgwalls Zvolen-Môťová, in dem sich der Blick durch Drehen und Heranzoomen frei umschauen lässt.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sehen Sie sich auf dem großmährischen Burgwall Zvolen-Môťová um ...\n \n Es genügt, auf das Bild zu klicken, es nach dem Öffnen mit der linken Maustaste festzuhalten und die Maus in eine beliebige Richtung zu bewegen. Durch Drehen des Scrollrades ist es möglich, sich das Bild heranzuzoomen ..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "blogger",
+    "embedId": null,
+    "url": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdwarfdigital%2Fposts%2F1860559607552870%3A0&width=500",
+    "caption": "360°-Panorama des Burgwalls Zvolen-Môťová (Dwarf Digital Archeology)"
+   }
+  ]
+ }
+}

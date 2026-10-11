@@ -1,0 +1,242 @@
+{
+ "slug": "peter-schreiber-osidlenie-ziliny-a-okolia-od-doby-rimskej-po-stredovek-lokalita-divinka",
+ "data": {
+  "title": "Peter Schreiber: Die Besiedlung von Žilina und Umgebung von der römischen Kaiserzeit bis zum Mittelalter. Die Fundstelle Divinka.",
+  "slug": "peter-schreiber-besiedlung-zilina-divinka",
+  "excerpt": "Peter Schreiber fasst die Besiedlung von Žilina und Umgebung von der römischen Kaiserzeit bis zum Mittelalter am Beispiel der befestigten Siedlung Divinka – Veľký vrch zusammen: eine Wallbefestigung auf der Kote 531 m, eine Hauptburg mit dunkler Kulturschicht aus der römischen Kaiserzeit und Funde aus der Mitte des 9. bis zum Anfang des 10. Jahrhunderts. Dazu kommt ein Überblick über die Hügelgräberfelder und die kleinen Burgen zwischen dem Waagtal und der Region Turiec.",
+  "metaTitle": "Schreiber: Besiedlung von Žilina – die Fundstelle Divinka",
+  "metaDescription": "Die Besiedlung von Žilina und Umgebung von der römischen Kaiserzeit bis zum Mittelalter am Beispiel der befestigten Siedlung Divinka – Veľký vrch.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber",
+    "icon": "users"
+   },
+   {
+    "label": "Fundstelle",
+    "value": "Divinka, Veľký Vrch (Bezirk Žilina)",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Äneolithikum bis Frühmittelalter (Mitte des 9. bis Anfang des 10. Jahrhunderts)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Art der Fundstelle",
+    "value": "Befestigte Siedlung mit Wallbefestigung",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1952, 1954",
+    "title": "Begehung der Fundstelle Veľký Vrch",
+    "description": "Die Begehung an der Fundstelle leitete A. Petrovský-Šichman (Kreismuseum Žilina).",
+    "type": "event"
+   },
+   {
+    "year": "1972, 1973",
+    "title": "Rettungsgrabung",
+    "description": "Die Rettungsgrabung an der Fundstelle leitete J. Moravčík (Považské-Museum Žilina).",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 9. bis Anfang des 10. Jahrhunderts",
+    "title": "Datierung der Funde aus der Hauptburg",
+    "description": "Gefäße, Scherben, Nägel, Spinnwirtel, Ahlen, Messer, ein Wetzstein, eine Schnalle, ein Sporn und ein Fingerring mit Schildplatte sind in diese Zeit datiert.",
+    "type": "event"
+   },
+   {
+    "year": "um die Mitte des 9. Jahrhunderts",
+    "title": "Entstehung des Burgwalls in Divinka",
+    "description": "In der Nähe von Žilina entstand der Burgwall in Divinka; es wird eine lokale Verlagerung des zentralen Burgwalls angenommen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4508,
+    "caption": "Künstlerische Vorstellung vom Aussehen der befestigten Höhensiedlung (Lausitzer Kultur) Autor: Naj",
+    "alt": "Künstlerische Vorstellung vom Aussehen der befestigten Höhensiedlung (Lausitzer Kultur) Autor: Naj"
+   },
+   {
+    "mediaId": 4509,
+    "caption": "Amphore, Lausitzer Kultur, späte Bronzezeit",
+    "alt": "Amphore, Lausitzer Kultur, späte Bronzezeit"
+   },
+   {
+    "mediaId": 4510,
+    "caption": "Keramik der Púchov-Kultur",
+    "alt": "Keramik der Púchov-Kultur"
+   },
+   {
+    "mediaId": 4511,
+    "caption": "Münze vom Typ Divinka",
+    "alt": "Münze vom Typ Divinka"
+   },
+   {
+    "mediaId": 4512,
+    "caption": "Tasse, Lausitzer Kultur, 8. Jahrhundert v. Chr., späte Bronzezeit",
+    "alt": "Tasse, Lausitzer Kultur, 8. Jahrhundert v. Chr., späte Bronzezeit"
+   },
+   {
+    "mediaId": 4513,
+    "caption": "Gefäß, Púchov-Kultur, 1. Hälfte des 1. Jahrhunderts n. Chr., römische Kaiserzeit",
+    "alt": "Gefäß, Púchov-Kultur, 1. Hälfte des 1. Jahrhunderts n. Chr., römische Kaiserzeit"
+   },
+   {
+    "mediaId": 4514,
+    "caption": "Tontopf, 9. Jahrhundert, Slawen",
+    "alt": "Tontopf, 9. Jahrhundert, Slawen"
+   },
+   {
+    "mediaId": 4515,
+    "caption": "Eiserne Messer und ein Sporn, 9. Jahrhundert, Slawen",
+    "alt": "Eiserne Messer und ein Sporn, 9. Jahrhundert, Slawen"
+   },
+   {
+    "mediaId": 4516,
+    "caption": "Goldener keltischer Ohrring aus der Siedlung Ohrádza",
+    "alt": "Goldener keltischer Ohrring aus der Siedlung Ohrádza"
+   },
+   {
+    "mediaId": 4517,
+    "caption": "Bronzefibel Typ Almgren 66 und 67",
+    "alt": "Bronzefibel Typ Almgren 66 und 67"
+   },
+   {
+    "mediaId": 4518,
+    "caption": "Fingerring mit Schildplatte, 9. Jahrhundert, Slawen",
+    "alt": "Fingerring mit Schildplatte, 9. Jahrhundert, Slawen"
+   },
+   {
+    "mediaId": 4519,
+    "caption": "Blick vom Veľký vrch noch vor dem Bau des Stausees",
+    "alt": "Blick vom Veľký vrch noch vor dem Bau des Stausees"
+   },
+   {
+    "mediaId": 4521,
+    "caption": "Der Veľký vrch in den 1970er Jahren",
+    "alt": "Der Veľký vrch in den 1970er Jahren"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Divinka – die befestigte Siedlung"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Begehung an der Fundstelle führte A. Petrovský-Šichman durch (Kreismuseum Žilina [Sillein], in den Jahren 1952, 1954). Die Rettungsgrabung führte J. Moravčík durch (Považské-Museum Žilina, in den Jahren 1972, 1973). Die Fundstelle Veľký Vrch – die Kuppe des Veľký vrch hat eine längliche Form in Richtung NW–SO und ihren höchsten Punkt über dem W-Rand. Am O-Rand geht sie in eine Plattform über (möglicherweise künstlich eingeebnet). Die älteste Besiedlung stammt aus der Zeit des Äneolithikums (kannelierte Keramik). Die ganze Kuppe des Berges ist von einem einfachen Wall umzogen, und die Hauptburg im westlichen Teil liegt auf einer Terrasse. Der Nordhang des Veľký vrch endet über dem Bach Divinka mit einer hohen Felswand. Vom Rand auf der Kuppe des Veľký vrch, der am weitesten nach NW vorgeschoben ist, verläuft bis zu der erwähnten Felswand ein weiterer Wall. In der Lage Koleso fehlt der Wall. Von den Toren II–III bis zum S-O-Rand der Plattform liegt an der Oberfläche eine dunkle Kulturschicht mit spätlausitzischen Scherben sowie mit Scherben aus der römischen Kaiserzeit und aus der Zeit des Frühmittelalters. Der mittlere Teil der Kuppe des Burgwalls zwischen den Toren II, III und der Hauptburg war wohl nicht dauerhaft besiedelt. Auf der ganzen Hauptburg befindet sich eine dunkle Kulturschicht mit Scherben aus der römischen Kaiserzeit (Petrovský-Šichman 1957, S. 88). Die Wallbefestigung (Kote 531 m) stammt wahrscheinlich aus der Hallstattzeit, in der römischen Kaiserzeit wurde sie wohl erneuert und erweitert. Auf der Hauptburg befinden sich steinerne Unterbauten von Blockbauten. Funde: Gefäße, Scherben, Nägel, Spinnwirtel, Ahlen, Messer, ein Wetzstein, eine Schnalle, ein Sporn, ein Fingerring mit Schildplatte, datiert in die Mitte des 9. bis an den Anfang des 10. Jahrhunderts (Pramene II 1992, S. 187). Zum Schutz des Zugangs zur Kuppe des Hügels errichtete man wohl in der römischen Kaiserzeit die kleine Wallbefestigung Hradisko na Kolárovej. Auch haben wir hier unmittelbar neben dem Areal des Hradisko einige hügelgrabartige Gebilde. Keramik aus dem Ende der Burgwallzeit wurde auf der Kuppe des Burgwalls auf der Kolárová festgestellt (Petrovský-Šichman 1964, S. 71). Die ursprüngliche Funktion eines befestigten Zentrums im Gebiet der NW-Slowakei erfüllte vor der Entstehung der frühmittelalterlichen befestigten Siedlung in Divinka wohl die befestigte Siedlung Ostrá skala in Vyšný Kubín. Um die Mitte des 9. Jahrhunderts entstand der Burgwall in Divinka in der Nähe von Žilina, und es wird angenommen, dass es in diesem Fall zu einer lokalen Verlagerung des zentralen Burgwalls kam (Moravčík 1978b, 58, 59)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Künstlerische Vorstellung vom Aussehen der befestigten Höhensiedlung (Lausitzer Kultur) Autor: Naj",
+    "alt": "Künstlerische Vorstellung vom Aussehen der befestigten Höhensiedlung (Lausitzer Kultur) Autor: Naj",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Anm. Orgoň: Die folgenden Fotografien hat uns die Archäologin des Považské-Museums in Žilina, Mgr. Andrea Slaná, zur Verfügung gestellt. Die Urheberin der Fotografien ist Anna Kucharčíková, die Fotografin des Museums. Es handelt sich um Funde vom Veľký vrch, die während der Ausgrabung von Jozef Moravčík in den 1970er Jahren gemacht wurden.)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Siedlungen und Gräberfelder:",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "  \n  Innerhalb der Nordwestslowakei lagen die meisten Hügelgräber im Becken von Žilina und ebenso an der geografischen Grenze Žilina – Trenčín (Trentschin). Südlich von Beluša ist die Hügelgrabbestattung nur ausnahmsweise belegt. Die Hügelgrabgruppen aus dem Gebiet des nördlichen Waagtals und aus dem Gebiet Žilina–Čadca liegen nicht weit voneinander. Diese Gruppen erscheinen daher als ein umfangreicheres Konglomerat von Fundstellen. Der Anschein ihrer Verbindung verliert sich, wenn aus ihrem Komplex die Hügelgräberfelder von Jasenica, Rašov, Súľov und Podhorie mit bezweifelbarer Authentizität ausgegliedert werden (Hanuliak 2001, 1–2, S. 281). Diese Hügelgräberfelder liegen auf der Verbindungslinie der beiden genannten Gruppen.  \n  "
+       },
+       {
+        "type": "text",
+        "text": "(Anm. Orgoň: Diese einzigartigen Fotografien hat uns Herr Jozef Jaroš zur Verfügung gestellt – ein Einwohner der Gemeinde Divinka, der sie in der Vergangenheit zusammengetragen hat)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Amphore, Lausitzer Kultur, späte Bronzezeit",
+    "alt": "Amphore, Lausitzer Kultur, späte Bronzezeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein datieren wir die Fundstellen mit Hügelgrabritus anhand der Gegenstände des Grabinventars (sie haben eine geringe Vorkommenshäufigkeit und eine schwache chronologische Empfindlichkeit) so, dass der Schwerpunkt den Abschnitt von der zweiten Hälfte des 8. bis zur ersten Hälfte des 9. Jahrhunderts ausfüllt. Nach der neuesten Auffassung wäre es vielleicht möglich, die Hügelgrabbestattung mit dem Kolonisationsstrom jener Gemeinschaften in Zusammenhang zu bringen, die in die betreffenden Gebiete über die nordkarpatischen Pässe vordrangen (Bialeková 1993, S. 44 Abb. 2), im Unterschied zu den Flachgräbern in den Tieflandgebieten, die vom südlichen Strom besiedelt wurden (Hanuliak 2001, 1–2, S. 294).  \n  In der Nordslowakei kennen wir bislang keine einzige dauerhaft besiedelte Befestigung, die nach der römischen Kaiserzeit entstanden wäre. Die Ergebnisse der bisherigen archäologischen Ausgrabungen bestätigen die Existenz befestigter Siedlungen im Gebiet der heutigen Slowakei, in Mähren, in den angrenzenden Gebieten Niederösterreichs und in Böhmen in der ersten Hälfte des 7. Jahrhunderts nicht (Hulínek – Čajka 2004-1, S. 80). Vom Waagtal bis zur Region Turiec kennen wir mehrere kleine Burgen mit großmährischen und spätmittelalterlichen Hinterlassenschaften (Púchov, Hatné, Udiča-Klape, Divina, Radoľa, Turie, Jasenové pri Rajci, Strečno-Bašta, Bystrička, Slovenské Pravno). Alle diese kleinen Burgen liegen im Gebiet von Žilina und Turiec, wobei sich das Verbreitungsgebiet der kleinen Burgen und der Hügelgräber geografisch deckt (Petrovský-Šichman 1964, S. 101–102).  \n  Peter Schreiber 2005 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

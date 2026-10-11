@@ -1,0 +1,653 @@
+{
+ "slug": "domy-slovenov",
+ "data": {
+  "title": "Die Häuser der Slawen – von der Grubenhütte zum Blockhaus",
+  "slug": "haeuser-der-slawen-von-der-grubenhuette-zum-blockhaus",
+  "excerpt": "Das Haus ist von der Urgeschichte bis heute eine der wichtigsten Quellen über die Gesellschaft: nicht nur Schutz vor dem Wetter, sondern der Raum, in dem eine Gemeinschaft von Blutsverwandten lebte, kultische Bedürfnisse erfüllte und häusliches Handwerk betrieb. Peter Šalkovský zeichnet nach, wie die Slawen wohnten – von der quadratischen Grubenhütte mit Steinofen über lange, ovale und kreisförmige Formen bis zu ebenerdigen Blockhäusern und den ersten hölzernen Palastbauten.",
+  "metaTitle": "Die Häuser der Slawen – von der Grubenhütte zum Blockhaus",
+  "metaDescription": "Wie die Slawen wohnten: quadratische Grubenhütten mit Steinofen, lange und ovale Formen, ebenerdige Blockhäuser und die ersten hölzernen Palastbauten.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Šalkovský",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Entwicklung der slawischen Behausung von der Grubenhütte zu ebenerdigen Blockbauten und Palastbauten",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "6.–13. Jahrhundert (mit Wurzeln bis in die Urgeschichte)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Typologie",
+    "value": "Quadratische, ovale und kreisförmige Grubenhütten; ebenerdige Blockbauten; Hallen-Palastbauten",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "6. Jahrhundert",
+    "title": "Erste Erwähnung slawischer Behausungen",
+    "description": "Der byzantinische Historiker Prokopios schreibt bei den Slawen von „weißen Hütten, die voneinander verstreut liegen“.",
+    "type": "event"
+   },
+   {
+    "year": "Wende 6./7. Jh.",
+    "title": "Das Zeugnis des Maurikios",
+    "description": "Die Militärschrift gibt an, die Slawen „wohnen in den Wäldern, an den Wassern und legen sich viele Ausgänge aus ihren Behausungen an“.",
+    "type": "event"
+   },
+   {
+    "year": "um 880",
+    "title": "Beschreibung des Hárun ben Jahib",
+    "description": "Der arabische Reiseschriftsteller beschreibt slawische Häuser, die aus Holz gebaut sind.",
+    "type": "event"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Arabische Geographen über Grubenhütten",
+    "description": "Omar Ibn Rusta beschreibt die Behausungen der Ostslawen als in die Erde eingetiefte Gruben mit einem Steinofen und einem spitzen Holzdach.",
+    "type": "event"
+   },
+   {
+    "year": "1147",
+    "title": "Beschreibung von Bischof Otto von Freising",
+    "description": "Beim Durchzug durch das Königreich Ungarn im Sommer dieses Jahres beschreibt er die dürftigen Behausungen der Bewohner, die vor allem aus Schilf gebaut waren.",
+    "type": "event"
+   },
+   {
+    "year": "8.–9. Jahrhundert",
+    "title": "Aufkommen der ebenerdigen Häuser",
+    "description": "Neben den Grubenhütten beginnen sich ebenerdige Block- und Pfostenbehausungen stärker durchzusetzen.",
+    "type": "event"
+   },
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Höhepunkt der Verbreitung der Steinöfen",
+    "description": "Die Steinöfen erreichten bei uns den Höhepunkt ihrer Verbreitung; ab dem 11. Jahrhundert ging ihre Verwendung allmählich zugunsten der Lehmöfen zurück.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3885,
+    "alt": "Zeichnung von Grundrissen, Profilen und Rekonstruktionen quadratischer Grubenhütten aus einer Fachpublikation"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Anfang war die Grubenhütte"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Haus als Teil der Baukultur ist von der Urgeschichte bis heute eine bedeutende Quelle der Erkenntnis über die Gesellschaft. Es war nicht nur eine Konstruktion, ein Bau, der dem Menschen und seiner Familie Unterkunft und Schutz vor klimatischen und anderen negativen Einflüssen der natürlichen Umgebung bot. Es war vor allem ein Raum, in dem die Menschen, üblicherweise blutsverwandt, lebten, einen Teil ihrer grundlegenden biologischen, gesellschaftlichen, kulturellen und kultischen Bedürfnisse verwirklichten und sich der häuslichen Produktion widmeten, die die hauptsächliche oder ergänzende Quelle ihres Lebensunterhalts war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anfangs spielten bei der Wahl des Typs der Behausung die natürlichen Faktoren, die praktischen Bedürfnisse und die Möglichkeiten der Gemeinschaft die Hauptrolle. Später, als ein bestimmter Bautyp und sein Inneres Teil der gesellschaftlichen Traditionen wurden, traten diese Faktoren zurück. Die Häuser, ihr Aussehen, ihre Größe, die Lage der Feuerstelle, des Eingangs usw. wurden ausschließlich von der älteren Kulturtradition bestimmt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Kenntnis der Behausung bei den Slawen im frühen Mittelalter tragen die Schriftquellen nur bescheiden bei. Zum Beispiel schreibt der byzantinische Historiker Prokopios im 6. Jahrhundert nur von „weißen Hütten, die voneinander verstreut liegen“, und die Legende des hl. Demetrios erwähnt gewisse „geflochtene Hütten“ der Slawen von Thessaloniki. Maurikios gibt an der Wende vom 6. zum 7. Jahrhundert an, dass die Slawen „in den Wäldern, an den Wassern wohnen und sich viele Ausgänge aus ihren Behausungen anlegen“. Der arabische Reiseschriftsteller Hárun ben Jahib beschreibt um das Jahr 880 slawische Häuser aus Holz, ähnlich wie hundert Jahre später der spanisch-jüdische Kaufmann Ibrahim Ibn Jakub. Ein weiterer arabischer Geograph, Omar Ibn Rusta, beschreibt im 10. Jahrhundert die Behausungen wahrscheinlich im Gebiet der Ostslawen als in die Erde eingetiefte Gruben, ausgestattet mit einem Steinofen und mit einem spitzen Holzdach. Ein anonymer persischer Geograph schreibt, dass „die Slawen den Winter in Gruben und unterirdischen Hütten verbringen“. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erwähnungen von Häusern treten zwar ab dem 11. Jahrhundert häufiger auf (z. B. in den Gesetzbüchern der ungarischen Könige Stephan I., Ladislaus und Koloman und in königlichen Urkunden), jedoch ohne Einzelheiten über ihr Aussehen und ihre Konstruktion. Der Deutsche Helmold von Bosau erwähnt im 12. Jahrhundert einfache Flechtwerkbauten bei den Ranen an der Ostsee. Die wohl konkreteste Beschreibung der zeitgenössischen Häuser liefert Bischof Otto von Freising, der im Sommer 1147 durch das Königreich Ungarn zog. Er schreibt, dass die Bewohner Ungarns den ganzen Sommer und Herbst in Zelten wohnen und sehr dürftige Behausungen haben, nur aus Schilf gebaut, selten aus Holz und noch seltener aus Stein. Diese Angabe betrifft jedoch offenbar nur die wärmeren Tieflandgebiete des Donauraums."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verschiedene andere Urkundenquellen aus dem 11.–13. Jahrhundert erwähnen schon regelmäßig ebenerdige hölzerne und vereinzelt auch steinerne Häuser. Wir kennen auch die Bezeichnungen einiger Gebäude in den Fürstensitzen des 10.–12. Jahrhunderts. Dagegen fehlen Erwähnungen von Grubenhütten, obwohl wir wissen, dass ihre Nutzung vor allem im dörflichen Milieu weiterging. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch die sprachwissenschaftlichen Quellen zu dieser Frage sind nur allgemein. In verschiedenen slawischen Sprachen hat sich offenbar die ursprüngliche Bezeichnung für die Grubenhütte erhalten – ziemianka, zemľanka, zemunica. Alte, aber meist nichtslawische Wurzeln haben auch die Bezeichnungen koliba, chalupa, chata, chyža, burdej, jünger sind wohl kuča und salaš. Es fehlen jedoch wiederum alle älteren, frühmittelalterlichen Zusammenhänge, die das äußere Aussehen und die Bautechnik der einzelnen Haustypen näher bestimmen würden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dieser Situation hat die Archäologie ihre Möglichkeiten erwiesen. Im Verlauf einiger Jahrzehnte hat sie auf dem weiten Gebiet Mittelosteuropas, das im 6.–10. Jahrhundert von Slawen besiedelt war, allmählich einige tausend Grundrisse von Behausungen mit vielen Konstruktionselementen, Baudetails und Spuren ihrer inneren Ausstattung zusammengetragen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Welches Bild des slawischen Hauses ergibt sich also in groben Zügen aus der bisherigen archäologischen Forschung?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "GRUBENHÜTTEN – HÄUSER FÜR JEDES WETTER"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Haupttyp der Behausung der Slawen waren mehr oder weniger in die Erde eingetiefte Häuser – Grubenhütten. Sie traten bereits seit dem Paläolithikum als eine der universellen Formen der Behausung in den Lössgebieten Mittelosteuropas auf. In Mitteleuropa waren sie seit der Hallstattzeit allgemein bekannt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In West- und Mitteleuropa kamen Grubenhütten in den vorslawischen spätrömischen Kulturen jedoch nur selten vor oder nur in der Funktion eines Wirtschaftsbaus. Östlich der Karpaten erscheinen sie in verschiedenen Abwandlungen in vorslawischen Kulturen im Einzugsgebiet des Pruth, des Dnjestr und des mittleren Dnjepr, also in Gebieten, die als Urheimat der Slawen bezeichnet werden. Hier treten die Slawen erstmals mit der typischen frühslawischen Kultur ab dem 4.–5. Jahrhundert auf. Von hier aus verbreitete sich diese Hausform gemeinsam mit den wandernden Ethnien. Im 6.–10. Jahrhundert sind auf dem weiten, von Slawen besiedelten Raum mehrere Typen von Grubenhütten bekannt. Am weitesten verbreitet waren die als quadratisch bezeichneten Grubenhütten, benannt nach dem quadratischen Grundriss bzw. nach dem quadratisch eingetieften Teil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie hatten relativ einheitliche Flächen- und Tiefenmaße. Es überwogen kleinere Grundrisse (6–12 m²), doch waren auch große Grubenhütten (15–20 m²) nicht selten. Die Baugruben der slawischen Bauten waren dabei gewöhnlich 70 bis 90 cm tief, tiefere kommen vor allem im ostslawischen Milieu vor. Eine Baugrube, die flacher als 50 Zentimeter war, hoben die Slawen nur selten aus. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die meisten von ihnen hatten vor allem eine Wandkonstruktion in Blockbauweise, von innen gesetzt, oder nur leichtere und niedrigere Blockrahmen von außen entlang des Umfangs der Eintiefung. In den Gebieten nördlich der Donau waren neben den in Blockbauweise errichteten Grubenhütten jene mit einer Stützkonstruktion des Daches die zweithäufigsten. Mit leichten, nur mit Ruten geflochtenen Wänden begegnen wir bei den Slawen noch seltener."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die typische Ausstattung der Grubenhütte waren Steinöfen. Sie waren meist direkt auf dem Boden errichtet und hatten üblicherweise einen rechtwinkligen, seltener einen hufeisenförmigen Grundriss. Der untere Teil und die Mündung des Ofens waren aus großen, oft flachen Steinen gebaut, der obere Teil aus kleineren Steinen. Die Steine waren ohne jedes Bindematerial gesetzt, obwohl sich selten Lehm oder Scherben zwischen ihnen finden. Die Hauptfunktion des Steinofens war, vor allem im Winter, das Heizen der Behausung. In den wärmeren Jahreszeiten wurde er fast nicht benutzt. Gekocht und gebacken wurde an offenen Feuerstellen an der Oberfläche oder in Lehmöfen auf der freien Fläche des Hofes, gegebenenfalls wurde das Feuer an einer Feuerstelle in der Mündung des Ofens oder knapp davor angelegt. Die Steinöfen erreichten bei uns den Höhepunkt ihrer Verbreitung im 9.–10. Jahrhundert. Ab dem 11. Jahrhundert ging ihre Verwendung allmählich zurück. Allmählich wurden sie durch die technologisch und im Gebrauch vollkommeneren Lehmöfen ersetzt. Nur wenige Häuser, und zwar vor allem im slawischen Westen und Nordwesten, hatten anstelle eines Ofens nur eine Feuerstelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neben diesem Grundtyp der Ausstattung der Behausung fanden sich schon im Gebiet der Urheimat der Slawen auch Abwandlungen davon, die teilweise durch den Einfluss der Nachbarkulturen verursacht waren. Es handelt sich zum Beispiel um Lehmöfen, Feuerstellen in der Mitte oder zentrale Firstsäulen (Stützen). Während der Migration am Ende des 5. und im 6. Jahrhundert wanderten die Slawen in zwei Hauptströmen – dem nördlichen über die Karpaten und dem südöstlichen, dem Donaustrom. Dabei kam es zu einigen Neuerungen der slawischen Baukultur. Besonders im nördlichen Strom kristallisierten sich neue Typen langer, rechteckiger und oval schüsselförmig eingetiefter Grubenhütten heraus, die sich auch einige innerkarpatische Regionen zu eigen machten, vor allem die Ostslowakei. In beiden Strömen war auch der letzte Typ der Grubenhütte bekannt – jener mit kreisförmigem Grundriss."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die langen rechteckigen Grubenhütten bildeten eine relativ wenig verbreitete Entwicklungslinie des slawischen Hauses, die vor allem auf die Gebiete der Westslawen konzentriert war. Es waren meist Grubenhütten mit Wänden in Blockbauweise, gegebenenfalls mit einem Dach, das sich direkt auf die Erde stützte, meist ausgestattet mit einer mit Steinen ausgelegten Feuerstelle und relativ häufig auch mit Lehmöfen im Inneren. In Konstruktion und Innenausstattung waren sie den weiter verbreiteten ovalen Grubenhütten verwandt, und man kann sie für eine Randerscheinung der Baukultur der Slawen halten. Grubenhütten mit ovalem und unregelmäßig schüsselförmigem Grundriss waren bei den West- und Nordwestslawen am weitesten verbreitet. Ein Beweis dafür, dass es sich um ein anderes Bauphänomen handelte, ist ihre Ausstattung mit Feuerstellen, die mit Steinen umlegt waren, wobei steinerne Gewölbeöfen in ihnen nicht vorkommen. Die Verbreitung ähnlicher Häuser im Südosten und Osten (teilweise auch im Westen) hängt offenbar mit protobulgarischem und awarischem Einfluss zusammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im slawischen Milieu wurden kreisförmige Grubenhütten und eingetiefte Jurten nur vereinzelt zum Wohnen genutzt – sie bilden nicht einmal 1 % der Häuser, obwohl sie besonders in den Tiefebenen des Karpatenbeckens und an der unteren Donau in höherer Zahl vorkommen müssten. Es handelt sich offenbar um eine Äußerung des direkten Eindringens von Angehörigen nomadischer und hirtennomadischer Kulturen in das slawische Milieu und um ihre Anpassung an die raueren klimatischen Verhältnisse Mittelosteuropas. Sie lassen sich als Behausungen mit zylindrischem, kegelförmigem oder auch gitterartigem hölzernem Wandgerüst und mit einem festen oder zusammenklappbaren Dach rekonstruieren, innerhalb oder außerhalb der Baugrube. Die eingetieften kreisförmigen Häuser gingen konstruktiv von den echten ebenerdigen Filz- oder Webjurten aus. Diese hatten auf zwei bis vier senkrechten Stützpfosten, die sich auf den Boden stützten, zu beiden Seiten der Feuerstelle einen befestigten oberen Ring – tono. Im südlichen Strom der Expansion entstanden die neuen Elemente des slawischen Hauses unter dem Einfluss der Steppenvölker des Schwarzmeergebiets und ihrer Integration in die Kultur des Prager Typs. Eine gewisse Rolle spielte hier auch die Synthese mit der romanisch-byzantinischen bzw. protorumänischen Besiedlung im unteren Donauraum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ab dem 7. Jahrhundert kommen im mittleren Donauraum auch die Baukulturen der Ethnien des Awarenkhaganats vor. Diese Äußerungen wurden nördlich und westlich der Donau jedoch allmählich schwächer, und die Baukultur der Slawen wurde hier meist durch Impulse aus dem Westen und Norden bereichert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch diese Prozesse entstand die nord-südlich orientierte Grundlage für die Differenzierung des slawischen Hausbaus im 8.–9. Jahrhundert, als sich auch ebenerdige Block- und Pfostenbehausungen stärker durchzusetzen begannen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "EBENERDIGE HÄUSER UND DIE ERSTEN PALÄSTE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf die Entstehung und die Bautechnologie der ebenerdigen Häuser hatten neben den Traditionen und der gesellschaftlich-wirtschaftlichen Entwicklung auch das feuchte Bodenmilieu und im Nordwesten der Holzmangel sowie das relativ günstigere Klima Einfluss. Feuchter, durchnässter Boden und ein hoher Grundwasserstand zwangen die Bewohner solcher Regionen, ebenerdige Behausungen zu bauen, manchmal sogar auf Erdaufschüttungen oder hölzernen Schwellen. Ebenerdige Blockbauten bilden zusammen nur etwa 6 % der Funde des slawischen Hauses, in Wirklichkeit konnten es jedoch mehr gewesen sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir kennen echte Blockbauten oder Blockbauten ohne jede Pfostenstützkonstruktion des Daches, also Rahmenbauten, und Blockbauten, die mit Giebelsäulen (Stützen) ausgestattet waren und einen etwas anders konstruierten Dachstuhl und andere Wände hatten. Progressive Tendenzen stellen ein- und dreiräumige Blockbauten auf steinernem Unterbau oder auf einem trocken gesetzten Fundament entlang des gesamten Umfangs mit unterschiedlich gestaltetem Boden dar – mit Mörtel oder mit Holzauskleidung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Höhepunkt der Entwicklung des frühmittelalterlichen slawischen Hauses bildeten hölzerne Palastbauten ohne Fundamente oder auf trockenen, eventuell gemörtelten Steinfundamenten. Ein Teil von ihnen hatte schon oder konnte schon Wände ganz aus Stein haben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die typische Heizeinrichtung in den Blockbauten waren offene Feuerstellen, vor allem mit Steinen ausgelegte Feuerstellen und spezifische, mit Steinen gepflasterte Feuerstellen. Hier ist der Einfluss der germanischen flachen und langen Feuerstellen bemerkbar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Holzmangel im Nordwesten im Elbegebiet und im Ostseeraum äußerte sich in der Bevorzugung von Konstruktionen, bei denen weniger Holz verwendet wurde, und zwar entweder kürzere Stücke, Bretter, Stangenholz oder Ruten. Zweifellos geschah dies unter dem Einfluss der Germanen bzw. des skandinavisch-normannischen Ethnikums, bei denen Häuser mit geflochtenen Wänden allgemein verbreitet waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Häuser der Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenerdige Häuser mit Pfostenkonstruktion bauten die Slawen selten, sie bilden nur knapp 3 % der Funde und fehlen im Milieu der Ost- und Südslawen fast vollständig. Große Häuser in Pfostenkonstruktion mit geflochtenen Wänden und einem inneren oder äußeren Stützsystem des Daches gingen ebenfalls von fremden, vor allem germanischen Bauvorbildern aus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine eigene Kategorie stellen die vereinzelt auftretenden langen Hallenhäuser dar – Palastbauten von weit überdurchschnittlichen Ausmaßen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Peter Šalkovský"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung des Autors übernommen von der Seite http://www.historickarevue.com/archiv_2000-7b.html"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abbildungen übernommen aus: Peter Šalkovský: DOM A DEDINA STREDNÉHO PODUNAJSKA VO VČASNOM STREDOVEKU, ZBORNÍK NA POČESŤ JOZEFA HOŠŠA (Hrsg. J. Zábojník). BRATISLAVA 2006, 107–128.\n Fotografien – Orgoň – Archäologisches Freilichtmuseum Modrá (bei Uherské Hradiště)"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

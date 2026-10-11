@@ -1,0 +1,428 @@
+{
+ "slug": "tajomne-znaky-na-skalach-na-povazi",
+ "data": {
+  "title": "Rätselhafte Zeichen auf den Felsen im nordwestlichen Waagtal",
+  "slug": "raetselhafte-felszeichen-im-waagtal",
+  "excerpt": "An einigen Fundstellen im nordwestlichen Waagtal finden sich rätselhafte, künstlich eingeritzte Zeichen auf Felsen. Weder ihre Herkunft noch ihre Bedeutung konnte bisher geklärt werden: manche halten sie für Hirtenmarken walachischer Hirten des 17.–18. Jahrhunderts, andere für eine geheimnisvolle slawische Schrift oder für Runen. Der Beitrag dokumentiert die Zeichen von Bodiná, von Horná Mariková – Vlkov und von der Orgoňova Kýčera und stellt die bisherigen Deutungsversuche vor.",
+  "metaTitle": "Rätselhafte Zeichen auf Felsen im Waagtal",
+  "metaDescription": "Rätselhafte, künstlich eingeritzte Zeichen auf Felsen im nordwestlichen Waagtal: Hirtenmarken, slawische Schrift oder Runen? Die Bedeutung bleibt unerklärt.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Martin Olšovský, Štefan Meliš, Jozef Moravčík, Peter Schreiber",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Rätselhafte eingeritzte Zeichen auf Felsen im nordwestlichen Waagtal",
+    "icon": "scroll"
+   },
+   {
+    "label": "Fundstellen",
+    "value": "Bodiná (Zálučie), Horná Mariková – Vlkov, Orgoňova Kýčera",
+    "icon": "map"
+   },
+   {
+    "label": "Mögliche Deutungen",
+    "value": "Hirtenmarken des 17.–18. Jahrhunderts, slawische Schrift oder Runen, Opferplatz, schematische Karte",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1896",
+    "title": "Erste Entdeckung der Inschriften in Bodiná",
+    "description": "Die Inschriften auf den Felsen in Bodiná entdeckte Pavol Križko und veröffentlichte sie im Sammelband der Slowakischen Musealgesellschaft; er hielt sie für eine slawische Schrift.",
+    "type": "event"
+   },
+   {
+    "year": "17.–18. Jahrhundert",
+    "title": "Vermutete Entstehung der Zeichen",
+    "description": "Nach einer der Theorien konnten walachische Hirten die Zeichen beim Schafhüten aus Langeweile eingeritzt haben.",
+    "type": "event"
+   },
+   {
+    "year": "1993–1994",
+    "title": "Serie von Jozef Moravčík",
+    "description": "Der Historiker Jozef Moravčík beschrieb die Inschriften von Bodiná in einer Serie über die Gemeinden des Bezirks Považská Bystrica in der Wochenzeitung Týždenník Obzor.",
+    "type": "event"
+   },
+   {
+    "year": "10. April 1998",
+    "title": "Dokumentation der Zeichen von Bodiná",
+    "description": "Martin Olšovský dokumentierte die Zeichen in Bodiná am Karfreitag fotografisch für seine unveröffentlichte Publikation.",
+    "type": "event"
+   },
+   {
+    "year": "2013",
+    "title": "Neue Deutung der Orgoňova Kýčera",
+    "description": "Der Archäologe Peter Schreiber schlug vor, dass die Zeichen auf der Orgoňova Kýčera eine schematische Karte des umliegenden Geländes oder Flurmarken dargestellt haben könnten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4072,
+    "alt": "Wanderkarte der Umgebung von Bodiná mit markiertem Punkt Zálučie und Koordinaten"
+   },
+   {
+    "mediaId": 4073,
+    "caption": "Abb. Nr. 1",
+    "alt": "Abb. Nr. 1"
+   },
+   {
+    "mediaId": 4074,
+    "caption": "Gesamtansicht",
+    "alt": "Gesamtansicht"
+   },
+   {
+    "mediaId": 4076,
+    "caption": "Antonín Lacko: Der alte Orgoň",
+    "alt": "Antonín Lacko: Der alte Orgoň"
+   },
+   {
+    "mediaId": 4091,
+    "caption": "G. Zemančík, Š. Meliš, S. Miko",
+    "alt": "G. Zemančík, Š. Meliš, S. Miko"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An einigen Fundstellen im nordwestlichen Waagtal finden wir rätselhafte, künstlich hergestellte Zeichen, die in Felsen eingeritzt sind. Weder ihre Herkunft noch ihre Bedeutung konnten die Fachleute bisher nachweisen. Manche behaupten, es handle sich um Zeichen, die walachische Hirten irgendwann im 17.–18. Jahrhundert eingeritzt haben, als sie sich beim Schafhüten langweilten, es gibt aber auch solche, nach denen es sich um eine geheimnisvolle slawische Schrift oder um Runen handelt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank Herrn Martin Olšovský und seiner bisher unveröffentlichten Publikation „Znaky a nápisy na skalách v okolí Považskéj Bystrice“ bringen wir Ihnen einen Artikel, in dem diese rätselhaften Zeichen fotografisch dokumentiert sind, die noch immer auf eine umfassende fachliche Untersuchung warten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "BODINÁ (Zálučie, Zadné Hrachoviská) – Inschriften auf den Felsen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rätselhafte Zeichen auf den Felsen im nordwestlichen Waagtal",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vom unteren Ortsende gegen den Lauf des Baches links in Richtung Kostolec und Vrchteplá, 1 km von der Gemeinde entfernt, am südwestlichen Fuß der Anhöhe Mazáková /595,4 m ü. M./ etwa 15 m über dem Bächlein befinden sich in die Felsen eingeritzte Zeichen. Die größte, vordere Fläche des Steins ist senkrecht und etwa 160 cm hoch /Gesamtansicht und Abb. Nr. 1/. Die weiteren beschriebenen Flächen sind kleinere flache Steine, die links /Abb. Nr. 2/ und rechts /Abb. Nr. 3/ schräg im Hang liegen. Die vollständige Inschrift in kyrillischer Schrift /Nr. 4/ REGINA COELI LAETARE hat eine längere obere Zeile /32 cm/, die Buchstabenhöhe beträgt 2,5–3 cm. Sie befindet sich auf einem flachen Stein etwa 2 m tiefer im Hang unter dem Zeichen auf Abb. Nr. 3. Die Steine sind bereits stark verwittert, mit Moos überwachsen, die Zeichen undeutlich. Ohne äußeren Eingriff habe ich die Fundstelle samt den einzelnen beschriebenen Flächen fotografiert. Die Zeichen habe ich mithilfe einer Zeichnung auf Papier auf den Fotografien rekonstruiert. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "/Martin Olšovský, am Karfreitag, dem 10. April 1998/\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Die Inschriften entdeckte schon im vorigen Jahrhundert Pavol Križko /Sammelband der Slowakischen Musealgesellschaft, 1896/. Er hielt sie für eine slawische Schrift, obwohl die meisten von ihnen einfache oder gebrochene Kreuze darstellen. Mit diesem Problem befasste sich auch JUDr. Vojtech Bukovinský, der sie für eine Runenschrift hielt und auf ihrer Grundlage die sogenannten Meilensteine der Bernsteinstraße suchte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der letzten Zeit widmete sich den Zeichen von Bodiná der tschechische Autor Horák in der Publikation „O Slovanech trochu jinak“, der sie für Symbole von Menschenopfern hält, die hier angeblich vollzogen wurden. Eine Erklärung dieser Zeichen kommt vielleicht in der Zukunft, aber nach einem von ihnen auf dem niedrigen Stein, das sowohl in kyrillischer als auch in lateinischer Schrift geschrieben ist und lautet: „Regina coeli laetare“ – Die Königin des Himmels loben wir, lässt sich annehmen, dass auch die oben erwähnten Zeichen nicht so alt sein werden und eine bestimmte Form des Ausdrucks religiösen Empfindens im vorigen Jahrhundert sein konnten oder ein Raum, in dem uns bisher unbekannte Kultriten abgehalten werden konnten.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. Nr. 1",
+    "alt": "Abb. Nr. 1",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "/Jozef Moravčík, prom. hist., in einer Serie über die Gemeinden des Bezirks Považská Bystrica, Wochenzeitung Týždenník Obzor in den Jahren 1993-1994./\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "P.S. Die gesamte Inschrift REGINA COELI LAETARE ist in kyrillischer Schrift geschrieben, der einzige lateinische Buchstabe ist das „L“ im Wort COELI, wenn wir die gleichen Formen der Buchstaben A, E, O, T in der kyrillischen wie in der lateinischen Schrift nicht in Betracht ziehen. Der Urheber der Inschrift beherrschte die lateinische Sprache wahrscheinlich nicht ganz, denn im Wort „COELI“ verwendete er anstelle des russischen C ein Č. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "/Anmerkung von M. Olšovský/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Horná Mariková – Vlkov – der Felsen, auf dem der Tod geruht hat"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„In Horná Mariková, Ortsteil Vlkov, gibt es einen Felsen, über den sich unter den einheimischen Bewohnern seit langem die Überlieferung hält, dass auf ihm der Tod geruht habe. Gemeint ist damit offenbar, dass der Tod bei seinen Wanderungen durch die Welt auch irgendwo ausruhen musste. Ursprünglich lag der Felsen über der Straße, doch bei deren Verbreiterung schob man ihn tiefer, sodass er sich heute über dem Zusammenfluss des Bächleins mit dem Hauptbach aus Ráztoka befindet“, beginnt Štefan Meliš mit einem Lächeln seine Erzählung; er hat sich lange Jahre mit dem Aufdecken der Geheimnisse unserer Vorfahren beschäftigt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gesamtansicht",
+    "alt": "Gesamtansicht",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Im vorigen Herbst erfuhr mein Bekannter Gašpar Zemančík von einem Mann aus Vlkov, dass auf dem Felsen im Bach seltsame Zeichen sind, und teilte mir diese interessante Neuigkeit sogleich mit. Wir machten uns also gemeinsam mit ihm zu der Stelle auf, um die Zeichen zu finden. Als wir an den Ort kamen, erwartete uns ein mit Moos überwachsener Felsen. Erst als wir es entfernt hatten, erblickten wir drei Zeichen – die Sonne, einen Stern und ein Hufeisen. Sogleich kamen uns mehrere Fragen. War hier ein Schatz vergraben, oder diente der Felsen als Orientierungspunkt, oder war es ein Opferplatz, auf dem die Heiden den Göttern Opfer darbrachten? Über dem Felsen auf der linken Seite, an der Stelle namens Pekliská, wurde einst offenbar Stein gebrochen, daher kam uns der Gedanke, ob die Zeichen nicht zufällig Steinmetze gehauen haben, denn in der Nähe liegen regelmäßige Steine von vierkantiger Form, die sie dort hinterlassen haben.“ "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoňs „Runen“ auf der Kýčera"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese Entdeckung war jedoch nicht die einzige. „Auf der Orgoňova Kýčera, auf dem Grat namens Šúvalky, gibt es mehrere Felsgruppen, und in eine von ihnen sind unbekannte Zeichen eingeritzt. Beim ersten Versuch fanden wir sie nicht, der zweite war jedoch erfolgreicher. Der Felsen, etwa einen Meter hoch und einen Meter lang, enthüllte uns sein Geheimnis. Beim ersten Anblick erinnerten wir uns an Bodiná, wo es ähnliche Zeichen gibt, diese hier sind jedoch kleiner. In den nahe gelegenen Felsen ist ein Kreis gehauen, der wahrscheinlich die Sonne darstellt, was wohl einen möglichen Kultplatz unserer Vorfahren bedeutet. Während die Inschrift von Bodiná schon seit hundert Jahren bekannt ist, wussten die hiesigen Leute von den Zeichen etwa gleich lange, sprachen von ihnen aber so, dass dort nur irgendwelche Inschriften seien, und vielleicht hat sich deshalb niemand damit beschäftigt.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Rätselhafte Zeichen auf den Felsen im nordwestlichen Waagtal",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Štefan Meliš behielt die Entdeckung jedoch nicht nur für sich, sondern schrieb darüber in der Zeitschrift Historická revue. „Ich hoffte, dass sich Fachleute für die Zeichen und ihre Entschlüsselung interessieren würden, aber leider hat sich nach einem Jahr niemand gemeldet.“ Findet sich jemand, dem es gelingt, die Zeichen zu entschlüsseln, bevor sie im verwitternden Felsen vollständig verloren gehen? Vielleicht ließen sich damit die weißen Flecken in unserer Geschichte füllen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von dem Stein mit den rätselhaften Zeichen auf der Orgoňova Kýčera erfahren wir auch aus einer sehr interessanten "
+       },
+       {
+        "type": "link",
+        "url": "/blog/legenda-o-orgonovej-kycere",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sage von Štefan Meliš"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " über den einstigen heidnischen Priester Orgoň, der als einer der Letzten dem Christentum widerstand, bis ihn schließlich Perun selbst zu sich holte. In Orgoň schlug der Blitz ein, und an der Stelle, wo es geschah, blieb seitdem nur ein Stein mit geheimnisvollen eingeritzten Inschriften zurück.   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Antonín Lacko hat für uns diese Vorstellung vom alten Orgoň auf der Kýčera gezeichnet. Ihm gebührt großer Dank!",
+    "alt": "Antonín Lacko hat für uns diese Vorstellung vom alten Orgoň auf der Kýčera gezeichnet. Ihm gebührt großer Dank!",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Jahr (2013) versuchte sich der Archäologe Peter Schreiber an einer Deutung der Zeichen auf der Orgoňova Kýčera; in einem Artikel für das Webportal der Gemeinde Horná Mariková führt er an, dass „die Hänge der Orgoňova Kýčera in der Vergangenheit stärker entwaldet waren als heute, was von der Besiedlung durch den Menschen abhängig war. Dadurch boten die Berge einen guten Rundblick über die weite Umgebung des Tals von Mariková und des Tals von Papradno sowie Ausblicke in das Waagtal. Rein theoretisch könnten die in den Felsen auf der Orgoňova Kýčera eingeritzten Zeichen somit eine gewisse ‚Karte‘ oder einen ‚schematischen Plan‘ darstellen. Die Zeichen selbst bilden Zickzacklinien, Kreuzchen, Kreise und Halbbögen. In der Mitte befindet sich eine Zickzacklinie mit vier Spitzen. Sie könnte den Grat der Kýčera samt den Gipfeln und Höhenpunkten der umliegenden Berge andeuten: Suchovrch (774,9 m ü. M.), Vrchoňa (883,0 m ü. M.) und den namenlosen Höhenpunkt 936,7 m ü. M., der östlich der Orgoňova Kýčera liegt. Die übrigen eingeritzten Zeichen, die sich links und rechts der Zickzacklinie befinden, könnten so die Siedlungen in der weiteren Umgebung der Kýčera darstellen. Die Zeichen konnten jedoch auch eine andere Funktion haben, etwa als Flurmarken, die die Grenze zwischen dem Tal von Mariková und Papradno abgrenzten.“ Gleichzeitig weist er jedoch darauf hin, dass es sich nur um eine von mehreren möglichen Deutungen handelt und dass nicht auszuschließen ist, dass die Zeichen älter sind als das erwähnte 18. Jahrhundert. Er beruft sich dabei auf die belegte Besiedlung von Mariková in der älteren Eisenzeit, in der römischen Kaiserzeit und im Mittelalter."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,589 @@
+{
+ "slug": "most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+ "data": {
+  "title": "Most pri Bratislave – das erste altslawische Heiligtum in der Slowakei",
+  "slug": "most-pri-bratislave-altslawisches-heiligtum",
+  "excerpt": "Wie unsere slawischen Vorfahren das Christentum annahmen, wissen wir nur sehr wenig. Erst eine Rettungsgrabung an einer Kiesgrube am Rand von Most pri Bratislave brachte in den 80er Jahren des 20. Jahrhunderts das erste bekannte altslawische Heiligtum der Slowakei zum Vorschein: einen mehr als 27 m langen Graben in Form eines Viertelkreises, eine Feuerstelle mit Eichenholzkohle für das „ewige Feuer“ und den Schädel eines Auerochsen, der Perun geweiht war.",
+  "metaTitle": "Most pri Bratislave – erstes altslawisches Heiligtum",
+  "metaDescription": "Der Kultplatz der Slawen bei Most pri Bratislave gilt nach Vladimír Turčan als das erste altslawische Heiligtum in der Slowakei: Graben, ewiges Feuer, Perun.",
+  "keyFacts": [
+   {
+    "label": "Bedeutung",
+    "value": "Das erste archäologisch belegte altslawische Heiligtum in der Slowakei",
+    "icon": "star"
+   },
+   {
+    "label": "Fundort",
+    "value": "Most pri Bratislave, östlichster Zipfel des žitný ostrov (Große Schüttinsel)",
+    "icon": "map"
+   },
+   {
+    "label": "Schlüsselfunde",
+    "value": "Graben in Form eines Viertelkreises (über 27 m), Feuerstelle mit Eichenholzkohle, Schädel eines Auerochsen, der Perun geweiht war",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "828",
+    "title": "Weihe der Kirche in Nitra",
+    "description": "Der Salzburger Erzbischof Adalram weihte die Kirche auf dem Herrschaftsgut des Fürsten Pribina — die älteste schriftliche Erwähnung der Christianisierung, es handelte sich jedoch eher um einen formalen politischen Akt.",
+    "type": "event"
+   },
+   {
+    "year": "837",
+    "title": "Taufe des Fürsten Pribina",
+    "description": "Pribina ließ sich erst nach seiner Vertreibung aus Nitra im österreichischen Traismauer taufen — bis dahin blieb er dem Glauben seiner Vorfahren treu.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte 8. – Anfang 9. Jahrhundert",
+    "title": "Datierung des Heiligtums in Most",
+    "description": "Die gefundenen Scherben, vor allem Fragmente nomadischer glockenförmiger Deckel, datieren das Kultobjekt in diese Zeit.",
+    "type": "event"
+   },
+   {
+    "year": "1960",
+    "title": "Tureks Aussage über das Fehlen von Tempeln",
+    "description": "Der tschechische Archäologe Rudolf Turek schrieb in der Arbeit Pravěk Československa, dass „der heidnische Kult unserer Vorfahren keine Tempel kannte“.",
+    "type": "event"
+   },
+   {
+    "year": "80er Jahre des 20. Jahrhunderts",
+    "title": "Entdeckung des Heiligtums bei Most",
+    "description": "Während einer Rettungsgrabung in einer Kiesgrube entdeckte Etela Studeníková Spuren einer bis dahin unbekannten slawischen Siedlung mit einem Heiligtum; die Ausgrabung dauerte drei Jahre.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 9. Jahrhunderts",
+    "title": "Untergang des Heiligtums",
+    "description": "Das Fehlen jüngerer Funde aus der Region deutet darauf hin, dass das Heiligtum in dieser Zeit unterging — entweder durch eine Änderung der Stammesverhältnisse oder durch das Aufkommen des Christentums.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4013,
+    "caption": "Das Heiligtum. (Autor: Azraelangelo)",
+    "alt": "Das Heiligtum. (Autor: Azraelangelo)"
+   },
+   {
+    "mediaId": 4014,
+    "caption": "Im Heiligtum (Autor: Haden Sutton)",
+    "alt": "Im Heiligtum (Autor: Haden Sutton)"
+   },
+   {
+    "mediaId": 4015,
+    "caption": "Rod – der Schöpfer",
+    "alt": "Rod – der Schöpfer"
+   },
+   {
+    "mediaId": 4016,
+    "caption": "Zeichnung des ungefähren Aussehens des heidnischen Heiligtums in Most pri Bratislave",
+    "alt": "Zeichnung des ungefähren Aussehens des heidnischen Heiligtums in Most pri Bratislave"
+   },
+   {
+    "mediaId": 4017,
+    "caption": "Rekonstruktion nach dem Archäologischen Museum des SNM in Bratislava",
+    "alt": "Rekonstruktion nach dem Archäologischen Museum des SNM in Bratislava"
+   },
+   {
+    "mediaId": 4018,
+    "caption": "Die Vorstellung des russischen Malers Olšanský von einer heidnischen Zeremonie der alten Slawen",
+    "alt": "Die Vorstellung des russischen Malers Olšanský von einer heidnischen Zeremonie der alten Slawen"
+   },
+   {
+    "mediaId": 4019,
+    "caption": "Triglav",
+    "alt": "Triglav"
+   },
+   {
+    "mediaId": 4020,
+    "caption": "Die meisten slawischen Heiligtümer standen unter freiem Himmel, was die Verbundenheit mit der Natur verstärkte",
+    "alt": "Die meisten slawischen Heiligtümer standen unter freiem Himmel, was die Verbundenheit mit der Natur verstärkte"
+   },
+   {
+    "mediaId": 4021,
+    "caption": "Der Götze Peruns nach den Vorstellungen von Zdeněk Burian",
+    "alt": "Der Götze Peruns nach den Vorstellungen von Zdeněk Burian"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Licht in das Rätsel um einen Kultplatz der Slawen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Art, wie unsere slawischen Vorfahren das Christentum annahmen, wissen wir sehr wenig. Die erste schriftliche Nachricht, die in die Christianisierung des Gebietes der heutigen Slowakei zumindest ein wenig Licht bringt, betrifft die Weihe der Kirche auf dem Herrschaftsgut des Fürsten Pribina in Nitra (Neutra) durch den Salzburger Erzbischof Adalram im Jahr 828. Die Historiker weisen jedoch zu Recht darauf hin, dass es sich wohl eher um einen formalen Akt politischen Charakters handelte. Der neue Glaube hatte in diesen Jahren zwischen der Donau und der Tatra noch keineswegs gesiegt.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "4eLfXhhNGOs",
+    "url": "https://www.youtube.com/embed/4eLfXhhNGOs",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mehr noch, es scheint, dass sich auch die Angehörigen der slawischen Elite nicht taufen ließen. Pribina selbst blieb dem Glauben seiner Vorfahren weiterhin treu und ließ sich erst im Jahr 837 im österreichischen Traismauer taufen. Freilich war das schon nach seiner Vertreibung aus Nitra, als ihm seine Beschützer keine andere Möglichkeit ließen.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Zeit der Weihe der Kirche in Nitra bekannten sich die Slawen also zum Glauben ihrer Vorfahren. Es war eine polytheistische Religion, das heißt, im Unterschied zum Monotheismus glaubten sie an die Existenz mehrerer Götter. An der Spitze des altslawischen Pantheons stand Perun, der Herrscher über Blitz und Feuer. Ein weiterer bedeutender Gott war Svarog, der mit dem Feuer, dem Himmelslicht und der Wärme verbunden wurde, sowie sein Sohn Svarožič. Zu den ursprünglichen Göttern, an die die Slawen noch in ihrer Urheimat glaubten, gehörten auch Stribog, der Gott des Himmels und des Windes, Chors, der vielleicht mit dem Mond zusammenhing, Simargl, dessen Zuständigkeiten uns bereits unklar sind, und die einzige Vertreterin des zarten Geschlechts, Mokosch, die die Ernte beschützte. Das Pantheon der altslawischen Götter ist also verhältnismäßig gut aus verschiedenen schriftlichen Aufzeichnungen rekonstruiert. Diesen Gottheiten huldigten bis zur Annahme des Christentums auch unsere Vorfahren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Heiligtum. (Autor: Azraelangelo)",
+    "alt": "Das Heiligtum. (Autor: Azraelangelo)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bis vor Kurzem stellten wir uns jedoch vergeblich die Frage, wo dies geschah. Vom slowakischen Gebiet kannten wir nämlich kein einziges altslawisches Heiligtum. Noch im Jahr 1960 konnte der hervorragende tschechische Archäologe und Slawist Rudolf Turek in der übersichtlichen Arbeit Pravěk Československa schreiben, dass „der heidnische Kult unserer Vorfahren keine Tempel kannte“. Dass die umliegenden slawischen Stämme Heiligtümer errichteten, wusste man zum Beispiel aufgrund archäologischer Funde aus dem Umfeld der Ostslawen, aus Polen oder aus dem heutigen Deutschland. Erst die Ausgrabungen mährischer und böhmischer Archäologen in Mikulčice, in Staré Město bei Uherské Hradiště, auf Pohansko bei Břeclav und in Hradsko im Gebiet Kokořínsko brachten Belege dafür, dass auch die mitteleuropäischen Slawen ihre Götter in Heiligtümern verehrten. Diese unterschieden sich jedoch architektonisch voneinander, und ein einheitliches Grundrissschema zu definieren ist ebenso schwierig, wie den Ablauf der Zeremonien in einem solchen Kultobjekt zu rekonstruieren. Die Antwort auf die Frage, wie die Kultplätze unserer slawischen Vorfahren aussahen, konnte so nur eine Entdeckung der Archäologen bringen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein interessanter Fund"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Im Heiligtum (Autor: Haden Sutton)",
+    "alt": "Im Heiligtum (Autor: Haden Sutton)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während einer der Rettungsgrabungen kam es schließlich unerwartet dazu. Am Rand der Gemeinde Most pri Bratislave, am östlichsten Zipfel des žitný ostrov (Große Schüttinsel), befand sich in den 80er Jahren des 20. Jahrhunderts eine große und tiefe Grube nach abgebautem Kies. Ihren Boden füllte allmählich Müll. Und darüber zeichneten sich in der Wand der Grube dunkle Flecken ab – die Verfüllungen urzeitlicher eingetiefter Objekte. In dieser Zeit fuhr täglich die damalige Mitarbeiterin des Archäologischen Museums des Slowakischen Nationalmuseums (SNM) Etela Studeníková durch die Gemeinde zur Ausgrabung der Hügelgräber aus der Hallstattzeit in Dolné Janíky, die heute auch ausländischen Forschern bekannt sind. Die Objekte entgingen ihrer Aufmerksamkeit nicht. Während der archäologischen Ausgrabung stellte sich heraus, dass es sich um Spuren einer bis dahin unbekannten slawischen Siedlung handelt. Die Rettungsgrabung der Fundstelle, die durch ein selbsttätiges Abrutschen der Kieswandungen gefährdet war, dauerte drei Jahre. Untersucht wurden 14 Objekte. Es handelte sich um die üblichen Gruben amorpher Form mit beckenartig abfallenden Wänden, denen die Archäologen die Funktion von Wirtschafts- oder technischen Objekten zuschreiben. Außer einer einzigen…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rod – der Schöpfer",
+    "alt": "Rod – der Schöpfer",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Überraschung brachte jedoch gerade diese eine. Sie befand sich etwa im mittleren Teil der untersuchten Fläche. Ihrer Form nach erinnerte sie an einen Kreisausschnitt, den ein mehr als 27 m langer und maximal 280 cm breiter Graben bildete. Die Breite des Objekts schwankte jedoch, zu den Rändern des Segments hin verengte es sich. Der Halbkreis, oder eher Viertelkreis, war nach Osten offen. Das Objekt mit beidseitig erweitertem Mittelteil war 20–50 cm in den Untergrund eingetieft. Am Umfang befanden sich unregelmäßig verteilte Pfostengruben. Vier Pfostengruben im nördlichen Teil bildeten ein Rechteck, in dem eine mit Asche und Holzkohlen gefüllte Feuerstelle lag. Bei der Feuerstelle fand sich ein Horn eines Auerochsen. Nördlich der Feuerstelle erstreckten sich durchgebrannte amorphe Flächen und mehrere lokale graue Schichtchen, offenbar Überreste kleiner, kurzzeitiger Feuerstellen. In der Verfüllung des Objekts fanden sich Scherben und Tierknochen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Zeichnung des ungefähren Aussehens des heidnischen Heiligtums in Most pri Bratislave",
+    "alt": "Zeichnung des ungefähren Aussehens des heidnischen Heiligtums in Most pri Bratislave",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das ist alles, was vom überhaupt ersten bekannten altslawischen Heiligtum in der Slowakei übrig blieb. Die gefundenen Scherben zeigten, dass das Kultobjekt aus der zweiten Hälfte des 8. Jahrhunderts bis zum Beginn des folgenden Jahrhunderts stammt. Interessant ist, dass das überzeugendste Argument für diese Datierung nicht die slawischen Scherben waren, obwohl diese in der Verfüllung des Objekts eindeutig überwogen, sondern einige Fragmente nomadischer tönerner glockenförmiger Deckel. Das Problem besteht darin, dass die slawischen s-förmig profilierten topfartigen Gefäße, die im oberen Teil des Körpers mit eingeritzten Wellenbändern oder umlaufenden Rillen verziert sind, verhältnismäßig lange Zeit hergestellt wurden, wobei sich vor allem die Herstellungstechnologie änderte (das heißt die Zusammensetzung des Töpfertons, die Art der Formung des Gefäßes, das Profil der Mündung, die Konstruktion der Töpferöfen). In den zentralen Burgwällen erzeugten die Töpfer in derselben Zeit hochwertigere Ware als die Handwerker in den dörflichen Siedlungen. Eine genaue Datierung der Fundstelle nach Scherben ist daher nicht immer eindeutig. Die nomadischen „Glocken“, die beim Kochen dienten, wurden viel kürzere Zeit verwendet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Rekonstruktion nach dem Archäologischen Museum des SNM in Bratislava",
+    "alt": "Rekonstruktion nach dem Archäologischen Museum des SNM in Bratislava",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schwieriger als die Datierung des Heiligtums war die genauere Bestimmung der Funktion dieses ungewöhnlichen Fundes und seine Rekonstruktion. Als Ausgangspunkt diente die Grundrissform selbst. Ein Graben, der in ein Kreissegment eingetieft ist, ist bereits von mehreren altslawischen Heiligtümern in Mähren und in Böhmen bekannt, zum Beispiel in Uherské Hradiště-Sady oder in Mikulčice. Kultische Bedeutung schreiben die Archäologen auch dem geradezu mammuthaften Objekt in Stará Kouřim zu. Dieser an Ausmaßen und Bedeutung außergewöhnliche Fund war ein 4 m tiefer und bis 130 m langer, leicht gebogener Graben, der ein kleines Gräberfeld am Teich von der besiedelten Fläche des frühmittelalterlichen Burgwalls trennte. Sein komplizierter Urbanismus verlangt schon an sich besondere Aufmerksamkeit – er beweist, dass die Welt der Toten und die Welt der Lebenden bei den Slawen getrennt sein mussten. Aus anderen Quellen wissen wir, dass das irdische und das überirdische Dasein nach den Vorstellungen der Slawen gerade das Wasser trennte. Die Ähnlichkeit mit Charon und der Überfahrt der Toten im Boot ist in diesem Fall sicher kein Zufall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Vorstellung des russischen Malers Olšanský von einer heidnischen Zeremonie der alten Slawen",
+    "alt": "Die Vorstellung des russischen Malers Olšanský von einer heidnischen Zeremonie der alten Slawen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Ort, wie geschaffen für die Verehrung der Götter"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Versuchen wir, diese Feststellung auf das Heiligtum in Most pri Bratislave anzuwenden. Im 8. Jahrhundert war der žitný ostrov eine unfruchtbare Gegend voller Sümpfe, Altarme und Seitenarme der Donau, die sich nach den Frühjahrs- und Herbsthochwassern immer wieder veränderten. Kein Wunder, dass die Archäologen aus dieser Region keine dauerhafte Siedlung kennen, zumindest was das Frühmittelalter betrifft. Die vereinzelt gefundenen Spuren eines Aufenthalts der Slawen weisen eher auf einen zeitweiligen Aufenthalt von Fischern, Jägern und Ähnlichen hin. Gerade mit einem solchen Naturraum verbanden sich jedoch die Vorstellungen der alten Slawen von einem geheimnisvollen Ort, an dem es möglich war, die Götter anzurufen. Es war eine Fundstelle, die durch Wasser, Sumpfländer und Teiche von der umgebenden Welt getrennt war. Auch die konkrete Lage, an der sie das Heiligtum errichteten, wählten sie offenbar nicht zufällig. Die ursprüngliche Vegetationsdecke ist jedoch durch menschliche Tätigkeit längst vernichtet, und auch das Flussnetz ist verändert.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Triglav",
+    "alt": "Triglav",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Versuch einer Rekonstruktion der oberirdischen Teile des Heiligtums kann man sich auf einige während der archäologischen Ausgrabung festgestellte Details stützen. Über das ursprüngliche Aussehen des altslawischen Kultplatzes sprechen auch die auf den ersten Blick unbedeutenden Pfostengruben, die die äußere und die innere Seite des Randes säumten. Nach der Nachricht des russischen Chronisten Nestor pflegten die Slawen Urnen mit den verbrannten Überresten der Toten auf Pfähle zu stellen. Im Fall unseres Heiligtums kommt eine solche Deutung jedoch nicht in Betracht, denn im 8. Jahrhundert legten die mitteleuropäischen Slawen die unverbrannten Überreste der Verstorbenen bereits in Gräber (dem entspricht der archäologische Begriff Körpergräber). Eine Lösung bietet die Tatsache, dass die Pfostengruben paarweise auftreten. Diese Tatsache verweist geradezu auffällig auf den Fund von der slawischen Siedlung an der Fundstelle Fischerinsel bei Neubrandenburg in Deutschland. Hier fand sich eine hölzerne Statuette einer slawischen Gottheit mit zwei Köpfen und zwei verbundenen Körpern, also eine Art Doppelgottheit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die meisten slawischen Heiligtümer standen unter freiem Himmel, was die Verbundenheit mit der Natur verstärkte",
+    "alt": "Die meisten slawischen Heiligtümer standen unter freiem Himmel, was die Verbundenheit mit der Natur verstärkte",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Größere Sicherheit in der Deutung bietet die Vierergruppe von Pfostengruben im südlichen Teil des Heiligtums. Ihre Anordnung und ihr gegenseitiger Abstand verraten, dass hier zweifellos ein leichteres hölzernes Schutzdach stand. Ähnliche Spuren wurden in Uherské Hradiště-Sady festgestellt. Angesichts der Lage des Kultobjekts im Areal eines Gräberfeldes konnte es als Ort zum Niederlegen der Überreste eines menschlichen Körpers „auf der Bahre“ dienen. Eine solche Deutung ist für Most pri Bratislave jedoch logisch nicht möglich, da sich in dem Objekt keine Gräber befanden.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Antwort auf die Frage nach der Funktion des Schutzdaches bietet der Fund einer Feuerstelle in seinem Inneren. Es handelt sich um eine große, stark rot durchgebrannte Feuerstelle. Eine solche Spur hinterlässt nur ein lange brennendes starkes Feuer. Das Schutzdach diente also dem Schutz des „ewigen Feuers“ vor Regen. Sicher nicht zufällig erinnert uns das wiederum an das Feuer, das im antiken Rom von den Vestalinnen unterhalten wurde – für sein Verlöschen drohte der Vestalin der Tod. Die Forscher verbinden das Unterhalten von Feuern bei den Slawen mit dem Kult des Gottes Perun. Bei den Ostslawen wurde als Kultbrennstoff die Eiche verwendet. Daher überrascht es nicht, dass der Palynologe Eduard Krippel aus den Holzkohlen der erwähnten Feuerstelle feststellte, dass es sich um Quercus, also um die Eiche handelt – den heiligen Baum der Slawen, der dem Donnerherrn Perun geweiht war. Die Ostseeslawen verehrten sogar ganze Eichenwälder, und vom Balkan sind religiöse Zeremonien unter Eichen noch aus dem Mittelalter belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Götze Peruns nach den Vorstellungen von Zdeněk Burian",
+    "alt": "Der Götze Peruns nach den Vorstellungen von Zdeněk Burian",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aufmerksamkeit verdient auch ein weiteres Detail. Unmittelbar bei den Pfostengrübchen am westlichen Rand des Grabens fand sich ein Tierschädel. Er war so stark zerstört, dass es der Archäozoologin Alena Šefčáková im Naturwissenschaftlichen Museum des SNM nur mit großer Mühe gelang zu bestimmen, dass es sich um einen Auerochsen handelt. Auch dieses Tier ist in der slawischen Mythologie nicht unbekannt – es war Perun geweiht. Stierhörner schmückten die Hallenheiligtümer der Ostseeslawen, und offenbar erfüllte der Schädel eine ähnliche Funktion auch in unserem Heiligtum. Wahrscheinlich war er in der Mitte der Vorderwand des erwähnten hölzernen Schutzdaches angebracht.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während der südliche Teil des Heiligtums allem Anschein nach ein offizieller Raum war, also ein Ort, an dem die mit dem ganzen Geschlecht oder Stamm verbundenen Kultzeremonien unter Teilnahme des heidnischen Priesters (der Kultpersönlichkeit) und offenbar nur zur Zeit der Jahresfeste abliefen, war der nördliche Teil wahrscheinlich privaten Zeremonien vorbehalten. Darauf lässt sich daraus schließen, dass in dieser Hälfte keine größere Feuerstelle und keine Spuren eines Baus gefunden wurden, sondern nur eine größere Menge kleinerer, nach der Färbung der Erde kurzzeitiger Feuerstellen. Hier opferten offenbar einzelne Familien oder Einzelpersonen dem Perun."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Visualisierung des altslawischen Heiligtums (Autor: Haden Sutton)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer betete im Heiligtum von Most?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wo die Stämme lebten, deren Angehörige in das heutige Most pri Bratislave kamen, um ihre Götter zu verehren, lässt sich aus den erwähnten Scherben ableiten, die in der Verfüllung des Grabens gefunden wurden. Außer aus der Südwestslowakei, wo wir ähnliche Keramik auf Siedlungen des 8. bis beginnenden 9. Jahrhunderts finden, kamen hierher auch die Bewohner von Siedlungen südlich der Donau. Angesichts der Fragmente nomadischer glockenförmiger Deckel muss es sich nicht nur um Slawen gehandelt haben. Andererseits konnten in bestimmten Regionen dieses Inventar auch Angehörige anderer Ethnien verwenden. Die Grundrissdisposition des Kultobjekts in Most pri Bratislave deutet darauf hin, dass die Zeremonien hier unter freiem Himmel abliefen. Das war für die Slawen Mitteleuropas typisch, denn zum Beispiel die Ostseeslawen errichteten Hallenheiligtümer, zu denen nach den Aufzeichnungen des deutschen Priesters Helmold jedoch nur der heidnische Priester Zugang hatte. In Most pri Bratislave war ihm offenbar der Raum unter dem schirmenden Dach bestimmt. Vielleicht war gerade er dafür verantwortlich, dass die Flammen des „ewigen Feuers“ niemals verlöschten. Damit gelangen wir allerdings von der Analyse und Rekonstruktion des archäologischen Fundes eines altslawischen Kultplatzes zu Erwägungen, die den Rahmen der archäologischen und historischen Möglichkeiten überschreiten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Ein slawischer Götze",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da unter den Funden aus Most pri Bratislave Gegenstände aus der Mitte des 9. Jahrhunderts fehlen, ging das Heiligtum in dieser Zeit offenbar unter. Entweder geschah das nach einer Änderung der Stammesverhältnisse und die Gläubigen gingen an einen anderen geheimnisvollen Ort, um Perun zu verehren, oder der Kultplatz ging mit dem Aufkommen des Christentums unter. Das Fehlen jüngerer Funde aus der ganzen Region deutet darauf hin, dass die Slawen zu dem Ort, an dem das altslawische Heiligtum stand, nicht mehr zurückkehrten und dass den Kultplatz die Auenwälder des žitný ostrov überdeckten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "PhDr. Vladimír Turčan (1952),"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "ist am Archäologischen Museum des SNM in Bratislava (Pressburg) tätig. Er ist auf die Archäologie der römischen Kaiserzeit und der slawischen Periode spezialisiert. Er nahm an den archäologischen Ausgrabungen der Festung aus der römischen Kaiserzeit in Stupava und mehrerer slawischer und germanischer Siedlungen teil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

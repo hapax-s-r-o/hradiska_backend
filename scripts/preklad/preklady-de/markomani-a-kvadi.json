@@ -1,0 +1,1546 @@
+{
+ "slug": "markomani-a-kvadi",
+ "data": {
+  "title": "Die Markomannen und die Quaden – Germanen an der mittleren Donau",
+  "slug": "markomannen-und-quaden-germanen-mittlere-donau",
+  "excerpt": "Über die Anfänge der Germanen, genauer der Markomannen und der Quaden, haben wir – ähnlich wie bei anderen Völkern – Kenntnisse aus der Vorgeschichte. Die ersten historisch belegten Spuren stammen aus dem 2. Jahrhundert v. Chr., als die Markomannen im Heer Ariovists erscheinen. Von dort führt der Artikel über das Reich Marbods in Böhmen und die Markomannenkriege bis zum Alltag der Quaden an der mittleren Donau.",
+  "metaTitle": "Markomannen und Quaden – Germanen an der mittleren Donau",
+  "metaDescription": "Herkunft der Markomannen und Quaden, das Reich Marbods in Böhmen, die Markomannenkriege und der goldene Armring aus dem Fürstengrab von Zohor.",
+  "keyFacts": [
+   {
+    "label": "Stämme",
+    "value": "Markomannen und Quaden (germanisch, im Gebiet der heutigen Slowakei seit der Zeitenwende)",
+    "icon": "star"
+   },
+   {
+    "label": "Anführer",
+    "value": "Marbod – ein Königreich in Böhmen",
+    "icon": "star"
+   },
+   {
+    "label": "Kostbarkeit",
+    "value": "goldener Armring aus Zohor (Fürstengrab, 1.–2. Jahrhundert)",
+    "icon": "star"
+   },
+   {
+    "label": "Autorin",
+    "value": "Vesna Slavi",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2. Jh. v. Chr.",
+    "title": "Erste Spuren der Germanen",
+    "description": "Die Markomannen im Heer Ariovists.",
+    "type": "event"
+   },
+   {
+    "year": "Zeitenwende",
+    "title": "Das Reich Marbods",
+    "description": "Migration nach Böhmen unter dem Druck der Römer.",
+    "type": "event"
+   },
+   {
+    "year": "2. Jh. n. Chr.",
+    "title": "Die Markomannenkriege",
+    "description": "Die Römer stabilisierten die Nordgrenze nur mit Mühe.",
+    "type": "event"
+   },
+   {
+    "year": "4. Jahrhundert",
+    "title": "Letzte Erwähnung",
+    "description": "Die Markomannen werden zum letzten Mal erwähnt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6079,
+    "caption": "Germanische Fibeln aus der Westslowakei",
+    "alt": "Germanische Fibeln aus der Westslowakei"
+   },
+   {
+    "mediaId": 6081,
+    "caption": "Ein bronzener Topf aus der Westslowakei",
+    "alt": "Ein bronzener Topf aus der Westslowakei"
+   },
+   {
+    "mediaId": 6084,
+    "caption": "Ein Reitersporn aus der Westslowakei",
+    "alt": "Ein Reitersporn aus der Westslowakei"
+   },
+   {
+    "mediaId": 6088,
+    "caption": "Eine Schere",
+    "alt": "Eine Schere"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Herkunft der germanischen Stämme der Markomannen und der Quaden"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Anfänge der Germanen, genauer der Markomannen und der Quaden, haben wir – ähnlich wie bei anderen Völkern – Kenntnisse aus der Vorgeschichte. Die ersten historisch belegten Spuren der Germanen stammen aus dem 2. Jahrhundert v. Chr. Die Markomannen erschienen zum ersten Mal im Heer Ariovists. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Germanische Fibeln aus der Westslowakei",
+    "alt": "Germanische Fibeln aus der Westslowakei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ihr ursprüngliches Siedlungsgebiet lag am Main, doch unter dem Druck der Römer wanderten sie kurz vor der Zeitenwende unter der Führung des Heerführers Marbod nach Böhmen. Dort bildeten sie das Zentrum einer Stammesgruppe. In den Markomannenkriegen vermochten die Römer die Nordgrenze ihres Reiches nur mit großer Mühe zu stabilisieren. In den folgenden Jahrhunderten setzten die Markomannen ihr Vordringen nach Süden fort. Zum letzten Mal werden sie im 4. Jahrhundert erwähnt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Altertum war der Name der Germanen ein ethnologischer Gattungsbegriff für eine große Gruppe zwischen den Kelten und den Skythen. Es handelte sich also vor allem um eine Fremdbezeichnung bestimmter Völker und nur in geringerem Maße und offenbar erst sekundär um eine Selbstbezeichnung der germanischen Völker für sich selbst. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeugnisse der antiken Quellen ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Völker, die sich rechts des Rheins niedergelassen hatten, blieben vor Caesars Gallienfeldzügen (58–52 v. Chr.) überwiegend außerhalb des Horizonts der antiken Beobachter, und als man von ihnen erfuhr, hielt man sie zunächst für Kelten oder unterschied sie von diesen zumindest nicht ausdrücklich. Die ältesten historischen Nachrichten über die germanischen Kulturen stammen aus Begegnungen mit den Griechen und mit dem Römischen Reich; die ältesten schriftlichen Zeugnisse wie die Runeninschriften sind erst nach der Jahrhundertwende zu finden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Berichte der antiken Autoren über die germanischen Völker gehen oft nicht von eigenen Beobachtungen aus, sondern vom Hörensagen. Der griechische Reisende Pytheas von Massalia berichtete schon im Jahr 330 v. Chr. über die Länder um die Nordsee und die dort lebenden Völker. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kultur"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit dem Ausdruck Germanen werden sprachlich verwandte antike Stämme bezeichnet, die seit der Eisenzeit (ab dem 6. Jahrhundert v. Chr.) im Norden Mitteleuropas und in Skandinavien belegt sind. Die Germanen als Volk stellten keine homogene Gesellschaft dar. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Stämme der Markomannen und der Quaden waren eine Gesellschaft von Kriegern, Handwerkern und Bauern; es gab hier die Schichten der herrschenden Fürsten und Könige, der Herzöge, aber auch der Sklaven. Die Gesellschaft bestand aus Familie, Gau und Stamm. Ihre Anführer wählten nicht nur die Markomannen und die Quaden, sondern alle germanischen Stämme gewöhnlich nach der Tapferkeit und den König nach der vornehmen Abstammung. Tacitus führt das Gesellschaftssystem der freien Germanen – ingenui – und die Aristokratie – nobilitas – an. Wichtige und grundsätzliche Entscheidungen wurden in der Stammesversammlung getroffen, deren Besuch eine rein männliche Angelegenheit war. Man darf annehmen, dass die Versammlung bis zu hundert Mitglieder hatte; anerkannt wurde die Mehrheitsentscheidung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3.1. Handelsbeziehungen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der goldene Armring aus Zohor bezeugt uns einen regen Handelsverkehr der Germanen mit dem Römischen Reich. Dieser goldene Armring, in das erste bis an den Anfang des zweiten Jahrhunderts n. Chr. datiert, ist das kostbarste Schmuckstück aus der römischen Kaiserzeit, das auf slowakischem Gebiet bisher entdeckt wurde, und gehört überhaupt zu den seltensten Schmuckstücken seiner Art in Europa. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der unvergleichlich höhere Lebensstandard der Römer beeinflusste auch die einheimische germanische Elite. Ein Beweis dafür ist auch der goldene Armring, der aus einem reichen Fürstengrab in Zohor (Bezirk Malacky, Südwestslowakei) stammt. Offenbar gehörte er einer Familie oder einem Geschlecht, das den Handel zwischen dem Römischen Reich und dem Gebiet der heutigen Slowakei im 1. und 2. Jahrhundert kontrollierte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein bronzener Topf aus der Westslowakei",
+    "alt": "Ein bronzener Topf aus der Westslowakei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In das Reich Marbods strömten Scharen römischer Händler, um hier ihre Waren zu verkaufen – unter anderem sicher auch einige bronzene Gefäße oder Schmuckstücke. Es wird sogar angeführt, dass auf markomannischem Gebiet auch Kolonien solcher Händler bestanden. Bislang haben wir zwar keine solche entdeckt, doch der Zustrom römischer Erzeugnisse ist in den Gräbern oder auch auf den Siedlungen jener Zeit deutlich genug. Im Handel entstand der „Beruf“ des negotiator, der sich auf die Beförderung großer Lasten über große Entfernungen spezialisierte. Ihnen ist es zu danken, dass römische Luxusgegenstände in germanische und andere nichtrömische Grabausstattungen gelangten. Sie spezialisierten sich auf bestimmte Produkte (z. B. negotiator olearius, negotiator arits cretarie, der vor allem Terra sigillata verkaufte, oder negotiator argentarius vascularius, der silberne Ess- und Trinkservice verkaufte, weil sich einfaches Geschirr nicht auszahlte, und ähnlich). In bestimmten Fällen konnte es sich um einen spezialisierten Hersteller und Verkäufer in einer Person handeln. Oft wurde mit zusammengehörendem Material gehandelt wie Keramik, verschiedenen Metallen und Erzeugnissen daraus, Schmuck, Waffen, bronzenen und gläsernen Gefäßen, Wein oder Öl. Es kam auch zu einem kombinierten Handel. In das Römische Reich strömten vom Gebiet des Barbaricums von den Markomannen und den Quaden als Ausfuhr landwirtschaftliche Erzeugnisse (vor allem Getreide), Vieh, Pelze, Wolle, Bernstein und vielleicht auch Sklaven. Die germanische Ausfuhr in das Römische Reich war im Vergleich zur Einfuhr gering. Einige Quellen führen zum Beispiel auch das blonde Haar germanischer Frauen zur Herstellung von Perücken an, doch diese Behauptung ist bislang archäologisch nicht belegt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein bedeutendes Zeugnis für den Handel in dieser Zeit ist die Stele aus Boldog: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Inschrift befindet sich auf einer Steinplatte mit den Maßen 175 x 76 cm, die ursprünglich als Grabstein des römischen Bürgers Quintus Atilius Primus diente. Im Jahr 1976 entdeckte sie der Verwalter der römisch-katholischen Pfarre bei der Instandsetzung der Kirche in Boldog. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist die älteste in der Slowakei entdeckte römische Inschrift, denn sie stammt aus dem 1. Jahrhundert n. Chr. Die Inschrift ist auf den ersten Blick knapp, weil sie nur 11 Zeilen umfasst, verbirgt in sich jedoch außerordentlich umfangreiche Informationen. Neben dem Namen enthält sie biografische Angaben über den Verstorbenen und seine Verwandten, über ihre Herkunft und darüber, wer den Grabstein anfertigen ließ. Die wichtigsten sind aber die Angaben zum Lebenslauf des Q. Atilius Primus. Er war Offizier, Centurio der berühmten XV. Legion, die im 1. Jahrhundert in Carnuntum in Garnison lag, und hatte nach der Interpretation von T. Kolník zugleich auch die Funktion eines Dolmetschers der Legion, wahrscheinlich aus dem Keltischen und aus dem Germanischen. Nach seinem Eintritt in den Ruhestand war er negotiator – Händler. Gerade in dieser Information liegt der größte historische Wert der Inschrift aus Boldog. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Text der Inschrift lautet: "
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Q(uintus) Atilius ",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sp(urii) f(ilius) Vot(uria tribu) Primus inter(p)rex mus interrex ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "[nach Pichlerová und Neuman30] mus inter tre[x] ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(cenarios) ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "leg(ionis) XV idem (centurio) ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "negotiator an(norum) ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "LXXX h(ic) s(itus) e(st) ",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Q(uintus) Atilius Cog(i)tatus Atilia Q(uinti) l(iberta) Fau ",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "sta Privatus est ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Martialis hered(es) ",
+        "italic": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "l(ibentes) p(osuerunt) ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es besteht kein Zweifel daran, dass Q. Atilius Primus seine Karriere an der Bernsteinstraße entwickelte. In die Zeit seiner militärischen und händlerischen Tätigkeit fällt der wirtschaftliche und kulturelle Aufschwung der germanisch-quadischen Besiedlung in der heutigen Südwestslowakei. Der Sitz und das Hauptgebiet der Tätigkeit des Q. Atilius Primus war wahrscheinlich Carnuntum, ein wichtiger Umschlagplatz für Waren an der Kreuzung der Bernsteinstraße und der Donaustraße, auch wenn sein Grabstein sekundär in Boldog verwendet wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 2. Handwerk ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach Tacitus und zugleich auch nach Caesar haben wir Kenntnis davon, dass der Ackerbau unter den Germanen keine beliebte Art des Lebenserwerbs darstellte, doch aus den archäologischen Funden wissen wir von einer langfristigen und regelmäßigen Bearbeitung des Bodens. Die häuslichen Arbeiten wurden den Frauen und Kindern überlassen. Die Frauen hatten eine sehr geachtete Stellung, die aus natürlichem Respekt und aus Verehrung erwuchs. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine der am besten belegten wirtschaftlichen Aktivitäten ist die Gewinnung und Verarbeitung von Eisen – die Verhüttung und das Schmiedehandwerk. Insgesamt schätzen wir die Zahl der hergestellten Arten von Eisenerzeugnissen heute auf etwa 40. Die bekanntesten Gegenstände, die als Grabbeigaben in die Gräber gelegt wurden, sind zum Beispiel Lanzen, Schwerter, eiserne Bestandteile von Schilden usw. Weitere Geräte, die auch als Waffen verwendbar sind, rechnen wir dann zu den Äxten und verschiedenen Messern. Gefunden wurden auch verschiedene Toilettegeräte wie Rasiermesser, Schlösser, Schlüssel, Schafscheren und Ähnliches. Zu den weiteren interessanten Funden, die wir den Markomannen und den Quaden zuordnen können, gehören sicher auch Zangen, Pflugscharen, verschiedene Sensen und Sicheln, Ahlen, getriebene Gefäße und Kessel und so weiter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schmuckherstellung der Markomannen und der Quaden wird für meisterhafte Arbeit gehalten. Die Funde umfassen verschiedene Schmuckstücke, Zubehör und Bestandteile der Kleidung. Gerade in der Zeit des Bestehens des Reiches Marbods beginnt in der ganzen germanischen Welt eine außerordentliche Blüte eines zweiten Spektrums von Erzeugnissen zu erscheinen – des Metallgusses und der Schmuckkunst. In Beliebtheit kommen ausgeprägte und massive Fibeln sowie Gürtelschließen, und die Herstellung von Zierbeschlägen für Trinkhörner breitet sich aus. Einige Techniken der Schmuckherstellung zeichnen sich durch ihre Wirkung und ihre Komplexität aus; sie nutzen den kontrastreichen Durchbruch des Metallblechs. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Neben den eindrucksvollen Belegen der Metallarbeit gibt es eine Menge weiterer Produktionstätigkeiten, die in unterschiedlichem Umfang bei den Markomannen wie auch bei den Quaden betrieben wurden. Ausgrabungen an Fundstellen mit günstigen Bedingungen für die Erhaltung von Holz und anderen organischen Materialien liefern uns oft eine Palette von Erzeugnissen wie verschiedene Arten hölzerner Gefäße, Eimer, Stöcke, hölzerner Waffen, Möbel, Boote und natürlich verschiedene architektonische Bestandteile. Zu ihrer Verarbeitung wurden verschiedene Werkzeuge verwendet. Gefunden wurden auch Belege für die Korbflechterei. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus den archäologischen Funden haben wir Belege für den Bau von Grubenöfen zum Brennen von Keramik; das Töpferhandwerk belegt auch die gewaltige Menge an Keramikscherben. Die Keramik wird in der genannten Zeit von Hand hergestellt, ohne Verwendung der schnell rotierenden Töpferscheibe. Diese beginnt bei den Germanen frühestens am Ende des 2. Jahrhunderts n. Chr. aufzutreten. Eine Besonderheit, die die germanische Keramik der gegebenen Zeit unterscheidet, ist die reiche Verzierung mit Abdrücken eines Zahnrädchens, die auf dem Körper des Gefäßes verschiedene kontrastreiche Muster erzeugt. Die Qualität der Gefäße ist bei der massiven Gebrauchskeramik und beim feinen Tafelgeschirr unterschiedlich. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verhältnismäßig zahlreich sind auch die Erzeugnisse aus Knochen und Geweih; wir kennen zum Beispiel Geweihkämme, Gewandnadeln und auch Nähnadeln. Einer der interessantesten Funde dieser Zeit sind knöcherne Spielwürfel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 3. Das Heer ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Heer kämpften wahrscheinlich ausschließlich Männer; Kriegergräber, die Frauen zuzuschreiben wären, wurden aus der Zeit der Markomannen und der Quaden bislang nicht gefunden. Der Krieger war mit einem Schild mit spitzem mittigem Schildbuckel und mit einer Lanze, einem Schwert und einem Messer bewaffnet. Die anfänglich langen und schweren einschneidigen Schwerter wurden allmählich kürzer, möglicherweise auch unter dem Einfluss des römischen Kurzschwertes – des gladius. Nicht selten trugen die Krieger ein Kettenhemd. Nicht selten hatte der Krieger auch ein kleines Schutzamulett bei sich. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannen und auch die Quaden, ebenso die Germanen im Allgemeinen, waren oft gesuchte Söldner für das römische Heer. Die Germanen wurden als Soldaten der Hilfstruppen, aber auch als Leibwächter hoch geschätzt. Für ihre Loyalität gegenüber den Römern und für die Teilnahme an den Kämpfen gegen die Feinde hatten sie sogar die Möglichkeit, auch Land zu erhalten. Die Barbaren drangen auch in die höchsten Kommandostrukturen des römischen Heeres vor. Zu den Erkennungszeichen dieser Soldaten gehörten breite Gürtel mit Bronzebeschlägen, auf die ihre Besitzer besonders stolz waren. Dieser Gürtel wurde seinem Besitzer sogar ins Grab gelegt. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Reitersporn aus der Westslowakei",
+    "alt": "Ein Reitersporn aus der Westslowakei",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 4. Die Bestattung ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bestattungsritus war bei den Germanen in den meisten Fällen die Brandbestattung. Wir finden auch Belege für rituelle Körperbestattungen. Die germanischen Gräber der Adligen aus der frühen Kaiserzeit sind Körpergräber und in der Regel ohne Waffen. Als Grabbeigaben dienten keramische oder gläserne Gefäße, Kämme, Fibeln und Schnallen, eventuell weitere Gegenstände, also ähnliche Artefakte wie in den klassischen Gräbern. Als Grabbeigaben konnten Tiere verwendet werden, zum Beispiel ein Hund, oder Teile von ihnen, z. B. Pferdeköpfe. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Körperbestattungen der Sueben, die in einigen Zeitabschnitten der römischen Kaiserzeit auf Grabfundstellen nicht nur in Böhmen und Mähren, sondern auch in der Südwestslowakei und in Niederösterreich vorkommen, sind recht häufig unterschiedlich (in gestreckter wie in gehockter Lage). Das einzige Kriterium zur Bestimmung ritueller Bestattungen auf den Siedlungen bzw. in Siedlungsgruben ist das Vorhandensein von Grabbeigaben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Königsgrab bei Mušov ist ein germanisches Grab aus der Zeit der Markomannenkriege, das bei Mušov am linken Ufer der Thaya liegt, nicht weit von der römischen Militärfestung der Legionen Mark Aurels. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Grab wurde bei einer Untersuchung im Jahr 1988 entdeckt. Ursprünglich handelte es sich wahrscheinlich um einen Hohlraum, dessen hölzerne Konstruktion einstürzte. Obwohl das Grab in der Vergangenheit ausgeraubt worden war, enthielt es rund 200 germanische und römische Gegenstände aus Glas, Silber, Bronze und Keramik, eiserne Waffen, goldene Zierstücke und viele weitere Gegenstände, die vom Reichtum eines in der Nähe der römischen Legionen lebenden germanischen Herrschers zeugen. Auch wenn das Grab aus dem 2. Jahrhundert stammt, sind die silbernen und goldenen Totengaben älteren Datums. Die ältesten von ihnen stammen aus der spätrepublikanischen oder der augusteischen Zeit, die neueren etwa aus den Regierungsjahren der Kaiser Tiberius und Nero, was beweist, dass in Südmähren bereits im Laufe des 1. Jahrhunderts ein Handel mit römischen Luxuswaren bestand, die unter der einheimischen germanischen Nobilität von Generation zu Generation weitergegeben wurden. Wahrscheinlich wurden solche Gegenstände unmittelbar aus dem Römischen Reich als Geschenke für germanische Herrscher gebracht, oder sie wurden wohl zur Zeit des Bürgerkriegs Vespasians zur Beute, an dem sich an der Spitze ihrer germanischen Könige Italicus und Sido auch weitere germanische Krieger beteiligten, die aus dem Gebiet nördlich der mittleren Donau stammten. Neben den Totengaben enthielt das Grab Skelettreste von Opfertieren. Im Grab waren nach den Anthropologen die Überreste zweier Männer und einer Frau niedergelegt. Es konnte sich also um das dynastische Königsgrab des germanischen Herrschers Ballomar aus der Zeit der Markomannenkriege handeln, für diese Behauptung fehlen jedoch die Beweise. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 5. Die Sprache ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gegenwärtig ist es schwer, die genaue Aussprache der von den Stämmen der Markomannen und der Quaden verwendeten Sprache zu bestimmen. Die deutschen Mundarten enthalten auch heute viele Elemente aus dieser Zeit. Die germanischen Völker haben deutliche Spuren im alltäglichen Wortschatz der deutschen Standardsprache hinterlassen. Die meisten urgermanischen Wörter, die sich bis heute erhalten haben, stammen aus dem alltäglichen Leben. Zum Beispiel hieß das Brot vor 2000 Jahren „brauda“. Im 8. Jahrhundert wurde die Bezeichnung „prōt“ verwendet, und im 11. Jahrhundert hieß das Brot bereits „brôt“. Im heutigen Deutschen lautet das Wort für Brot das Brot. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Römer brachten in die von den Markomannen und den Quaden bewohnten Gebiete viele Dinge mit, die den germanischen Völkern vollkommen unbekannt waren. Die germanischen Stämme bauten sich ihre Häuser zum Beispiel als Fachwerkbauten, also aus Holz und Lehm. Die römischen Wohnbauten waren steinern, ebenso wie die Straßen. Da es in den germanischen Sprachen dafür keine Wörter gab, übernahmen die einheimischen Völker die lateinischen Bezeichnungen. So wurde aus dem römischen „murus“ (Steinmauer) das germanische Wort „mura“, unsere heutige Mauer. Ebenso verdeutschten unsere Vorfahren „via layer“ (gepflasterter Weg) zu „strazza“, unserer heutigen Straße, im heutigen Deutschen die Straße. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 6. Die Schrift"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Runen – die germanische Schrift war mehr für besondere Gelegenheiten als für den alltäglichen Gebrauch bestimmt. Die Bezeichnung „Runen“ ist der Name für die alten Zeichen, doch wie die Germanen selbst diese Zeichen nannten, wissen wir nicht. Ab dem 3. Jahrhundert wurde das ältere Futhark verwendet; den Lautwert der Runen kennen wir aus dem späteren Vergleich mit der lateinischen Schrift. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die beschriebene Rippe eines Rindes wurde im Jahr 2017 im Gebiet von Břeclav (Lundenburg) gefunden; ausführlich untersuchte sie ein Team aus Wissenschaftlern aus Tschechien, Österreich, der Schweiz und Australien. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 7. Das Wohnen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Germanen lebten in verhältnismäßig kleinen Siedlungen. Aus der Größe der Gräberfelder (der Brandgräber) der germanischen Stämme schließen die Archäologen, dass sich die Größe der Siedlungen um zweihundert Menschen bewegte. Die Siedlungen entwickelten sich nur selten nach einem Plan. Die Dörfer waren oft von einem Zaun umgeben, selten von einer echten Palisade. Nur in den Grenzgebieten des Römischen Reiches wurden die Dörfer durch Wälle oder Palisaden geschützt und bewacht, wenn feindliche Handlungen und gegenseitige Angriffe begannen. Aus Ausgrabungen ist bekannt, dass die germanischen Stämme in hölzernen Häusern in Skelettbauweise lebten. Da Holz im Unterschied zu steinernen Häusern mit der Zeit verfäult, geben über die Struktur der Häuser nur die archäologisch nachweisbaren Pfostengruben Auskunft. Der verbreitetste Typ war das dreischiffige Haus, sechs bis acht Meter breit und oft mehr als doppelt so lang, in einzelnen Fällen über 60 m. Unter sein Dach passten sowohl die Familie als auch alle Halbfreien und Sklaven. Die Tiere waren durch eine Wand abgetrennt. Der Hauptvorteil davon war, dass die Tiere in den kalten Wintermonaten mithalfen, das Haus zu heizen. Der Wohnraum hatte keine weiteren Trennwände, in der Mitte befand sich die Feuerstelle. Der Rauch konnte durch eine Öffnung im Dach entweichen. Die germanischen Häuser hatten wahrscheinlich keine Fenster. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 8. Die Kleidung"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die typischste männliche Kleidung war die Kombination aus einer Hose verschiedener Länge und einem Oberhemd – einer Tunika mit langen Ärmeln. Ein sehr wichtiger Bestandteil der männlichen Kleidung waren natürlich verschieden verzierte Gürtel, bei einer Tracht zwei. Einer wurde über dem Obergewand getragen, mit Schnallen, Beschlägen und hängenden Zierstücken; am zweiten, unter dem Obergewand getragenen, waren Gegenstände des täglichen Bedarfs aufgehängt wie zum Beispiel Messer, Toilettegeräte oder Feuerzeuge. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank der Funde von Webgewichten wissen wir, dass die Stoffe in verschiedenen Dicken gewebt wurden. Als Material sind tierische Rohstoffe bekannt – Wolle, Pelz, Leder. Von den pflanzlichen wurden Flachs oder Hanf verwendet. Aus dem Import wurde zum Beispiel auch Seide verwendet, an die man aufgrund von Funden etwa aus Mušov denkt. Ein sehr viel verwendetes Kleidungsstück war der Mantel oder Umhang, der mit einer Fibel an der Schulter zusammengehalten wurde. Die Zahl der Fibeln ist unterschiedlich; die Grundlage waren zwei an den Schultern, nicht selten erscheint auch der Fund von drei oder vier Fibeln, gegebenenfalls von keiner. Es ist wahrscheinlich, dass diese Fibeln ebenso wie der Schmuck von der gesellschaftlichen Stellung des Trägers sprachen. (Beispiel: Das Maß eines germanischen Mantels 3 m x 1,8 m) "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die germanischen Männer widmeten der Pflege von Haar und Bart große Aufmerksamkeit. Neben den ikonografischen Darstellungen germanischer Männer sprechen davon auch die Funde von Toilettegeräten aus den Gräbern – Kämme, Pinzetten, Rasiermesser und Ähnliches. Eine geschlossene Vorstellung von der Haartracht und von der Art, den Suebenknoten zu binden, gibt uns zum Beispiel auch der Kopf eines Germanen von einem bronzenen Kessel, der im Fürstengrab in Mušov gefunden wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Eine Schere",
+    "alt": "Eine Schere",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. 9. Religion und Mythen ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Thema der Religion und der Mythen bei den Markomannen und den Quaden können wir uns erneut auf die Kenntnisse des Tacitus stützen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Insgesamt ist die Religion der germanischen Völker quer durch die zeitlichen und kulturellen Räume der einzelnen germanischen Völker und Stammesgruppen eine polytheistische Religion, die auf örtliche Kultzentren dezentralisiert ist. Es scheint daher vernünftig, eher von vielfältigen, regional unterschiedlichen Kulten auszugehen als von einer einheitlichen Konzeption. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit einem großen Maß an Vorsicht können wir im Pantheon der germanischen Götter den höchsten Gott, den Kriegsgott, den Wettergott und die Fruchtbarkeitsgöttin anführen. Ihre Namen waren Wodanaz/Wodan als höchster Gott, Tý/Týr als Gott des Krieges und Tor/Donar als Gott des Wetters. Die Fruchtbarkeitsgöttin war Nerthus oder Isis, "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannen ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannen waren Germanen und bildeten einen Teil des suebischen Stammesverbandes. Zum ersten Mal werden sie zum Jahr 58 v. Chr. erwähnt, als sie Teil des Heeres Ariovists waren. Sie saßen im Maingebiet. Der römische Heerführer Drusus griff sie im Jahr 9 v. Chr. an und drängte sie in das Gebiet des heutigen Böhmen zurück, wo ihr Herrscher Marbod ein mächtiges „Königreich“ (einen Stammesverband) gründete, das sogenannte Reich Marbods. Augustus bezeichnete das Reich als Bedrohung für Rom. Die Markomannen nahmen an den Kriegen der Germanen gegen das Römische Reich unter der Herrschaft Mark Aurels (166–180) teil, die wir die Markomannenkriege nennen. Im 5. Jahrhundert, in der Zeit der Völkerwanderung, verließen sie das Gebiet Böhmens und ließen sich im heutigen Bayern nieder. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. 1. Das Siedlungsgebiet der Markomannen / Das Reich Marbods ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Marbod bewies seine politische Rolle im Jahr 9 unserer Zeitrechnung, als ganze drei römische Legionen von den Germanen unter der Führung des Arminius im Teutoburger Wald niedergemacht wurden. Arminius versuchte, einen Aufstand der Germanen zu entfachen und die Römer aus Mitteleuropa zu vertreiben. Er bot also Marbod an, sich ihm im Krieg anzuschließen. Marbod lehnte jedoch ab und entschied sich, unparteiisch zu bleiben. Als der germanische Aufstand im Wesentlichen bereits besiegt war, wurde Drusus Germanicus aus Germanien abberufen, und Arminius konnte sich der innergermanischen Politik widmen. Er beschloss, sich an Marbod dafür zu rächen, dass dieser nicht mit ihm in den Krieg gegen Rom gezogen war. Im Jahr 17 stellte er sich gemeinsam mit seinen Verbündeten in einer Schlacht den Markomannen und ihren Gesinnungsgenossen entgegen. Wahr ist, dass viele Stämme von Marbod abfielen und zu Arminius übergingen, weil sie seine Unparteilichkeit wahrscheinlich als Feigheit und Schwäche begriffen. Obwohl die Schlacht unentschieden ausging, wurde der taktische Rückzug eines der Flügel des Heeres Marbods für eine Niederlage gehalten, und so wurde dieses Ereignis vom Führer der Cherusker auch politisch genutzt. Von Marbod fielen weitere Stämme ab. Die Krone setzte diesen Ereignissen die Rückkehr des markomannischen Adligen Catualda gemeinsam mit gotischen Kriegern auf, die Marbod aus Böhmen vertrieben. Er floh also mit seiner Gefolgschaft irgendwohin in den mittleren Donauraum, wohl nach Niederösterreich oder in die Südwestslowakei, und bat hier die Römer um Hilfe gegen Catualda. Diese lehnten es jedoch ab und versprachen ihm Schutz nur für seine Person. Daraufhin wurde er abgeführt und im norditalischen Ravenna interniert, wo er noch weitere achtzehn Jahre bis zu seinem Tod im Jahr 37 oder 38 lebte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gefolgsleute Marbods mussten jenseits der Donau bleiben und ließen sich zunächst in der Südwestslowakei nieder, wo sie Teil des Vasallenkönigreichs des Vannius wurden. Catualda blieb an der Spitze der Markomannen nur ein Jahr, dann wurde er vom hermundurischen König Vibilius gestürzt und floh, um die Römer um Schutz zu bitten. Er wurde in der Stadt Forum Iulium in der Gallia Narbonensis interniert. Das war das Ende des Reiches Marbods. Die Markomannen verschwinden danach aus dem Licht der römischen Politik, und wir hören von ihnen erst zur Zeit der sogenannten Markomannenkriege wieder deutlicher, die wir in die Jahre 166–181 datieren. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Quaden ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Quaden waren ein kleiner suebischer Stamm. Historische Aufmerksamkeit gewannen sie als Verbündete der Daker, der Markomannen und der Vandalen in den militärischen Konflikten mit Rom und in der Zeit der Völkerwanderung bei der Eroberung der Iberischen Halbinsel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "5.1. Das Siedlungsgebiet der Quaden / Das Königreich des Vannius ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vannius (19–50 n. Chr.), der erste namentlich bekannte quadische König, wurde dann von Drusus dem Jüngeren zum römischen Klientelkönig der Quaden und der Markomannen ernannt. Am Beginn seiner Herrschaft liebten und achteten ihn die Leute, doch später wurde aus ihm ein Tyrann. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Neffen des Vannius (die Söhne seiner Schwester) Sido und Vangio verbanden sich im Jahr 50 n. Chr. gegen ihn mit Vibilius, dem König der Hermunduren. Vannius wandte sich mehrmals an Kaiser Claudius, der ihm die militärische Unterstützung verweigerte, aber Publius Atellius Hister, den Statthalter von Pannonien, damit beauftragte, Vannius aufzunehmen und zu schützen. Die Truppen des Vannius (die Quaden als Fußvolk und die Jazygen als Reiterei) waren gegen die zahlreichen Feinde zu schwach, und so verschanzte er sich an einem befestigten Ort. Im Kampf verwundet, musste er mit seinen Anhängern zur Donau fliehen, wo Schiffe warteten. In Pannonien wurde ihnen Land im Gebiet des Leithagebirges (im heutigen Österreich) zugewiesen. Seine Neffen und Nachfolger Sido und Vangio teilten sich die königliche Majestät und waren den Römern gegenüber loyal. Zunächst waren sie beim Volk beliebt, doch auch aus ihnen entwickelten sich gehasste Despoten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besonders in der zweiten Hälfte der Herrschaft des Kaisers Valentinianus I. (364–375) wurde der pannonische Donaulimes sehr schnell durch ein dichtes Netz von Burgen und Festungen gesichert. Neu geschaffene Schiffsanlegestellen im Barbaricum garantierten im Notfall einen sicheren Übergang für die römischen Truppen. Außerdem wurde der Limes Sarmatiae gegenüber der Provinz Valeria am östlichen Ufer der Donau nach vorn verlegt. Zu diesem Zweck annektierten die Römer entgegen dem Vertrag quadisches Land, vertrieben die Bewohner und begannen im Jahr 373 hinter der neuen vorgeschobenen Grenzlinie, ebenfalls auf dem Stammesgebiet der Quaden, eine mächtige Festung zu bauen (die Burg Göd-Bócsaújtelep). Die quadischen Proteste, die durch diese Voraussetzungen ausgelöst wurden, führten dazu, dass der ausgeglichene und erfahrene Befehlshaber von Valeria, Frigeridus, in Abstimmung mit seinem Vorgesetzten den Bau einstellte. Das führte in der Folge zu einem Intrigenspiel in Rom, an dessen Ende Frigeridus in den Jahren 373/374 abgesetzt wurde und an seine Stelle der unerfahrene, arrogante Marcellianus trat. Der neue Befehlshaber ließ die Bauarbeiten sofort wieder aufnehmen. Zur gleichen Zeit wurde der quadische König Gabinius unter einem falschen Vorwand zu Gesprächen nach Valeria eingeladen und am Ende der Verhandlung verräterisch erstochen, wobei seine Mörder das Gastrecht nicht achteten. Je nach Quelle (Zosimos und Ammianus Marcellinus) war für diese Tat Celestius oder Marcellianus selbst verantwortlich. Das führte zu einem Rachefeldzug der erzürnten Quaden gemeinsam mit dem sarmatischen Stamm der Jazygen, die bis dahin für römische Verbündete gehalten wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Juni 374 kämpfte Valentinianus I. gegen ihre Einfälle in das pannonische Gebiet und nach Moesien. Der Kaiser richtete sein Hauptquartier im Legionslager Brigetio (Komárom-Szőny) ein. Während der Friedensverhandlungen in Brigetio starb der Kaiser am 17. November 375 nach einem Schlaganfall, der offenbar in einem Wutanfall eintrat. Das Ergebnis des quadisch-sarmatischen Angriffs war, dass die erst kürzlich wieder begonnenen Arbeiten an der Festung Göd-Bócsaújtelep plötzlich und diesmal endgültig eingestellt wurden und der römische Expansionswille zum Erliegen kam; alle römischen Kontrollstationen und Maßnahmen wie etwa der Limes Sarmatiae östlich und nördlich der pannonischen Donau wurden endgültig aufgegeben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Um das Jahr 400 unserer Zeitrechnung gerieten die Quaden unter die Herrschaft der Hunnen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Markomannen und die Quaden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Quaden schufen auf dem Gebiet der heutigen Südwestslowakei zwischen den Flüssen Waag und Gran ein Reich, das bis zum Zug der Langobarden nach Italien (568 n. Chr.) bestand, dem sich die Quaden anschlossen. Man nimmt an, dass sie großenteils von den Langobarden aufgesogen wurden. Ein Teil der Quaden war im 5. Jahrhundert als Donausueben bekannt und wurde von den Alemannen aufgesogen. Auch die Sueben in Portugal konnten Reste der Quaden enthalten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannenkriege ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannenkriege sind eine Reihe von Kriegen, die in der Zeit der Herrschaft des römischen Kaisers Mark Aurel zwischen den Jahren 166 und 180 abliefen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ausgelöst wurden die Kriege durch die zahlreichen Stämme der Sarmaten, die von Norden in das Römische Reich einfielen und denen die germanischen Markomannen und Quaden folgten. Den Angreifern gelang es, die Verteidigungslinien der Römer in der Provinz Pannonien (dem heutigen Ungarn) zu durchbrechen, die wichtigen Militärlager Vindobona und Carnuntum zu zerstören, bis nach Norditalien einzudringen und die Stadt Aquileia einzuschließen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Marcus Aurelius trieb sie hinter die Donau zurück und begann im Jahr 172 eine mächtige Offensive (expeditio Germanica prima). Bei der Provinzhauptstadt Carnuntum (zwischen dem heutigen Bratislava und Wien) baute er eine Pontonbrücke über die Donau und begann einen Strafzug gegen die Germanen. Aufgrund der wachsenden Kampfkraft der Germanen hielten die Römer gegen die Markomannen und ihre Verbündeten insgesamt 6 Legionen bereit (1 Legion bestand aus 3000–6000 Legionären, doch man muss noch mit weiteren Hilfstruppen rechnen). Drei Legionen sollten vom rheinischen Mainz aufbrechen und drei weitere aus dem Gebiet Niederösterreichs, etwa aus der Umgebung Wiens. In den Plänen Roms lag es, die Kräfte dieser Legionen im Inneren des markomannischen Gebietes zu vereinen und mit einem Schlag die Heere Marbods zu besiegen. Dieser Zug drang tief in ihr Gebiet vor, und in einer großen Schlacht besiegten sie das zahlreichere Heer der Sarmaten und der Quaden, mit denen sie im Jahr 175 schließlich einen Friedensvertrag schlossen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon zwei Jahre später wiederholte sich der Konflikt jedoch, und die Römer besiegten die Germanen erneut (expeditio Germanica secunda). Auf dem ursprünglich germanischen Gebiet blieb ein Besatzungsheer von 40.000 Soldaten, und es entstanden Überlegungen zur Entstehung der Provinzen Marcomannia und Sarmatia auf dem Gebiet des heutigen Tschechien und der Slowakei. Das Vorhaben durchkreuzte jedoch der Tod des Kaisers Mark Aurel im Jahr 180, nach dem sein Nachfolger, der Sohn Commodus, die Kämpfe beendete und mit den germanischen Stämmen einen Friedensvertrag schloss, der die Selbständigkeit der einzelnen Stämme zeitweilig einschränkte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "6.1. Die Phasen der Markomannenkriege ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Phase (165/6 – 171/172)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – Angriff der barbarischen Stämme auf das Römische Reich – die Konflikte spielten sich überwiegend auf dem Gebiet des Reiches ab "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Phase (171/172 – 174)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – Wende der Lage – Offensive des römischen Heeres gegen die stärksten Stämme (die Quaden, die Markomannen und die sarmatischen Jazygen) "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "im Jahr 172 überschritt das römische Heer zum ersten Mal die Donau und besiegte die Quaden, ein Jahr später auch die Markomannen "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Phase (175 – 179/180)",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " – nach kurzem Frieden erneute Kämpfe; nach dem Tod Mark Aurels schloss sein Sohn und Nachfolger Commodus mit den Germanen Frieden "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "bei der Wiederaufnahme der Kämpfe im Jahr 177 bewegte sich das Heer tief auf dem Gebiet der Gegner, und aus dieser Zeit (Winter 179/180) stammt auch die bekannte römische Inschrift in Trenčín (Trentschin) "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten zwei Phasen werden gewöhnlich als erster Markomannenkrieg bezeichnet, die dritte Phase als zweiter Markomannenkrieg. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fazit ",
+        "bold": true
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Markomannenkriege haben die Schwachstellen der Nordgrenze des Römischen Reiches offengelegt, und in der Folge wurde die Hälfte der römischen Legionen (16 von insgesamt 33) entlang der Donau und des Rheins verlegt. Für die germanischen Stämme stellten die Markomannenkriege, obwohl sie aufgehalten und besiegt wurden, nur das Vorspiel der großen Invasionen dar, die das Weströmische Reich schließlich vollständig zersetzten und im 4. und 5. Jahrhundert seinen Untergang verursachten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

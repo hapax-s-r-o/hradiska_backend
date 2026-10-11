@@ -1349,6 +1349,42 @@ Strážovské vrchy → **das Strážov-Gebirge**, Pohronský Inovec → **das G
 Pohronský Inovec**, horné Požitavie → **das Žitavatal**. Muzeálna slovenská
 spoločnosť → **die Slowakische Musealgesellschaft**.
 
+**Rondel — rozhodnuté.** Neolitický rondel je **die Kreisgrabenanlage**.
+Tvar *Rondell* sa v stredoeurópskej literatúre tiež vyskytuje a jeden starší
+článok ho mal, no web má mať jeden termín — článok o lengyelskej osade bol
+prepísaný.
+
+**Vlastná činnosť združenia.** Informačná tabuľa → **die Informationstafel**,
+náučný chodník → **der Lehrpfad**, združenie → **der Verein** (občianske
+združenie → *der Bürgerverein*), brigáda → **der Arbeitseinsatz**, 3D
+rekonštrukcia → **die 3D-Rekonstruktion**, panoráma → **das Panorama**,
+kresba → **die Zeichnung**. Letecké laserové skenovanie (LLS) → **LiDAR**
+(„zdroj produktov LLS" → *Quelle der LiDAR-Produkte*). Slovenská asociácia
+archeológov → **die Slowakische Archäologenvereinigung**, Krajský pamiatkový
+úrad Trenčín → **Kreisdenkmalamt Trenčín (Trentschin)**.
+
+**Uhorský × maďarský.** Nemčina oboje hovorí *ungarisch* a rozdiel sa
+nedoplňuje opisom — „maďarského/uhorského štátu" je jednoducho **des
+ungarischen Staates**. Kde na rozdiele stojí veta, pomôže letopočet alebo
+*das Königreich Ungarn*, nie vymyslené prídavné meno.
+
+**Stredoveké uhorské reálie.** Ján z Turca → **Johannes von Thurocz**,
+Obrázková kronika → **die (Wiener) Bilderchronik**, Pätikostolie →
+**Fünfkirchen**, Šalamúnova veža → **der Salomonsturm**, Kabari → **die
+Kabaren**. Poznámka prekladateľa → **Anm. d. Übers.**
+
+**Kultúry a nálezy (67. dávka).** Keszthelyská kultúra → **die
+Keszthely-Kultur**, belobrdská kultúra → **die Bijelo-Brdo-Kultur**, štítkový
+prsteň → **Fingerring mit Schildplatte**, mohylový útvar → **hügelgrabartiges
+Gebilde**, dvojité kliešťové opevnenie → **doppelte Zangenbefestigung**
+(samotná brána = *das Zangentor*). Správca župy v 9. storočí → **Verwalter
+eines Burgbezirks**. Chatári (dnešní) → **Wochenendhausbesitzer**.
+
+**Zemepis (67. dávka).** Rieka Mura → **die Mur**, Balaton → **der
+Plattensee**, Malý Balaton → **der Kleine Plattensee**. V citáte Conversio
+ostáva rieka ako **Sala** (tvar prameňa), hoci slovenský text píše „Zala" —
+drží to zhodu so staršími článkami, ktoré ten istý úryvok citujú.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

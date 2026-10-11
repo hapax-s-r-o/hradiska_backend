@@ -1,0 +1,501 @@
+{
+ "slug": "tragedia-jedneho-uspesneho-obsadenia-vlasti",
+ "data": {
+  "title": "Die Tragödie einer erfolgreichen Landnahme",
+  "slug": "tragoedie-einer-erfolgreichen-landnahme",
+  "excerpt": "Dank unserer Mitarbeiterin Frau Kveta M. bringen wir Ihnen die Übersetzung eines ungarischen Essays, der die Landnahme in ihrer versteinerten dogmatischen Erhabenheit als „unseren Mond“ bezeichnet: Das Karpatenbecken war keineswegs menschenleer, und die wichtigste Fähigkeit war nicht das Erobern, sondern die Anpassung. Als Beispiel dient Visegrád, wo die Slawen eine verlassene römische Festung auf dem Šibrik-Hügel besetzten.",
+  "metaTitle": "Die Tragödie einer erfolgreichen Landnahme",
+  "metaDescription": "Übersetzung eines ungarischen Essays, der die Landnahme der Altungarn kritisch betrachtet und die Kontinuität der slawischen Besiedlung im Karpatenbecken zeigt.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Historiografie der ungarischen „Landnahme“ und die Kontinuität der slawischen Besiedlung im Karpatenbecken",
+    "icon": "book"
+   },
+   {
+    "label": "Zentrale Fundstelle",
+    "value": "Visegrád – Šibrik-Hügel (eine römische Festung, umgebaut zu einem slawischen und später ungarischen Burgwall)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Quelle",
+    "value": "Übersetzung eines Artikels vom ungarischen Portal archeologia.hu",
+    "icon": "scroll"
+   },
+   {
+    "label": "Übersetzung",
+    "value": "Kveta M.",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Mitte des 6. Jahrhunderts",
+    "title": "Die Awaren schaffen ihr Reich",
+    "description": "Die turksprachigen Awaren aus Asien schufen ein multinationales Reich, das das ganze Karpatenbecken umfasste.",
+    "type": "event"
+   },
+   {
+    "year": "2. Hälfte des 7. Jahrhunderts",
+    "title": "Die Onoguren bestimmen den Charakter des Awarenreiches",
+    "description": "Die neuen Siedler, Slawen und die turksprachigen Onoguren, bestimmten bereits den Charakter des ganzen Awarenreiches.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 7. Jahrhunderts",
+    "title": "Untergang der befestigten Stadt bei Fenékpuszta",
+    "description": "Die römische befestigte Stadt bei Fenékpuszta wurde gewaltsam verheert, ihre Bewohner konnten jedoch in der Umgebung weiterhin friedlich leben.",
+    "type": "event"
+   },
+   {
+    "year": "Ende des 8. Jahrhunderts",
+    "title": "Das Awarenreich verliert die Kontrolle",
+    "description": "Das Awarenreich verliert die Kontrolle über die wachsenden inneren Spannungen.",
+    "type": "event"
+   },
+   {
+    "year": "Anfang des 9. Jahrhunderts",
+    "title": "Zerfall des Awarenreiches",
+    "description": "Das Awarenreich zerfiel praktisch in wenigen Augenblicken vollständig; die Bevölkerung Transdanubiens begrüßt daraufhin die Karolinger mit Freude.",
+    "type": "event"
+   },
+   {
+    "year": "907",
+    "title": "Schlacht bei Bratislava",
+    "description": "Die Schlacht bei Bratislava verschaffte eine ausreichende Gnadenfrist, in der es gelang, bis zum Ende des 10. Jahrhunderts aus Pannonien einen konsolidierten Staat zu formen.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 11. Jahrhunderts",
+    "title": "Der christliche Feudalstaat dehnt sich nach Osten aus",
+    "description": "Nach den dynastischen Konflikten innerhalb der Arpadenfamilie dehnte sich der christliche Feudalstaat auch auf die östlichen Gebiete des Karpatenbeckens aus.",
+    "type": "event"
+   },
+   {
+    "year": "um das Jahr 1200",
+    "title": "Gesta Hungarorum",
+    "description": "Das Werk des Magisters P. (Anonymus) spiegelt die Geschichtsauffassung der ungarischen Aristokratie in den Jahrzehnten um das Jahr 1200 wider.",
+    "type": "event"
+   },
+   {
+    "year": "15. Jahrhundert",
+    "title": "Das Werk des Simon von Kéza erscheint im Druck",
+    "description": "Das Werk des Simon von Kéza erschien auch im Buchdruck und verbreitete sich in weiteren Kreisen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4528,
+    "caption": "Die römische Festung auf dem Šibrik-Hügel in Visegrád, die im Frühmittelalter zu einer Burg umgebaut wurde. Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "alt": "Die römische Festung auf dem Šibrik-Hügel in Visegrád, die im Frühmittelalter zu einer Burg umgebaut wurde. Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)"
+   },
+   {
+    "mediaId": 4529,
+    "caption": "Ein Reitersporn aus Visegrád",
+    "alt": "Ein Reitersporn aus Visegrád"
+   },
+   {
+    "mediaId": 4530,
+    "caption": "3D-Modell der Kirche in Visegrád (ca. 10./11. Jahrhundert)",
+    "alt": "3D-Modell der Kirche in Visegrád (ca. 10./11. Jahrhundert)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dank unserer Mitarbeiterin Frau Kveta M. bringen wir Ihnen die Übersetzung eines sehr interessanten Artikels, der auf der ungarischen Seite "
+       },
+       {
+        "type": "link",
+        "url": "http://archeologia.hu/egy-sikeres-honfoglalas-tragediaja",
+        "children": [
+         {
+          "type": "text",
+          "text": "http://archeologia.hu/egy-sikeres-honfoglalas-tragediaja"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir können ihn zu der nicht großen Zahl von Artikeln zählen, die in letzter Zeit bei unseren südlichen Nachbarn zaghaft auftauchen und die langsam beginnen, die eingewurzelten ungarischen Mythen von der heldenhaften Landnahme und von den folgenden Epochen anzukratzen. Aus dem Artikel geht hervor, dass sich die heutigen Ungarn (zumindest ein Teil der wissenschaftlichen Gemeinschaft) mit der zweifellosen, archäologisch belegten Anwesenheit der Slawen im Karpatenbecken in der Zeit des Frühmittelalters und mit der Kontinuität ihrer Besiedlung auch nach der Ankunft der Altungarn auseinandersetzen müssen. Über die slawische Besiedlung von Visegrád können Sie auch in diesem eigenen Artikel lesen: "
+       },
+       {
+        "type": "link",
+        "url": "/blog/visegrad-dalsie-velkomoravske-hradisko-v-madarsku-hu",
+        "children": [
+         {
+          "type": "text",
+          "text": "Visegrád."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Salomonsturm in Visegrád wird eine Ausstellung über die fast unbekannte Vergangenheit Ungarns eröffnet, über die vorangegangene Wanderung der Altungarn vor der Landnahme und über die Anpassung an das Leben zwischen den Völkern im Karpatenbecken. Im eigenen Interesse müssen wir uns vieler mehrere Jahrhunderte alter falscher Illusionen entledigen. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die römische Festung auf dem Šibrik-Hügel in Visegrád, die im Frühmittelalter zu einer Burg umgebaut wurde. Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "alt": "Die römische Festung auf dem Šibrik-Hügel in Visegrád, die im Frühmittelalter zu einer Burg umgebaut wurde. Eine gelungene 3D-Visualisierung der Festung im Frühmittelalter (Autor Pazirik, www.pazirik.hu)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der vorbereiteten Ausstellung haben die Ungarische Akademie der Wissenschaften und das König-Matthias-Museum in Visegrád mitgearbeitet. Die Ausstellung wird die Ergebnisse jener Forschungen zeigen, die in den letzten Jahren den wissenschaftlichen Blick auf die Geschichte der Altungarn vor der Landnahme „neu gezeichnet“ und in der Presse großes Echo hervorgerufen haben, und ebenso die Ergebnisse neuer Forschungen, die hier in Visegrád die historischen Ereignisse von der karolingischen Zeit bis zur Staatsgründung veranschaulichen können. Auf der Grundlage der Forschungen taucht ein bislang größtenteils unbekanntes Bild des 8.–10. Jahrhunderts auf, die als dunkle (im Sinne von: unbekannte) Periode der ungarischen Geschichte gelten, und das führt uns dazu, alles neu zu formulieren, was wir schon ganze Jahrhunderte über die älteste Geschichte des ungarischen Staates denken. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schauen Sie zum Himmel! ",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Isaac Asimov – einer der besten Science-Fiction-Schriftsteller… hat unter anderem einen Essay über die Tragödie des Mondes geschrieben… Dass der Mond täglich an verschiedenen Stellen am Himmel aufgeht und untergeht, brachte die Menschen auf den Gedanken, sie stünden im Mittelpunkt der Welt (geozentrisches Weltbild), und es dauerte sehr lange, bis die wirkliche wissenschaftliche Forschung zum heliozentrischen Weltbild gelangte, und sie musste dabei sogar mit dogmatischen herrschenden Ansichten kämpfen… ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie hängt das mit der Landnahme und mit der Geschichte des vorangehenden und des folgenden Jahrhunderts zusammen? ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Reitersporn aus Visegrád",
+    "alt": "Ein Reitersporn aus Visegrád",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Parallele liegt auf der Hand: Es genügt, die edlen Gesichter der Landnehmer auf dem kreisförmigen ",
+        "italic": true
+       },
+       {
+        "type": "link",
+        "url": "https://www.google.sk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=feszty%20korkep",
+        "children": [
+         {
+          "type": "text",
+          "text": "Feszty-Panoramabild"
+         }
+        ],
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " zu betrachten, ihre würdevolle Körperhaltung… oder in einem Schulbuch über die betreffende Zeit zu blättern… und schon ist klar, dass unsere Vorfahren Halbgötter waren, dass sich die Welt um sie drehte… und auch wir, ihre Nachkommen, können nicht weniger vollkommen sein, schließlich fließt in uns dasselbe Blut. Wie sie ein Recht auf das Karpatenbecken hatten, so haben auch wir ein Recht auf die Achtung aller Völker – und wenn wir das nicht zu erreichen vermögen, dann schreien wir wenigstens aus voller Kehle, dass es uns gehört. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Landnahme, eigentlich ihre historische Beurteilung, in ihrer versteinerten dogmatischen Erhabenheit – das ist unser Mond. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Geschichtsschreibung ist recht vorsichtig, was die Erforschung des ganzen Jahrhunderts vor der Landnahme sowie der Jahrzehnte vor der Staatsgründung betrifft. Vergeblich sind die Forschungsergebnisse, solange noch immer die Schilderung des Anonymus von einem nahezu menschenleeren Karpatenbecken als Standard gilt, das sich die Flut der Altungarn mit Leichtigkeit aneignete. Sie stoßen auf keinen Widerstand, und wenn doch, dann siegen sie mit märchenhafter Leichtigkeit und töten die Feinde. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Magister P. (= Anonymus) konnte nicht hoffen, dass seine Gesta, die damals eher der Belletristik zuzurechnen war, einen so lange nachwirkenden Einfluss haben würde. Auch die Deutschen hielten zu bestimmten Zeiten (zuletzt unter den Nationalsozialisten) ihre Nibelungen für die Quelle ihrer historischen Selbstbestimmung – und wie das endete. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kehren wir zur Gesta Hungarorum zurück, die die Geschichtsauffassung der Aristokratie in den Jahrzehnten um das Jahr 1200 gut widerspiegelt. In der Zeit des Magisters P. war der Königshof halb voll von Westeuropäern (Franzosen und Spaniern), die ihre blühende Ritterkultur, Romane, Troubadourgesänge und Herkunftsmythen bis zurück in die Zeit Karls des Großen mitbrachten. Es ist verständlich, dass sich auch die ungarische Aristokratie nach einer glorreichen Vergangenheit sehnte, nach der Besingung – und seien sie auch erfunden – von Heldentaten der Vorfahren. Diese im Grunde harmlose kleine Eitelkeit füllte dann in Verbindung mit der grenzenlosen Phantasie des Magisters P. das Karpatenbecken mit erfundenen Vorfahren und mit einer Menge niemals stattgefundener Schlachten. Für die Geschichte stellte das jedoch lange Zeit nur eine Zeitbombe dar, denn bis zur Mitte des 18. Jahrhunderts las das kaum jemand. Viel größerer Aufmerksamkeit erfreute sich die 80 Jahre jüngere Gesta des Simon von Kéza. Sie versuchte, Herkunftsmythen für die verhältnismäßig junge (1-2 Generationen bestehende) adlige (kleinadlige) Schicht in einer Zeit zu schaffen, die ihr nicht sehr günstig war, denn sie wurde zum Opfer der immer stärker werdenden höheren Schichten, der Barone. Das Werk des Simon von Kéza setzten später mehrere Autoren fort und ergänzten es; schließlich ist es im 14. Jahrhundert in handschriftlicher Form auch in der (Wiener) Bilderchronik erhalten. Im 15. Jahrhundert erschien es auch im Buchdruck und verbreitete sich in weiteren Kreisen, sodass es niemals in Vergessenheit geriet. Die einflussreichste Version des Werkes des Simon von Kéza war die Chronica Hungarorum des Johannes von Thurocz, die mit Unterstützung des Königs Matthias auch in 2 Buchausgaben erschien. Johannes von Thurocz „formatierte“ die ganze Konzeption des Werkes schon nach den Anforderungen seiner Zeit um. Platz erhielt hier auch die Geschichte nach Simon von Kéza, was den Anschein der Glaubwürdigkeit des ganzen Werkes erzeugte, an dessen Anfang der von Simon von Kéza gehörig aufgeblähte Mythos von den hunnischen Uranfängen, vom Ursprung des Volkes, stand. In dieser Bearbeitung erbten jedoch die Ungarn die Heimat zu Recht, da es sich um dasselbe Volk handelt. Diese Geschichte beginnt und endet mit großen Königen (Attila vs. Matthias). Das Werk des Johannes von Thurocz erwies sich für den Königshof als etwas „grob“ (man ließ daher von Bonfini eine ausgefeiltere, aber nicht weniger märchenhafte Version erarbeiten, in der auch schon die Awaren auftraten), doch seine Wirkung auf die Gesellschaft war überwältigend. Es handelt sich um die letzten Jahrzehnte des ungarischen Mittelalters, als der Klein- und Mitteladel immer verzweifelter versuchte, seine Privilegien zu verteidigen, und deshalb seine Wurzeln suchte und verteidigte. Johannes von Thurocz bot ihm einen hervorragenden Schutzschild – praktisch schon ein Jahrtausend an Rechtstraditionen, denn seine Geschlechter konnte er direkt von den Landnehmern ableiten. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "3D-Modell der Kirche in Visegrád (ca. 10./11. Jahrhundert)",
+    "alt": "3D-Modell der Kirche in Visegrád (ca. 10./11. Jahrhundert)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Welt der hunnischen Vorfahren des ungarischen Adels hätte durchaus nur ein Zwischenspiel bleiben können, wenn nicht in jener Zeit der mittelalterliche ungarische Staat zu zerfallen begonnen hätte, der auch in der Zeit seiner Blüte im kulturellen Sinne hinter den westeuropäischen Staaten zurückblieb. Die Schlacht bei Mohács und der Zerfall des Staates in mehrere Teile sorgten für ein langfristiges Einfrieren der natürlichen Entwicklung in Richtung einer bürgerlichen Gesellschaft, weshalb kein Anspruch auf die Schaffung einer neuen Geschichtsauffassung entstand. Während der fast 200 Jahre dauernden türkischen Herrschaft und auch nach der Vertreibung der Türken aus dem Land hibernierte die Mehrheit des ungarischen Adels geistig immer noch in der Zeit des beginnenden 16. Jahrhunderts; sie verstand die Modernisierungsbestrebungen der Habsburgermonarchie, die sich in einer bedeutenden Einschränkung der Adelsprivilegien äußerten, nicht und lehnte sie ab. Viele dieser alten und für geradezu uralt gehaltenen Privilegien hatten längst ihre Aktualität und ihren Sinn verloren, doch der neu umgeschmolzene Geist des ungarischen Adels versuchte, sie zu bewahren. Viele scheuten sich deswegen nicht einmal davor, sich mit dem besetzenden Osmanischen Reich zu verbünden. Im Laufe des 18. und auch des 19. Jahrhunderts, als sich die auf die Osmanen gestützten Hoffnungen schon endgültig verflüchtigt hatten, kristallisierte sich diese kleinadlige Sicht- und Zugangsweise zur Geschichte endgültig heraus und erstarrte in der öffentlichen Meinung zum Dogma – auch schon deshalb, weil auf das Übergewicht der Habsburger in anderen Bereichen allein damit zu antworten war (mit der Bewahrung der Illusion uralter Größe). Trianon, die Abtrennung historischer Gebiete des Königreichs Ungarn, verstärkte mit seiner zweifellosen Schockwirkung erneut nur das Bedürfnis, sich verkrampft an die Größe vergangener Zeiten zu halten. In der heutigen Zeit genügen einem Teil der Ungarn jedoch nicht einmal mehr das Erbe Attilas, die ungarischen Pyramiden in Bosnien und eine 30.000 Jahre alte Runenschrift – sie brauchen einen parthisch-ungarischen Christus. Freilich wird die Gegenwart von einer falschen Vergangenheit nicht besser („lebbarer“), und die Zukunft wird geradezu aussichtslos sein. Dabei können wir die Ursache dafür, wie und warum der ungarische Staat vom 9.–10. bis zum 15. Jahrhundert erfolgreich war, auch auf der Grundlage unserer heutigen Kenntnisse leicht aufdecken. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Kein menschenleeres Land ",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kehren wir noch einmal zum Karpatenbecken im 9. Jahrhundert zurück, namentlich zu Transdanubien, zu Pannonien, das ein Gebiet unter karolingischem Einfluss war. Neuere Freilegungen an bereits bekannten archäologischen Fundstellen (Šibrik-Hügel in Visegrád, Cella Trichora in Fünfkirchen, Zalavár, Fenékpuszta) haben alle die Präsenz der karolingischen Zeit, Spuren von Bauten und Umbauten, erbracht. Das anthropologische Material aus den Gräberfeldern des 9. Jahrhunderts unterscheidet sich kaum von dem eines Gräberfeldes des 11. Jahrhunderts. Das Hunnenreich war im Karpatenbecken nur ein Zwischenspiel. Die Provinz verließen zwar die römischen Behörden und Truppen, es gingen auch viele von denen fort, die an die römische Reichsverwaltung gebunden waren, doch die mehr oder weniger romanisierte örtliche Bevölkerung hatte keinen Ort, wohin sie fortgehen konnte. An den von den Hunnen geöffneten Grenzen erschienen Zuwanderer germanischer und iranischer Herkunft, von denen ein beträchtlicher Teil nach Westen weiterzog; jene aber, die hier blieben, passten sich den örtlichen Verhältnissen leicht an, auch schon deshalb, weil viele von ihnen bereits als Christen kamen. Als in der Mitte des 6. Jahrhunderts die turksprachigen Awaren aus Asien ihr multinationales Reich schufen, das das ganze Karpatenbecken umfasste, hatten sie keineswegs die Absicht, die hier lebenden Völker auszurotten oder zu vertreiben; sie bemühten sich sogar darum, dass sich hier auch weitere, möglichst ausgebildete Handwerker vom Balkan und aus Italien niederließen. Neue Siedler kamen auch aus dem Norden und aus dem Osten: Slawen und die turksprachigen Onoguren, die in der zweiten Hälfte des 7. Jahrhunderts bereits den Charakter des ganzen Awarenreiches bestimmten. Dieses vielvölkische Reich achtete jedoch darauf, dass die einzelnen Gruppen seiner Untertanen nicht an eine etwaige Verselbstständigung dachten, und sah es daher nicht gern, dass die Untertanen in den von den Römern gut befestigten Städten lebten. Eine Zeit lang drückte es zwar ein Auge zu, besonders wenn die betreffende Gruppe dem Reich gegenüber ausreichend loyal war, z. B. im Fall der christlichen Gemeinschaft, die im Wohlstand in der befestigten Stadt bei Fenékpuszta lebte (heute bezeichnen wir sie als Keszthely-Kultur, die aus gemischten romanisierten und germanischen Elementen besteht), doch als ein Konflikt zwischen dieser Gemeinschaft und dem Reich auftauchte, griff das Reich hart ein. Die römische befestigte Stadt wurde um die Mitte des 7. Jahrhunderts gewaltsam verheert, doch ihre Bewohner, nun schon verarmt, konnten in ihrer Umgebung weiterhin friedlich leben. Auch anderswo – wie wir es aus dem Fall des antiken Sopianae kennen (Pécs, Fünfkirchen in der späten römischen Zeit, Anm. d. Übers.), wo eine befestigte Stadt ähnlicher Größe wie in Fenékpuszta bestand – wurde diese Stadt geleert, doch die offenen (ungeschützten) Siedlungen der romanisierten Bevölkerung in der Nähe, aber außerhalb der Befestigung, bestanden noch Jahrhunderte weiter. Am Ende des 8. Jahrhunderts verliert das Awarenreich jedoch schon die Kontrolle über die wachsenden inneren Spannungen. Die Slawen, die im vorangegangenen Jahrhundert (in den letzten 100 Jahren) zugewandert waren, verhielten sich wahrscheinlich ebenso, wie wir es aus den besser dokumentierten balkanisch-byzantinischen Territorien kennen: Sie bewahrten ihre archaischen Geschlechterverbände, zogen in die verlasseneren Randterritorien, in die bewaldeten hügeligen Gebiete, unterwarfen sich dem Awarenreich nur formal, schufen dafür aber mit Vorliebe ihre eigenen befestigten Zentren (Burgwälle) und nutzten und besetzten dabei auch solche verlassenen römischen Festungen wie die Burg in Visegrád (auf dem Šibrik-Hügel, Anm. d. Übers.). Als sich die Unstimmigkeiten in der Reichsführung in militärische Konflikte verwandelten, verging auch jene Kraft, die dieses mehrsprachige, vielvölkische Awarenreich zusammenhielt, und es zerfiel am Anfang des 9. Jahrhunderts praktisch in wenigen Augenblicken vollständig. In der entstandenen anarchischen Lage flüchtete sich jeder, der konnte, in die Sicherheit hinter die Mauern der noch immer erhaltenen römischen Festungen und Städte. Die Bevölkerung Transdanubiens begrüßt mit aller Wahrscheinlichkeit die Karolinger mit Freude, da sie mit dem Versprechen von Ordnung, Frieden und Sicherheit kommen und ebenso mit dem Christentum, das aus dem betreffenden Gebiet während der vergangenen Jahrhunderte nicht einen Augenblick verschwunden war. Pribina, ein Fürst slawischer Herkunft in der neu geordneten Provinz Pannonien, sammelt das örtliche Volk in der Umgebung von Mosaburg; neben den Slawen ist es auch das romanisierte Volk der Keszthely-Kultur, und nur dem Zufall sowie Method, der später auch heiliggesprochen wurde, können wir es verdanken, dass das erste von Salzburg aus beaufsichtigte pannonische Bistum nicht in Mosaburg/Zalavár gegründet wurde. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Neue Ankömmlinge (Zugezogene) ",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Inzwischen macht sich aus den Gebieten des Südurals ein Volk auf den Weg nach Westen, in dessen Kultur sich die Welt der nördlichen Finnougrier schon mit der Welt der Steppen mischt. Während der schnellen (etwa 1 Generation dauernden) Wanderung schlossen sich ihm drei Stämme aus dem ebenfalls vielvölkischen Chasarenreich an, die man Kabaren nannte. In der zweiten Hälfte des 9. Jahrhunderts erreichte diese a priori multikulturelle Gesellschaft ein Land, das keineswegs menschenleer war, sondern in dem sie eine Menge weiterer Völker und Sprachen fand: die turksprachigen Awaren und Bulgaren sowie zu verschiedenen Zweigen und Stämmen gehörende Slawen, Germanen und auch Nachkommen der römischen Provinzialbevölkerung. Das Reich der späten Karolinger erlebte eine Krise, das Bulgarenreich kämpfte auf Leben und Tod mit Byzanz, sodass das Karpatenbecken, das außerhalb der Zentren der erwähnten Reiche lag, eine leichte Beute der neuen Eroberer wurde. Die Bewohner des vielvölkischen und mehrsprachigen Landes nahmen früher oder später auch die Sprache der Eroberer an, obwohl diese eigentlich in der Minderheit waren. In dem von den Arpaden gegründeten neuen Reich war es nötig, auch eine gemeinsame Verkehrssprache einzuführen. Die Ethnogenese des Ungarntums fand nicht in den Steppen statt, sondern erst im Karpatenbecken, und Bestandteile dieser Ethnogenese sind gleichermaßen die hier über Jahrhunderte lebenden Kelten, Römer, Germanen, Awaren und Slawen wie auch die zugewanderten Ungarn und Türken (ich denke, dass er hier jene Kabaren und Protobulgaren meint, Anm. d. Übers.). Dass aus so vielen verschiedenen Völkern gegen Ende des 11. Jahrhunderts ein geeintes Reich entstehen konnte und dass sich in diesem Reich bis zum 12.–13. Jahrhundert ein geeintes Volk formte (Anm. d. Übers.: im Sinne der Staatsangehörigkeit mag das sein, aber sicher nicht im Sinne von „Nation“; wohl auch deshalb hat der Autor den Begriff „Volk“ verwendet), geschah nicht zuletzt dadurch, dass ein Teil der Altungarn, der Landnehmer, die Situation und die Möglichkeiten, die dieses Land bot, schnell begriff. Taksony, Géza und Stephan erzielten ihren Erfolg auf die Weise, dass sie die Grundlagen ihres Reiches auf jenen pannonischen Gebieten zu legen begannen, auf denen es nicht nötig war, das Christentum mit Feuer und Schwert zu verbreiten, denn die Mehrheit der dortigen Bevölkerung war schon seit Jahrhunderten christlich und kannte seit karolingischer Zeit auch das feudale hierarchische System; auf diesen vorhandenen Grundlagen war es möglich, einen neuen Staat zu errichten. Es war nur noch nötig, an die geeigneten Stellen die eigenen zuverlässigen Leute zu setzen. Es konnte leicht geschehen, dass auch viele der früheren Eigentümer ihren Platz in der neuen Ordnung fanden. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bedeutung der Abenteuerzüge sowie der Schlacht bei Bratislava (Pressburg) im Jahr 907 liegt darin, dass sie eine ausreichende Gnadenfrist verschafften, in der es gelang, bis zum Ende des 10. Jahrhunderts aus Pannonien einen konsolidierten Staat zu formen, und auch die Beherrschung des östlichen Teils des Karpatenbeckens an die Reihe kommen konnte. In den östlichen Territorien, wo die Grundlagen des Christentums und des Feudalismus fehlten, fiel der Schwerpunkt der Arbeit an der Erweiterung des Reiches schon den Nachkommen der arpadischen Staatsgründer aus dem 11. Jahrhundert zu: den Prinzen Béla, Géza und Ladislaus. Die Genannten – aus dem Königreich verdrängt – waren gezwungen, in diesen barbarischen und heidnischen Gebieten auszuharren, hier ihre Macht aufzubauen und so die Grenzen des ungarischen Staates zu erweitern, im Unterschied zu ihren königlichen Verwandten, die im konsolidierten westlichen Teil des Staates die Früchte der Vorfahren – der Staatsgründer – genossen. Erst in der Mitte des 11. Jahrhunderts, nach den dynastischen Konflikten innerhalb der Arpadenfamilie, dehnte sich der christliche Feudalstaat auch auf die östlichen Gebiete des Karpatenbeckens aus. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist klar zu sehen, dass die wichtigste Fähigkeit nicht das Erobern ist, sondern die Anpassung, und zwar sowohl für die ursprünglich hier lebende Bevölkerung als auch für die Eroberer und ihre Führung. Auch nach dem Darwinismus: Das Leben bewahrt nicht der Stärkste, Schnellste oder Klügste, sondern derjenige, der sich den wechselnden Bedingungen am besten anzupassen vermag. Diese Fähigkeit zur Anpassung existierte auch im mittelalterlichen ungarischen Staat. Er nahm Gäste – Zuwanderer – auf und förderte sie, stellte dementsprechend (manchmal erfolgreicher, manchmal weniger) die Staatsmaschinerie neu ein, und es gelang, die staatliche Integrität durchgehend zu bewahren. Die Entwicklung eines bürgerlichen Bewusstseins auf dem Niveau der westlichen Länder verzögerte sich zwar, auch der Mangel an Veränderungen in der Infrastruktur führte zu einem Zurückbleiben hinter den Ländern Westeuropas, doch als verhängnisvoller Schlag mit unumkehrbaren Folgen erwies sich erst der türkische Einfall und die darauffolgende Teilung des Landes. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu unserem tragischen Mond wurde für uns die fehlerhafte Interpretation der Landnahme, die zum Dogma versteinerte. Freilich wäre Asimov kein wahrer Intellektueller, wenn er nicht auch einen sich selbst antwortenden Essay mit dem Titel „Der Sieg des Mondes“ geschrieben hätte, in dem er nachwies, dass auch das Leben auf dem Festland seine Existenz diesem die Erde umkreisenden Himmelskörper verdankt, genauer gesagt den von ihm hervorgerufenen Gezeiten. Wir können jedoch nicht derart optimistisch sein: In unserer falschen Geschichtsauffassung ist nicht einmal eine Spur eines Sieges zu finden. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Übersetzung: Kveta M."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

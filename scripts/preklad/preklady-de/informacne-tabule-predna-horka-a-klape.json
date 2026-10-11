@@ -1,0 +1,48 @@
+{
+ "slug": "informacne-tabule-predna-horka-a-klape",
+ "data": {
+  "title": "Informationstafeln Predná Hôrka und Klapy",
+  "slug": "informationstafeln-predna-horka-klapy",
+  "excerpt": "Am 30. 10. 2018 wurde in Jasenica und Udiča ein Lehrpfad eröffnet. Zu ihm gehören auch zwei Tafeln, die unser Verein Hradiská erarbeitet hat: Die eine ist der kleinen Höhenburg Predná Hôrka der Púchov-Kultur in Jasenica gewidmet, die zweite der befestigten Höhensiedlung aus derselben Zeit auf dem Berg Klapy. Organisiert hat das Projekt Herr Štefan Žilovec mit kräftiger Hilfe der Bürgermeister der beteiligten Gemeinden.",
+  "metaTitle": "Informationstafeln Predná Hôrka und Klapy (Jasenica, Udiča)",
+  "metaDescription": "Im Jahr 2018 stellte der Verein Hradiská am Lehrpfad Jasenica–Udiča zwei Tafeln zu den Befestigungen der Púchov-Kultur Predná Hôrka und Klapy auf.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "zwei Tafeln am Lehrpfad Jasenica–Udiča (Predná Hôrka, Klapy)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "30. 10. 2018",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2018",
+    "title": "Tafeln Predná Hôrka und Klapy",
+    "description": "Eröffnung des Lehrpfads; Púchov-Kultur.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 30. 10. 2018 wurde in Jasenica und Udiča ein Lehrpfad eröffnet. Zu ihm gehören auch zwei Tafeln, die unser Verein Hradiská erarbeitet hat. Die eine ist der kleinen Höhenburg Predná Hôrka der Púchov-Kultur in Jasenica gewidmet, die zweite der befestigten Höhensiedlung aus derselben Zeit auf dem Berg Klapy. Organisiert hat das Projekt Herr Štefan Žilovec mit kräftiger Hilfe der Bürgermeister der beteiligten Gemeinden, wofür ihnen allen großer Dank gebührt. Zur feierlichen Eröffnung des Lehrpfads kamen Herr Štefan Meliš, der die kleine Höhenburg Predná Hôrka vor vielen Jahrzehnten entdeckt hat, sowie Ladislav Janech mit einer Ausstellung von Artefakten aus seinem Museum. Es war eine ausgezeichnete und entspannte Veranstaltung mit großer Beteiligung der Öffentlichkeit. Wir danken."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

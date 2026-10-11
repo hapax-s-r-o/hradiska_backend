@@ -3,9 +3,9 @@
  "data": {
   "title": "Eine Siedlung aus der Jungsteinzeit – die Lengyel-Kultur in 3D",
   "slug": "siedlung-jungsteinzeit-lengyel-kultur-3d",
-  "excerpt": "Die Epoche des Neolithikums fasziniert Forscher und Geschichtsinteressierte seit Jahrzehnten: in der „neolithischen Revolution“ ging der Mensch vom Leben der Jäger und Sammler zur sesshaften, bäuerlichen Lebensweise über. Unsere ideale Rekonstruktion zeigt eine kleine Siedlung der Lengyel-Kultur vom Beginn des 5. Jahrtausends v. Chr. – mit bemalten Hauswänden, Fenstern, Götzen, einem Heiligtum und einem Rondell im Hintergrund.",
+  "excerpt": "Die Epoche des Neolithikums fasziniert Forscher und Geschichtsinteressierte seit Jahrzehnten: in der „neolithischen Revolution“ ging der Mensch vom Leben der Jäger und Sammler zur sesshaften, bäuerlichen Lebensweise über. Unsere ideale Rekonstruktion zeigt eine kleine Siedlung der Lengyel-Kultur vom Beginn des 5. Jahrtausends v. Chr. – mit bemalten Hauswänden, Fenstern, Götzen, einem Heiligtum und einer Kreisgrabenanlage im Hintergrund.",
   "metaTitle": "Siedlung aus der Jungsteinzeit – das Neolithikum in 3D",
-  "metaDescription": "Eine 3D-Rekonstruktion einer Siedlung der Lengyel-Kultur vom Beginn des 5. Jahrtausends v. Chr. – mit bemalten Häusern, Götzen, Heiligtum und Rondell.",
+  "metaDescription": "Eine 3D-Rekonstruktion einer Siedlung der Lengyel-Kultur vom Beginn des 5. Jahrtausends v. Chr. – mit bemalten Häusern, Götzen, Heiligtum und Kreisgrabenanlage.",
   "keyFacts": [
    {
     "label": "Kultur",
@@ -19,7 +19,7 @@
    },
    {
     "label": "Dargestellte Elemente",
-    "value": "bemalte Hauswände, Fenster, Götzen, Heiligtum, kreisförmiges Rondell",
+    "value": "bemalte Hauswände, Fenster, Götzen, Heiligtum, Kreisgrabenanlage",
     "icon": "building"
    }
   ],
@@ -61,7 +61,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Was jedoch nicht weniger faszinierend ist, ist der enorme Fortschritt in den Technologien. Unsere neolithischen Vorfahren konnten zum Beispiel große und für den Bau in jener Zeit außerordentlich aufwendige neolithische Langhäuser errichten. Die Keramik aus der Zeit des Neolithikums hat oft sehr schöne Formen und vor allem eine außergewöhnliche Verzierung, wie wir sie häufig nicht einmal einige Jahrtausende später finden. Auch die Herstellung landwirtschaftlicher und handwerklicher Geräte aus Stein erreichte in jener Zeit ihren Höhepunkt. Nicht zuletzt kam es auch zu großen Veränderungen in der Religion, wovon die riesigen neolithischen Heiligtümer und kreisförmigen Befestigungen, Rondelle genannt, Zeugnis geben. "
+        "text": "Was jedoch nicht weniger faszinierend ist, ist der enorme Fortschritt in den Technologien. Unsere neolithischen Vorfahren konnten zum Beispiel große und für den Bau in jener Zeit außerordentlich aufwendige neolithische Langhäuser errichten. Die Keramik aus der Zeit des Neolithikums hat oft sehr schöne Formen und vor allem eine außergewöhnliche Verzierung, wie wir sie häufig nicht einmal einige Jahrtausende später finden. Auch die Herstellung landwirtschaftlicher und handwerklicher Geräte aus Stein erreichte in jener Zeit ihren Höhepunkt. Nicht zuletzt kam es auch zu großen Veränderungen in der Religion, wovon die riesigen neolithischen Heiligtümer und kreisförmigen Befestigungen, Kreisgrabenanlagen genannt, Zeugnis geben. "
        }
       ]
      }
@@ -95,7 +95,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Diese uralte Epoche, die von heute aus mehrere Jahrtausende entfernt ist, versuchen wir Ihnen mit unserer idealen Rekonstruktion einer kleinen Siedlung aus dem Neolithikum (Lengyel-Kultur, Beginn des 5. Jahrtausends v. Chr.) in einer Gestalt näherzubringen, in der sie bisher noch niemand in einer 3D-Animation dargestellt hat. Wir haben farbige Malereien an den Wänden der Häuser, Fenster, Götzen und ein Heiligtum verwendet, und im Hintergrund können Sie ein Rondell und weitere interessante Elemente bemerken. Bitte sehr, treten Sie in die Zeitmaschine ein und lassen Sie sich 7 Jahrtausende zurückversetzen...\n \n "
+        "text": "Diese uralte Epoche, die von heute aus mehrere Jahrtausende entfernt ist, versuchen wir Ihnen mit unserer idealen Rekonstruktion einer kleinen Siedlung aus dem Neolithikum (Lengyel-Kultur, Beginn des 5. Jahrtausends v. Chr.) in einer Gestalt näherzubringen, in der sie bisher noch niemand in einer 3D-Animation dargestellt hat. Wir haben farbige Malereien an den Wänden der Häuser, Fenster, Götzen und ein Heiligtum verwendet, und im Hintergrund können Sie eine Kreisgrabenanlage und weitere interessante Elemente bemerken. Bitte sehr, treten Sie in die Zeitmaschine ein und lassen Sie sich 7 Jahrtausende zurückversetzen...\n \n "
        }
       ]
      }

@@ -1,0 +1,359 @@
+{
+ "slug": "robert-muller-okolie-rieky-zala-v-8-10-storoci",
+ "data": {
+  "title": "Robert Müller: Die Umgebung des Flusses Zala im 8.–10. Jahrhundert",
+  "slug": "robert-mueller-umgebung-der-zala-8-10-jahrhundert",
+  "excerpt": "Robert Müller führt durch das ethnisch bunte Bild an der unteren Zala: die Keszthely-Kultur als Rest der spätantiken Bevölkerung, die birituellen Gräberfelder der Gruppe Pókaszepetk-Zalakomár und schließlich die Siedlungsagglomeration von Mosaburg (Zalavár), die nach 840 um Pribinas Fürstenhof entstand. Die Übersetzung verdanken wir unserer Mitarbeiterin Kvetka M.",
+  "metaTitle": "Robert Müller: Die Umgebung der Zala im 8.–10. Jahrhundert",
+  "metaDescription": "Vortrag von Robert Müller über die Besiedlung und die Burgwälle an der Zala am Plattensee im 8.–10. Jahrhundert – von der Awarenzeit bis zur Landnahme.",
+  "keyFacts": [
+   {
+    "label": "Region",
+    "value": "Südwestliches Transdanubien, Umgebung des Flusses Zala (heutiges Ungarn)",
+    "icon": "map"
+   },
+   {
+    "label": "Zeitstellung",
+    "value": "8.–10. Jahrhundert",
+    "icon": "calendar"
+   },
+   {
+    "label": "Zentrale Fundstelle",
+    "value": "Mosaburg/Zalavár – Fürstenhof und Siedlungsagglomeration",
+    "icon": "building"
+   },
+   {
+    "label": "Zentrale Persönlichkeit",
+    "value": "Pribina, der um 840 das Gebiet an der Zala zu Lehen erhielt",
+    "icon": "crown"
+   },
+   {
+    "label": "Hauptquelle",
+    "value": "Conversio Bagoariorum et Carantanorum (CBC), um 870 in Salzburg niedergeschrieben",
+    "icon": "scroll"
+   },
+   {
+    "label": "Autor der Studie",
+    "value": "Robert Müller (Übersetzung: Kvetka M.)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "568",
+    "title": "Die Awaren beherrschen Transdanubien",
+    "description": "Nach der Beherrschung Transdanubiens durch die Awaren schlossen sich der Keszthely-Kultur Bevölkerungsgruppen aus dem byzantinischen Raum und wahrscheinlich auch Germanen an.",
+    "type": "event"
+   },
+   {
+    "year": "um 630",
+    "title": "Untergang der Führungsschicht in Keszthely-Fenékpuszta",
+    "description": "Die Führungsschicht der Keszthely-Kultur stellte sich in den inneren Kämpfen der Awaren auf die unterlegene Seite; die Awaren machten ihre Befestigung dem Boden gleich und die Überlebenden wurden nach Keszthely umgesiedelt.",
+    "type": "event"
+   },
+   {
+    "year": "602",
+    "title": "Feldzug der Awaren unter Apsich gegen die Anten",
+    "description": "Von diesem Feldzug brachten die Awaren gefangene Du(d)leben mit und siedelten sie in der Umgebung der Zala an; für sie wurden birituelle Gräberfelder angelegt.",
+    "type": "event"
+   },
+   {
+    "year": "791",
+    "title": "Veränderung der Lage nach dem Feldzug Karls des Großen",
+    "description": "Ab dem Jahr 791, nach dem erfolgreichen Feldzug Karls des Großen gegen die Awaren, treten die ersten Schriftquellen über das Geschehen in der Region auf.",
+    "type": "event"
+   },
+   {
+    "year": "796",
+    "title": "Konferenz über die Bekehrung der Awaren zum Christentum",
+    "description": "Pippin veranstaltete an der Donau eine Konferenz unter Teilnahme des Patriarchen von Aquileia und des Bischofs von Salzburg über die künftige Bekehrung der Awaren.",
+    "type": "event"
+   },
+   {
+    "year": "um 840",
+    "title": "Pribina erhält die Herrschaft an der Zala",
+    "description": "Laut der Conversio Bagoariorum et Carantanorum erhielt Pribina ein Gebiet in Niederpannonien am Fluss Zala zu Lehen, baute sich dort eine Befestigung und wurde ein großer Herr in jenem Land.",
+    "type": "event"
+   },
+   {
+    "year": "um 864",
+    "title": "Weihe der Kirche des hl. Stephan, des Märtyrers",
+    "description": "Zu Weihnachten weihte Erzbischof Adalwin auf dem Besitz Wittimars eine Kirche zu Ehren des hl. Stephan, des Märtyrers.",
+    "type": "event"
+   },
+   {
+    "year": "um 870",
+    "title": "Entstehung der Conversio Bagoariorum et Carantanorum",
+    "description": "In Salzburg wurde die Chronik Conversio Bagoariorum et Carantanorum (CBC) niedergeschrieben, die wichtigste Quelle für dieses Gebiet.",
+    "type": "event"
+   },
+   {
+    "year": "907",
+    "title": "Schlacht bei Bratislava",
+    "description": "Nach der Schlacht bei Bratislava geriet das ganze Transdanubien unter ungarische Herrschaft.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6436,
+    "alt": "Federzeichnung von Reitern in Rüstung, die auf zwei Burgwälle mit Palisaden und aufsteigendem Rauch blicken"
+   },
+   {
+    "mediaId": 4523,
+    "caption": "Fundstellen aus der Awarenzeit",
+    "alt": "Fundstellen aus der Awarenzeit"
+   },
+   {
+    "mediaId": 4524,
+    "caption": "Fundstellen aus der karolingischen Zeit",
+    "alt": "Fundstellen aus der karolingischen Zeit"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Hilfe unserer Mitarbeiterin Kvetka M. bringen wir Ihnen die Übersetzung eines weiteren Artikels aus der Erforschung der slawischen Besiedlung und der Burgwälle im Gebiet des Plattensees in Ungarn. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Robert Müller: Die Umgebung des Flusses Zala im 8.–10. Jahrhundert"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Vortrag werde ich mich mit den archäologischen Denkmälern aus dem südwestlichen Transdanubien, aus der Umgebung des Flusses Zala, vom 8. bis zum 10. Jahrhundert befassen. Die Zala ist der größte Fluss, der in den Plattensee mündet, und sie fließt an seinem westlichen Ende in ihn ein. Die natürlichen Bedingungen waren in den letzten Jahrhunderten des ersten Jahrtausends völlig anders als die heutigen. In der späteren Phase der Völkerwanderungszeit gab es eine Trockenperiode, während der der Wasserstand des Plattensees deutlich niedriger lag – davon zeugt die Siedlung des 8. Jahrhunderts in Fonyód-Békatelep, die etwa 2 m unter dem heutigen Niveau liegt (Gyulai, 1987, 124). Das westliche Seebecken bildete das heutige Gebiet des Kleinen Plattensees mit offenem Wasser, doch die nördliche Bucht in Richtung Hévíz war schon in jener Zeit in ein Moor verwandelt und so weit ausgetrocknet, dass durch sie der Weg von Keszthely nach Westen zu den niedrigen Hügeln bei Zalavár führte. Die Fähre am Ende der Halbinsel bei Fenékpuszta verlor so an Bedeutung. Im 8. Jahrhundert wurde Keszthely zum neuen Zentrum, und der Fernhandelsweg führte über Balatonhídvég, dort, wo die Zala in den See mündete."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Ende des 8. Jahrhunderts bot dieses Gebiet ein eigenartiges und ethnisch sehr buntes Bild, wobei der Fluss Zala eine Art Grenze bildete. Die Umgebung von Keszthely war schon seit römischer Zeit kontinuierlich bewohnt. Hier, in einem Umkreis von etwa 30 km, liegen die Gräberfelder der sogenannten Keszthely-Kultur, deren Träger zum Rest der spätantiken Bevölkerung gehörten, zu der sich nach der Beherrschung Transdanubiens durch die Awaren (568) verschiedene Menschengruppen aus dem byzantinischen Raum hinzugesellten; wahrscheinlich wurden hier auch Germanen angesiedelt (oder sie wanderten zu) (Müller, 1992, 253-254, 278). Diese christliche Bevölkerung lebte hier verhältnismäßig unabhängig im Randgebiet des frühawarischen Khaganats. Die herrschende Schicht lebte in der Befestigung in Keszthely-Fenékpuszta (Sági, 1961, Barkóczi, 1968) und unterhielt wahrscheinlich regelmäßige Kontakte zum Balkan und zu Norditalien. Um das Jahr 630 stellte sich diese Führungsschicht während der inneren Kämpfe im Awarenreich auf die später unterlegene Seite. Die Strafe blieb nicht aus: Die siegreichen Awaren eroberten die Festung, machten sie dem Boden gleich, und die hier bis dahin herrschende Schicht verschwand. Die Überlebenden wurden nach Keszthely umgesiedelt (Kovrig, 1958, 68-72). Das Volk der Keszthely-Kultur geriet unter die militärische Oberherrschaft der Awaren, und die Awaren begannen auch dieses Gebiet zu besiedeln. Zum Zentrum des militärischen Kommandos wurde Gyenesdiás (Müller, 1989) östlich von Keszthely. In der mittel- und spätawarischen Zeit, als sich die Grenzen des Awarenreiches nach Westen und Südwesten verschoben, geriet diese christliche Bevölkerung in das Innere des Reiches und war von der Außenwelt isoliert. Sie konnte mit dem Wandel der Mode im christlichen Europa nicht Schritt halten, und so kopierten ihre Handwerker fortwährend nur älteren Schmuck, der allmählich größer und gröber wurde. Am Ende des 8. Jahrhunderts erreichten die körbchenförmigen Ohrringe manchmal einen Durchmesser von bis zu 8 cm, die Stilusnadeln waren nicht selten länger als 30 cm. Die Scheibenfibeln mit christlicher Thematik verschwanden, dafür verbreiteten sich als etwas Neues Armringe mit Schlangenkopfende. Solches Material fand sich auf mindestens 14 Gräberfeldern, daher ist die Bezeichnung Keszthely-Kultur berechtigt (Kovrig, 1958, 1960, Müller, 1992). Die meisten dieser Gräberfelder nutzten sie gemeinsam mit den Awaren, doch innerhalb des Gräberfeldes lagen diese Gräber in einem anderen Bereich. Das bedeutet, dass sie über Jahrhunderte hinweg ihre ethnische Identität bewahren konnten, was sich durch ihren christlichen Glauben erklären lässt. Ihr Begräbnisritus unterscheidet sich völlig vom awarischen; sie übernahmen nur wenige Schmucktypen (z. B. Perlen in Form von Melonenkernen, einige Ohrringtypen, Drahtarmringe). Neben den gemeinsamen Gräberfeldern finden wir auch rein awarische Gräberfelder, wie z. B. in Gyenesdiás. Die Gesamtzahl der hiesigen Gemeinschaft war nicht groß, doch gegen Ende des 8. Jahrhunderts wuchs die Zahl der hier Bestatteten erheblich."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und nicht nur hier! Westlich des Flusses Zala entwickelten sich die Siedlungen völlig anders. Dieses Gebiet blieb seit römischer Zeit praktisch unbesiedelt. Am Anfang des 7. Jahrhunderts legte man hier dann Gräberfelder an, die für die Zeit der Awaren im Karpatenbogen geradezu ungewöhnlich sind. Diese Gräberfelder sind nämlich birituell und gehören zur Gruppe Pókaszepetk-Zalakomár (Szőke, 1994, 14-20, Cs. Sós – Salamon, 1995). Die verbrannten Überreste in den Brandgräbern lagen teils in Urnen, teils ohne Urne; es traten auch Fälle einer teilweisen Verbrennung des Toten sowie birituelle Gräber auf. Die Funde verraten, dass man den Toten bekleidet und mit Schmuck (Zierstücken) auf den Holzstoß legte. Manchmal legte man nach der Verbrennung noch weitere Beigaben in die Gräber. Die Körpergräber sind typisch frühawarisch mit den üblichen Beigaben, nur einige Gepflogenheiten können wir als ungewöhnlich ansehen: Die Gürtel sind oft mit gegossenen sogenannten byzantinischen Schnallen abgeschlossen, und metallene Beschläge sind selten. Häufig treten Doppelgräber eines Mannes mit einer Frau auf („Witwenopfer“), manchmal sind in einem Grab bis zu drei Personen bestattet. Auch am Pferdegeschirr treten geschmiedete (getriebene?) Metallteile nur selten auf, wobei es ungewöhnlich ist, dass man bei vielen Pferden ein Tongefäß auf den Sattel legte. Man nimmt an, dass diese Gräberfelder für Awaren und Slawen angelegt wurden, nachdem die Awaren im Jahr 602 unter der Führung des Apsich gegen die Anten gezogen waren; von diesem Feldzug brachten sie gefangene Du(d)leben hierher und siedelten sie hier an (Szőke, 1992, 139-143). Um 670–680 wurden diese Gräberfelder aufgegeben, und diese Bevölkerung kehrte erst nach etwa einem Jahrhundert zurück. Die meisten Gräberfelder wurden dann wieder benutzt, und es gab dort birituelle Gräber."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem 8. Jahrhundert kennen wir fast keine Schriftquellen über die Awaren. Die Situation ändert sich ab dem Jahr 791, nach dem erfolgreichen Feldzug Karls des Großen gegen die Awaren. Wir können annehmen, dass, als Pippin im Jahr 796 an der Donau in Anwesenheit des Patriarchen von Aquileia und des Bischofs von Salzburg eine Konferenz über die künftige Bekehrung der Awaren veranstaltete, wobei von Christen die Rede war, die zusammen mit ihren Priestern unter den Awaren lebten, damit teilweise auch die Bevölkerung mit der Keszthely-Kultur gemeint war. Die Slawen, die zwischen den Flüssen Zala und Mur lebten, lassen sich auch anhand von Quellen des 9. Jahrhunderts identifizieren, in denen Ortsnamen dieses Gebietes wie Tudleipin, Dudleipa erwähnt werden. Die wichtigste Quelle für dieses Gebiet ist die Conversio Bagoariorum et Carantanorum (im Folgenden CBC), um 870 in Salzburg niedergeschrieben; sie befasst sich hauptsächlich mit den Ereignissen in der Umgebung von Zalavár."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die großen Veränderungen in den politischen und Machtverhältnissen nach dem Zerfall des Awarenreiches spiegelten sich in der Geschichte der hiesigen Siedlungen erst später wider. Die vorher benutzten Gräberfelder wurden zunächst weiter genutzt. Bei den Grabbeigaben ist jedoch schon eine Veränderung zu sehen. Die Gräber sind immer ärmer, in den awarischen Männergräbern finden wir immer weniger verzierte (getriebene) Gürtel, schließlich verschwinden die verzierten Gürtel völlig. Auch in den Frauengräbern treten immer häufiger einfache Drahtohrringe mit mehrfacher S-förmiger Endung oder mit Spiralanhänger auf, ferner erscheinen auch aus dem Westen importierte Stücke. Nur einige Kriegergräber sind reich ausgestattet, besonders eine Gruppe reicher Gräber aus dem am Ende des 8. Jahrhunderts angelegten Gräberfeld bei Vörs-Papkert B (Költő-Szentpéteri, 1990, 69-78)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Gräberfelder der Keszthely-Kultur wurden am ehesten noch vor dem Ende des ersten Drittels des 9. Jahrhunderts aufgegeben. Das hängt sicher auch damit zusammen, dass sich die hiesige christliche Bevölkerung dank ihrer Traditionen viel leichter an die neue Situation anpasste und kurz nach dem Beginn der Arbeit der Missionare aus Salzburg ihre eigentümlichen Trachten aufgab und ihre Toten nach westlicher Weise meist ohne Grabausstattung um die neu errichteten Kirchen bestattete. Damit werden sie für die Archäologie schwerer verfolgbar. Wie lange die awarischen Gräberfelder weiter benutzt werden konnten, ist umstritten. Neben der Ansicht, sie seien bis zur Mitte des 9. Jahrhunderts benutzt worden (Szőke, 1992b), können wir uns auch vorstellen, dass sie schon vor der Entstehung der Siedlungsagglomeration in Zalavár aufgegeben wurden. Einige arme Gräberfelder legten erst am Anfang des 9. Jahrhunderts zugewanderte Menschengruppen an, wie z. B. in Balatonszentgyörgy (Müller, 1994a, 66-67)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Große Veränderungen treten um das Jahr 840 mit dem Auftreten und Wirken Pribinas ein. Wie die CBC schreibt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Inzwischen gab…der König…dem Priwina jenen Teil Niederpannoniens zu Lehen, der am Fluss Sala liegt. Daraufhin ließ er sich dort nieder, errichtete sich in den sumpfigen Wäldern an der Sala eine Befestigung, sammelte Volk um sich und wurde ein großer Herr in jenem Land.",
+    "author": "Conversio Bagoariorum et Carantanorum",
+    "source": "CBC 11; Wolfram, 1979, S. 53"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Wirklichkeit verfügen wir heute über keine exakten Angaben darüber, ob das sumpfige Gebiet am Unterlauf der Zala, die einzelnen Inseln und die Uferstreifen schon vor dem Jahr 840 besiedelt waren. Das bedeutet gleichzeitig, dass die Auffindung der hier angelegten Gräberfelder und Siedlungen eine wichtige Rolle bei der absoluten Datierung mitteleuropäischer Funde des 9. Jahrhunderts spielt. Die regelmäßigen Ausgrabungen auf der Burginsel von Zalavár sowie viele notwendige Rettungsgrabungen im weiten Umkreis, die mit dem Projekt des Kleinen Plattensees zusammenhingen, haben ein detailliertes Bild der Siedlungsagglomeration in Zalavár (urbs paludarum) ergeben. Dieses Gebiet war nach dem Jahr 840 dicht besiedelt. Der Fürstenhof auf der Burginsel (Vársziget) Zalavár war durch eine mehrfach erneuerte Befestigung aus Balken mit einer Stein-Holz-Konstruktion geschützt. Im nördlichen Teil der Insel befand sich überdies eine Palisadenmauer, die offenbar den eigentlichen Hof Pribinas und Kocels umgrenzte. Innerhalb dieses Hofes befand sich eine dreischiffige Kirche mit halbrunder Apsis und einer großen Vorhalle an der Westseite (Westwerk). Zum Vorschein kamen auch Reste der Mauern einer Krypta mit kreisförmigem Grundriss. Unter dem Fußboden fanden sich Bruchstücke von vergoldetem und auch von farbigem Fensterglas, die eine gewisse Verwandtschaft mit dem Fensterglas aus Lorsch aufweisen. Die Identifizierung dieser großen Kirche ist umstritten; sie wird als Marienkirche (Cs. Sós, 1994, 87-90), aber auch als Kirche des hl. Hadrian (Szőke, 1994, 47) bezeichnet, beide werden in der CBC erwähnt. Im südlichen Teil der Insel stand ebenfalls eine dreischiffige Kirche, die in den letzten Jahrhunderten völlig verfiel. Ihren Grundriss kennen wir aus einer Vermessung des 16. Jahrhunderts, doch die Gräber um die Kirche zeugen davon, dass sie ebenfalls im 9. Jahrhundert erbaut wurde (Cs. Sós, 1963, 42-68). Die CBC erwähnt noch eine dritte Kirche, die dem hl. Johannes dem Täufer geweiht war. In diesem Fall sind die Forscher einig, dass es sich um die ebenfalls dreischiffige Kirche auf der Insel Récéskút handelt. Die Annahme, dass hier vor den steinernen Kirchen 2 hölzerne oder Stein-Holz-Kirchen gestanden hätten, wurde widerlegt (Szőke, 1976, 76-84). Südwestlich der Burginsel wurde ein Herrenhof (curtis) angelegt. Eine Palisadeneinfriedung mit quadratischem Grundriss schützte eine hölzerne Kirche und wahrscheinlich ein Herrenhaus in Fachwerkbauweise (Müller, 1994). Diesen Herrenhof können wir vielleicht mit dem Besitz Wittimars gleichsetzen, wo Erzbischof Adalwin zu Weihnachten des Jahres 864 eine Kirche dem hl. Stephan, dem Märtyrer, weihte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Um alle Kirchen lagen Friedhöfe, auf denen die Toten nach christlichem Brauch bestattet wurden. Das bedeutet, dass die überwiegende Mehrheit der Gräber ohne Beigaben war. Nur wenige Gräber enthielten Schmuck und Zierstücke, meist aus Edelmetall, in den Männergräbern Werkzeuge, Waffen oder Sporen. Speisebeigaben treten nur vereinzelt auf. Die besten Analogien zu dem gefundenen Schmuck kennen wir von großmährischen Gräberfeldern, doch es treten auch solche auf, die aus anderen Regionen stammen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Um das Zentrum von Mosaburg wurde dienendes Volk angesiedelt. Die Inseln und beide Flussufer waren im sumpfigen Gelände durch zahlreiche hölzerne Knüppelwege miteinander verbunden (Csalog, 1960). Ihre Gräberfelder haben einen völlig anderen Charakter. Sie liegen niemals um eine Kirche, und alle heidnischen Gepflogenheiten leben hier weiterhin stark fort (Müller – Szőke, 1989, 84-96, Müller, 1992a, Szőke, 1992a). Es scheint, dass einige Gräberfelder (Esztergályhorváti-Alsóbárándpuszta, Zalaszabar-Kisesztergály) in heidnischen heiligen Hainen angelegt wurden; in großen Kreisen mit einem Durchmesser von 10–15 m fehlen nämlich die Gräber, nur in einem einzigen Fall war gerade in der Mitte eines solchen Kreises ein Krüppel bestattet – dagegen verdichtet sich die Zahl der Gräber zu den Rändern der Kreise hin. Nahezu in jedem Grab lag eine Speise- oder Getränkebeigabe. Davon zeugen Geflügelknochen, Eier, seltener Knochen von Schwein, Rind oder Schaf/Ziege, ferner Keramikgefäße, Tafelkeramik mit geglätteter Oberfläche und kleine hölzerne Eimerchen. Der Schmuck ist dem auf den christlichen Friedhöfen ähnlich, besteht aber meist nur aus Bronze und nur selten aus Silber. Einige Gemeinschaften dienten auch mit der Waffe (Garabonc-Ófalu I.), was auch die in die Gräber gelegten Waffen belegen. Waffen fanden sich auch auf dem Gräberfeld bei Keszthely-Fenékpuszta, wo in der Mitte des 9. Jahrhunderts die Befestigung erneuert und vor ihrem Südtor ein Gräberfeld angelegt wurde. Auf diesem Gräberfeld kommen ebenfalls heidnische Gepflogenheiten zur Geltung (Cs. Sós, 1961), doch sie sind andere als auf den Gräberfeldern um Zalavár (Bóna, 1968, 119). Noch weiter entfernt, etwa 20 km westlich von Mosaburg-Zalavár, wurden auf dem Gräberfeld Alsórajk die Toten auch noch in der zweiten Hälfte des 9. Jahrhunderts birituell bestattet (Szőke, 1994, 49). Es zeigt sich, dass die spätawarische Bevölkerung in Vörs ihr Gräberfeld kontinuierlich bis zur Ankunft der Altungarn nutzte, wobei dabei auch mit der Ankunft (Zuwanderung) einer weiteren ethnischen Gruppe zu rechnen ist (Költő-Lengyel-Pap-Szentpéteri, 1992)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinsichtlich des 9. Jahrhunderts können wir feststellen, dass vor allem die Mehrzahl der vorher – manchmal erst am Ende des 8. Jahrhunderts – angelegten Gräberfelder weiterhin benutzt wird. Zuerst wurden die Gräberfelder der Keszthely-Kultur aufgegeben, später auch die Mehrzahl der rein awarischen oder awarisch-slawischen birituellen Gräberfelder. Die Umstrukturierung des Siedlungsnetzes konnte auch mit dem Aufbau des neuen Macht- und Verwaltungszentrums in Mosaburg-Zalavár zusammenhängen. Aufgrund der großen Zahl der Gräberfelder schließen wir, dass die Umgebung des Unterlaufs der Zala im 9. Jahrhundert sehr dicht besiedelt war. Neben den Nachkommen der ursprünglichen Bevölkerung dieser Region können wir anhand der Schriftquellen sowie anhand der mittelalterlichen geografischen Namen die Ankunft verschiedener ethnischer Gemeinschaften verfolgen, wie z. B. von Südslawen, Westslawen, Germanen. Das archäologische Material erlaubt es nicht, die ethnische Zugehörigkeit der genannten Gruppen und Gemeinschaften mit absoluter Sicherheit zu bestimmen, denn die überwiegende Mehrheit der Funde stellte Handelsware dar, die der allgemeinen mitteleuropäischen Mode jener Zeit entsprach, allerdings auch mit regionalen Besonderheiten. Viel mehr Ergebnisse können wir von anthropologisch-morphologischen und serologischen Untersuchungen erwarten. Das bisher bearbeitete osteologische Material zeugt davon, dass wir hier an der Zala außer mit den Nachkommen der ursprünglichen Bevölkerung aus der unmittelbaren Umgebung auch mit Gruppen rechnen müssen, die aus entfernteren Gebieten des Karpatenbeckens, aus Mähren, aus dem fränkischen Raum, aber auch aus Karantanien kamen, mit Südslawen (Timocanen und Abodriten), ja wir müssen sogar mit Bulgaren von der Donau rechnen (Éry, 1992, Szőke, 1994, 49-50)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir haben gesehen, dass sich der Zerfall des Awarenreiches im archäologischen Material vor allem indirekt widerspiegelte. Noch weniger Veränderungen ließen sich nach der großen Wende an der Wende vom 9. zum 10. Jahrhundert beobachten, als nach dem Jahr 900, später nach der Schlacht bei Bratislava (Pressburg) im Jahr 907, das ganze Transdanubien unter ungarische Herrschaft geriet. Die Siedlungen des 9. Jahrhunderts sind weiterhin bewohnt, und man benutzt auch deren Gräberfelder. Davon, dass die Führungsschicht aus der karolingischen Zeit verschwand, zeugen nur indirekte Anzeichen. Z. B. wurde beim Herrenhof auf der Insel Borjúállás die Palisadenmauer niedergerissen, und so stand der räumlichen Ausweitung des Gräberfeldes nichts mehr entgegen. Auf den Friedhöfen um die Kirchen nehmen auch heidnische Erscheinungen irgendwie zu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Tradition und den Quellen aus der Arpadenzeit nach fiel das Gebiet nördlich und westlich des Plattensees dem drittbedeutendsten ungarischen Stamm zu (Kál horka – einem der Heerführer Arpáds), dem Stamm Lád oder Vérbulcsú. Dennoch siedelten sich die Altungarn in diesem Gebiet zunächst nicht an. Allein auf dem Gräberfeld in Vörs fanden sich Gräber mit Funden, die für die Landnehmer typisch sind. Die spätkarolingische Bevölkerung lebte auch in der ersten Hälfte des 10. Jahrhunderts ruhig weiter. Wir wissen nicht, wann auf der Mehrzahl der Gräberfelder das Bestatten aufhörte. Eines ist sicher: Die charakteristischen Zierstücke des gemeinen Volkes, die sich etwa bis zur Mitte des 10. Jahrhunderts im ganzen Karpatenbecken verbreiteten, die sogenannte Bijelo-Brdo-Kultur, wurden auf den hiesigen Gräberfeldern nicht gefunden. Material der Bijelo-Brdo-Kultur ist nur von der Burginsel (Zalavár) bekannt, nur dort können wir mit Kontinuität rechnen. Doch auch bei den verlassenen Siedlungen lassen sich keine Spuren von Verwüstung beobachten. An den Orten, die die ursprüngliche Bevölkerung verließ, treten die Altungarn zunächst nicht auf. Erst im letzten Drittel des 10. Jahrhunderts treten die ersten Funde des ungarischen gemeinen Volkes auf, das sich aber nicht im sumpfigen Gelände auf den Inseln oder an den Flussufern ansiedelt, sondern auf den höher gelegenen Rücken sandiger Hügel (Müller, 1991, 171-172, Tettamanti, 1971, 244)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Müller, Robert: Die Umgebung des Zala Flusses im 8.-10. Jahrhundert. In: Central Europe in 8th-10th Centuries - Mitteleuropa im 8.-10. Jahrhundert. Bratislava, Ministry of Culture of the Slovak Republic - Slovak Academy of Sciences 1997, S. 74-80.",
+        "italic": true
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Übersetzung: Kvetka M.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

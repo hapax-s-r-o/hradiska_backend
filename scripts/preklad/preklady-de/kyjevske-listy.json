@@ -1,0 +1,855 @@
+{
+ "slug": "kyjevske-listy",
+ "data": {
+  "title": "Die Kiewer Blätter – die älteste altkirchenslawische Handschrift",
+  "slug": "kiewer-blaetter-aelteste-altkirchenslawische-handschrift",
+  "excerpt": "Datierung: nicht eindeutig, etwa Ende des 9. bis Anfang des 10. Jahrhunderts\nSieben Pergamentblätter mit 38 kurzen Gebeten in der ältesten erhaltenen Form der Glagoliza – und zugleich ein Schlüsselzeugnis für das Altkirchenslawische großmährischen Typs.",
+  "metaTitle": "Kiewer Blätter – älteste altkirchenslawische Handschrift",
+  "metaDescription": "Die Kiewer Blätter: sieben Pergamentblätter mit 38 Gebeten in glagolitischer Unziale, die älteste altkirchenslawische Handschrift mit zusammenhängendem Text.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Stanislava F.",
+    "icon": "book"
+   },
+   {
+    "label": "Handschrift",
+    "value": "Kiewer Blätter – 7 Pergamentblätter, glagolitische Unziale",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung",
+    "value": "Vorlage Ende des 9. – Anfang des 10. Jahrhunderts; Titelseite vor 986 nachgetragen",
+    "icon": "calendar"
+   },
+   {
+    "label": "Entdecker",
+    "value": "Archimandrit Antonin (Andrej Iwanowitsch Kapustin), 1872",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "868",
+    "title": "Mögliche Entstehung des Originals",
+    "description": "Nach R. Večerka und F. V. Mareš konnte das Original unmittelbar in der kyrillo-methodianischen Schule in Rom am Ende des Jahres 868 entstanden sein.",
+    "type": "event"
+   },
+   {
+    "year": "1817–1894",
+    "title": "Das Leben des Archimandriten Antonin",
+    "description": "Der Finder der Kiewer Blätter, Andrej Iwanowitsch Kapustin, wirkte in Athen und leitete später die russische Mission in Jerusalem.",
+    "type": "event"
+   },
+   {
+    "year": "1872",
+    "title": "Übergabe an die Kiewer Akademie",
+    "description": "Eine Aufschrift auf den Kiewer Blättern belegt die Übergabe der Handschrift an die Bibliothek der Kiewer Geistlichen Akademie am 2. Mai 1872.",
+    "type": "event"
+   },
+   {
+    "year": "vor 986",
+    "title": "Die Eintragung des Demetrius Sinaiticus",
+    "description": "Demetrius trug die einleitende Seite der Kiewer Blätter nach; die Datierung ergibt sich aus der Erwähnung des Igumen Aligernus von Montecassino, der im Jahr 986 starb.",
+    "type": "event"
+   },
+   {
+    "year": "1975",
+    "title": "Entdeckung einer Handschriftentruhe am Sinai",
+    "description": "Im Katharinenkloster entdeckte man während der Instandsetzung eines Turms eine Truhe mit beschädigten Handschriften in mehreren Sprachen, darunter in glagolitischer Schrift.",
+    "type": "event"
+   },
+   {
+    "year": "2007",
+    "title": "Untersuchung der Sinai-Handschriften",
+    "description": "Das Team von Heinz Miklas von der Universität Wien fotografierte und untersuchte die gefundenen glagolitischen Handschriften; dabei zeigte sich der Zusammenhang mit den Kiewer Blättern.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4208,
+    "alt": "Vier Beispiele mittelalterlicher Handschriften: die Kiewer Blätter, der Codex Zographensis, der Codex Assemanianus und der kroatische Codex Illirico 6"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sprache: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "altkirchenslawisch"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Schrift: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "glagolitische Unziale, der älteste erhaltene Typ"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Datierung: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "nicht eindeutig, etwa Ende des 9. bis Anfang des 10. Jahrhunderts"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Aufbewahrungsort: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "Bibliothek der Ukrainischen Akademie der Wissenschaften"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Fundort: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "Halbinsel Sinai, wohl das Katharinenkloster (der Finder gab den Fundort nicht an)"
+         }
+        ]
+       },
+       {
+        "type": "list-item",
+        "children": [
+         {
+          "type": "text",
+          "text": "Finder: ",
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "Archimandrit Antonin, Andrej Iwanowitsch Kapustin, * 12.8.1817 Baturino, Perm – † 24.3.1894, Jerusalem"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kiewer Blätter bestehen aus 7 Pergamentblättern mit den Maßen 15 cm × 11,5 cm. Der Schrift nach zu urteilen schrieben sie mehrere Schreiber. Die erste, einleitende Seite 1r wurde später, in jüngerer Zeit, nachgetragen. Die folgenden Seiten sind sprachlich älter als die erste Seite und sind in einer abweichenden Form der Glagoliza geschrieben. Überdies schrieb die Blätter 1v–2v bis zur siebten Zeile eine andere Hand als die übrigen Seiten. Die Kiewer Blätter weisen eine altertümliche Sprache und den ältesten erhaltenen Typ der Glagoliza auf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Inhalt der Kiewer Blätter"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Insgesamt enthalten sie 38 kurze Gebete. Die einleitende Seite 1r ist jünger; auf das leere Blatt wurden später ein Teil des Römerbriefes des Apostels Paulus und ein Gebet an Maria nachgetragen. Die älteren Blätter 1v–7v enthalten eine Messe für den hl. Clemens, es folgt eine Messe für die hl. Felicitas, deren Fest auf denselben Tag fällt, sechs Messen für jeden Tag und zwei Votivmessen: für die Märtyrer und für alle himmlischen Mächte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschrift oder Original"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie werden für die erste Abschrift eines glagolitischen Originals gehalten, das großmährischen Ursprungs gewesen sein soll. Es tauchen auch Ansichten auf, sie könnten unmittelbar in großmährischer Zeit geschrieben worden sein. Radoslav Večerka beschrieb die Kiewer Blätter als „Repräsentanten des Altkirchenslawischen großmährischen Typs“ und hält sie in Übereinstimmung mit F. V. Mareš unmittelbar für das Original aus der kyrillo-methodianischen Schule, das etwa Ende des Jahres 868 in Rom entstand.1 Die Handschrift ist weiterhin nicht genau datiert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Entdeckung, erste Geschichte: Archimandrit Antonin"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 1865 wurde Vater Antonin entsandt, um die Mission in Jerusalem zu leiten. Nur ungern verließ er Athen, jene Mission, an der er seit dem Abschluss seines Studiums an der Kiewer Geistlichen Akademie gewirkt hatte. In Athen widmete er sich neben seiner Mission aktiv archäologischen Forschungen, der Paläographie religiöser Inschriften in den Kirchen und der Entwicklung der griechischen Sprache. Die Ergebnisse veröffentlichte er; er ist Autor zahlreicher Studien. In Jerusalem widmete er alten Handschriften und der Kirchengeschichte große Aufmerksamkeit. Er setzte sich für religiöse Toleranz ein und ließ im Einklang mit seiner Missionstätigkeit mehrere Schulen errichten. Erhalten ist sein Tagebuch, in dem er seine Tätigkeit von August 1830 bis Januar 1894 beschrieb, und auch eine ausführliche Beschreibung der Bibliothek wertvoller Handschriften des Katharinenklosters am Sinai. Vor seinem Tod besuchte er den russischen Generalkonsul in Jerusalem, Sergej Wassiljewitsch Arsenjew, um die Überführung eines Teils der im Laufe seines Lebens erworbenen Gegenstände an verschiedene Institutionen in Russland zu veranlassen. So gelangten die 7 Pergamentblätter an die Kiewer Geistliche Akademie. Auf der obersten Seite der Kiewer Blätter steht eine Aufschrift in russischer Sprache: „An die Bibliothek der Kiewer Geistlichen Akademie, Jerusalem, 2. Mai 1872.“ Es wird angenommen, dass es sich um die Handschrift Vater Antonins handelt. 2 "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein neuer Fund, zweite Geschichte: Katharinenkloster, Sinai, Ägypten"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 25. Mai 1975 beaufsichtigte Archimandrit Sophronios die Instandsetzungsarbeiten im Schutt des alten, teilweise eingestürzten Turms der Nordmauer des Klosters. Die Arbeiter mussten eine Wand durchbrechen und entdeckten unerwartet einen kleinen Raum und darin eine Truhe voll beschädigter Handschriften in mehreren Sprachen: griechisch, arabisch, syrisch, hebräisch, lateinisch, äthiopisch, slawisch. Die älteste griechische stammte aus dem 4. Jahrhundert n. Chr.; eine weitere, in kaukasischem Albanisch geschriebene Handschrift ist die überhaupt einzige in dieser Sprache erhaltene. Gefunden wurden auch Teile einer Handschrift der Ilias Homers aus dem 9. Jahrhundert und mit glagolitischer Schrift beschriebene Pergamente. Es zeigte sich, dass der Raum jahrhundertelang als Lager alter Handschriften gedient hatte. Zu Beginn des 19. Jahrhunderts wurden die Handschriften in die neue Klosterbibliothek überführt, und die beschädigten Handschriften blieben in der Truhe. Anschließend wurde die Halbinsel Sinai von einem Erdbeben getroffen, die Decke des kleinen Raumes stürzte ein und die Truhe blieb vergessen. 3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Dritte Geschichte: Demetrius"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die 1975 gefundenen unbekannten beschädigten glagolitischen Handschriften wurden im Jahr 2007 am Sinai mit der Technik der Österreichischen Akademie der Wissenschaften fotografiert und von einem Team um Heinz Miklas von der Universität Wien untersucht. Es zeigte sich ein Zusammenhang der Texte mit den Kiewer Blättern. Dieselbe Hand schrieb die einleitende Seite der Kiewer Blätter wie auch die Sinai-Handschriften mit den Signaturen Sin. Slav. 3/N und Sin. Slav. 5/N. Derselbe Mensch schrieb in diesen Denkmälern aber auch kyrillisch und griechisch. Im Kodex Sin. Slav. 3/N ist der Name Demetrius angeführt, und die Handschrift erhielt die Bezeichnung Psalterium Demetrii Sinaitici. Die später nachgetragene einleitende Seite der Kiewer Blätter bekam damit einen Verfasser. Demetrius schrieb auch den als Sin. Slav. 5/N bezeichneten Kodex, und in ihm findet sich ein Gebet für Aligernus. Wenn es sich um Aligernus, den Igumen von Montecassino, handelt, so starb dieser im Jahr 986. Vor diesem Jahr konnte Demetrius den Kodex also nicht geschrieben haben. 4,5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Sprachwissenschaft",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die altkirchenslawische Sprache wurde auf einem weiteren Gebiet verwendet, nicht nur in Großmähren, und auch noch längere Zeit nach der Vertreibung der Schüler Methods. Altkirchenslawisch und die glagolitische Schrift benutzte z. B. das böhmische Kloster Sázava, ebenso die Klöster des bulgarisch-makedonischen Raumes und die Schreiberschule beim Kloster Ohrid. Eine der Aufgaben der Slawistik bzw. der Paläoslawistik ist es, solche Wörter oder grammatischen Formen zu finden, die nur auf dem Gebiet Großmährens und nirgends sonst gebraucht wurden. Enthält eine Handschrift sie, wäre das ein Beweis, dass sie in Großmähren geschrieben wurde, wenn… Wenn das Abschreiben nicht die einzige Möglichkeit der Verbreitung von Büchern wäre. Ein Kodex mit der Sprache Großmährens kann auch nur eine genaue, um mehrere Jahrhunderte jüngere Abschrift sein. Der Überlegungen gibt es viele, in den folgenden ist sich die heutige Sprachwissenschaft jedoch einig. Die Merkmale des großmährischen Ursprungs der Vorlage der Kiewer Blätter sind:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Der großmährische Kulturkreis verwendete „šč“ dort, wo der übrige altkirchenslawische Kreis „št“ verwendete. Zum Beispiel sind die in den Kiewer Blättern aufgezeichneten Wörter „zaščiti, očiščenie“ großmährisch; die altkirchenslawischen Handschriften verwendeten „zaštiti“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Allein der Sprache Großmährens eigen ist die Wortform „cirЪky“ mit „cir“. Im Altkirchenslawischen lautet die Form „crЬky“. Diese Form mit „i“ ist im kajkawischen Kroatisch, im östlichen Slowenischen und im Altpolnischen verbreitet. Das Alttschechische hatte die Form ciérkev."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "3. Großmähren eigen ist auch die Form des Instrumentals Singular Maskulinum mit der Endung „ЪmЬ“. Z. B. „nadЪ oplatЪmЬ“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ebenso der Instrumental Singular Femininum mit der Endung „ojǫ“. Zum Beispiel: silojǫ, slavojǫ.6"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "4. Neben den oben genannten hält Radoslav Večerka für Moravismen: die genaue Einhaltung des Gebrauchs der Jers sowie die Bewahrung und Unterscheidung der Nasalvokale. Er räumt ein, dass eine sichere Entscheidung schwerfällt, hält aber folgende Wörter für großmährisch: rěsnota – Wahrheit, ašut – umsonst, vergeblich, inokostЬ – Verbannung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Paläographie",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kiewer Blätter schrieben mehrere Schreiber und in verschiedenen Zeiten. Die einleitende Seite 1r, ursprünglich leer, wurde später nachgetragen; der Verfasser wurde Demetrius Sinaiticus genannt. Die folgenden Seiten sind älter, doch auch dort sind mindestens zwei Schreiber zu erkennen. 1v–2v:7, d. h. die erste Seite und die zweite Seite bis zur 7. Zeile schrieb Schreiber A, die übrigen Schreiber B, beide unbekannt. Die Blätter enthalten viele Abkürzungen und Zeichen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "1. Am häufigsten kürzten sie durch Zusammenziehung der Wörter (per contractionem); über das gekürzte Wort schrieben sie einen Strich – die Titla. Zum Beispiel: das Wort Bože kürzten sie zu „bže“, das Wort gospodi zu „gi“."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2. Sie kürzten durch die sogenannte Ligatur: ein Teil des vorangehenden Buchstabens ist Bestandteil des folgenden Buchstabens. Diese Abkürzung findet sich auf der einleitenden, später nachgetragenen Seite 1r (d. h. recto). Im Wort „pomom“ = beten wir. Der Buchstabe L ist über das Wort geschrieben und mit dem Buchstaben M verbunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeichen in den Kiewer Blättern: Sie werden nicht einmal innerhalb einer Seite einheitlich verwendet. Auf der ersten Seite (1verso) trennte der Schreiber im ersten Gebet die Sätze durch einen Doppelpunkt und das Ende des Absatzes durch fünf Punkte. Auf derselben Seite trennte er im zweiten Gebet die Sätze dagegen durch einen Punkt und die Absätze durch einen Doppelpunkt. Da diese Zeichensetzung in anderen glagolitischen Handschriften völlig anders ist, kann es sich um ein Merkmal verschiedener Schreiberschulen handeln."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zahlen: Sie wurden vom Text durch einen Punkt vor und nach der Zahl und gleichzeitig durch einen Strich über der Zahl abgesetzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hauchzeichen haben hier zwei grafische Formen, ¬ und deren umgekehrte Variante; sie wurden über die Vokale geschrieben und bezeichneten eine weiche Aussprache.7"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Liturgische Typologie",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kiewer Blätter sind ein vollständiges Denkmal und nicht nur ein Fragment, also ein unvollständiger Teil einer ursprünglich längeren Handschrift, wie die ersten Untersuchungen annahmen.8 Die liturgische Typologie untersucht, welcher Ritus in Großmähren verwendet wurde, der östliche griechische oder der westliche römische. Wie genau verlief der Gottesdienst in Großmähren? Die schriftlichen Aufzeichnungen sagen: zuerst römisch, dann slawisch. Das bleibt weiterhin die einzige verlässliche Tatsache, und es wird die Ansicht vertreten, dass die Kirchenspaltung zur Zeit Großmährens noch nicht so zugespitzt war wie einige Jahrhunderte später. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sakramentar ist der Fachbegriff für das römische Messbuch, Euchologion für das griechische Messbuch. Die Messbücher wurden mit den Kiewer Blättern verglichen, und aus den Ergebnissen folgt, dass die ähnlichsten Texte die Sakramentare der Diözese Salzburg und des Patriarchats Aquileia im 9. Jahrhundert aufwiesen. Das ähnlichste, Paduanus D47, stimmt mit den Kiewer Blättern zu etwa 80 % überein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere Vergleiche erfolgten mit den sogenannten libelli missae. Libelli missae sind eine Auswahl für die Messen aus verschiedenen Sakramentaren, Evangeliaren, Apostolaren und anderen Gebeten, nach dem Ermessen der einzelnen Missionare. Aus dem Vergleich ergab sich, dass die bisher gefundenen libelli missae (das Stowe Missal irischer Herkunft, der Codex 1395 aus St. Gallen) aus dem 7.–8. Jahrhundert stammen und von Missionaren bei der Verbreitung des Christentums verwendet wurden. Sie sind also zu alt und stammen aus zu weit entfernten Orten; ein sicherer Zusammenhang mit den Kiewer Blättern ließ sich nicht finden. Vor allem wurden diese libelli-Auswahlen deshalb angelegt, damit den Missionaren beim Zelebrieren der Messe ein einziges Messbuch genügte. Die Kiewer Blätter ließen sich als selbständiges Messbuch nicht verwenden, der Messkanon fehlt, deshalb war eine weitere Handschrift notwendig. Die Kiewer Blätter enthalten nicht den für die Feier der wichtigsten Feste erforderlichen Text, sie ließen sich in der Advents- und Osterzeit nicht verwenden. So weit zur ältesten Periode der Verwendung der Kiewer Blätter. Wir überspringen etwa ein Jahrhundert (da eine genaue Datierung bislang fehlt), und die Kiewer Blätter gelangten auf bis heute unbekannte Weise in die Hände eines Mannes mit dem Namen Demetrius Sinaiticus. Weil sich die Kiewer Blätter allein nicht verwenden ließen, trug er auf die leere einleitende Seite einen passenden Text nach. Ľ. Lukovíny verglich die von Demetrius geschriebene Handschrift Sin. Slav. 5/N, das Psalterium Demetrii, das Euchologium Sinaiticum und die von Demetrius ergänzten Kiewer Blätter. Auf der einleitenden Seite der Kiewer Blätter ist eine Lesung des hl. Paulus an die Römer nachgetragen, die in den griechischen Texten zu Beginn der vorösterlichen Fastenzeit verwendet wird. Demetrius verband sakramentarische Texte (d. h. Texte des römischen Ritus) nach dem System des Euchologions (also nach der Messe des griechischen Ritus). In dieser Zeit, also am Ende des 10. und am Anfang des 11. Jahrhunderts, wurde die altkirchenslawische Messe wohl weder nach dem Euchologion noch nach dem Sakramentar gefeiert, sondern gerade durch die Verbindung dieser beiden liturgischen Bücher (Sacralogion)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Gebet Nr. 20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Verwendung des Altkirchenslawischen im Gottesdienst erforderte die Übersetzung der grundlegenden kirchlichen Bücher in diese Sprache. Auch die Kiewer Blätter sind eine Übersetzung, doch das Gebet Nr. 20 unterscheidet sich stark von der lateinischen Vorlage. Und auch hier überwog die Einigkeit darüber, dass man sich nicht einig wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eugen Paulíny: „Zu ihm wurde überhaupt keine lateinische Vorlage gefunden, es könnte für ein eigenständiges Werk gehalten werden. Dem stehen jedoch die zahlreichen Latinismen entgegen, die sich in diesem kurzen Text häufen....Auch dieses Gebet ist also aus dem Lateinischen übersetzt“. Slovesnosť a kultúrny jazyk Veľkej Moravy, 1964."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Josef Vašica: „ Im Gebet Nr. 20 ist der einzige Berührungspunkt zwischen der lateinischen Vorlage und dem slawischen Text das erste Wort Rege, daran knüpfte sich der Gedanke des Autors“...Slovo a slovesnost 2, Jg. 6, 1940. (In diesem Artikel beschreibt Vašica zahlreiche byzantinische Elemente in den Kiewer Blättern und schließt sich der Theorie an, die Blätter seien im böhmischen Milieu abgeschrieben worden.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ján Stanislav: „Das Vorgehen des Übersetzers des lateinischen Originals bei dem genannten Text des Gebets Nr. 20 ist also keineswegs zufällig, sondern im Gegenteil historisch begründet“...Starosloviensky jazyk 1, 1978."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Paulíny hielt den lateinischen Text für so abweichend, dass er nicht die Vorlage für das Gebet Nr. 20 gewesen sein konnte; Vašica dagegen meinte, der Autor habe den lateinischen Text nur frei nachgedichtet. Ján Stanislav erwog, es handle sich um einen originalen großmährischen Text, der aus Furcht vor dem Eindringen kleinerer Abteilungen der Altungarn in das Karpatenbecken in das ursprüngliche lateinische Gebet eingefügt wurde."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kiewer Blätter und die Vita des Konstantin-Kyrill"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kiewer Blätter",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen Vergleich des Gebets Nr. 20, zu dem keine genaue lateinische Vorlage existiert, veröffentlichte auch V. V. Nimtschuk; er fand einen Text mit demselben Gedanken, und zwar unmittelbar in einer Handschrift aus der großmährischen Lehrstätte. Die Vita des Konstantin-Kyrill ist ein umfangreiches biografisches Werk, das einer der Schüler Konstantins in den Jahren 873–879 schrieb. Er hielt darin das Gebet Konstantins vor dem Tod fest. „Und als die Stunde nahte, den Frieden zu empfangen und in die ewigen Wohnungen hinüberzugehen, erhob er seine Hände zu Gott und betete unter Tränen und sprach so....gesegnet ist Gott, der uns nicht den Zähnen unserer unsichtbaren Feinde zur Beute gegeben hat“..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Gebet vor dem Tod wies Nimtschuk auch auf eine weitere Übereinstimmung mit den Kiewer Blättern hin. Die Vita des Konstantin: „die Erde hast du gegründet und alles Seiende aus dem Nichtsein in das Sein geführt“. In den Kiewer Blättern: „gi otЪ nebЪitia bo vЪ bЪitie sЪtvoril nЪi esi“.9,10"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Schluss"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was wir nicht ermitteln konnten und was in dieser Übersicht daher auch fehlt, ist eine ausführlichere Erklärung zu den Wörtern vЪlítije und der Vergleich rov – rovanijȩ. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kiewer Blätter werden allgemein auch wegen des Wortes rovanijȩ für eine Abschrift gehalten.11 Die Theorien entwickelten sich von der Überlegung, in der ursprünglichen Handschrift habe darovanijȩ gestanden. Später wurde das Wort rovanijȩ in einer weiteren Handschrift gefunden. Als Erklärung tauchte die Theorie auf, das Wort stamme vom althochdeutschen Wort arvani. Wir haben nicht gefunden, ob jemand einen Zusammenhang mit dem slowakischen Wort rov untersucht hat, das buchsprachlich im Sinne eines Grabhügels gebraucht wird, wo es sich schon um eine übertragene Bedeutung des Wortes handeln könnte, wenn in vorchristliche Grabhügel Gaben gelegt wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Verwendete Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "slug": "zvolen-motova-kresba",
+ "data": {
+  "title": "Zvolen-Môťová – eine Zeichnung des großmährischen Burgwalls",
+  "slug": "zvolen-motova-zeichnung-burgwall",
+  "excerpt": "Wir stellen eine neue Zeichnung eines Burgwalls vor – diesmal des bedeutenden Burgwalls Zvolen-Môťová, der wahrscheinlich eines der Verwaltungszentren Großmährens war und auf dem offenbar einer der Adligen – der Verwalter eines Burgbezirks – saß. Als Erster nahm den Burgwall Štefan Janšák in den 1930er Jahren auf, an der Wende der 1980er und 1990er Jahre untersuchte ihn Dr. Marta Mácelová. Die Zeichnung schuf unser Mitarbeiter Tomáš Humaj.",
+  "metaTitle": "Zvolen-Môťová – Zeichnung des großmährischen Burgwalls",
+  "metaDescription": "Zeichnung des Burgwalls Zvolen-Môťová, wahrscheinlich eines der Verwaltungszentren Großmährens; als Erster nahm ihn Štefan Janšák in den 1930er Jahren auf.",
+  "keyFacts": [
+   {
+    "label": "Funktion des Burgwalls",
+    "value": "wahrscheinlich Verwaltungszentrum Großmährens, Sitz eines Adligen – des Verwalters eines Burgbezirks",
+    "icon": "crown"
+   },
+   {
+    "label": "Erste Aufnahme",
+    "value": "Štefan Janšák, 1930er Jahre",
+    "icon": "scroll"
+   },
+   {
+    "label": "Archäologische Ausgrabung",
+    "value": "Dr. Marta Mácelová, Wende der 1980er und 1990er Jahre",
+    "icon": "users"
+   },
+   {
+    "label": "Auf der Zeichnung dargestellte Zeit",
+    "value": "9. Jahrhundert",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1930er Jahre",
+    "title": "Erste Aufnahme des Burgwalls",
+    "description": "Als Erster nahm den Burgwall Štefan Janšák auf.",
+    "type": "event"
+   },
+   {
+    "year": "Wende der 1980er und 1990er Jahre",
+    "title": "Archäologische Ausgrabung von Dr. Mácelová",
+    "description": "Den Burgwall untersuchte Dr. Marta Mácelová, die auf die Lage des Tores, auf den Graben sowie auf die Bebauung und das Haus des Adligen hinwies.",
+    "type": "discovery"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Auf der Zeichnung dargestellte Zeit",
+    "description": "Die Zeichnung hält eine künstlerische Vorstellung vom möglichen Aussehen des Burgwalls im 9. Jahrhundert fest.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir stellen eine neue Zeichnung eines Burgwalls vor – diesmal handelt es sich um den bedeutenden Burgwall "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zvolen-motova-hradok-priekopa",
+        "children": [
+         {
+          "type": "text",
+          "text": "Zvolen-Môťová"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", der wahrscheinlich eines der Verwaltungszentren Großmährens war und auf dem offenbar einer der Adligen – der Verwalter eines Burgbezirks – saß. Als Erster nahm den Burgwall Štefan Janšák in den 1930er Jahren auf, und an der Wende der 1980er und 1990er Jahre untersuchte ihn Dr. Marta Mácelová. Nach Beratung mit ihr und ebenso auf der Grundlage der Beschreibung von Š. Janšák aus den 1930er Jahren (als der Burgwall noch nicht von Roma und Wochenendhausbesitzern verwüstet war) haben wir versucht, eine weitere künstlerische Vorstellung vom möglichen Aussehen des Burgwalls im 9. Jahrhundert zu schaffen. Dr. Mácelová hat uns vor allem auf die Stelle hingewiesen, an der sich das Tor – der Eingang in den Burgwall – befand, auf den tiefen Graben, nach dem der Burgwall seinen Namen erhielt, auf die nachgewiesene und die vermutete Bebauung und auch darauf, in welchem Teil des Burgwalls wahrscheinlich das Haus stand, in dem der Adlige lebte. Es ist das größte Blockhaus auf dem Bild – in der Nähe des Tores. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist jedoch daran zu erinnern, dass es sich trotz unseres Bemühens, der Wirklichkeit möglichst nahe zu kommen, immer noch nur um unsere laienhafte Vorstellung und nicht um eine archäologische Rekonstruktion handelt. Die Zeichnung ist von Dr. Mácelová nicht autorisiert, weil es dafür nicht genügend wissenschaftliche Grundlagen gibt. Die Ausgrabung, die auf dem Burgwall durchgeführt wurde, erlaubt es nicht, sich ein genaues Bild von der Bebauung des Burgwalls zu machen. Seine Bebauung war wahrscheinlich dichter, wir haben die Häuser jedoch dort gezeichnet, wo sie die Archäologen aufgrund von Funden (z. B. Resten von Feuerstellen) an jenen Stellen vermuten, an denen ihnen die Grundeigentümer Schnitte erlaubt haben. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Zeichnung schuf für unsere Seite unser Mitarbeiter Tomáš Humaj."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,632 @@
+{
+ "slug": "pohanska-viera-slovanov-a-jej-dokazy-v-archeologickych-nalezoch",
+ "data": {
+  "title": "Der heidnische Glaube der Slawen und seine Belege in archäologischen Funden",
+  "slug": "slawischer-heidenglaube-archaeologische-belege",
+  "excerpt": "Die ursprünglichen religiösen Vorstellungen der Slawen stehen seit Jahren im Mittelpunkt des Interesses von Archäologen, Historikern, Sprachwissenschaftlern und Ethnographen. Zdeněk Váňa ordnet die Funde zwei Schichten des geistigen Lebens zu – dem Kult und der Magie: Heiligtümer von Peryn bis Gross Raden, Opferplätze von Pohansko und Mikulčice, das Zbruč-Idol, Figürchen, Talismane, der Begräbnisritus und Ideogramme, die bis in die Volkskultur überlebten.",
+  "metaTitle": "Heidnischer Glaube der Slawen in archäologischen Funden",
+  "metaDescription": "Belege der ursprünglichen Religion der Slawen: Heiligtümer, Opferplätze, Kultfiguren, Begräbnisritus und magische Symbole auf Keramik und Schmuck.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Zdeněk Váňa",
+    "icon": "book"
+   },
+   {
+    "label": "Herkunft des Textes",
+    "value": "Slovenská archeológia, XXXVI-2, 1988",
+    "icon": "scroll"
+   },
+   {
+    "label": "Thema",
+    "value": "Archäologische Belege für Kult und Magie bei den Slawen — Heiligtümer, Idole, Talismane und Symbole",
+    "icon": "shield"
+   },
+   {
+    "label": "Schlüsselfundorte",
+    "value": "Peryn, Wolin, Gross Raden, Pohansko, Mikulčice, Burgwall Bogit",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "5.–6. Jahrhundert",
+    "title": "Herausbildung der slawischen Kultur",
+    "description": "Im Gebiet nördlich der Karpaten bilden sich die slawische Kultur und das slawische Ethnikum heraus, zusammen mit dem indoeuropäischen Erbe des Ritus der Leichenverbrennung.",
+    "type": "event"
+   },
+   {
+    "year": "7. Jahrhundert",
+    "title": "Der Hortfund von Martynovka",
+    "description": "Es entstehen Blechfigürchen bärtiger Männer — einer der ältesten Belege für kleine Kultplastik bei den Slawen.",
+    "type": "event"
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Höhepunkt des Baus von Heiligtümern",
+    "description": "Es entstehen mehrere belegte Kultbauten — der Tempel auf dem Burgwall Gross Raden, die Heiligtümer in Stará Kouřim und auf Pohansko bei Břeclav sowie der Kultplatz in Mikulčice.",
+    "type": "event"
+   },
+   {
+    "year": "8.–10. Jahrhundert",
+    "title": "Übergang zur Körperbestattung",
+    "description": "Die Gräber sind im Einklang mit der sozialen Differenzierung reich mit Schmuck, Waffen und Gefäßen ausgestattet — ein Beleg für eine materiellere Auffassung des Lebens nach dem Tod.",
+    "type": "event"
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Das Zeugnis des ibn Fadlan",
+    "description": "Der arabische Reisende beschreibt die Bestattung eines Fürsten der Rus durch Verbrennung, was die Verbindung dieses Ritus mit der Vorstellung vom höheren Wert des Daseins nach dem Tod belegt.",
+    "type": "event"
+   },
+   {
+    "year": "10.–13. Jahrhundert",
+    "title": "Verehrung des Zbruč-Idols",
+    "description": "Auf dem Burgwall Bogit wurde das Zbruč-Idol verehrt, das in einem Opferplatz stand, der von einem Steinkreis mit acht Opfergruben umgeben war.",
+    "type": "event"
+   },
+   {
+    "year": "11.–12. Jahrhundert",
+    "title": "Das zweiköpfige Idol von der Fischerinsel",
+    "description": "Der Fund auf einer Siedlung bei Neubrandenburg belegt den Kult einer Zwillingsgottheit bei den Slawen.",
+    "type": "event"
+   },
+   {
+    "year": "1988",
+    "title": "Veröffentlichung der Studie",
+    "description": "Zdeněk Váňa veröffentlichte die Studie „Archeologické doklady kultu a magie u Slovanů“ in der Zeitschrift Slovenská archeológia (XXXVI-2).",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4025,
+    "caption": "Most pri Bratislave",
+    "alt": "Most pri Bratislave"
+   },
+   {
+    "mediaId": 4026,
+    "caption": "Břeclav - Pohansko",
+    "alt": "Břeclav - Pohansko"
+   },
+   {
+    "mediaId": 4027,
+    "caption": "Uherské Hradište",
+    "alt": "Uherské Hradište"
+   },
+   {
+    "mediaId": 4028,
+    "caption": "Das Zbruč-Idol",
+    "alt": "Das Zbruč-Idol"
+   },
+   {
+    "mediaId": 4033,
+    "caption": "Tierfigürchen aus Mikulčice",
+    "alt": "Tierfigürchen aus Mikulčice"
+   },
+   {
+    "mediaId": 3987,
+    "caption": "Galuška: Slované – doteky předků",
+    "alt": "Galuška: Slované – doteky předků"
+   },
+   {
+    "mediaId": 4034,
+    "caption": "Urne mit menschlichen Überresten – Brandritus",
+    "alt": "Urne mit menschlichen Überresten – Brandritus"
+   },
+   {
+    "mediaId": 4035,
+    "caption": "Die heidnische Symbolik überdauerte in der volkstümlichen Holzschnitzerei bis ins 20. Jahrhundert",
+    "alt": "Die heidnische Symbolik überdauerte in der volkstümlichen Holzschnitzerei bis ins 20. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ursprünglichen religiösen Vorstellungen der Slawen rücken in den letzten Jahren in den Mittelpunkt eines erhöhten Interesses von Archäologen, Historikern, Sprachwissenschaftlern und Ethnographen. Dazu tragen die archäologische Forschung, die Entdeckungen von Heiligtümern und Opferplätzen, die Funde von Kultfiguren und Kultgegenständen, die Belege des Begräbnisritus, magischer Praktiken, von Symbolen und Ideogrammen in der Verzierung von Keramik, Werkzeugen, Waffen und Schmuck bei. Die Deutung dieser Sachquellen ist zwar oft diskutabel, besonders wenn sie nur von den Dingen selbst ausgeht und den zeitgenössischen historischen Rahmen und die ethnographischen Parallelen nicht ausreichend berücksichtigt. Die archäologische Forschung hat jedoch den unbestreitbaren Vorrang bei der Gewinnung neuer Fakten, die die Lücken in den Schriftquellen füllen, aus denen das historische und das sprachwissenschaftliche Studium schöpfen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem Vergleich der einzelnen Quellenarten können wir auch zu einer relativen Unterscheidung von zwei grundlegenden Schichten des geistigen Lebens und der Objekte gelangen, die seinen Zwecken dienten: dem Kult und der Magie. Die Grenze zwischen beiden ist zwar nicht allzu scharf, und beide Sphären durchdringen sich häufig gegenseitig. Dennoch gehört der Kult im Wesentlichen zur höheren Schicht der religiösen Vorstellungen, die mit der Verehrung von Natur- oder Stammesgottheiten und mit dem Opfer- beziehungsweise Tempeldienst verbunden sind, den im Interesse der weiteren Gemeinschaft ihr Anführer ausführt – der Fürst oder der Priester als Vertreter einer gesellschaftlichen Schicht, die sich nur bei den Elbe- und Ostseeslawen entwickelte. Die magischen Praktiken beziehen sich dagegen immer eher auf den Nährboden jedes religiösen Systems, sie rufen niedere, elementare Kräfte und Wesen an, sollen gegen deren ungünstige Einflüsse schützen (apotropäische Elemente) oder sie umgekehrt zum Nutzen des Einzelnen, der Familie, der Gemeinde einsetzen, beziehungsweise mit ihrer Hilfe anderen schaden (in der sogenannten schwarzen Magie). Diese niedere Sphäre der Dämonolatrie war immer die Domäne der Zauberer und ihrer weiblichen Gegenstücke (Wahrsagerinnen und Weissagerinnen), die sich im Unterschied zum kultischen Bereich auch nach dem Untergang des Heidentums oft bis in die Neuzeit hielten und daher reiches ethnographisches Material zum Vergleich mit den archäologischen Funden liefern.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Heiligtümer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Most pri Bratislave",
+    "alt": "Most pri Bratislave",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ausdrucksvollste Beleg des Kultes sind die Kultplätze und Tempel, die in den Schriftquellen verhältnismäßig häufig angeführt werden, besonders im Gebiet der Elbe- und Ostseeslawen sowie der Ostslawen. Archäologisch gelang es jedoch nur in zwei Fällen, diese Nachrichten zu identifizieren: im russischen Peryn und im ostseeslawischen Wolin. Peryn dokumentiert einen typischen slawischen Opferplatz unter freiem Himmel, mit dem Kult eines Perun-Idols, das von einem kreisförmigen symbolischen Graben umgeben war, während es sich in Wolin um ein hölzernes, bedachtes Gebäude handelt, um einen eigentlichen Tempel, wie sie historisch und archäologisch nur im Gebiet der nordwestlichen Slawen belegt sind.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die übrigen Entdeckungen sind durchweg historisch anonym. Ein Tempel war offenbar das Objekt auf dem Burgwall Feldberg. Ein einfacher rechteckiger Bau mit der Andeutung eines Eingangsraumes, vom Burgwall durch einen symbolischen Graben abgetrennt; mit Sicherheit war es jedoch das Heiligtum, das man auf dem Burgwall in Gross Raden in Mecklenburg entdeckte und das sich angesichts der Erhaltung seiner Überreste gut rekonstruieren lässt. Es handelte sich um einen Bau mit einer Fläche von 7 × 11 m mit doppelten Wänden und einem Umgang mit leichter Brüstung, der in das 9. Jahrhundert datiert wird."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zahlreicher sind die offenen Kultplätze und Opferplätze, die jedoch durchweg historisch anonym sind. Ihre Gestalt ist recht uneinheitlich, es handelt sich um sakrale Räume, die durch einen Graben oder eine andere symbolische Umfriedung abgegrenzt sind. Aus dem Gebiet der heutigen Slowakei ist das Heiligtum von Most pri Bratislave bekannt. Aus Böhmen gehört hierher zum Beispiel Stará Kouřim mit dem Kultplatz am Ufer des Libuše-Teiches aus dem 9. Jahrhundert und Burgenland bei Mšeno mit einem quadratischen Opferplatz, den ein Graben und eine Pfostenumfriedung aus derselben Zeit abgrenzten. In das 9. Jahrhundert wird auch das Objekt von Pohansko bei Břeclav datiert, das aus acht kugeligen Grübchen besteht, die im Kreis um ein neuntes in der Mitte gruppiert sind, mit Spuren einer Umfriedung; es stellt offenbar die Hauptgottheit dar, umgeben von Nebengottheiten. Dieses Objekt illustriert unmittelbar ibn Fadlans Nachricht von den Käufern der Rus an der Wolga, die zu einem großen Idol beteten, das inmitten kleinerer stand, die im Kreis um es herum aufgestellt waren. Auch in einem der wichtigsten großmährischen Zentren, in Mikulčice, wurde ein Kultplatz von rechteckigem Grundriss 11,3 × 24 m entdeckt, abgegrenzt durch das Gräbchen einer Palisadenumfriedung mit der Andeutung eines Eingangs auf der südöstlichen Seite. Im leeren Innenraum wurden nur zwei Feuerstellen und einige flache kreisförmige Gruben festgestellt, die offenbar die Anwesenheit heiliger Bäume andeuten, wie sie nach Helmold in der Nähe des wagrischen Stargard verehrt wurden, ebenfalls innerhalb einer Palisadenumfriedung. Kreisförmige Opferplätze, die durch einen Graben, eine Palisade oder Steine abgegrenzt sind, sind nicht nur aus dem Gebiet der Ostseeslawen, aus Südpolen oder aus dem nordrussischen Peryn bekannt, sondern auch von weiteren ostslawischen Fundstellen, durchweg aus dem 8.–10. Jahrhundert, aus dem Land der Smolensker Kriwitschen, im Pskower Gebiet, in der Bukowina, im Land der Radimitschen oder im Pripjat-Polesien. Sie erscheinen hier jedoch vor allem in der älteren Zeit (6.–9. Jahrhundert)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Břeclav - Pohansko",
+    "alt": "Břeclav - Pohansko",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Götzen (Idole)",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Interessant ist auch die Entdeckung auf dem Burgwall Bogit, in der Nähe der Fundstelle des bekannten Zbruč-Idols. Im westlichen Teil des Burgwalls, der als Ganzes Kultzwecken diente, stand ein Opferplatz, der von einem Steinkreis mit acht Opfergruben umgeben war; eine vierkantige, mit Steinen ausgelegte Grube in seiner Mitte bezeichnete die Stelle, an der ursprünglich das Zbruč-Idol stand, das an diesem Ort im 10.–13. Jahrhundert verehrt wurde. Die Entdeckung rückt die Frage der Deutung der Zbruč-Stele in den Vordergrund, die seit mehr als einem Jahrhundert Gegenstand der Diskussion ist. Als wahrscheinlichste, wenn auch nicht in allen Details, erscheint die kosmogonische Deutung, zumindest was die drei Bänder auf der Stele betrifft, als Symbol dreier Welten: der Himmel als Welt der Götter, das Land – die Welt der Menschen – und die Unterwelt – die Welt der Wesen, die das Land tragen. Es handelt sich um eine Vorstellung, die bereits seit dem Altertum über den ganzen eurasischen Kontinent verbreitet war, vgl. etwa die Götter und Giganten im alten Griechenland, mit der Welt der Menschen immer in der Mitte. Problematisch bleibt jedoch die Deutung der vier göttlichen Figuren. Auf keinen Fall kann es sich um Svantovit handeln, dessen Kult auf das slawische Ostseegebiet beschränkt war und kaum so tief in den Süden reichte; das Symbol des Horns und die Vierzahl der Gestalten allein genügen für diese Deutung nicht. Zweifelhaft ist auch die Gleichsetzung des Idols mit Rod, die sich auf eine altrussische Übersetzung und auf die Kommentare zu den Reden des hl. Gregor (Slovo sv. Grigorija Bogoslova) sowie auf einige weitere Traktate aus dem 11.–12. Jahrhundert stützt. Váňa führt an, dass Rod offenbar nur zu den lokalen Gottheiten niederer Kategorie gehörte und es nicht die geringsten Anzeichen dafür gibt, dass er eine so allgemeine Rolle gespielt hätte, wie ihm manche Forscher zuschreiben; im Letopis vremennych rokov (Nestorchronik) wird er zum Beispiel überhaupt nicht erwähnt.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Uherské Hradište",
+    "alt": "Uherské Hradište",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Frage ist auch, ob die Gestalt mit dem Ring eine weibliche ist (Lada?) – es scheint nämlich, dass sie einen Schnurrbart hat – und ob der Krieger mit dem Säbel mit Perun verbunden werden kann: diese Attribute konnte auch eine andere lokale Kriegsgottheit haben. Maßgeblich ist die Tatsache, dass alle vier Gestalten durch einen einzigen Hut verbunden sind, was auf eine einzige Gottheit in vier Hypostasen hinweist: die wirtschaftliche – mit dem Horn als Symbol der Fruchtbarkeit und der Fülle, die kriegerische – mit den Attributen des Säbels und des Pferdes, die kosmische – der Ring als Symbol des Himmels oder der Sonne; die vierte Figur ohne Attribute könnte die eigentliche, rein geistige Gestalt der Gottheit darstellen, die hinter den genannten Spezifikationen steht, in denen sie sich in ihrer irdischen Wirksamkeit äußert – bemerkenswert ist, dass das untere Feld unter ihr, wo bei den übrigen die Giganten sind, leer ist. Eine solche Zusammenführung der Funktionen der einzelnen Gottheiten charakterisiert die Abschlussphase der Entwicklung der slawischen Religion und deutet auf eine verhältnismäßig späte Entstehung der Zbruč-Stele hin, was die archäologische Forschung bestätigt hat. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Zbruč-Idol",
+    "alt": "Das Zbruč-Idol",
+    "width": "30",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die übrigen bisher bekannten steinernen Idole stammen durchweg aus dem ostslawischen Gebiet, ihre slawische Herkunft ist jedoch nicht vollständig gesichert. Zu ihnen gehören die zahlreichen, nicht näher datierbaren „baby“, die auch nomadische türkotatarische Stämme oder baltische und finnische Stämme hinterlassen haben konnten. In den Berührungsgebieten überschritt der Kult jedoch ethnische und oft auch zeitliche Grenzen, sodass auch vorslawische Idole bis in das Frühmittelalter in Verehrung blieben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von den großen hölzernen Idolen, die bisher nur aus dem Gebiet der nordwestlichen Slawen bekannt sind, ist vor allem der alte Fund aus Altfriesack zu erwähnen, und zwar wegen seiner Datierung mittels Radiokarbondatierung in die frühslawische Zeit. Er bezeugt eine verhältnismäßig weit entwickelte Stufe der religiösen Vorstellungen schon in dieser frühen Zeit und widerlegt die Konzeption einiger Forscher von einem ursprünglichen Prototheismus bei den Slawen, deren Polytheismus mit der Spezifizierung der Gottheiten sich erst im 10. Jahrhundert entwickelt haben soll. Auch wenn man das Idol mit keinem der in den Quellen beschriebenen Götter mit Sicherheit gleichsetzen kann, bezeugt die Öffnung für einen gesondert aufgesetzten Phallus die spezifische Funktion einer Fruchtbarkeitsgottheit. Im skandinavischen Raum entspricht ihm Freyr, dessen Statue im Tempel von Uppsala sich nach Adam von Bremen durch einen großen Phallus auszeichnete. Der phallische Kult ist auch durch Funde von Phalli selbst belegt, zum Beispiel in Łęczyca, Opole oder Wolin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein wertvoller archäologischer Beitrag zur Diskussion über das slawische Heidentum ist auch der Fund eines zweiköpfigen Idols auf einer Siedlung aus dem 11.–12. Jahrhundert auf der Fischerinsel bei Neubrandenburg. Er bezeugt den Kult einer Zwillingsgottheit, die auch in anderen indoeuropäischen religiösen Systemen eine bedeutende Rolle spielte, zum Beispiel bei den Indern, Iranern, Hethitern, Griechen (Kastor und Polydeukes) und Römern (Castor und Pollux). Für die Slawen ist sie in keiner der älteren Quellen belegt. Die Existenz der Zwillinge können wir bei den Slawen also als nachgewiesen betrachten, ihr Name ist jedoch unsicher. Auch die übrigen Funde hölzerner Idole (Braak, Behren-Lübchin, Jankowo) ermöglichen keine Gleichsetzung mit bekannten Gottheiten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der heidnische Glaube der Slawen und seine Belege in archäologischen Funden",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Figürchen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Sehr zahlreich sind die kleinen Figürchen von Götzen, aus Metall, Holz und Geweih. Sie erscheinen bereits in Fundkomplexen der frühslawischen Zeit in Form von Blechfigürchen bärtiger Männer im Hortfund von Martynovka aus dem 7. Jahrhundert oder aus der Zeit der slawischen Expansion in den ägäischen Raum in Thessalien. Spätere Funde im ostslawischen Gebiet stammen aus Nowgorod, aus Alt-Rjasan und auch aus altrussischen heidnischen Hügelgräbern. Vereinzelt erscheinen sie auch im Gebiet der Südslawen, zum Beispiel im rumänischen Garvän-Dinogetia oder im bulgarischen Preslav, häufiger sind sie jedoch im Umfeld der Elbe- und Ostseeslawen und der polnischen Slawen, zum Beispiel Schwedt, Weggun, Merseberg, Wolin, Wiálioa, Opole. Sie werden manchmal mit historisch bekannten Gottheiten gleichgesetzt, zum Beispiel die Nowgoroder Figürchen, die Analogien auch im skandinavischen Umfeld haben, mit Perun, die hölzerne Figur phallischer Form mit vier Gesichtern aus Wolin mit Svantovit und Ähnliches. Eine Frage ist jedoch, ob Gottheiten, die Gegenstand eines organisierten öffentlichen Kultes waren, auch für das Bedürfnis der privaten Verehrung in den Wohnbauten dargestellt werden konnten, mit denen die Funde kleiner Plastiken unzweifelhaft zusammenhängen. Dafür würde die Nachricht Ebbos von größeren und kleineren Idolen sprechen, die Otto von Bamberg in Wolin verbrennen wollte, die jedoch gestohlen und versteckt wurden. Meist handelte es sich offenbar um Statuetten von Hausgötzen, deren Existenz die Schriftquellen bezeugen und deren Kult sich lange bis in die spätere Volkskultur erhielt. Auf sie beziehen sich wohl auch die schriftlichen Nachrichten über die Verehrung von Idolen bei Cosmas, im Homiliar von Opatovice usw. In einigen Gebieten konnten auch diese Wesen niederer Ordnung vielköpfige Gestalten annehmen, die ihre Macht symbolisch vervielfachten (Wolin, Wiślica, Preslav). Anhänger wie der von Preslav oder Blechfigürchen, die als Zierden des Gürtels dienten (Martynovka), erfüllten eher eine apotropäische Funktion in der Kategorie der Amulette."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kultgegenstände",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "\n \n Dem Kult dienten auch weitere Gegenstände und Insignien, von denen sowohl die schriftlichen Zeugnisse als auch die archäologischen Quellen berichten. Die Nachrichten der westlichen Chronisten sprechen von heiligen Waffen, Ausrüstungsstücken und Fahnen, die in den Tempeln als Attribute oder Insignien der betreffenden Gottheit niedergelegt wurden. Ihre Angaben illustrieren auch einige archäologische Entdeckungen, auch wenn nicht immer ausdrücklich in kultischen Zusammenhängen. Es handelt sich zum Beispiel um die bekannte Ritzzeichnung eines Reiters mit Lanze und Fahnen auf einem Stein der Mauer in Libušín, die eine Analogie an der Mauer im bulgarischen Preslav hat, die ebenfalls in das 10. Jahrhundert datiert wird. In beiden Fällen tragen die Fahnen Zeichen, und die Zeichnungen dienten offenbar als Apotropaion, das die Festigkeit und Unbezwingbarkeit der Mauer schützte. Auch das Endstück einer Stange aus einem Fürstengrab des 9. Jahrhunderts aus Stará Kouřim belegt nicht nur das Mitführen von Quasten und Feldzeichen in den Kampf, sondern ist auch ein Abzeichen der Heiligkeit der Herrschermacht. Die Nachrichten von heiligen Waffen, die im Tempel niedergelegt wurden, belegen wahrscheinlich die Funde zweier Lanzen und des Restes eines hölzernen Schildes bei der Ausgrabung des Tempels in Gross Raden in Mecklenburg. Vergleiche dazu die Angaben über die heilige Lanze in Wolin, über den vergoldeten Schild des Gerovit in Wolgast, über das Schwert, den Zaum und den Sattel Svantovits in Arkona. Die Verehrung heiliger Waffen war bei den Indoeuropäern allgemein – vgl. etwa Thors Hammer, Odins Lanze, Freyrs Schwert bei den Germanen – und die Slawen stellten in dieser Richtung keine Ausnahme dar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der heidnische Glaube der Slawen und seine Belege in archäologischen Funden",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem Umfeld der Ost- wie der Westslawen werden Funde von Messern mit doppelter Volute anstelle des Griffs angeführt, die offenbar beim Töten der Opfertiere verwendet wurden; sie kommen auch in Polen und in der Slowakei vor. Rituellen Tänzen und Zeremonien, zum Beispiel bei den Rusalien, dienten wahrscheinlich hölzerne Stäbe und Keulen mit geschnitzten Knäufen in Form menschlicher oder tierischer Köpfe, bekannt zum Beispiel aus Nowgorod. Eine Adorationsszene stellt die Scherbe eines frühslawischen Gefäßes dar, die in Schulzendorf im Gebiet der Elbslawen gefunden wurde: sie zeigt in Einstichtechnik schematisch eine menschliche Gestalt, die in der Gebärde der Adoration vor etwas steht, was man als Kessel auf einem Wagen, als Boot oder als Altar mit einem Idol deuten könnte. Das Gefäß diente unzweifelhaft Kultzwecken. Die Gebetsgebärde, zu der wir nur indirekte Andeutungen haben, ist archäologisch verhältnismäßig gut belegt. Es ist die Haltung des Oranten, schon aus der Zeit der heidnischen Antike bekannt. Sie hat zum Beispiel die Reliefgestalt auf einem Blechbeschlag aus Pskow, der Gerovit-Stein aus Wolgast und die Oranten aus Mikulčice, die auf Gürtelbeschlägen eingeritzt sind: einer von ihnen stellt zwar einen christlichen Heiligen – einen Priester im Ornat – dar, der zweite hat jedoch unzweifelhaft heidnischen Charakter und zeigt nicht einen Fürsten mit Insignien, wie manchmal angenommen wird, sondern einen Zauberer in kultischer Gebärde mit einem Füllhorn und einem schamanischen Spiegel; der dritte Orant symbolisiert nur das Gebet, sei es ein heidnisches oder ein christliches. Für die Deutung dieser Ritzzeichnungen ist vor allem ihre Anbringung auf der Rückseite des Beschlags entscheidend, die darauf hinweist, dass der Zweck in allen Fällen apotropäisch war und sie also in die Sphäre der Magie gehören. Dasselbe lässt sich auch von der Gestalt mit erhobenen Armen sagen, die mit Einstichen auf der Messerscheide aus Bronzeblech aus dem spätslawischen Gräberfeld in Schirmenitz dargestellt ist. Auch in diesem Fall stellt die Gebärde eine Bitte um Schutz des Messerbesitzers dar. Zu den Requisiten des Kultes gehörten auch Masken aus Leder oder Holz, die zum Beispiel in Nowgorod und in Schlesien gefunden wurden. Sie wurden bei Maskenumzügen und -spielen verwendet, besonders im Rahmen der Feste der Wintersonnenwende, darüber hinaus jedoch auch bei anderen Gelegenheiten, zum Beispiel bei Hochzeiten, Bestattungen und Rusalienfesten. Der ursprüngliche Sinn der Maske war apotropäisch: Dämonen einzuschüchtern, bei der Wintersonnenwende die Geister der Finsternis zu vertreiben, in den übrigen Fällen die bösen Mächte abzuwehren, die die Hochzeitsgäste oder die Seelen der Verstorbenen bedrohten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Begräbnisritus"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein spezifisch archäologischer Beitrag zur Kenntnis der religiösen Vorstellungen sind die Belege des Begräbnisritus und des Totenkultes. Ein ursprüngliches indoeuropäisches Erbe ist der Ritus der Leichenverbrennung, der schon in den altertümlichen Kulturen im Gebiet nördlich der Karpaten belegt ist, aus denen sich die slawische Kultur und mit ihr auch das Ethnikum im 5.–6. Jahrhundert formte. Zusammen mit der slawischen Expansion verbreitete sich die Verbrennung dann im Rahmen der frühslawischen Kultur des Prager, des Korčak- und verwandter Typen auf den Balkan, nach Mittel- und Osteuropa als einer ihrer bezeichnenden Züge. Nach indirekten Analogien aus anderen indoeuropäischen Kulturen und teilweise auch nach dem Zeugnis ibn Fadlans, der im 10. Jahrhundert Zeuge der Bestattung eines Fürsten der Rus war, verband sich die Verbrennung der Toten mit der Ansicht vom höheren Wert des Daseins nach dem Tod, für das der tote physische Körper ein Hindernis war, das an die Erde fesselte und das man deshalb mit Feuer vernichten musste. Diese Ansicht muss nicht notwendig mit dem Glauben an eine höchste Gottheit im Sinne des Monotheismus zusammenhängen, wie manche Autoren meinen, denn sie begleitet auch polytheistische Systeme; bei den Slawen lässt sich nach dem Zeugnis des Prokopios von Kaisareia aus dem 6. Jahrhundert am ehesten auf einen Henotheismus schließen, mit der Herrschaft des höchsten Gottes über die übrigen. Der Begräbnisritus drückt nur die Vorstellungen vom Leben nach dem Tod aus und nichts weiter, sodass wir den Übergang zur Bestattung unverbrannter Körper als Äußerung einer relativ stärkeren Anhänglichkeit an die Werte des irdischen Lebens verstehen können. Bei den Slawen kommt es dazu am ehesten unter dem Einfluss einer intensiveren Symbiose mit nomadischen Stämmen, wie auch die von dort übernommene vampiristische Vorstellung von der „lebenden Leiche“ bezeugt, die ebenfalls archäologisch reichlich belegt ist.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Tierfigürchen aus Mikulčice",
+    "alt": "Tierfigürchen aus Mikulčice",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Verhältnis zum Verstorbenen und zu seinem Dasein nach dem Tod zeigt sich auch in den Grabbeigaben, die in das Grab gelegt wurden. Während es beim Brandritus meist kleine Gegenstände aus dem persönlichen Besitz des Toten waren (Fibeln, Schnallen, Messerchen, Feuerstähle und Ähnliches), waren die Gräber bei der sogenannten Körperbestattung im 8.–10. Jahrhundert im Einklang mit der sozialen Differenzierung oft reich mit Schmuck, Waffen, Werkzeugen und Gefäßen mit Speise und Getränken ausgestattet. Auch diese Tatsache bezeugt eine materiellere Auffassung des Lebens nach dem Tod und seiner materiellen Bedürfnisse, zusammen mit dem grundlegenden Wandel des Ritus. Davon sprechen schließlich auch die ethnographischen Quellen, nach denen der Tote, der als Schattengestalt erscheint, sprechen, sich bewegen, Spuren von Händen und Füßen hinterlassen, essen, trinken und sogar Geschlechtsverkehr haben kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Talismane"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Verhältnismäßig zahlreich sind die Funde kleiner Gegenstände, die sich durch ihre Form oder ihre Verzierung rein praktischen Zwecken entziehen und in die Sphäre der Magie und ihrer Praktiken gehören. Bereits in der frühslawischen Kultur erscheinen tönerne Gegenstände von scheiben- oder laibförmiger Gestalt, die unzweifelhaft eine bestimmte Rolle in der Magie kreativen Typs spielten, bei der die Abbildung eines Gegenstandes, in diesem Fall offenbar des Brotes, dessen Fülle sichern sollte. Zwei Fragmente aus Libušín in Böhmen tragen auf beiden Seiten das eingestochene Motiv eines Kreuzes im Kreis, eines aus der Reihe der Sonnensymbole als Anzeiger des Raumes und als Maßstab der Zeit (vier Himmelsrichtungen und vier Jahreszeiten); das kleinere hat die Andeutung eines Doppelkreuzes, des sogenannten „schwarzen Kreuzes“, das eine apotropäische Funktion auch in der späteren Volkskultur erfüllte. Die kreativen Praktiken der Volksmagie illustrieren anschaulich auch die unkünstlerisch geformten Figürchen von Tieren, Menschen und Sätteln aus der älteren Phase des großmährischen Zentrums in Mikulčice, die üblicherweise als Votivopfer gedeutet werden (dazu fehlt allerdings der entsprechende Opferplatz). In dieselbe Kategorie fällt offenbar die Mehrzahl der Funde von Tierfigürchen, wenn einige von ihnen nicht als Kinderspielzeug dienten. Das Pferd war ein sakrales Tier, den Göttern geweiht, zum Beispiel Svantovit, Svarožič und Triglav, und erfüllte daher unzweifelhaft eine magische, apotropäische Funktion, in plastischer wie in zeichnerischer Ausführung auf verschiedenen Gegenständen: Schmuck, Kämmen, Feuerstählen, Gefäßen, Anhängern, Amuletten und Ähnlichem. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Galuška: Slované, doteky předkú",
+    "alt": "Galuška: Slované, doteky předkú",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist zu betonen, dass die frühmittelalterliche Kunst und das frühmittelalterliche Handwerk, die die alte heidnische Symbolik auch nach der Annahme des Christentums bewahrten, oft bis in die späte Volkskultur, nicht nur eine dekorative Funktion erfüllten, sondern auch eine magische, mit einem bestimmten inneren Sinn für denjenigen, der sie benutzte, sei es im apotropäischen Sinne, zum Schutz vor den ungünstigen Kräften der Natur und des Schicksals, oder zur Sicherung des Erfolgs in der Produktion, im Handel, im Kampf und in persönlichen Angelegenheiten. Deshalb betrachten wir außer dem Pferd als selbständiger Figur oder auf verschiedenen Gegenständen auch andere Tiermotive: Fische, Vögel, Lämmer, Ziegenböcke, Schlangen, Hirsche, Drachen, Greifen, gegebenenfalls auch Fabelwesen wie Rusalken und Sirenen oder die Motive des Lebensbaums, des Füllhorns, die Ideogramme der Sonne und Ähnliches. Besonders häufig begegnen wir ihnen auf russischen Armringen und Anhängern, die auch die apotropäische Funktion von Talismanen hatten. Am Hals hingen Löffelchen als Symbol der Sättigung und des Wohlstands, Schlüssel als Symbol der Sicherheit und des Reichtums, Äxte als Attribut Peruns, Kämme, die Schutz vor Krankheit sicherten, Lunulae, die mit dem Mondkult verbunden waren, Tierzähne, Krallen und Kiefer, Schellen und Kaurimuscheln, durchweg als Schutz vor schädlichen Kräften. Viele dieser Motive sehen wir auf Schmuck und Zierden in unterschiedlichster Ausführung auch aus anderen slawischen Kulturgebieten: dem slawisch-awarischen, dem Bijelo-Brdo-, dem karantanischen, dem bulgarischen, dem großmährischen, dem böhmischen, dem polnischen und dem elbe- und ostseeslawischen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Urne mit menschlichen Überresten – Brandritus",
+    "alt": "Urne mit menschlichen Überresten – Brandritus",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Magischen Zwecken dienten auch tönerne Eier mit farbiger Glasur, die bereits im 10. Jahrhundert vor allem in der Kiewer Rus hergestellt wurden, die jedoch auch an anderen Orten verbreitet waren, zum Beispiel im schlesischen Opole, im pommerschen Wolin, in Danzig und anderen. Sie symbolisierten die Kraft der Fruchtbarkeit, und man kann annehmen, dass sie besonders bei Hochzeitszeremonien verwendet wurden. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Symbole"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die heidnische Symbolik überdauerte in der volkstümlichen Holzschnitzerei bis ins 20. Jahrhundert",
+    "alt": "Die heidnische Symbolik überdauerte in der volkstümlichen Holzschnitzerei bis ins 20. Jahrhundert",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine besondere Gruppe magischer Motive bilden die Ideogramme, die grafischen Symbole: Kreis, Kreuz, Swastika, Swarga, Triquetrum, Rad, Rosette, Lunula, Pentagramm, Hexagramm, Hand und ihre Varianten. Sie erscheinen auf Gefäßen, Schmuck, Waffen, Werkzeugen, Steinen und anderen Gegenständen mit ganz offensichtlicher magischer, schützender und schöpferischer Funktion. Sie sind über alle Kontinente verbreitet, in einigen Fällen bereits seit dem Paläolithikum, ohne kulturelle, ethnische und zeitliche Grenzen, wie eine Art uralte Weltschrift, die man in ihrer Vieldeutigkeit ohne Worte verstand. Sie drückten die Erfahrungen der Naturkräfte aus und gleichzeitig die Vorstellung, dass diese Kräfte auch durch ihr Symbol wirken, das ihre Konzentration war: ein Ideogramm auf dem Boden eines Gefäßes schützte die Speise und vermehrte sie, auf einem Schwert oder einer Axt gab es den Kriegern größere Kraft, auf Spinnwirteln einen festen Faden, auf Anhängern, Fingerringen oder einem Armring schützte es die Besitzerin vor bösen Kräften usw.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Deshalb überlebten diese Ideogramme auch in der christlichen Kultur, die ihnen oft nur einen anderen Sinn gab, zum Beispiel dem Kreuz, und wir begegnen ihnen auch in der Volkskultur, oft bis heute, auf Trachten, Stickereien, Ostereiern, Schmuck, Möbeln, Truhen, Lampen, Schlitten, Wagen, Balken, Fenstern und Türen der Wohnhäuser, in Töpfer- und Steinmetzzeichen und Ähnlichem. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Artikel wurde nur mit minimalen Anpassungen aus der Studie von Zdeněk Váňa Archeologické doklady kultu a magie u Slovanů (Slovenská archeológia XXXVI-2, 1988) übernommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

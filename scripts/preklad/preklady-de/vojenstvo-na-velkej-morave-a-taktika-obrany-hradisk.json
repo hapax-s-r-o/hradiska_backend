@@ -1,0 +1,659 @@
+{
+ "slug": "vojenstvo-na-velkej-morave-a-taktika-obrany-hradisk",
+ "data": {
+  "title": "Das Kriegswesen Großmährens und die Taktik der Burgwallverteidigung",
+  "slug": "kriegswesen-grossmaehren-verteidigung-der-burgwaelle",
+  "excerpt": "Wie stand es um die Kampffähigkeiten unserer Vorfahren? Der Mythos vom „Taubenvolk“ hält den Quellen nicht stand: Die Militärmacht der mojmiridischen Fürsten ruhte auf der Gefolgschaft berittener Krieger, und die Schriftquellen berichten von 65 Kriegsereignissen Großmährens. Dazu die Taktik, mit der die Burgwälle den fränkischen Heeren standhielten – und die Frage, warum sie zu Beginn des 10. Jahrhunderts dennoch fielen.",
+  "metaTitle": "Kriegswesen Großmährens und Verteidigung der Burgwälle",
+  "metaDescription": "Militärmacht der Mojmiriden, Gefolgschaft berittener Krieger und die Taktik, mit der großmährische Burgwälle den fränkischen Heeren standhielten.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Kriegswesen und Taktik der Burgwallverteidigung in Großmähren",
+    "icon": "sword"
+   },
+   {
+    "label": "Heeresstärke",
+    "value": "Reiterei etwa 5000–8000 Mann, Fußvolk bei maximaler Mobilmachung bis 20.000–25.000",
+    "icon": "shield"
+   },
+   {
+    "label": "Wichtigste Autoren",
+    "value": "Alexander Ruttkay, Matej Ruttkay, Rudolf Procházka",
+    "icon": "book"
+   },
+   {
+    "label": "Verteidigungstaktik",
+    "value": "Konzentration auf den zentralen Burgwall, abwartende Taktik, plündernde Gegenoffensive",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "623",
+    "title": "Wogastisburg",
+    "description": "Die Slawen unter der Führung Samos wehrten sich erfolgreich gegen die Heere des fränkischen Königs Dagobert – die älteste schriftliche Nachricht über die Nutzung einer Befestigung (Fredegar-Chronik).",
+    "type": "event"
+   },
+   {
+    "year": "ab 846",
+    "title": "Kriege mit dem Frankenreich",
+    "description": "Großmähren führt eine Reihe von Verteidigungskriegen gegen die ostfränkischen Könige Ludwig den Deutschen und Arnulf, in denen die befestigten Burgwälle eine Schlüsselrolle spielen.",
+    "type": "event"
+   },
+   {
+    "year": "864",
+    "title": "Belagerung des „Burgwalls Rastislavs“",
+    "description": "Das fränkische Heer belagert die zentrale Befestigung, die am häufigsten mit Devín oder Mikulčice gleichgesetzt wird.",
+    "type": "event"
+   },
+   {
+    "year": "nach 892",
+    "title": "Kriege mit den Altungarn",
+    "description": "Nach dem Jahr 892 hat Großmähren Verteidigungskriege auch gegen altungarische Einfälle zu bestehen.",
+    "type": "event"
+   },
+   {
+    "year": "1. Hälfte des 10. Jahrhunderts",
+    "title": "Untergang der großmährischen Burgwälle",
+    "description": "Die Mehrzahl der Burgwälle (Pobedim, Břeclav-Pohansko, Líšeň, Znojmo-Hradiště und weitere) geht in der Zeit des Zusammenbruchs Großmährens unter oder wird erobert.",
+    "type": "event"
+   },
+   {
+    "year": "1017",
+    "title": "Erste belegte Belagerungsmaschinen in Mitteleuropa",
+    "description": "Thietmar von Merseburg hält den Einsatz von Kriegsmaschinen bei der Belagerung des schlesischen Němčí durch Kaiser Heinrich III. fest.",
+    "type": "event"
+   },
+   {
+    "year": "1142",
+    "title": "Die Mährer setzen Belagerungsmaschinen ein",
+    "description": "Das Heer Konrads von Znaim setzte bei der Belagerung Prags Belagerungsmaschinen ein und setzte das Georgskloster in Brand.",
+    "type": "event"
+   },
+   {
+    "year": "1168",
+    "title": "Der Fall Arkonas",
+    "description": "Die Dänen verbrannten bei der Belagerung Arkonas den Turm, die Aufbauten und den oberen Teil der mächtigen slawischen Befestigung.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3936,
+    "alt": "Zeichnung des Königs Svatopluk zu Pferd mit Schwert und Fahne"
+   },
+   {
+    "mediaId": 3937,
+    "caption": "Das Aussehen eines Reiters und eines Fußkämpfers zur Zeit Großmährens",
+    "alt": "Das Aussehen eines Reiters und eines Fußkämpfers zur Zeit Großmährens"
+   },
+   {
+    "mediaId": 3938,
+    "caption": "Das wahrscheinliche Aussehen eines großmährischen Adligen",
+    "alt": "Das wahrscheinliche Aussehen eines großmährischen Adligen"
+   },
+   {
+    "mediaId": 3939,
+    "caption": "Ein fränkischer Reiter im 9. Jahrhundert",
+    "alt": "Ein fränkischer Reiter im 9. Jahrhundert"
+   },
+   {
+    "mediaId": 3940,
+    "caption": "Darstellung einer Schlacht nach einer Chronik des 9. Jahrhunderts",
+    "alt": "Darstellung einer Schlacht nach einer Chronik des 9. Jahrhunderts"
+   },
+   {
+    "mediaId": 3941,
+    "caption": "Der großmährische Burgwall Gars-Thunau in Niederösterreich hatte eine Kastenkonstruktion und eine Steinfront",
+    "alt": "Der großmährische Burgwall Gars-Thunau in Niederösterreich hatte eine Kastenkonstruktion und eine Steinfront"
+   },
+   {
+    "mediaId": 3932,
+    "caption": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)",
+    "alt": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)"
+   },
+   {
+    "mediaId": 3942,
+    "caption": "Der Burgwall Chotěbuz in Nordmähren",
+    "alt": "Der Burgwall Chotěbuz in Nordmähren"
+   },
+   {
+    "mediaId": 3944,
+    "caption": "Chotěbuz – Blick aus dem Inneren des Burgwalls",
+    "alt": "Chotěbuz – Blick aus dem Inneren des Burgwalls"
+   },
+   {
+    "mediaId": 3946,
+    "caption": "Belagerung einer Stadt im 9. Jahrhundert",
+    "alt": "Belagerung einer Stadt im 9. Jahrhundert"
+   },
+   {
+    "mediaId": 3947,
+    "caption": "Angriff auf den Burgwall Mecklenburg",
+    "alt": "Angriff auf den Burgwall Mecklenburg"
+   },
+   {
+    "mediaId": 3955,
+    "caption": "Die gefürchtete fränkische Reiterei",
+    "alt": "Die gefürchtete fränkische Reiterei"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Kriegswesen Großmährens"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Kriegswesen Großmährens und die Taktik der Burgwallverteidigung",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie stand es um die Kampffähigkeiten unserer Vorfahren? Vergessen wir den Mythos vom „Taubenvolk“ lieber schnell. Der Krieg – und oft gerade der Angriffskrieg – war offenbar ein gewöhnlicher Bestandteil des Lebens nicht nur der herrschenden Schicht, sondern auch der Schicht der Freien. Wie Alexander Ruttkay anführt, ruhte die Militärmacht der mojmiridischen Fürsten und des Kreises der Adligen auf der Gefolgschaft, also dem bewaffneten Geleit berittener Krieger, die Teil der führenden gesellschaftlichen Schicht waren. Interessant ist die Feststellung, dass die Schriftquellen insgesamt Angaben zu 65 Kriegsereignissen enthalten, die Großmähren betreffen. Die Hauptwaffe der großmährischen Aristokratie waren "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zbrane-nitranov-v-casoch-velkej-moravy",
+        "children": [
+         {
+          "type": "text",
+          "text": "zweischneidige Schwerter"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Beim Umgang mit ihnen im Sattel des Pferdes half ein bedeutendes – und damals noch nicht in allen Teilen Europas verbreitetes – Element: feste Steigbügel. Bei der Beherrschung des Pferdes dominierten die Sporen. Gerade Schwert und Sporen bedeuteten im 9. Jahrhundert noch einen recht deutlichen Unterschied, durch den sich die Bewaffnung west- und mitteleuropäischen Typs von der osteuropäischen bzw. steppenhaften Bewaffnung und Kampfweise unterschied."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Hauptlohn der Gefolgsleute für die zuverlässige Hilfe für den Herrscher war die Kriegsbeute. Auch deshalb war die Organisation von Kriegszügen unmittelbar notwendig. Der Heldenkult als ethisches Vorbild wurde wohl auch bei uns zum Motiv von Liedern und Mythen, die sich jedoch leider aus der Tiefe der Zeiten nicht in einer geschlosseneren, literarisch verarbeiteten Form erhalten haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Unsere Krieger – ein Reiter und ein Fußkämpfer",
+    "alt": "Unsere Krieger – ein Reiter und ein Fußkämpfer",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der zweite – wesentlich größere Teil der Heere im 9. Jahrhundert war nach alten Traditionen das sogenannte Heeresaufgebot der freien Männer im Rahmen der Nachbarschafts- oder Sippengemeinden. In diesem Teil der Heere überwog das Fußvolk, die Hauptwaffe waren verschiedene Formen von Streitäxten. Eine vorwiegend vom Fußvolk geführte Waffe war auch der große hölzerne Bogen. Ein wirklich universelles Militärgerät von Reiterei und Fußvolk war die Lanze in Verbindung mit dem Schild. Metallhelme sowie Ketten- oder auch Schuppenpanzer verwendeten in dieser Zeit allerdings offenbar nur die höheren Gesellschaftsschichten. Verbreiteter waren verschiedene Formen von Schutzkleidung aus einer Kombination von Leder und Textil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über Strategie und Taktik im Kriegswesen unserer Vorfahren, und zwar vor allem in der Zeit der Herrschaft Rastislavs und Svatopluks bzw. auch seiner Söhne, sind wir vor allem im Zusammenhang mit dem ostfränkischen Staat unterrichtet. Insgesamt lassen sich flexible militärstrategische Vorgehensweisen unserer Fürsten erkennen: das Suchen geeigneter Bündnisse mit Byzanz und der Unterstützung der päpstlichen Kurie zur Schaffung eines strategischen Gleichgewichts gegen die stete fränkische Bedrohung sowie die Bemühungen um die Verteidigung der östlichen Teile des Gebietes am Ende des 9. Jahrhunderts gegen den altungarischen Druck."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein Angehöriger des großmährischen Adels zu Pferd",
+    "alt": "Ein Angehöriger des großmährischen Adels zu Pferd",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den Kern der großmährischen Heere stellte die Reiterei dar (etwa 5000–8000 Mann, wobei die Zahl des Fußvolks bei maximalem Einsatz – was wohl nur ausnahmsweise vorkam – vielleicht bis zu 20.000–25.000 erreichen konnte). Eine vollständige „Mobilmachung“ musste unter den frühmittelalterlichen Informations-, Organisations- und Kommunikationsbedingungen verhältnismäßig lange dauern – bei der Organisation eines Angriffs bis zu mehreren Wochen. Der Fürst versetzte seine unmittelbare Gefolgschaft in Kampfbereitschaft, seine Boten verkündeten den „Mobilmachungsbefehl“, das Heeresaufgebot der freien Männer wurde dann schon auf Anweisung aus den Burgzentren organisiert. Danach rückten die Abteilungen zum Ort des gemeinsamen Sammelpunktes vor. Die Mobilmachung zur Verteidigung ging viel schneller. Hier handelte es sich um die Konzentration der Abteilungen im Zuständigkeitsbereich der einzelnen Verwaltungszentren – die auch die Funktion von Fliehburgen (Zufluchtsburgwälle) erfüllten. Die Analyse der schriftlichen Nachrichten bezeugt eine sehr gut organisierte Verteidigung unserer Vorfahren und ein mächtiges, in jener Zeit schwer zu eroberndes System von Burgwällen. Charakteristisch ist auch die abwartende Taktik, bei der mit der Erschöpfung des Feindes in langwierigen Gefechten und Belagerungen und mit seinem Rückzug gerechnet wurde, bei dem ihn oft ein überraschender Schlag traf, verbunden mit Verfolgung und plündernder Gegenoffensive."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die praktische Nutzung der Fortifikationen des 7.–8. Jahrhunderts haben wir nur eine einzige schriftliche Nachricht, und zwar die Aufzeichnung der Fredegar-Chronik über den berühmten Wogastisburg, der sich auf markante Weise in die Geschichte der Slawen eingeschrieben hat und in dem sich die Slawen unter der Führung Samos gegen die Heere des fränkischen Königs Dagobert wehrten. In der Zeit nach dem Tod Samos und dem vermuteten Untergang seines Reiches bestand jedoch mit höchster Wahrscheinlichkeit das Interesse des Frankenreichs an der Beherrschung des Gebietes von Böhmen, Mähren und der Slowakei weiter. Der größere Teil des Gebietes der Slowakei und Mährens gehörte in dieser Zeit nicht zum unmittelbaren militärischen Einflussbereich des Awarenkhaganats, dessen Macht im Laufe des 8. Jahrhunderts allmählich schwand, und man darf mit Grund annehmen, dass sich parallel dazu ein erster Adel formierte und erstarkte, der in der Folge eine bedeutende Rolle beim Bau der ersten Burgwälle auf dem Gebiet der heutigen Slowakei spielte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Ein fränkischer Reiter im 9. Jahrhundert",
+    "alt": "Ein fränkischer Reiter im 9. Jahrhundert",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es ist unstrittig, dass in der Reihe der Verteidigungskriege, die Großmähren etwa ab dem Jahr 846 mit dem Frankenreich und nach dem Jahr 892 mit den Altungarn führte, die befestigten Burgwälle eine Schlüsselrolle spielten. Die Verteidigungsstrategie im Kampf mit den Heeren der ostfränkischen Könige Ludwig des Deutschen und Arnulfs hatte zwei Grundformen. Im Falle eines Angriffs großer Kräfte aus einem wesentlichen Teil des Reiches mieden die Mährer die Entscheidungsschlacht und konzentrierten ihre Heere unter der Führung des Herrschers auf die Verteidigung eines bestimmten Burgwalls von zentraler Bedeutung, wohin sich gewöhnlich der Hauptschlag der Reichsaufgebote richtete. Gleichzeitig wurde gegen den Angreifer ein Kleinkrieg geführt. Die Verteidigung des Schlüsselortes war in der Regel erfolgreich, womit etwaige Teilmisserfolge und Verheerungen des Landes aufgewogen wurden. Es ist sehr wahrscheinlich, dass die Nachrichten zu den Jahren 855, 869 und 871 dieselbe zentrale befestigte Anlage betreffen, während im Jahr 864 ein Burgwall angegriffen wurde, der am häufigsten mit Devín (Theben) gleichgesetzt wird. In dieser Taktik sind ähnliche Elemente zu erkennen, wie sie der bereits erwähnte Samo mehr als 200 Jahre zuvor gegen Dagobert nutzte. In dem Fall, dass das Gebiet Mährens von einem kleineren Heer aus einzelnen Teilen des Frankenreichs angegriffen wurde, ließen sich die mährischen Heere häufiger auf offene Schlachten ein (z. B. 869, 871, 872). Eine solche Strategie entsprach, wie Procházka anführt, dem Charakter der Kämpfe des frühmittelalterlichen böhmischen und polnischen Staates mit dem Deutschen Reich im 10.–12. Jahrhundert, woher wir überdies besser über Begegnungen im Grenzsaum unter Nutzung natürlicher Hindernisse und auch über die Eroberung von Burgen unterrichtet sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Kampfaufstellung kam die vorderste Schlachtreihe mit den Reiterheeren an der Front zur Anwendung, in der Tiefengliederung wurden manchmal zwei Treffen genutzt. Es gibt auch Nachrichten über Abteilungen, die in Reserve gehalten wurden. Die Möglichkeit der unmittelbaren Leitung der Schlacht durch den Befehlshaber endete offenbar mit dem Befehl zum Kampf, mit dem der Ansturm der Reiterei mit eingelegten Lanzen begann. Brachte dieser Schlag keinen entscheidenden Erfolg, so zeigte sich im weiteren Verlauf der Schlacht auf dem engen Kampffeld nicht selten die zahlenmäßige Überlegenheit des Fußvolks und seine bessere Manövrierfähigkeit. Dann stiegen nicht selten auch die im gemeinsamen Verband kämpfenden Reiterkrieger von den Pferden und verstärkten die Reihen des Fußvolks. Der ausgeprägten Ungeordnetheit frühmittelalterlicher Kriege entsprach auch die Unordnung des Rückzugs der geschlagenen Seite, der sich gewöhnlich in eine kopflose Flucht verwandelte. So wurden z. B. flüchtende fränkische Krieger auch von der einfachen slawischen Bevölkerung getötet, und die schriftlichen Nachrichten erwähnen eine beträchtliche Anzahl von Kriegern, die auf der Flucht in den Flüssen ertranken."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Darstellung einer Schlacht nach einer Chronik des 9. Jahrhunderts",
+    "alt": "Darstellung einer Schlacht nach einer Chronik des 9. Jahrhunderts",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Verteidigung der Burgwälle"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für den Bau der Burgwälle ist jene Tatsache von wichtiger Bedeutung, dass mechanische Kriegsmaschinen in Mitteleuropa wahrscheinlich erst um die Jahrtausendwende auftauchten und also in der Zeit des Bestehens Großmährens nicht zur Eroberung von Städten und Burgwällen verwendet wurden. In Einklang mit den Nachrichten der zeitgenössischen Chronisten nehmen wir an, dass die Hauptform des Kampfes um befestigte Orte der direkte Angriff oder die Blockade in Verbindung mit der Plünderung des Umlandes war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Welche Verteidigungseigenschaften hatten die Holz-Erde-Befestigungen? Alle, auch die einfachsten, zwangen den Gegner bei gutem Zustand durch eine Überhöhung von mindestens etwa drei Metern, bei der Belagerung Hilfsmittel einzusetzen, was einerseits die unmittelbare Wirkung seiner zahlenmäßigen Überlegenheit ausschaltete und ihn andererseits im Fernkampf mit Bogen oder Schleudern und später auch im unmittelbaren Zusammenstoß in eine ungünstige Stellung brachte. Natürlich darf auch der moralische Faktor nicht übergangen werden – wir verteidigen unsere Häuser, unseren Besitz, ihr wollt uns diesen unseren Besitz zerstören und nehmen. Eine einfache Palisade ließ sich jedoch aufbrechen oder in Brand setzen, der Graben zuschütten oder überbrücken. Eine große Schwäche der Schalenmauer mit hölzerner Front war zudem die geringe Widerstandsfähigkeit gegen Feuer. Im Falle der Zerstörung der Vorderwand und einer teilweisen Destruktion der Befestigung stand jedoch bei ausreichender Breite dem Eindringen in das Innere weiterhin wenigstens ein Hindernis in Form des Wallkörpers im Weg. Noch bessere Eigenschaften wies in dieser Hinsicht eine Fortifikation mit einer dem Feind zugewandten Steinmauer (Steinfront) auf – wie wir sie von mehreren Burgwällen in Mähren und der Slowakei kennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der großmährische Burgwall Gars-Thunau in Niederösterreich hatte eine Kastenkonstruktion und eine Steinfront",
+    "alt": "Der großmährische Burgwall Gars-Thunau in Niederösterreich hatte eine Kastenkonstruktion und eine Steinfront",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Trotzdem rechnete man offenbar mit der Möglichkeit einer mechanischen Zerstörung der Mauer durch den Angreifer. Diese Tatsache hält Procházka für einen der Gründe, warum Schalenmauern und auch andere Mauern gewöhnlich eine größere Breite als vier Meter erreichen. Das gilt auch für Kastenkonstruktionen, besonders wenn es sich um mehrere Reihen von Blockkästen handelte – für einen Durchbruch mussten hier mehrere Wände hintereinander durchbrochen werden. Eine Überhöhung von etwa vier Metern gegenüber einem gegebenenfalls schon zugeschütteten Graben war für den Feind jedoch nicht unüberwindlich, besonders wenn der hölzerne Aufbau der Mauer bereits beschädigt war. Falls die ersten Eroberer schon auf die Mauerkrone vorgedrungen waren, erlaubte der mehrere Meter breite Wehrgang, an der bedrohten Stelle genug Verteidiger zu versammeln und im Nahkampf eine lokale zahlenmäßige Überlegenheit zu gewinnen. Das ist wohl der zweite Grund, warum Schalen- und Kastenmauern im Verhältnis zu den jüngeren, aber höheren und widerstandsfähigeren Mauern aus Stein und Mörtel breiter gebaut wurden. Im Falle einer abgeschrägten Rostkonstruktion und eines einfachen Erdaufschüttungswalls tritt zu diesen Faktoren noch eine bautechnische Bedingtheit hinzu – Höhe und Breite des Wehrgangs sind der Breite der Basis direkt proportional. Wir sehen also, dass die Holz-Erde-Mauern in der Gestalt, in der wir sie anhand des Befundes rekonstruieren können, ein Kompromiss zwischen bautechnischen Anforderungen, besonders im Bereich der Stabilität, und den Bedürfnissen der Verteidigung waren. Ihre große Schwäche waren offenbar meist die hölzernen Aufbauten (Brustwehren). Trotzdem waren die großmährischen Festungen für die fränkischen Heere, die noch keine Kriegsmaschinen verwendeten, ein unüberwindliches Hindernis, wovon uns mehrere zeitgenössische Quellen Zeugnis geben (z. B. über den unermesslichen Burgwall Rastislavs)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)",
+    "alt": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie bereits oben angedeutet, musste der Mauerkörper eine ausreichende Höhe erreichen, damit sein oberer Rand mit gewöhnlichen Mitteln nicht zu erreichen war. Die durchschnittliche Höhe der Mauer (ohne Brustwehr) betrug 3 m (und mehr), was der oben angeführten Annahme entspricht. Ein gewisses Risiko stellt ein Reiter dar, der vom Rücken des Pferdes als von einem erhöhten Punkt aus die Mauerkrone erreichen könnte. Die strategische Anlage eines Grabens oder eines Wasserlaufs vor den Mauern stellt für Reiter jedoch ein Hindernis dar, das dieses Risiko deutlich verringert. Die Körpergröße musste weiterhin beim Bau der Tore und Türme und ihrer Kammern berücksichtigt werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von der Körpergröße musste die Höhe der hölzernen Brustwehr auf der Krone des Mauerkörpers ausgehen. Sie musste mindestens 170 cm betragen, denn der oben angeführte Wert für die Körperhöhe ist ein Durchschnittswert, und die Erbauer rechneten sicher auch mit dem Schutz überdurchschnittlich großer Personen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Burgwall Chotěbuz in Nordmähren",
+    "alt": "Der Burgwall Chotěbuz in Nordmähren",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Gestaltung der Brustwehr ist ein weiteres, von der Körpergröße abgeleitetes Maß wichtig, nämlich die Höhe bis zur Gürtellinie. Die Brustwehr konnte ihren Zweck am besten erfüllen, wenn sie in der Form von Zinnen gestaltet war, also abwechselnd Wandstücke bildete, die den ganzen Körper des Verteidigers deckten, und Lücken, die dem Verteidiger Raum für die Verteidigung der Mauer gaben. Bei einem Menschen mit einer Größe von 170 cm reicht der Gürtel bis in eine Höhe von etwa 90 cm. Die Kante der Zinnenlücke der Brustwehr erreichte also eine Höhe von etwa 90 cm (3 Fuß), und über der Gürtellinie des Verteidigers entstand so ein offener Raum, der zur Verteidigung der Mauer ausreichte. Der Verteidiger konnte sich über die Kante der Mauer lehnen und den Raum an der Basis der Mauer und ihr Vorfeld visuell überwachen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Überlegungen dazu, für welche Zahl von Verteidigern die großmährischen Burgwälle gebaut wurden, lassen sich nach Procházka bislang nicht zuverlässig belegen. Hypothetisch wird ein Koeffizient von 1 Verteidiger auf 5 m Länge der Befestigung angenommen, was man für einen gewissen „Verteidigungskoeffizienten“ halten kann. Es ist jedoch sehr wahrscheinlich, dass z. B. einige Burgwälle mit Flächen meist im Bereich von 10–28 ha so geplant wurden, dass sie möglichst viele Menschen aufnehmen konnten. Man darf annehmen, dass z. B. im Jahr 864 oder 869, als das fränkische Heer vor der „unaussprechlichen Festung Rastislavs“ stand, die gewöhnlich mit Mikulčice (oder manchmal mit Velehrad) gleichgesetzt wird, hinter ihren Mauern der Kern des Heeres des großmährischen Herrschers stand. Wir wissen aus jüngeren Quellen, dass sich die Angriffe gewöhnlich auf begrenzte Abschnitte des konkreten Mauerrings konzentrierten, sodass die Verteidigung die gesamte Verteidigungslinie gewöhnlich nicht gleichmäßig sicherte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Kriegswesen Großmährens und die Taktik der Burgwallverteidigung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Teil der mittelburgwallzeitlichen Befestigungen im betrachteten Raum trägt Brandspuren. Das betrifft vor allem die Burgwälle Břeclav-Pohansko (Lundenburg), Líšeň und Znojmo-Hradiště (Znaim), wo die hölzernen Elemente wohl wesentlicher Teile der Umfassungsbefestigung, also der Verstrebung und der Rückwand, verbrannten. In Mikulčice erfasste das Feuer offenbar nur den Bereich des Nordosttores. Noch mehr Brandbelege kennen wir von den Befestigungen slowakischer Burgwälle, wo das vernichtende Element die Mauern von Bratislava (Pressburg), beider Fundstellen in Devínska Nová Ves, von Jur pri Bratislave (Sankt Georgen), Hronský Beňadik, Majcichov, Pobedim und Festunok – Tlmače erfasste. Auch wenn einige Fundstellen (Pobedim, Břeclav-Pohansko, das befestigte Gehöft in Strachotín) noch im Laufe des 9. Jahrhunderts untergingen, nehmen wir bei der Mehrheit der übrigen ihre Einnahme bzw. ihren Untergang in der 1. Hälfte des 10. Jahrhunderts an, also in der Zeit des Zusammenbruchs Großmährens. Angesichts des erfolgreichen Widerstandes der großmährischen Burgwälle gegen die Aggression des Frankenreichs und angesichts dessen, was wir über die Kampfweise der altungarischen leichten Reiterei wissen, müssen wir notwendig zu dem Schluss kommen, dass über das Schicksal dieser bemerkenswerten Wehranlagen zu Beginn des 10. Jahrhunderts außerhalb ihrer Mauern entschieden wurde. Trotzdem ließen sich Hinweise gewinnen, die für eine Beteiligung altungarischer Bogenschützen an der Eroberung einiger großmährischer Fundstellen sprechen. Mit diesen Angreifern dürften vor allem die blattförmigen, also rhombischen und deltoidförmigen Pfeilspitzen zusammenhängen, die in auffälligen Konzentrationen an einigen Stellen der Hauptburg von Mikulčice gefunden wurden. Procházka führt an, dass ein Beleg für ein Massaker die Funde zahlreicher Gräber am Hang außerhalb der Mauer der Hauptburg von Mikulčice und möglicherweise auch ein Teil der Gräber in der Oberflächenschicht im Inneren sein könnten. Es ist wahrscheinlich, dass das Land nach den Hauptschlägen, die gegen die Zentren der mojmiridischen Domäne geführt wurden, in Chaos und innere Kämpfe verfiel, in die auch altungarische Einheiten eingriffen. Damals wurden offenbar einige Befestigungen am Rand des alten südmährischen Siedlungsgebietes zerstört, z. B. Brünn-Líšeň, Radslavice – Zelená Hora oder Znojmo, und offenbar gehört hierher auch das niederösterreichische Gars-Thunau. Es lässt sich anmerken, dass im Unterschied zu Mikulčice oder Břeclav-Pohansko in Uherské Hradiště und Staré Město Belege für einen Brand der Befestigung oder andere Hinweise auf einen gewaltsamen Untergang fehlen. Etwas Ähnliches gilt im Wesentlichen auch für Nitra (Neutra), auch wenn sich dort eindeutige Schlüsse schwer ziehen lassen, da der größere Teil der Befestigungen nicht erhalten ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Chotěbuz – Blick aus dem Inneren des Burgwalls",
+    "alt": "Chotěbuz – Blick aus dem Inneren des Burgwalls",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Belagerungstechnik des 11. Jahrhunderts wurde durch mechanische Maschinen bereichert, die Geschosse verschiedener Art zu werfen vermochten. Holz-Erde-Fortifikationen konnten sie bei ausreichender Breite zwar nicht zerstören, dafür lag es in ihrer Macht, die Aufbauten zu zerschmettern und vor allem mit Brandstoffen ein Feuer zu legen. Von ihrem ersten Einsatz durch die Mährer erfahren wir im Jahr 1142, als das Heer Konrads von Znaim Prag belagerte und das Georgskloster in Brand setzte. Auch die Verteidiger verfügten manchmal über ähnliche Mittel. Zwischen den Jahren 1112 und 1116 ist bereits der Einsatz von Maschinen bei der Beschreibung der Belagerung mehrerer Burgen belegt – Nakło und Wyszogród, hier einschließlich eines Belagerungsturms, was ihre allgemeine Kenntnis im Milieu der mitteleuropäischen Staaten zu Beginn des 12. Jahrhunderts bezeugt. Die massiven Mauern der piastischen Burgen zeichneten sich durch eine hohe Widerstandsfähigkeit gegen mechanische Zerstörung aus. Im Vergleich mit den Befestigungen mit Steinfront, wie wir sie aus dem Milieu Großmährens kennen, enthielten sie jedoch einen höheren Holzanteil, der die Brandgefahr erhöhte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Das Kriegswesen Großmährens und die Taktik der Burgwallverteidigung",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Belagerungstürme und Rammböcke wurden schon früher verwendet, mindestens im 10. Jahrhundert. In Mitteleuropa gehören zu den ältesten Belegen die Angaben Thietmars von Merseburg über den Einsatz von Kriegsmaschinen bei der Belagerung des schlesischen Němčí durch Kaiser Heinrich III. im Jahr 1017. Ebenso ergänzten die Verteidiger ihre Anlagen manchmal durch improvisierte Türme, wie aus der Beschreibung des dänischen Feldzugs von 1171 gegen die Abodriten hervorgeht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die gesamte Geschichte Großmährens deutet darauf hin, dass als Pfeiler der Verteidigungsstrategie – neben natürlichen Hindernissen wie Flüssen und Gebirgen mit etwaigen Verhauen – das Netz der Burgwälle erscheint, besonders jener, die in den Randgebieten des Reiches lagen. Aus Verteidigungssicht fixierten diese Fundstellen vor allem das Staatsgebiet gegenüber den Nachbarn, bzw. fingen ihre Besatzungen Angriffe kleinerer Kräfte des Gegners ab. Die Schlüsselrolle in den Feldzügen spielten aber die Hauptzentren, deren Beherrschung über den Ausgang der Konflikte entschied. Der Rückgang der Flächen der Burgwälle im 10. und 11. Jahrhundert beschränkte die Zufluchtsrolle der Burgwälle vor allem auf professionelle bewaffnete Kräfte, auch wenn einige Fundstellen wenigstens einem Teil der Landbevölkerung oder ihrem bewaffneten Teil, dem Aufgebot, Zuflucht bieten konnten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Belagerung einer Stadt im 9. Jahrhundert",
+    "alt": "Belagerung einer Stadt im 9. Jahrhundert",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Verlauf der Kriege aus der Zeit Großmährens und auch im 11.–12. Jahrhundert beweist die Wirksamkeit der Verteidigung durch den Rückzug in die Festung, der den Angreifer nach der Verheerung des Landes oft zu Verhandlungen zwang, was im Übrigen für den größten Teil des Mittelalters gilt. Die Verheerung des Landes war besonders in inneren Kriegen wirksam, und manchmal geschah es, dass sich die Verteidiger in einem solchen Fall lieber freiwillig ergaben. Nur vereinzelt erfahren wir von der Einnahme einer Burg durch Angriff oder durch Kapitulation. Aus einigen erhaltenen schriftlichen Nachrichten erfahren wir auch, dass die Burgwälle ein wesentliches militärisches Problem auch für die Altungarn darstellten, die mit ihrer nomadischen Kampfweise offensichtlich nicht zur unmittelbaren Eroberung bedeutenderer Burgwälle fähig waren. Die Verheerung des Umlandes, die sie betrieben, verursachte der Bevölkerung jedoch große wirtschaftliche Probleme."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Angriff auf den Burgwall Mecklenburg",
+    "alt": "Angriff auf den Burgwall Mecklenburg",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den bekanntesten ausländischen Quellen zur Eroberung von Burgwällen gehört die Beschreibung der Belagerung Arkonas durch die Dänen im Jahr 1168, bei der es ihnen im Laufe des Angriffs gelang, den Turm, die Aufbauten und den oberen Teil der außerordentlich mächtigen slawischen Befestigung zu verbrennen. Bemerkenswerte Angaben bringt auch die Livländische Chronik, die häufig und recht ausführlich die Eroberung der Burgwälle der baltischen Völker durch den Schwertbrüderorden zu Beginn des 13. Jahrhunderts beschreibt. Die Holz-Erde-Fortifikation der angegriffenen Balten vermochte auch den gewöhnlich eingesetzten Kriegsmaschinen langen Widerstand zu leisten. Eines der Belagerungsmittel waren hier Holzhaufen, die die Kreuzfahrer am Fuß der Mauern zusammentrugen und dann anzündeten, womit sie manchmal die Entzündung der Befestigung und die Übertragung des Feuers auf die Innenbebauung erreichten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
