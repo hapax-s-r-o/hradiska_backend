@@ -1385,6 +1385,43 @@ Plattensee**, Malý Balaton → **der Kleine Plattensee**. V citáte Conversio
 ostáva rieka ako **Sala** (tvar prameňa), hoci slovenský text píše „Zala" —
 drží to zhodu so staršími článkami, ktoré ten istý úryvok citujú.
 
+**Zemnica — potvrdené.** Platí §5: **das Grubenhaus**. Jeden článok mal
+*die Grubenhütte*, dvadsaťštyri ďalších *Grubenhaus* — prepísal sa ten
+jeden, aj s jeho nemeckým slugom. Pozor pri oprave: *Hütte* je ženského
+rodu, *Haus* stredného, takže sa mení člen, pád aj koncovka prívlastku.
+
+**Župan × gespan.** Slovanský župan 9. – 10. storočia je **der Župan**;
+*der Gespan* ostáva uhorským reáliám 13. – 15. storočia. Vladyka → **der
+Ortsadlige**, veľmož → **der Adlige**.
+
+**Polabské a ďalšie kmene z Bavorského geografa.** Doplnenie zoznamu z 32.
+dávky: Liňania → **die Linonen**, Beteňci → **die Bethenzen**, Semeldinci →
+**die Smeldinger**, Moričania → **die Morizanen**, Daleminci → **die
+Daleminzier** (*Glomatschen*), Bužania → **die Buschanen**, Uličani → **die
+Ulitschen**, Pyrzycania → **die Pyritzer**, Velunzani → **die Wolliner**,
+Besunzane → **die Besunzaner**, Holasici → **die Holasitzen**, Kovari →
+**die Kabaren**. Pozor: *die Wolliner* (Velunzani od Wolinu) nie je to isté
+ako *die Wolhynier* (Volyňania). Rieka Dziwna → **die Dievenow**.
+
+**Autorské novotvary.** Stanislavovi „Slovieni" ostávajú **die Slovieni**
+a „Nitravania" ako **die Nitravanen** — sú to autorove termíny
+v etymologickej analógii Morava – Nitrava, nie bežné etnonymá; *Slowenen* by
+boli Slovinci (§12).
+
+**Arabskí a byzantskí autori v 65. dávke.** Masúdi → **Masudi**, Lev Múdry →
+**Leo der Weise**. Hārūn ibn Yahyā a Ibrāhīm ibn Yaʿqūb: slovenský text má
+vlastný prepis („Hárun ben Jahib", „Ibrahim Ibn Jakub") a ten sa ponecháva —
+nemecká arabistika má iný, ale opraviť ho by znamenalo opraviť autora.
+
+**Nálezy a remeslo (65. dávka).** Vyhňová lopatka → **die Essenschaufel**,
+bochníkový polotovar → **laibförmiger Barren**, postrižiny → **der Ritus der
+Haarschur**, raffelstättske clo → **die Raffelstettener Zollordnung**.
+Skupina Vekerzug → **die Vekerzug-Gruppe** (kultúra = *Vekerzug-Kultur*).
+
+**Zemepis (65. dávka).** Slovenský raj → **das Slowakische Paradies**,
+Strečnianska tiesňava → **die Strečno-Schlucht**. Dúpence ostávajú **Dúpence**
+s glosou *(Felshöhlen)* pri prvom výskyte.
+
 ---
 
 ## 12. Falošní priatelia — zoznam na kontrolu

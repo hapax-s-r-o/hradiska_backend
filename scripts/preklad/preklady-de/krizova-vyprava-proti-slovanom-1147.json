@@ -1,0 +1,204 @@
+{
+ "slug": "krizova-vyprava-proti-slovanom-1147",
+ "data": {
+  "title": "Der Wendenkreuzzug von 1147 gegen die Slawen",
+  "slug": "wendenkreuzzug-1147-gegen-die-elbslawen",
+  "excerpt": "Wie wir wissen, bewohnten im Frühmittelalter slawische Stämme ausgedehnte Gebiete im Raum des heutigen Deutschlands und hatten dort mächtige Fürstentümer aufgebaut. Viele dieser Stämme hielten noch im 12. Jahrhundert am heidnischen Glauben fest – was vielen christlichen Herrschern im Magen lag und schließlich in den Wendenkreuzzug mündete, den der Abodritenfürst Niklot zum Scheitern brachte.",
+  "metaTitle": "Der Wendenkreuzzug von 1147 gegen die Elbslawen",
+  "metaDescription": "Der Kreuzzug des Jahres 1147 gegen die heidnischen Elb- und Ostseeslawen – die Christianisierung als Vorwand für die Eroberung ihrer Fürstentümer.",
+  "keyFacts": [
+   {
+    "label": "Ereignis",
+    "value": "Wendenkreuzzug (Zweiter Kreuzzug) gegen die Elb- und Pommernslawen",
+    "icon": "sword"
+   },
+   {
+    "label": "Jahr",
+    "value": "1147",
+    "icon": "calendar"
+   },
+   {
+    "label": "Schlüsselfigur",
+    "value": "Niklot, Fürst der Abodriten, Held der Verteidigung gegen die Kreuzfahrer",
+    "icon": "crown"
+   },
+   {
+    "label": "Quellen",
+    "value": "Helmolds Slawenchronik, das Zeugnis Ottos von Bamberg, der Aufsatz N. Grazianskis",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1107–1108",
+    "title": "Die erste Absicht eines Zuges",
+    "description": "Ein Kreuzzug gegen die Westslawen war schon kurz nach dem ersten Kreuzzug nach Konstantinopel beabsichtigt, kam damals jedoch nicht zustande.",
+    "type": "event"
+   },
+   {
+    "year": "1124 und 1127",
+    "title": "Die Missionen Ottos von Bamberg",
+    "description": "Der christliche Bischof Otto von Bamberg besuchte zweimal das Land der pommerschen Slawen mit dem Ziel, sie zum Christentum zu bekehren.",
+    "type": "event"
+   },
+   {
+    "year": "1147",
+    "title": "Der Wendenkreuzzug",
+    "description": "Die christliche Gemeinschaft entsandte gegen die Elb- und Pommernslawen zwei Heere – eines gegen die Abodriten, das andere gegen die Liutizen.",
+    "type": "event"
+   },
+   {
+    "year": "29. Juni 1147",
+    "title": "Niklots Angriff auf Lübeck",
+    "description": "Der Abodritenfürst Niklot nahm durch einen plötzlichen Angriff vom Meer her Lübeck ein und zerstörte die im Hafen ankernden Schiffe; damit vereitelte er die Operationsbasis der Kreuzfahrer.",
+    "type": "event"
+   },
+   {
+    "year": "Juli 1147",
+    "title": "Die Belagerung von Dobin",
+    "description": "Deutsche und dänische Heere belagerten Niklots Befestigung Dobin; die Ranen besiegten unterdessen auf dem Meer die dänische Flotte, und die Versorgung der Belagerer kam zum Stillstand.",
+    "type": "event"
+   },
+   {
+    "year": "8. September 1147",
+    "title": "Der Rückzug von Demmin",
+    "description": "Der Abt von Corvey kehrte nach dem Misserfolg vor Demmin und dem Verlust der Hoffnung auf die Beherrschung Rügens vom Zug nach Hause zurück.",
+    "type": "event"
+   },
+   {
+    "year": "1150",
+    "title": "Der Fall Brandenburgs",
+    "description": "Mit Hilfe von Intrigen und Betrug wurde das brandenburgische Fürstentum erobert, womit das deutsche Vordringen nach Osten weiterging.",
+    "type": "event"
+   },
+   {
+    "year": "1160",
+    "title": "Das Ende des Abodritenstaates",
+    "description": "Während einer weiteren Invasion ging der von Niklot erneuerte Abodritenstaat unter, und Niklot selbst kam in einer Falle um.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3932,
+    "caption": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)",
+    "alt": "Angriff auf den Burgwall Behren-Lübchin (Deutschland)"
+   },
+   {
+    "mediaId": 3933,
+    "caption": "Der Tod Niklots",
+    "alt": "Der Tod Niklots"
+   },
+   {
+    "mediaId": 3934,
+    "caption": "Das Denkmal des Fürsten Niklot",
+    "alt": "Das Denkmal des Fürsten Niklot"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie wir wissen, bewohnten im Frühmittelalter slawische Stämme ausgedehnte Gebiete im Raum des heutigen Deutschlands (das Elbgebiet und den Ostseeraum), wo sie mächtige Fürstentümer aufgebaut hatten. Überdies hielt eine Menge dieser Stämme noch im 12. Jahrhundert am ursprünglichen heidnischen Glauben fest. Diese Tatsache (zusammen mit dem Bestreben, ihre ausgedehnten Gebiete machtpolitisch zu beherrschen) lag vielen christlichen Herrschern und Heerführern im Magen und mündete schließlich in den sogenannten Wendenkreuzzug. Über dieses Ereignis lesen Sie im folgenden Artikel, der eine Übersetzung aus dem russischen Original ist:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Angriff auf den Burgwall Behren-Lübchin",
+    "alt": "Angriff auf den Burgwall Behren-Lübchin",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Redaktionelle Anmerkung: ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Der folgende Text ist eine wörtliche Übersetzung eines älteren Artikels aus einer russischen Quelle (Portal leva-net.webnode.cz, russischer Originaltext peshera.org). Der historische Kern der Übersetzung geht von authentischen mittelalterlichen Chroniken aus – vor allem von der Slawenchronik Helmolds und vom Zeugnis des Bischofs Otto von Bamberg – sowie von dem Aufsatz des Historikers N. Grazianski „Der Kreuzzug des Jahres 1147 gegen die Slawen und seine Ergebnisse“. Die Übersetzung übernimmt an einigen Stellen jedoch auch Verweise auf die pseudohistorische Literatur N. Lewaschows und das Konzept des sogenannten „Slawisch-Arischen Reiches“, die in der Fachhistoriographie keine Stütze haben. Wir führen sie nur als untrennbaren Bestandteil der ursprünglichen Übersetzung an, ohne uns mit ihnen zu identifizieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die Wagrier traf, ähnlich wie die übrigen westslawischen Stämme, ein nicht zu beneidendes Schicksal. Am Beginn des 10. Jahrhunderts begann der deutsche Drang nach Osten, in dessen Verlauf die Westslawen teils aus ihren Ländern vertrieben, teils zum Christentum bekehrt und assimiliert wurden, die Mehrheit von ihnen aber einfach ausgerottet wurde.",
+    "author": "Prof. N. Grazianski (nach Helmold und Otto von Bamberg)",
+    "source": "Übersetzung: leva-net.webnode.cz · Russisches Original: peshera.org"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Im Jahr 1147 organisierte die christliche Gemeinschaft den Zweiten Kreuzzug, auch Wendenkreuzzug genannt, und entsandte die Kreuzfahrer gegen die Elbslawen, und das, obwohl viele der elbslawischen und pommerschen slawischen Länder zu dieser Zeit bereits christlich waren, wenigstens formal.\n\nWie man sieht, waren religiöse Motive nicht der einzige Grund des Zuges. Die parasitären dunklen Kräfte, die hinter dem Prozess der geistigen wie der physischen Ausrottung der Slawen standen, nutzten alle Mittel (zu den Ursachen der Ausrottung besonders der Slawen siehe das Buch von N. Lewaschow „Spiegel meiner Seele“, Teil 3, Kap. 1). So nutzten sie auch die deutschen, dänischen und polnischen Herzöge, Markgrafen und weitere Vertreter der „europäischen Elite“, die dazu erst vor verhältnismäßig kurzer Zeit geworden waren, nachdem die westeuropäischen Gebiete allmählich vom Slawisch-Arischen Reich abgetrennt worden waren, und deren Begierde, die Klauen in den slawischen Reichtum zu schlagen. Keine Ruhe ließ ihnen das slawische „weite Land, reich an Getreide und fetten Weiden, überfließend von Fischen, Fleisch und allerlei Gütern…“, wie der christliche Missionar des 12. Jahrhunderts Helmold (Gemold) in seiner „Slawenchronik“ bemerkte.\n\nDass die Slawen gut und reich lebten, führen alle christlichen Chronisten an. Und obwohl sie den heidnischen Slawen mit dem Hochmut von Fanatikern gegenübertraten, die sich der Ausschließlichkeit und Überlegenheit ihres Glaubens gewiss waren, bemerken auch sie die hervorragenden menschlichen Qualitäten der Slawen. Derselbe Helmold schreibt:\n\n„… die Preußen kannten noch nicht das Licht des Glaubens; Menschen, die über viele einzigartige gute Eigenschaften verfügen, „sehr menschenfreundlich“ gegenüber den Notleidenden; „sie eilen jenen entgegen, die sich der Gefahr auf dem Meer oder der Verfolgung durch Piraten aussetzen, und kommen ihnen zu Hilfe. Um Gold und Silber kümmern sie sich fast überhaupt nicht. Sie haben eine Fülle unbekannter Pelze, um derer willen unser Land das tödliche Gift des Hochmuts überflutet hat. Und sie schätzen sie wie Dung, wie ich meine, uns zum Vorwurf, die wir nach einem Pelzgewand wie nach dem größten Glück seufzen. Deshalb geben sie uns für die leinene Kleidung, die bei uns faldones heißt, so teure Pelze…“\n\nUnd hier sind die Worte des christlichen Bischofs Otto von Bamberg, der zweimal, in den Jahren 1124 und 1127, das Land der pommerschen Slawen besuchte mit dem Ziel, sie zum Christentum zu bekehren: „… an Fischen ist dort ein unglaublicher Reichtum, sowohl in den Meeren als auch in den Flüssen, Seen und Teichen. Für einen Denar könntest du einen Wagen frischer Heringe kaufen, und wenn ich zu erzählen begänne, was ich über ihren Duft und ihre Fettigkeit weiß, würde ich der Völlerei beschuldigt. Im ganzen Land gibt es viele Hirsche, Damhirsche und Wildpferde, Bären, Wildschweine und Säue und allerlei Wild; Butter von Kühen und Schafsmilch, fette Lämmer und Schafböcke, mit einer Fülle von Honig und Weizen, mit Hanf und Mohn und allen Arten von Gemüse, und wenn es dort Weinberge, Oliven und Feigenbäume gäbe, würdest du meinen, es sei das verheißene Land, so viele Obstbäume gibt es darin…",
+    "author": "Prof. N. Grazianski (nach Helmold und Otto von Bamberg)",
+    "source": "Übersetzung: leva-net.webnode.cz · Russisches Original: peshera.org"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Tod Niklots",
+    "alt": "Der Tod Niklots",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die Ehrlichkeit und die Freundschaft unter ihnen sind so groß, dass sie weder Diebstahl noch Betrug überhaupt kennen; ihre Truhen und Kästchen halten sie unverschlossen. Tatsächlich haben wir dort keine Schlösser und keine Schlüssel gesehen, und sie selbst waren sehr verwundert, als sie unsere Säcke und Kästchen verschlossen sahen. Ihre Kleider, ihr Geld und alle ihre Kostbarkeiten legen sie in ihre Fässer und Gefäße, die einfach mit einem Deckel bedeckt sind, und fürchten keinen Betrug, weil sie ihn nicht erlebt haben…“\n\nUnd so begann im Jahr 1147 der Kreuzzug gegen die Westslawen, der schon in den Jahren 1107–1108 beabsichtigt worden war, kurz nach dem ersten Kreuzzug nach Konstantinopel (siehe N. Lewaschow „Spiegel meiner Seele“, Teil 2, Kapitel 5). Die Beschreibung dieses Zuges findet sich in dem umfangreichen Artikel des Professors N. Grazianski „Der Kreuzzug des Jahres 1147 gegen die Slawen und seine Ergebnisse“\n\n„… Die Kreuzfahrer beschlossen, mit zwei Heeren gegen die Elbslawen zu ziehen: das eine sollte von der unteren Elbe gegen die Abodriten gehen, das andere von Magdeburg gegen die Liutizen. An der Spitze des ersten Heeres standen Heinrich der Löwe, Konrad, der Herzog von Burgund, der Bremer Erzbischof Adalbert, der Bremer Bischof Dittmar und weitere. Mit diesem Heer sollten sich die Dänen verbinden, geführt von ihren beiden Königen – Sven und Knut –, die beschlossen hatten, die inneren Streitigkeiten wegen des Unternehmens gegen die gemeinsamen Feinde – die Abodriten – zu beenden.\n\nAn der Spitze des zweiten Heeres standen von den weltlichen Fürsten der Pfalzgraf Friedrich von Sachsen, Hermann vom Rhein, die Markgrafen Albrecht der Bär und Konrad von Meißen, und von den geistlichen Fürsten außer dem päpstlichen Legaten, dem Bischof von Havelberg, auch der Magdeburger Erzbischof Friedrich, die Bischöfe von Halberstadt, Merseburg, Brandenburg und Münster sowie Wibald, der Abt von Corvey. Dieser hatte ein Verlangen nach der Insel Rügen und stützte seine Ansprüche auf die alte absurde Version, der auf der Insel verehrte Svantovit sei der von den Slawen vergöttlichte hl. Vitus, der Patron des Klosters Corvey, dem einer der deutschen Könige die Insel geschenkt haben soll. Nur das unerschütterliche Vertrauen der Deutschen auf den Erfolg konnte den Abt dazu bringen, über die Elbe zu ziehen und so bei der vorausgesetzten Aufteilung des slawischen Gebietes der Verletzung der Rechte seines Klosters vorzubeugen.\n\nÜber die Zahl der Kreuzfahrer, die gegen die Slawen zogen, haben wir folgende Angaben: im nördlichen Heer sollen 40.000 Menschen gewesen sein, im südlichen 60.000, im dänischen 100.000. Diese Zahlen sind zwar sehr übertrieben, zeigen aber in jedem Fall, dass über die Elbe ein gewaltiges, bis dahin nicht gesehenes deutsch-dänisches Heer zog, das ein für alle Mal mit der Unabhängigkeit der Slawen und mit ihrem Heidentum Schluss machen sollte. Die Slawen verloren jedoch angesichts einer so schrecklichen Bedrohung nicht den Mut und waren überhaupt nicht bereit, sich den Deutschen zu unterwerfen. Zum Haupthelden der Verteidigung gegen die Feinde wurde der kühne Niklot, der Fürst der Abodriten. Helmold hat Niklot entschieden nicht lieb und ist in seinen Urteilen über ihn nicht immer gerecht, doch das, was er über die Taten dieses Fürsten sagt, zeichnet dessen Begabung als Heerführer deutlich. „Als er hörte, dass sich in Kürze ein Heer zu seiner Vernichtung versammeln werde – so lesen wir bei Helmold –, rief Niklot sein ganzes Volk zusammen und begann die Befestigung Dobin zu bauen, damit sie dem Volk im Notfall ein Zufluchtsort sei…“\n\nGleichzeitig suchte Niklot Verbündete für den kommenden Kampf und wandte sich an den holsteinischen Grafen Adolf, indem er ihn an den geschlossenen Vertrag erinnerte. Obwohl Adolf mit dem Kreuzzug nicht sympathisierte, lehnte er es selbstverständlich ab, Niklot gegen seinen Herzog Heinrich den Löwen zu helfen, und die einzigen Verbündeten des Fürsten wurden die Ranen.\n\nGestützt auf das Bündnis mit den kriegerischen Seefahrern arbeitete Niklot, wie die folgenden Ereignisse zeigen, einen hervorragenden Verteidigungsplan aus. Durch eine ganze Reihe kombinierter Aktionen auf dem Festland und auf dem Meer beabsichtigte er, die Kreuzfahrer durch Aushungern zu bezwingen und damit all ihre Raubpläne zunichte zu machen. Niklots erstes Ziel war die Zerstörung der vermuteten nächsten Operationsbasis der Kreuzfahrer in Wagrien. Durch einen plötzlichen Angriff vom Meer her nahm Niklot am 29. Juni Lübeck ein und zerstörte die im Hafen ankernden Schiffe, wobei „die Menschen, von großem Trinken betrunken, sich nicht von ihren Betten und Schiffen erheben konnten, bis der Feind sie umschlossen und, Feuer legend, die mit Waren beladenen Schiffe zerstört hatte. Und an jenem Tag wurden an die 300 und mehr Männer getötet.“",
+    "author": "Prof. N. Grazianski (nach Helmold und Otto von Bamberg)",
+    "source": "Übersetzung: leva-net.webnode.cz · Russisches Original: peshera.org"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Denkmal des Fürsten Niklot",
+    "alt": "Das Denkmal des Fürsten Niklot",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Nachdem er so die Schiffe im Lübecker Hafen zerstört und die Stadt den Flammen überlassen hatte, schickte Niklot zwei Abteilungen Reiter, die das ganze Land der Wagrier durchzogen und die dort angesiedelten deutschen Kolonisten erschlugen oder gefangen nahmen. Nur die Kolonisten aus Holstein, die westlich des oberen Laufs der Trave saßen, ließen die Slawen aus irgendeinem Grund unberührt. Möglicherweise wollte Niklot Zwietracht unter den Deutschen säen und den Verdacht auf die Holsteiner lenken, sie hätten im Einvernehmen mit den Slawen gehandelt. Wenn ja, so erreichte Niklot sein Ziel brillant, denn auf die Holsteiner fiel tatsächlich der Verdacht des Verrats…\n\nDas erste Ergebnis des auf dem Frankfurter Reichstag verkündeten Kreuzzugs gegen die Slawen war so die Zerstörung einer gedeihenden deutschen Handelsstadt an der Ostsee und die nahezu vollständige Vernichtung der Kolonisten, die mit großen Mühen aus verschiedenen Gebieten Deutschlands und der Niederlande zur Besiedlung des eroberten Wagrien zusammengebracht worden waren. Die Slawen erlitten bei ihrem kühnen Überfall offenbar keine Verluste, kehrten zu den Schiffen zurück und „fuhren davon, beladen mit Gefangenen und verschiedener Habe, die sie im Land der Wagrier erbeutet hatten.“\n\nNiklots unerwartete Diversionsaktion rief unter den Deutschen naturgemäß großes Aufsehen hervor, und das Kreuzfahrerheer beeilte sich, das Land der Slawen anzugreifen, „mit dem Ziel, ihre Gewalt einzuschränken.“ Niklot leerte und verheerte das Gebiet seines Fürstentums, durch das die Kreuzfahrer ziehen mussten, und setzte sich mit einer Menge Proviant und mit großen Kräften in Dobin fest. Die deutschen Heere, die von der unteren Elbe gegen die Abodriten gezogen waren, standen wahrscheinlich schon im Juli vor Dobin. Hierher eilten auch die Dänen, deren Flotte an der slawischen Küste offenbar in der Wismarer Bucht landete, nicht weit vom Schweriner See, an dem Dobin lag.\n\nAls Erste kamen die Goten mit ihrem König Knut und die Jüten (Schleswiger) mit König Sven. Dann zogen Svens Untertanen, die Seeländer und die Schonen, heran. Der größere Teil der dänischen Kräfte schloss sich nach der Landung den Sachsen vor Dobin an, der andere Teil blieb zum Schutz der Schiffe. Niklot, in Dobin verschanzt, konnte den zweiten Teil seines durchdachten Verteidigungsplans ausführen, nämlich die Seewege der Kreuzfahrer abzuschneiden und die dänische Flotte zu schlagen, die die Belagerer wahrscheinlich versorgte, da das von den Bewohnern verlassene Land der Abodriten und das verheerte Wagrien das Kreuzfahrerheer nicht ernähren konnten. Außerdem war die Landverbindung wegen des sumpfigen Charakters des Geländes im Allgemeinen schwer zu nutzen.\n\nNiklot löste diese Aufgabe mit Hilfe der ranischen Seefahrer brillant. Bei Helmold lesen wir: „Als die Belagerten einmal sahen, dass das Heer der Dänen zögerlich handelt – denn sie sind nur daheim tapfere Krieger, in einem fremden Land zeichnen sie sich nicht durch Tapferkeit aus –, machten sie unerwartet einen Ausfall, erschlugen viele von ihnen und düngten mit ihren Leibern die Erde. Zu helfen war ihnen nicht möglich, da zwischen (den Heeren) ein See lag…“\n\nNiklots Aktionen auf dem Land und die der Ranen auf dem Meer verliefen gleichzeitig und koordiniert: Niklot musste die Aufmerksamkeit des dänischen Heeres von den Schiffen ablenken und so den Ranen zum Sieg helfen. Dieses Ziel wurde erfüllt, und die Ranen hatten auf dem Meer nicht geringeren Erfolg als die Abodriten auf dem Land… Die ganze schonische Flotte fiel den Siegern zu, und die Ranen verdoppelten so ihre Kräfte…\n\nObwohl ein beträchtlicher Teil der dänischen Flotte erhalten blieb, beherrschten die Ranen das Meer. Die Versorgung des vor Dobin liegenden Heeres musste daher eingestellt werden, und dem Heer drohte eine Hungersnot. Das kühlte die Kampfbegeisterung der Kreuzfahrer ab, und sie begannen an einen Rückzug zu denken. Die Dänen, die vom Verlangen brannten, sich an Niklot für die Niederlage zu rächen, änderten, kaum dass sie von dem Angriff der Ranen erfuhren, ihr Vorhaben und eilten zu den Schiffen. Es scheint, dass sie vor Dobin nicht mehr zurückkehrten und unverzüglich nach Hause segelten; und was die übrigen Sachsen vor der Festung betrifft, so begannen diese von der Zwecklosigkeit des Zuges zu sprechen, davon, dass es unsinnig sei, ein Land zu verheeren, das den Deutschen Abgaben zahlte. „Ist denn das Land, das wir verheeren – so sollen die Sachsen gesagt haben –, nicht etwa unser Land? Und sind die Menschen, mit denen wir kämpfen, nicht etwa unsere Menschen? Warum sollten wir uns selbst Feinde sein und die Abgaben verschwenden, die sie uns entrichten? Erwachsen daraus nicht etwa Verluste auch für unsere Herrscher… “\n\nWie man sieht, begriffen die Deutschen die Unsinnigkeit ihres Tuns erst, nachdem ihnen die Slawen eine harte Lektion gegeben hatten, die zeigte, dass den gierigen Kreuzfahrern im slawischen Land statt der erwarteten leichten Beute allein Leiden drohen…\n\nDas Haupt- (südliche) Kreuzfahrerheer versammelte sich, wie verabredet, in Magdeburg… Die Hauptrichtung des ganzen Zuges gab offensichtlich Albrecht der Bär vor, der mit Hilfe der Kreuzfahrer die Grenzen seiner Nordmark über die Peene und die Oder hinaus erweitern wollte. Otto von Bamberg hatte hier das Christentum bereits verbreitet, doch man muss sich bewusst machen, dass die Fürsten diese Tatsache vor den Massen der Kreuzfahrer verschwiegen und ihre Gier mit der Aussicht auf reiche Beute bei den Heiden weckten, gegenüber denen alles erlaubt war. Die geistlichen Fürsten wetteiferten mit ihren Kriegsplänen mit den weltlichen, wobei das Haupt der Prälaten, der Magdeburger Erzbischof, danach verlangte, sich das unabhängige pommersche Bistum zu unterwerfen und seine enormen Einkünfte aus dem reichen Pommern zu beherrschen…\n\nDas Heer zog nach Pommern auf demselben Weg, auf dem 20 Jahre zuvor Otto von Bamberg gegangen war. Die Kreuzfahrer durchquerten mit großen Mühen den dichten Wald, der das Gebiet der Stodoranen (Heveller) von den Morizani trennt, und kamen zum Müritzsee auf heidnischem Gebiet, das weder die Deutschen noch das Christentum anerkannte. Die Bewohner flohen und retteten, was zu retten war, und die Kreuzfahrer plünderten und verbrannten die slawischen Siedlungen. Dabei wurde auch die slawische Stadt Malchin samt dem heidnischen Heiligtum vor ihren Toren niedergebrannt. Indem es seinen Weg mit Raub, Brandstiftung und Mord bezeichnete, zog das Heer gegen Demmin – die Stadt der Liutizen an der Peene –, doch bevor es die Stadt erreichte, teilte es sich: ein Teil des Heeres wandte sich nach Stettin.\n\nVor Demmin trafen die Kreuzfahrer unerwartet auf denselben Widerstand der Slawen wie vor Dobin. Wir wissen nicht genau, was sich hier abspielte, doch nach einigen Anzeichen können wir urteilen, dass die Kreuzfahrer an der Peene denselben Misserfolg erlitten wie bei den Abodriten vor Dobin. Helmold verbindet nicht zufällig die Ereignisse vor beiden slawischen Festungen zu einer einzigen Erzählung über den Misserfolg des Kreuzzugs. Es gibt auch weitere Nachrichten über die Uneinigkeit und den Misserfolg der Kreuzfahrer vor Demmin. Der klarste Anzeiger dieses Misserfolgs ist das Verhalten des Abtes von Corvey, der sich schnell von seinen Träumen von der Beherrschung Rügens verabschiedete und schon am 8. September vom Zug nach Hause zurückkehrte. Indem er seine Freude darüber ausdrückt, der Gefahr im slawischen Land entronnen zu sein, sagt der Abt, der Feldzug sei, obwohl ergebnislos, dafür „mit Gehorsam“ erfüllt worden…\n\nEin vollständiger Misserfolg traf auch jenes Heer, das gegen Stettin, die Hauptstadt Pommerns, aufbrach. Als die Kreuzfahrer die Stadt belagerten, stellten die Belagerten auf den Stadtwällen Kreuze auf zum Zeichen, dass sie Christen sind, und da herrschte im Heer Verwirrung. Allen begann klar zu werden, dass das organisierte Unternehmen in einen schreienden Widerspruch zu den von Bernhard von Clairvaux und vom Papst verkündeten Ideen geraten war, und die gewöhnlichen Kreuzfahrer begriffen, dass sie von den Fürsten betrogen worden waren, die durch ihre Hände neue Länder und neue Einkünfte nicht von Heiden, sondern von Christen erbeuten wollten…\n\nDieser weit angelegte Kreuzzug gegen die Slawen scheiterte so in allem schmählich, und die Zeitgenossen hatten daran keinerlei Zweifel: nahezu alle kommentieren einmütig den vollständigen Misserfolg des Zuges der Deutschen über die Elbe. Dabei erklären die einen den Misserfolg des Zuges durch den Streit unter den Fürsten, die anderen durch die Unkenntnis des feindlichen Geländes, die dritten damit, dass die Kreuzfahrer nicht die „Sache Gottes“ verteidigten, geleitet von rein beutegierigen Absichten. In Wirklichkeit scheiterte der Feldzug dank des heldenhaften Widerstandes der Slawen, und die Uneinigkeit der Fürsten selbst und der Verfall des Heeres begannen erst, nachdem die Deutschen unerwartet auf starke slawische Festungen gestoßen waren, deren Verteidiger den deutschen Beutejägern entschieden gegenübertraten. Schließlich entschieden auch vor Stettin nicht die auf den Stadtwällen angebrachten Kreuze, sondern das drohende Aussehen der Stettiner Befestigung, die von einer tapferen slawischen Besatzung verteidigt wurde…“\n\nLeider hörte damit das deutsche Vordringen nach Osten nicht auf. Im Jahr 1150 wurde mit Hilfe von Intrigen und Betrug das brandenburgische Fürstentum erobert. Wagrien wurde allmählich und beharrlich christianisiert, auf dem Weg des schleichenden Zuzugs von Einwanderern aus Deutschland und den Niederlanden. Der Einzige, der der christlichen Aggression weiterhin widerstand, war der abodritische Fürst Niklot. Nach dem christlichen Feldzug gelang es ihm, den alten Staat der Abodriten in seinen ursprünglichen Grenzen zu erneuern – mit Ausnahme des von den Deutschen besetzten Wagrien und Polabien – und die benachbarten Küstenstämme der Liutizen, die Kessiner und die Zirzipanen, zu unterwerfen. Leider erwies sich der Bund der Liutizen und der Abodriten als brüchig, und Niklot machte, nachdem er sich mit den verwandten slawischen Stämmen nicht einigen konnte, einen verhängnisvollen Fehler – um die Liutizen zu unterwerfen, wandte er sich an die Deutschen. Durch das Land der Liutizen fuhren Feuer und Schwert, was bedeutete, dass von einer Vereinigung der nördlichen elbslawischen Stämme zu einem selbständigen slawischen Staat keine Rede mehr sein konnte.\n\nAuch der von Niklot erneuerte abodritische Staat war nicht stabil und hielt nur dank äußeren Drucks. Er ging im Jahr 1160 während einer weiteren Invasion unter. Damals kam auch Niklot selbst um, als er in eine Falle geriet. So wird Niklots letzte Schlacht in der „Geschichte Mecklenburgs“ beschrieben: „Niklot unternahm mit einigen Wagemutigen aus seiner Gefolgschaft einen Ausfall aus der Festung. Sie legten sich nicht weit vom feindlichen Lager in einen Hinterhalt. Bald erschien aus dem Lager der Sachsen eine Versorgungsabteilung, um Proviant – Nahrung – zu beschaffen. Unter die Diener waren Ritter gemischt, die unter einfachem Obergewand ihre Rüstung verbargen… Niklot stürzte sich heftig in den Haufen der Feinde, ohne eine List zu ahnen, und stach mit seiner Lanze auf einen von ihnen ein, doch die Spitze sprang von der unsichtbaren Rüstung ab. Da begriff Niklot, dass er betrogen worden war. Er versuchte, zu den Seinen zu entkommen, doch es war schon zu spät. Die feindlichen Reiter holten ihn ein, und noch bevor ihm Hilfe kommen konnte, wurde er getötet… “\n\nSo führte die politische Zersplitterung der Westslawen zu ihrer nahezu vollständigen Ausrottung…",
+    "author": "Prof. N. Grazianski (nach Helmold und Otto von Bamberg)",
+    "source": "Übersetzung: leva-net.webnode.cz · Russisches Original: peshera.org"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

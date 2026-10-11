@@ -1,0 +1,1623 @@
+{
+ "slug": "sidliska-otomanskej-kultury-na-vychodnom-slovensku",
+ "data": {
+  "title": "Befestigte Siedlungen der Otomani-Kultur in der Ostslowakei",
+  "slug": "otomani-kultur-befestigte-siedlungen-ostslowakei",
+  "excerpt": "Die Arbeit vergleicht fünf befestigte Siedlungen der Otomani- beziehungsweise Otomani-Füzesabony-Kultur: Nižná Myšľa, Košice-Barca und Rozhanovce im Kaschauer Becken, Spišský Štvrtok in der Zips und Trzcinica im polnischen Teil der Karpaten. Behandelt werden Lage und Fläche, die Art der Befestigung und der Tore, die innere Struktur und die Häuser – und diese Anlagen werden als die ersten protourbanen Siedlungseinheiten auf dem Gebiet der heutigen Slowakei gedeutet.",
+  "metaTitle": "Befestigte Siedlungen der Otomani-Kultur in der Ostslowakei",
+  "metaDescription": "Vergleich von fünf befestigten Siedlungen der Otomani-Füzesabony-Kultur aus der Ostslowakei, der Zips und dem polnischen Teil der Karpaten. Lage und Bebauung.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Adam Gašpar (Seminararbeit, UKF Nitra – Lehrstuhl für Archäologie, 2012)",
+    "icon": "users"
+   },
+   {
+    "label": "Fundorte",
+    "value": "Nižná Myšľa, Košice-Barca, Rozhanovce, Spišský Štvrtok, Trzcinica (Polen)",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Bronzezeit – Otomani-(Otomani-Füzesabony-)Kultur",
+    "icon": "calendar"
+   },
+   {
+    "label": "Schwerpunkt",
+    "value": "Befestigte Siedlungen der Otomani-Kultur in der Ostslowakei",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1952",
+    "title": "Rettungsgrabung in Barca",
+    "description": "Durch den Kiesabbau wurde ein Teil der Siedlung zerstört, deshalb lief in den Jahren 1952 bis 1954 eine Rettungsaktion, mit der nicht die ganze Fundstelle untersucht werden konnte.",
+    "type": "event"
+   },
+   {
+    "year": "1968",
+    "title": "Ausgrabung in Spišský Štvrtok",
+    "description": "Wegen des intensiven Umpflügens der Kulturschichten lief in den Jahren 1968 – 1974 eine systematische Rettungsgrabung, mit der die gesamte Fläche der befestigten Siedlung (6600 m²) untersucht wurde.",
+    "type": "event"
+   },
+   {
+    "year": "1978",
+    "title": "Ausgrabung in Rozhanovce",
+    "description": "In den Jahren 1978 bis 1980 lief an der Lage eine Rettungsgrabung, mit der ein Teil der befestigten Siedlung aufgedeckt werden konnte.",
+    "type": "event"
+   },
+   {
+    "year": "1991",
+    "title": "Erste Etappe der Ausgrabung in Trzcinica",
+    "description": "Die systematischen Ausgrabungen an der polnischen Fundstelle Trzcinica liefen in den Jahren 1991 – 1997.",
+    "type": "event"
+   },
+   {
+    "year": "2005",
+    "title": "Zweite Etappe der Ausgrabung in Trzcinica",
+    "description": "Die Ausgrabungen an der Fundstelle Trzcinica wurden in den Jahren 2005 – 2009 fortgesetzt.",
+    "type": "event"
+   },
+   {
+    "year": "2012",
+    "title": "Seminararbeit von Adam Gašpar",
+    "description": "Es entstand die Seminararbeit „Sídliská otomanskej kultúry na východnom Slovensku“ am Lehrstuhl für Archäologie der Philosophischen Fakultät der UKF in Nitra.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4486,
+    "caption": "Abb. 1 – Karte mit den betrachteten befestigten Fundstellen (Google Earth).",
+    "alt": "Abb. 1 – Karte mit den betrachteten befestigten Fundstellen (Google Earth)."
+   },
+   {
+    "mediaId": 4487,
+    "caption": "Tab. I – Chronologische Tabelle (Gliederung der Otomani-Kultur nach Furmánek/Veliačik/Vladár 1991, 82, 84; ergänzt und mit weiterer Literatur synchronisiert).",
+    "alt": "Tab. I – Chronologische Tabelle (Gliederung der Otomani-Kultur nach Furmánek/Veliačik/Vladár 1991, 82, 84; ergänzt und mit weiterer Literatur synchronisiert)."
+   },
+   {
+    "mediaId": 4488,
+    "caption": "Abb. 2 – Grundriss der befestigten Siedlungen und des Gräberfeldes in Nižná Myšľa (bearbeitet nach Olexa 2003, 41, Tab. V) 1, 2 – Wall und Graben der befestigten Siedlung I; 3, 4 – Wall und Graben der befestigten Siedlung II; 5 – Gräberfeld.",
+    "alt": "Abb. 2 – Grundriss der befestigten Siedlungen und des Gräberfeldes in Nižná Myšľa: Wall und Graben der Siedlungen I und II sowie das Gräberfeld (nach Olexa 2003, 41, Tab. V)."
+   },
+   {
+    "mediaId": 4489,
+    "caption": "Abb. 3 – Schematischer Plan der Siedlung in Barca I (nach Kabát 1955, 595, Abb. 259).",
+    "alt": "Abb. 3 – Schematischer Plan der Siedlung in Barca I (nach Kabát 1955, 595, Abb. 259)."
+   },
+   {
+    "mediaId": 4490,
+    "caption": "Abb. 4 – Schichtenfolge in Barca I (nach Kabát 1955, 597, Abb. 260).",
+    "alt": "Abb. 4 – Schichtenfolge in Barca I (nach Kabát 1955, 597, Abb. 260)."
+   },
+   {
+    "mediaId": 4491,
+    "caption": "Abb. 5 – Befestigte Siedlung in Spišský Štvrtok – Myšia Hôrka 1 – Boden einer Hütte und Straße (nach Kabát 1955, 613, Abb. 287);",
+    "alt": "Abb. 5 – Befestigte Siedlung in Spišský Štvrtok – Myšia Hôrka 1 – Boden einer Hütte und Straße (nach Kabát 1955, 613, Abb. 287);"
+   },
+   {
+    "mediaId": 4492,
+    "caption": "2 – Boden der Hütte Nr. 3, in 3 Räume gegliedert (nach Kabát 1955, 599, Abb. 261).",
+    "alt": "2 – Boden der Hütte Nr. 3, in 3 Räume gegliedert (nach Kabát 1955, 599, Abb. 261)."
+   },
+   {
+    "mediaId": 4493,
+    "caption": "Abb. 6 – Grundrisse eines Wohnbaus in Rozhanovce (nach Gašaj 1983, 131, Abb. 1).",
+    "alt": "Abb. 6 – Grundrisse eines Wohnbaus in Rozhanovce (nach Gašaj 1983, 131, Abb. 1)."
+   },
+   {
+    "mediaId": 4494,
+    "caption": "Abb. 7 – Befestigte Siedlung in Spišský Štvrtok – Myšia hôrka 1 – Plan der befestigten Höhensiedlung (bearbeitet nach Vladár 1975, 18);",
+    "alt": "Abb. 7 – Befestigte Siedlung in Spišský Štvrtok – Myšia hôrka 1 – Plan der befestigten Höhensiedlung (bearbeitet nach Vladár 1975, 18);"
+   },
+   {
+    "mediaId": 4495,
+    "caption": "2 – Modell der befestigten Höhensiedlung (Vladár 2012, 391, Abb. 6).",
+    "alt": "2 – Modell der befestigten Höhensiedlung (Vladár 2012, 391, Abb. 6)."
+   },
+   {
+    "mediaId": 4496,
+    "caption": "Abb. 8 – Spišský Štvrtok - Versuch einer Rekonstruktion der Situation im südöstlichen Teil der Fundstelle, wo die Steinmauer an das Befestigungssystem anschließt (nach Vladár 1975, 19, Abb. 3).",
+    "alt": "Abb. 8 – Spišský Štvrtok - Versuch einer Rekonstruktion der Situation im südöstlichen Teil der Fundstelle, wo die Steinmauer an das Befestigungssystem anschließt (nach Vladár 1975, 19, Abb. 3)."
+   },
+   {
+    "mediaId": 4498,
+    "caption": "Abb. 9 – Plan der befestigten Siedlung in Trzcinica (bearbeitet nach Gancarski 2011, 95, Ryc. 12) 1 – Siedlung der Pleszów-Gruppe und der älteren Phase der Otomani-Füzesabony-Kultur; 2 – Fläche der jüngsten Phase der Siedlung der Otomani-Füzesabony-Kultur; 3 – Befestigungsgraben.",
+    "alt": "Abb. 9 – Plan der befestigten Siedlung in Trzcinica: Siedlung der Pleszów-Gruppe, Fläche der jüngsten Phase der Otomani-Füzesabony-Kultur und Befestigungsgraben (nach Gancarski 2011, 95, Ryc. 12)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "EINLEITUNG UND ZIEL DER ARBEIT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Angesichts der Verfügbarkeit der Quellen und der veröffentlichten Literatur konzentriere ich mich in der Arbeit auf die befestigten Siedlungen der Otomani- oder Otomani-Füzesabony-Kultur beziehungsweise des entsprechenden Komplexes. Insgesamt beschreibe und vergleiche ich die Situation an fünf befestigten Höhensiedlungen näher (Abb. 1). Aus der Ostslowakei, aus dem Kaschauer Becken, handelt es sich konkret um die befestigten Siedlungen in Nižná Myšľa, Košice (Kaschau) – Barca und Rozhanovce. Aus dem Gebiet der Zips um die Fundstelle Spišský Štvrtok. In die Arbeit habe ich auch die befestigte Siedlung Trzcinica aus dem polnischen Teil der Karpaten mit deutlichen Otomani-Elementen einbezogen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Ziel der Arbeit ist es, die befestigten Siedlungen des Gebietes zu charakterisieren und ihre grundlegenden Züge zu erfassen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für den Zweck der Arbeit habe ich einen Katalog erstellt, von dem ich im folgenden Text ausgehe. Im Katalog führe ich zu jeder befestigten Siedlung zuerst die grundlegenden Informationen zu Lage, Fläche, Forschungsstand und Untersuchungsgrad der Fundstelle an. Dann informiere ich über die Entstehung der Otomani-Siedlung, die Zahl der Horizonte und den anschließenden Untergang. Weiter charakterisiere ich die Art der Befestigung, die innere Struktur und die Bebauung. Den Katalog der Fundstellen füge ich der Arbeit bei, und deshalb zitiere ich die daraus hervorgehenden Informationen zu den einzelnen befestigten Siedlungen im Text selbst nicht mehr näher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 1 – Karte mit den betrachteten befestigten Fundstellen (Google Earth).",
+    "alt": "Abb. 1 – Karte mit den betrachteten befestigten Fundstellen (Google Earth).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Objektivität, Zusammenfassung und besseren Übersicht der Angaben zur Entstehung, zur Dauer und zu den Phasen der einzelnen befestigten Höhensiedlungen habe ich durch die Auswertung der Informationen aus den verfügbaren Quellen eine chronologische Tabelle erstellt, die ich gleichzeitig mit dem Text und dem Katalog verknüpft habe und die ich im Anhang anführe (Tab. I). Der Vollständigkeit halber führe ich auch weitere Bildbeilagen an, die ich im Text und im Katalog selbst zitiere."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im folgenden Teil führe ich zuerst kurz die grundlegende Chronologie der Otomani-Kultur in der Ostslowakei an. Dann skizziere ich die Entstehung, die Entwicklung und den Untergang der befestigten Siedlungen im Gebiet aus chronologischer und chorologischer Sicht. Ich verallgemeinere die Informationen zu Lage und Fläche und erwäge auch das weitere Umland der Siedlungen. Weiter charakterisiere ich allgemein die Art der Befestigung und die Arten der Tore. Ich bewerte die innere Struktur der Siedlungen sowie die Fläche und den Charakter der Häuser (Hütten). Abschließend führe ich mögliche Deutungen an, die sich auf die Existenz der befestigten Siedlungen aus der Sicht der zeitgleichen Gesellschaft beziehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Tab. I – Chronologische Tabelle (Gliederung der Otomani-Kultur nach Furmánek/Veliačik/Vladár 1991, 82, 84; ergänzt und mit weiterer Literatur synchronisiert).",
+    "alt": "Tab. I – Chronologische Tabelle (Gliederung der Otomani-Kultur nach Furmánek/Veliačik/Vladár 1991, 82, 84; ergänzt und mit weiterer Literatur synchronisiert).",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "CHRONOLOGIE UND VERBREITUNG"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Otomani-Kultur in der Ostslowakei entwickelt sich auf der Grundlage der Košťany-Kultur und wird in drei grundlegende Stufen gegliedert: die Anfangsstufe – die Košťany-Otomani-Stufe, die klassische Otomani-Stufe, die näher in eine ältere und eine jüngere Phase geteilt wird. Die Abschlussstufe hängt bereits mit dem sogenannten Koszider-Horizont zusammen (Tab. I; Furmánek/Veliačik/Vladár 1991, 82, 84)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Territorium der Otomani-Kultur war ausgedehnt. Es wird angenommen, dass das ursprüngliche Verbreitungsgebiet das Theißgebiet und der nordöstliche Teil Rumäniens war. Aus dem Gebiet der Slowakei sind die ältesten zahlreicheren Funde aus dem Kaschauer Becken von der Wende der Stufen BA1/BA2 (etwa 2000 cal. B.C.) bekannt. Die Ostslowakei samt dem angrenzenden Teil Polens, den die Otomani-Kultur in ihrer Blütezeit erreicht, bildet dabei die nördlichste Sphäre ihrer Verbreitung (Tab. I; Furmánek/Veliačik/Vladár 1991, 82, 84)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "ENTSTEHUNG, ENTWICKLUNG UND UNTERGANG DER BEFESTIGTEN SIEDLUNGEN IM GEBIET"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum besseren Verständnis der Entstehung der befestigten Siedlungen muss man die ganze Kultur und die Situation in mehreren Gebieten betrachten. Tatsache ist, dass die Entstehung der befestigten Siedlungen in der Ostslowakei mit der allmählichen Entwicklung und der geographischen Ausbreitung der Kultur zusammenhängt. Die befestigten Siedlungen sind gleichzeitig verständlicherweise ein bestimmter Anzeiger der kulturellen Entwicklung und Reife. Durch die allmähliche Entwicklung festigt sich die Kultur und kristallisiert sich heraus, bis zu Beginn ihrer mittleren Stufe im Kaschauer Becken die ersten befestigten Siedlungen auftreten, konkret in Nižná Myšľa und Barca (Tab. I)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der weiteren Entwicklung entsteht noch in der älteren Phase der mittleren Stufe die befestigte Siedlung in Rozhanovce, und die Kultur rückt auch in weitere Gebiete vor. Konkret in das Gebiet der Zips, wo am Ausgang der jüngeren Phase die befestigte Siedlung in Spišský Štvrtok entsteht (Tab. I)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der jüngeren Phase der mittleren Stufe erreicht die Entwicklung der befestigten Siedlungen und der Kultur selbst ihren Höhepunkt. Offenbar dank günstiger Lebensbedingungen und der inneren Situation expandiert die Kultur weiter und gelangt über die Karpaten bis nach Polen, wo die befestigte Siedlung in Trzcinica mit zahlreichen Otomani-Funden liegt (Abb. 1, Tab. I)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Untergang und Verfall der befestigten Siedlungen ist verhältnismäßig plötzlich. Am Ende der jüngeren Stufe beginnt die Stagnation der Kultur, und allmählich gehen auch die einzelnen befestigten Siedlungen unter. Der Otomani-Komplex in der Ostslowakei zerfällt und lebt weiter nur noch auf lokaler Ebene (Tab. I). Die Ansichten zum Untergang der Otomani-Kultur gehen in der mitteleuropäischen Fachliteratur auseinander. Der Zusammenhang ist in der Veränderung der historischen Situation an der Wende der Stufen BB1/BB2 zu suchen (Vladár 2012, 390)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Beispiel geht die Siedlung in Spišský Štvrtok plötzlich durch einen großen Brand unter, nach dem jedoch Teile der Bevölkerung dort weiterleben. Plötzliche Untergangshorizonte lassen sich auch an weiteren Fundstellen verfolgen, zum Beispiel in Barca. Je nach Gebiet entwickeln sich teilweise aus der Otomani-Kultur und auch unter neuen Einflüssen jüngere Kulturen. Die Kontinuität belegen zum Beispiel die fortbestehenden lunulaförmigen Anhänger (Vladár 2012, 390-392). Im Fall der befestigten Siedlung in Trzcinica rechnet J. Gancarski mit einer weiteren Entwicklung der Otomani-Kultur bis in die Stufe BD, wobei sich auch die Siedlung selbst vergrößert (Abb. 9; Gancarski 2011, Ryc. 31)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "LAGE, FLÄCHE UND UMLAND DER SIEDLUNGEN"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinsichtlich der Lage handelt es sich in allen Fällen um erhöhte Lagen in der Nähe von Flüssen und Bächen. Angeführt werden sie meist als Terrassen, im Fall von Barca und Spišský Štvrtok auch als Spornlagen, die in ebenes Gelände ausgreifen (nach Furmánek/Veliačik/Vladár 1991, 181). Da es sich um erhöhte Lagen handelte, verbesserte der steile Hang häufig die Möglichkeit der Verteidigung. Die Platzierung der Siedlungen war auch wegen der Anwesenheit der Wege, die durch die Flussbetten führten, beabsichtigt. Zum Beispiel lag die Siedlung in Nižná Myšľa am Zusammenfluss von sogar drei Flüssen, des Hornád, der Torysa und der Olšava. Die Siedlung in Rozhanovce lag am Fluss Torysa an der Verbindungslinie zwischen dem Kaschauer Becken und dem Gebiet von Šariš. Allgemein lässt sich feststellen, dass jede der befestigten Fundstellen in einer vorteilhaften strategischen Lage lag."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 2 – Grundriss der befestigten Siedlungen und des Gräberfeldes in Nižná Myšľa (bearbeitet nach Olexa 2003, 41, Tab. V) 1, 2 – Wall und Graben der befestigten Siedlung I; 3, 4 – Wall und Graben der befestigten Siedlung II; 5 – Gräberfeld.",
+    "alt": "Abb. 2 – Grundriss der befestigten Siedlungen und des Gräberfeldes in Nižná Myšľa: Wall und Graben der Siedlungen I und II sowie das Gräberfeld (nach Olexa 2003, 41, Tab. V).",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Frage nach der Fläche der Siedlungen zu beantworten ist nicht in allen Fällen vollständig möglich. In den meisten Fällen lässt sich nur die Größe des befestigten Areals genauer schätzen, und die Frage des Umlandes bleibt offen. Die Größe des befestigten Teils reichte von 3200 m² in Rozhanovce bis zu den angenommenen 10.000 m² in der ersten Phase der Siedlung in Nižná Myšľa. In der zweiten Phase erreicht die Siedlung in Nižná Myšľa eine Fläche von bis zu 70.000 m², was aber offenbar mit einer gewissen deutlichen Veränderung der gesellschaftlichen Situation zusammenhängt, da es durch die Vergrößerung des Areals auch zur Beschädigung und Nichtbeachtung des vorherigen Gräberfeldes kam."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigten Siedlungen waren Teil eines weiteren Ganzen beziehungsweise einer Besiedlung, was auch die Begehungen in ihrer Umgebung belegen (Nižná Myšľa, Rozhanovce). Hinsichtlich der Lage und der Fläche konnte es sich nicht um Fliehburgen handeln. Unter Berücksichtigung auch der weiteren Struktur, von der ich unten handle, und der Konzentration spezifischer Funde waren die Siedlungen offenbar eine Art regionale Zentren. Zur befestigten Siedlung gehörte ein engeres Umland außerhalb des Areals und wahrscheinlich auch weitere unbefestigte Siedlungen in der Umgebung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "BEFESTIGUNGEN UND TORE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das System der Befestigung der Siedlungen hängte mit dem Charakter des Geländes zusammen. Verständlicherweise war es an Stellen, wo ein steiler Abbruch war, nicht nötig, einen mächtigen Wall zu errichten. Gut sehen können wir das an den Grundrissen von Spišský Štvrtok und Trzcinica (Abb. 7, 9). Im Fall der Siedlung in Spišský Štvrtok wurde an diesen Stellen nur eine Steinmauer errichtet, die weiter an den Wall anschloss (Abb. 8)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Umgekehrt war es an Stellen, wo die Zugänglichkeit relativ gut war, nötig, die Siedlung entsprechend zu sichern und zu befestigen. In Spišský Štvrtok schützte ein mächtiger Wall mit Graben die leichter zugängliche östliche Seite (Abb. 7). In Trzcinica wurde ähnlich im am leichtesten begehbaren Teil des Geländes außer dem Wall auch ein Graben angelegt (Abb. 9). Eine ähnliche Situation ist auch an den übrigen befestigten Siedlungen zu verfolgen. In allen Fällen bestand die Befestigung aus einem Erdwall und einem Graben, war also einfach aus den verfügbaren Mitteln errichtet. Das beim Ausheben des Grabens gewonnene Material wurde zur Aufschüttung des Walls verwendet. Der Wall war üblicherweise durch eine Pfostenkonstruktion verstärkt (zum Beispiel in Barca) und hatte oben eine Palisade (Spišský Štvrtok). Die Verteidigungsfähigkeit konnte auch die Anwesenheit von Flüssen und Bächen erhöhen (Barca, Rozhanovce), die außer den steilen Abbrüchen der Flussbetten die Zugänglichkeit des Geländes ebenfalls verschlechterten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 3 – Schematischer Plan der Siedlung in Barca I (nach Kabát 1955, 595, Abb. 259).",
+    "alt": "Abb. 3 – Schematischer Plan der Siedlung in Barca I (nach Kabát 1955, 595, Abb. 259).",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Während die Befestigungen der Areale einen ähnlichen Charakter hatten, handelt es sich im Fall des Eingangs in die befestigte Höhensiedlung um unterschiedliche Arten von Toren. In Nižná Myšľa um ein schmales Tor mit einer Brücke über den Graben. In Spišský Štvrtok um ein Tor mit Bastionen (Abb. 7) und im Fall von Trzcinica um einen zangenartig eingezogenen Zugang. In Nižná Myšľa und Trzcinica hatten die Tore selbst unzweifelhaft gute Verteidigungseigenschaften. Bemerkenswert ist das Tor in Spišský Štvrtok, dessen Eingang bedeutend breit ist. Im Raum des Tores befanden sich jedoch auch Häuser, die offenbar auch eine Verteidigungsfunktion erfüllten und den Zugang erschwerten (Abb. 7)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "INNERE STRUKTUR"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf den meisten der betrachteten befestigten Siedlungen konnte eine systematische Bebauung festgestellt werden. Die Hütten waren absichtlich nebeneinander orientiert, zum Beispiel in Reihen (Nižná Myšľa, Barca, Rozhanovce). Die Reihenbebauung und die offensichtlichen Straßen sind gut am Grundriss von Barca zu sehen. Die Häuser sind etwa einen halben Meter voneinander entfernt, und die Straße ist etwa 2,5 Meter breit (Abb. 3)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Anordnung der Häuser war auch im Fall von Spišský Štvrtok nicht zufällig. Die Häuser standen zwar, wie der Plan der befestigten Höhensiedlung zeigt, nicht in Reihen, waren aber im Areal auf eine bestimmte Weise konzentriert und geordnet (Abb. 7). Im nordwestlichen Teil nimmt J. Vladár die Existenz einer Hauptburg an, also eines Ortes, an dem die Elite beziehungsweise höher gestellte Bewohner saßen. Er schließt das teils wegen des angeblich anderen Charakters der Häuser, vor allem aber auf der Grundlage der Dichte der Hortfunde. Konkret befanden sich im Objekt 5/68 an bis zu drei Stellen mehrere goldene und bronzene Gegenstände, Schmuck (Vladár 2012, 383). Für diese Behauptung spricht auch die räumliche Stellung der Hauptburg zum Tor und zum übrigen Teil der Siedlung (Abb. 7). In Spišský Štvrtok wurden auch Spuren von mit Steinen ausgelegten Wegen gefunden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf einigen befestigten Siedlungen ist die Anwesenheit von Hütten in der Nähe des Walls beziehungsweise der Befestigung interessant. Zum Beispiel folgen in Nižná Myšľa die Häuser der Linie des Walls. Umgekehrt war in Barca zwischen den Häusern und dem Wall ein freier Raum oder eine mehr als 2 Meter breite Straße (Abb. 3). In Spišský Štvrtok bildete im westlichen Teil der Siedlung wiederum eine Steinmauer eine der längeren Wände der Häuser (Abb. 7). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Grundlage der obigen Informationen schließe ich, dass die Hütten aus Gründen der einfacheren Errichtung an der Befestigung platziert werden konnten (Spišský Štvrtok). Möglich ist, dass die Hütten in der Nähe der Befestigung auch deren Verteidigungsfähigkeit verbesserten, wenn wir von der Tatsache absehen, dass sie bei einem Angriff leicht zu brennen beginnen und die Konstruktion der Befestigung oder eine etwaige Palisade beschädigen konnten. Was außer einer möglichen Straße ebenfalls ein Grund dafür sein kann, warum im Fall von Barca zwischen dem Wall und den Hütten ein freier Raum ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 4 – Schichtenfolge in Barca I (nach Kabát 1955, 597, Abb. 260).",
+    "alt": "Abb. 4 – Schichtenfolge in Barca I (nach Kabát 1955, 597, Abb. 260).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein waren Brände auf den befestigten Siedlungen häufig. Manchmal wurden die Häuser an den ursprünglichen Stellen erneuert (Barca), es konnte aber auch zu einer Veränderung der städtebaulichen Struktur kommen (Točík 1994, 59-61). Dank der Brände ist es möglich, verschiedene Schichten, also Phasen der Siedlung, zu unterscheiden (Abb. 4), zwischen denen Umbauten zu verfolgen sind. Die Hauptphasen der einzelnen Siedlungen sind in der chronologischen Tabelle gekennzeichnet (Tab. I)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "HÜTTEN, HÄUSER"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Größe der Hütten bewegte sich etwa von 20 m² bis 55 m². Es handelte sich um ein-, zwei- oder dreiräumige Hütten. Am häufigsten kam das einräumige Haus mit einer Fläche von 20 m² vor (Nižná Myšľa, Rozhanovce). Üblicherweise hatte es einen quadratischen oder leicht rechteckigen Grundriss (Abb. 6). Die Häuser waren üblicherweise in Block- oder Pfostenkonstruktion mit verlehmten Wänden und einem angenommenen Satteldach errichtet. In den Räumen befand sich eine Feuerstelle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Unterschiedlichkeit der Häuser war im Fall der befestigten Siedlung in Barca gut belegt. Aufgedeckt wurden Hütten verschiedener Ausmaße mit unterschiedlicher Raumgliederung. An der Fundstelle waren hinsichtlich der Raumgliederung alle 3 oben erwähnten Typen von Hütten vertreten. Das größte Wohnobjekt, dessen Ausmaße in der Literatur zu den Fundstellen erwähnt werden, ist das dreiräumige Haus Nr. 3 aus Barca mit den Ausmaßen 12,5 und 4,5 Meter, was etwa 55 m² ausmacht (Abb. 5)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer der primären Wohnfunktion konnten im Fall von Spišský Štvrtok einige Häuser nach J. Vladár als spezialisierte Produktionswerkstätten dienen. In diesen Häusern fanden sich unfertige Erzeugnisse aus Metall und weitere Gegenstände, die mit der Metallgießerei zusammenhängen (Vladár 2012, 383, 384)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 5 – Befestigte Siedlung in Spišský Štvrtok – Myšia Hôrka 1 – Boden einer Hütte und Straße (nach Kabát 1955, 613, Abb. 287);",
+    "alt": "Abb. 5 – Befestigte Siedlung in Spišský Štvrtok – Myšia Hôrka 1 – Boden einer Hütte und Straße (nach Kabát 1955, 613, Abb. 287);",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Fall des dreiräumigen Hauses Nr. 3 in Barca erwägt J. Kabát eine Gliederung des Innenraums in Küche, Vorratsräume und Schlafraum. Als Vorratsraum sollte der mittlere Raum dienen, in dem keine Feuerstelle war und dessen Boden wahrscheinlich mit etwa 5 cm breiten Hölzchen ausgelegt war. Die weiteren Räume hatten einen verlehmten und ausgebrannten Boden, und in ihnen befanden sich Feuerstellen (Abb. 5; Kabát 1955; 596, 597)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "SCHLUSS"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der älteren Bronzezeit begegnen wir befestigten Siedlungen in einem weiteren mitteleuropäischen Gebiet. Die befestigten Siedlungen der Otomani-Kultur waren die ersten Siedlungen ähnlichen Typs in der Ostslowakei. Die Tatsache selbst, dass sie entstanden, belegt eine bestimmte gesellschaftliche Reife. Das durchdachte System der Befestigung der Siedlungen, die systematische Bebauung und die Menge spezifischer Funde bestätigen das nur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zur Bewertung der Bedeutung der befestigten Siedlungen muss man sich bewusst machen, dass es sich wegen ihrer strategischen Stellung und ihrer Fläche um natürliche Zentren mit einem weiteren Umland handelte. Die Belege der Befestigung deuten auf die Notwendigkeit der Verteidigung hin und bedingen die Dominanz der Siedlung im umliegenden Gelände. Die Anwesenheit der Befestigung spricht auch für den möglichen Sitz einer Art militärischer Komponente. Die systematische Bebauung weist auf die Tatsache hin, dass die Gesellschaft jemand lenken oder zumindest anleiten musste."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "2 – Boden der Hütte Nr. 3, in 3 Räume gegliedert (nach Kabát 1955, 599, Abb. 261).",
+    "alt": "2 – Boden der Hütte Nr. 3, in 3 Räume gegliedert (nach Kabát 1955, 599, Abb. 261).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Als Beleg kultischer Praktiken, die im Areal der Siedlungen abliefen, ließen sich verschiedene Opfer, Votivhortfunde und Kultobjekte (Spišský Štvrtok, Nižná Myšľa), aber auch einige Artefakte betrachten. Die Funde unfertiger Metallerzeugnisse deuten auf eine Konzentration des Metallgießerhandwerks hin (Spišský Štvrtok). Wobei im Umkreis der Siedlung verständlicherweise auch weitere, weniger anspruchsvolle Produktionszweige vorhanden waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weitere Fragen, die ich abschließend nur skizziere, sind die Größe des Gebietes, das zu der konkreten befestigten Siedlung gehörte; ob auf den befestigten Siedlungen Getreidevorräte gelagert wurden und auf welche Weise das zu ihr gehörende bäuerliche Umland beziehungsweise die übrigen unbefestigten Siedlungen in der Umgebung dem entsprachen. Erwägen lassen sich auch mögliche Fernkontakte und Impulse, die die Entwicklung und das Aussehen der befestigten Otomani-Siedlungen beeinflussen konnten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nicht ganz klar und gelöst ist der verhältnismäßig plötzliche Untergang der Siedlungen, ob sie wegen innerer Zwistigkeiten untergingen oder durch die Ankunft neuer Kulturen, die die Struktur der befestigten Höhensiedlungen der Otomani-Kultur zerrütteten (Vladár 2012)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 6 – Grundrisse eines Wohnbaus in Rozhanovce (nach Gašaj 1983, 131, Abb. 1).",
+    "alt": "Abb. 6 – Grundrisse eines Wohnbaus in Rozhanovce (nach Gašaj 1983, 131, Abb. 1).",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Arbeit lässt sich zusammenfassen, dass sich auf den befestigten Siedlungen als Zentren des jeweiligen Gebietes alle wichtigsten Aktivitäten wirtschaftlichen, gesellschaftlichen, aber auch geistigen Charakters konzentrierten. In ihrem Fall ist mit einer Konzentration unterschiedlicher Bevölkerung und einer Art höherer Schicht zu rechnen, worauf die Funde wertvoller Gegenstände, aber auch einige Gräber in Nižná Myšľa hindeuten. Auf der Grundlage der Studie stelle ich fest, dass die befestigten Siedlungen der älteren Bronzezeit ein Zivilisationsphänomen sind, das man für die ersten protourbanen oder höheren Siedlungseinheiten auf dem Gebiet der heutigen Slowakei halten kann."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "KATALOG DER FUNDSTELLEN"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nižná Myšľa – Varhegy (Olexa 2003)"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage, Fläche und Forschungsstand"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lage befindet sich auf der verbreiterten linksseitigen Terrasse des Hornád, über dem Zusammenfluss von Torysa und Olšava. Die Verbindungslinie der Flüsse war unzweifelhaft eine bedeutende Kreuzung, an der sich in der Vergangenheit auch Handelswege trafen (Olexa 2003, 19). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 7 – Befestigte Siedlung in Spišský Štvrtok – Myšia hôrka 1 – Plan der befestigten Höhensiedlung (bearbeitet nach Vladár 1975, 18);",
+    "alt": "Abb. 7 – Befestigte Siedlung in Spišský Štvrtok – Myšia hôrka 1 – Plan der befestigten Höhensiedlung (bearbeitet nach Vladár 1975, 18);",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle in Nižná Myšľa läuft bereits seit dem Jahr 1977 eine systematische Ausgrabung. Untersucht werden das Areal der befestigten Siedlungen und auch das zeitgleiche Gräberfeld. Von der geschätzten Größe der Fundstelle von 10 ha wurde insgesamt bisher etwa ein Drittel untersucht (Olexa 2003, 10)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Chronologie – Entstehung der Siedlung, Zahl der Horizonte und Untergang"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinsichtlich der Besiedlung ist die Entwicklung an der Fundstelle stark durch zwei unterschiedliche befestigte Siedlungen bestimmt. Während die Dauer der ersten auf bis zu 200 Jahre geschätzt wird, ist die Existenz der zweiten nur auf etwa fünfzig Jahre begrenzt. Die Entstehung der ersten Siedlung wird in den Beginn der älteren Stufe der klassischen Phase der Otomani-Kultur gesetzt. Die zweite Siedlung entsteht unmittelbar nach der ersten, am Ende des jüngeren klassischen Horizonts (Tab. I; Olexa 2003, 49, 50)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Siedlungskomplex, die Befestigung, die innere Bebauung und die Objekte"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Nižná Myšľa liegt in unmittelbarer Nähe der befestigten Siedlungen ein Gräberfeld, das unmittelbar mit ihrer Entwicklung zusammenhängt. Die umfangreiche Ausgrabung beweist, dass die befestigten Siedlungen ein Hinterland für die weitere Umgebung bildeten (Olexa 2003, 9)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste Siedlung mit einer Fläche von etwa einem Hektar weist Merkmale einer systematischen Bebauung auf, mit gegenüber dem Niveau der Häuser leicht erhöhten Straßen. Die Linien der Häuser folgten regelmäßig dem Bogen der Befestigung, die aus einem breiten, 6 Meter tiefen Graben und einer Erdaufschüttung beziehungsweise einem Wall bestand. Der Wall war 8 bis 10 Meter breit und aus Erde aufgeschüttet, die beim Ausheben des Grabens gewonnen wurde. Im östlichen Abschnitt war die Aufschüttung durch ein Eingangstor unterbrochen, zu dem offenbar eine Überbrückung über den Graben führte. Das Tor hatte eine Holz-Stein-Konstruktion (Olexa 2003, 41-43)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Fall der zweiten Festung wird eine Fläche von bis zu 7 Hektar angenommen, wobei es zu einer vollständigen Umorganisation der Siedlung kam. Die Errichtung der neuen Siedlung beachtete das alte Gräberfeld nicht, über das neue Objekte und ein Teil der Befestigung gebaut wurden. Die Häuser waren rechteckig mit einer Fläche von etwa 20 m². Teilweise weisen sie Merkmale einer systematischen Bebauung auf, einige von ihnen waren nebeneinander gebaut, mit der breiteren Wand etwa einen halben Meter voneinander entfernt. In der Phase der zweiten Siedlung wurde auch eine Kultgrube gefunden (Olexa 2003, 49, 50)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde an der Fundstelle zeugen von einer umfangreichen landwirtschaftlichen und handwerklichen Produktion. Konkret die Funde von Rohstoffen, von Halbfabrikaten für die Produktion und der Charakter einiger Objekte (Olexa 2003, 43, 45, 47)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung in Barca I (Kabát 1955, Točík 1994)"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage, Fläche und Forschungsstand"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die befestigte Siedlung in Barca lag auf einer 12 Meter hohen Erhebung, die der Fluss Hornád geschaffen hatte. Durch den Kiesabbau wurde ein Teil der Siedlung zerstört, und deshalb konnte sie in den Jahren 1952 bis 1954 durch die Rettungsaktion nicht vollständig untersucht werden (Abb. 3; Kabát 1955, 594)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Chronologie – Entstehung der Siedlung, Zahl der Horizonte und Untergang"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Fall der Siedlung in Barca gehen die Ansichten der Forscher zur Datierung der einzelnen Schichten, zu ihrer gesamten chronologischen Einordnung und zu ihrer endgültigen Zahl auseinander. A. Točík (1994) wies auf die Unterschiedlichkeit der Ansichten hin und brachte weitere Möglichkeiten der Deutung der angeführten Schichten (Abb. 4)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein ließe sich sagen, dass im Fall der Siedlung in Barca 3 Phasen beziehungsweise Bauhorizonte zu erkennen sind. Der erste Horizont repräsentiert eine Besiedlung mit Lehmhäusern und einem Wall, die nach der Synchronisierung mit den übrigen Fundstellen in die Stufe BA2 datiert werden kann (Tab. I). Wahrscheinlich unmittelbar nach ihm folgt der zweite Horizont mit an den ursprünglichen Stellen erneuerten Häusern (Kabát 1955, 595, 596). An der Fundstelle wurde noch ein dritter Besiedlungshorizont erfasst, von dem sich jedoch keine genaueren Belege von Objekten erhalten haben (Točík 1994, 61)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nach A. Točík stammt der Plan der Siedlung mit der systematischen Bebauung nicht aus einer Phase, wofür angeblich die Nichteinhaltung des Weges durch weitere Häuser spricht. Ebenso spricht er jedoch von 3 Zeithorizonten der Siedlung, wobei er den letzten mit den Hortfunden an der Fundstelle in Verbindung bringt (Tab. I; Točík 1994, 59, 61)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Siedlungskomplex, die Befestigung, die innere Bebauung und die Objekte"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ursprünglich befestigte Siedlung hatte einen äußeren Wall mit einem Durchmesser von 7 m, wobei zwischen dem Wall und dem Graben ein äußerer Umgang von etwa 2 m Breite lag. Von der inneren und der äußeren Wand her war der Wall durch eine Pfostenkonstruktion verstärkt (Točík 1994, 59, 60)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Insgesamt wurden durch die Ausgrabung 23 Häuser in vier Reihen erfasst. Auf dem Plan der Siedlung sind deutlich Spuren einer systematischen Bebauung zu sehen. Die Hütten waren in Reihen meist in Richtung Nord–Süd konzentriert, außer vier Häusern im Osten, die senkrecht dazu in Richtung Ost–West orientiert waren. Mit der längeren Seite waren sie etwa einen halben Meter voneinander entfernt, und die kürzere Seite wies zur Straße, die etwa 2,5 Meter breit war (Abb. 3; Kabát 1955, 600, 617)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Fall der konkreten Häuser ist eine Raumgliederung zu verfolgen. Insgesamt ließen sie sich in 3 Typen gliedern: ein-, zwei- und dreiräumige. Im Fall des dreiräumigen Hauses Nr. 3, das 12,5 Meter lang und 4,5 Meter breit war, erwägt J. Kabát eine Gliederung in Küche, Vorratsräume und Schlafraum (Abb. 5; Kabát 1955; 596, 597)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Rozhanovce – Plebanské II (Hôrka) (Gašaj 1983)"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage, Fläche und Forschungsstand"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle liegt auf einer strategisch vorteilhaften Terrasse im Tal des Flusses Torysa, das die Verbindungslinie zwischen dem Kaschauer Becken und dem Gebiet von Prešov und Šariš ist."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Jahren 1978 bis 1980 lief an der Lage eine Rettungsgrabung, mit der ein Teil der befestigten Siedlung aufgedeckt werden konnte. Untersucht wurde nur der nordöstliche Teil der Siedlung mit einer Fläche von 800 m². Die Gesamtfläche des inneren Areals betrug etwa 3200 m². Die Ausgrabung brachte nähere Informationen zur Befestigung und zur inneren Bebauung der Siedlung (Gašaj 1983, 130, 132)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "2 – Modell der befestigten Höhensiedlung (Vladár 2012, 391, Abb. 6).",
+    "alt": "2 – Modell der befestigten Höhensiedlung (Vladár 2012, 391, Abb. 6).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Chronologie – Entstehung der Siedlung, Zahl der Horizonte und Untergang"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Rozhanovce konnten zwei Siedlungshorizonte der Otomani-Kultur unterschieden werden. Den Beginn des ersten synchronisiert der Autor mit der Schicht II/2 in Barca I. Wie weitere Funde belegen, folgte unmittelbar nach dem ersten Horizont, der durch einen Brand unterging, der zweite Siedlungshorizont (Tab. I; Gašaj 1983, 134)."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Siedlungskomplex, die Befestigung, die innere Bebauung und die Objekte"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlung in Rozhanovce zeichnet sich durch ein gründliches Befestigungssystem aus. Angesichts der Eigenart des Geländes genügte es, nur die nördliche und die östliche Seite zu befestigen. Die Befestigung bestand aus einem mächtigen Erdwall und einem bogenförmigen Graben. Die Verteidigungsfähigkeit erhöhte wahrscheinlich der Wasserlauf der Torysa und von der südlichen Seite auch der Olčkársky-Bach (Gašaj 1983, 130)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Rozhanovce wurden insgesamt 17 Objekte gefunden. Den ersten Siedlungshorizont auf der untersuchten Fläche repräsentieren 3 Objekte, die sich jedoch städtebaulich nicht näher einordnen lassen. Bereits im ersten Horizont begann offenbar der Bau der Befestigung, er war jedoch nicht abgeschlossen. Zur Fertigstellung des durch eine Palisade verstärkten Erdwalls und des Grabens kam es erst im zweiten Horizont (Gašaj 1983, 132).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 8 – Spišský Štvrtok - Versuch einer Rekonstruktion der Situation im südöstlichen Teil der Fundstelle, wo die Steinmauer an das Befestigungssystem anschließt (nach Vladár 1975, 19, Abb. 3).",
+    "alt": "Abb. 8 – Spišský Štvrtok - Versuch einer Rekonstruktion der Situation im südöstlichen Teil der Fundstelle, wo die Steinmauer an das Befestigungssystem anschließt (nach Vladár 1975, 19, Abb. 3).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funde aus dem jüngeren Horizont weisen auf eine systematische innere Bebauung hin. Sieben Hütten lagen etwa 1 bis 2 Meter vom inneren Rand der Befestigung entfernt. Weitere 4 Hütten wurden in Richtung zum Inneren der Siedlung festgestellt, wobei sie auf eine Reihenbebauung mit deutlichen Straßen hinweisen, die senkrecht zur Palisade verlaufen. Angesichts des Umfangs der untersuchten und der gesamten befestigten Fläche lassen sich im Horizont 2 etwa 40 Objekte annehmen. Der jüngere Horizont ging ebenso wie der ältere durch einen Brand unter, nach dem die Fundstelle in der Otomani-Kultur nicht mehr besiedelt war (Gašaj 1983, 132, 134).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Befestigte Siedlungen der Otomani-Kultur in der Ostslowakei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle bisher untersuchten Wohnbauten hatten den gleichen Charakter. Es handelt sich um rechtwinklige einräumige Hütten mit etwa gleichem Seitenmaß von 4,5 × 4,5 Meter. Die Wände waren mit Lehm verstrichen. In den Hütten befand sich eine Feuerstelle in der Mitte oder in der Ecke (Abb. 6; 131, 132).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Begehungen und weitere Ausgrabungen weisen auf ein weiteres Umland der Siedlung hin. Der Olčkársky-Bach trennte nach D. Gašaj das innere Areal wahrscheinlich von dem bäuerlichen Teil der Siedlung im Süden (Gašaj 1983, 130).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Spišský Štvrtok – Myšia hôrka (Vladár 1975) ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage, Fläche und Forschungsstand"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Siedlung liegt an einer Stelle, die ein natürliches Gefälle von Süden nach Norden hat, wobei der westliche Teil steil in das Tal abfällt, durch das der Machalovský-Bach fließt (Vladár 1975, 4, 5).   "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An der Fundstelle lief wegen des intensiven Umpflügens der Kulturschichten in den Jahren 1968-1974 eine systematische Rettungsgrabung, mit der wegen der Einzigartigkeit der Funde schließlich die gesamte Fläche der befestigten Siedlung untersucht wurde, insgesamt 6600 m² (Vladár 1975, 3, 4).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Chronologie – Entstehung der Siedlung, Zahl der Horizonte und Untergang"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Fall der Siedlung in Spišský Štvrtok konnten 2 Siedlungshorizonte erfasst werden. Den älteren repräsentierten nur wenig zahlreiche Funde im nordöstlichen Teil. Der zweite Horizont war auf der ganzen Fläche der befestigten Höhensiedlung vertreten. Er entsteht in der klassischen Phase und kann teilweise bis in die Abschlussphase der Otomani-Kultur fortbestehen (Tab. I; Vladár 1975, 11-14)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Siedlungskomplex, die Befestigung, die innere Bebauung und die Objekte"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das System der Befestigung war an das Gelände angepasst. Auf der westlichen Seite des Areals, wo das Gefälle steil ist, war nur eine Steinmauer, die anschließend an den mächtigen Wall mit Graben im Osten anband (Abb. 8). Eine Besonderheit dieser befestigten Siedlung ist die Unterteilung des Walls in der Mitte, wobei auf jeder der Seiten verhältnismäßig mächtige Bastionen errichtet waren (Abb. 7). Die Gesamthöhe des Walls erreichte 6 Meter. Der Wall hatte einen 80 cm breiten Umgang, und es fanden sich auf ihm auch Spuren einer Palisade (Vladár 1975, 4-6)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hinsichtlich der inneren Bebauung der Siedlung wurde kein genauer städtebaulicher Plan erkannt. Im nordöstlichen Raum lagen die Häuser mit dem längeren Teil an der Steinmauer an, die gleichzeitig eine Seite bildete. In diesem Teil nimmt J. Vladár auch eine Hauptburg an, auf der Grundlage des anderen Charakters der Häuser und der Konzentration spezifischer Funde (Vladár 1975, 6-9). Im Areal konnten auch Spuren von mit Steinen ausgelegten Wegen erfasst werden. Eines der Objekte wurde als Opferplatz gedeutet. Es handelte sich um eine eingetiefte Grube, die sich gegenüber der Hauptburg in der Nähe des Tores befand (Vladár 1975, 10).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf der Siedlung fand sich auch eine Menge von Artefakten, Objekten und anderen indirekten Belegen, die auf ein vielfältiges handwerkliches Gewerbe hinweisen. Die Ausgrabung deutet auch darauf hin, dass die befestigte Höhensiedlung regionale Bedeutung hatte und zu ihr ein weiteres bäuerliches Umland gehörte (Vladár 1975, 6-9).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Trzcinica – Karpacka Troja (Gancarski 2011) ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lage, Fläche und Forschungsstand"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle Trzcinica liegt in einer erhöhten Lage, die der Fluss Ropa geschaffen hat. Die Lage wurde in mehreren Perioden genutzt. Systematische Ausgrabungen liefen an der Fundstelle vor allem in den Jahren 1991 – 1997 und 2005 – 2009. Untersucht wurde eine Fläche von etwa 1900 m² (Gancarski 2011, 9, 14)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Zeit der Otomani-Kultur stammt nur der obere Teil der ganzen Lage mit einer Fläche von nach dem Plan etwa 8000 m². Die übrigen Teile wurden erst später im Mittelalter genutzt und befestigt (Abb. 9; Gancarski 2011, 15).  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Abb. 9 – Plan der befestigten Siedlung in Trzcinica (bearbeitet nach Gancarski 2011, 95, Ryc. 12) 1 – Siedlung der Pleszów-Gruppe und der älteren Phase der Otomani-Füzesabony-Kultur; 2 – Fläche der jüngsten Phase der Siedlung der Otomani-Füzesabony-Kultur; 3 – Befestigungsgraben.",
+    "alt": "Abb. 9 – Plan der befestigten Siedlung in Trzcinica: Siedlung der Pleszów-Gruppe, Fläche der jüngsten Phase der Otomani-Füzesabony-Kultur und Befestigungsgraben (nach Gancarski 2011, 95, Ryc. 12)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Chronologie – Entstehung der Siedlung, Zahl der Horizonte und Untergang"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Beginn der Bronzezeit war das Areal der befestigten Höhensiedlung vom Volk der Pleszów-Gruppe besiedelt. Allmählich wächst der Einfluss der Otomani-Kultur, und ab der Stufe BB1 lässt sich von ihrer ersten Phase sprechen. Die Besiedlung der Fundstelle besteht auch nach dem Untergang der befestigten Höhensiedlungen in der Slowakei mit nachlebenden Otomani-Elementen fort (Gancarski 2011, 49, 50)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Siedlungskomplex, die Befestigung, die innere Bebauung und die Objekte"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Zeit des Bestehens der Otomani-Kultur war ein 1,8 – 2,5 Meter breiter und etwa 1,1 Meter hoher Wall mit einer Palisade oben belegt. An der Fundstelle wurden ein Weg, ein Zangentor und ein Befestigungsgraben aufgedeckt. Gefunden wurden auch mehrere Überreste verbrannter Hölzer und Spuren von Häusern. Die Anwesenheit der Träger der Otomani-Kultur belegen mehrere ähnliche Artefakte, die auch in der Slowakei gefunden wurden (Gancarski 2011, 51-53)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Autor der Seminararbeit: Adam Gašpar: SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU, Seminararbeit 2012, KONSTANTIN-DER-PHILOSOPH-UNIVERSITÄT IN NITRA, PHILOSOPHISCHE FAKULTÄT, LEHRSTUHL FÜR ARCHÄOLOGIE,"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "LITERATUR:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Furmánek/Veliačik/Vladár 1991 – V. Furmánek/L. Veliačik/J. Vladár: Slovensko v dobe bronzovej. Bratislava 1991."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gašaj 1983 – D. Gašaj: Výsledky záchranného výskumu opevnenej osady otomanskej kultúry v Rozhanovciach. Arch. Rozhledy 35, 1983, 130-137. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gancarski 2011 – J. Gancarski: Trzcinica - karpacka Troja (wyd. III, uzupełnione). Krosno 2011. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kabát 1955 – J. Kabát: Otomanská osada v Barci u Košic. Arch. Rozhledy 7, 1955, 594-617. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Olexa 2003 – L. Olexa: Nižná Myšľa. Osada a pohrebisko z doby bronzovej. Košice 2003. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Točík 1994 – A. Točík: Poznámky k problematike opevneného sídliska otomanskej kultúry v Barci pri Košiciach. Štud. Zvesti 30, 1994, 59-63."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vladár 1975 – J. Vladár: Spišský Štvrtok, opevnená osada otomanskej kultúry. In: III. Medzinárodný kongres slovanskej archeológie, Bratislava 7.-14. Sept. 1975. Nitra 1975, 3-20."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Vladár 2012 – J. Vladár: Depoty bronzových a zlatých výrobkov na výšinnom opevnenom sídlisku otomanskej kultúry v Spišskom Štvrtku. In: R. Kujovský/V. Mitáš (Ed.): Václav Furmánek a doba bronzová – Zborník k sedemdesiatym narodeninám. Nitra 2012, 383-396."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

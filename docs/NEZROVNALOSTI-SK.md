@@ -793,3 +793,9 @@ preložený, rovnako ako anglická.
 
 **peter-schreiber-osidlenie-ziliny-a-okolia-od-doby-rimskej-po-stredovek-lokalita-divinka**
 : popis fotografie uvádza skratku „Hl. hrniec" — v preklade čítaná ako „hlinený"; treba potvrdiť
+
+**archeologicke-kultury-na-slovensku-datovanie**
+: autori knihy sú v bloku 0 „Rudo Malý a manželka Evka", v bloku 3 „Eva Mladá a Rudolf Mladý" — dve rôzne priezviská pre tých istých ľudí
+
+**sumrak-velkej-moravy-povest-z-10-storocia**
+: blok 38 „Po zániku hradiska vil. stor." — preklep, zrejme 11. storočie
