@@ -1,0 +1,80 @@
+{
+ "slug": "tabula-na-hradisku-holis-nimnica",
+ "data": {
+  "slug": "informationstafel-holis-nimnica",
+  "title": "Informationstafel auf der Höhensiedlung Holíš bei Nimnica",
+  "excerpt": "Am Sonntag, dem 16. 8. 2020, stellte unser Verein Hradiská gemeinsam mit einer Gruppe von Enthusiasten aus Nimnica um Miloš Vrábel eine neue Informationstafel auf der Höhensiedlung der Púchov-Kultur Holíš auf – einem markanten Berg, der sich über dem Kurort Nimnica erhebt. Die schwere Tafel musste von den Geländewagen aus noch ein gutes Stück bergauf getragen werden; um 15.00 Uhr wurde sie im Beisein der Öffentlichkeit feierlich enthüllt. Finanziert hat die Tafel die Gemeinde Nimnica.",
+  "metaTitle": "Informationstafel auf der Höhensiedlung Holíš (Nimnica)",
+  "metaDescription": "Der Verein Hradiská stellte 2020 mit Enthusiasten aus Nimnica eine Informationstafel auf der Höhensiedlung der Púchov-Kultur Holíš über dem Kurort auf.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Informationstafel auf der Siedlung der Púchov-Kultur Holíš (Nimnica)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "16. 8. 2020",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2020",
+    "title": "Tafel Holíš",
+    "type": "event",
+    "description": "Verein Hradiská + die Gruppe aus Nimnica (M. Vrábel); finanziert hat sie die Gemeinde Nimnica."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5507,
+    "alt": "Die Informationstafel Hradisko Holíš mit Text, einer Zeichnung der Höhenburg und Fotografien der Funde"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Sonntag, dem 16. 8. 2020, hat unser Verein Hradiská in Zusammenarbeit mit einer Gruppe von Enthusiasten aus Nimnica um Miloš Vrábel eine neue Informationstafel auf der Höhensiedlung der Púchov-Kultur Holíš aufgestellt, einem markanten Berg, der sich über dem Kurort Nimnica erhebt. Die Tafel hat wie immer Cenwood hergestellt, und um die Grafik haben sich die Brüder Bros gekümmert. Die schwere Tafel und auch die übrigen Werkzeuge und das Material zu ihrer Aufstellung mussten von den Geländewagen aus noch ein gutes Stück bergauf von Hand hinaufgetragen werden, aber wir haben alles ohne größere Probleme geschafft. Nach dem Aufstellen der Tafel haben wir uns erfrischt, und um 15.00 Uhr haben wir die Tafel im Beisein der Öffentlichkeit feierlich enthüllt. Wir freuen uns, dass zu unseren Tafelenthüllungen trotz der oft schweren Zugänglichkeit auf hohen Bergen immer viele Enthusiasten kommen, die uns mit ihrer Teilnahme stets unterstützen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Außer unseren Mitgliedern und der genannten Gruppe aus Nimnica gebührt unser Dank auch der Gemeinde Nimnica, die die Tafel finanzieren wird. Wir freuen uns schon wieder auf die nächste Burganlage, auf der wir eine neue Tafel aufstellen. Orgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Informationstafel auf der Höhensiedlung Holíš (Nimnica)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

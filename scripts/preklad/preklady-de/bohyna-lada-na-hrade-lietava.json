@@ -1,0 +1,88 @@
+{
+ "slug": "bohyna-lada-na-hrade-lietava",
+ "data": {
+  "title": "Die Göttin Lada auf der Burg Lietava",
+  "slug": "goettin-lada-burg-lietava",
+  "excerpt": "Lange vor der Gründung der Burg saß am Fuß des Berges ein heidnischer Stamm der Slawen, der auf dem Gipfel ein Heiligtum namens bosnica errichtete. In seiner Mitte stand ein Wagen aus reinem Gold, in den zwei schneeweiße Tauben und zwei Schwäne eingespannt waren, und darin die Göttin Lada mit drei Äpfeln und einer diamantenen Erdkugel. Von ihrem Namen wird der Name Lietava abgeleitet.",
+  "metaTitle": "Die Göttin Lada auf der Burg Lietava – eine Sage",
+  "metaDescription": "Die Sage vom heidnischen Heiligtum auf dem Berg Lietava und von der Göttin Lada: ein goldener Wagen mit Tauben und Schwänen, lange vor dem Bau der Burg.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Svätoslava",
+    "icon": "book"
+   },
+   {
+    "label": "Lage",
+    "value": "Die Burg Lietava",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Die heidnische Zeit vor der Ankunft des Christentums",
+    "icon": "calendar"
+   },
+   {
+    "label": "Motiv",
+    "value": "Die slawische Göttin Lada und ihre vier milostky (Huldinnen) – Lada, Dzeva, Siva und Krásna pani",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor der Ankunft des Christentums",
+    "title": "Das heidnische Heiligtum (bosnica)",
+    "description": "Auf dem Gipfel des Berges saß ein heidnischer Stamm der Slawen, der hier ein Heiligtum mit geschnitzten und bemalten Figürchen slawischer Götter errichtete, darunter der Göttin Lada.",
+    "type": "event"
+   },
+   {
+    "year": "die Ausbreitung des Christentums",
+    "title": "Der Bau der Kirche und der Burg",
+    "description": "An der Stelle des heidnischen Heiligtums wurde eine christliche Kirche im gotischen Stil und später die Burg Lietava errichtet, deren Name von der Göttin Lada abgeleitet wird.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4113,
+    "caption": "Die Göttin Lada auf der Lietava. Autor: Naj",
+    "alt": "Die Göttin Lada auf der Lietava. Autor: Naj"
+   },
+   {
+    "mediaId": 4119,
+    "caption": "Die Göttin Lada (S. Jakubovski)",
+    "alt": "Die Göttin Lada (S. Jakubovski)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lange vor der Gründung der Burg saß am Fuß des Berges ein heidnischer Stamm der Slawen, der sich auf dem Gipfel ein Heiligtum namens bosnica errichtete. Das Heiligtum schmückten hölzerne, geschnitzte und bemalte Figürchen slawischer Götter."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Inmitten des Heiligtums stand ein Wagen aus reinem Gold, in den zwei schneeweiße Tauben und zwei Schwäne eingespannt waren. In diesem Wagen stand die bezaubernde, nackte Frau Lada; ihr volles, goldiges Haar reichte ihr bis zu den Knien, und darauf trug sie eine schöne, weiße Haarkrone, umsäumt von einem Kranz aus Rosen und Myrte. Aus ihrem Herzen schossen glühende Feuerstrahlen inniger Liebe hervor. In der Rechten hielt sie drei Äpfel, in der Linken eine diamantene Erdkugel. Hinter ihr standen vier Mädchengestalten, die so genannten milostky (Huldinnen) – Lada, Dzeva, Siva und Krásna pani –, die einander einen Apfel reichten. Am Ufer des Baches, der in der Nähe des Heiligtums floss, wohnten die Priesterinnen der Gottheiten, die im heißesten Sommer den Göttinnen einen Honigtrunk, reife Weizen- und Roggenähren und duftende Blumenkränze opferten. Die Riten begleiteten die Lieder der Jungfrauen und der verliebten Frauen. Diese beschenkten die Priesterinnen dann für Zauber gegen erkaltende Liebhaber. An der Stelle dieses heidnischen Heiligtums wurde zur Zeit der Ausbreitung des Christentums eine christliche Kirche im gotischen Stil und später die Burg errichtet, die wir heute unter dem Namen Lietava kennen. Der Name Lietava wird vom Namen der Göttin Lada abgeleitet."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

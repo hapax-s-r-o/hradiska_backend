@@ -1,0 +1,193 @@
+{
+ "slug": "hradisko-zilin-papradno",
+ "data": {
+  "title": "Der Burgwall Žilín bei Papradno – die schwarzen Hunde",
+  "slug": "zilin-papradno-sage-schwarze-hunde",
+  "excerpt": "Noch eine Sage, diesmal zum Burgwall Žilín über der Gemeinde Papradno in den Javorníky. Nach den verfügbaren Angaben war es eine kleine Burg mit dreifachem Steinwall. Die Sage erzählt von einem uralten Stamm der Slawen, von einer Räuberbande, die in den Ruinen der abgebrannten Burg die alten heidnischen Götter herbeirief und einen Schatz versteckte, und von der Gräfin Baláži-Gáborka, die drei schwarze Hunde vom Berg verjagten.",
+  "metaTitle": "Der Burgwall Žilín bei Papradno – die schwarzen Hunde",
+  "metaDescription": "Die Sage von der kleinen Burg Žilín mit dreifachem Steinwall über Papradno in den Javorníky – vom Räuberschatz und den drei schwarzen Hunden.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Štefan Meliš, Stanislav Muntág",
+    "icon": "book"
+   },
+   {
+    "label": "Lage",
+    "value": "Der Burgwall Žilín über der Gemeinde Papradno – nach der Literatur eine kleine Burg mit dreifachem Steinwall (im Gelände nicht bestätigt)",
+    "icon": "map"
+   },
+   {
+    "label": "Motiv",
+    "value": "Ein von drei schwarzen Hunden gehüteter Räuberschatz, der Kult des Gottes Perun",
+    "icon": "shield"
+   },
+   {
+    "label": "Quelle",
+    "value": "Kráľ Matej pod Manínom, Matica slovenská, 2002",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor langer, langer Zeit",
+    "title": "Sitz eines uralten Stammes der Slawen",
+    "description": "Auf dem Žilín saß ein uralter Stamm der Slawen, bevor er in das Waagtal auf das Gebiet des heutigen Žilina übersiedelte.",
+    "type": "event"
+   },
+   {
+    "year": "nach dem Untergang der kleinen Burg",
+    "title": "Sitz einer Räuberbande",
+    "description": "Nach dem Brand der kleinen Burg in Blockbauweise wurden ihre Ruinen zur Zuflucht einer blutrünstigen Räuberbande, die hier die alten heidnischen Gottheiten herbeirief und einen Schatz versteckte.",
+    "type": "event"
+   },
+   {
+    "year": "später",
+    "title": "Die Nachforschungen der Gräfin Gáborka",
+    "description": "Die Gräfin Baláži-Gáborka forschte dem Geheimnis des Schatzes auf dem Žilín nach, bis sie drei schwarze Hunde von dem Berg verjagten.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6435,
+    "alt": "Zeichnung eines zweiteiligen Burgwalls mit Palisade, Blockhäusern und Äckerchen in einer Berglandschaft"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ich füge noch eine Sage hinzu, diesmal eine, die mit dem Burgwall Žilín über der Gemeinde Papradno zusammenhängt. Nach den verfügbaren Angaben war es eine kleine Burg mit dreifachem Steinwall."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die schwarzen Hunde auf dem Žilín"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tief in den Wäldern der Javorníky, in einem der oberen Arme des Tals von Papradno, steht der Berg Žilín. Seit jeher war er eine freigebige Heimat des Wildes und auch ein Versteck von Räuberbanden. Doch nicht nur das. Vor langer, langer Zeit soll auf ihm ein uralter Stamm der Slawen gesessen haben, bevor er in das Waagtal, auf das Gebiet des heutigen Žilina (Sillein), übersiedelte. Irgendein slawischer Adliger errichtete auf dem Žilín eine kleine Burg in Blockbauweise, die lange dem Andrang der Feinde und den grausamen Wintern der Javorníky widerstand, bis sie schließlich, man weiß nicht warum, in Asche sank. Vielleicht missfiel es den uralten heidnischen Göttern, dass ihre Verehrer sie verlassen hatten und sich dem neuen Glauben, dem Christentum, ergeben hatten; vielleicht sandte Perun selbst Donner und Blitze auf sein verlassenes Heiligtum, und die kleine Burg brannte bis auf den Grund ab. Ihre Ruinen wurden zum Sitz einer blutrünstigen Räuberbande, die ringsumher Schrecken und Unglück säte. Drei Räuberhauptmänner trafen sich auf dem Žilín, riefen mit einem schrecklichen Ritual die alten heidnischen Gottheiten herbei, verschrieben sich ihnen mit eigenem Blut und erbaten sich ihre Hilfe. Und so rafften diese Räuberhunde große Schätze zusammen und versteckten sie irgendwo in der Umgebung. Dann verschwanden sie wie Nebel, und die Zeit verwischte alle Spuren ihrer Anwesenheit – auf dem Žilín wie in den verwundeten Seelen ihrer Opfer. Man erzählte sich, irgendeine unglückliche Greisin habe sie, als sie überfallen und beraubt wurde, im Todeskrampf verflucht. Und freilich, es waren noch die Zeiten, in denen ein gerechter Fluch zuweilen auch in Erfüllung ging."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und es kamen andere Zeiten, als die Herrscherin über die Wälder von Papradno die seltsame Gräfin Baláži-Gáborka war. Sie fürchtete weder den Wald noch das Wild, ja nicht einmal das Wüten der Elemente und der dunklen Kräfte, die in der Nacht die Herrschaft über die Welt übernehmen. Als sie einmal hörte, der Besný kopec im Tal von Mariková sei eine vergessene Bastei des altehrwürdigen Perun, von dort schleudere er Donner und Blitze auf seine einstigen Verehrer, machte sie sich sogleich dorthin auf, strich in der Umgebung umher und lauerte auf die Gelegenheit, da der vergessene Herr des Donners zu wüten beginnen würde. Sie musste nicht lange warten – ein Sturmwind erhob sich, schwarze Wolken verdunkelten die Sonne, verängstigte Hirten trieben ihre Herden Hals über Kopf in Sicherheit. Nur Gáborka jagte auf ihrem Zauberross über den kahlen Scheitel des Besný kopec, als der Donnerer mit dröhnender Stimme sprach. Die Blitze fielen auf die Erde wie feurige Hagelkörner. Und die furchtlose Gräfin stand den rasenden Elementen entgegen, der Sturmwind riss ihr die Kleider vom Leib, das Pferd wieherte verstört, bis es sich schließlich, von diesem Wüten betäubt, zur Flucht wandte und die Reiterin gegen ihren Willen in Sicherheit trug."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die kühne Gräfin erfuhr auch von dem Geheimnis des Žilín, und sie erbebte vor Ungeduld, dass sie es ergründen musste. Den ganzen Sommer verbrachte Gáborka in der Umgebung des geheimnisvollen Berges. Viele erblickten sie, wie sie in den Gumpen des Žilínsky-Bachs badete und dann nackt an dem blumenreichen Hang lag. Sie forschte bei den weisen Greisen und Greisinnen der Umgebung nach, fügte eifrig die Scherben der vergessenen Sage zusammen und suchte nach verborgenen Spuren zu dem Schatz."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nein, Gáborka trieb nicht die Gier nach Reichtum, den hatte sie ja übergenug. Aber jener Schleier des Geheimnisses, der Schatten der geheimnisvollen dämonischen Kräfte, die den verwunschenen Schatz hüten, der ließ sie nicht schlafen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und sie war schon ganz nahe. Am längsten hielt sie sich auf der Lichtung am Fuß des Berges auf, wo der Eingang zum Versteck der Räuber sein sollte, nur wusste niemand, wo genau und durch welchen Zauber sich dieser Eingang öffnet. Dort verbrachte Gáborka nun die sonnigen Tage, lag auf der Wiese und sann, wer weiß worüber."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und es war einmal gerade Mittag, die Sonne strahlte Glut über das ganze Land, und aus der Ferne klang das Geläut der Glocken herüber, von irgendwo her aus der Kirche von Jasenica. Das Gebüsch am Rand der Lichtung teilte sich, und ein schwarzer Hund mit schäumender Schnauze und heraushängender Zunge trat aus dem Wald. Auch gegenüber, auf der anderen Seite der Wiese, erschien ein ähnliches Untier, und ein drittes kroch ein Stück weiter unten zwischen den Bäumen hervor. Als sie die Frauengestalt erblickten, sträubte sich ihr Fell, sie begannen zu winseln, zu heulen und zornig zu bellen. Im Augenblick sind sie auf Armeslänge heran, kreisen um die nackte Gräfin, die eilig aus ihrem Lager in der Wiese aufgesprungen ist, die Schwänze drohend gespannt, das Fell gesträubt. Sie beginnen von einer Seite anzugreifen. Gáborka springt nur beiseite, barfuß und nackt weicht sie langsam die Lichtung hinab zurück, und die Hunde dringen von drei Seiten auf sie ein, blecken die Zähne und hecheln zornig mit feuriger Flamme. Auch die kühne Gräfin brauchte nicht mehr, freilich, nicht einmal die Kleider schaffte sie es, aus dem Gras aufzuheben, sie nahm nur die bloßen Füße auf die Schultern und läuft vor den andringenden Ungeheuern davon. Und die Hunde greifen unablässig von drei Seiten an, nur die vierte lassen sie Gáborka zur Flucht frei. Nun, sie läuft, so viel ihre Kräfte reichen, und hält erst vor der Siedlung Majer an. Hier, in Sichtweite der ersten Häuser, heulten die Hunde zum letzten Mal wild auf und verschwanden im Wald."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von damals an mied die Gräfin den Žilín von weitem und forschte niemals mehr nach seinem schrecklichen Geheimnis."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

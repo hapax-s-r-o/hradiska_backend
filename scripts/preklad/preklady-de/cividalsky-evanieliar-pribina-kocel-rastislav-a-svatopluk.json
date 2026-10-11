@@ -1,0 +1,119 @@
+{
+ "slug": "cividalsky-evanieliar-pribina-kocel-rastislav-a-svatopluk",
+ "data": {
+  "title": "Das Evangeliar von Cividale – Pribina, Kocel, Rastislav und Svatopluk",
+  "slug": "evangeliar-von-cividale-grossmaehrische-namen",
+  "excerpt": "Das Evangeliar von Cividale gehört zu den bedeutendsten Quellen zu den Anfängen der slawischen Geschichte. Sein Wert liegt nicht im Bibeltext – das Markusevangelium darin ist nur eine von vielen Abschriften –, sondern in den Randeinträgen, mit denen die Mönche von Aquileia die Namen bedeutender Besucher ihres Klosters festhielten. Neben Langobarden und Byzantinern stehen dort auch Svatopluk, Rastislav, Kocel und Pribina.",
+  "metaTitle": "Das Evangeliar von Cividale – Svatopluk, Pribina, Rastislav",
+  "metaDescription": "Das Evangeliar von Cividale, eine Schlüsselquelle zu den Anfängen der Slawen, enthält die Namen Svatopluks, Pribinas, Rastislavs und Kocels.",
+  "keyFacts": [
+   {
+    "label": "Handschrift",
+    "value": "Das Evangeliar von Cividale (Evangelium nach dem hl. Markus)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung des Textes",
+    "value": "4.–7. Jahrhundert, abgeschrieben im aquileischen Dorf Monastero",
+    "icon": "calendar"
+   },
+   {
+    "label": "Namenseinträge",
+    "value": "Mitte des 9. Jahrhunderts bis 10. Jahrhundert",
+    "icon": "users"
+   },
+   {
+    "label": "Bedeutende Namen",
+    "value": "Svatopluk, Rastislav, Kocel, Pribina und weitere großmährische und pannonische Besucher",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4.–7. Jh.",
+    "title": "Entstehung des ursprünglichen Textes",
+    "description": "Der ursprüngliche Text des Evangeliars von Cividale wurde im aquileischen Dorf Monastero geschrieben.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 9. Jh.",
+    "title": "Beginn der großmährischen Namenseinträge",
+    "description": "Die Mönche von Aquileia begannen, die Namen bedeutender Besucher in das Evangeliar einzutragen, darunter auch großmährische und pannonische Herrscher.",
+    "type": "event"
+   },
+   {
+    "year": "8.–10. Jh.",
+    "title": "Zeitraum der Namenseinträge",
+    "description": "Das Eintragen der Namen an die Ränder und später auch zwischen die Zeilen des Evangeliars erfolgte etwa in diesem Zeitraum.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4214,
+    "caption": "Kocel und Pribina",
+    "alt": "Kocel und Pribina"
+   },
+   {
+    "mediaId": 4215,
+    "caption": "Rastislav",
+    "alt": "Rastislav"
+   },
+   {
+    "mediaId": 4216,
+    "caption": "Svatopluk, Svatožizna (seine Gattin), Predslav (Sohn)",
+    "alt": "Svatopluk, Svatožizna (seine Gattin), Predslav (Sohn)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "DAS EVANGELIAR VON CIVIDALE gehört zu den bedeutendsten Quellen, die sich auf die Anfänge der slawischen Geschichte beziehen, besonders der Slowaken, Bulgaren, Kroaten und Slowenen. Es enthält die Namen unserer Herrscher des Frühmittelalters – Svatopluks, Pribinas und Rastislavs. Wie viele andere Denkmäler war auch dieses bislang nicht in guter Qualität im Netz verfügbar. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kocel und Pribina",
+    "alt": "Kocel und Pribina",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der ursprüngliche Text des Evangeliars von Cividale wurde wahrscheinlich zwischen dem 4. und dem 7. Jahrhundert im aquileischen Dorf Monastero geschrieben. Lange Zeit galt ein Teil des Evangeliars – das Evangelium nach dem hl. Markus – als dessen authentische Handschrift. Heute wissen wir, dass es nur eine von vielen Abschriften ist. Seine außerordentliche historische Bedeutung liegt jedoch in den Randeinträgen mit den Namen bedeutender Besucher des genannten Klosters. Die Entstehung der Namenseinträge großmährischer und pannonischer Provenienz lässt sich im Wesentlichen auf den Beginn der zweiten Hälfte des 9. Jahrhunderts datieren. Man nimmt an, dass die Mönche von Aquileia aus Dankbarkeit für die mitgebrachten Geschenke und aus Achtung gegenüber den Besuchern auf den Gedanken kamen, deren Namen in das heiligste Buch einzutragen. Das Eintragen der Namen dauerte etwa vom 8. bis zum 10. Jahrhundert. Und so finden sich neben langobardischen und byzantinischen Herrschern sowie anderen Würdenträgern und vielleicht auch Kaufleuten aus verschiedenen Teilen Europas Einträge slawischer Namen wie: Svatopluk, Svatožizna, Predslav, Rastislav, Kocel, Pribina, Michael, Sondoke, Braslav, Trpimir. Die Einträge deuten darauf hin, dass die bedeutenden Besucher das Kloster von Aquileia als geeigneten Ort der Ruhe nach den langen Reisen nutzten, die vor allem nach Rom und Venedig führten. Im Evangeliar sind die Namen zunächst nach der Reihenfolge der Blätter eingetragen. Später jedoch begann man, nachdem der Platz an den Rändern der ersten Blätter erschöpft war, unsystematisch auch die Zwischenräume zwischen den Zeilen des biblischen Textes selbst zu nutzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

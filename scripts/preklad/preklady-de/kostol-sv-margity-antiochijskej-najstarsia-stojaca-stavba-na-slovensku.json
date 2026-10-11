@@ -1,0 +1,239 @@
+{
+ "slug": "kostol-sv-margity-antiochijskej-najstarsia-stojaca-stavba-na-slovensku",
+ "data": {
+  "title": "Die Kirche der hl. Margareta von Antiochien in Kopčany – der älteste stehende Bau der Slowakei",
+  "slug": "kirche-hl-margareta-von-antiochien-kopcany",
+  "excerpt": "Die Kirche der hl. Margareta von Antiochien steht außerhalb von Kopčany im Bezirk Skalica am linken Ufer der March. Als Pfarrkirche – erstmals 1392 erwähnt – diente sie bis ins 18. Jahrhundert, sie gilt jedoch als der älteste stehende kirchliche Bau Mitteleuropas: entstanden spätestens im 9. Jahrhundert im Zusammenhang mit dem großmährischen Burgwall Valy in Mikulčice. Die 2004 von P. Baxa entdeckten Gräber des 9. bis beginnenden 10. Jahrhunderts bestätigen diese Datierung.",
+  "metaTitle": "Kirche der hl. Margareta in Kopčany – ältester Bau",
+  "metaDescription": "Die Kirche der hl. Margareta von Antiochien in Kopčany, der älteste stehende kirchliche Bau Mitteleuropas, verbunden mit dem Burgwall Valy in Mikulčice.",
+  "keyFacts": [
+   {
+    "label": "Fundort",
+    "value": "Kopčany, Bezirk Skalica (linkes Ufer der March)",
+    "icon": "map"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Ältester stehender kirchlicher Bau Mitteleuropas nördlich der Donau",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung der Entstehung",
+    "value": "Spätestens 9. Jahrhundert — Zusammenhang mit dem Burgwall Valy in Mikulčice",
+    "icon": "calendar"
+   },
+   {
+    "label": "Schlüsselbeweis",
+    "value": "Großmährische Gräber des 9. bis beginnenden 10. Jahrhunderts bei der Kirche entdeckt (P. Baxa, 2004)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert",
+    "title": "Entstehung der Kirche",
+    "description": "Die Kirche entstand spätestens in diesem Jahrhundert im Zusammenhang mit der Errichtung des großmährischen Burgwalls Valy in Mikulčice.",
+    "type": "event"
+   },
+   {
+    "year": "1392",
+    "title": "Erste schriftliche Erwähnung",
+    "description": "Die Kirche ist erstmals als Pfarrkirche belegt; in dieser Funktion diente sie bis ins 18. Jahrhundert.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte des 13. Jahrhunderts",
+    "title": "Erste Umbauten",
+    "description": "Die ursprünglichen halbrund geschlossenen Fenster des Schiffes wurden verändert — im Norden vermauert, im Süden zu frühgotischen umgestaltet.",
+    "type": "event"
+   },
+   {
+    "year": "1961",
+    "title": "Erste archäologische Ausgrabung",
+    "description": "Ľ. Kraskovská führte die erste konventionelle Ausgrabung des Friedhofs bei der Kirche durch.",
+    "type": "event"
+   },
+   {
+    "year": "1994 – 1996",
+    "title": "Fortsetzung der Ausgrabung",
+    "description": "V. Drahošová erfasste mit Schnitten entlang des Kirchenumfangs Körpergräber und Fragmente des älteren Mauerwerks der Vorhalle.",
+    "type": "event"
+   },
+   {
+    "year": "1998",
+    "title": "Systematische Untersuchung von Kopčany",
+    "description": "Das Denkmalamt der Slowakischen Republik begann mit der systematischen archäologischen Untersuchung der gesamten Gemarkung der Gemeinde Kopčany.",
+    "type": "event"
+   },
+   {
+    "year": "2004",
+    "title": "Schlüsselfund großmährischer Gräber",
+    "description": "P. Baxa entdeckte bei der Kirche Gräber aus dem 9. bis zum beginnenden 10. Jahrhundert, die die Entstehung der Kirche in die großmährische Zeit datieren.",
+    "type": "event"
+   },
+   {
+    "year": "2006",
+    "title": "Vorstellung der Studie zur Präsentation der Kirche",
+    "description": "In Mikulčice wurde am 28. 6. die architektonisch-städtebauliche Studie zur Präsentation der Kirche und ihrer Umgebung öffentlich vorgestellt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3975,
+    "alt": "Schematische Zeichnung des Grundrisses der Kirche und der angrenzenden Fläche auf grünem Untergrund"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Kirche der hl. Margareta von Antiochien befindet sich in der Gemeinde Kopčany, Bezirk Skalica. Sie steht außerhalb des Dorfes am linken Ufer der March. Als Pfarrkirche (erste Erwähnung im Jahr 1392) diente sie bis ins 18. Jahrhundert. Sie gilt als der älteste stehende kirchliche Bau Mitteleuropas. Sie entstand im Zusammenhang mit der Errichtung des großmährischen Burgwalls Valy in Mikulčice spätestens im 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kirche der hl. Margareta von Antiochien – der älteste stehende Bau der Slowakei",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf diese einzigartige Kirche können die Slowaken mit Recht stolz sein. Es handelt sich nämlich um den einzigen bis heute stehenden und erhaltenen Bau aus der Zeit Großmährens. In der Tschechischen Republik und auch sonst nirgends existiert ein solcher Bau. Zugleich muss man sich bewusst machen, dass diese unauffällige kleine Kirche praktisch der älteste erhaltene stehende Bau nördlich der Donau ist, womit sie auch im Rahmen ganz Mitteleuropas eine enorme Bedeutung hat. Die Kirche ist gleichzeitig ein lebendiger Beweis dafür, wie unsinnig es ist, die Grenzen Mährens und Nitravas nach den heutigen Grenzen der Slowakei und Tschechiens zu verstehen. Kopčany war ein Teil von Mikulčice, das die Mährer für sich beanspruchen. In Wirklichkeit lag der Burgwall Valy selbst jedoch direkt an der March auf einer Insel bzw. auf mehreren Inseln. Erst in späterer Zeit, nach dem Untergang des Burgwalls, verlagerte die March ihr Flussbett allmählich bis in den heutigen Zustand. Nach dem heutigen Verständnis der Grenzen, die entlang der March verlaufen, ließe sich also sagen, dass Mikulčice halb slowakisch und halb mährisch war, was aber natürlich Unsinn ist. Das Mähren des 9. Jahrhunderts (ich meine damit das ursprüngliche „Mojmirsche“ Mähren) umfasste zweifellos auch einen großen Teil der Westslowakei. Es ist ausgeschlossen, dass das Machtzentrum Mährens an der Grenze des Fürstentums gelegen hätte. Solche Zentren lagen grundsätzlich tief im Binnenland. Nach der Angliederung der Westslowakei an das Königreich Ungarn hörte der östliche Teil Mährens (vor allem das heutige Záhorie) allmählich auf, sich mit dem ursprünglichen Mähren zu identifizieren, und dieser Name blieb nur seinem westlichen Teil. Ein Paradox ist jedoch, dass gerade jener Teil des heutigen Mährens, der das Zentrum des historischen Mährens bildete, noch immer Slovácko (die Mährische Slowakei) genannt wird, was verschiedene Assoziationen hervorruft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kirche der hl. Margareta von Antiochien – der älteste stehende Bau der Slowakei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die erste bekannte konventionelle archäologische Ausgrabung des Friedhofs bei der Kirche der hl. Margareta in Kopčany führte im Jahr 1961 Ľ. Kraskovská durch. Bei den in einem bandförmigen Schnitt nördlich der Kirche freigelegten Skeletten fand sie keine Funde, die ihre Datierung erlaubt hätten; die Kirche selbst hielt sie für frühgotisch. Zur Untersuchung des Friedhofs und der Kirche kehrte in den Jahren 1994–1996 V. Drahošová zurück. Mit vier Schnitten entlang des Kirchenumfangs und einem im Innenraum erfasste sie erneut Körpergräber ohne jegliche Beigaben und westlich der Kirche, im Schnitt 2/94/95, Fragmente eines älteren Mauerwerks, das später als Fundament der Vorhalle identifiziert wurde. Als grundlegende Wende kann das Jahr 1998 gelten, als das Denkmalamt der Slowakischen Republik mit der systematischen archäologischen Untersuchung der gesamten Gemarkung von Kopčany begann. Im Jahr 2004 entdeckte P. Baxa bei der Kirche der hl. Margareta Gräber aus dem 9. bis zum beginnenden 10. Jahrhundert, die die Entstehung der Kirche in die großmährische Zeit datieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von ihrem Alter zeugen auch die Mauern, die nicht senkrecht stehen, sondern sich nach oben hin archaisch nach innen krümmen. Die ersten deutlicheren Umbauten erfuhr der Bau um die Mitte des 13. Jahrhunderts, als die ursprünglichen halbrund geschlossenen Fenster des Schiffes verändert wurden. Auf der Nordseite wurden sie vermauert, auf der Südseite in frühgotische Fenster mit steinernen Mittelpfosten umgewandelt. Ein ähnliches Fenster wurde auch in die Südwand der Apsis gebrochen. In der zweiten Hälfte des 16. Jahrhunderts wurde der ursprüngliche Eingang auf der Westseite des Schiffes durch ein größeres, asymmetrisch eingesetztes gotisches Portal ersetzt. Das stand wahrscheinlich im Zusammenhang mit der Errichtung einer Empore im westlichen Teil des Schiffes. Außerdem erhielt die Kirche einen neuen Altar. Im 17. Jahrhundert wurden die Fenster umgestaltet; das betrifft vor allem das Fenster auf der Südseite des Schiffes, das der Apsis näher liegt und das durch eine große barocke Fensteröffnung in Halbkreisform ersetzt wurde. In diesem Jahrhundert erlischt die Besiedlung rund um die Kirche endgültig, die allein in einer sumpfigen Landschaft zurückblieb. Dank der Fürsorge der Gläubigen ging sie jedoch nicht unter. Zuletzt wurde sie noch im Jahr 1926 instand gesetzt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kirche der hl. Margareta von Antiochien – der älteste stehende Bau der Slowakei",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschließend ist hinzuzufügen, dass die neuesten Untersuchungen darauf hindeuten, dass in der Slowakei noch mindestens ein Bau steht, dessen Ursprung bis in die Zeit Großmährens zurückreicht: die kleine Kirche in der Gemeinde Kostoľany pod Tribečom. Der großmährische Ursprung der Kirche in Kostoľany ist bislang nur dendrochronologisch belegt: die Analyse eines hölzernen Balkens aus der Mauer ergab, dass er mit größter Wahrscheinlichkeit von einem um das Jahr 860 gefällten Baum stammt. Es ist zu ergänzen, dass diese Kirche aufgrund des Fundes von Bauholz im Mauerwerk nicht nur dendrochronologisch, sondern auch durch die Messung des Kohlenstoffgehalts C14 indirekt in das 9. Jahrhundert datiert wurde. Auch mit dieser Methode wird das Holz in den Verlauf des 9. Jahrhunderts datiert. Das ist wichtig, denn wenn gegen die Dendrodatierung bestimmte Einwände hinsichtlich der geringeren Beweiskraft der festgestellten Jahrringsequenz erhoben werden können, so muss eine völlig übereinstimmende Datierung mit einer anderen Methode diese Zweifel zerstreuen. Das Einzige, was Kostoľany gegenüber Kopčany bislang fehlt, sind großmährische Gräber, die den Kirchenbau respektieren. Ihr Fehlen ist der einzige Grund, weshalb die Historiker es noch nicht wagen, Kostoľany der großmährischen Zeit zuzuordnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Kirche der hl. Margareta von Antiochien – der älteste stehende Bau der Slowakei",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Schluss füge ich einen interessanten Beitrag von der dem Burgwall von Mikulčice gewidmeten Website (http://www.mikulcice-valy.info/default.asp?cont=113) an – ein Zitat aus der architektonisch-städtebaulichen Studie, die am 28. 6. 2006 in Mikulčice öffentlich vorgestellt wurde und die belegt, welche Bedeutung dieser auf den ersten Blick unauffälligen kleinen Kirche beigemessen wird:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Entwurf für die Präsentation der Kirche der hl. Margareta von Antiochien\n\nDie Art der Präsentation der großmährischen Kirche befindet sich derzeit im Stadium der Untersuchungen. Im Hinblick auf die festgelegte Philosophie des archäologischen Parks lassen sich einerseits manche Methoden der Präsentation endgültig vorschlagen, andererseits andere nur vermuten. Angesichts des derzeitigen Stands der Untersuchungen lässt sich die Auffassung über die Präsentation jener Teile der Architektur der großmährischen Kirche abschließen, die sich unter dem Geländeniveau befinden. Es handelt sich um Teile des Fundamentmauerwerks des Narthex mit dem gemauerten Befund einer Grube. Im Zusammenhang mit der vorgeschlagenen Korrektur der Präsentation der Mauerwerksrepliken der Kirche im Rahmen des großmährischen Burgwalls Valy wird hier vorgeschlagen, den Narthex im gesamten Umfang seines Grundrisses darzustellen. Das Fundament würde (ähnlich wie auf der tschechischen Seite) bis zu einer Höhe von ca. 25 cm aus Bruchstein aufgemauert. Der Befund der Grube wird mit einer Steinplatte abgedeckt, der innere Teil des Narthex wird mit Sand oder gutem Schotter ausgestreut. Das aufgehende Mauerwerk der Kirche ist im Zusammenhang mit allen Umbauten zu betrachten, die die Kirche durchlaufen hat. Die wichtigste Rahmenmethode der Erneuerung ist die maximale Präsentation der frühmittelalterlichen Kulturschicht. Vor kurzem wurde eine Methode der Erneuerung umgesetzt, die mit analytischer Methode auch die jüngeren Etappen des Baus präsentiert. Es wird vorausgesetzt, dass es nötig sein wird, die Wirkung der weiteren Eingriffe zu begrenzen, wenn der Bau in großmährischer Gestalt präsentiert werden soll. Die Präsentation der mittelalterlichen analytischen Sondagen wird in Zeit und Struktur zurückzudrängen sein. Wenn im Rahmen der Präsentation das Dach der vierten – der barocken – Bauetappe akzeptiert wird, ist perspektivisch der Austausch der heutigen Dachdeckung gegen eine keramische, gezogene Deckung mit spitzem Abschluss zu planen, die für diese Region mindestens seit dem 19. Jahrhundert typisch ist, wenn nicht noch früher.\n\nEntwurf für die Präsentation des Friedhofs Angesichts der Tatsache, dass über die Lage des Friedhofs nicht genügend Informationen vorliegen, wäre die Präsentation des Friedhofs minimiert und bestünde in der Aufstellung des erhaltenen Grabsteins im SW-Teil des Geländes, gegenüber der Einmündung des anschließenden Lehrpfades im nördlichen Teil der Fundstelle. Das Gelände rund um die Kirche ist, wie auch die übrige Fläche des archäologischen Parks, mit Rasen bewachsen. Der Raum vor der Westfassade der Kirche ist offen und wird als Versammlungsfläche vor der Kirche aufgefasst, die zur Zeit gelegentlicher Gottesdienste genutzt wird.\n\nFunktionale Nutzung der Fundstelle Im Rahmen der funktionalen Nutzung der Fundstelle wird mit der Abhaltung von Gottesdiensten kammermäßigen Charakters im Inneren der Kirche gerechnet. Für die Zwecke der Gottesdienste ist für die priesterlichen Nebenräume ein Wirtschaftsanbau im Areal der Kačenárna vorgeschlagen. Außer der Sakristei wird hier auch mit einem Lager für das Gelegenheitsmobiliar für die Gottesdienste gerechnet. Im Fall von Gottesdiensten im Freien wird mit der Aufstellung eines tragbaren Altars auf dem erneuerten Narthex gerechnet. Die Gläubigen würden sich vor der Westfassade der Kirche versammeln. Diese Gottesdienste sind mit einer Wallfahrt verbunden.\n\nInfrastruktur Im Rahmen der Kirche kann mit einer unterirdischen Zuleitung der Elektroleitung gerechnet werden, die auch in das Areal der Kačenárna zu führen sein wird. Mit dem Anschluss an den elektrischen Strom ließe sich eine Beleuchtung der Kirche im Inneren wie von außen in Erwägung ziehen.",
+    "author": "Architektonisch-städtebauliche Studie",
+    "source": "mikulcice-valy.info — Präsentation am 28. 6. 2006"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

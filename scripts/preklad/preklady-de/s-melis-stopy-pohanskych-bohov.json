@@ -1,0 +1,69 @@
+{
+ "slug": "s-melis-stopy-pohanskych-bohov",
+ "data": {
+  "title": "Š. Meliš: Spuren der heidnischen Götter",
+  "slug": "melis-spuren-der-heidnischen-goetter",
+  "excerpt": "Mit Erlaubnis von Štefan Meliš bringen wir seinen Beitrag aus der Zeitschrift Historická revue: Flurnamen wie Pernajov, Bohov oder Hromovec im Tal von Papradno und im Tal von Mariková lesen sich für ihn als Spuren eines heidnischen Kultes – als Erinnerung an Perun, an Opferplätze und an den Gott Veles, der nach der Annahme des Christentums zum Gespenst wurde.",
+  "metaTitle": "Š. Meliš: Spuren der heidnischen Götter",
+  "metaDescription": "Flurnamen im Tal von Papradno und von Mariková als Spuren des heidnischen Kultes: Pernajov, Bohov und Hromovec erinnern an Perun, Veles und Opferplätze.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Štefan Meliš",
+    "icon": "book"
+   },
+   {
+    "label": "Region",
+    "value": "Tal von Papradno und Tal von Mariková (Bezirk Považská Bystrica)",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "9.–11. Jahrhundert (slawische Besiedlung)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Quelle",
+    "value": "Historická revue Nr. III, Jahrgang 8",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–11. Jahrhundert",
+    "title": "Verehrung Peruns in Pernajov",
+    "description": "Nach Š. Meliš verehrten unsere Vorfahren hier den Gott Perun, den sie vielleicht Pernaj, Perunaj nannten.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6438,
+    "alt": "Aquarell einer Burgruine auf einem Felsberg über einem weiten Tal"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Erlaubnis von Herrn Štefan Meliš bringen wir Ihnen seinen interessanten Artikel, der ursprünglich in der Historická revue Nr. III, Jahrgang 8, erschienen ist."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "In der Gemeinde Stupné, im Tal von Papradno, liegt der Hügel Žeravica. Von der Südseite ist er felsig und steil. Mitglieder des archäologischen Zirkels aus Považská Bystrica stellten auf ihm eine latènezeitliche Besiedlung aus der römischen Kaiserzeit fest und nach Scherben mit Wellenbandverzierung auch eine slawische. Am Ende des Tälchens unter dem Südhang der Žeravica, an der Grenze der Katastralgebiete der Dörfer Stupné und Hvozdnica, liegt eine Lage namens Pernajov. Ich meine, dass unsere Vorfahren hier im 9.–11. Jahrhundert den Gott Perun verehrten, den sie vielleicht Pernaj, Perunaj nannten. Möglicherweise wurde die Endung -naj im Sinne der Vorsilbe naj- verstanden, also als der höchste Gott.\n\nEtwa zwei Kilometer weiter südlich, an der Grenze der Dörfer Jasenica und Hvozdnica, liegt ebenfalls ein interessanter Hügel. Auf den Karten ist er zwar als Súdna bezeichnet, die Leute aus der Umgebung nennen ihn jedoch Bohov. Wahrscheinlich war es ein Ort der heidnischen Götter, also eine Götterstätte, eine Kultstätte, wo unsere Vorfahren neben Perun auch eine ganze Reihe anderer Götter verehrten.\n\nEin anderer, nicht weniger bemerkenswerter Name ist der des Hügels Hromovec in Hatné, im Tal von Mariková. Er liegt unmittelbar über der Landstraße und hat seinen Namen sicher nach Perun, der den Donner (slowakisch hrom) auf die Erde schickte. Es scheint, dass man Perun auch auf diesem Hügel verehrte und ihm hier vielleicht auch Tiere opferte. Auf dem Hromovec hat sich bis heute eine große Grube erhalten, die etwa 6–7 Meter lang, 4 Meter breit und fast 2 Meter tief ist. Sie konnte ein Opferplatz gewesen sein.\n\nIn Papradno blieb, wie es scheint, wiederum eine Erinnerung an den heidnischen Gott Veles. Unter dem Hügel Západliská liegt ein kleiner See mit den Maßen 6 × 20 Meter (unterhalb der Lage Letková), wo nach den Sagen die Feen tanzten. Einst soll in ihm trübes Wasser gestanden haben. Im See setzte sich die Bľabota fest. Es war ein scheußliches Gespenst, das die Gestalt des heidnischen Gottes Veles hatte – eines mächtigen, großen Kerls mit einem Kuhkopf. Nach dem Abendläuten („na pokoj“) kam die Bľabota aus dem kleinen See heraus, ging durch das Dorf, steckte den Kopf in die Fenster und erschreckte die Leute mit ihrem Gebrabbel wie auch mit menschlicher Sprache. Es sieht so aus, dass man bei uns nach der Annahme des Christentums den früher verehrten Gott Veles – den Beschützer der Herden – in ein scheußliches Gespenst verwandelte.",
+    "author": "Štefan Meliš",
+    "source": "Historická revue Nr. III, Jahrgang 8"
+   }
+  ]
+ }
+}

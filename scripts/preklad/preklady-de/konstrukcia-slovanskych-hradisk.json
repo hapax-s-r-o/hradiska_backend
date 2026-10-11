@@ -1,0 +1,477 @@
+{
+ "slug": "konstrukcia-slovanskych-hradisk",
+ "data": {
+  "title": "Die Konstruktion slawischer Burgwälle – Wälle, Mauern, Tore und Brücken",
+  "slug": "konstruktion-slawischer-burgwaelle",
+  "excerpt": "Die ältesten Befestigungen knüpfen an die Traditionen der bäuerlichen Siedlungen seit dem Neolithikum an; die Slawen waren die Erbauer der jüngsten, entwicklungsgeschichtlich aber vollkommensten Burgwälle. Der Beitrag zeigt, wie aus dem einfachen Erdwall mit Palisade die Rost- und die Kastenkonstruktion hervorgingen, wozu Berme, Graben und Pfahlverhau dienten und wie aus den einfachen Toren um 800 die mächtigen Doppeltore mit Wehrbastei der klassischen Phase wurden.",
+  "metaTitle": "Die Konstruktion slawischer Burgwälle",
+  "metaDescription": "Rost- und Kastenkonstruktion, Palisade, Graben, Pfahlverhau, Zangentor: wie die Slawen ihre Burgwälle bauten und welche Höhen die Mauern erreichten.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Konstruktionstypen slawischer Wehrmauern, Tore und Befestigungselemente",
+    "icon": "shield"
+   },
+   {
+    "label": "Mauertypen",
+    "value": "Rostkonstruktion (Holz-Erde-, verschränkte) und Kastenkonstruktion",
+    "icon": "building"
+   },
+   {
+    "label": "Höhe der Mauern",
+    "value": "Auch über 10 m vom Fuß bis zur Krone des Walles",
+    "icon": "mountain"
+   },
+   {
+    "label": "Breite der Tore",
+    "value": "Eintorige bis 3,5 m, zweitorige um 2 m (mindestens 1,6 m)",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "8. Jahrhundert",
+    "title": "Vervollkommnung der Burgwälle",
+    "type": "event",
+    "description": "Es kommt zu einer deutlichen Vervollkommnung der Burgwallkonstruktion in militärischer, siedlungsmäßiger und gesellschaftlicher Hinsicht."
+   },
+   {
+    "year": "um 800",
+    "title": "Einfache Tore",
+    "type": "event",
+    "description": "Die Tore sind noch verhältnismäßig einfach, seitlich oder frontal gelöst; einer turmartigen Verteidigung des Eingangs begegnen wir in dieser Zeit noch nicht."
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Klassische Phase des slawischen Burgwalls",
+    "type": "event",
+    "description": "Höhepunkt der Befestigungsentwicklung in großmährischer Zeit – die Machtfunktion des Burgwalls setzt sich durch und die turmartige Wehrbastei wird zum grundlegenden Fortifikationselement der Doppeltore."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3905,
+    "alt": "Zeichnung von acht Konstruktionstypen der Wehrmauer mit Beschriftungen: Holz-Erde-, Rost- und Steinwände"
+   },
+   {
+    "mediaId": 3906,
+    "caption": "1: Palisade (a – dicht gesetzte Pfosten, b – Flechtwerk, c – waagrechte Rundhölzer, von Pfosten gestützt, d – Nuttechnik), 2: Gräben (a – Spitzgraben, b – muldenförmiger Graben), 3: Wall mit Palisade, 4: Aufschüttung mit Steinmantel, 5: Kastenkonstruktion, 6: Kastenkonstruktion in einer Erdaufschüttung, 7: Wall mit mantelartigem Unterlagsrost, 8: (a – Rostkonstruktion verschränkter Art, b – Grundriss im Kasten- bzw. Rahmenskelett, c – beidseitig verschränkter Rost)",
+    "alt": "Schema der Typen von Palisaden, Gräben und Konstruktionen slawischer Wehrmauern"
+   },
+   {
+    "mediaId": 3909,
+    "caption": "Der Bau eines Burgwalls (aus dem Buch Lutovský M.: Encyklopedie slovanské archeologie v Čechách, na Moravě a ve Slezsku)",
+    "alt": "Der Bau eines Burgwalls (aus dem Buch Lutovský M.: Encyklopedie slovanské archeologie v Čechách, na Moravě a ve Slezsku)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältesten bekannten Befestigungen knüpfen an die Traditionen der bäuerlichen Siedlungen an, deren entwicklungsgeschichtlicher Anfang irgendwo im Neolithikum zu suchen ist, wobei seit der Bronzezeit ein deutlicher Trend zum Aufsuchen von Plätzen mit günstiger strategischer Lage und natürlichem Geländeschutz erkennbar ist. Keine Ausnahme bilden auch die "
+       },
+       {
+        "type": "text",
+        "text": "Slawen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", die Erbauer der zwar jüngsten, entwicklungsgeschichtlich aber in jeder Hinsicht "
+       },
+       {
+        "type": "text",
+        "text": "vollkommensten Burgwälle",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Es werden entweder Höhenburgwälle oder Niederungsburgen in Sumpflage errichtet, die zunächst von einem einfachen Wall mit Palisade umgeben sind. Die Entwicklung geht jedoch weiter, und im 8. Jahrhundert werden wir Zeugen einer Vervollkommnung der Burgwälle, sei es in militärischer, siedlungsmäßiger oder gesellschaftlicher Hinsicht, wobei dieser Prozess im Gebiet der heutigen Slowakei in großmährischer Zeit, allgemein im 10. Jahrhundert, seinen Höhepunkt erreicht. Der slawische Burgwall tritt damit in die klassische Phase seiner Entwicklung ein, allmählich rückt die Machtfunktion in den Vordergrund, er wird also zur Grundlage für die Ausformung der künftigen frühfeudalen Gesellschaftsverhältnisse bzw. Gebilde. Die einsetzende stürmische gesellschaftliche Entwicklung zeigt sich in allen Richtungen, die konstruktive Seite nicht ausgenommen. Sehen wir uns also ihre konkreten Formen an, vor allem aus der Sicht der strategischen militärischen Sicherung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fortschritt zeigt sich vor allem im Bau der Wehrmauern. Aus dem einfachen Erdwall kristallisieren sich zwei Grundtypen von Mauern heraus, und zwar der Rost- und der Kastentyp. Die Bezeichnung „Mauer“ ist völlig berechtigt, denn die Fortifikationskonstruktionen werden technisch durchdacht ausgearbeitet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Konstruktion slawischer Burgwälle",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Prinzip der "
+       },
+       {
+        "type": "text",
+        "text": "Kastenkonstruktion",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " besteht im Aufbau einer äußeren und einer inneren Mauerwand aus Holzbohlen oder aus Flechtwerk in einem Pfostengerüst. Die Wandkonstruktion wird durch Stützen (meist von der Innenseite) oder durch einen Erdwall (meist von der Außenseite) stabilisiert. Die äußere und die innere Wand sind zudem für größere Festigkeit und Widerstandskraft quer durch Ankerbalken verbunden, gegebenenfalls durch ganze Wände, wiederum aus Flechtwerk oder vollständig aus Holz, naturgemäß von geringerer Mächtigkeit als die Außen- und die Innenwand der Mauer. So entstehen gewisse Kammern, nach denen dieser Mauertyp seinen Namen trägt. Der ganze Raum der Kammern ist bis zum oberen Rand der Innenwand mit festgestampftem Lehm gefüllt. Es entsteht also etwas wie ein Wehrgang, geschützt durch die äußere Wand, die höher ist als die innere und einen palisadenartigen Schutz bildet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter der "
+       },
+       {
+        "type": "text",
+        "text": "Rostkonstruktion",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " verstehen wir den Aufbau des Mauerkerns durch ein System einzelner Horizonte aus dicht nebeneinander verlegten Balken. Die Balken werden quer zum Verlauf des Walles gelegt – die sogenannte Holz-Erde-Rostkonstruktion. Eine weitere Möglichkeit ist das Abwechseln von Horizonten mit quer und längs verlegten Balken – die sogenannte verschränkte Rostkonstruktion. Im ersten Fall liegen zwischen den einzelnen, gleichgerichtet verlegten Holzhorizonten Lehmschichten, im zweiten Fall handelt es sich meist um dicht aufeinander gelegte, in der Richtung abwechselnde Lagen von Rundholz. Von der Innenseite ist die Konstruktion in der Regel durch eine Holzwand verstärkt, die von Stützen abgestützt wird, wie im Fall der Kastenlösung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "1: Palisade (a – dicht gesetzte Pfosten, b – Flechtwerk, c – waagrechte Rundhölzer, von Pfosten gestützt, d – Nuttechnik), 2: Gräben (a – Spitzgraben, b – muldenförmiger Graben), 3: Wall mit Palisade, 4: Aufschüttung mit Steinmantel, 5: Kastenkonstruktion, 6: Kastenkonstruktion in einer Erdaufschüttung, 7: Wall mit mantelartigem Unterlagsrost, 8: (a – Rostkonstruktion verschränkter Art, b – Grundriss im Kasten- bzw. Rahmenskelett, c – beidseitig verschränkter Rost)",
+    "alt": "Schema der Typen von Palisaden, Gräben und Konstruktionen slawischer Wehrmauern",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der "
+       },
+       {
+        "type": "text",
+        "text": "verschränkten Konstruktion",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ist die äußere Wand, die Mauerfront, als einfache abgeschrägte Wand aus Holz-Erde-Material gestaltet, ähnlich wie der Mauerkern. Handelt es sich um den ersten der Rostkonstruktionstypen, also um das Abwechseln von Erd- und Holzschichten, so bildet die Front grundsätzlich eine Steinwand, wobei die Balken der einzelnen Roste direkt in die Steinwand eingebunden und verankert sind. Im polnischen Raum wurde die verschränkte Konstruktion zur sogenannten Haken-Rostkonstruktion weiterentwickelt: Für eine der Lagen verwendete man Stämme mit hakenförmig abstehenden Ästen, mit denen von der Außenseite des Walles die Balken der folgenden Konstruktionsebene untergriffen wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Überhaupt waren die gewählten Konstruktionsprinzipien sowohl eine Frage des ausreichenden Materials (hochwertiges Holz, Stein) als auch der regionalen Tradition. Während z. B. im polnischen Raum vor allem die Haken-Rostkonstruktion verwendet wurde, herrschte im Gebiet der heutigen Slowakei der Holz-Erde-Rosttyp vor. Selbstverständlich kamen auch Kombinationen verschiedener Prinzipien vor. Zum Beispiel die Kombination einer Holz-Erde-Rostkonstruktion mit einem Kastenoberteil der Mauer oder eine Kastenkrone in Verbindung mit einem verschränkten Rostfundament."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Konstruktion slawischer Burgwälle",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Literatur begegnen wir manchmal auch Überlegungen zu einer besonderen Wallform, dem sogenannten verglasten Wall. Angeblich soll es sich um eine Holz-Erde- bzw. Holz-Stein-Konstruktion nach Art eines Rostes handeln, die zusätzlich mit einer großen Menge Holz verkleidet ist. Der Wall selbst entsteht dann durch das Anzünden der Holzverkleidung, wobei nach dem Durchbrennen der Holzteile außen wie im Inneren des Walles infolge der hohen Temperatur ein teilweises Anschmelzen und ein anschließendes Zusammensintern seines lehmig-steinigen Materials eintritt. Es gab Argumente dafür und dagegen, letztlich setzte sich jedoch die Ansicht durch, die diese Theorie ablehnt. Durchgesetzt hat sich der Standpunkt, dass es sich, wenn wir Überreste eines solchen „Walles“ finden, offenbar um Folgen von Kriegsbränden oder um Überreste von Verhüttungsplätzen handelt. Eines der Hauptargumente gegen die Existenz verglaster Wälle als einer Form der Mauerausführung, das auch mir stichhaltig erscheint, lautet, dass man sich die enorme Mühe nur schwer vorstellen kann, die für den Bau des Walles selbst und für seine Verkleidung mit Holz aufgewendet werden musste, nur damit das alles am Ende „verbrannt“ wird. Diese Vorgehensweise setzt nämlich außer einem unangemessenen Aufwand auch einen unverhältnismäßigen Materialverbrauch, vor allem an Holz, im Vergleich zum Ergebnis voraus. Diesen Mauertyp können wir also mit ruhigem Gewissen verwerfen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zwischen der Mauerfront und dem Graben befindet sich die sogenannte Berme. Wie die Mauerfront kann auch die Berme aus Stein oder aus Lehm bestehen. Mit der Mauer selbst bildet sie ein konstruktives Ganzes und verschmilzt in manchen Fällen auch mit deren Front."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "aW3nvvoIrtc",
+    "url": "https://www.youtube.com/embed/aW3nvvoIrtc",
+    "caption": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Vorhandensein eines "
+       },
+       {
+        "type": "text",
+        "text": "Wehrgrabens",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " als Teil des Mauersystems wird wohl niemanden überraschen, da er ein klassisches Element der Befestigungen ist und daher, denke ich, keines weiteren Kommentars bedarf."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Konstruktion slawischer Burgwälle",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein wichtiges Element in der Konstruktion der slawischen Mauer, vor allem in verteidigungstechnischer Hinsicht, sind dagegen die sogenannten Pfahlverhaue. Ein "
+       },
+       {
+        "type": "text",
+        "text": "Pfahlverhau",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ist eine Reihe zugespitzter, in den Boden eingelassener Pfähle, die schräg gegen den Feind gerichtet sind. Konstruktiv sind die Verhaue entweder als Teil der Berme gelöst, liegen also hinter dem Graben, oder sie sind in das Vorfeld vorgeschoben. Die Verhaue können einreihig oder mehrreihig sein."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die slawischen Mauern erreichten eine Höhe von auch über 10 m, gemessen vom Fuß bis zur Krone des Walles. Die Höhe der Palisade selbst bzw. die Länge des Verhaus lag bei bis zu 2 m."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die wichtigste Stelle in der Mauer ist unbestreitbar das "
+       },
+       {
+        "type": "text",
+        "text": "Tor",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Da es sich um die anfälligste Stelle im Verteidigungssystem des Burgwalls handelt, waren besondere konstruktive Lösungen zu seiner Sicherung nötig. Um das Jahr 800 sind die Tore noch verhältnismäßig einfach, seitlich oder frontal gelöst. Das Wesen der seitlichen Lösung besteht darin, einen der Wallarme hinter den anderen zu ziehen oder vor der Hauptmauer im Bereich des Zugangs zum Tor einen weiteren Wall anzulegen. Die strategische Absicht dieser Lösung war, dass ein etwaiger Angreifer durch den so entstandenen engen Durchgang zum Tor vorrücken musste, während die Verteidiger die Möglichkeit hatten, ungestört seine Flanke anzugreifen. Der zweite Grundtyp ist das einfache Fronttor, versehen mit leicht vorspringenden Mauerarmen oder umgekehrt mit nach innen gezogenen Wallarmen. Es ging wiederum um dasselbe, nämlich um die Möglichkeit, die Angreifer im Torbereich möglichst wirksam zu bedrängen. Einer turmartigen Verteidigung des Eingangs begegnen wir in dieser Zeit noch nicht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der klassischen Phase der slawischen Burgwälle wird dagegen die "
+       },
+       {
+        "type": "text",
+        "text": "turmartige Wehrbastei",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zum grundlegenden Fortifikationselement. Die Tore sind als Doppeltore gestaltet, wobei der Wehrturm als Teil der Mauer zwischen den beiden Eingängen liegt. Mächtige zweitorige Anlagen gehörten vor allem zu den zentralen, mehrgliedrigen Burgwällen, die sich durch eine fortgeschrittene Organisationsstruktur auszeichneten. Die Doppeltore sind oft zangenförmig gelöst, die Mauern biegen also in das Innere des Burgwalls ein, wobei sich der Raum hinter dem Turm allmählich verengt. Die verteidigungstechnische Bedeutung dieser Lösung ist, denke ich, offensichtlich – auch im Fall eines Durchbruchs des Tores hat der Angreifer noch immer große Aussicht, einem Massaker zum Opfer zu fallen. Selbstverständlich blieben aus der älteren Zeit auch die klassischen eintorigen Anlagen in Gebrauch, bei denen der Turm direkt über dem Eingang stand. Seine Verteidigungswirkung wurde oft dadurch vervielfacht, dass er vor die Mauer selbst vorgeschoben wurde, oder durch die Kombination eines nicht vorgeschobenen Mittelturms mit dem Zurücksetzen einer oder beider Mauern im Torbereich. Vorgeschobene Türme finden wir grundsätzlich sowohl bei Front- als auch bei Seitentoren, wobei die Bastei auf jenen Arm vorgeschoben ist, der den Zugangskorridor sichert. In der letzten Zeit der klassischen Phase begegnen wir einer weiteren Vervielfachung der Türme; häufig ist ein Paar mächtiger vorgeschobener Türme zu beiden Seiten des Eingangstores. Aus strategischer Verteidigungssicht ist die Entsprechung der Zangenlösung bei den Doppeltoren die sogenannte Tunnellösung bei den eintorigen Anlagen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Bau eines Burgwalls (aus dem Buch Lutovský M.: Encyklopedie slovanské archeologie v Čechách, na Moravě a ve Slezsku)",
+    "alt": "Der Bau eines Burgwalls (aus dem Buch Lutovský M.: Encyklopedie slovanské archeologie v Čechách, na Moravě a ve Slezsku)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die lichte Breite der Tore wurde aus Verteidigungsgründen verständlicherweise so gering wie möglich gewählt. Bei den Doppeltoren lag die Breite jedes der beiden Eingänge bei etwa 2 m, selten mehr. Das gewählte Maß war immer ein Kompromiss zwischen militärischem und gesellschaftlich-wirtschaftlichem Interesse, denn es ging vor allem um die Befahrbarkeit des Tores mit Wagen. Die eintorigen Anlagen waren oft auch breiter, höchstens jedoch 3,5 m. Die Mindestbreite eines Tores wurde nach archäologischen Ausgrabungen mit 1,6 m bestimmt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Zusammenhang mit den Türmen ist anzumerken, dass zur Sicherung des gesamten Burgwalls häufig auch freistehende Wachtürme errichtet wurden, die in der näheren und weiteren Umgebung verteilt waren und wichtige Wege, Furten und Ähnliches sicherten. Meist handelte es sich um überdachte Bauten, etwa nach Art der heutigen Hochsitze, selbstverständlich von größerer Höhe und größeren Ausmaßen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Existenz eines Wehrgrabens setzt auch die Notwendigkeit voraus, im Bereich der Tore "
+       },
+       {
+        "type": "text",
+        "text": "Brücken",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu bauen. Selbstverständlich wurden diese Bauten fest errichtet; Zugbrücken sind erst eine Angelegenheit der fortgeschrittenen mittelalterlichen Steinburgen. Im Fall einer Bedrohung löste man dieses Problem einfach durch das Abreißen der Brücke oder eines Teiles davon. Außer der Überwindung der Wehrgräben hatten die Brücken ihre Bedeutung auch bei den Niederungsburgen, besonders bei jenen in Seen oder an Meeresküsten, wie es z. B. bei Behren-Lübchin oder Wolin der Fall war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschließend ist noch die Existenz von Wegen auf den Flächen der Burgwälle und oft auch in deren nächster Umgebung zu erwähnen. Es handelte sich um Wege, die mit Steinen oder häufiger mit Holz gepflastert waren – mit dicht gereihten Bohlen, die auf in den Boden eingelassenen Längsstämmen auflagen. Es gibt Grund zur Annahme, dass auf ähnliche Weise im „Innenbereich“ der Burgwälle auch ganze Flächen mit Holz belegt sein konnten, also gewisse Vorläufer der heutigen Marktplätze."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

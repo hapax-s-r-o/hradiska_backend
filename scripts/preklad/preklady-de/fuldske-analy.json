@@ -1,0 +1,192 @@
+{
+ "slug": "fuldske-analy",
+ "data": {
+  "title": "Die Annales Fuldenses – die wichtigste Quelle zur Geschichte Großmährens",
+  "slug": "annales-fuldenses-quelle-zu-grossmaehren",
+  "excerpt": "Die Annales Fuldenses sind die ausführlichste Quelle zur Geschichte Großmährens in den Jahren 846–902. Zusammengestellt haben sie wahrscheinlich die Mönche Einhard, Ruodolf und Meginhard sowie anonyme Verfasser, von denen die Mainzer, die Regensburger und die Altaicher Fortsetzung stammen. Dem Inhalt ist kritisch zu begegnen – die Verfasser standen dem ostfränkischen Königshof nahe –, dennoch bieten die Annalen außerordentlich wertvolle Nachrichten über Rastislav und Svatopluk.",
+  "metaTitle": "Die Annales Fuldenses – Schlüsselquelle zu Großmähren",
+  "metaDescription": "Die Annales Fuldenses, die ausführlichste Quelle zur Geschichte Großmährens in den Jahren 846–902; geschrieben von den Mönchen Einhard, Ruodolf und Meginhard.",
+  "keyFacts": [
+   {
+    "label": "Verfasser/Zusammensteller",
+    "value": "Einhard, Ruodolf, Meginhard und anonyme Fortsetzer (Kloster Fulda)",
+    "icon": "book"
+   },
+   {
+    "label": "Zeitraum",
+    "value": "Die Jahre 845–902",
+    "icon": "calendar"
+   },
+   {
+    "label": "Bedeutung",
+    "value": "Die ausführlichste zeitgenössische Quelle zur Geschichte Großmährens",
+    "icon": "scroll"
+   },
+   {
+    "label": "Übersetzung",
+    "value": "Ján Lukačka, in: Pramene k dejinám Slovenska a Slovákov II (1999)",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "846",
+    "title": "Rastislav wird Herrscher der Mährer",
+    "description": "Ludwig der Deutsche setzte Rastislav, den Neffen Mojmírs, als Herrscher der mährischen Slawen ein.",
+    "type": "event"
+   },
+   {
+    "year": "864",
+    "title": "Die Belagerung von Dowina",
+    "description": "Ludwig der Deutsche belagerte Rastislav in der Burg Dowina; Rastislav verpflichtete sich zur Treue, hielt sie jedoch nicht ein.",
+    "type": "event"
+   },
+   {
+    "year": "870",
+    "title": "Die Gefangennahme Rastislavs",
+    "description": "Svatopluk nahm Rastislav gefangen und lieferte ihn Karlmann aus; Rastislav wurde schließlich geblendet.",
+    "type": "event"
+   },
+   {
+    "year": "871",
+    "title": "Der Aufstand Slavomírs und die Rückkehr Svatopluks",
+    "description": "Die Mährer wählten den Priester Slavomír zu ihrem Herrscher; der später freigelassene Svatopluk kehrte zurück und schlug das bayerische Heer bei Rastislavs Burgwall.",
+    "type": "event"
+   },
+   {
+    "year": "894",
+    "title": "Der Tod Svatopluks",
+    "description": "Svatopluk, der Herzog der Mährer, starb, nachdem er die Seinen ermahnt hatte, mit den Nachbarn in Feindschaft zu bleiben.",
+    "type": "event"
+   },
+   {
+    "year": "901",
+    "title": "Der Friede mit den Mährern",
+    "description": "Auf dem Reichstag in Regensburg wurde mit den Gesandten der Mährer ein Friede vereinbart und durch Eid bestätigt; verpflichtet wurde auch Fürst Mojmír II.",
+    "type": "event"
+   },
+   {
+    "year": "902",
+    "title": "Der letzte verzeichnete Kampf",
+    "description": "Die Altungarn fielen in das Gebiet der Mährer ein, wurden jedoch besiegt und ergriffen die Flucht – das letzte in den Annalen verzeichnete Ereignis.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4143,
+    "caption": "Die Annales Fuldenses – eine Kopie aus dem 11. Jahrhundert",
+    "alt": "Die Annales Fuldenses – eine Kopie aus dem 11. Jahrhundert"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Die Annales Fuldenses – eine Kopie aus dem 11. Jahrhundert",
+    "alt": "Die Annales Fuldenses – eine Kopie aus dem 11. Jahrhundert",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fuldaer Annalen (Annales Fuldenses) sind die ausführlichste Quelle zur Geschichte Großmährens in den Jahren 846–902. Zusammengestellt wurden sie wahrscheinlich von den Mönchen Einhard, Ruodolf und Meginhard (der sie bis zum Jahr 882 bzw. 887 schrieb) sowie von anonymen Verfassern, deren Arbeit die Mainzer, die Regensburger und die Altaicher Fortsetzung hervorbrachte. Dem Inhalt der Annales Fuldenses muss man kritisch begegnen, denn die Verfasser standen dem ostfränkischen Königshof nahe und gingen vor allem von dessen Interessen aus. Dennoch enthalten die Annales Fuldenses außerordentlich wertvolle Nachrichten über die Geschichte des ersten Staatsgebildes im Gebiet der heutigen Slowakei – Großmährens."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Jahr 845. Ludwig empfing 14 böhmische Herzöge, die nach dem christlichen Glauben verlangten, samt ihren Gefolgschaften und befahl, sie in der Woche nach Erscheinung des Herrn (nach dem 6. 1.) zu taufen. Im Herbst berief er einen allgemeinen Reichstag in Paderborn in Sachsen ein, wo er die Gesandtschaften seiner Brüder und weiter der Normannen, der Slawen und der Bulgaren empfing, anhörte und entließ.\nJahr 846.\nJahr 855\nJahr 857. Bischof Otakar, Pfalzgraf Hruodolt und Ernest, der Sohn des Herzogs Ernest, wurden samt ihren Heeren nach Böhmen gesandt, und es gelang ihnen, die Burg des Herzogs Vistrach zu besetzen, die viele Jahre lang widerstanden hatte, und seinen Sohn Slavitěch, der damals unumschränkt darin herrschte, daraus zu vertreiben. Dieser floh und nahm bei Rastislav Zuflucht. Da kam sein Bruder, den Slavitěch früher vertrieben hatte und der bei dem Sorben Čestibor gelebt hatte, ergeben zum König, und dieser setzte ihn als neuen Herzog ein.\nJahr 858.\nIm Juli, als die bereits gesammelten und geordneten Heere schon aufgebrochen waren, fielen: plötzlich mitten am Tage große Sorgen auf den König. Aus dem Westen kamen nämlich Boten, der Abt Adalhart und der Graf Oto, und ersuchten ihn, persönlich dem Volke zu Hilfe zu kommen, das in Gefahr und in Bedrängnis geraten war.\nJahr 861. Auch der älteste der Königssöhne, Karlmann, strebte nach einem Umsturz. Er vertrieb die Herzöge, denen der Schutz der pannonischen und der karantanischen Grenze übertragen war, und verteilte die Mark unter seine Anhänger. Und das bewegte das Gemüt des Königs, der den Aufstand des Sohnes ahnte.\nJahr 862. Karlmann kam, nachdem er Zusicherungen des Friedens und der eigenen Sicherheit erhalten hatte, nach Regensburg. Hier legte er Rechenschaft ab, überführte seine Gegner und versöhnte sich mit dem Vater. Dabei bestätigte er durch einen Eid, dass er künftig nichts Hinterlistiges gegen dessen rechtmäßige Gewalt vorbereiten werde. Karlmann kehrte dann in Ruhe in sein Herrschaftsgebiet zurück, und der König begab sich nach Mainz, wo er seinen Neffen Lothar empfing, der zu Verhandlungen mit ihm gekommen war. \nJahr 863\nJahr 864. König Ludwig zog im August mit einem großen Heer über die Donau und belagerte Rastislav in einer Burg, die in der Sprache jenes Volkes Dowina (d. h. Mädchen) heißt. Dieser wagte es jedoch nicht, mit den königlichen Heeren zu kämpfen, und als er sich überzeugt hatte, dass er nirgends entkommen konnte, stellte er, von den Umständen gezwungen, so viele und solche Geiseln, wie der König es wünschte. Darüber hinaus verbürgte er sich noch zusammen mit allen seinen Adligen durch einen Eid, dem König stets die Treue zu halten, was er jedoch überhaupt nicht einhielt.\nJahr 865. Einen der fränkischen Adligen, den Grafen Verinhar, beschuldigte man vor König Ludwig, er habe Rastislav gegen den König aufgereizt. Deshalb wurde er seiner öffentlichen Ämter enthoben.\nJahr 866. Ludwigs jüngerer Sohn Ludwig trug es schwer, dass der König ihm einige Güter genommen und sie seinem älteren Bruder Karlmann geschenkt hatte. Er begann daher, dem Vater zu schaden. Er sandte nämlich seine Boten durch ganz Thüringen und Sachsen, bemühte sich, jeden auf seine Seite zu ziehen, und verleitete sie zum Aufstand gegen den König. Für seine Absichten gewann er auch die Grafen Verinhar, Uto und Berengar, die der König früher abgesetzt hatte, und versprach, ihnen ihre einstigen Ämter zurückzugeben. Außerdem sandte er Henrich, den Anführer seiner Gefolgschaft, zu Rastislav mit der nachdrücklichen Bitte, er möge dieser Verschwörung seine Unterstützung nicht verweigern. Als der König dies erfuhr, ließ er Karlmann zum Schutz Bayerns zurück und begab sich eilends nach Francia. Die von allen Seiten bei Frankfurt versammelten Anhänger des Königs empfingen ihn mit Ehren, und Ludwig unterdrückte die angestiftete Verschwörung leicht.\nJahr 869\nIm August sammelte König Ludwig ein Heer und teilte es in drei Abteilungen. Mit der Unterdrückung der sorbischen Verwegenheit beauftragte er seinen Namensvetter und stellte ihm die Thüringer und die Sachsen zur Verfügung. \nJahr 870.\nUnd dann zog König Ludwig zu Beginn des Novembers nach Bayern und befahl dort nach einer Beratung mit seinen Leuten, dass man vor ihn \nJahr 871. Rastislavs Neffen Svatopluk beschuldigte man vor Karlmann der Untreue und setzte ihn in Haft. Die mährischen Slawen, die meinten, ihr Herzog sei umgekommen, setzten sich einen Priester Slavomír, der ein Verwandter des gefangenen Herzogs war, als Herrscher ein und drohten ihm mit dem Tode, falls er nicht über sie herrschen wolle. Dieser stimmte ihnen also gezwungen zu, begann gegen Karlmanns Heerführer Engilschalk und Wilhelm zu kämpfen und versuchte, sie aus den besetzten Orten zu vertreiben. Diese jedoch kämpften mit großer Anstrengung gegen die Aufständischen, und als sie einige von ihnen erschlagen hatten, zwangen sie Slavomír zum Rückzug.\nInzwischen ließ Karlmann Svatopluk frei, weil niemand ihm die Verbrechen nachweisen konnte, deren er beschuldigt worden war. Mit königlichen Geschenken geehrt, kehrte er an der Spitze von Karlmanns Heer in sein Königreich zurück, als wolle er gegen Slavomír kämpfen. So hatte er es nämlich Karlmann arglistig versprochen, falls dieser ihm die Rückkehr in die Heimat ermögliche. Oft aber trifft die Unvorsichtigen und übermäßig Selbstsicheren Schmach, was auch diesem Heer geschah. Während die anderen das Lager errichteten, betrat Svatopluk Rastislavs alten Burgwall und brach sogleich die Treue und vergaß seinen Eid, was letztlich slawische Gewohnheit ist. Seine Kräfte und Fähigkeiten wandte er nicht auf die Niederlage Slavomírs, sondern auf die Rache für die Beleidigung, die ihm Karlmann zugefügt hatte. Mit einem großen Heer überfiel er die nichts ahnenden und wenig wachsamen Bayern in ihrem Lager und nahm viele von ihnen lebend gefangen. Fast alle Übrigen erschlug er, außer jenen, die sich vorher klug aus dem Lager entfernt hatten. Und so verwandelte sich alle Freude der Noriker über die vielen vorangegangenen Siege in Trauer und Klage. Als Karlmann davon erfuhr, erschrak er sehr über den Untergang seines Heeres. Von den Umständen gezwungen, befahl er, alle Geiseln zu versammeln, die sich in seinem Königreich befanden, und gab sie Svatopluk zurück. Er selbst aber erhielt nur einen einzigen Mann, Ratbod, und auch dieser war halbtot.\nDer König verhandelte im Oktober mit seinen Leuten in Frankfurt. Von dort begab er sich nach Bayern und sandte gegen die Böhmen, die einen Einfall in sein Reich versuchten, die Beschützer dieser Landschaften, den Bischof Arn und den Grafen Rudolf, und mit ihnen noch weitere. Die Feinde befestigten jedoch einen Ort mit einem mächtigen Wall und ließen dabei nur einen schmalen Pfad beim Eingang selbst als Falle für jene, die die Grenzen hüteten. Wäre dort einer von ihnen zufällig eingetreten, so wäre er getötet worden, denn von dem schmalen Pfad konnte man nirgends entkommen. In jenem \nJahr 872\nJahr 873. Auf den Reichstag in der Nähe von Worms kam auch ein Alemanne Berechtram, den im vorangegangenen Jahr die mährischen Slawen gefangen genommen hatten. Herzog Svatopluk ließ ihn mit dem Auftrag frei, dem König seine Botschaft vorzutragen. Er musste sich auch durch einen Eid verpflichten, dies auszuführen.\nJahr 874. König Ludwig traf nach seiner Rückkehr (aus Verona) in Forchheim zu Verhandlungen mit seinen Söhnen Karlmann und Ludwig zusammen und empfing hier auch die Gesandten Svatopluks, die um Frieden baten und Treue versprachen. Die Boten führte der Priester Johannes aus Venedig, der erklärte und durch einen Eid bestätigte (damit der König ihm ohne jeden Zweifel glauben könne), dass Svatopluk dem König bis zum Ende seiner Tage treu bleiben und jährlich den vom König festgesetzten Tribut zahlen werde. Dafür bitte er jedoch, in Ruhe herrschen und in Frieden leben zu dürfen. Der König hörte auch die Botschaft der Böhmen an und entließ sie. Dann zog er nach Bayern.\nJahr 884. Der Kaiser (Karl III. der Dicke) verhandelte an den Grenzen der Noriker und der Slawen mit Svatopluk.",
+    "author": "Die Fuldaer Mönche (Einhard, Ruodolf, Meginhard u. a.)",
+    "source": "Annales Fuldenses (Hauptteil), slowakische Übersetzung J. Lukačka"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Regensburger Fortsetzung der Annales Fuldenses"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Jahr 882. Der König (Karl III. der Dicke) hielt sich in Germanien auf und berief vor Weihnachten einen Reichstag in Worms ein. Nachdem er hier verschiedene Gesandtschaften der Mährer und anderer Völker empfangen, sie angehört und die öffentlichen Angelegenheiten geordnet hatte, kehrte er nach Alemannien zurück.\nJahr 884. Als der König nach Alemannien zurückkehrte, fand in Colmar ein allgemeiner Reichstag statt Dort wurde den Bayern befohlen, einen bewaffneten Zug nach Italien gegen Wido zu veranstalten.\nEine große Heimsuchung traf danach Pannonien\n„Jedes Königreich – spricht Jesus – das in sich zwiespältig ist, \nwird unfest, und nichts Uneiniges hat Dauer. \nDarum verfolgen dich, wunderschönes Land, Nachstellungen und Leiden, \ndarum sucht dich, einst glückliches Pannonien, die Trübsal heim.“\nAlso \nDiese schändlichen Taten, verschuldet durch das unbedachte Handeln der Jünglinge \nKurz darauf sammelte der Herzog sehr zahlreiche Kriegsscharen aus allen slawischen Landschaften und brach mit ihnen in Pannonien ein. Wütend und blutig mordete er wie ein Wolf und verheerte mit Feuer und Schwert dessen überwiegenden Teil. Alles stürzte er um und vernichtete es, darum lässt sich diese Heimsuchung mit vollem Recht mit einem Vers beschreiben:\n„Dies ist des Vaterlandes Klage und zugleich sein trauriges Begräbnis.“\nAls das Leiden wegen der genannten jugendlichen Unbedachtsamkeit zu Ende war, kehrte der Herzog nach Ablauf eines Jahres zusammen mit seinem Heer ohne Verluste nach Hause zurück.\nIm folgenden Jahr jedoch, in dem wir diese Ereignisse niederschreiben, sammelte der Herzog erneut eine Menge Heervolk und brach feindlich in Pannonien ein, um alles, was hier noch unberührt geblieben war, nun wie ein Wolf mit dem Maul zu verschlingen.\nDer Kaiser (Karl III. der Dicke) zog nach Osten durch Bayern und hatte in der Nähe des Flusses Tulln eine Verhandlung auf dem Berg, der Komianus genannt wird. \nJahr 885.\nJahr 888. König Arnulf empfing in der Stadt Regensburg die Adligen der Bayern, der Ostfranken, der Sachsen, der Thüringer und der Alemannen sowie einen großen Teil der Slawen und feierte hier würdig Weihnachten und Ostern.\nJahr 890\nJahr 891\nJahr 892\nVon dort sandte er im September auch seine Boten mit Geschenken zu den Bulgaren und zu ihrem König Vladimir, um den vorangegangenen Frieden zu erneuern. Er verlangte auch, den Mährern nicht zu erlauben, von ihnen Salz zu kaufen. Die Boten konnten sich jedoch wegen der Nachstellungen des Herzogs Svatopluk nicht auf dem Landweg auf die Reise begeben, sondern fuhren von Braslavs Herrschaftsgebiet mit dem Schiff auf dem Fluss Oder bis zur Kulpa und dann die Save hinab nach Bulgarien. Dort empfing sie der König würdig, und im Mai kehrten sie auf demselben Weg zurück, auf dem sie gekommen waren.\nJahr 893. Vor der vierzigtägigen Fastenzeit besuchte der König (Arnulf) im ganzen Gebiet der Westfranken Klöster und Bistümer, um dort zu beten. Der Mann von jugendlichem Mut Engilschalk, der nach der Entführung der Tochter der königlichen Konkubine zeitweilig als Verbannter zu den Mährern geflohen war, erlangte kurz darauf Begnadigung und wurde Markgraf der Ostmark. Hier ging er in den ihm übertragenen Angelegenheiten hart gegen die bayerischen Adligen vor. Auf Beschluss dieser Adligen wurde er, als er nichts ahnend in Regensburg den königlichen Palast betrat, geblendet, ohne dass man ihn vor den König geführt hätte. Auch Wilhelm, den Sohn seines Onkels, beschuldigte man des Hochverrats und enthauptete ihn, weil er seine Boten zum Herzog Svatopluk gesandt hatte. Auch sein Bruder, der sich als Verbannter bei den Mährern verborgen hielt, wurde zusammen mit vielen anderen ein Opfer der hinterhältigen Arglist des genannten Herzogs.\nDer König brach also zum Feldzug auf und fiel erneut an der Spitze des Heeres in das Königreich des Herzogs Svatopluk ein. Nachdem er den größten Teil seines Gebietes geplündert hatte, kehrte er wegen der Nachstellungen, die ihm {die Mährer) bereitet hatten, mit großen Schwierigkeiten nach Bayern zurück",
+    "author": "Die Fuldaer Mönche (Einhard, Ruodolf, Meginhard u. a.)",
+    "source": "Regensburger Fortsetzung der Annales Fuldenses, slowakische Übersetzung J. Lukačka"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Altaicher Fortsetzung der Annales Fuldenses"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Jahr 897. \nJahr 898\nJahr 899\nKurz darauf \nInzwischen jedoch festigte Isanrik immer verwegener seine Macht gegen die Interessen des Königs. Der König trug es mit Missfallen und befahl, weil er schon krank und schwach war, die Stadt Mautern, in der sich Isanrik aufhielt, mit einer Flotte anzugreifen, was auch geschah. Zunächst setzte er sich zwar zur Wehr, aber als er die Tapferkeit und die Übermacht des königlichen Heeres sah, das ihn belagerte und angriff, musste er sich zusammen mit seiner Gattin und seiner Gefolgschaft dem Kaiser (und König) ergeben.\nDer König übergab ihn dann in die Hände von Wachen, damit sie ihn auf dem Weg nach Regensburg bewachten. Er fürchtete jedoch die Strafe, ergriff die Flucht und nahm bis zu den Mährern Zuflucht. Wie früher, so riss er auch jetzt mit ihrer Unterstützung und Hilfe einen Teil des Königreichs in seine Gewalt.\nAls der Passauer Bischof Engilmar starb, nahm seinen Stuhl mit königlicher Zustimmung – gegen die Satzungen der Bischofsväter – ein Alemanne Wiching ein, den der Papst früher zum mährischen Bischof bestellt hatte. Kurz darauf wurde er jedoch gegen den Willen des Königs aufgrund eines kanonischen Urteils des Erzbischofs Theotmar und der übrigen ihm unterstellten Bischöfe vom Bischofsstuhl abgesetzt. An seine Stelle wurde gleichzeitig Richar zum Bischof bestellt.\nJahr 900. Die Bayern fielen durch Böhmen, das sie sich als Bündnispartner hinzugesellt hatten, in das Königreich der Mährer ein und verheerten hier drei Wochen lang das Land mit Feuer. Schließlich kehrten sie ohne jeglichen Schaden nach Hause zurück.\nInzwischen aber verheerten die Awaren, die Ungarn genannt werden, Italien und erschlugen dabei mehrere Bischöfe. In einer einzigen eintägigen Schlacht erschlugen sie 20.000 Italer, die sich ihnen zum Widerstand entgegenstellten. Sie selbst kehrten dann auf demselben Weg zurück, auf dem sie gekommen waren, wobei sie noch den größeren Teil Pannoniens verheerten.\nDann sandten sie, arglistig um Frieden bittend, ihre Boten zu den Bayern, um jene Landschaft auszuforschen. Das brachte leider das erste Übel und eine Heimsuchung, wie man sie in Bayern bis dahin niemals erfahren hatte. Unversehens nämlich \nInzwischen jedoch \nJahr 901.\nInzwischen jedoch fielen die Ungarn in den südlichen Teil ihres Königreichs ein und plünderten Karantanien.\nDie Ungarn fielen in Karantanien ein und wurden in einer Schlacht, die an einem Samstag stattfand, besiegt.\nIm selben Jahr.\nJahr 902. Die Ungarn fielen in das Gebiet der Mährer ein. Im Kampf wurden sie jedoch besiegt und ergriffen die Flucht.",
+    "author": "Die Fuldaer Mönche (Einhard, Ruodolf, Meginhard u. a.)",
+    "source": "Altaicher Fortsetzung der Annales Fuldenses, slowakische Übersetzung J. Lukačka"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Annales Fuldenses",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(Slowakische Übersetzung nach LUKAČKA, Ján: 7. Fuldské anály. In: Pramene k dejinám Slovenska a Slovákov II. Slovensko očami cudzincov. Bratislava – Budmerice 1999, S. 154–166.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

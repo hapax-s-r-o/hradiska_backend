@@ -102,6 +102,9 @@ const VYNIMKY = {
      sa podľa §1 neprekladá; nemčina k nemu dáva zátvorkovú glosu. Osem
      „anglicizmov" v tom článku je práve z tohto názvu. */
   'muslimische-quellen-altungarn-vor-der-landnahme': ['angličtina'],
+  /* „najmä Slovákov, Bulharov, Chorvátov a Slovincov" — výpočet dnešných
+     národov, ktorých počiatkov sa prameň týka; Slovinci tam patria. */
+  'evangeliar-von-cividale-grossmaehrische-namen': ['Slowenen →'],
   /* „u Slovincov božič" — článok tu hovorí o Slovincoch, nie o Slovanoch. */
   'maros-demko-das-kiewer-pantheon-der-slawischen-goetter': ['Slowenen →'],
 };

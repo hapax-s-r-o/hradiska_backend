@@ -1,0 +1,782 @@
+{
+ "slug": "povod-vyznam-a-historia-najstarsich-hradisk",
+ "data": {
+  "title": "Ursprung, Bedeutung und Geschichte der ältesten Burgwälle",
+  "slug": "ursprung-und-geschichte-der-aeltesten-burgwaelle",
+  "excerpt": "Ibrāhīm ibn Yaʿqūb beschrieb im 10. Jahrhundert, wie die Slawen ihre Burgen in der Niederung anlegten – doch das war schon die am weitesten entwickelte Form. Der Beitrag geht deshalb zurück zu den neolithischen Palisaden, den Höhensiedlungen der Aunjetitzer Kultur, den keltischen Oppida und den fränkischen Pfalzen und verfolgt dann die ältesten slawischen Burgwälle von Chotomel und Zimno über Polen und die Niederlausitz bis zu den Ostseeslawen und zum vorgroßmährischen Mikulčice.",
+  "metaTitle": "Ursprung und Geschichte der ältesten Burgwälle",
+  "metaDescription": "Wie und warum die ältesten Burgwälle entstanden: die Beschreibung des slawischen Burgenbaus bei Ibrāhīm ibn Yaʿqūb und die Entwicklung der Befestigungen.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Ursprung und typologische Entwicklung der slawischen Burgwälle von der Urgeschichte bis zum 10. Jahrhundert",
+    "icon": "mountain"
+   },
+   {
+    "label": "Schlüsselquelle",
+    "value": "Ibrāhīm ibn Yaʿqūb (10. Jahrhundert) – Beschreibung des Baus eines Niederungsburgwalls",
+    "icon": "scroll"
+   },
+   {
+    "label": "Älteste slawische Burgwälle",
+    "value": "Chotomel und Zimno (Kultur vom Typ Korčak, ostslawische Urheimat)",
+    "icon": "shield"
+   },
+   {
+    "label": "Vorgroßmährische Zentren",
+    "value": "Mikulčice, Staré Město, Pohansko – bereits im 7. Jahrhundert besiedelt",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Äneolithikum",
+    "title": "Erste befestigte Höhensiedlungen",
+    "type": "event",
+    "description": "Das Aufsuchen erhöhter Lagen für befestigte Sitze tritt als Folge der sich formierenden Sippenordnung auf – es geht noch nicht um Burgwälle im eigentlichen Sinne des Wortes."
+   },
+   {
+    "year": "Ältere Bronzezeit",
+    "title": "Aunjetitzer Kultur",
+    "type": "event",
+    "description": "Es entstehen gut befestigte und geschützte Sitze, die bereits als Burgwälle klassifiziert werden können, mit Bindungen an den balkanischen bzw. minoischen Kulturkreis."
+   },
+   {
+    "year": "5.–4. Jahrhundert v. Chr.",
+    "title": "Hallstatt- und Latènezeit",
+    "type": "event",
+    "description": "Keltische befestigte Höhensiedlungen mit Steinmauerwerk und Palisade knüpfen an die Traditionen der späten Bronzezeit an; später entfalten sich die klassischen keltischen Oppida."
+   },
+   {
+    "year": "6. Jahrhundert",
+    "title": "Burgwälle in der ostslawischen Urheimat",
+    "type": "event",
+    "description": "Es entstehen die ältesten slawischen Burgwälle Chotomel und Zimno der Kulturgruppe Korčak; die Datierung von Zimno bestätigt der Fund byzantinischer Münzen aus dem 6. Jahrhundert."
+   },
+   {
+    "year": "7. Jahrhundert",
+    "title": "Vorgroßmährische Zentren und die Ära Samos",
+    "type": "event",
+    "description": "Es entstehen die Burgwälle Tornow und Vorberg in der Niederlausitz, Sukow, Teterow und Behren-Lübchin bei den Ostseeslawen und in Südmähren die Grundlagen von Mikulčice – in der Zeit des Fürsten Samo und seines Wogastisburg."
+   },
+   {
+    "year": "Ende des 8. Jahrhunderts",
+    "title": "Niederlage der Awaren",
+    "type": "event",
+    "description": "Die Heere Karls des Großen besiegten die Awaren, was den Aufstieg des Burgwallbaus bei den Slawen im Gebiet der heutigen Slowakei ermöglichte, der in der Ära Pribinas gipfelte."
+   },
+   {
+    "year": "9. Jahrhundert",
+    "title": "Klassische Burgwallgesellschaft",
+    "type": "event",
+    "description": "An der Spitze der gesellschaftlichen Stufenleiter steht ein Adliger oder Fürst mit seiner Familie und seiner Gefolgschaft, wie wir es aus dem großmährischen Umfeld kennen."
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Das Zeugnis Ibrāhīm ibn Yaʿqūbs",
+    "type": "event",
+    "description": "Der arabische Reisende beschreibt die Art des Baus des Niederungstyps eines slawischen Burgwalls – der am weitesten entwickelten Form dieser Bautradition."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Die meisten Burgen bauen die Slawen auf folgende Weise: Sie suchen sich Wiesen, die reich an Wasser und Gebüsch sind, und bezeichnen darauf eine runde oder viereckige Stelle, je nachdem, welche Form und Größe die Burg haben soll. Dann graben sie ringsherum und schütten die Erde auf, die sie mit Bohlen und Pfählen befestigen. So schaffen sie Wälle, die sie erhöhen, bis die Mauern die gewünschte Höhe haben. Dann vermessen sie für die Burg auf der geeigneten Seite ein Tor und bauen zu ihm eine Brücke. Über sie betreten sie die Burg.“ ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So weit Ibrāhīm ibn Yaʿqūb, ein Kaufmann und Reisender jüdischer Herkunft aus Tortosa, der im 10. Jahrhundert das slawische Mitteleuropa besuchte. Aus dieser wertvollen Beschreibung des Baus einer „Burg“, d. h. eines Burgwalls, erfahren wir von der Art und dem Ablauf der Arbeiten beim Bau eines slawischen Burgwalls. Man muss sich jedoch bewusst machen, dass es sich bereits um eine Zeit handelt, in der der Burgwallbau bei den Slawen zu seiner am weitesten entwickelten Form gelangt war, und dass es darüber hinaus nur um einen der Burgwalltypen geht, den sogenannten Niederungstyp. Zur Klärung der Problematik der slawischen Burgwälle müssen wir deshalb einige Jahrhunderte zurückgehen, zur Morgenröte der slawischen Geschichte, und vielleicht noch weiter und tiefer in die Historie."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Erbauer von Burganlagen vor den Slawen "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bereits in der Zeit der neolithischen Ackerbaukulturen begegnen wir im Gebiet der heutigen Slowakei Anzeichen des Baus von Anlagen, die unter anderem die Funktion einer kollektiven Verteidigung hatten. Es geht um den Bau von Palisaden und Einzäunungen, manchmal in Verbindung mit einem einfachen Wall und Graben. So geschieht es z. B. beim Volk mit bemalter Keramik oder bei den Theiß-Kulturgruppen und ähnlichen. Zeugen eines Aufsuchens erhöhter Lagen werden wir jedoch erst in der Zeit des Äneolithikums (Kupferzeit). Es geht um den Bau befestigter Höhensiedlungen, wahrscheinlich als Folge der sich formierenden Sippenordnung und überhaupt als Folge näher schwer zu bestimmender Veränderungen in den gesellschaftlichen Verhältnissen. An vielen Stellen begegnen wir der Erscheinung, dass gerade die Slawen diese Lagen oft aufsuchten. Das bedeutet jedoch nicht, dass wir zwischen ihnen und diesen Kulturen einen bestimmten Zusammenhang suchen dürfen. Es geht nämlich noch nicht um Burgwälle im eigentlichen Sinne des Wortes, ganz abgesehen von der zeitlichen Entfernung der beiden, diametral verschiedenen Welten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein viel höheres Niveau bei der Befestigung von Höhensiedlungen können wir in unseren Gebieten bei jener Bevölkerung beobachten, die in der älteren Bronzezeit das bunte ethnische Gemisch der äneolithischen Zeit zusammenfügte. Wir begegnen hier gut befestigten und geschützten Sitzen, die wir bereits als Burgwälle klassifizieren können. Den Entwicklungsstand dieser Kulturen, wie es z. B. im Falle der Aunjetitzer Kultur ist, können wir in den Kontakten mit dem Balkan, also mit dem protogriechischen bzw. minoischen Kulturkreis suchen. Von diesem Punkt der Geschichte des Gebietes der heutigen Slowakei an entwickelte sich der weitere Verlauf in der jüngeren und späten Bronzezeit. Diese ist bereits durch die Entfaltung protokeltischer Einheiten gekennzeichnet, wobei das Donaugebiet zum Ort des zivilisatorischen Fortschritts wird. Es geht z. B. um das Hügelgräbervolk oder um das Volk der Urnenfelder. Gerade die zweite genannte Kultur verfolgen wir unter der Bezeichnung Lausitzer bis schlesisch-platenitzer Kultur im Gebiet Polens und Nordböhmens bis zum Ende des 2. Jahrtausends v. Chr., d. h. bis zum Auftreten der Kelten. Schlüsselbedeutung für das Verständnis dieser Entwicklung hatte die Ausgrabung der befestigten Höhensiedlung bei Kroměříž. Die Höhensiedlung war bereits von der ältesten Stufe an befestigt und weist drei grundlegende Besiedlungsschichten auf, womit sie alle wichtigen Entwicklungswandlungen erfasst. Die jüngste Besiedlung stellt ein Ethnikum dar, über das sich, und zwar vor allem in der polnischen Archäologie, die Ansichten verbreiteten, es handle sich um ein urslawisches Element. Die weitere Forschung mündete jedoch in einen sozusagen maßvolleren Schluss, nämlich dass dieses Ethnikum nur einen der Bestandteile darstellt, die am Prozess der Ethnogenese der Slawen beteiligt waren. Dieser Bestandteile gab es aber wahrscheinlich mehr. Diese kühnen Konzeptionen über einen direkten Zusammenhang der Lausitzer Kultur und ihrer Nachfolger auf der einen und der alten Slawen auf der anderen Seite haben doch ihre Berechtigung in einer ganzen Reihe gemeinsamer Merkmale. Dazu gehören die sesshafte, ackerbauliche Lebensweise, der übereinstimmende Grabritus, d. h. die Brandbestattung, und nicht zuletzt der Bau befestigter Siedlungen, die in vielem an die späteren altslawischen Burgwälle erinnern, sogar an übereinstimmenden Stellen. Sie zeichnen sich durch eine große Fläche in erhöhten Lagen aus, woraus wir vor allem auf ihren Charakter von Fliehburgen schließen, z. B. die befestigte Höhensiedlung Prachovské Skaly oder die Fundstelle Mužský-hrada (Tschechien). Dort, wo es nicht genügend Erhebungen gibt, in den polnischen Niederungen der Flüsse und Seen, geht es um Burgwälle mit einem kombinierten Schutz aus Wall und Wasser. Ein klassischer Fall eines solchen Niederungsburgwalls am Wasser ist Biskupin nicht weit von Gnesen. Die „lausitzisch-slawische“ Theorie schwächt jedoch letztlich auch das, dass wir den Bau eines Burgwalls nicht zuverlässig für eine ethnische Äußerung halten können, auch wenn er einigen Ethnien, z. B. gerade den Slawen, näher lag als anderen. Dem Bau befestigter Sitze, der Vorgänger der Burgwälle, begegnen wir auch in Gebieten, in denen wir keinen slawischen ethnogenetischen Prozess, sondern erst eine nachträgliche Besiedlung annehmen, als die protokeltischen, keltischen und germanischen Stämme einander ablösten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Zeit der ersten Hälfte des 1. Jahrtausends vor unserer Zeitrechnung kommt es im mitteleuropäischen Gebiet zu einem weiteren zivilisatorischen Fortschritt. Die befestigten Höhensiedlungen dieser Zeit wurden in beträchtlichen Höhen angelegt, manchmal bis zu 700–800 Metern. Die Mauern erreichten Breiten von mehreren Metern und waren mit trocken gesetztem Steinmauerwerk und einer Palisade verstärkt. Durchdacht ist auch bereits das System des Baus und der Verteidigung der Eingangstore. So schreitet die Entwicklung bis in die "
+       },
+       {
+        "type": "text",
+        "text": "hallstatt- und latènezeitliche",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " Periode fort, d. h. in das 5.–4. Jahrhundert v. Chr. "
+       },
+       {
+        "type": "text",
+        "text": "Keltische befestigte Höhensiedlungen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " dieser Zeit sind von ähnlichem Charakter, sie knüpfen an die Traditionen der späten Bronzezeit an. Stein und Palisade werden weiter verwendet, ein neues Element sind hölzerne Hilfskonstruktionen beim Bau des Walls. Die Höhensiedlungen bewahren auch weiterhin ihre hohen Lagen und somit ihren überwiegenden Charakter von Fliehburgen. Von der altkeltischen Zeit gelangen wir in die Ära der klassischen keltischen Oppida, die sich durch eine weitere Differenzierung des Raumes der Anlage auszeichnen, d. h. das eigentliche Burgzentrum mit befestigten Vorburgen. Besonders kompliziert ist das System der Wallbefestigung, der seitlichen Hilfsverhaue und der Schutzmaßnahmen, die dem Feind den Zugang in das Innere der Anlage verwehren. Wir unterscheiden mehrere Formen von Toren des seitlichen Typs, tunnelartige Eingänge oder die sogenannten Zangentore, nach innen eingezogene Tore. Gerade diesem letzten Tortyp begegnen wir später bei den Slawen. Die Ära der keltischen Oppida endet bei uns mit dem Einfall der Germanen an der Wende der Zeitrechnung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für die "
+       },
+       {
+        "type": "text",
+        "text": "Germanen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " ist der Bau von Burganlagen nicht typisch. Wenn wir vereinzelt Ausnahmefällen begegnen, die diese Regel bestätigen, geht es meist um die Nutzung besetzter keltischer befestigter Höhensiedlungen bzw. um den Einfluss keltischer Tradition. Die Mehrheit der von den Germanen eroberten Oppida wurde jedoch geplündert, niedergerissen und anschließend verlassen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine andere Lage tritt erst unter dem Einfluss veränderter gesellschaftlicher Bedingungen ein. Der frühfeudale Staat, der auf dem überwiegend von Germanen besiedelten Gebiet entstand, musste Verwaltungs- und Machtzentren aufbauen. Diese Tatsache führte zusammen mit der späteren Bedrohung durch Wikingereinfälle dazu, dass die Franken, vor allem unter der Dynastie der Merowinger und der Karolinger, gezwungen waren, neben den schon bestehenden Königshöfen und den sogenannten Pfalzen auch einige klassische Höhen-Fliehburgen zu errichten. Es waren repräsentative Sitze des fränkischen Adels, die als Handels-, Kirchen- und Verwaltungszentren fungierten, mit Gerichtsgebäuden, einer Hofschule und Räumen für Spiele und Wettkämpfe. Die Pfalzen waren überhaupt nicht oder nur leicht befestigt. Die Burganlage diente dann als Zuflucht für die Bewohner der umliegenden Höfe und Pfalzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ältesten slawischen Burgwälle",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die gemeinsame Wurzel des Wortes „gorod“ bzw., im Gebiet der heutigen Slowakei, „grad“ hat einen alten slawischen Stamm. Seine Verwendung auf dem weiten, von Slawen besiedelten Gebiet bezeugt, dass die Art der Verteidigung hinter den Wällen der Burgwälle allen Slawen von den ältesten Zeiten an eigen war. Aus dem vorangehenden Abschnitt ergibt sich, dass die Slawen nicht die einzigen waren, die Burganlagen bauten. Wir können jedoch sagen, dass sie als einzige den Bau eines Burgwalls als solchen zur Vollkommenheit, also auf die höchstmögliche Stufe der Funktionalität hinsichtlich der militärischen Verteidigungsfähigkeit brachten. Diese Tatsache bezeugt auch das erfolgreiche Widerstehen der Burgwälle der großmährischen Slawen gegen die damals stärkste Militärmacht, das bereits oben erwähnte Frankenreich. Aus den Aufzeichnungen der Chroniken erfahren wir, dass sie durch ihre Mächtigkeit und Unbezwingbarkeit auch bei einem solchen, besonders hinsichtlich der Qualität von Bewaffnung und Ausrüstung weiter entwickelten Feind Respekt erweckten. Ähnlich war auch die Lage in den Zeiten Samos und seines heute schon fast legendären Wogastisburg (Wogastgrad)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein können wir also einleitend feststellen, dass der altslawische Burgwall in seiner Grundgestalt aus den Traditionen der Vergangenheit schöpft, die tief in der Urgeschichte wurzeln, aus den Traditionen jener Einheiten, die am Prozess der slawischen Ethnogenese beteiligt waren. Davon zeugt auch der eigenständige Stamm der Ausdrücke „hrad“, „grad“, „gorod“. Weiter ist offensichtlich, dass die Entstehung und Entwicklung der altslawischen Burgwälle stets durch den kriegerischen Kontakt mit den konkreten benachbarten Ethnien beeinflusst war. Und nicht zuletzt ist es die Übernahme von Bautraditionen von der Bevölkerung der neu besiedelten Gebiete. Bei uns, im Raum Mitteleuropas, können wir also den Einfluss des keltischen bzw. römischen Elements annehmen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Selbstverständlich finden wir "
+       },
+       {
+        "type": "text",
+        "text": "die ältesten slawischen Burgwälle",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " im Gebiet der sogenannten „Urheimat“ unserer Vorfahren. Es geht um den Burgwall "
+       },
+       {
+        "type": "text",
+        "text": "Chotomel,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " einen Sumpfburgwall mit Ringwall, und "
+       },
+       {
+        "type": "text",
+        "text": "Zimno",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", das auf einer Anhöhe errichtet und durch eine hölzerne Palisade geschützt war. Es geht um die Verwirklichung der Bauambitionen der altslawischen Kulturgruppe des Typs Korčak, benannt nach dem Fundort im Gebiet von Žytomyr. Es geht um eine verhältnismäßig ausgeprägte slawische Gruppe, die das Gebiet westlich und östlich des "
+       },
+       {
+        "type": "text",
+        "text": "mittleren Dnepr",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " bewohnte. Außer den erwähnten Burgwällen wurden mehrere hundert Siedlungen mit eingetieften Grubenhäusern archäologisch untersucht, die gerade zum Typ Korčak gehören. Zur Datierung von Zimno trägt auch der Fund byzantinischer Münzen aus dem "
+       },
+       {
+        "type": "text",
+        "text": "6. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " bei. In späterer Zeit entstehen in diesem Raum mehrere weitere Burgwälle, wie zum Beispiel "
+       },
+       {
+        "type": "text",
+        "text": "Novotrojickoje",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", das eines der grundlegenden Zentren der später entstehenden "
+       },
+       {
+        "type": "text",
+        "text": "Kiewer Rus",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " bildete. Trotzdem ist das Vorkommen von Burgwällen im Zentrum der angenommenen slawischen Expansion verhältnismäßig gering. Hier muss man sich bewusst machen, dass Voraussetzung für die Entstehung eines Burgwalls bestimmte geeignete gesellschaftlich-wirtschaftliche Bedingungen sind, die es ermöglichen, dass eine bestimmte Gruppe von Bewohnern nicht unmittelbar an der Produktion landwirtschaftlicher Erzeugnisse teilnimmt, und ebenso das Vorhandensein einer militärischen Bedrohung. Offensichtlich war keiner dieser Faktoren in dem betreffenden Gebiet so ausgeprägt, dass er zu einer Entfaltung der Burgwälle in bedeutenderem Maße geführt hätte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon anders ist die Lage im "
+       },
+       {
+        "type": "text",
+        "text": "6. bis 7. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in Transkarpatien, im Gebiet der Weichsel, also ebenfalls in den Gebieten der Entstehung des slawischen Elements. Die polnische Archäologie verfolgt hier die frühen Anfänge der slawischen Befestigung gleich bei fünf Burgwällen. Von ihnen ragt durch seine Fläche über die anderen "
+       },
+       {
+        "type": "text",
+        "text": "Stradów",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " hinaus. Es geht um einen der größten kleinpolnischen Burgwälle überhaupt, mit einer Fläche von über 20 ha, der sich am zerklüfteten Abhang der Karpaten erstreckt. Er besteht aus mehreren Vorburgen und dem eigentlichen Zentrum. Sowohl durch die Datierung als auch durch den Typ repräsentiert er am besten den Charakter der älteren Burgwälle des Weichselgebietes. Umgekehrt ist ein weiterer Burgwall dieses Gebietes, "
+       },
+       {
+        "type": "text",
+        "text": "Chodlik",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", vom Flachlandtyp. Er wird von einem dreifachen Gürtel ringförmiger Wälle mit einem Durchmesser von bis zu 300 m gebildet. Die archäologischen Funde, besonders die Funde kurzer Sporen und von Hakensporen, deuten darauf hin, dass der Burgwall irgendwann im 6. Jahrhundert angelegt wurde. In die Zeit des Beginns des 7. Jahrhunderts datieren wir die Burgwälle "
+       },
+       {
+        "type": "text",
+        "text": "Damice und Demblín",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " sowie "
+       },
+       {
+        "type": "text",
+        "text": "Szczaworyź",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Alle fünf Burgwälle bestehen bis zur klassischen Phase im 10. Jahrhundert fort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Allgemein können wir bei den ersten slawischen Burgwällen, die im ältesten slawischen ethnogenetischen Raum liegen, ihren refugialen Charakter feststellen, jedoch bereits mit Anzeichen einer Organisation, die über die ausschließliche Zufluchtsfunktion bzw. über die Form einer einfachen befestigten Haufensiedlung hinausgeht. Das gilt für die ältesten transkarpatischen Burgwälle wie auch für die Anlagen im Dneprgebiet und in der Westukraine."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus dem "
+       },
+       {
+        "type": "text",
+        "text": "Ende des 6. Jahrhunderts",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " kennen wir weiter die Burgwälle der Masowier und der Polanen, der späteren "
+       },
+       {
+        "type": "text",
+        "text": "Schöpfer des polnischen Staates",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Archäologisch untersucht wurden vor allem die Burgwälle "
+       },
+       {
+        "type": "text",
+        "text": "Szeligi und Lezcyca",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " im masowischen Gebiet der mittleren Weichsel sowie "
+       },
+       {
+        "type": "text",
+        "text": "Siedlemin, Daleszyn und Bonikowo",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in Großpolen. Von diesen hat besonders Bonikowo dank einer eingehenden Ausgrabung eine allmähliche Entwicklung von einem einfachen kleineren Burgwall mit einer Fläche von 2,5 ha bis zu einem entwickelten Zentrum mit mehreren Vorburgen in der klassischen Phase des 9. bis 11. Jahrhunderts nachgewiesen. Seine Bedeutung verlor es erst mit dem Anschluss Schlesiens an den polnischen Staat, als es seine ursprüngliche Stellung als Machtzentrum der selbständigen Stämme der Polanen und der Slensanen einbüßte. Nach dem Verlust ihrer, wie wir heute sagen würden, „territorialen Souveränität“ wurde es zur Rolle einer Grenzfestung „degradiert“. Bei diesem Burgwall sind wir Zeugen einer klassischen wirtschaftlich-gesellschaftlichen Entwicklung, einer allmählichen Erweiterung und eines späteren erneuten „Zusammenschrumpfens“, wie wir es auch in anderen Gebieten beobachten können, überall dort, wo die Entwicklung fließend, langfristig und von plötzlichen Veränderungen unberührt war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Burgwall in der frühen Entwicklungsphase im Gebiet des heutigen Polen, aber nicht nur hier, wächst also am häufigsten im Zentrum der Besiedlung auf, inmitten landwirtschaftlicher Siedlungen, deren Schutz er dient. Er ist mit seinem eigenen Hinterland verbunden. Bei den Polanen begegnen wir überall einer ringförmigen Befestigung relativ geringeren Umfangs, von einigen Hektar, inmitten von Feuchtgebieten, Sümpfen und zwischen Flüssen. Es geht zum Beispiel um den oben erwähnten Burgwall Leczyca, dessen Entfaltung wahrscheinlich schon am Ende des 6. Jahrhunderts begann. Es geht um einen Befestigungsring ovaler Form mit den Maßen 140 × 80 Meter, später um eine Vorburg erweitert. Es ist ein klassischer Fall eines einfachen Palisadenwalls, einer frühen Form der altslawischen Befestigung, die wir bei der Mehrheit der Burgwälle der alten Slawen annehmen können. Es geht um eine Aufschüttung aus Lehm in Verbindung mit einem Graben, gekrönt von einer einfachen oder, wie im Falle des Burgwalls Leczyca, verdoppelten Reihe von Palisaden in einer Höhe von 4 Metern, genau einer solchen, wie sie Ibrāhīm ibn Yaʿqūb beschreibt. Natürlich hat auch dieser Burgwall eine weitere komplizierte Entwicklung bis in das 12. Jahrhundert durchgemacht. Und so stellt er eines der klassischen Beispiele der Entwicklung des Walls aus Holz und Lehm und der allmählichen Vervollkommnung der Fortifikationskunst der Slawen dar. Deshalb wird von ihm später noch die Rede sein. Der Burgwall Szeligi, ebenfalls im masowischen Gebiet, nach den Keramikfunden an die Wende vom 6. zum 7. Jahrhundert datiert, war auf einem natürlichen Sporn errichtet, wobei der nicht durch den Hang geschützte Teil durch einen Abschnittswall gesichert war, was bei den polnischen Burgwällen ungewöhnlich ist. Diese Tatsache beweist, dass eine künstliche ringförmige Befestigung nur dort zur Anwendung kam, wo keine natürlichen Geländeformen bestanden, die für Verteidigungszwecke geeignet nutzbar waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Weiter westlich von den erwähnten Gebieten datiert die Forschung die Entstehung der ältesten slawischen Burgwälle in den zeitlichen Horizont der "
+       },
+       {
+        "type": "text",
+        "text": "Wende vom 7. zum 8. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Gleichzeitig beobachten wir hier jedoch bereits das Einsetzen einer höheren, weiter entwickelten Stufe des gesellschaftlich-wirtschaftlichen Lebens. Davon zeugt z. B. die eingehende Ausgrabung der Burgwälle "
+       },
+       {
+        "type": "text",
+        "text": "Tornow und Vorberg",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " in der Niederlausitz. In dieser wasserreichen Landschaft nutzte man sandige Untergründe, die an die Oberfläche treten. Es waren Burgwälle geringen Umfangs, ringförmig, mit einem Durchmesser von 25 bzw. 26 Metern, geschützt durch eine konstruktiv bereits kompliziertere Holz-Lehm-Mauer. Der Innenraum des Burgwalls Vorberg war fast unbesiedelt, mit Ausnahme eines Wachbaus am Tor und einer langgestreckten Hütte mit einer Drehmühle, wahrscheinlich eines Mühlenhauses. Festgestellt wurde auch die Existenz von Unterständen entlang der Innenseite der Mauern, offenbar als zeitweilige Zuflucht für die Bedürfnisse der Verteidiger. Dagegen war der Raum der weitläufigen unbefestigten Vorburg in der Umgebung des Burgwalls verhältnismäßig dicht besiedelt und mit zwölf Hütten größeren Umfangs bebaut. Ebenso waren zwei Brunnen, Rennöfen und eine Schmiedewerkstatt vorhanden. Die Siedlung konnte etwa 300 Bewohner haben und war mit dem Burgwall durch einen Tunneleingang verbunden. Wir sehen also, dass bereits im 7. Jahrhundert eine slawische Ackerbausiedlung mit vorhandenem Handwerk und mit Anzeichen einer großfamiliären Gemeinschaft auf eine höhere Stufe der gesellschaftlichen Organisation übergeht. An ihrer Spitze steht der Häuptling der Gemeinde, der als einziger dauerhaft hinter den Wällen des Burgwalls wohnt. Diese Tendenz zu einer höheren gesellschaftlichen Organisation erreichte ihren Höhepunkt, nachdem die Siedlung in der nächsten Phase durch Feuer unterging und durch eine jüngere Bebauung ersetzt wurde. Die Veränderung zeigte sich in der Größe der Hütten und in der Dichte der Besiedlung. Die Häuser waren kleiner, sie konnten nur eine Familie aufnehmen, die Gesamtzahl der Bewohner konnte etwa 170 Personen betragen. Auch der Burgwall wurde umgebaut. Anstelle der Unterstände entlang der Mauern wurden klassische Wohnbauten errichtet. Die leere Mitte, die ursprünglich als Platz für die bedrohten Bewohner diente, wurde zu einer Hofanlage umgebaut, die aus mehreren Wohnteilen bestand und das ursprüngliche, einfache Haus des Häuptlings der Gemeinde ersetzte. Wir sehen hier also bereits die Keime einer höheren Form der gesellschaftlichen Organisation, der Differenzierung der gesellschaftlichen Verhältnisse, d. h. Anzeichen der Bildung und der steigenden Bedeutung eines Adels. Dieser Prozess erreichte im 9. Jahrhundert seinen Höhepunkt, in der Zeit der klassischen slawischen Burgwallgesellschaft, in der an der Spitze der gesellschaftlichen Stufenleiter ein Adliger oder ein örtlicher Herr bzw. ein Fürst mit seiner Familie und seiner Gefolgschaft steht, wie wir es z. B. aus dem großmährischen Umfeld kennen. Aber damit greifen wir den Ereignissen schon etwas vor, und deshalb zurück zum Thema …"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im "
+       },
+       {
+        "type": "text",
+        "text": "7. Jahrhundert ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "beginnt sich die Geschichte der ältesten slawischen Burgwälle auch bei den "
+       },
+       {
+        "type": "text",
+        "text": "Ostseeslawen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu schreiben, im mecklenburgisch-brandenburgischen Gebiet, in der Seenlandschaft der berühmten Liutizen und Abodriten, die sich in eine Vielzahl örtlicher Stämme aufspalteten. Zur zuverlässigen Datierung bei den Ausgrabungen in diesem Gebiet trägt die Keramik bei, die für die hiesigen Slawen typisch ist. Sie zeichnet sich durch ungewöhnlich bauchige Formen und reiche Verzierung aus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den ältesten rechnen wir hier den Burgwall bei der Gemeinde "
+       },
+       {
+        "type": "text",
+        "text": "Sukow",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", in der auch „"
+       },
+       {
+        "type": "text",
+        "text": "Alte Burg",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "“ genannten Lage. Es geht um eine Anhöhe, die etwa 5 m über die sumpfige Umgebung hinausragt. An der Stelle der älteren slawischen Besiedlung wurde ein mit Eichenstämmen ausgelegter Weg entdeckt, der den Burgwall mit der Siedlung in "
+       },
+       {
+        "type": "text",
+        "text": "Klein Markow",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " verband. Also wieder eine Maßnahme der örtlichen slawischen Bewohner im Rahmen ihrer Burgwallorganisation, die von deren fortgeschrittenem Stadium zeugt. Ähnlich entwickelt organisierte Burgwälle lagen in "
+       },
+       {
+        "type": "text",
+        "text": "Teterow",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und in "
+       },
+       {
+        "type": "text",
+        "text": "Behren-Lübchin",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Teterow war das Machtzentrum des Stammes der "
+       },
+       {
+        "type": "text",
+        "text": "Zirzipanen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Bei beiden Burgwällen ist ein hoher Grad an Zimmermannsgeschick beim Bau der Befestigungen, der Wege und der Brücken offensichtlich. Ähnlich ist die Lage auch beim Stamm der "
+       },
+       {
+        "type": "text",
+        "text": "Wagrier an der Meeresküste",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit ihrem Zentrum Oldenburg bzw. "
+       },
+       {
+        "type": "text",
+        "text": "Starigard",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Dieser Hauptburgwall Wagriens ist auch als Ort des altslawischen heidnischen Kultes bedeutend, zu dessen Zentrum er später wurde. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Zusammenhang mit dem slawischen Heidentum wurde eine Ausgrabung auf dem "
+       },
+       {
+        "type": "text",
+        "text": "Faldberg",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " durchgeführt. Ihre Aufgabe war es, nichts Geringeres als unmittelbar das altberühmte "
+       },
+       {
+        "type": "text",
+        "text": "Rethra",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " zu lokalisieren und archäologisch nachzuweisen, das Zentrum des Kultes des Gottes Dažbog Svarožič. Rethra nach der Beschreibung Thietmars von Merseburg wurde zwar nicht gefunden, dafür wurde jedoch das Vorhandensein eines altslawischen Burgwalls aus dem 7. Jahrhundert festgestellt. Er war auf einer Höhe über einem See errichtet, mit einem Burg- und Kultzentrum und einer Vorburg, mit drei Toren und einer reichen Bebauung mit Häusern in Reihen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Anders war die Lage "
+       },
+       {
+        "type": "text",
+        "text": "im Gebiet der heutigen Slowakei",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", wo die Existenz von Burgwällen aus diesen ältesten Zeiten nicht belegt ist. Wahrscheinlich geht es um eine Folge des Zusammenlebens mit den Awaren bzw. ihrer Herrschaft. Auch wenn die Funde von einer bereits weiter entwickelten, nicht typisch dörflichen Gesellschaft zeugen, die durch das awarisch-slawische Element vertreten ist, können wir hier von klassischen Burgwällen nicht sprechen. Unter der Herrschaft und dem Einfluss der awarischen nomadischen Lebensweise kamen die hiesigen Slawen offenbar zu deren Bau sozusagen nicht. Diese "
+       },
+       {
+        "type": "text",
+        "text": "Lage änderte sich erst nach",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " den slawischen "
+       },
+       {
+        "type": "text",
+        "text": "Aufständen gegen die Awaren",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " und nicht zuletzt nach der Niederlage, die den Awaren die Heere Karls des Großen am Ende des 8. Jahrhunderts beibrachten. Erst nach diesem geschichtlichen Umbruch tritt der "
+       },
+       {
+        "type": "text",
+        "text": "Aufstieg der Slawen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " im Gebiet der heutigen Slowakei ein, begleitet auch vom Bau von Burgwällen, "
+       },
+       {
+        "type": "text",
+        "text": "der in der Ära Pribinas gipfelte",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Ähnlich langsamer ist die Entwicklung auch im böhmischen Gebiet, auch wenn man die Ursachen hier anderswo suchen muss. Eine Ausnahme bildet in unserem Raum nur das Gebiet Südmährens, wahrscheinlich infolge der traditionellen Beziehungen – der handelsmäßigen, handwerklichen und auch kulturellen – zu den Überresten des römischen Milieus der Provinzen Pannonien und Noricum. Die südmährischen Slawen, die die awarische Macht nur am Rande berührte, hatten die Möglichkeit, unmittelbar aus dem Vermächtnis der Bauerfahrungen der römischen Zentren des Donau-Limes Romanus zu schöpfen. Deshalb können wir in "
+       },
+       {
+        "type": "text",
+        "text": "Mikulčice",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " "
+       },
+       {
+        "type": "text",
+        "text": "bereits im 7. Jahrhundert",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " von einem nichtagrarischen Charakter der Siedlung sprechen, die mit einem Wall aus Holz und Erde befestigt war. Ebenso bezeugen die archäologischen Funde handwerklicher Tätigkeiten in Staré Město wie auch die Ausgrabungen in Pohansko bei Břeclav (Lundenburg) eine Besiedlung bereits in der vorgroßmährischen Zeit, etwa zwei Jahrhunderte vor den Vereinigungsaktivitäten Mojmírs. Mikulčice, in der großmährischen Zeit für seine luxuriöse Ausstattung, seinen Schmuck und seine Kirchen bekannt, entstanden also nicht von einem Tag auf den anderen, sozusagen auf der grünen Wiese. Die Grundlage dieses mächtigsten Zentrums Mährens müssen wir gerade im 7. Jahrhundert suchen, irgendwann "
+       },
+       {
+        "type": "text",
+        "text": "in den Zeiten des Fürsten Samo",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Außer den großmährischen Funden und den Funden aus der awarisch-slawischen Zeit des 8. Jahrhunderts finden wir an dieser Fundstelle auch einen dritten, ältesten Horizont. Die Besiedlung von Mikulčice hatte damals schon eine Fläche von etwa 50 ha; die Siedlung wurde von einem leicht befestigten Burgareal mit einer Fläche von 4 ha beherrscht. Es war nach der Art eines Gehöfts errichtet und von einem Wall umgeben, der nach der Art der klassischen frühen Form der slawischen Befestigung angelegt war. Von einem bereits gesellschaftlich differenzierten Umfeld nichtagrarischen Charakters mit regem handwerklich-kaufmännischem Schaffen zeugen unter anderem zahlreiche Funde von reiterlichen Hakensporen, die für diese Zeit typisch sind. Der Fund zeugt von einer übergeordneten sozialen Schicht von Einzelnen bzw. von einer herrschenden Schicht, die von der sich bildenden Reitergefolgschaft eines Adligen oder Fürsten gestützt wurde, die sich allmählich zur elitären Kampfeinheit der slawischen Burgwallgesellschaft entwickelte. Ebenso beschränken sich die Keramikfunde nicht nur auf einfache, unverzierte und von Hand gefertigte Gefäße des Prager Typs. Im Gegenteil, die Töpfererzeugnisse sind reich mit mehrfachen Wellenbändern donauländischen Typs und auch mit der Technik geglätteter Muster verziert. Einem ähnlichen befestigten Zentrum, geschützt durch Palisade und Graben, begegnen wir auch in "
+       },
+       {
+        "type": "text",
+        "text": "Staré Město",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Die letzte der vorgroßmährischen slawischen „Festungen“ finden wir in Gestalt des Burgwalls Lížeň bei Brno (Brünn), wo wir wiederum zahlreiche Funde von Reitersporen haben. Natürlich ist die slawische Besiedlung von den ältesten Zeiten an im ganzen Gebiet der ehemaligen Tschechoslowakei offensichtlich, von den ältesten Burgwällen können wir jedoch nur in den einigen oben angeführten Fällen sprechen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zum Abschluss des den ältesten slawischen Burgwällen gewidmeten Teils können wir nicht umhin, den berühmtesten zu erwähnen, nämlich den mythischen Wogastisburg. Dieser Fundstelle ist ein eigener Abschnitt dieses Blogs gewidmet: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

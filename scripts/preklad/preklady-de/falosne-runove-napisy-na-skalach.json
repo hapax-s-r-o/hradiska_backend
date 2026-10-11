@@ -1,0 +1,72 @@
+{
+ "slug": "falosne-runove-napisy-na-skalach",
+ "data": {
+  "title": "Gefälschte Runeninschriften auf Felsen – eine Publikation von 1933",
+  "slug": "gefaelschte-runeninschriften-auf-felsen-1933",
+  "excerpt": "Der Scan der ursprünglichen gedruckten Publikation aus dem Jahr 1933, die sich den Runeninschriften auf Felsen widmet. Diese Inschriften erwiesen sich später als gefälscht.",
+  "metaTitle": "Gefälschte Runeninschriften auf Felsen (Publikation 1933)",
+  "metaDescription": "Der Scan der ursprünglichen gedruckten Publikation aus dem Jahr 1933 über Runeninschriften auf Felsen, die sich später als Fälschungen erwiesen haben.",
+  "keyFacts": [
+   {
+    "label": "Art des Dokuments",
+    "value": "Scan der ursprünglichen gedruckten Publikation",
+    "icon": "scroll"
+   },
+   {
+    "label": "Thema",
+    "value": "Runeninschriften auf Felsen, später als Fälschungen erkannt",
+    "icon": "book"
+   },
+   {
+    "label": "Datierung",
+    "value": "Erscheinungsjahr 1933",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1933",
+    "title": "Erscheinen der Publikation",
+    "description": "Es erschien die ursprüngliche gedruckte Publikation, die die Runeninschriften auf Felsen dokumentiert und in Zweifel zieht.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen den Scan der ursprünglichen gedruckten Publikation aus dem Jahr 1933, die sich den Runeninschriften auf Felsen widmet. Diese Inschriften erwiesen sich später als gefälscht."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

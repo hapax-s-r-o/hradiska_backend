@@ -1,0 +1,263 @@
+{
+ "slug": "povesti-viazane-k-poloham-hradiste-a-koscelisko",
+ "data": {
+  "title": "Sagen um die Lagen Hradište und Koscelisko im nördlichen Waagtal",
+  "slug": "sagen-um-hradiste-und-koscelisko",
+  "excerpt": "Der zweite Teil des Artikels über den vermuteten altertümlichen Weg im nördlichen Waagtal: An die Lagen Hradište und Koscelisko sind drei Sagen gebunden, die Milan Húževka in den Púchovské povesti und in der Monografie der Gemeinde Mestečko aufgezeichnet hat – vom Schafhirten und dem wilden Ziegenbock, von der im Jezero ertrunkenen Hochzeit und von den Zámčiská, in denen es spukte. In zwei von ihnen klingt eine mögliche Dämonisierung des Ortes an.",
+  "metaTitle": "Sagen um die Lagen Hradište und Koscelisko",
+  "metaDescription": "Drei Sagen, die sich an die Fundstellen Hradište und Koscelisko im nördlichen Waagtal binden – aufgezeichnet in den Púchovské povesti von Milan Húževka.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Peter Schreiber",
+    "icon": "book"
+   },
+   {
+    "label": "Ort",
+    "value": "Hradište und Koscelisko (Zbora, Gemeinde Dohňany, Bezirk Púchov)",
+    "icon": "map"
+   },
+   {
+    "label": "Motiv",
+    "value": "Übernatürliche Kräfte als Wächter des untergegangenen Burgwalls und der Kirchenstelle – Teufel, Spukgestalten, verbotener Ort",
+    "icon": "star"
+   },
+   {
+    "label": "Quelle",
+    "value": "M. Húževka: Púchovské povesti (1990); J. Mišún (Hrsg.): Obec Mestečko (2006)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6436,
+    "alt": "Federzeichnung gerüsteter Reiter, die auf zwei Burgwälle mit Palisaden und aufsteigendem Rauch blicken"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir bringen den zweiten Teil des vorangehenden Artikels, der sich mit dem vermuteten altertümlichen Weg im nördlichen Waagtal (Mariková, Mostište, Zbora) befasste. Der Autor ist wiederum Mgr. Peter Schreiber."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An die Fundstellen Hradište und Koscelisko sind auch drei Sagen gebunden, die Milan Húževka in dem Buch Púchovské povesti und in der Monografie über die Gemeinde Mestečko (Ján Mišún und Kollektiv) aufgezeichnet und veröffentlicht hat. Im Folgenden gebe ich eine verkürzte Wiedergabe der Sagen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sage vom Schafhirten von unterhalb Čechovec[1]:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sage berichtet, dass einem Hirten, einem Schafhirten, bei der Jagd auf wilde Ziegen auf einem Berg nicht weit vom abgebrannten "
+       },
+       {
+        "type": "text",
+        "text": "Burgwall",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " ein wilder Ziegenbock erschien und dem Hirten versprach, ihm einen Wunsch zu erfüllen, wenn er denn die Ziegen in seiner Herde nicht schieße. Darauf gab ihm der Ziegenbock eines seiner Hörner, und der Hirte sollte sich daraus ein Blashorn machen. In das Horn sollte er blasen, wenn es ihm am schlimmsten ergehe, und ein Wunsch werde ihm erfüllt (Húževka 1990)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sage von der ertrunkenen Hochzeit:",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Bursche aus Mestečko suchte eine Braut. Schon als kleiner Junge hütete er das Vieh auf dem "
+       },
+       {
+        "type": "text",
+        "text": "Hradište",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". Er sah sich eine Braut aus der Siedlung Gaškov oberhalb der Gemeinde Vydrná aus. Einmal riet ihm ein Landstreicher, der über die Weide ging, sie trotz der Verbote seines Vaters zur Frau zu nehmen. Zu den Freiersgängen ging er über eine Stelle, die "
+       },
+       {
+        "type": "text",
+        "text": "Jezero",
+        "italic": true
+       },
+       {
+        "type": "link",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/povesti%20k%20%C4%8Dlanku%20%C5%A0im%C3%BAnky%20(%C5%A0irok%C3%A1)....docx#_ftn2",
+        "children": [
+         {
+          "type": "text",
+          "text": "[2]"
+         }
+        ],
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": " hieß. Es war ein Ort, an dem schon manches Stück Vieh ertrunken war. Er wusste diesem gefährlichen Ort auszuweichen. Als die Zeit der Brautwerbung kam, forderte der Bursche die Hochzeitswerber auf, gemeinsam nach Gaškov zu ziehen und um die Braut zu bitten. Um Mitternacht mussten sich die Braut und der Bräutigam nach Mestečko aufmachen. Sie gingen in Richtung "
+       },
+       {
+        "type": "text",
+        "text": "Jezero",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ", doch der wilde Fuhrmann trieb die Pferde voran, als hätte er die Gefahr unterschätzt. Die unbekümmerten Hochzeitsgäste sangen, die Musik spielte, und das Gespann jagte geradewegs in den Morast des"
+       },
+       {
+        "type": "text",
+        "text": " Jezero",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". An seinem Rand verwandelte sich der Fuhrmann in den Teufel, in jenen Landstreicher, der dem Burschen einst den Plan eingeflüstert hatte. Der Wagen fand sich im Schlamm. In diesem Augenblick krähte der Hahn, den die Brautführerin als Geschenk in den Hof des Schwiegersohns trug. Alle ertranken im"
+       },
+       {
+        "type": "text",
+        "text": " Jezero",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": ". In der Johannisnacht soll an der Stelle der Gesang der Hochzeitsgäste, der Klang der Musikinstrumente und das Krähen des Hahns zu hören sein. Anmerkung: nach der Erzählung von Katarína Václavíková (Mišún 2006)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sage von den Zámčiská:",
+        "bold": true,
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter dem Berg Stráža soll eine alte Kirche – ein „koscel“ – gestanden haben. Diesen Ort nannten die Einwohner von Zbora Koscel und die von Mestečko Zámčiská. In den Zámčiská spukte es, niemand wagte sich dort bei Nacht hin. Ein kühner Mensch soll einmal in den Zámčiská bis Mitternacht ausgeharrt haben. Als der Nachtwächter in Zbora die zwölfte Stunde blies, packte ihn die Furcht. Dann bewegte sich unter ihm die Erde, und nicht weit davon knackte etwas im Hang. Aus dem Spalt, zwischen den Wurzeln der Buchen, zeigte sich der Schatten eines Mannes, und der sagte zu ihm: „komm nie mehr hierher“. Dies ist ein Ort, der nicht entweiht werden darf. Wer von den gewöhnlichen Menschen hierher käme, kann ein ungeheures Unglück verursachen. Anmerkung: nach der Erzählung von Ondrej Ševela (Mišún 2006)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Fazit:",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An die Fundstelle Hradište sind zwei Sagen gebunden, in denen übernatürliche Kräfte vorkommen. Es tritt hier das Motiv des Teufels auf; rein theoretisch könnte es sich um eine Dämonisierung dieses Ortes handeln, ebenso wie im Fall der nahen Lage Jezero. Im angrenzenden Teil Mährens, im Gebiet von Vsetín, wurde diese Problematik eingehend bearbeitet, auf der Grundlage archäologischer Fundstellen aus dem Frühmittelalter in Verbindung mit der mündlichen Überlieferung der Region (Hlavica 2009)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Fußnoten",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

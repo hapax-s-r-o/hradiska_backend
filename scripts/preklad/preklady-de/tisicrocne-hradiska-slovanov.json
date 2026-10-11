@@ -1,0 +1,394 @@
+{
+ "slug": "tisicrocne-hradiska-slovanov",
+ "data": {
+  "title": "Tausendjährige Burgwälle der Slawen – vom 7. bis zum 13. Jahrhundert",
+  "slug": "tausendjaehrige-burgwaelle-der-slawen",
+  "excerpt": "Slawische Stämme legten ihre befestigten Sitze am liebsten auf Anhöhen an, wo unzugängliches Gelände natürlichen Schutz bot; im flachen Land nutzten sie Wasserläufe, Sümpfe und Seen. Der Beitrag verfolgt die Burgwälle von der Erwähnung Vogastisburgs in der Chronik des Fredegar über Pobedim, Nitra, Bratislava und Devín bis zur Wende zur steinernen Burgenarchitektur im 13. Jahrhundert.",
+  "metaTitle": "Tausendjährige Burgwälle der Slawen (7.–13. Jahrhundert)",
+  "metaDescription": "Wie slawische Stämme ihre befestigten Sitze anlegten: Anhöhen, Flüsse und Sümpfe als natürlicher Schutz, von Vogastisburg bis zu den Steinburgen.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Tatiana Štefanovičová",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Chronologische Entwicklung der slawischen Burgwälle in der Slowakei vom 7. bis zum 13. Jahrhundert",
+    "icon": "scroll"
+   },
+   {
+    "label": "Schlüsselquelle",
+    "value": "Die Chronik des Fredegar – Erwähnung von Vogastisburg und des Reiches des Samo (623)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Zentren Großmährens",
+    "value": "Nitra, Burg von Bratislava, Devín",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "623",
+    "title": "Aufstand gegen die Awaren",
+    "type": "event",
+    "description": "Die Chronik des Fredegar verzeichnet den Aufstand der Slawen gegen die Awaren; an die Spitze der Slawen stellte sich der fränkische Kaufmann Samo – so entstand das Reich des Samo, und erwähnt wird die siegreiche Schlacht bei Vogastisburg."
+   },
+   {
+    "year": "Ende des 8. Jahrhunderts",
+    "title": "Der Burgwall in Mužla-Čenkov",
+    "type": "event",
+    "description": "Im letzten Jahrzehnt des 8. Jahrhunderts, kurz nach dem Untergang des Awarenreiches, entstand am Ufer der Donau bei Štúrovo ein neuer Burgwall."
+   },
+   {
+    "year": "um 815–817",
+    "title": "Der Bayerische Geograph",
+    "type": "event",
+    "description": "Eine anonyme, aus strategischen Gründen für die Bedürfnisse des Frankenreiches angefertigte Beschreibung der slawischen Länder und ihrer Burgen bestätigt, dass befestigte Sitze für die slawischen Stämme charakteristisch waren."
+   },
+   {
+    "year": "Wende vom 8. zum 9. Jahrhundert",
+    "title": "Pobedim und weitere Niederungsburgen",
+    "type": "event",
+    "description": "Es entsteht der gut untersuchte Burgwall Pobedim bei Piešťany sowie der Burgwall Nitra – Martinský vrch am Nordrand des ehemaligen Awarenreiches."
+   },
+   {
+    "year": "1. Hälfte des 9. Jahrhunderts",
+    "title": "Vereinigung der Fürstentümer",
+    "type": "event",
+    "description": "Das mährische und das Neutraer Fürstentum werden zu einem später Großmähren genannten Ganzen vereinigt, begleitet von der Entstehung zentraler Burgwälle."
+   },
+   {
+    "year": "10. Jahrhundert",
+    "title": "Das Zeugnis des Gardīzī",
+    "type": "event",
+    "description": "Eine arabische Quelle beschreibt den Burgenbau bei den Slawen als gesetzmäßige Reaktion auf die altungarischen Überfälle."
+   },
+   {
+    "year": "Ende des 9. – Anfang des 10. Jh.",
+    "title": "Die Slowakische Pforte",
+    "type": "event",
+    "description": "Zu beiden Seiten der Engstelle der Gran (von Starý Tekov bis Hronský Beňadik) entsteht oder wird erneuert ein System von Burgwällen als Schutz vor den vordringenden altungarischen Stämmen."
+   },
+   {
+    "year": "1245",
+    "title": "Steinerne Burgenarchitektur",
+    "type": "event",
+    "description": "Auf der Burg von Bratislava entsteht ein steinerner Wohnturm – der Beginn der Umwandlung der Holz-Erde-Burgwälle in gemauerte Steinfestungen."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3935,
+    "alt": "Hölzernes Tor mit Türmen in einem Freilichtmuseum, davor zwei Menschen in historischen Gewändern"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Beim Bau befestigter Sitze nutzten die slawischen Stämme im ganzen weiten Gebiet ihrer Besiedlung am häufigsten erhöhte Stellen, wo ihnen unzugängliches Gelände natürlichen Schutz bot. Im flachen Land nutzten sie als natürlichen Schutz Wasserläufe oder eine sumpfige und von Seen geprägte Umgebung. Den Schutz, den ihnen die Natur bot, verstärkten sie noch durch den Bau von Befestigungen, die oft sehr sinnreiche Konstruktionen hatten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Befestigten Sitzen – Burgwällen, die aus funktioneller Sicht Vorgänger der späteren mittelalterlichen Burgen waren – begegnen wir im ganzen Gebiet der slawischen Besiedlung. Bei den Ost- und Westslawen ist diese Siedlungsform sehr ausgeprägt, weshalb die Zeit, in der sich die slawischen Stämme herauskristallisierten, auch Burgwallzeit genannt wird. Bei den Südslawen begegnen wir ebenfalls slawischen befestigten Siedlungen, dort ist ihr Vorkommen jedoch nicht so ausgeprägt, denn sie knüpfen oft an Befestigungen der antiken Zivilisation an, welche die Slawen bei ihrem Vordringen auf den Balkan vielfach erobert und dann für sich genutzt haben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Tausendjährige Burgwälle der Slawen",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Aufstand gegen die Awaren"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Über die Gewohnheit der Slawen, sich Burgen zu bauen, unterrichten uns auch Schriftquellen. Zu den ältesten Erwähnungen gehört die Aufzeichnung in der Chronik des Fredegar. Sie stammt von einem unbekannten Annalisten, der am Hof des fränkisch-merowingischen Herrschers Dagobert lebte. Dieser hielt die Ereignisse fest, die mit dem Aufstand der Slawen gegen die Awaren im Jahr 623 zusammenhingen, als sich der fränkische Kaufmann Samo an die Spitze der Slawen stellte und so die Voraussetzungen für die Entstehung des Reiches des Samo geschaffen wurden. Für die Zeit der Kämpfe der Slawen Samos gegen den Franken Dagobert führt der Chronist an, dass es an einem Ort namens Vogastisburg zu einem schwerwiegenden, für die Slawen erfolgreichen militärischen Zusammenstoß kam. Wir wissen zwar nicht genau, wo dieser Ort lag – in der Fachliteratur werden bis zu fünf Möglichkeiten genannt –, er lag jedoch im Gebiet des Reiches des Samo, das sich irgendwo nördlich der mittleren Donau erstreckte. Nach der Endung -burg im Namen können wir annehmen, dass es sich um eine Burg handelte. Das bedeutet, dass slawische Burgen – Burgwälle – oberhalb der mittleren Donau bereits im 7. Jahrhundert entstanden, was in letzter Zeit auch die archäologische Forschung, vor allem in Böhmen, bestätigt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Darüber, dass der Burgenbau im 9. Jahrhundert üblich war, unterrichtet uns eine andere Quelle, der sogenannte Bayerische Geograph. Es ist eine anonyme Beschreibung der Länder und Burgen auf der Nordseite der Donau, die aus strategischen Gründen für die Bedürfnisse des Frankenreiches etwa in den Jahren 815–817 angefertigt wurde. Sie beschreibt die slawischen Stämme und ihre Burgen im Gebiet des heutigen Deutschland, Polen, Böhmen, Mähren und der Slowakei, aber auch bei den Süd- und teilweise bei den Ostslawen. Angeführt wird darin z. B., dass „… in Böhmen 15 Burgen sind, die Mährer haben 11 Burgen“, und in einer späteren Abschrift werden bei den Mährern sogar 30 Burgen genannt, „… das Land der Bulgaren ist weitläufig und hat zahlreiches Volk und 5 Burgen …“ usw. Es ist nicht ausgeschlossen, dass die Angaben mit zunehmender Entfernung des Informanten von dem betreffenden Land ungenauer sein können; sicher ist jedoch, dass befestigte Sitze für die slawischen Stämme charakteristisch waren und ein gewisses Macht- und Militärpotenzial darstellten. Ganz deutlich zeigt sich das in einer arabischen Quelle des 10. Jahrhunderts (Gardīzī), die anführt, der Burgenbau sei bei den Slawen Gesetz: „Aus allen Gegenden kommen mehrere zusammen und bauen Burgen, denn die Ungarn fallen oft bei ihnen ein und überfallen sie. Die Ungarn besiegen sie in der Schlacht, und die Slawen flüchten in die Burgen, die sie erbaut haben.“ Die genannte Quelle beschreibt die konkrete Lage nach der Ankunft der Altungarn in Mittelosteuropa. Der Burgenbau in der vorangehenden Zeit hatte jedoch wahrscheinlich verwandte Gründe, sei es der Schutz vor dem Feind von außen oder auch die gegenseitigen Kämpfe der einzelnen slawischen Stämme untereinander."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Slowakei sind die ältesten befestigten Sitze durch archäologische Ausgrabungen bisher für die Zeit des Endes des 8. und des Anfangs des 9. Jahrhunderts belegt. Es scheint, dass es am Ende des 8. und Anfang des 9. Jahrhunderts im Gebiet der heutigen Slowakei zu einem gewissen Kristallisationsprozess der einzelnen Stämme und zu Bestrebungen ihrer Vereinigung kam, was sich auch im Bau befestigter Sitze niederschlug, auf denen sich die Fürstengefolgschaften niederließen. Zu den gut untersuchten Burgwällen von der Wende vom 8. zum 9. Jahrhundert gehört Pobedim bei Piešťany, der sich durch seine Lage in der Waagaue zu den Niederungsburgen stellt. Bei seinem Bau nutzten die damaligen Bewohner eine leichte Anhöhe zwischen den Läufen des Dudváh und des Baches Dubová, und so entstand ein Burgwall mit befestigter Vorburg, der nach der Feststellung der Forscherin Darina Bialeková in einigen Teilen der Befestigung eine besondere Konstruktion hatte. Sie bestand aus Kammern mit Wänden aus Flechtwerk, die mit Lehm gefüllt und gebrannt wurden, wodurch eine Art Brandlehm entstand. Die Kammer mit den ziegelartigen Wänden war dann mit Erde ausgefüllt. In einigen Teilen der Befestigung bildete eine Steinmauer die Vorderwand der Wehrmauer. Das Leben auf dem Burgwall endete irgendwann in der ersten Hälfte des 9. Jahrhunderts, denn in die offenbar bereits nicht mehr funktionsfähige Befestigung wurden in der zweiten Hälfte des 9. Jahrhunderts Gräber eingetieft. Trotz des Untergangs des Burgwalls bestanden die umliegenden unbefestigten Siedlungen während des ganzen 9. Jahrhunderts fort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Vereinigung der Fürstentümer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den bedeutenden Burgwällen dieser Zeit gehörte Nitra (Neutra) – Martinský vrch am Nordrand des Awarenreiches. Etwas weiter südlich, am Rand des heutigen Nitra, lag nämlich im 8. Jahrhundert ein awarisches Gräberfeld. Die Ergebnisse der Ausgrabung des Burgwalls sind nur aus bruchstückhaften Informationen bekannt, es lässt sich jedoch annehmen, dass er zu den bedeutenden Burgwällen gehörte, auf denen das Leben auch nach dem Untergang des Awarenreiches und in der Zeit der Formierung Großmährens weiterging. Davon zeugt der Fund einer einschiffigen Kirche auf seiner Kuppe. Die slawische Besiedlung im nördlichen Randgebiet des Awarenreiches muss intensiv und lebensfähig gewesen sein, denn kurz nach dessen Untergang entstand im letzten Jahrzehnt des 8. Jahrhunderts nicht weit von Štúrovo, in einer vorher von Awaren besiedelten Umgebung, ein Burgwall am Ufer der Donau in Mužla-Čenkov. Ein weiterer Burgwall lag, wie die meist von privaten Sammlern stammenden Funde bezeugen, wahrscheinlich am Anfang des 9. Jahrhunderts in Smolenice. Er wurde bisher nicht untersucht, deshalb kennen wir seinen Charakter nicht näher."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im nördlichen und östlichen Teil der Slowakei entstanden ebenfalls bereits am Anfang des 9. Jahrhunderts Burgwälle als Sitze von Adligen. In der Arwa war es der Burgwall auf der Ostrá Skala bei Vyšný Kubín, in der Zips einer in der Gemarkung von Čingov. Auch ihr Schicksal war nicht gleich. Auf der Ostrá Skala ging das Leben während des ganzen 9. Jahrhunderts weiter, der Burgwall in Čingov ging um die Mitte des 9. Jahrhunderts unter, und an seiner Stelle errichteten die Bewohner nicht weit davon, in der Gemarkung von Spišské Tomášovce, einen neuen Burgwall. Eine ähnliche Entwicklung spielte sich auch bei Piešťany ab, wo nach dem Untergang des Burgwalls in Pobedim auf der anderen Seite der Waag, auf einer älteren urgeschichtlichen befestigten Höhensiedlung, in der Lage Kostelisko oberhalb der Gemeinde Ducové ein befestigter Sitz mit einer kleinen Kirche – einer Rotunde – und einem Herrenhof entstand. Er war sicher der Sitz eines Adligen und übernahm deshalb im mittleren Waagtal die führende Rolle."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der ersten Hälfte des 9. Jahrhunderts kam es zu einem Vereinigungsprozess der slawischen Stämme, der sich auf höherer Ebene vor allem in der Verbindung des mährischen und des Neutraer Fürstentums zu einem später Großmähren genannten Ganzen äußerte. Dieser Prozess spielte sich auch auf niedrigeren Ebenen ab, und sein Ausdruck ist die Entstehung bedeutenderer Burgwälle mit zentraler Funktion, die bestimmte größere Gebiete unter politischer und manchmal auch kirchlicher Verwaltung hatten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu den Zentren der verwaltungspolitischen wie auch der kirchlichen Macht gehörte unstreitig Nitra als bedeutendste Fundstelle der damaligen Entwicklung, ursprünglich Sitz des Fürsten Pribina, später weiterer Fürsten aus dem Geschlecht der Mojmiriden und zugleich Sitz der Kirchenorganisation. Seine Bedeutung unterstreicht das Vorkommen mehrerer Burgwälle auf dem engen Gebiet des heutigen Nitra. Außer dem schon erwähnten Burgwall auf dem Martinský vrch war es der Burgwall Na vŕšku, der mit einem mächtigen Wall aus Holz und Erde befestigt war und an dessen Stelle später die Kirche und das Kloster der Piaristen gebaut wurden. Eine bedeutende Rolle hatte auch der Burgwall an der Stelle der späteren Bischofsburg, wo sich wahrscheinlich bereits in der Zeit Großmährens das Bistum befand. Die Ansichten über diesen Burgwall waren hinsichtlich seiner großmährischen Geschichte lange skeptisch, weil von ihm keine entsprechenden zeitgleichen Funde stammten. Verursacht hat das jedoch die starke mittelalterliche und neuzeitliche Verbauung des ganzen Raumes und die Unmöglichkeit, dort eine Ausgrabung durchzuführen. Erst in den letzten Jahren, als man zur Ausgrabung schritt, kam zutage, dass die mittelalterliche Burg auf einem älteren slawischen Burgwall gegründet wurde, der wahrscheinlich zu den bedeutendsten in Nitra gehörte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiterer Burgwall mit zentraler politischer und kirchlicher Funktion war unstreitig die Burg von Bratislava (Pressburg), die mit einer mächtigen Holz-Erde-Mauer befestigt war und auf der Kuppe einen kleineren steinernen Palastbau sowie weiter östlich davon eine dreischiffige Steinkirche mit ausgemalten Wänden besaß, um die herum Gräber aus dem 9. Jahrhundert lagen. Beide Orte, Nitra und Bratislava, bewahrten ihre Bedeutung auch später, in der Zeit des entstehenden Königreichs Ungarn, als sie zu seinen Komitatsburgen wurden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Funktion von Devín"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu Zentren von Komitaten wurden auch einige Burgwälle aus dem 9. Jahrhundert. Die Ausgrabungen haben hier allerdings keine so ausgeprägte Funktion einer zentralen Verwaltung nachgewiesen. Es sind Starý Tekov und Zemplín. Durch einen Zufall lag auf ihrer Fläche ein späterer mittelalterlicher und neuzeitlicher Friedhof, der ihre Untersuchung unmöglich machte. Es ist deshalb nicht ausgeschlossen, dass sich auf ihnen noch bedeutende ältere Funde verbergen können. Eine zentrale Funktion konnten im 9. Jahrhundert auch Burgen haben, die später keine Komitatsburgen Ungarns werden mussten; so hatte z. B. im unteren Grantal gewiss Bíňa eine bedeutende Funktion. Ihre Befestigung ist zwar zeitlich erst in das 10.–11. Jahrhundert eingeordnet, aber die Gräber eines kleineren Gräberfeldes in ihrem zentralen Teil, nicht weit von der späteren romanischen Rotunde, stammen aus dem 9. Jahrhundert und reihen sich durch ihre reiche Ausstattung der führenden Schicht der damaligen Gesellschaft zu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nicht ganz eindeutig lässt sich die Funktion der Burg Devín (Theben) deuten, die zu den bekanntesten mit der Geschichte Großmährens in der Slowakei verbundenen Burgwällen gehört. Die durch archäologische Ausgrabung freigelegte Kirche mit Dreiblattschluss im niedriger gelegenen Kuppenteil des Burgwalls deutet auf den Sitz eines Adligen hin. Neben Bratislava jedoch wahrscheinlich nicht auf einen von zentraler Bedeutung. Sicher ist, dass das ganze Gebiet von Devín und Bratislava noch durch kleinere Wachburgwälle geschützt war. Am Fuß der Devínska Kobyla waren es zwei Burgwälle aus dem 9. Jahrhundert – Na pieskoch und Lom. Von der Ostseite konnte das Gebiet der Burgwall Nad Neštichom bei Svätý Jur (Sankt Georgen) schützen, der ursprünglich für jünger gehalten wurde, für das Ende des 9. und den Anfang des 10. Jahrhunderts. Neuere Funde belegen jedoch seine Existenz bereits an der Wende vom 8. zum 9. Jahrhundert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Furcht vor Überfällen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Für das 9. Jahrhundert ist der Burgenbau sehr bezeichnend. Durch Ausgrabungen sind auch einige Fundstellen in der Mittelslowakei gut erforscht. Zu den wichtigen befestigten Sitzen gehörte gewiss Vyšehrad zwischen dem Turzer Becken und dem Gebiet der oberen Neutra, der ebenfalls die Funktion einer Zentralburg für eines der genannten Gebiete haben konnte. Im Becken von Zvolen (Altsohl) war es der Burgwall Môťová bei Zvolen, bedeutend war aber auch der Burgwall in der Gemarkung der Gemeinde Detva. In der Ostslowakei gehörten außer Zemplín vor allem Šarišské Sokolovce zu den bedeutenden Burgwällen, deren Entwicklung noch weiter in das 11. Jahrhundert reicht und die durch ihre Fläche zu den weitläufigen Befestigungen gehören. Im Gebiet der Zips gab es außer den bereits erwähnten Burgwällen in Čingov und Spišské Tomášovce auch einen Burgwall auf dem Berg Dreveník, an dessen Ostende später die Zipser Burg gebaut wurde. Der Burgwall lag am entgegengesetzten Ende, oberhalb von Spišské Vlachy, und würde die Aufmerksamkeit der Forschung verdienen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Ende des 9. und Anfang des 10. Jahrhunderts wurden Burgwälle als Schutz gegen die vordringenden altungarischen Stämme angelegt oder neu befestigt. Dazu gehört das System von Burgwällen in der sogenannten Slowakischen Pforte, zu beiden Seiten der Engstelle der Gran, von Starý Tekov im Süden bis nach Hronský sv. Beňadik mit dem Burgwall auf dem Felsen Beňadická skala im Norden. Zwischen ihnen liegen drei weitere Burgwälle, die gemeinsam vor einem Durchbruch durch die Engstelle der Gran nach Norden schützten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Charakter der befestigten Siedlungen – der Burgwälle – blieb auch in der folgenden Zeit unverändert. Die Burgwälle hatten eine erhebliche Fläche, die in einen Hauptteil – die Hauptburg – und in Suburbien gegliedert war, die sich ihr meist ringförmig anschlossen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Noch im 12. Jahrhundert bildeten die Befestigung meist ausgebesserte oder auch neue Mauern in Holz-Erde-Konstruktion mit einer gegebenenfalls vorgelegten steinernen Front. Zu einer ausgeprägten Veränderung kam es erst am Ende des 12. Jahrhunderts und in der ersten Hälfte des 13. Jahrhunderts, als unter dem Einfluss der westlichen Burgenarchitektur auch im Gebiet der heutigen Slowakei die steinerne Architektur entsteht. Anfangs hatte sie vor allem die Form steinerner Wohntürme, wie sie 1245 auf der Burg von Bratislava oder, vielleicht etwas früher, in Trenčín (Trentschin) sowie auf der Zipser Burg und weiteren entstanden. Später kamen steinerne Palastbauten hinzu und dann auch gemauerte Befestigungen, und die Burgen erhielten das Aussehen steinerner Festungen, wie wir sie heute kennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

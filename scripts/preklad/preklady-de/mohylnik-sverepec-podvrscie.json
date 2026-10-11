@@ -1,0 +1,119 @@
+{
+ "slug": "mohylnik-sverepec-podvrscie",
+ "data": {
+  "title": "Sverepec – Podvrščie: ein kleines slawisches Hügelgräberfeld",
+  "slug": "sverepec-podvrscie-huegelgraeberfeld",
+  "excerpt": "Am 7. November 2015 legte unser Bürgerverein Hradiská mit Enthusiasten aus Sverepec das kleine slawische Hügelgräberfeld Podvrščie in der Gemarkung von Sverepec frei. In den Grabhügeln waren slawische Krieger des 9.–10. Jahrhunderts bestattet. Zum Vorschein kamen auch eine ungewöhnliche Grube und ein Felsblock, die stark an einen Opferplatz denken lassen. Es ist das erste slawische Hügelgräberfeld in der Slowakei, das auf diese Weise bezeichnet und zugänglich gemacht wird.",
+  "metaTitle": "Sverepec – Podvrščie: slawisches Hügelgräberfeld",
+  "metaDescription": "Das kleine slawische Hügelgräberfeld Podvrščie bei Sverepec mit Gräbern von Kriegern des 9.–10. Jahrhunderts, 2015 vom Verein Hradiská freigelegt.",
+  "keyFacts": [
+   {
+    "label": "Typ",
+    "value": "Kleines slawisches Hügelgräberfeld (Podvrščie, Gemarkung Sverepec)",
+    "icon": "star"
+   },
+   {
+    "label": "Bestattete",
+    "value": "Slawische Krieger des 9.–10. Jahrhunderts",
+    "icon": "star"
+   },
+   {
+    "label": "Aktion",
+    "value": "Freigelegt und zugänglich gemacht vom Verein Hradiská (2015)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9.–10. Jahrhundert",
+    "title": "Bestattung unter Grabhügeln",
+    "description": "Vorchristlicher Ritus; bestattet wurden Krieger.",
+    "type": "event"
+   },
+   {
+    "year": "2015",
+    "title": "Freilegung und Zugänglichmachung",
+    "description": "Der Verein Hradiská und Enthusiasten aus Sverepec.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5553,
+    "caption": "Plan des Hügelgräberfeldes von A. Petrovský-Šichman",
+    "alt": "Plan des Hügelgräberfeldes von A. Petrovský-Šichman"
+   },
+   {
+    "mediaId": 5554,
+    "caption": "So sah es kurz vor unserer Ankunft aus.",
+    "alt": "So sah es kurz vor unserer Ankunft aus."
+   },
+   {
+    "mediaId": 5555,
+    "caption": "Und nun an die Arbeit.",
+    "alt": "Und nun an die Arbeit."
+   },
+   {
+    "mediaId": 5560,
+    "caption": "Blick auf die bereits freigelegten Grabhügel",
+    "alt": "Blick auf die bereits freigelegten Grabhügel"
+   },
+   {
+    "mediaId": 5562,
+    "caption": "Die Grube mit dem Felsblock",
+    "alt": "Die Grube mit dem Felsblock"
+   },
+   {
+    "mediaId": 5564,
+    "caption": "Der große Haufen aus Strauchwerk und Holz muss noch verarbeitet werden.",
+    "alt": "Der große Haufen aus Strauchwerk und Holz muss noch verarbeitet werden."
+   },
+   {
+    "mediaId": 5566,
+    "caption": "Service der Motorsägen",
+    "alt": "Service der Motorsägen"
+   },
+   {
+    "mediaId": 5567,
+    "caption": "Markierte Grabhügel",
+    "alt": "Markierte Grabhügel"
+   },
+   {
+    "mediaId": 5568,
+    "caption": "Diese Bande hat das alles angerichtet :-)",
+    "alt": "Diese Bande hat das alles angerichtet :-)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Samstag, dem 7. 11. 2015, hat unser Bürgerverein Hradiská zusammen mit Enthusiasten aus Sverepec (Ján Hôrkový, Mgr. Juraj Kalo und Michal Richtárik) das kleine slawische Hügelgräberfeld Podvrščie freigelegt, das in der Gemarkung von Sverepec liegt. In den Grabhügeln waren slawische Krieger des 9.–10. Jahrhunderts bestattet. Die Bestattung unter Hügeln war in vorchristlicher Zeit üblich. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das gesamte Hügelgräberfeld war von einem buchstäblich undurchdringlichen Dschungel aus Dornen und Heckenrosengebüsch überwachsen, weshalb es praktisch unzugänglich war. Das Ergebnis unserer ganztägigen Arbeit ist ein freigelegtes Hügelgräberfeld samt der ungewöhnlichen Grube und dem Felsblock, die schon A. Petrovský-Šichman beschreibt und die stark an einen Opferplatz denken lassen. Das Hügelgräberfeld, das nur wenige Minuten Fußweg vom Dorf entfernt liegt, haben wir damit der Öffentlichkeit zugänglich gemacht, und zu Beginn des nächsten Jahres planen wir dort in Zusammenarbeit mit der Gemeinde Sverepec eine Informationstafel aufzustellen. Es wird das erste slawische Hügelgräberfeld in der Slowakei sein, das auf diese Weise bezeichnet und zugänglich gemacht wird. Unser Dank gilt allen aus unserem Verein, die an der Aktion teilgenommen haben, sowie den Jungs aus Sverepec, die uns sehr geholfen haben. Wir danken auch der Grundstükseigentümerin, Frau Eva Martišíková aus Sverepec, dass sie die Zustimmung zur Freilegung gegeben hat. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

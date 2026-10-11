@@ -1,0 +1,109 @@
+{
+ "slug": "socha-a-tabula-na-orgonovej-kycere",
+ "data": {
+  "slug": "statue-und-informationstafel-orgonova-kycera",
+  "title": "Eine Statue des alten Orgoň und eine Informationstafel auf der Orgoňova Kýčera",
+  "excerpt": "Am Samstag, dem 1. 9. 2018, nahm unser Verein an der feierlichen Enthüllung einer Holzstatue des alten Orgoň auf der Orgoňova Kýčera teil, einem der höchsten Berge der Javorníky an der Grenze zwischen Dolná und Horná Mariková. Mit dem Berg verbindet sich die Sage vom letzten heidnischen Priester in den Javorníky. Die 3 Meter hohe Statue schuf der Holzschnitzer Vladimír Ragula; die Informationstafel mit der Sage in der Bearbeitung von Štefan Meliš und Stanislav Muntág stellte unser Verein her.",
+  "metaTitle": "Statue und Informationstafel auf der Orgoňova Kýčera",
+  "metaDescription": "Am 1. 9. 2018 wurde auf der Orgoňova Kýčera eine 3 Meter hohe Statue des alten Orgoň enthüllt und eine Informationstafel mit seiner Sage aufgestellt.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Enthüllung der 3 Meter hohen Statue des alten Orgoň + Informationstafel",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "1. 9. 2018 (Orgoňova Kýčera, Javorníky)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2018",
+    "title": "Statue und Tafel Orgoňova Kýčera",
+    "type": "event",
+    "description": "Holzschnitzer V. Ragula; Sage vom letzten heidnischen Priester (Meliš, Muntág)."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5519,
+    "alt": "Holzstatue eines bärtigen Mannes mit Mantel und Stab im Wald, auf dem Sockel die Inschrift Orgoň"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Statue und Informationstafel auf der Orgoňova Kýčera",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Samstag, dem 1. 9. 2018, nahm unser Verein an einer Veranstaltung teil — an der feierlichen Enthüllung einer Holzstatue des alten Orgoň auf der Orgoňova Kýčera — einem der höchsten Berge im Gebirge Javorníky. Sie liegt an der Grenze zwischen Dolná und Horná Mariková, und mit ihr verbindet sich eine schöne Sage vom geheimnisvollen Orgoň — dem letzten heidnischen Priester in den Javorníky, der sich im Mittelalter bis zu seinem rätselhaften Ende weigerte, die neue Religion, das Christentum, anzunehmen, und den alten heidnischen Göttern treu blieb. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Autor der Statue ist der begabte Holzschnitzer Vladimír Ragula aus Hatné. Die ganze Veranstaltung organisierte der Bürgermeister von Horná Mariková, Herr Miroslav Hamár. Außer der Enthüllung der 3 Meter hohen Statue wurde auf der Kýčera auch eine neue Informationstafel aufgestellt, die die Sage vom alten Orgoň in der Bearbeitung von Štefan Meliš und Stanislav Muntág enthält. Die Tafel schuf unser Bürgerverein Hradiská. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Veranstaltung auf der Kýčera selbst war hervorragend organisiert, wofür dem Herrn Bürgermeister von Horná Mariková Dank gebührt. Gezapftes kühles Bier und ein ausgezeichneter Jägergulasch verschönerten die ganze Veranstaltung für die Menschen, die sich hier in wirklich großer Zahl eingefunden hatten. Es bleibt nur, dem alten Orgoň die Daumen zu drücken, dass er die Kýčera in den nächsten Jahrzehnten bewacht und dass er nicht den Kräften der Natur und auch nicht bösen menschlichen Kräften zum Opfer fällt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

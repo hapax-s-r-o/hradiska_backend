@@ -1,0 +1,272 @@
+{
+ "slug": "kamenec-pod-vtacnikom-bystricany-povesti",
+ "data": {
+  "title": "Kamenec pod Vtáčnikom / Bystričany – Der steinerne Herr",
+  "slug": "kamenec-bystricany-sage-steinerner-herr",
+  "excerpt": "Mit Zustimmung der Autorin Mária Mjartanová-Oršulová und in Absprache mit PhDr. Iveta Géczyová, der Direktorin des Hornonitrianske-Museums in Prievidza, bringen wir Ihnen die erste Sage, die sich an die Höhensiedlung Kamenec pod Vtáčnikom/Bystričany bindet: Der hochmütige Burgherr verlangt ein Dorfmädchen zur Burgherrin, doch dieses stellt ihm auf den Rat einer alten Großmutter die Bedingung der Vogelmilch – und als er sie nicht erfüllen kann, zerfällt die Burg und er wird zu Stein.",
+  "metaTitle": "Kamenec pod Vtáčnikom – die Sage vom steinernen Herrn",
+  "metaDescription": "Die Sage vom steinernen Herrn, die sich an die Höhensiedlung Kamenec pod Vtáčnikom/Bystričany bindet – aus dem Buch über die Gemeinde Bystričany.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Mária Mjartanová-Oršulová",
+    "icon": "book"
+   },
+   {
+    "label": "Lage",
+    "value": "Hrádok pod Vtáčnikom, Gemeinde Bystričany",
+    "icon": "map"
+   },
+   {
+    "label": "Motiv",
+    "value": "Der hochmütige Burgherr wird nach der nicht erfüllten Bedingung der „Vogelmilch“ in einen Steinblock verwandelt",
+    "icon": "star"
+   },
+   {
+    "label": "Quelle",
+    "value": "I. Géczyová u. a.: Bystričany – dianie v obci od prvopočiatkov, 2010",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "in der Vergangenheit",
+    "title": "Die Burg auf dem Hrádok",
+    "description": "An der höchsten und schwer zugänglichen Stelle über Bystričany stand eine Burg, deren Herr für seinen hochmütigen und gottlosen Charakter bekannt war.",
+    "type": "event"
+   },
+   {
+    "year": "die Begegnung mit der Maid",
+    "title": "Die Bedingung der Vogelmilch",
+    "description": "Der Burgherr verlangte ein Dorfmädchen zur Burgherrin; auf den Rat der alten Großmutter Drozdíčka stellte sie ihm die Bedingung, sie komme nur dann, wenn er ihr zur Begrüßung Vogelmilch reiche.",
+    "type": "event"
+   },
+   {
+    "year": "Mitternacht",
+    "title": "Die Verwandlung in Stein",
+    "description": "Als der Herr die Bedingung nicht erfüllen konnte, verfluchte er um Mitternacht den Himmel, die Burg zerfiel und er verwandelte sich in einen Steinblock in Gestalt eines menschlichen Kopfes.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4120,
+    "alt": "Eine Schwarzweißfotografie eines Felsturms über einem bewaldeten Hang"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung der Autorin Mária Mjartanová-Oršulová und in Absprache mit PhDr. Iveta Géczyová, der Direktorin des Hornonitrianske-Museums in Prievidza, bringen wir Ihnen die erste Sage, die sich an die befestigte Höhensiedlung "
+       },
+       {
+        "type": "link",
+        "url": "/blog/kamenec-pod-vtacnikom-bystricany",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kamenec pod Vtáčnikom/Bystričany"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bindet. Für die Zusammenarbeit und das Entgegenkommen danke ich beiden. Die Sage erschien in dem Buch Bystričany – dianie v obci od prvopočiatkov. Die zweite Sage von dieser Fundstelle finden Sie im Artikel Vom alten Krištof."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In diesem Zusammenhang weise ich auf ein Thema hin, das nicht wenige Interessenten für Geschichte, Wandern oder Klettern in der Umgebung des Hrádok bedrückt. "
+       },
+       {
+        "type": "link",
+        "url": "http://www.outdoorfilmy.sk/clanok/328/lezecka-oblast-hradok-nenechajme-ju-znicit",
+        "children": [
+         {
+          "type": "text",
+          "text": "Ein Bergbauunternehmen beabsichtigt dort, Andesit abzubauen, wobei die Gefahr droht, dass der Abbau auch die Fundstelle Hrádok selbst beschädigt."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der steinerne Herr"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am westlichen Fuß des Vtáčnik-Gebirges liegt die malerische Gemeinde Bystričany. Ihren Namen erhielt sie wahrscheinlich von dem Bach Bystrá, der durch das ganze Dorf fließt und ihm so den Charakter eines Bachdorfes verleiht. Unterhalb der Flur Rovne erhebt sich ein Berg namens Hrádok, auf dem in der Vergangenheit an der höchsten und schwer zugänglichen Stelle eine Burg stand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und was wäre das für eine Burg, wenn sie keinen Herrn hätte? Freilich hatte sie einen, und zwar keinen gewöhnlichen. Unter dem gemeinen Volk erzählte man sich allerlei über ihn. Dass er ein Mensch von schiefem Charakter sei, ein Verschwender und ein Gottloser. Und noch etwas. Jene, die Tag und Nacht mit ihm schwelgten, behaupteten, er habe niemals die Liebe gekannt und aus seinen Augen sei niemals eine Träne gefallen. Doch trotz dieser Eigenschaften, die man ihm zuschrieb, war er bei den Leuten geachtet, und niemand erlaubte sich, ihm ein schiefes Wort zu sagen. Und der wäre freilich schlecht dabei weggekommen, denn der Herr spaßte mit niemandem und griff gleich zum Schwert."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Kamenec pod Vtáčnikom / Bystričany – Sagen",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er umgab sich mit lauter Reichtum, und wie viel Geld er auch für allerlei Vergnügungen vergeudete, sein Vermögen nahm nicht ab, im Gegenteil. Er war der reichste unter den Herren der Umgebung, sodass man sich auch erzählte, er sei womöglich mit dem Teufel selbst im Bunde und dieser verwandle ihm das Geld von Denaren in Goldgulden. „Mir fehlt auf dieser Welt schon nichts mehr“, sann er mehr als einmal. „Ich habe alles, was die Seele eines Menschen nur begehrt.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einmal, es war so um die Mitte des Sommers, als die Sonne schon gut brannte und auf dem Feld die Roggenähre golden aufglühte, verlangte es ihn, ins Tal hinabzusteigen. Wer hielte es denn in einer solchen Stunde in den dunklen Kammern der Burg aus? Er ließ sein bestes Pferd satteln und machte sich auf die Jagd. Er brauchte kein Gefolge. In solchen Stunden fühlte er sich allein am besten. Nur mit großer Mühe drang er durch den dichten Wald, der ihn ganz verschlang, als wäre er ins Wasser gesunken. Er gelangte auf die Wiesen namens Pitvory. Hier hielt er an, denn es schien ihm, er habe Gesang vernommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er sprang vom Pferd, hielt es dabei am Zaum und schritt in die Richtung, aus der der Gesang kam. Da erblickte er sie. Eine Maid. Sie war so ins Heuharken versunken, dass sie ihn erst bemerkte, als er ganz nahe war. Beim Anblick dieses zarten Geschöpfes schlug ihm das Herz heftig. Was ist das? In seiner Brust entsteht ein so seltsames, gemischtes Gefühl, wie er es bisher noch nie empfunden hat. „Wer bist du, schöne Maid?“, schmeichelte er ihr, „und wem gehörst du?“ „Von hier, aus dem Dorf. Und wer seid Ihr, Herr, dass Ihr so neugierig fragt?“ „Mutig“, dachte sich der Herr. „Und kennst du mich denn nicht? Ich bin der Herr jener Burg dort, und all dies in der Umgebung gehört mir. Also bist auch du mein. Habe ich nicht recht?“ Er nahm sie bei der Hand. Doch wie würdevoll er auch auszusehen versuchte, er weckte in ihr kein Vertrauen. Sie riss sich von ihm los. Er spürte, dass die Hand, die er in seiner gehalten hatte, ganz voller Schwielen war. „Willst du nicht mit mir auf die Burg kommen?“, fragte er einfach, denn er wusste, dass dieses untertänige Mädchen die gewählten Worte nicht kennt, mit denen man am Hof zu den Hofdamen spricht. „Auf die Burg, Herr? Und was sollte ich dort tun? Ich verstehe nichts von herrschaftlichen Manieren, mir kommt es zu, nur hier zu bleiben.“ „Und warum solltest du arbeiten? Meinst du, ohne Arbeit lasse sich nicht leben? Ich mache dich zur Burgherrin, willst du?“ „Ei, ich glaube Euren Reden nicht und … und ich muss mich bei meinen Eltern beraten.“ „Mir soll es also gleich sein, aber wisse, dass du mir nicht so leicht entkommst.“ „Ich finde dich, wo du dich auch verbirgst. Und dann …“, er sprach es nicht aus, saß auf und verschwand in schnellem Galopp."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im ersten Augenblick meinte die Maid, es sei nur ein böser Traum, doch das zertrampelte Gras erinnerte sie daran, dass es Wirklichkeit war, und sie blieb in Gedanken versunken sitzen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von jener Stunde an hörte sie auf zu singen, in ihre Seele zog die Dämmerung der Ungewissheit ein, sie wusste nicht, was sie tun sollte. „Ich gehe zur alten Großmutter Drozdíčka, die rät mir am besten.“ „Nun, so ist der Rat hier, mein Kind. Du wirst dich schwer vor ihm wehren können, du bist nur die Tochter eines Untertanen, und ein solcher Herr kann mit dir verfahren, wie er selbst will. Weißt du was, komm morgen nach Sonnenuntergang, bis dahin denke ich mir etwas aus.“ „Nun, Großmütterchen, wie steht es?“ Das waren ihre ersten Worte, als sie sich trafen. „Nun, nur eines sage ich dir: Stelle dem Herrn die Bedingung, dass du nur dann auf die Burg gehst, wenn er dir zur Begrüßung Vogelmilch reicht.“ „Vogelmilch?“ „Aber freilich … nun eben darum. Ich glaube nicht, dass ihm das gelingen würde.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So geschah es auch. Der Herr kam, und die Maid wartete schon auf ihn. Diesmal war sie schon kühner, denn der Rat der alten Großmutter gefiel ihr. „Vogelmilch, sagst du, nun gut, du sollst sie haben, dann aber mach dich bereit.“ Nach der Ankunft auf der Burg ließ er seine Ratgeber zusammenrufen, und diese schüttelten nur traurig die Köpfe. Noch mehr aber wunderten sie sich darüber, dass er die Bedingung eines einfachen Mädchens erfüllen wollte. „Euer Durchlaucht, wozu solltet Ihr die Bedingung erfüllen, es ist doch Eure Untertanin. Entführt sie mit Gewalt.“ „Ihr Tölpel, ihr ratet mir schlecht. Ich habe das Wort eines Edelmannes gegeben, und der muss sein Wort halten, und sollte er dabei auch fallen. Und ich halte mein Wort.“ Genau um Mitternacht trat er an die höchste Stelle der Burg und verfluchte mit mächtiger Stimme den Himmel, rief alle Geister zu Hilfe, und nach einer kleinen Weile unterbrach ein mächtiges Dröhnen seine Stimme, worauf die Burg zerfiel und er sich in einen Steinblock verwandelte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es gingen viele, viele Jahre dahin, und dieser Steinblock in Gestalt eines menschlichen Kopfes erinnerte die Menschen der nächsten Umgebung an dieses traurige Ereignis. Bis eines Tages die Steinbrecher kamen und den Kopf des „steinernen Herrn“ entfernten, weil er ihnen beim Brechen des Steins auf dem erwähnten Hrádok im Wege war, von dem es hier bis heute übergenug gibt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

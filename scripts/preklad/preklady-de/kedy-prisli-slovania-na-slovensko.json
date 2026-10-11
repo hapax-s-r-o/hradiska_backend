@@ -1,0 +1,257 @@
+{
+ "slug": "kedy-prisli-slovania-na-slovensko",
+ "data": {
+  "title": "Wann kamen die Slawen in die Slowakei?",
+  "slug": "wann-kamen-die-slawen-in-die-slowakei",
+  "excerpt": "Die Slawen waren längst nicht die ersten Bewohner des Gebietes der heutigen Slowakei: vor ihnen folgten hier Kelten, die Púchov-Kultur und die germanischen Quaden und Sueben aufeinander. Erst nach der Zerschlagung des Suebenreiches 469/470 begannen die Träger der Prager Kultur, die Sklavenen, über die Karpatenpässe einzudringen; abgeschlossen war die Besiedlung nach dem Abzug der Langobarden im Jahr 568. Die Slowaken gingen erst im Mittelalter und in der Neuzeit aus diesen Slawen hervor.",
+  "metaTitle": "Wann kamen die Slawen in die Slowakei?",
+  "metaDescription": "Wann und woher die Slawen in das Gebiet der heutigen Slowakei kamen: Träger der Prager Kultur drangen ab den 470er Jahren über die Karpatenpässe ein.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Ankunft der Slawen im Gebiet der heutigen Slowakei",
+    "icon": "star"
+   },
+   {
+    "label": "Herkunft",
+    "value": "Prager Kultur (Sklavenen) vom Nordosten der Karpaten",
+    "icon": "star"
+   },
+   {
+    "label": "Ankunft",
+    "value": "470er Jahre bis 1. Hälfte des 6. Jahrhunderts",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "5. Jh. v. Chr.",
+    "title": "Die Kelten",
+    "description": "Erste ethnisch bestimmbare Bevölkerung in der Slowakei.",
+    "type": "event"
+   },
+   {
+    "year": "3. Jh. v. Chr. – 2. Jh. n. Chr.",
+    "title": "Púchov-Kultur",
+    "description": "Kotiner; Vermischung der Kelten mit der Lausitzer Bevölkerung.",
+    "type": "event"
+   },
+   {
+    "year": "469/470",
+    "title": "Zerschlagung der Sueben",
+    "description": "Die Ostgoten überschritten die zugefrorene Donau und zerschlugen das Königreich der Sueben.",
+    "type": "event"
+   },
+   {
+    "year": "470er Jahre – 1. Hälfte 6. Jh.",
+    "title": "Ankunft der Sklavenen",
+    "description": "Eindringen über die Karpatenpässe (Verecke-Pass, Dukla-Pass).",
+    "type": "event"
+   },
+   {
+    "year": "568",
+    "title": "Abzug der Langobarden",
+    "description": "Aus der Südwestslowakei; Abschluss der Besiedlung durch die Slawen.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte 7. Jh.",
+    "title": "Awarenkhaganat",
+    "description": "Ein Teil des Gebietes gerät in dessen Machtsphäre.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 5922,
+    "caption": "Kartenskizze aus dem Artikel von G. Fusek (Historická revue 12/2016, S. 13)",
+    "alt": "Kartenskizze aus dem Artikel von G. Fusek (Historická revue 12/2016, S. 13)"
+   },
+   {
+    "mediaId": 5923,
+    "caption": "Typische Keramik des Prager Typs (Archäologisches Institut der Akademie der Wissenschaften der Tschechischen Republik)",
+    "alt": "Typische Keramik des Prager Typs (Archäologisches Institut der Akademie der Wissenschaften der Tschechischen Republik)"
+   },
+   {
+    "mediaId": 5924,
+    "caption": "Kartenskizze aus dem Artikel von D. Hulínek in der Historická revue 12/2016",
+    "alt": "Kartenskizze aus dem Artikel von D. Hulínek in der Historická revue 12/2016"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Slowakei wird heute als Mehrheitsvolk von den Slowaken bewohnt, die sich im Laufe des Mittelalters und der Neuzeit aus den hier lebenden Slawen herausgebildet haben. Unsere Vorfahren, die Slawen, waren jedoch längst nicht die ersten Bewohner des Gebietes der heutigen Slowakei. Schon in der Steinzeit lösten sich hier verschiedene Kulturen ab, die mit den Slawen in keinerlei Zusammenhang stehen. Ebenso kennen wir aus dem Gebiet der heutigen Slowakei auch für die Bronzezeit mehrere archäologische Kulturen (die Nitra-Kultur, die Aunjetitzer Kultur, die Otomani-Kultur, die Maďarovce-Kultur (Maďarovce war der ursprüngliche Name der Gemeinde Santovka, … erstmals fachlich beschrieben, und der Name der Kultur hat mit den Ungarn nichts zu tun, Anm. des Autors), die Velatice-Kultur, die Lausitzer Kultur und weitere), deren Ethnizität nicht bekannt ist; es gibt jedoch keine Belege, auf deren Grundlage wir eine dieser Kulturen mit den Slawen verbinden könnten. Ebenso kennen wir die Träger der Kulturen der älteren Eisenzeit nicht, die unsere Heimat bewohnten (z. B. die Kalenderberg-Kultur oder die Vekerzug-Kultur). \n \n "
+       },
+       {
+        "type": "link",
+        "url": "http://www.cittadella.cz/stehovani/realne.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "KARTE DER VÖLKERWANDERUNG HIER"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Kartenskizze aus dem Artikel von G. Fusek (Historická revue 12/2016, S. 13)",
+    "alt": "Kartenskizze aus dem Artikel von G. Fusek (Historická revue 12/2016, S. 13)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erstes Licht in das ethnische Bild des Gebietes der Slowakei brachten erst die Kelten, die wir im Gebiet der heutigen Slowakei irgendwann im 5. Jahrhundert v. Chr. zu verzeichnen beginnen, als sie einige Tieflandgebiete der Slowakei besetzen. In den nördlichen Teilen der Slowakei nehmen wir an, dass sich die Kelten später mit der ansässigen Bevölkerung der ausklingenden Lausitzer Kultur vermischten und hier die eigentümliche Púchov-Kultur schufen, die wir in der Slowakei etwa vom 3. Jahrhundert v. Chr. bis in das 2. Jahrhundert n. Chr. verzeichnen, also in den Jahrhunderten um die Zeitenwende. Natürlich können wir auch bei der keltischen bzw. Púchov-Bevölkerung (die bei uns mit dem Stamm der Kotiner gleichgesetzt wird) noch immer nicht von Slawen sprechen. Nach der Zeitenwende drangen in das Gebiet der heutigen Slowakei die germanischen Stämme der Quaden ein, die die Púchov-Kultur stark dezimierten (später aber zu ihrem Bestandteil wurden). Gleichzeitig verzeichnen wir in der Südslowakei römische Militärbefestigungen, und mindestens ein Teil der Südslowakei gerät unter den Einfluss des Römischen Reiches.\n \n Im 2. Jahrhundert n. Chr. kommen aus dem Elbgebiet neue Ströme von Germanen, die die Römer zwangen, das Gebiet der heutigen Slowakei teilweise zu räumen. In den folgenden Jahrhunderten besteht bei uns die germanische Besiedlung weiter, die erst im 5. Jahrhundert endet. Der Vormarsch hunnischer Kriegerscharen aus dem Osten im letzten Viertel des 4. Jahrhunderts bedeutete den Beginn jener Epoche, die als Völkerwanderungszeit bezeichnet wird und das 5. sowie die erste Hälfte des 6. Jahrhunderts ausfüllt. Die Hunnen erzeugten Druck auf die übrigen Stämme, die westlich von ihnen saßen. In erster Linie drängten sie die germanischen Goten, unter deren Druck sich wiederum weitere germanische Stämme verschieben mussten und letztlich auch die Quaden aus dem Gebiet der heutigen Slowakei. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir sehen, dass wir uns bereits irgendwo an der Wende vom 5. zum 6. Jahrhundert befinden, im Gebiet der heutigen Slowakei sich noch immer die Germanen ausbreiten und von unseren slawischen Vorfahren bei uns bislang weder etwas zu hören noch zu sehen ist. Doch dieses Bild sollte sich schon bald ändern. Gab es in dieser Zeit schon Slawen? Und wo würden wir sie damals finden? Die Antwort ist nordöstlich des Karpatenbeckens zu suchen, irgendwo im Umland der Flüsse Dnjestr, Pripjat und Dnjepr. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In dieser Zeit verzeichnen wir auf dem Gebiet der Ukraine drei archäologische Kulturen, die bereits als slawisch gelten. Es sind die Prager Kultur (deren Träger wir mit dem slawischen Stamm der Sklavenen gleichsetzen), die Penkovka-Kultur (die mit den Anten gleichgesetzt wird) und die Koločin-Kultur (die Venethen). Uns Slowaken interessiert (trotz ihres provokanten Namens) am meisten gerade die Prager Kultur (benannt nach einem Ort, den sie paradoxerweise erst später besiedelte), die sich von den drei genannten am weitesten westlich erstreckte, im Einzugsgebiet der Flüsse Dnjestr und Pripjat, und die im Westen vom äußeren Teil des Karpatengebirges begrenzt wurde. Irgendwann an der Wende vom 5. zum 6. Jahrhundert begann die Prager Kultur (also die Sklavenen), von ihren ursprünglichen Sitzen aus in zwei Richtungen zu expandieren. Zum einen nach Süden, vor allem aber in Richtung Nordwesten, das heißt auch in das Karpatenbecken. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Typische Keramik des Prager Typs (Archäologisches Institut der Akademie der Wissenschaften der Tschechischen Republik)",
+    "alt": "Typische Keramik des Prager Typs (Archäologisches Institut der Akademie der Wissenschaften der Tschechischen Republik)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kehren wir nun noch ein letztes Mal in die „germanische“ Slowakei zurück, kurz vor die Ankunft unserer slawischen Vorfahren. Wie der bedeutende slowakische Archäologe Gabriel Fusek in seinem Artikel (in der Historická revue 12/2016, S. 15) anführt, erstreckten sich im 5. Jahrhundert im nordwestlichen Teil des Karpatenbeckens die Sitze der germanischen Sueben. An der Wende der Jahre 469 und 470 kam es hier jedoch zu einer grundlegenden Veränderung, nachdem die in Pannonien ansässigen Ostgoten die zugefrorene Donau überschritten und anschließend das Königreich der Sueben zerschlugen. Ihr wesentlicher Teil zog daraufhin nach Westen zu den Alamannen ab, und im Gebiet der heutigen Slowakei blieben nur Reste der Sueben. Diese Situation nutzten mit größter Wahrscheinlichkeit die Sklavenen, die offenbar von da an begannen, über die Karpatenpässe in das Gebiet der heutigen Slowakei einzudringen. Dazu nutzten sie offenbar den Verecke-Pass, den Dukla-Pass sowie die Täler der Flüsse Dunajec und Poprad. Das Gebiet der heutigen Slowakei wurde von den Sklavenen wahrscheinlich sowohl auf dem östlichen als auch auf dem nördlichen Weg (von Polen her) eingenommen. Für die erste Hälfte des 6. Jahrhunderts ist dann im Gebiet der heutigen Slowakei sowohl archäologisch als auch in den Schriftquellen zweifelsfrei belegt, dass hier bereits Slawen leben. In der Südwestslowakei können wir ihre Nachbarschaft mit den germanischen Langobarden annehmen, die von dort erst zu Ostern des Jahres 568 abzogen. Die Besetzung der Slowakei durch die Sklavenen verlief also offensichtlich irgendwann zwischen den 470er Jahren und der ersten Hälfte des 6. Jahrhunderts und war nach dem Abzug der Langobarden aus der Südwestslowakei um die Mitte des 6. Jahrhunderts abgeschlossen. Die slawische Prager Kultur verzeichnen wir hier dann bis irgendwann in die Mitte des 7. Jahrhunderts, als ein Teil des Gebietes der heutigen Slowakei in die Machtsphäre des Awarenkhaganats gerät. "
+       },
+       {
+        "type": "link",
+        "url": "/blog/wogastisburg-najvyznamnejsie-hradisko-samovej-rise",
+        "children": [
+         {
+          "type": "text",
+          "text": "Aber das ist schon eine andere Geschichte…"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zusammengefasst und unterstrichen: Bis zum 5. Jahrhundert lebten im Gebiet der heutigen Slowakei keine Slawen. Zu ihrem Einfall kam es irgendwann nach dem Beginn der 470er Jahre. Im Laufe einer verhältnismäßig kurzen Zeit wurden sie bei uns heimisch und überlebten trotz vieler Katastrophen (zum Beispiel die Einfälle der Awaren im 7.–8. Jahrhundert, der Altungarn im 10. Jahrhundert, der Tataren im 13. Jahrhundert, … im 16.–17. Jahrhundert und erneut die Magyarisierung am Ende des 19. Jahrhunderts) bis in unsere Tage, in denen unsere größte Katastrophe unsere eigenen Politiker sind. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Einen ausführlicheren wissenschaftlichen Artikel zum Thema der Ethnogenese der Slawen finden Sie auf "
+       },
+       {
+        "type": "link",
+        "url": "http://dejiny.unipo.sk/PDF/2018/02_2_2018.pdf",
+        "children": [
+         {
+          "type": "text",
+          "text": "DIESER SEITE"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ""
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

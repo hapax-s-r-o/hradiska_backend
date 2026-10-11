@@ -1,0 +1,255 @@
+{
+ "slug": "gaius-iulius-caesar-konstrukcia-keltskych-hradisk-a-dobyvanie-avarica",
+ "data": {
+  "title": "Caesar über den Bau keltischer Wehrmauern und die Einnahme von Avaricum",
+  "slug": "caesar-keltische-wehrmauern-und-avaricum",
+  "excerpt": "Im Jahr 58 v. Chr. erhielt Gaius Iulius Caesar das Prokonsulat im cisalpinischen und im transalpinischen Gallien; der Feldzug des Jahres 52 v. Chr. gegen Vercingetorix war der schwerste von allen. Im VII. Buch seiner Commentarii de bello Gallico beschreibt er aus der Sicht des Eroberers, wie die keltischen Wehrmauern gebaut waren – und wie seine Legionen das Oppidum Avaricum belagerten und einnahmen. Ein Bericht aus erster Hand, wie wir ihn für die Burganlagen hierzulande nie haben.",
+  "metaTitle": "Caesar über keltische Wehrmauern und Avaricum",
+  "metaDescription": "Wie Gaius Iulius Caesar selbst den Bau der keltischen Wehrmauern (murus gallicus) und die Belagerung des Oppidums Avaricum im Jahr 52 v. Chr. beschrieb.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Gaius Iulius Caesar",
+    "icon": "book"
+   },
+   {
+    "label": "Werk",
+    "value": "Commentarii de bello Gallico (Der Gallische Krieg), VII. Buch",
+    "icon": "scroll"
+   },
+   {
+    "label": "Datierung",
+    "value": "52 v. Chr. – die Belagerung von Avaricum",
+    "icon": "calendar"
+   },
+   {
+    "label": "Thema",
+    "value": "Konstruktion der keltischen Wehrmauern (murus gallicus) und die Einnahme des Oppidums Avaricum",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "58 v. Chr.",
+    "title": "Caesar erhält das Prokonsulat in Gallien",
+    "description": "Gaius Iulius Caesar erhielt das Prokonsulat im cisalpinischen und im transalpinischen Gallien und begann mit seinem Feldzug.",
+    "type": "event"
+   },
+   {
+    "year": "52 v. Chr.",
+    "title": "Der Aufstand des Vercingetorix",
+    "description": "Es brach der große Aufstand der gallischen Stämme unter der Führung des Vercingetorix aus dem Stamm der Arverner aus.",
+    "type": "event"
+   },
+   {
+    "year": "52 v. Chr.",
+    "title": "Belagerung und Einnahme von Avaricum",
+    "description": "Caesars Legionen nahmen nach 25 Tagen Bauzeit des Belagerungsdammes das Oppidum Avaricum ein; seine Einwohner wurden getötet.",
+    "type": "event"
+   },
+   {
+    "year": "52 v. Chr.",
+    "title": "Die Belagerung von Alesia",
+    "description": "Nach dem Fall von Avaricum folgte die berühmte Belagerung und Einnahme von Alesia, wo Vercingetorix schließlich besiegt wurde.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4145,
+    "caption": "Karte Galliens zur Zeit der Aufstände gegen Rom mit eingezeichneten bedeutenden Oppida",
+    "alt": "Karte Galliens zur Zeit der Aufstände gegen Rom mit eingezeichneten bedeutenden Oppida"
+   },
+   {
+    "mediaId": 4146,
+    "caption": "Um Alesia errichteten die Römer zwei Linien von Belagerungswerken – eine innere gegen die Verteidiger von Alesia und eine äußere gegen die gallische Hilfe von außen.",
+    "alt": "Um Alesia errichteten die Römer zwei Linien von Belagerungswerken – eine innere gegen die Verteidiger von Alesia und eine äußere gegen die gallische Hilfe von außen."
+   },
+   {
+    "mediaId": 4147,
+    "caption": "Der besiegte Vercingetorix tritt nach der verlorenen Schlacht bei Alesia vor den siegreichen Caesar",
+    "alt": "Der besiegte Vercingetorix tritt nach der verlorenen Schlacht bei Alesia vor den siegreichen Caesar"
+   },
+   {
+    "mediaId": 4148,
+    "caption": "Die römische Belagerung des Oppidums Burnswark in Britannien",
+    "alt": "Die römische Belagerung des Oppidums Burnswark in Britannien"
+   },
+   {
+    "mediaId": 4149,
+    "caption": "Gaius Iulius Caesar",
+    "alt": "Gaius Iulius Caesar"
+   },
+   {
+    "mediaId": 4151,
+    "caption": "Konstruktionen keltischer Wehrmauern; Nummer 4 ist der Typ „Avaricum“",
+    "alt": "Konstruktionen keltischer Wehrmauern; Nummer 4 ist der Typ „Avaricum“"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Jahr 58 v. Chr. erhielt Gaius Iulius Caesar, einer der genialsten Heerführer und Politiker in der Geschichte der Menschheit, das Prokonsulat im cisalpinischen wie im transalpinischen Gallien. Damit hatte er freien Raum für die Verwirklichung seiner außergewöhnlichen Feldherrnfähigkeiten und seiner politischen Ambitionen. Südgallien war größtenteils befriedet und schon fast ein Jahrhundert lang römische Provinz, doch die entlegenen Teile des heutigen Nordfrankreich, Belgiens und der Schweiz zogen seine ehrgeizige Natur an. Sofort begann er mit dem Feldzug und besiegte in den folgenden Jahren die Helvetier, Sequaner, Nervier, Menapier und Treverer am Rhein sowie die Senonen und Carnuten. Es war schwer, einen Stamm zu finden – außer den Haeduern –, der sich nicht mindestens einmal gegen seine Besatzungslegionen erhoben hätte. Jedes Jahr schien es, er habe alle Stämme befriedet, und jeden Herbst flammte am anderen Ende Galliens ein Aufstand auf. Die Instabilität in Gallien zwang ihn, im Jahr 55 v. Chr. von seinem Zug nach Britannien zurückzukehren, und ebenso im Jahr 54 v. Chr. Der Feldzug des Jahres 52 war unbestreitbar der schwerste, komplizierteste und entscheidendste.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Karte Galliens zur Zeit der Aufstände gegen Rom mit eingezeichneten bedeutenden Oppida",
+    "alt": "Karte Galliens zur Zeit der Aufstände gegen Rom mit eingezeichneten bedeutenden Oppida",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Aufstand fand großen Widerhall, als sich ihm der reichste gallische Stamm – die Arverner – anschloss. Aus diesem Stamm kam Caesars Gegner, der gallische Führer Vercingetorix. Er wurde zum Führer aller Gallier und ging sehr entschlossen zum Angriff über. Caesar blieb jedoch nicht zurück und begann eine Gegenoffensive. Zuerst nahm er die Stadt Cenabum ein, die zu den Zentren des Aufstands gehörte. Dann überschritt er die Loire und zog in das Gebiet der Biturigen. Bei der Stadt Noviodunum trafen die Heere Caesars und Vercingetorix’ zum ersten Mal aufeinander. In diesem Kampf besiegte Caesars durch Germanen ergänzte Reiterei die gallische Reiterei. Die Gallier beschlossen, die Taktik zu ändern und sich nicht mehr auf Frontalschlachten einzulassen. Anschließend kam es zur Einnahme des Oppidums Avaricum, dessen Einwohner getötet wurden. Nach der Zerstörung von Avaricum fand eine der berühmtesten Belagerungen einer Stadt (bzw. eines Oppidums) in der Geschichte der Antike statt – die Belagerung und Einnahme von Alesia. Über diese Belagerung ist viel geschrieben worden – etwa auf der Website valka.cz.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Um Alesia errichteten die Römer zwei Linien von Belagerungswerken – eine innere gegen die Verteidiger von Alesia und eine äußere gegen die gallische Hilfe von außen.",
+    "alt": "Um Alesia errichteten die Römer 2 Reihen von Belagerungswerken – zur Abwehr der Feinde von Alesia und von außen",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Zitat aus dem Werk des Iulius Caesar selbst (Commentarii de bello Gallico – Der Gallische Krieg), das ich unten anführe, betrifft die Einnahme des erwähnten Avaricum. Dieses außergewöhnliche Werk, das Caesars Genialität und Vielseitigkeit nur bestätigt, schuf Caesar unmittelbar während des Kriegszuges, indem er zwischen unzähligen Feldherrnpflichten einem Schreiber die Ereignisse der vergangenen Tage diktierte. Sein sachlicher, knapper, dabei aber sehr fesselnder Stil vermag den Leser auch nach mehr als 2000 Jahren zu packen. Der Abschnitt über die Einnahme und Zerstörung der Stadt bzw. des Oppidums Avaricum ist für die Ausrichtung unserer Website sehr interessant, denn in ihm beschreibt der Feldherr Caesar aus der Sicht des Eroberers die Konstruktion und die Nutzung keltischer Oppida, vor allem aber führt er dem Leser den Verlauf der Belagerung und der Einnahme einer solchen Anlage vor Augen – eine Geschichte, die sich in verschiedenen Abwandlungen auch im Gebiet der heutigen Slowakei unzählige Male abspielte, die wir jedoch meist nur aus archäologischen Ausgrabungen lesen können und zu der wir fast nie so ausführliche Nachrichten „aus erster Hand“ haben wie im Fall des Werkes Caesars. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Auf der gemeinsamen Versammlung (der Gallier, die sich zuvor unter der Führung des sehr fähigen Heerführers Vercingetorix gegen die römische Herrschaft erhoben hatten – Anm. Orgoň) wurde auch über Avaricum beraten, ob man es in Brand setzen oder verteidigen solle. Die Biturigen warfen sich allen anwesenden Galliern zu Füßen mit der Bitte, sie nicht zu zwingen, mit eigenen Händen die wohl schönste Stadt ganz Galliens niederzubrennen, die Schutz und Zierde ihres Stammes sei. Sie sagten, sie würden sie dank ihrer natürlichen Lage leicht verteidigen, denn sie werde von einem Fluss und einem Sumpf umgeben und habe nur einen einzigen, sehr schmalen Zugang. Man gab ihrer Bitte nach, obwohl Vercingetorix zunächst dagegen war, dann aber unter dem Einfluss ihrer Bitten und des Mitgefühls aller Anwesenden zustimmte. Man wählte Verteidiger aus, die zur Verteidigung der Stadt taugten.\n16/ Vercingetorix folgte Caesar langsam und wählte für das Lager einen Ort, den Sümpfe und Dickichte schützten, sechzehn Meilen von Avaricum entfernt. Dort ließ er sich von seinen zuverlässigen Spähertrupps regelmäßig über alles unterrichten, was bei Avaricum geschah, und befahl danach, was zu tun sei. Er lauerte allen unseren Abteilungen auf, die Futter und Getreide beschaffen gingen, und wenn sie sich recht weit vom Lager entfernen mussten, fiel er sie gruppenweise an und richtete Schaden bei ihnen an – obwohl die Unseren sich, soweit sich das vorausberechnen ließ, dagegen so wehrten, dass sie nicht zur gleichen Zeit und auch nicht auf demselben Weg zogen.\n \n ",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "17/ Caesar legte das Lager bei jenem Teil der Stadt an, zu dem der schmale Zugang ohne Fluss und ohne Sumpf führte, wie wir schon erwähnt haben, und begann, den Belagerungsdamm vorzubereiten, die Schutzdächer vorzuschieben und zwei Belagerungstürme zu errichten. Die natürliche Lage erlaubte es nämlich nicht, die Stadt rings mit einem Damm zu umgeben. Die Boier und die Haeduer drängte er unablässig, Getreide zu liefern. Die Haeduer unterstützten ihn kaum, sie zeigten keinerlei Bemühen. Und die Boier wiederum, die keine großen Vorräte hatten, weil es ein kleiner und schwacher Stamm war, verbrauchten schnell selbst, was sie besaßen.\nObwohl unser Heer unter einem schrecklichen Mangel an Nachschub litt – wegen der Armut der Boier, wegen der Unwilligkeit der Haeduer und wegen des Abbrennens der einzeln liegenden Höfe, und zwar so sehr, dass die Soldaten schon mehrere Tage ohne Lebensmittel waren und den entsetzlichen Hunger nur dadurch milderten, dass sie Vieh aus weit entfernten Dörfern herbeitrieben –, war dennoch kein Wort zu hören, das der Würde des römischen Volkes und der früheren Siege unwürdig gewesen wäre. Ja, als Caesar die einzelnen Legionen bei den Belagerungsarbeiten ansprach und sagte, er werde die Belagerung der Stadt aufgeben, wenn es ihnen zu schwer sei, den Mangel zu ertragen, bat ihn jeder Soldat, dies nicht zu tun. Ganze Jahre hätten sie unter seinem Befehl keine Schande erlitten und seien von nirgends ohne Erfolg abgezogen. Wenn er die begonnene Belagerung aufgebe, würden sie das für ihre eigene Schande halten. Besser sei es, alle Mühsal zu erdulden, als die römischen Bürger nicht zu rächen, die in Cenabum der gallischen Treulosigkeit zum Opfer gefallen waren. Mit denselben Forderungen wandten sie sich an die Centurionen und Militärtribunen, die diese Caesar übermitteln sollten.",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die römische Belagerung des Oppidums Burnswark in Britannien",
+    "alt": "Die römische Belagerung des Oppidums Burnswark in Britannien",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "18/ Als sich die Belagerungstürme den Mauern der Stadt näherten, erfuhr Caesar von Gefangenen, dass Vercingetorix näher an Avaricum herangezogen war, weil ihm das Futter ausgegangen war, und dass er sich selbst mit der Reiterei und mit leichtem Fußvolk, das gewohnt war, zwischen den Reitern zu kämpfen, auf die Lauer dorthin begeben hatte, wohin unsere Soldaten, wie er vermutete, am nächsten Tag nach Futter kommen würden.\nNach diesen Nachrichten brach Caesar um Mitternacht still mit dem Heer auf und stand am Morgen schon beim feindlichen Lager. Die Feinde erfuhren von ihren Spähertrupps schnell von Caesars Ankunft. Die Wagen und das Gepäck zogen sie in den dichteren Wald zurück und nahmen mit allen Streitkräften auf einem kahlen Hügel Kampfstellung ein. Sobald Caesar davon Meldung erhielt, befahl er, das persönliche Gepäck schnell an einer Stelle abzulegen und sich kampfbereit zu halten.\n19/ Der Hügel senkte sich sanft. Fast von allen Seiten umgab ihn ein schwer zu überschreitender und unwegsamer Sumpf, der nicht breiter als fünfzig Fuß war. Auf diesem Hügel hielten sich die Gallier und verließen sich auf seine natürliche Lage. Schon vorher hatten sie die Stege abgerissen und bewachten nach Stämmen alle Furten und Übergänge über den Sumpf. Sie waren entschlossen, von der Höhe aus die Römer anzugreifen, falls diese versuchen würden, dort mit Gewalt hinüberzugehen.",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der besiegte Vercingetorix tritt nach der verlorenen Schlacht bei Alesia vor den siegreichen Caesar",
+    "alt": "Der besiegte Vercingetorix tritt nach der verlorenen Schlacht bei Alesia vor den siegreichen Caesar",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Wer nur darauf blickte, wie unmittelbar nahe die Feinde einander stehen, würde meinen, die Gallier seien bereit, sich fast unter gleichen Bedingungen in den Kampf zu begeben; wer aber die ungleiche Lage beider Seiten gehörig bemerkte, würde darauf kommen, dass der ganze Mut der Gallier nur leere Prahlerei ist.\n \n \nDie Soldaten empörten sich darüber, dass die Feinde, obwohl sie nur eine so kleine Entfernung trennte, ihren Anblick noch aushalten konnten, und sie forderten Caesar sehr nachdrücklich auf, das Zeichen zum Kampf zu geben. Doch Caesar belehrte sie, mit wie vielen Verlusten und mit wie vielen Leben tapferer Männer sie den Sieg bezahlen würden. Wenn er die Entschlossenheit sehe, mit der sie sich für seinen Ruhm in jede Gefahr stürzen würden, müsste er sich selbst verurteilen, höchst ungerecht gewesen zu sein, wenn er ihr Leben nicht höher schätzte als seinen eigenen Ruhm. So beruhigte er die Soldaten, führte sie noch am selben Tag in das Lager zurück und begann, weitere Maßnahmen im Zusammenhang mit der Belagerung der Stadt zu treffen.",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Gaius Iulius Caesar: Der Bau keltischer Wehrmauern und die Einnahme von Avaricum",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "20/ Als Vercingetorix zu seinen Soldaten zurückkehrte, beschuldigten sie ihn des Verrats: er habe das Lager näher an die Römer verlegt, er sei selbst mit der ganzen Reiterei weggezogen, er habe so große Streitkräfte ohne Befehl gelassen, und die Römer hätten seinen Abzug sehr vorteilhaft und sehr schnell genutzt. All das habe nicht zufällig oder ungeplant geschehen können. Die Herrschaft über Gallien wolle er lieber aus der Gnade Caesars erhalten denn als Ausdruck ihrer Anerkennung.\nAuf diese Beschuldigung sagte Vercingetorix:\nWas das Verlegen des Lagers betreffe, so sei es wegen des Futtermangels geschehen, und überdies hätten sie selbst ihn dazu gedrängt. Und dass er näher an die Römer herangerückt sei, dazu habe ihn die natürliche Lage des Ortes bewogen, der sich auch ohne künstliche Befestigung selbst verteidige. Im sumpfigen Gelände sei die Reiterei nicht nötig gewesen, während dort, wohin die Reiter mit ihm zogen, ihr Dienst nützlich gewesen sei. Als er wegzog, habe er den Oberbefehl absichtlich niemandem übergeben, damit sein Stellvertreter sich nicht von der Ungeduld der Mannschaft hinreißen lasse; denn er sehe, dass alle aus Bequemlichkeit ungedüldig seien – sie wollten nämlich die harten Bedingungen des Krieges nicht länger ertragen. Ob die Römer zufällig erschienen seien oder auf die Anzeige von jemandem gekommen seien: die Gallier müssten allein dem Schicksal dankbar sein, dass sie die Möglichkeit hatten, von der Höhe aus einerseits die geringe Zahl des römischen Heeres zu sehen, andererseits mit Verachtung auf die Tapferkeit jener zu blicken, die es nicht gewagt hätten, sich in den Kampf zu begeben, und sich mit Schande in das Lager zurückgezogen hätten. Er sehne sich überhaupt nicht nach der Herrschaft aus Caesars Händen mit Hilfe des Verrats, wenn er sie durch einen Sieg erlangen könne, der für ihn und für alle Gallier schon gewiss sei. Ja, er werde ihnen auch den Oberbefehl übergeben, wenn sie überzeugt seien, dass eher sie ihm Ehre erweisen als er ihnen durch den Kampf für ihre Rettung.\n„Damit ihr versteht, dass ich dies aufrichtig sage“, sprach er, „hört die römischen Soldaten an.“ Er ließ Sklaven vorführen, die er vor einigen Tagen beim Futterbeschaffen aufgegriffen, mit Hunger gequält und gefangen gehalten hatte. Sie waren schon vorher unterrichtet, wie sie auf die Fragen antworten sollten. Sie sagten also, sie seien Soldaten der römischen Legionen. Aus Hunger und Mangel seien sie heimlich aus dem Lager gegangen, ob sich nicht ein wenig Getreide oder das eine oder andere Stück Vieh auf dem Land finden lasse. Unter demselben Mangel leide das ganze Heer, niemandem reichten schon die Kräfte, und keiner vermöge die Mühe bei den Befestigungsarbeiten mehr zu ertragen. Deshalb habe der Oberbefehlshaber beschlossen, das Heer nach drei Tagen abzuführen, wenn es ihm nicht gelinge, die Stadt zu erobern.\n„Das sind die guten Dienste“, sagte Vercingetorix, „die ich für euch geleistet habe, und nun beschuldigt ihr mich des Verrats. Ich habe ohne einen Tropfen eures Blutes ein mächtiges Heer, das zu siegen gewohnt war, beinahe durch Hunger aufgerieben. Ich habe dafür gesorgt, dass dieses Heer auf seiner schändlichen Flucht kein gallischer Stamm in seinem Gebiet aufnimmt.“\n21/ Die ganze Versammlung bekundete durch Rufen ihre Zustimmung und klirrte nach dem Brauch mit den Waffen, was die Gallier taten, wenn sie jemandes Rede billigten. Vercingetorix sei ein hervorragender Feldherr, an seiner Zuverlässigkeit sei nicht zu zweifeln, und dieser Krieg lasse sich nicht vernünftiger führen. Sie beschlossen, zehntausend aus dem ganzen Heer ausgewählte Männer zur Hilfe in die Stadt Avaricum zu senden. Sie waren der Ansicht, die gemeinsame Rettung dürfe nicht allein den Biturigen überlassen bleiben, denn sie waren sich bewusst, dass, wenn die Biturigen die Stadt hielten, auch die Frucht des Sieges in ihre Hände geraten würde. \n \n 22/ Dem einzigartigen Einsatz unserer Soldaten stellten sich allerlei Maßnahmen der Gallier in den Weg, denn sie sind sehr scharfsinnig und sehr geschickt darin, alles nachzuahmen und auszuführen, was ihnen jemand erklärt. Sie wissen sich mit Seilschlingen gegen die Mauerhaken zu wehren: haben sie diese fest gepackt, so ziehen sie sie gleich mit einer Winde über die Mauer nach innen; sie wissen Dämme zu untergraben, und das um so geschickter, als es bei ihnen große Eisenerzbergwerke gibt und sie alle Arten von Stollen kennen und benutzen. Und die ganze Ringmauer versahen sie auf allen Seiten mit mehrstöckigen Türmen und deckten diese mit Ziegenfellen ab. Bei häufigen Ausfällen am Tag und bei Nacht schleuderten sie Feuer auf den Damm und griffen unsere Soldaten bei den Belagerungsarbeiten an. Die Höhe unserer Türme, die sich mit dem Anwachsen des Dammes ständig hoben, glichen sie durch das Verlängern ihrer eigenen Türme aus. Das Vorrücken unserer offen geführten Gräben zu den Mauern hemmten sie mit angebrannten und zugespitzten Balken, mit heißem Pech und mit sehr schweren Felsblöcken und hinderten so die Unseren, sich den Mauern zu nähern.\n23/ Alle gallischen Mauern sehen etwa so aus: Die Balken werden im rechten Winkel durchgehend über die ganze Länge mit gleichen Abständen auf den Boden gelegt, und zwar zwei Fuß voneinander entfernt. Diese werden dann im Inneren miteinander verbunden und gehörig mit Erde verschüttet. Die genannten Abstände werden von vorn mit großen Steinen ausgefüllt. Nachdem die Balken gelegt und fest verbunden sind, wird obenauf eine weitere Schicht gelegt, und zwar so, dass genau derselbe Abstand zwischen den Balken erhalten bleibt, nur liegt der obere Balken nicht auf dem unteren, sondern die einzelnen Balken sind durch Steine, die einzeln zwischen sie gelegt werden, fest eingeklemmt. So wird der ganze Bau allmählich zusammengesetzt, bis die nötige Höhe der Mauer erreicht ist.\nEin solcher Mauerbau sieht nicht nur sehr geschmackvoll und bunt aus, weil Balken und Steine, die in regelmäßigen geraden Reihen liegen, einander abwechseln, sondern er ist auch eine sehr geeignete und wirksame Verteidigung der Städte, denn der Stein schützt vor dem Feuer und gegen die Stöße des Rammbocks wiederum die hölzerne Konstruktion, die im Inneren des Baus durch fortlaufend verbundene, meist vierzig Fuß lange Balken verankert ist und sich weder durchbrechen noch zerreißen lässt. \n24/ Obwohl viele Hindernisse die Belagerung unmöglich machten und unsere Soldaten die ganze Zeit Kälte und unablässige Regengüsse bei der Arbeit aufhielten, arbeiteten sie dennoch ohne Unterbrechung, überwanden damit alle Hindernisse und errichteten in fünfundzwanzig Tagen einen Belagerungsdamm von dreihundertdreißig Fuß Breite und achtzig Fuß Höhe. Als der Damm die feindliche Mauer schon fast berührte und Caesar wie gewöhnlich die Nacht beim Bauwerk verbrachte und die Soldaten anfeuerte, nicht einen Augenblick mit der Arbeit aufzuhören, sah man kurz vor Mitternacht, wie es auf dem Damm rauchte, den die Feinde von einem Minengang aus in Brand gesetzt hatten. Gleichzeitig erhob sich auf der ganzen Mauer ein Geschrei, und die Feinde machten durch zwei Tore an beiden Seiten der Türme einen Ausfall. Andere wiederum warfen aus der Ferne von den Mauern brennende Fackeln und trockenes Holz auf den Damm, gossen siedendes Pech und andere Brandstoffe hinab, sodass man nicht einmal überlegen konnte, wo zuerst einzugreifen oder zu helfen war. Doch nach Caesars Befehl hielten immer zwei Legionen Bereitschaft vor dem Lager, und noch mehr von ihnen wechselten sich in Schichten beim Bau ab: die einen stellten sich schnell den Ausfällen entgegen, die anderen zogen die Türme zurück und warfen Sperrdämme auf dem Belagerungsdamm auf, und buchstäblich alle liefen aus dem Lager herbei, um zu löschen.",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Gaius Iulius Caesar",
+    "alt": "Gaius Iulius Caesar",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "25/ Obwohl die Nacht schon vergangen war, wurde noch an allen Stellen gekämpft, und die Feinde verloren immer noch nicht die Hoffnung auf den Sieg, und das um so mehr, als sie die verbrannten Schutzdächer unserer Türme sahen und bemerkten, dass unsere ungedeckten Soldaten nur schwer zu Hilfe kommen, während sie selbst mit frischen Kräften an die Stelle der Erschöpften treten, und als sie sich bewusst waren, dass die ganze Rettung Galliens von diesem Augenblick abhängt. Und in dieser Lage spielte sich vor unseren Augen etwas Denkwürdiges ab, das unserer Meinung nach nicht unbeachtet bleiben darf.\nIrgendein Gallier warf vor dem Tor der Stadt Stücke von Talg und Pech in das Feuer gegen unseren Belagerungsturm, die ihm andere in die Hände reichten. Von der rechten Seite traf ihn ein Geschoss aus einem Wurfgeschütz, und er fiel tot um. Wie er auf der Erde lag, trat ihn einer der nächststehenden Soldaten einfach nur über und setzte dieselbe Arbeit fort. Als auch ihn ein Geschoss aus einem Wurfgeschütz tötete, trat gleich an die Stelle des zweiten ein dritter und an die Stelle des dritten ein vierter. Und die Verteidiger gaben diese Stelle nicht früher auf, als bis sie das Feuer auf dem Damm gelöscht, die Feinde von allen Abschnitten verdrängt hatten und der Kampf beendet war.\n26/ Da alles, was die Gallier versuchten, keinen Erfolg hatte, beschlossen sie, am nächsten Tag aus der Stadt zu fliehen. Vercingetorix forderte sie zunächst dazu auf und befahl es ihnen dann unmittelbar. Sie hofften, die Mannschaft werde keine großen Verluste treffen, wenn sie es in der Stille der Nacht versuchten, denn das Lager des Vercingetorix war nicht weit von der Stadt entfernt, und der zusammenhängende Sumpf, der sich zwischen Stadt und Lager erstreckte, hielt die Römer bei der Verfolgung auf.\nAls sie sich in der Nacht zum Abzug rüsteten, liefen plötzlich die Familienmütter auf die Straßen, warfen sich weinend ihren Männern zu Füßen und flehten sie inständig an, sie und die gemeinsamen Kinder nicht den Feinden zum Tode auszuliefern, denn sie seien von Natur schwach und könnten sich daher nicht mit ihnen auf die Flucht begeben. Als sie sahen, dass die Männer auf ihrem Vorhaben beharrten – in der größten Gefahr kennt die Furcht gewöhnlich kein Erbarmen –, erhoben die Frauen ein Geschrei und verrieten den Römern so die Flucht. Daraufhin gaben die Gallier aus Furcht, die römische Reiterei werde die Wege vorher besetzen, dieses Vorhaben auf.\n27/ Am nächsten Tag ließ Caesar den Turm erneut vorschieben und vollendete die Belagerungsarbeiten, die er schon vorher angeordnet hatte. Da setzte ein starker Regenguss ein, und Caesar erkannte, dass dies ein sehr geeignetes Wetter zur Ausführung seines Plans war, denn er sah, dass die Wachen auf den Mauern nicht so sorgfältig verteilt waren. Deshalb befahl er seinen Soldaten, die Arbeit am Belagerungswerk zu verlangsamen, und erklärte ihnen sein Vorhaben. Die Legionen machte er in gedeckten Gräben heimlich kampfbereit und ermunterte sie, nun endlich die Frucht des Sieges für so viel Mühe zu ernten. Weiter verkündete er, er werde jene belohnen, die zuerst auf die Mauern gelangten, und gab dann den Soldaten das Zeichen zum Angriff. Daraufhin strömten die Soldaten hinaus und füllten schnell die Mauern.\n28/ Die Feinde, von dem Angriff überrascht und von den Mauern und Türmen verdrängt, nahmen auf dem Marktplatz und auf den freieren Plätzen eine Keilstellung ein, fest entschlossen, in geschlossener Schlachtreihe den entscheidenden Kampf zu führen, wenn sie von irgendeiner Seite angegriffen würden. Sobald sie sahen, dass niemand von der Befestigung in die Ebene hinabstieg, sondern dass sich die ganzen Mauern überall ringsum nur füllten, warfen sie aus Furcht, sie würden am Ende nicht einmal hinauskommen können, die Waffen weg und liefen Hals über Kopf in die entlegensten Teile der Stadt. Einen Teil von ihnen erschlugen dort die Soldaten, als sie sich in den engen Toren drängten, und einen Teil erschlugen die Reiter nach dem Austritt aus den Toren. Keiner der Unseren jagte der Beute nach. Das Morden in Cenabum und die mühevolle Plackerei am Belagerungswerk hatten in ihnen einen solchen Zorn hervorgerufen, dass sie weder auf Greise noch auf Frauen noch auf Säuglinge Rücksicht nahmen.\nAm Ende gelangten von der ganzen Zahl von etwa vierzigtausend Menschen kaum achthundert lebend und unverletzt zu Vercingetorix, und zwar jene, die gleich beim ersten Geschrei aus der Stadt gelaufen waren. Er nahm sie spät in der Nacht in der Stille auf, sobald sie herbeieilten. Aus Furcht, ihre Ankunft und das Mitleid der einfachen Soldaten würden im Lager Empörung hervorrufen, befahl er seinen Vertrauten und den Häuptlingen der Stämme, die er dem Weg gegenüber aufgestellt hatte, sie unter sich aufzuteilen und zu ihren Landsleuten in jenen Teil des Lagers zu führen, der am Anfang jedem Stamm zugefallen war.\n29/ Am nächsten Tag berief Vercingetorix eine Versammlung ein, auf der er die Gallier tröstete und ermunterte, nicht völlig den Mut zu verlieren und nicht allzu sehr über das Unglück zu trauern, das sie getroffen hatte. Die Römer hätten nicht durch Tapferkeit und nicht im offenen Kampf gesiegt, sondern durch ungewöhnliche Gewandtheit und Erfahrung in der Belagerung, worin die Gallier keine Übung hätten. Es irre sich, wer im Krieg nur Erfolge erwarte. Er habe überhaupt nicht die Absicht gehabt, Avaricum zu verteidigen, was sie ihm selbst bezeugen könnten. Nur der Unvernunft der Biturigen und der allzu großen Nachgiebigkeit der übrigen sei es zuzuschreiben, dass dieses Unglück geschah.",
+    "author": "Gaius Iulius Caesar",
+    "source": "Commentarii de bello Gallico (Der Gallische Krieg), Buch VII"
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

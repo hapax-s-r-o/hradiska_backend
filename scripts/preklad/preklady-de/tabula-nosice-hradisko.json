@@ -1,0 +1,113 @@
+{
+ "slug": "tabula-nosice-hradisko",
+ "data": {
+  "slug": "informationstafel-nosice-hradisko",
+  "title": "Informationstafel auf der Höhenburg der Púchov-Kultur in Nosice",
+  "excerpt": "Am Fest Allerheiligen – in der keltischen Mythologie Samhain – stellte unser Verein Hradiská auf der Höhenburg der Púchov-Kultur in Nosice eine neue Informationstafel auf, wegen des Wetters erst beim dritten Versuch. Es ist bereits die 19. Tafel des Vereins, entstanden in Zusammenarbeit mit dem Verein Puchovo dedičstvo und der Slowakischen Archäologenvereinigung; finanziell beteiligt hat sich die Stadt Púchov. Die Zeichnung der Höhenburg schuf Antonín Lacko.",
+  "metaTitle": "Informationstafel Nosice – Höhenburg der Púchov-Kultur",
+  "metaDescription": "Am Fest Allerheiligen stellte der Verein Hradiská mit der Stadt Púchov seine 19. Informationstafel auf der Höhenburg der Púchov-Kultur in Nosice auf.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "19. Informationstafel des Vereins — Höhenburg der Púchov-Kultur in Nosice",
+    "icon": "star"
+   },
+   {
+    "label": "Partner",
+    "value": "Stadt Púchov, SAA; Zeichnung A. Lacko",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "—",
+    "title": "Tafel Nosice",
+    "type": "event",
+    "description": "Am Fest Allerheiligen (Samhain) aufgestellt, wegen des Wetters erst beim dritten Versuch."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5492,
+    "alt": "Die Informationstafel Nosice – Hradisko unter einem hölzernen Schutzdach im herbstlichen Wald"
+   },
+   {
+    "mediaId": 5505,
+    "caption": "Der Wall der Befestigung",
+    "alt": "Der Wall der Befestigung"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am Fest Allerheiligen, in der keltischen Mythologie Samhain, haben wir (beim dritten Versuch, weil das Wetter zu den vorherigen Terminen nicht mitspielte) die Aufstellung einer Informationstafel auf "
+       },
+       {
+        "type": "link",
+        "url": "/blog/nosice-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "der Höhenburg der Púchov-Kultur in Nosice"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " organisiert. Die Tafel schuf traditionell unser Verein Hradiská, dieses Mal in Zusammenarbeit mit "
+       },
+       {
+        "type": "link",
+        "url": "http://puchovodedicstvo.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "dem Verein Puchovo dedičstvo"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " und der Slowakischen Archäologenvereinigung, und finanziell beteiligte sich an ihr die Stadt Púchov. Es ist bereits unsere 19. Informationstafel. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besonderer Dank gebührt neben den Jungs aus unserem Verein auch Peter Valach, der uns am Anfang beim Einholen der nötigen Genehmigungen geholfen hat, und ebenso Miloš Vrábel für den Transport des Materials, ohne den die Aufstellung der Tafel nicht zu verwirklichen gewesen wäre. Für die Überlassung der Funde aus der Ausgrabung und für die fachliche Beratung danken wir außerdem dem Archäologen Milan Horňák. Die Tafel wurde selbstverständlich mit Genehmigung des Kreisdenkmalamtes Trenčín (Trentschin) aufgestellt. Für die Zeichnung der Höhenburg danken wir Antonín Lacko."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Informationstafel Nosice – Hradisko",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

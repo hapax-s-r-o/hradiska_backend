@@ -1,0 +1,133 @@
+{
+ "slug": "utok-frankov-na-hradisko",
+ "data": {
+  "title": "Der Frankenangriff auf einen großmährischen Burgwall",
+  "slug": "frankenangriff-auf-einen-burgwall",
+  "excerpt": "In großmährischer Zeit wurde das Gebiet des heutigen Mährens und der Slowakei zum Ziel mehrerer Kriegszüge des fränkischen Heeres. Dabei kam es zu Belagerungen und Kämpfen um die gut befestigten Burgwälle: Die Fuldaer Annalen berichten für das Jahr 864, wie König Ludwig Rastislav in der Burg Dowina – in Devín – belagerte, ihn aber nicht bezwingen konnte und verhandeln musste. Eine Zeichnung von Tomáš Humaj zeigt einen solchen Angriff erstmals aus der Sicht der Verteidiger.",
+  "metaTitle": "Frankenangriff auf einen Burgwall – die Belagerung von Devín 864",
+  "metaDescription": "Wie die Franken großmährische Burgwälle angriffen: Die Fuldaer Annalen schildern die Belagerung Rastislavs in der Burg Dowina (Devín) im Jahr 864.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Fränkische Angriffe auf großmährische Burgwälle; Zeichnung von T. Humaj",
+    "icon": "star"
+   },
+   {
+    "label": "Quelle",
+    "value": "Fuldaer Annalen (Belagerung von Devín, 864)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "864",
+    "title": "Die Belagerung von Devín (Dowina)",
+    "description": "König Ludwig belagerte Rastislav, vermochte ihn aber nicht zu bezwingen; es folgten Verhandlungen.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5612,
+    "alt": "Zeichnung eines Angriffs auf einen Burgwall: Krieger mit Schilden erstürmen über den Graben hinweg eine hölzerne Palisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In großmährischer Zeit wurde das Gebiet des heutigen Mährens und der Slowakei zum Ziel mehrerer Kriegszüge des fränkischen Heeres unter der Führung des Königs oder fränkischer Heerführer. Im Rahmen dieser Züge kam es zweifellos häufig zu Belagerungen und Kämpfen um die großmährischen Burgwälle, die für jene Zeit oft sehr gut befestigt waren, sodass es dem fränkischen Heer offenbar nicht immer gelang, die Burgwälle zu erobern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein solches Ereignis beschreiben auch die Fuldaer Annalen in jenem Abschnitt, in dem sie über die Belagerung von Devín (Theben) berichten:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Jahr 864. König Ludwig zog im August mit großer Heeresmacht über die Donau und belagerte Rastislav in einer Burg, die in der Sprache jenes Volkes Dowina (d. h. Mädchen) genannt wird. Jener aber wagte es nicht, sich mit den königlichen Heeren zu schlagen, und als er sich überzeugt hatte, dass er nirgendwohin entweichen konnte, stellte er, durch die Umstände gezwungen, so viele und solche Geiseln, wie der König es wünschte.",
+    "author": null,
+    "source": "Fuldaer Annalen (zum Jahr 864)"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Angriff der Franken auf einen Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie Lukáš Krajčír in seinem Artikel über Devín schreibt, muss man bei der Deutung dieser Nachricht die Tendenz der Fuldaer Annalen in Rechnung stellen. Rastislav konnte der König mit seinem Heer tatsächlich belagern, doch bezwingen vermochte er ihn nicht; die Passage über die unmögliche Flucht aus der Stadt kann erfunden sein. Ähnlich steht es mit der Behauptung, Rastislav habe sich nicht zum Kampf getraut: eher im Gegenteil – Ludwig wagte es nicht, den Burgwall zu erobern und dafür unnötig das Blut vieler Soldaten zu vergießen. Oder er versuchte den Burgwall doch zu erobern und unternahm einen, womöglich auch mehrere Angriffe auf die Mauern, doch gelang es Rastislavs Kriegern in Devín, diese Angriffe abzuwehren. Als der König sah, dass er Rastislav nicht bezwingen konnte, entschloss er sich, mit ihm zu verhandeln."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Der Angriff der Franken auf einen Burgwall",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Mitarbeiter Tomáš Humaj hat eine Szene gezeichnet, die den Angriff fränkischer Soldaten auf einen großmährischen Burgwall festhält. Es könnte sich gerade um den Burgwall Devín handeln. Es ist wahrscheinlich die erste Zeichnung dieser Art, die den Blick auf die Verteidiger eines großmährischen Burgwalls während der Abwehr eines Angriffs wiedergibt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

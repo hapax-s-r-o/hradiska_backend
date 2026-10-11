@@ -1,0 +1,335 @@
+{
+ "slug": "kocovni-pastevci-jakozto-najezdnici-od-vychodu",
+ "data": {
+  "title": "Nomadische Hirten als Eindringlinge aus dem Osten",
+  "slug": "nomadische-hirten-eindringlinge-aus-dem-osten",
+  "excerpt": "Mit Zustimmung des Autors Ján Padych bringen wir Ihnen seinen Beitrag über die Nomaden aus dem Osten, die am Untergang mehr als einer hoch entwickelten befestigten Höhensiedlung ihren Anteil hatten. Vom Streitaxtvolk im Äneolithikum über die Kimmerier am Ausgang der Bronzezeit bis zu den Skythen, die Molpír bei Trnava eroberten und die Hallstattkultur in eine Krise stürzten – und über das Erbe des „Herren Reiters“, das der einheimische Stammesadel bereitwillig übernahm.",
+  "metaTitle": "Nomadische Hirten als Eindringlinge aus dem Osten",
+  "metaDescription": "Ján Padych über die Wellen von Nomaden aus dem Osten, die seit dem Äneolithikum die befestigten Siedlungen Mitteleuropas heimsuchten und zerstörten.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Ján Padych (Gastbeitrag, Original auf Tschechisch)",
+    "icon": "star"
+   },
+   {
+    "label": "Thema",
+    "value": "Einfälle von Nomaden aus dem Osten in der Urgeschichte",
+    "icon": "star"
+   },
+   {
+    "label": "Opfer in der Slowakei und in Tschechien",
+    "value": "Molpír (Skythen), Býčí skála",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Äneolithikum",
+    "title": "Das Streitaxtvolk",
+    "type": "event",
+    "description": "Die ersten indoeuropäischen Klane aus dem Osten; Zustrom von Kupfer, Patriarchat."
+   },
+   {
+    "year": "7.–8. Jahrhundert v. Chr.",
+    "title": "Die Kimmerier",
+    "type": "event",
+    "description": "Einfälle aus den Steppen nördlich des Schwarzen Meeres am Ausgang der Bronzezeit."
+   },
+   {
+    "year": "6.–5. Jahrhundert v. Chr.",
+    "title": "Die Skythen (Vekerzug-Kultur)",
+    "type": "event",
+    "description": "Die Einnahme von Molpír bei Trnava; Zusammenstoß mit der Hallstattkultur."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6048,
+    "caption": "Die befestigte Höhensiedlung Molpír (Smolenice) wurde zu einem der Opfer der nomadischen Skythen in der Hallstattzeit",
+    "alt": "Die befestigte Höhensiedlung Molpír (Smolenice) wurde zu einem der Opfer der nomadischen Skythen in der Hallstattzeit"
+   },
+   {
+    "mediaId": 6049,
+    "caption": "Skythische Pfeilspitzen aus Molpír",
+    "alt": "Skythische Pfeilspitzen aus Molpír"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Mit Zustimmung des Autors "
+       },
+       {
+        "type": "link",
+        "url": "http://padychbooks.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Ján Padych"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " bringen wir Ihnen seinen fesselnden Beitrag über die Nomaden aus dem Osten im Altertum, die am Untergang mehr als einer hoch entwickelten befestigten Höhensiedlung im Gebiet der heutigen Slowakei ihren Anteil hatten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Von Zeit zu Zeit wurde das urgeschichtliche Mitteleuropa zum Ziel von Angriffen durch Eindringlinge, durch nomadische Hirten, die aus dem Osten kamen mit der Absicht, die friedliche bäuerliche Bevölkerung zu unterwerfen, zu plündern, Abgaben zu erpressen und auf Kosten der Unterworfenen zu leben.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die ersten Wellen waren nicht so angriffslustig und raubgierig wie die späteren, dennoch hinterließen sie hier ihre bedeutende Spur. Im Äneolithikum, etwa vor 5000 Jahren, kamen Klane des Streitaxtvolkes in die hiesigen Länder. Diese waren jedoch nicht so zahlreich, dass sie die einheimische Bevölkerung unterworfen hätten. Dennoch geschah in dieser Zeit zum Beispiel im Gebiet des heutigen Mähren etwas, das mit ihrer Ankunft zweifellos zusammenhängt. Erstens war es der Zustrom kupferner Werkzeuge in einem bis dahin unbekannten Maß und zweitens ihre rein patriarchale Gesellschaftsordnung. Nicht zuletzt wird die Ankunft dieser Nomaden aus dem fernen Kasachstan mit dem Beginn der Besiedlung durch die ersten indoeuropäischen Ethnien in Mitteleuropa verbunden. Die einheimische sesshafte bäuerliche Bevölkerung stammte vor allem vom Balkan, wohin sie lange zuvor zweifellos aus Kleinasien gekommen war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die befestigte Höhensiedlung Molpír (Smolenice) wurde zu einem der Opfer der nomadischen Skythen in der Hallstattzeit",
+    "alt": "Die befestigte Höhensiedlung Molpír (Smolenice) wurde zu einem der Opfer der nomadischen Skythen in der Hallstattzeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Durch das Gebiet Mährens zog sich von Süden nach Norden in nahezu bogenförmiger Linie eine Reihe großer, hervorragend befestigter Siedlungen, die man ruhig urgeschichtliche Städte nennen kann. Diese befestigten Siedlungen lagen etwa 8 km voneinander entfernt, und jede von ihnen befasste sich mit einem anderen Umfang wirtschaftlicher Tätigkeit. Zum Beispiel funktionierte in der „urgeschichtlichen Stadt“ in Hlinsko bei Přerov hervorragend eine große „Manufaktur“ zur Herstellung von Steinwerkzeugen. Die hiesigen Steinbeile, Wetzsteine, Reibsteine und weitere praktische Gegenstände wanderten auf von Rindern gezogenen Wagen in die benachbarten befestigten Siedlungen und von dort in die umliegenden Dörfer usw. Hier wurde auch eine Menge gewebter Stoffe und gebrannter Tongefäße produziert. Nach einer kühneren Schätzung lebten in dieser befestigten Siedlung von etwa eineinhalb Hektar Ausdehnung gleichzeitig bis zu 2000 Einwohner, während in der Nähe beim Steinbruch dieselbe Zahl anzunehmen ist. Bescheidenere Schätzungen gehen davon aus, dass die nahe gelegene Siedlung den Bewohnern der befestigten Siedlung nur bei den Arbeiten im Steinbruch diente. Die Bewohner dieser befestigten Siedlungen lebten bereits in einer patriarchalen Ordnung, in der die Männer die Zügel der Macht in der Gesellschaft in den Händen hielten. Einige Funde jedoch, besonders das Grab einer alten Schamanin an einer bedeutenden Stelle innerhalb der Fundstelle, bezeugen, dass die weiblichen religiösen Kulte, obwohl sie gegenüber den vorangehenden urgeschichtlichen Abschnitten an Bedeutung und Macht erheblich schwächer geworden waren, doch ihren Raum hatten und in Opposition zu den mächtigeren männlichen Kulten standen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese befestigten Siedlungen und das mit ihnen verbundene Volk erlebten den Höhepunkt ihres Aufschwungs und damit auch Zeiten des Überflusses. Plötzlich trat jedoch eine Krise ein. In das Land kamen verhältnismäßig viele kupferne Gegenstände, und viele der ursprünglichen steinernen begannen an Bedeutung zu verlieren, besonders Beile, Messer und andere. Die Krise führte zweifellos dazu, dass die großen befestigten Siedlungen aus dem Nichts verlassen wurden und die Bewohner ohne irgendwelche archäologisch erfassbaren Spuren verschwanden und erst nach etwa 50 Jahren zurückkehrten. Wo sie waren und wovon sie inzwischen lebten, ist ein Rätsel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die einzige wenigstens teilweise vernünftige Erklärung wäre, dass sie sich alle der Weidewirtschaft zuwandten, in nomadischen Jurten auf Wagen lebten und von Ort zu Ort zogen, sobald das Vieh die vorherigen Weiden abgeweidet hatte, was bei größeren Herden nicht lange dauerte. Das von den Hirtenstämmen übernommene Vorbild betraf wohl nicht nur den Wechsel des Lebensunterhalts und den Übergang der Bauern zum Leben nomadischer Hirten. Was die Klanführer aus den befestigten Siedlungen, also von der ursprünglichen Bevölkerung, an den Hirten vor allem bewunderten, war insbesondere, wie es die Anführer des Hirtenethnikums vermochten, sich das ursprünglich gemeinsame Eigentum der Klane anzueignen, und wie unbeschränkt sie über das Leben ihrer Untergebenen herrschten. Durch die Nachahmung dieser Vorbilder verfestigte sich die patriarchale Denkweise auch bei der bäuerlichen Bevölkerung, bei den Bewohnern der befestigten Siedlungen und der Dörfer, und die ursprünglichen weiblichen Kulte wurden stellenweise bis in die Illegalität verdrängt, denn den ehrgeizigen Anführern war jegliche Gleichheit sicherlich ein Dorn im Auge. Damals traten in Mitteleuropa ohne Zweifel neue Verhältnisse ein, die sowohl auf der Ungleichheit von Männern und Frauen als auch auf der Unterscheidung der persönlichen Bedeutung nach dem besessenen Vermögen beruhten. Diese Ungleichheiten verstärkten sich dann in den folgenden Zeitabschnitten oder milderten sich ab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Skythische Pfeilspitzen aus Molpír",
+    "alt": "Skythische Pfeilspitzen aus Molpír",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der nächste große Zustrom von Nomaden aus dem Osten nach Mitteleuropa erfolgte am Ausgang der Bronzezeit (7.–8. Jahrhundert v. Chr.). Die Stämme der Kimmerier bewohnten ursprünglich die Steppen nördlich des Schwarzen Meeres, von wo aus sie verheerende Einfälle über weite Gebiete Kleinasiens unternahmen und dort zeitweise ein großes Gebiet beherrschten. Ihr Vorteil war der Einsatz der Reiterei in einem bis dahin unbekannten Maß, was zunächst zu ihren Erfolgen führte. Sie führten erfolgreiche Kriege mit Assyrien, Urartu und auch mit Lydien. Die Wende trat nach einer vernichtenden Niederlage in Lydien ein und nachdem die Stämme der nomadischen Skythen in immer größerem Maß in ihre Steppen am Schwarzen Meer drängten. Ein Teil der Kimmerier wandte sich nach Westen und gelangte so nach Mitteleuropa. Es ist unbestreitbar, dass sie sich auch hier nicht milder verhielten als in Kleinasien, wo sie verheerende Einfälle im Streben nach möglichst großer Beute durchführten und die einheimische Bevölkerung zu unterjochen suchten, um möglichst hohe Abgaben zu erpressen usw. Wie weit ihnen das im Gebiet der Slowakei, Mährens und Böhmens gelang (weiter nach Westen kamen sie offenbar nicht), lässt sich eher nach dem Erbe beurteilen, das sie hinterließen. Jedenfalls darf man die damalige einheimische bäuerliche Bevölkerung nicht für sanfte Lämmer halten, die sich demütig alles gefallen ließen. Die hiesigen Bronzezeitkulturen verehrten die Sonne als Hauptgottheit. Mit ihr war der Kult des Kriegers, des Heros – des Halbgottes – verbunden. Heldensagen und Erzählungen standen Tag für Tag, Abend für Abend auf dem Programm des Erzählens. Die Spuren der Kimmerier verschwanden mit der Zeit, doch das Erbe des „Herren Reiters“, des Herren über das Leben, und die grausame Überlegenheit blieben und wurden vom Sippen- und Stammesadel der einheimischen Bevölkerung mit großer Bereitwilligkeit übernommen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein weiteres der historisch bekannten Völker nomadischer Eindringlinge, die sich im hiesigen urgeschichtlichen Gebiet bemerkbar machten, waren die Skythen, die ähnlich wie vorher die Kimmerier Kleinasien verheerten und auf ihrem großen Zug bis an die Grenzen Ägyptens gelangten, das ihren Einfall mit einem enormen Lösegeld abwehrte. Nach dem altgriechischen Geschichtsschreiber Herodot saß ein skythischer Stamm im Inneren Europas; sie nannten sich angeblich Sikynnen. Der Name selbst erinnert teilweise an die alte indoeuropäische Bezeichnung für Reiterbogenschützen (Skend). In den Steppen im Gebiet des heutigen Ungarn fanden sich tatsächlich Spuren dieser Nomaden, und nicht nur dort. In der Zeit des 6.–5. Jahrhunderts v. Chr. machte dieser skythische Stamm seine Anwesenheit sehr deutlich bemerkbar. In dieser Zeit stießen zwei sehr militante Kulturen mit stark entwickelten Kriegerkulten und -traditionen aufeinander. Auf der einen Seite die Skythen (das Volk der Vekerzug-Kultur) und auf der anderen Seite das Volk der Hallstattkultur. Über die grausamen skythischen Rituale, die mit dem Krieg verbunden waren, schrieben die antiken Geschichtsschreiber, als einer der ersten dann Herodot. Die Kampflust der jungen Männer sollte das Trinken des Blutes des ersten getöteten Feindes stärken. Jeden hundertsten Gefangenen opferten sie ihrem „heiligen Schwert“, über das sie das Blut der Geopferten gossen, denen sie die rechten Arme abtrennten, sie feierlich in die Höhe warfen und so liegen ließen, wie sie auf den Boden gefallen waren. Zu ihren bedeutendsten Gottheiten gehörte das Schwert, ein Fetisch, der vielleicht nicht einmal einen Namen hatte (er ist nicht erhalten). Es war eine Entsprechung des griechischen Kriegsgottes Ares, was für sich allein den Charakter der auf Eroberung und Beute gerichteten Ideologie der skythischen Eindringlinge kennzeichnet, die hier auf nicht weniger kriegerische Stämme stießen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Hallstattkultur (nach der Stadt Hallstatt in Österreich) nahm in der Zeit ihres Aufschwungs einen erheblichen Teil Europas ein, von Ostfrankreich im Westen bis zum Karpatenbecken im Osten, und umfasste auch den nördlichen Teil des Balkans. Die gesellschaftlichen Verhältnisse jener Zeit kennzeichnet vielleicht am besten der stark befestigte Sitz auf der deutschen Heuneburg, wo die höchsten und bedrohlichsten Mauern nicht gegen einen äußeren Feind standen, sondern gegen die ärmlicheren Behausungen im Suburbium. Außer befestigten Sitzen und Höhensiedlungen gab es im ganzen Gebiet eine Menge befestigter Herrenhöfe, die dem Klan- und Stammesadel gehörten. Nach den erhaltenen Gegenständen und den bildlichen Darstellungen, besonders auf metallenen Situlen (Gefäßen), ist offensichtlich, dass die Entwicklung der gesellschaftlichen Unterscheidung nach dem Vermögen und damit nach der Bedeutung erheblich fortgeschritten war und die begüterteren Schichten goldene Zeiten erlebten. Die Szenen auf den Situlen könnten andeuten, dass die hallstattzeitliche Gesellschaft sehr an jenes Milieu erinnerte, das aus den altgriechischen homerischen Epen Ilias und Odyssee bekannt ist. Gastmähler, Mengen von Luxusgegenständen, das Weben von Stoffen, Gesänge, prunkvolle Leichenzüge usw. Aus dieser Zeit sind auch Bestattungen bedeutender Häuptlinge auf Wagen nach dem Vorbild der östlichen Nomaden bekannt. Es bildete sich auch eine Art „Ritteradel“ heraus, der mit Teilen von Pferdegeschirren bestattet wurde. (Es scheint, dass die spätere keltische Okkupation, die nach der offiziellen Darstellung die hiesigen Länder aus der Urgeschichte herausführte, gegenüber der vorangehenden Hallstattzeit eher ein Schritt zurück war als ein wirklicher Fortschritt.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Einfälle der Eindringlinge aus dem Gebiet Ungarns führten über die Südwestslowakei und Südmähren weiter nach Norden und Westen. Nach hartnäckigem Kampf eroberten sie die mächtige befestigte Höhensiedlung Molpír bei Trnava, die für ihre Zeit ungewöhnliche Steinmauern mit Basteien besaß und vorher als uneinnehmbar erschien."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Geplündert wurden einige Herrenhöfe und viele Siedlungen und Anwesen in Südmähren. Erobert wurden riesige befestigte Höhensiedlungen wie Kotouč bei Štramberk. Nach hartnäckigen Kämpfen stand den Eindringlingen nichts mehr im Weg in die Gebiete Polens und Deutschlands, von wo sie mit unermesslicher Beute in ihre Steppen zurückkehrten. Ihre Einfälle störten auch den Fernhandel auf der sogenannten Bernsteinstraße zwischen den südlichen Ländern und der Küste der Ostsee (ein breiter Streifen vom Riesengebirge bis zur Tatra). Am Ende des skythischen Wütens verschwand der Klan- und Sippenadel aus dem Gebiet Südmährens. Irgendwann aus dieser Zeit stammt der Fund aus der Býčí skála im Mährischen Karst, wo fast 40 erschlagene Frauen, Männer und Kinder gefunden wurden. Die Umstände des Fundes berechtigen offenbar zu der Vermutung, dass es sich um ein Opfer für die Rettung des Landes vor den unaufhörlichen verheerenden Einfällen handelte und dass hier Personen von höherer gesellschaftlicher Bedeutung als „Opfer eines Teiles des Besten“ aus der Gesellschaft geopfert wurden. Anschließend kehrte das verarmte Land von dieser urgeschichtlichen Form des „Feudalismus“ zur vorangehenden Militärdemokratie zurück. Es entstand ein zahlreiches Netz kleiner befestigter Höhensiedlungen, besonders an den Rändern der Hügelländer; ihre Lage bezeugt das Bestreben, dem Feind aus dem Osten entgegenzutreten. Die Krise betraf nicht nur das Gebiet Mährens und der Slowakei, sondern erfasste die ganze Hallstattkultur auch im damals reichen und prächtigen Westen. Auf den Trümmern der Hallstattkultur erhob sich anschließend die keltische (Latène-)Kultur."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es folgten noch weitere Einfälle ganzer nomadischer Ethnien, wie etwa der Hunnen und der Awaren und weiterer, doch das betraf schon nicht mehr die Urgeschichte, sondern die historische Zeit, denn über diese Kriege gibt es historische Aufzeichnungen, sogar von unmittelbaren Teilnehmern."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eines hatten alle diese Einfälle gemeinsam. Die Nomaden hielten sich für den Bauern überlegen. In den Kampf zogen sie mit der Ideologie des Jägers, als gingen sie nicht gegen Gleichrangige kämpfen, sondern Wild jagen. Entsprechend verhielten sie sich auch gegenüber den Besiegten und Unterworfenen. Ihre Praktiken und ihr Denken imponierten zweifellos den damaligen einheimischen Adligen und auch ihren Nachkommen in ferner Zukunft. Noch viel später, in den Anfängen des böhmischen Staates, kam es vor, dass für die Untertanen der fremde Feind weniger gefürchtet war als der eigene übergeordnete Adel, und dass diese Grausamkeit ohne das Wirken der Kirche unverhältnismäßig größer gewesen wäre. Noch im 10. Jahrhundert n. Chr. denkt der arabisch-jüdische Kaufmann und Reisende Ibn Jakub darüber nach, dass sich die Obrigkeit im böhmischen Přemysliden-Staat den Untertanen gegenüber viel rücksichtsloser verhält als irgendwo sonst."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Jan Padych (in Ostrava am 8.9.2012)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Verwendete Quellen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "- V. Podborský und Kollektiv: Vlastivěda moravská – Pravěké dějiny Moravy - J. Pavelčík: Hlinsko – hradisko lidu bádenské kultury - M. Eliade: Od Zalmoxida k Čingischánovi - M. Golec (über die Horákov-Kultur und über Býčí skála) - L. Niederle: Slovanské starožitnosti - Jan Slavík: Vznik českého národa – I. národ v době družinné"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

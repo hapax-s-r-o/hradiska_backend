@@ -1,0 +1,98 @@
+{
+ "slug": "povest-modlatin",
+ "data": {
+  "title": "Die Sage vom Tal Modľatín unter der Orgoňova Kýčera",
+  "slug": "sage-vom-modlatin-tal",
+  "excerpt": "In den Bergen von Papradno und Mariková erhebt sich die 957 m hohe Kýčera, die die Bewohner von Mariková Orgoňova Kýčera nennen. Nördlich darunter erstreckt sich das Tal Modľatín mit seinen hölzernen Häuschen, dem Modľatínsky-Bach und dem fast urwaldartigen Buchenwald Starák, in dem ein Räuberschatz verborgen liegen soll. Die Sage erzählt, woher die Namen der beiden Berge kommen: Auf dem Žiar verbrannten die Heiden ihre Toten, und beten gingen sie an den Ort, der danach Modľatín heißt.",
+  "metaTitle": "Die Sage vom Tal Modľatín unter der Orgoňova Kýčera",
+  "metaDescription": "Eine Sage aus dem Tal Modľatín unter der Orgoňova Kýčera (957 m) in den Bergen von Papradno und Mariková: Woher die Namen Žiar und Modľatín kommen.",
+  "keyFacts": [
+   {
+    "label": "Aufzeichnung der Sage",
+    "value": "Erzählt von Santus, überliefert von M. Portášík, aufgezeichnet von Štefan Meliš",
+    "icon": "book"
+   },
+   {
+    "label": "Ort",
+    "value": "Das Tal Modľatín unter der Orgoňova Kýčera (957 m), Tal von Papradno",
+    "icon": "map"
+   },
+   {
+    "label": "Motiv",
+    "value": "Der Ursprung des Namens Modľatín – heidnische Leichenverbrennung auf dem Berg Žiar",
+    "icon": "fire"
+   },
+   {
+    "label": "Quelle",
+    "value": "Zeitschrift Polazník",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "vor der Ankunft des Christentums",
+    "title": "Heidnische Bestattungen auf dem Berg Žiar",
+    "description": "Die Heiden verbrannten ihre Toten auf dem Berg, den sie wegen der weithin leuchtenden Feuer Žiar nannten, und gingen für sie an einen Ort beten, der so den Namen Modľatín erhielt.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Bergen von Papradno und Mariková steht ein 957 m hoher Berg, die Kýčera, die die Bewohner von Mariková Orgoňova Kýčera nennen. Unten an ihrer Nordseite erstreckt sich das Tal Modľatín (Modľacín) mit Siedlungen hölzerner Häuschen, die einst den Sennen gehörten und heute zu Ferienhütten umgebaut sind. Durch das Tal fließt der Modľatínsky-Bach, der alle kleineren Bäche und Gräben sammelt. Bei der Siedlung Majer mündet er in die Papradňanka. Die Natur ringsum ist wunderschön: Wiesen voller Blumen und vor allem tiefe, duftende Wälder. Am steilen Hang der Kýčera findet sich ein sehr alter Wald, beinahe ein Urwald mit mächtigen Bäumen. Es sind vor allem Buchen, die der Zahn der Zeit und häufige Stürme gezeichnet haben. Den Wald nennt man seit Urzeiten Starák, denn dort stand immer alter Hochwald, den die Menschen mieden. Aus dem Wald fließt den steilen Hang hinab ein rascher Bach, der Starákový genannt wird. Zwischen den Baumwurzeln bis hinab auf den harten Fels hat er sich eine Schlucht gegraben und so eine wunderschöne Szenerie geschaffen – auf einer Länge von etwa 100 m lauter Stromschnellen und Wasserfälle. Und obwohl der Bach nicht groß ist, sind seine Wasserfälle auch mit diesem wenigen klaren Wasser bezaubernd, besonders an einigen Stellen und vor allem im Frühling, wenn der Schnee schmilzt. Alte Sagen erzählen, dass neben dem Starákový-Bach ein Loch ist – der Eingang zu einem steinernen Keller, in dem ein Räuberschatz verborgen liegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Sage über den Ursprung des Namens Modľatín erzählt:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Es war lange, lange her, als es bei uns noch keine Christen gab. Hier lebten Heiden, die verschiedene Götter hatten, sie verehrten und sich vor ihnen verneigten. Auch ihre Toten bestatteten sie anders als heute. Sie trugen sie bis auf den höchsten Gipfel des hohen Berges hinauf, schichteten einen Haufen Holz auf und legten den Verstorbenen darauf. Ja, sie umlegten ihn noch mit Holz und entzündeten es dann. Die aufgeschichteten brennenden Feuer leuchteten weithin, und darum nannten sie diesen Berg Žiar (žiariť – leuchten). Für die bestatteten – verbrannten – Toten gingen sie an einen Ort beten, der davon den Namen Modľatín (modliť sa – beten) erhielt.",
+    "author": "Santus",
+    "source": "überliefert von M. Portášík, aufgezeichnet von Štefan Meliš (Polazník)"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wer weiß – vielleicht findet sich einmal, wenn Archäologen an den Ort kommen, etwas, das diese Überlieferung stützt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,482 @@
+{
+ "slug": "strasny-muromar",
+ "data": {
+  "title": "Der schreckliche Muromar – eine Sage aus dem Tal von Papradno",
+  "slug": "der-schreckliche-muromar-sage-aus-papradno",
+  "excerpt": "Und hier ist noch eine Sage aus heidnischen Zeiten von Štefan Meliš und Stanislav Muntág, dieses Mal aus dem Tal von Papradno: Die ersten Slawen siedeln am namenlosen See unter dem Berg Žiar und wecken mit dem Abbrennen seines Gipfels das dreiköpfige Untier Muromar. Es bringt Unheil über die ganze Gegend und entführt dem Holzfäller Kondál die Braut Svatava – bis dieser mit einer vom alten heidnischen Priester verzauberten Axt gegen das Untier antritt.",
+  "metaTitle": "Der schreckliche Muromar – Sage aus dem Tal von Papradno",
+  "metaDescription": "Die Sage vom dreiköpfigen Untier Muromar auf dem Berg Žiar im Tal von Papradno: Der Holzfäller Kondál rettet mit verzauberter Axt seine Braut Svatava.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Štefan Meliš, Stanislav Muntág",
+    "icon": "book"
+   },
+   {
+    "label": "Ort",
+    "value": "Der Berg Žiar, Tal von Papradno (Mrská, Suchá)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Motiv",
+    "value": "Das dreiköpfige Untier Muromar, der Held Kondál und der Kampf um die Braut Svatava",
+    "icon": "fire"
+   },
+   {
+    "label": "Quelle",
+    "value": "Kráľ Matej pod Manínom, Matica slovenská, 2002",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Ankunft der ersten Slawen",
+    "title": "Besiedlung der Gegend am See unter dem Žiar",
+    "description": "Die ersten Slawen kamen in das Tal unter dem Javorník, ließen sich am See nieder und weckten mit dem Abbrennen des Berggipfels (seither Žiar genannt) das in seinem Innern verborgene Untier Muromar.",
+    "type": "event"
+   },
+   {
+    "year": "die Plage",
+    "title": "Muromar bedrängt die Gegend",
+    "description": "Das dreiköpfige Untier Muromar setzte sich auf den Gipfel des Žiar, spie Feuer und brachte Unheil über das Land – das Vieh gab keine Milch mehr, die Ernte verwelkte.",
+    "type": "event"
+   },
+   {
+    "year": "der Kampf",
+    "title": "Kondál erschlägt Muromar",
+    "description": "Der Holzfäller Kondál siegte mit der vom alten heidnischen Priester verzauberten Axt über den dreiköpfigen Muromar, rettete seine Braut Svatava und brachte dem Priester die drei Köpfe des Untiers.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Und hier haben wir noch eine weitere wunderbare Sage aus heidnischen Zeiten von den Herren Meliš und Muntág, dieses Mal aus dem Tal von Papradno."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es war einmal, schrecklich lange her. Das ganze Tal von Papradno war von tiefen Wäldern überwachsen, in denen jahrhundertealte Bäume standen, die nicht einmal zwei Männer mit den Armen umfassen konnten. Tannen und Fichten, Buchen, Eichen, Birken, Ahorne und allerlei andere Bäume. Inmitten der Wälder lag ein großer, tiefer See. Er reichte von Žeravica bis nach Košiare. Der See hatte keinen Namen, denn weit und breit gab es damals keinen Menschen, der ihn hätte benennen können."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bis eines Tages die ersten Menschen in diese Gegend kamen – die Slawen. Sie wanderten irgendwoher aus den ukrainischen Steppen ein, verdrängt von anderen, kriegerischeren Stämmen, und suchten in den Bergen der heutigen Slowakei Schutz und Nahrung. Irgendeine Familie verirrte sich in das tiefe Tal unter dem Javorník, kam bis an den zauberhaften See inmitten der Wälder, über dem sich ein strenger steinerner Wächter in die Höhe reckte – der heutige Berg Žiar."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Den einstigen Zuwanderern gefiel es in dieser Gegend, und sie ließen sich am Ufer des Sees unter den steilen Hängen des Berges nieder. Sie schlugen den Wald, rodeten ihn, pflügten die Erde und säten Getreide. Den Scheitel des Berges brannten sie ab – eine ungeheure Flamme flammte auf, deren Glut weithin strahlte. Seither heißt dieser Berg Žiar (von žiara – Glutschein). Auf dem entblößten Scheitel des Berges wollten sie einen Opferplatz für ihre Götter und einen Wachturm errichten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie wussten nicht, dass der Berg schon einen Bewohner hatte. Tief in den Felshöhlungen des Berges, die bis irgendwohin in die glühende Unterwelt reichen, hauste ein scheußliches Untier! Dem gefiel es nun wahrlich nicht, dass jene irdischen Würmchen, die von irgendwoher hergewandert waren, auf dem Berg lärmten, Bäume verbrannten und in der Erde wühlten. Zuweilen brüllte das Untier verdrießlich und warnend auf. Der Berg erzitterte, und die Leute erschraken, es erwache hier irgendein Vulkan oder Erdbeben zum Leben; doch als der Berg still wurde, schlugen sie sich die Sache aus dem Kopf und widmeten sich der Arbeit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In einem Tälchen, tief in den steinernen Leib des Žiar eingeschnitten, an der Stelle, die heute Suchá heißt, ließ sich damals ein junger Holzfäller nieder. Kondál hieß er und war ungeheuer kräftig, ein Kerl wie ein Berg. Er lebte vom Fällen alter Bäume und hatte wahrlich zu tun, denn die Leute brauchten gute, dicke Balken zum Bau von Hütten, Ställen und Schafhürden. Kondál ging es gut, einen Hof hatte er aufgebaut, und auch eine Hausherrin war schon in Sicht. Er hatte sich nämlich in eine schöne Maid verliebt – Svatava hieß sie, und die ging wahrlich gern an einen so schmucken Burschen. Die Hochzeit bereiteten sie vor."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eines Tages erzitterte die Erde erneut. Die Hirten hatten eben die Kuhherde auf das Podžiar hinausgetrieben und waren über die saftige Wiese bis in die Lage Kopence weitergeweidet, wo ein breiter Wiesensattel den scharfen Grat durchbricht, der sich wie der Rücken eines urzeitlichen Echsentiers vom Tal über Lazy bis auf den Scheitel des Berges selbst zieht. Plötzlich begannen die Kühe aufgeschreckt zu brüllen. Sie ließen die Weide liegen, hoben die Schwänze und liefen auf und ab."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Was ist heute mit ihnen? – rätseln die Hirten. Welcher Teufel hat sie aufgeschreckt? Es naht doch kein Gewitter, heiter ist es, und weit und breit ist kein Bär oder sonstiges Wild. Umsonst zerbrechen sich die Hirten die Köpfe über diesem Rätsel. Etwas Drohendes hing in der Luft. Die Kühe drängten sich auf einmal eng aneinander, brüllen verzweifelt und blicken unverwandt auf eine Stelle mitten auf der Wiese. Auch die Hirtenhunde klemmten die Schwänze ein und winseln verschreckt zu den Füßen ihrer Herren. Männer, das sind keine guten Zeichen! – ruft der älteste Hirte. – Etwas geht vor!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da erzitterte die Erde. Die Hirten fielen beinahe von den Füßen. An jener Stelle, auf die die Kühe entsetzt gestarrt hatten, riss die Wiese auf, die Luft zischte, und ein Wirbelwind trug Grasbüschel in die Höhe. Ein scheußliches dreiköpfiges Untier kletterte aus dem Loch, brüllte zornig auf, Flammen schlagen ihm aus den Nüstern, die Luft stinkt nach Schwefel und Ammoniak. Das Untier blickte um sich und wälzte sich schwerfällig auf den Gipfel des Žiar hinauf. Dort machte es sich breit. Viele Tage saß das Untier auf dem Scheitel des Žiar. Zuweilen brüllte es zornig auf, bis die Berge erzitterten, und spie Flammen aus den Nüstern. Die Leute hatten ungeheure Angst vor ihm. Das Vieh wollte nicht weiden, brüllte nur aufgeschreckt in den Stallungen. Die Hühner hörten auf, Eier zu legen, die Kühe verloren auch die Milch, die Ernte auf den Feldern verwelkte. Eine Plage kam über die ganze Gegend."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Umsonst riefen die Leute die alten Götter an, brachten Opfer dar, beteten und flehten Perun an, das Untier mit dem Blitz zu erschlagen. Es gab keine Hilfe für sie."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nur Kondál hatte keine Angst. Im Wald Mrská, der den steilen felsigen Hang des Žiar bedeckt, fällte er Bäume, ließ sie den unwegsamen Absturz hinab, bereitete im Tal das Holz für die Händler, als wäre nichts Besonderes geschehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Kondál, Kondál“, schütteln die Leute die Köpfe, „wahrlich, du wirst schlecht fahren! Muromar selbst wird dich züchtigen.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Ja, wahrlich“, fügen andere hinzu, „wegen deines Lärmens ist er erwacht und aus der Erde gekrochen.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„So ist es wahrlich“, bekräftigen weitere, „gerade in der Mrská, wo du Holz schlägst, hatte er seine Höhle. Dort in den Felsen ist das Drachenloch, durch das er in die Welt schaute, und du hast ihn gestört.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kondál gab jedoch nichts auf dieses Gerede und schlug weiter Holz. Er stieg schon nicht mehr ins Dorf hinab, damit ihn die Leute nicht unnötig mit Geschwätz vergifteten. Zuweilen ging er zum See auf dem Talgrund, um Fische zu fangen, und gleich wieder husch nach Hause in die Suchá oder auch geradewegs in die Mrská, Holz schlagen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Dein Kondál ist an allem schuld“, sagen die Leute zu Svatava, „In der Mrská beim Drachenloch schlägt er Holz. Und er lässt sich nichts sagen. Unglück hat er über uns gebracht.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Svatava machte sich mit Tränen in den Augen auf zu Kondál. Wie sie den Wiesenweg unter dem Žiar hinläuft, senkte sich auf einmal eine dunkle Wolke vom Himmel. Svatava kam wahrlich nicht bei Kondál an. Nur die Leute kamen, es ihm zu sagen:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Muromar hat dir die Braut entführt. Wer weiß, ob die Arme noch atmet.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein schrecklicher Zorn flammte in Kondál auf. Er packte seine scharfe Axt und machte sich in den Wald auf. Doch ging er nicht zu Muromar, sondern zu jener einsamen Hütte unter dem Javorník, der jeder von weitem auswich. In ihr lebte nämlich der alte heidnische Priester, der allerlei Zauber kannte und mit allerlei unreinen Mächten paktierte. Kaum erblickte er Kondál, lächelte er auch schon unter dem langen Schnurrbart."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Muromar macht dir Verdruss, was?“ fragte er den Burschen, obwohl er die Antwort gut kannte und längst alles wusste."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dann fuhr er fort. „Muromar ist ein mächtiger Dämon, aber ich bin mächtiger, bei Perun!“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Er nahm Kondál die Axt, stieß sie in die Glut, warf irgendwelche geheimnisvollen Kräuter hinzu und sprach Zauberformeln aus. Die Glut flammte sogleich mit beißender Flamme auf, sodass Kondál erschrak, die Axt werde ihm ganz verbrennen. Der Greis aber zog sie so glühend mit der bloßen Hand aus dem Feuer und reichte sie kurz darauf Kondál."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„So, und nun geh und schlage Muromar die Köpfe ab. Und bring sie mir hierher. Alle drei. Sie werden mir wahrlich nützlich sein!“ sagte der alte heidnische Priester."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kondál läuft, klettert auf den Gipfel des Žiar, hält nach dem Untier Ausschau."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Nun komm, du höllisches Ungeheuer! Versteckst du dich etwa vor mir, Feigling? Komm heraus, damit sich zeigt, wer stärker ist!“ rief er aus aller Kraft. Es dröhnte, eine Flamme blitzte auf dem Scheitel des Berges auf. Kondál klettert furchtlos immer höher. Schon ist er auf der letzten Lichtung unter dem scharfen Gipfel des Žiar. Plötzlich krachten die Bäume. Eine stattliche Fichte fiel wie abgehauen, und ein riesiger Felsblock stürzte aus dem Wald geradewegs auf Kondál zu. Der kam zu nichts mehr, hob nur unbewusst die Hand mit der Axt. Der Stein blieb vor ihm auf halbem Hang stehen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Gute Zauber hat dieser alte Hexenmeister!“ – atmet der Bursche auf und beschleunigt ermutigt seinen Schritt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Schon ist er in Reichweite des Gipfels, schon riecht er den Gestank von Schwefel und Ammoniak, hört das dumpfe Röcheln des Untiers und das leise Stöhnen der geliebten Svatava, die neben dem Ungeheuer liegt, von stechendem Gebüsch gefangen gehalten. Muromar brüllte erneut. Er hob sich in die Höhe und verdunkelte mit häutigen Flügeln die Sonne. Drei scheußliche Köpfe blicken unverwandt auf Kondál, speien Feuer, Schwefel und schrecklichen Gestank. Ein ungeheurer Kampf brach los. Kondál haut mit der Axt in den Leib des Untiers, Muromar windet sich, brüllt, versucht den Burschen mit glühendem Atem zu verbrennen, ihn mit dem gezahnten, rasiermesserscharfen Schwanz zu zerschlagen oder mit der riesigen Pranke zu zertreten. Kondál dreht sich wie ein Wilder. Er kämpft, ringt mit übermenschlicher Kraft, doch schon erlahmt er. Der Kopf dreht sich ihm, der giftige Atem des Ungeheuers hat ihn betäubt. Das Untier sieht, dass Kondál am Ende seiner Kräfte ist. Es brüllt erneut schrecklich auf, und der größte seiner Köpfe nähert sich schon, um das menschliche Würmchen mit einem Atemzug zu Kohle zu verbrennen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Da nahm Kondál Schwung und hieb mit den letzten Kräften dem Höllenwesen geradewegs in den Kopf. Das glühende Maul brüllte schmerzlich auf und stürzte zu Boden. Irgendein klebriges Pech spritzte dem Untier aus dem Leib. Das Ungeheuer taumelte, brüllte vor Schmerz. Kondál zögert nicht, springt in die Höhe und haut in den zweiten Kopf. Dann auch in den dritten. Der kopflose Leib des Ungeheuers windet sich im Todeskrampf, und der Bursche haut schon halb ohnmächtig in die Dornen, die seine geliebte Svatava umschließen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So rettete der tapfere Kondál sich selbst, seine Liebste und die ganze Gegend um den Berg Žiar. Die Köpfe des Untiers trug er – wie er versprochen hatte – in einem Sack zur Hütte des alten heidnischen Priesters unter dem Javorník. Seither ist im Innern des Žiar Ruhe."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auch wenn manche behaupten, dass irgendein anderer Bewohner hier in die unterirdischen Kammern eingezogen sei. Die Leute lärmen hier nicht mehr so viel, der Žiar ist wieder mit Wald überwachsen, Ruhe hat sich in seine geheimnisvollen Winkel ausgebreitet. Und aus der Tiefe des Drachenlochs in der Mrská soll zuweilen das dumpfe Schnarchen des Untiers erklingen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

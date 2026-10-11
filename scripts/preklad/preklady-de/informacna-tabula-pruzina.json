@@ -1,0 +1,189 @@
+{
+ "slug": "informacna-tabula-pruzina",
+ "data": {
+  "slug": "informationstafel-pruzina-mesciska",
+  "title": "Informationstafel unter dem Burgwall Mesciská in Pružina",
+  "excerpt": "Die Mitglieder des Bürgervereins Hradiská stellten am 16. 6. 2013 in Pružina beim Weiler Ritka (heute Riedka) unterhalb des Hanges des slawischen Burgwalls Mesciská eine neue Informationstafel auf. Sie weist die Touristen auf der blauen Wander- und Radroute darauf hin, dass sich ein kurzer Abstecher zu diesem außergewöhnlichen Burgwall lohnt. Zur Aufstellung kamen auch die Mitglieder des archäologischen Zirkels in Považská Bystrica, die den Burgwall in den 1990er Jahren entdeckt haben.",
+  "metaTitle": "Informationstafel Pružina – Burgwall Mesciská",
+  "metaDescription": "2013 stellte der Verein Hradiská beim Weiler Ritka unter dem slawischen Burgwall Mesciská eine Informationstafel auf; es kamen auch seine Entdecker.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Aufstellung einer Informationstafel unter dem Burgwall Mesciská (Pružina)",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "16. 6. 2013 (Verein Hradiská)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2013",
+    "title": "Informationstafel Pružina",
+    "type": "event",
+    "description": "Beim Weiler Ritka; Unterstützung durch Bürgermeister M. Ušiak, Teilnahme des archäologischen Zirkels aus Považská Bystrica."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5615,
+    "caption": "das rote Kreuzchen bezeichnet die ungefähre Stelle der Tafel",
+    "alt": "das rote Kreuzchen bezeichnet die ungefähre Stelle der Tafel"
+   },
+   {
+    "mediaId": 5626,
+    "caption": "Herr Olšovský hatte sehr aufmerksame Schüler…",
+    "alt": "Herr Olšovský hatte sehr aufmerksame Schüler…"
+   },
+   {
+    "mediaId": 5627,
+    "caption": "Von links die Herren Miko, Janech, Olšovský, Meliš, Zemančík und Mitglieder des Vereins Hradiská",
+    "alt": "Von links die Herren Miko, Janech, Olšovský, Meliš, Zemančík und Mitglieder des Vereins Hradiská"
+   },
+   {
+    "mediaId": 5630,
+    "caption": "der frühere und der jetzige Bürgermeister von Pružina",
+    "alt": "der frühere und der jetzige Bürgermeister von Pružina"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mitglieder des Bürgervereins Hradiská haben am 16. 6. 2013 in Pružina beim Weiler Ritka (heute Riedka) unterhalb des Hanges des "
+       },
+       {
+        "type": "link",
+        "url": "/blog/pruzina-mesciska",
+        "children": [
+         {
+          "type": "text",
+          "text": "slawischen Burgwalls Mesciská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " eine neue Informationstafel aufgestellt, die die Touristen, die auf der blauen Wander- (und auch Rad-)Route unterwegs sind, darauf hinweisen wird, dass es sich lohnt, einen kurzen Abstecher von der Route zu machen und diesen außergewöhnlichen Burgwall zu besuchen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf die Aufstellung haben wir uns schon am Samstagabend gründlich vorbereitet, als wir direkt auf dem Burgwall ankamen, wo wir eine kleine slawische Siedlung errichteten. Hochwertiger Modraner Wein und gute Laune durften nicht fehlen. Am nächsten Tag machten wir uns dann an die Aufstellung und Enthüllung der Tafel selbst.  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Zu unserer unermesslichen Freude kamen die Mitglieder des heute schon legendären archäologischen Zirkels in Považská Bystrica an den Ort, um uns zu unterstützen: "
+       },
+       {
+        "type": "text",
+        "text": "Štefan Meliš, Martin Olšovský, Ladislav Janech, Gašpar Zemančík und Stanislav Miko",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". Es waren genau sie, die den Burgwall in den 1990er Jahren entdeckt und aufgezeichnet haben. Wir haben von ihnen eine große Menge wertvoller Informationen erfahren. Wir danken Ihnen, dass Sie sich die Zeit genommen haben und zu uns gekommen sind.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "das rote Kreuzchen bezeichnet die ungefähre Stelle der Tafel",
+    "alt": "das rote Kreuzchen bezeichnet die ungefähre Stelle der Tafel",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unser Bemühen hat auch der Bürgermeister der Gemeinde Michal Ušiak unterstützt, der uns entgegenkam: er lieferte Schotter und Zement und ließ die Fläche mähen, auf der die Tafel stehen sollte. Er versprach außerdem die Erstattung der Herstellungskosten der Tafel. Für seine Haltung gebührt ihm großer Dank.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tafel haben wir nach Absprache mit dem Bürgermeister an einer Stelle zwischen dem Mojtínsky-Bach und dem blauen Wanderweg aufgestellt. Von der Tafel führt ein Feldweg, auf dem Sie bequem in fünf Minuten zum Burgwall kommen. Wir glauben, dass dieser Ort und auch der Burgwall selbst zu einem begehrten Ziel für Touristen und für alle werden, die sich für unsere glorreiche Geschichte interessieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Wir freuen uns auf die nächste Informationstafel, die wir in Modra aufstellen werden…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Fotos: Stanislav Miko, Miroslav Bros, Sammi, Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

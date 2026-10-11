@@ -1,0 +1,148 @@
+{
+ "slug": "perunov-haj-pri-ubrezi",
+ "data": {
+  "title": "Perúnov háj bei Úbrež – ein Hain des Perun im Vihorlat",
+  "slug": "perunov-haj-ubrez-slawischer-kultplatz",
+  "excerpt": "Viele kennen die Erzählung von Eduard Hvižďák über den Perúnov háj bei Úbrež. Herr Hvižďák widmet sich dieser Fundstelle und ihrer Erforschung als Laie schon länger und hat viel Material dazu zur Verfügung gestellt; hier eine kurze Zusammenfassung dessen, was er bisher herausgefunden hat. Die Urkunde, in der der Perúnov háj erstmals genannt wird, stammt aus dem Jahr 1327 und betrifft die Grenzen zwischen den Gütern zweier Adliger. Archäologisch nachgewiesen ist das Heiligtum bislang nicht.",
+  "metaTitle": "Perúnov háj bei Úbrež – ein Kultplatz der Slawen",
+  "metaDescription": "Eine Zusammenfassung zur rätselhaften Fundstelle Perúnov háj bei Úbrež in der Ostslowakei und zu ihrer Erforschung durch den Laienforscher Eduard Hvižďák.",
+  "keyFacts": [
+   {
+    "label": "Quelle/Forschung",
+    "value": "Eduard Hvižďák",
+    "icon": "book"
+   },
+   {
+    "label": "Lage",
+    "value": "Úbrež, Vihorlat-Gebirge – ein Eichenhain bei der Siedlung „U Brehu Perúnového hája“",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "Erste schriftliche Erwähnung aus dem Jahr 1327",
+    "icon": "calendar"
+   },
+   {
+    "label": "Motiv",
+    "value": "Ein dem Perun geweihtes Heiligtum, nach den vier Elementen orientiert",
+    "icon": "fire"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1327",
+    "title": "Erste schriftliche Erwähnung",
+    "description": "In einer Urkunde über die Festlegung der Grenzen zwischen den Gütern zweier Adliger wird der Perúnov háj bei Úbrež erstmals erwähnt.",
+    "type": "event"
+   },
+   {
+    "year": "2011",
+    "title": "Archäologische Prospektion",
+    "description": "Im Frühjahr 2011 untersuchten Archäologen die Oberfläche des Heiligtums mit dem Metalldetektor und fanden keinen einzigen Metallgegenstand, was der Regel entspricht, den heiligen Bezirk ohne Metall zu betreten.",
+    "type": "event"
+   },
+   {
+    "year": "unbestimmt",
+    "title": "Untergang des Heiligtums",
+    "description": "Die Anlage eines Entwässerungsgrabens unterhalb der Kárna trocknete den Perúnov háj aus; damit verschwanden die Grenzen des heiligen Bezirks und auch sein Energiefeld.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4133,
+    "caption": "Úbrež auf der 1. militärischen Landesaufnahme im 18. Jahrhundert",
+    "alt": "Úbrež auf der 1. militärischen Landesaufnahme im 18. Jahrhundert"
+   },
+   {
+    "mediaId": 4134,
+    "caption": "Detail der 1. militärischen Landesaufnahme von jener Stelle, wo der Perúnov háj lag",
+    "alt": "Detail der 1. militärischen Landesaufnahme von jener Stelle, wo der Perúnov háj lag"
+   },
+   {
+    "mediaId": 4135,
+    "caption": "Das Perun-Heiligtum Peryn (Russland). Ähnlich konnte es auch bei Úbrež ausgesehen haben, auch wenn wir bislang keine archäologischen Belege haben",
+    "alt": "Das Perun-Heiligtum Peryn (Russland). Ähnlich konnte es auch bei Úbrež ausgesehen haben, auch wenn wir bislang keine archäologischen Belege haben"
+   },
+   {
+    "mediaId": 4137,
+    "caption": "Blick auf die Stelle, wo nach Herrn Hvižďák und Alexander Dyj das Heiligtum lag",
+    "alt": "Blick auf die Stelle, wo nach Herrn Hvižďák und Alexander Dyj das Heiligtum lag"
+   },
+   {
+    "mediaId": 4138,
+    "caption": "Diese Steine fand der heidnische Priester Alexander Dyj und bezeichnete sie als Runensteine",
+    "alt": "Diese Steine fand der heidnische Priester Alexander Dyj und bezeichnete sie als Runensteine"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Viele von Ihnen kennen sicher die vortreffliche Erzählung von Herrn Eduard Hvižďák "
+       },
+       {
+        "type": "link",
+        "url": "http://www.svatohaj.sk/perunov_haj_ubrez.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "Perúnov háj pri Úbreži."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Herr Hvižďák, der sich dieser interessanten Fundstelle und ihrer Erforschung als Laie schon länger widmet, hat mir eine Menge Material geschickt, das mit dem Hain zusammenhängt. Es wäre schade, auch die übrigen Leser damit nicht bekannt zu machen. Deshalb bringe ich eine kurze Zusammenfassung dessen, was Herr Hvižďák bisher herausgefunden hat. Die Urkunde, in der der Perúnov háj bei Úbrež erstmals erwähnt wird, stammt aus dem Jahr 1327 und betrifft die Festlegung der Grenzen zwischen den Gütern zweier Adliger. Die Tradition des Perúnov háj war hier offenbar sehr stark, wenn sie bis in das 14. Jahrhundert fortdauerte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Úbrež auf der 1. militärischen Landesaufnahme im 18. Jahrhundert",
+    "alt": "Úbrež auf der 1. militärischen Landesaufnahme im 18. Jahrhundert",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Vor einigen Jahren habe ich zufällig erfahren, dass sich an Úbrež eine schriftliche Erwähnung bindet, in der der Perúnov háj genannt wird. Da ich im Winter etwas mehr freie Zeit habe, begann ich mich dafür zu interessieren, vor allem für die Nachrichten darüber, und ich begann, das Gelände abzugehen, denn ich wohne hier. Anfangs dachte ich auch, wie jeder Mensch, dass sich dort irgendwelche Kultgegenstände finden könnten. Ich dachte an Schwerter, Lanzen, Speere, da es ein Heiligtum mit dem Kult des Perun ist. Im vorigen Jahr haben zwei Archäologen das mit Metalldetektoren untersucht, und an der Stelle des Heiligtums nicht ein Gramm Eisen; bei den Hügelgräbern haben wir einen rostigen Nagel, einen Sechziger, gefunden – das war wohl, als man dort den Weingarten anlegte.\nDann setzte ich mich mit www.vedy.sk in Verbindung, und der Herr, der diese Seite betreibt, vermittelte mir ein Treffen mit dem höchsten slawischen heidnischen Priester Alexander Pater Dij aus Omsk, der dieses Heiligtum zufällig auf seiner Rundreise durch Europa besuchte und der mir nach Vorlage meiner Materialien zu 100 % bestätigte, dass dieses Heiligtum glaubwürdig ist, und der unweit des Heiligtums Steine mit Runenzeichen fand. Im Grunde wusste er, was er suchen muss und wie es wirklich ausgesehen hat und wozu es eigentlich diente, denn bei ihnen funktioniert das bis heute. Er erklärte mir, wie unsere Vorfahren dachten, nicht wie wir denken. Unser Verständnis und unsere Fragen sind meilenweit entfernt von dem, wozu es eigentlich diente und wie es diente.\nViele Leute fragen mich, wie es in jenem Perúnov háj in alten Zeiten zugegangen ist. Die Menschen kamen von der Westseite her in die Siedlung „U Brehu Perúnového hája“, ich denke, von der großen slawischen Siedlung Hnojné. Den Menschen aus entfernteren Gegenden wies der Berg Vihorlat, der höchste und dominierende Gipfel des Vihorlat-Gebirges, die Richtung zum zentralen Heiligtum. In der Siedlung „U Brehu Perúnového hája“ erhielten die Menschen Anweisungen zum Ablauf. Oberhalb der Siedlung „U Brehu Perúnového hája“ lagen in der Rika zwei Wasserbecken, der Veľký und der Malý Vir. Man trat von Westen nach Osten ein. Die Furt existiert nicht mehr, heute steht dort eine Betonbrücke, und auch der Veľký und der Malý Vír nicht mehr, denn der Fluss Rika wurde entwässert und ausgetrocknet. Bis heute ist die Rika im Bewusstsein der örtlichen Bevölkerung heilig. Das Heiligtum betrat man barfuß, in Kleidung nur aus Naturmaterialien /Hanf, Leinen/, ohne Silber, Gold, Eisen, Waffen usw. und mit offenen Haaren. Der Weg im Eichenhain war links und rechts von Steinen gesäumt, die mit Runenzeichen bedeckt waren, und weitere Steine waren so bearbeitet, dass sie wie ein Puzzle ineinanderpassten. Inmitten des Eichenhains stand das Heiligtum, wo im Kreis des Perun heilige Feuer aus Eichenholz brannten, und das Idol war dort aufgestellt, wo aus der Erde starke positive Energie hervorquillt. Die Besucher dieses Heiligtums standen mit dem Gesicht nach Norden /Berg Vihorlat/ und mit dem Rücken nach Süden, im Einklang mit der Lehre der Slawen. Das positive Energiefeld ist auf der südwestlichen Seite von der Siedlung „U Brehu“ und auf der nordöstlichen vom Hügelgräberfeld begrenzt, dazu Wasserläufe im ganzen Umkreis. Der stärkste Punkt dieser positiven Zone befindet sich inmitten des Heiligtums unter dem Idol. Hier fanden die Riten statt, bei denen die Menschen zu Ehren des Perun schwuren und Gelübde ablegten. Der Teilnehmer trat von Westen her ein, hinter dem Wasser. Von Westen, denn dort, wo die Sonne untergeht, verstanden unsere Vorfahren die Unterwelt, und hinter dem Wasser, weil das Wasser die Grenze des Perúnov háj war. Bis heute hat sich die Redensart erhalten, dass einer „hinter dem Wasser“ (in Sicherheit) ist. Sie gingen auf dem Weg, der von Westen nach Osten ausgerichtet war, denn den Osten verstanden sie als den Ort, wo die Sonne aufgeht, als den Himmel. Deshalb war das Heiligtum nach Osten orientiert und man betrat es von der Westseite. Bis heute sind die älteren Bauten, d. h. die Kirchen, so orientiert. Barfuß trat man ein, damit der Mensch positive Energie aufnehmen konnte, denn Schuhe wirken wie ein Isolator. Auch die Haare nehmen positive Energie auf, und Metallgegenstände stören und entwerten die positive Energie. Deshalb trat man ohne sie ein.\nIm Frühjahr 2011 wurde die Oberfläche des Heiligtums von Archäologen mit dem Metalldetektor untersucht, und es wurde kein Gegenstand aus Metall gefunden; es ist also kein Zufall, dass sich dort nichts dergleichen fand, denn so etwas durfte dort gar nicht sein. Das Heiligtum lag in einem Eichenhain, denn die Eiche als Baum ist dem Perun geweiht, und zwar dort, wo die größte positive Energiekonzentration war; diese Stelle bestimmten sie als Mitte des Rundbaus. Der Kreis war nur mit kleinen Steinen oder mit einer Rille im Gelände bezeichnet. Mit der Rille im Gelände bezeichneten sie die Grenze des Energieortes. Die Rundbauten wurden zur Auffüllung der Körperenergie und für rituelle Zwecke genutzt. Im Heiligtum brannten Feuer aus Eichenholz im Kreis. Nach der Lehre unserer Vorfahren, d. h. es gibt vier Elemente: Feuer, Wasser, Luft und Erde. Feuer – Perun – Süden, Wasser – Lada – Westen, Luft – Stribog – Osten und Erde – Veles – Norden. Nach dieser Lehre war auch dieses Heiligtum, d. h. der Perúnov háj, so angelegt, das heißt: ein Eichenhain, Feuer aus Eichenholz und ein Idol aus Eichenholz, in das der Blitz eingeschlagen hatte, d. h. im Zeichen des Perun, d. h. Perun, auf der Erde, d. h. Veles, umgeben von Luft, d. h. Stribog, und im ganzen Umkreis von Wasser begrenzt, d. h. Lada. Das Wasser schützt und reinigt den Perúnov háj. Im Heiligtum brannten Feuer zu Ehren des Perun auf der Erde – Veles, und im ganzen Umkreis von Wasser begrenzt, d. h. Lada, und die Luft Stribog. Das fünfte Element ist das Schicksal, d. h. Mokosch. Deshalb liegt die Siedlung „U Brehu“ auf der Westseite hinter dem Wasser, und die Reinigung wurde ebenfalls von der Westseite des Beckens aus vollzogen. Die Hügelgräber liegen auf der nordöstlichen Seite hinter dem Wasser auf einer sanften Anhöhe, weil dort die Sonne aufgeht – der Himmel. Auf der Nordseite des Perúnov háj finden sich auf Luftbildern kreisförmige Befunde – Hügelgräber, Norden Veles, der Hüter der Unterwelt. Ich nehme an, dass dort hochgestellte geistliche Personen begraben sind, auf Brandbestattungsart, gleich neben dem Hügelgräberfeld hinter dem Wasser. Im Perúnov háj durfte keine Tätigkeit ausgeübt werden, nur die rituelle.\nDie Zerstörung des Heiligtums.\nDadurch, dass unterhalb der Kárna ein Entwässerungsgraben ausgehoben wurde, kam es zur Entwässerung und Austrocknung des ganzen Perúnov háj, und damit wurden die Grenzen des heiligen Haines beseitigt, es kam zur Zerstörung des positiven Energiefeldes. Es gab kein Becken zur Reinigung des Körpers vor dem Eintritt und auch kein Trinkwasser, und dem Heiligtum fehlte das vierte Element – Wasser – Lada, und damit erfüllte das Heiligtum die Bedingungen nach der Lehre der Slawen – die vier Elemente – nicht mehr. Auf der 1. militärischen Landesaufnahme wird erwähnt, dass auf dem kahlen Hügel Debra die Soldaten eine „rušička“ (wörtlich eine Störerin) /eine Holzkirche/ des östlichen Ritus erwähnen. Störte sie die positive Energie?",
+    "author": "Eduard Hvižďák",
+    "source": null
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Abschließend möchte ich nur hinzufügen, dass sich das Heiligtum bislang archäologisch nicht nachweisen ließ. Sollte sich in dieser Richtung in Zukunft etwas ändern, werden wir sicher unter den Ersten sein, die Sie darüber informieren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

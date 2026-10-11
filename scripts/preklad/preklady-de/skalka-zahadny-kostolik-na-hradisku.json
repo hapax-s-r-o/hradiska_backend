@@ -1,0 +1,192 @@
+{
+ "slug": "skalka-zahadny-kostolik-na-hradisku",
+ "data": {
+  "title": "Skalka – eine rätselhafte Kirche auf dem Burgwall Chochel",
+  "slug": "skalka-raetselhafte-kirche-burgwall-chochel",
+  "excerpt": "Dwarf Digital Archeology hat eine Visualisierung der rätselhaften kleinen Kirche geschaffen, die im Schnittpunkt der Achsen des slawischen Burgwalls Chochel in Skalka nad Váhom stand: ein Schiff von 5,3 × 5,4 – 5,6 m mit halbrunder Apsis, dessen Wände möglicherweise aus Holz bestanden. Nach M. Hanuliak entstand der Bau vielleicht schon in großmährischer Zeit. In seinem Inneren lag ein Grab, an dem Anti-Vampir-Praktiken vollzogen wurden.",
+  "metaTitle": "Skalka – rätselhafte Kirche auf dem Burgwall Chochel",
+  "metaDescription": "Die rätselhafte kleine Kirche auf dem slawischen Burgwall Chochel in Skalka nad Váhom: Maße, hölzerne Wände, großmährische Datierung und ein Vampirgrab.",
+  "keyFacts": [
+   {
+    "label": "Lage",
+    "value": "slawischer Burgwall Chochel, Skalka nad Váhom",
+    "icon": "star"
+   },
+   {
+    "label": "Die Kirche",
+    "value": "Schiff 5,3 × 5,4 – 5,6 m + Apsis (6,2 m), Wände konnten aus Holz sein",
+    "icon": "star"
+   },
+   {
+    "label": "Datierung",
+    "value": "möglicherweise schon aus der Zeit Großmährens (M. Hanuliak)",
+    "icon": "star"
+   },
+   {
+    "label": "Besonderheit",
+    "value": "Vampirgrab im Innenraum (Anti-Vampir-Praktiken)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9. Jahrhundert / Großmähren",
+    "title": "Der Sakralbau",
+    "description": "Die kleine Kirche im Schnittpunkt der Achsen des Burgwalls.",
+    "type": "event"
+   },
+   {
+    "year": "nach dem Bau der Kirche",
+    "title": "Anti-Vampir-Bestattung",
+    "description": "Ein Individuum ohne Schädel, mit 11 Steinen beschwert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5800,
+    "caption": "Visualisierung des möglichen Aussehens der Kirche aus der Werkstatt von Dwarf Digital Archeology",
+    "alt": "Visualisierung des möglichen Aussehens der Kirche aus der Werkstatt von Dwarf Digital Archeology"
+   },
+   {
+    "mediaId": 5801,
+    "caption": "Der markierte Burgwall (L. Šubovič)",
+    "alt": "Der markierte Burgwall (L. Šubovič)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology hat für uns eine interessante Visualisierung der rätselhaften kleinen Kirche geschaffen, die auf dem slawischen Burgwall Chochel in Skalka nad Váhom stand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im mittleren Teil des slawischen "
+       },
+       {
+        "type": "link",
+        "url": "/blog/skalka-nad-vahom",
+        "children": [
+         {
+          "type": "text",
+          "text": "Burgwalls Chochel (Skalka nad Váhom)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", im Schnittpunkt seiner Längs- und seiner Querachse, wurde ein Sakralbau errichtet. Er bestand aus einem Schiff von unregelmäßig quadratischem Grundriss und einer flach ausgewölbten halbrunden Apsis. Seine Außenmaße kennzeichnet die Angabe 5,3 × 5,4 – 5,6 m, bzw. 6,2 m einschließlich der Apsis. Die Längsachse des Baus, die durch die Mitte der Apsis verläuft, hat die Richtung SO–NW, sie weicht also um 43° von der in der Linie O–W abgesteckten Sakralachse ab. Von der Südseite schließen sich an die Mauer zwei quadratische Vorsprünge an, die offenbar der Rest der Fundamente einer halsartigen Überdachung des Eingangsportals sind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Visualisierung des möglichen Aussehens der Kirche aus der Werkstatt von Dwarf Digital Archeology",
+    "alt": "Visualisierung des möglichen Aussehens der Kirche aus der Werkstatt von Dwarf Digital Archeology",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bau hat sich in Form von einer bis zwei untersten Lagen des Fundamentmauerwerks erhalten, das aus Bruchsteinen lokaler Herkunft errichtet und mit Mörtel verbunden war. Die Steine einiger Abschnitte des Umfassungsmauerwerks waren nur durch Lehm verbunden. Der Innenfußboden war nach Art eines Terrakottaverbandes mit dünnen, flachen Sandsteinen bedeckt. Das völlige Fehlen von Steinen in der Umgebung des Sakralbaus weckt Zweifel daran, ob aus diesem Material seine Umfassungswände und gegebenenfalls auch die halsartige Überdachung des Eingangsportals errichtet waren. Wäre es so gewesen, so wäre deren Kubatur nicht zu vernachlässigen gewesen – sie lässt sich auf über 30 m³ schätzen. Bei der Ausgrabung wurden jedoch nicht einmal Bruchstücke des Mörtelbindemittels erfasst, das an der Stelle geblieben wäre, selbst wenn das Mauerwerk abgetragen und die Steine zur Zweitverwendung an einen anderen Ort gebracht worden wären. Es lässt sich daher nicht ausschließen, dass die Wände des Sakralbaus aus Holz errichtet waren. Das konzentrierte Auftreten eiserner Klammern und Nägel in der Umgebung des Sakralbaus gehört ebenfalls zu den Belegen für die Verwendung von Holz und für die konstruktive Verbindung einiger seiner Teile. Der durch die Ausgrabung freigelegte Verlauf des Fundamentmauerwerks erinnert an die Unterbauten hölzerner Sakralbauten, die im Frühmittelalter wie im Hochmittelalter in mehreren Techniken ausgeführt wurden. Aus dem 10.–12. Jahrhundert sind solche Bauten im benachbarten Österreich und in Polen belegt, in größerer Zahl jedoch in den Ländern West- und Nordeuropas. In den meisten Fällen stellten sie sakrale Provisorien dar, die nach einiger Zeit durch steinerne ersetzt wurden. Nach Milan Hanuliak ist es wahrscheinlich, dass die Kirche schon in der Zeit des Bestehens Großmährens erbaut wurde. Dafür sprechen mehrere Umstände, wie z. B. die Platzierung des Baus, die im 9. Jahrhundert üblich war, in der Zeit der Entfaltung der Sakralarchitektur im ungarischen Staat im 11. und 12. Jahrhundert aber nicht vorkommt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Ein Vampir im Heiligtum auf dem Burgwall"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Fall des Individuums aus dem Grab, das im Inneren des Sakralbaus angelegt war, könnte auf den ersten Blick an die Anwendung jenes in der Lex Salica verankerten Grundsatzes erinnern, nach dem über dem Grab einer bedeutenden Persönlichkeit ein Sakralbau errichtet werden sollte. Der Verstorbene aus dem Inneren des Heiligtums auf dem Burgwall Skalka konnte jedoch kaum aus der zeitgleichen Kategorie der bedeutenderen Personen stammen, denn an ihm wurden Anti-Vampir-Praktiken vollzogen, einschließlich der nachträglichen Entfernung des Kopfes und der Beschwerung des oberen Rumpfteils mit elf Steinen. Wie erwähnt, fehlte dem Skelett der Schädel samt fünf Halswirbeln, die nachträglich aus dem Grab entfernt worden waren."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der markierte Burgwall (L. Šubovič)",
+    "alt": "Der markierte Burgwall (L. Šubovič)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Erscheinungen dieser Art bezeichnen wir im Gebiet der heutigen Slowakei als posteriore Anti-Vampir-Praktiken; vollzogen wurden sie vor allem auf nichtkirchlichen Gräberfeldern mit mehreren nachklingenden Äußerungen des heidnischen Ritus. Aus dem Milieu Großmährens kennen wir mehrere Fälle sogenannter Vampirgräber, in denen die Bestatteten aus rituellen Gründen nach dem Tod bzw. nach der Beisetzung nachträglich verstümmelt – vor allem durch die Entfernung einer Extremität oder des Kopfes – oder mit großen Felsblöcken beschwert wurden. Zweck dieser Praktiken konnte z. B. das Bestreben sein, dafür zu sorgen, dass der Verstorbene nicht aus dem Grab aufstehen und den Lebenden Böses antun konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,193 @@
+{
+ "slug": "zemplin-keltske-dacke-obetisko",
+ "data": {
+  "title": "Zemplín – ein keltischer (dakischer?) Opferplatz",
+  "slug": "zemplin-keltisch-dakischer-opferplatz",
+  "excerpt": "Unweit der bekannten befestigten Höhensiedlung von Zemplín wurde in den 1960er Jahren in der Lage Kertalja ein Opferplatz der Latènezeit entdeckt: eine 40 cm dicke Schicht absichtlich niedergelegter Gaben – vor allem dakische und keltische Gefäße, dazu 68 Metallfunde mit Waffen, Werkzeugen, einem Astragalgürtel und eisernen Halsfesseln für Gefangene, deren einzige Parallele aus England stammt.",
+  "metaTitle": "Zemplín – ein keltischer Opferplatz der Latènezeit",
+  "metaDescription": "Bei der befestigten Höhensiedlung von Zemplín wurde in den 1960er Jahren ein latènezeitlicher Opferplatz mit niedergelegten Gefäßen und Waffen entdeckt.",
+  "keyFacts": [
+   {
+    "label": "Autorin",
+    "value": "Mária Lámiová",
+    "icon": "book"
+   },
+   {
+    "label": "Fundstelle",
+    "value": "Zemplín, Lage Kertalja (Unter den Gärten), Fuß des Hanges Szélmalomdomb",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "1. Jh. v. Chr. – 1. Jh. n. Chr. (keltisch-dakische Zeit, Latènezeit)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Besonderheit",
+    "value": "Eiserne Halsfesseln für Gefangene – die einzige bekannte Parallele stammt aus England",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1. Jh. v. Chr.",
+    "title": "Keltisch-dakische Schicht des Opferplatzes",
+    "description": "In diese Zeit sind sowohl die eisernen Fesseln als auch die ungestörte keltisch-dakische Schicht auf dem Opferplatz datierbar.",
+    "type": "event"
+   },
+   {
+    "year": "1. Jh. n. Chr.",
+    "title": "Astragalgürtel",
+    "description": "Aus dieser Zeit stammt der Astragalgürtel, der als Handelsware aus dem Südwesten in das Gebiet von Zemplín gelangte.",
+    "type": "event"
+   },
+   {
+    "year": "1960er Jahre",
+    "title": "Entdeckung des Opferplatzes",
+    "description": "Bei der befestigten Höhensiedlung in der Lage Kertalja wurde ein keltisch-dakischer Opferplatz mit einer 40 cm dicken Schicht absichtlich niedergelegter Gegenstände entdeckt.",
+    "type": "event"
+   },
+   {
+    "year": "1993",
+    "title": "Veröffentlichung im Buch",
+    "description": "Mária Lámiová beschrieb den Fund im Buch Zemplín, obec s bohatou minulosťou.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4109,
+    "caption": "Keltischer Opferplatz – ein Rekonstruktionsversuch des Opfers auf dem Havránok.",
+    "alt": "Keltischer Opferplatz - ein Rekonstruktionsversuch des Opfers auf dem Havránok"
+   },
+   {
+    "mediaId": 4110,
+    "caption": "Die befestigte Höhensiedlung von Zemplín auf einer Orthofotokarte aus den 1950er Jahren mit gut sichtbaren Wällen.",
+    "alt": "Die befestigte Höhensiedlung von Zemplín auf einer Orthofotokarte aus den 1950er Jahren mit gut sichtbaren Wällen."
+   },
+   {
+    "mediaId": 4111,
+    "caption": "Astragalgürtel – Rekonstruktion.",
+    "alt": "Astragalgürtel – Rekonstruktion."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Zemplín wurde in der Nähe der bekannten befestigten Höhensiedlung in der Lage Kertalja (Unter den Gärten), am Fuß des Hanges Szélmalomdomb (Windmühlenhügel), wo sich ein Hügelgräberfeld aus der römischen Kaiserzeit befindet, in den 1960er Jahren ein Opferplatz aus der Latènezeit entdeckt. Der Befund enthielt eine 40 cm dicke Schicht absichtlich niedergelegter Gegenstände, vor allem von Tongefäßen und deren Fragmenten, aber auch 68 Metallfunde einschließlich zweier Münzen. Unter den Gefäßen überwiegen deutlich die topfförmigen. Einige von ihnen erinnern noch an Formen der älteren Eisenzeit, die Mehrzahl ist jedoch typisch dakisch. Eine weniger zahlreiche Gruppe bilden keltische Erzeugnisse, und zwar graue, bemalte oder graphitierte mit der typischen senkrechten Riefung."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Keltischer Opferplatz – ein Rekonstruktionsversuch des Opfers auf dem Havránok.",
+    "alt": "Keltischer Opferplatz - ein Rekonstruktionsversuch des Opfers auf dem Havránok",
+    "width": "60",
+    "position": "right",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Alle Keramikarten, die auf dem Opferplatz gefunden wurden, sind auch von der befestigten Höhensiedlung und aus der Siedlung an ihrem Fuß bekannt, also von Orten, an denen eine Besiedlung der jüngeren Eisenzeit belegt ist. Vielfältiger ist das Spektrum der Metallgegenstände. Am häufigsten fanden sich Waffen, vor allem Speer- und Lanzenspitzen. Von der Reiterausrüstung sind es vor allem Reitersporen. Es fehlen auch Arbeitsgeräte nicht: Messer, kleine Äxte, eine Sichel, Ahlen, Durchschläge, Keile sowie das sogenannte Baueisen: Nägel und Krampen. Die ursprüngliche Funktion der eisernen Ringe unterschiedlicher Größe, die auf dem Opferplatz gefunden wurden, ist schwer zu bestimmen. Zu dem Fragment eines Hufeisens kennen wir in Fundkomplexen des 1. Jahrhunderts v. Chr. bislang keine Entsprechung. Da es in Zemplín jedoch im ungestörten Teil der keltisch-dakischen Schicht gefunden wurde, lässt sich annehmen, dass es zu ihr gehört."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der bemerkenswerteste Fund auf dem Opferplatz waren eiserne Fesseln. Sie bestehen aus zwei Halbkreisen, die durch ein Gelenk verbunden sind, und aus einer Kette, mit der sie verschlossen wurden. Sie sind verhältnismäßig groß, da sie im Unterschied zu den heutigen nicht um die Hände, sondern um den Hals des Gefangenen gelegt wurden. Die Kette konnte zum Anbinden dienen, oder man hielt den Gefangenen beim Transport an ihr fest. Die einzigen ähnlichen Fesseln, die in das 1. Jahrhundert v. Chr. datierbar sind, sind bisher aus England bekannt. Obwohl die Entfernung zwischen England und Zemplín beträchtlich ist, stammen beide Exemplare aus keltischem Milieu, und daher lässt sich vorstellen, dass hier wie dort ähnliche Gewohnheiten im Umgang mit Gefangenen herrschten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die befestigte Höhensiedlung von Zemplín auf einer Orthofotokarte aus den 1950er Jahren mit gut sichtbaren Wällen.",
+    "alt": "Die befestigte Höhensiedlung von Zemplín auf einer Orthofotokarte aus den 1950er Jahren mit gut sichtbaren Wällen.",
+    "width": "60",
+    "position": "left",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den auf dem Opferplatz niedergelegten Gegenständen ist überraschend wenig Schmuck und Zierrat. Es fand sich nur eine einzige eiserne Fibel, die zu den in jener Zeit häufigsten gehört. Zwei kleine Bronzeringe konnten Bestandteile bronzener Gürtel gewesen sein, möglicherweise trug man sie auch als Fingerringe. Das einzige prunkvollere Exemplar sind die metallenen Bestandteile eines Astragalgürtels. Der Gürtel selbst war ursprünglich aus Leder, an beiden Enden hatte er bronzene Schließen und Zierbleche. Auf jeder Seite befanden sich je zwanzig plastisch gegliederte Glieder, die sich allmählich verkleinerten. Auf den Gliedern wie auch auf der Schließe selbst findet sich eine feine punzierte Verzierung. Astragalgürtel sind aus dem 1. Jahrhundert aus dem Karpatenbecken bekannt, häufiger finden wir sie jedoch im Gebiet südlich der Alpen. Es lässt sich annehmen, dass der Fund aus Zemplín als Handelsware aus dem Südwesten hierher gelangte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Astragalgürtel – Rekonstruktion.",
+    "alt": "Astragalgürtel – Rekonstruktion.",
+    "width": "100",
+    "position": "center",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Menge, die Niederlegung und besonders die Zusammensetzung der Funde aus dem in der Lage Kertalja freigelegten Befund erlauben die Annahme, dass hier ein Teil eines Kultplatzes – eines Opferplatzes – freigelegt werden konnte. Ähnliche Opferplätze sind von gleichzeitigen Fundstellen vor allem in der Schweiz und in Deutschland bekannt, aber auch in der Slowakei, z. B. auf dem Havránok in Liptovská Mara und in Prosné. Es handelt sich um Orte, an die die damaligen Menschen den Gottheiten Opfer brachten, nicht selten auch Menschenopfer, die sie vor Feinden schützten. In Zemplín wurden auf dem Opferplatz keine menschlichen Überreste gefunden. Hier versammelte man nur das, was man für das Wertvollste hielt: Gefäße mit Nahrung, Arbeitsgeräte, die den Lebensunterhalt sicherten, Waffen, die vor Feinden schützten. Diese Gaben sollten der Versöhnung der Gottheiten dienen bzw. ihre Gunst bei der Sicherung einer guten Ernte, beim Abwenden von Krankheiten und Ähnlichem gewinnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

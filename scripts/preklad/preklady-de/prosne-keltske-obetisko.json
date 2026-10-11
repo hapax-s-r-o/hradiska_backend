@@ -1,0 +1,421 @@
+{
+ "slug": "prosne-keltske-obetisko",
+ "data": {
+  "title": "Prosné – ein keltischer Opferplatz der Púchov-Kultur",
+  "slug": "prosne-keltischer-opferplatz",
+  "excerpt": "Im Bergsattel Uhliská, etwa 1,2 km südwestlich der Gemeinde Prosné (Bezirk Považská Bystrica), befand sich ein Kultplatz – ein Opferplatz des Volkes der Púchov-Kultur. Der Ort in einer Höhe von 470–495 m ü. M. erinnert durch seine Form an ein Amphitheater. Geopfert wurden hier Erzeugnisse, Tiere und auch Menschen; die Rettungsgrabung von 1965–1966 erbrachte eine Opfergrube, Schmuck, eine Goldmünze und verbrannte Menschenknochen.",
+  "metaTitle": "Prosné – keltischer Opferplatz der Púchov-Kultur",
+  "metaDescription": "Kultplatz der Púchov-Kultur im Sattel Uhliská bei Prosné: ein amphitheaterartiger Opferplatz in 470–495 m ü. M. mit Belegen für Menschenopfer.",
+  "keyFacts": [
+   {
+    "label": "Autor",
+    "value": "Jozef Moravčík",
+    "icon": "book"
+   },
+   {
+    "label": "Fundort",
+    "value": "Prosné (Bezirk Považská Bystrica), Sattel Uhliská",
+    "icon": "map"
+   },
+   {
+    "label": "Datierung",
+    "value": "2.–1. Jahrhundert v. Chr. (Púchov-Kultur)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Besonderheit",
+    "value": "Einer der wenigen vollständig untersuchten keltischen Opferplätze in der Slowakei, mit Belegen für Menschenopfer",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2.–1. Jahrhundert v. Chr.",
+    "title": "Bestehen des Opferplatzes",
+    "description": "Der Opferplatz diente dem Volk der Púchov-Kultur zum Opfern von Erzeugnissen, Tieren und Menschen; die Riten brachten die Kelten in das Gebiet der heutigen Slowakei.",
+    "type": "event"
+   },
+   {
+    "year": "1965",
+    "title": "Entdeckung der Fundstelle",
+    "description": "Peter Kondrčík stellte auf dem Feld unter dem Ostrenec eine umgeackerte dunkle Schicht mit Scherben und kalzinierten Knochen fest, die er Štefan Meliš übergab.",
+    "type": "event"
+   },
+   {
+    "year": "1965–1966",
+    "title": "Rettungsgrabung",
+    "description": "A. Petrovský-Šichman grub zusammen mit J. Moravčík 5 Schnitte aus und entdeckte die Opfergrube sowie eine Pfostengrube.",
+    "type": "event"
+   },
+   {
+    "year": "1980",
+    "title": "Veröffentlichung der Studie",
+    "description": "K. Pieta und J. Moravčík publizierten den Fund in der Zeitschrift Slovenská archeológia (XVIII-2).",
+    "type": "event"
+   },
+   {
+    "year": "2008",
+    "title": "Weitere Publikation",
+    "description": "Der Fund wurde auch im Buch Po stopách predkov (M. Olšovský, Š. Meliš, J. Moravčík) dokumentiert.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4048,
+    "caption": "Die Fundstelle Uhliská – schwarz ist die untersuchte Fläche dargestellt",
+    "alt": "Die Fundstelle Uhliská – schwarz ist die untersuchte Fläche dargestellt"
+   },
+   {
+    "mediaId": 4052,
+    "caption": "Vorstellung vom Aussehen des Opferplatzes",
+    "alt": "Vorstellung vom Aussehen des Opferplatzes"
+   },
+   {
+    "mediaId": 4053,
+    "caption": "Schmuck, der Gegenstand der Opferung war",
+    "alt": "Schmuck, der Gegenstand der Opferung war"
+   },
+   {
+    "mediaId": 4054,
+    "caption": "Weitere geopferte Gegenstände",
+    "alt": "Weitere geopferte Gegenstände"
+   },
+   {
+    "mediaId": 4055,
+    "caption": "Eine Menge Scherben des Volkes der Púchov-Kultur",
+    "alt": "Eine Menge Scherben des Volkes der Púchov-Kultur"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der Gemeinde Prosné (Bezirk Považská Bystrica), auf der rechten Seite des Tales des Marikovský-Baches, im Bergsattel Uhliská, etwa 1,2 km südwestlich des Dorfes, befand sich in der römischen Kaiserzeit (vor etwa 2000 Jahren) ein Kultplatz – ein Opferplatz des Volkes der Púchov-Kultur. Der Ort erinnert durch seine Form an ein Amphitheater in einer Höhe von 470–495 m ü. M. und neigt sich nach Südwesten. Der Opferplatz liegt inmitten der Berge Ostrenec (540 m), Oddiely (524 m) und Žiar (570 m). Die entwaldete Fläche umfasst etwa 250 × 140 m und ist teils Wiese, teils Ackerland. Über den Sattel Uhliská führt ein Pfad in das kurze Tal Upohlav, das parallel zum Tal von Mariková verläuft."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Die Fundstelle Uhliská – schwarz ist die untersuchte Fläche dargestellt",
+    "caption": "Die Fundstelle Uhliská – schwarz ist die untersuchte Fläche dargestellt",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fundstelle entdeckte dank eines Hinweises der örtlichen Bevölkerung im Jahr 1965 Herr Peter Kondrčík, ein Mitarbeiter von Herrn Štefan Meliš, als er auf dem Feld unmittelbar am Fuß des Ostrenec eine umgeackerte dunkle Schicht mit Keramikbruchstücken und kalzinierten Knochen feststellte. Kondrčík übergab Meliš die Scherben und die kalzinierten Knochen, die er an der Fundstelle gesammelt hatte, und Herr Meliš brachte sie Petrovský-Šichman, der sofort erkannte, dass es sich um menschliche Knochen und um Keramik der Latènezeit handelt. Im selben Jahr begann hier A. Petrovský-Šichman zu graben und setzte die Arbeit im folgenden Jahr zusammen mit J. Moravčík bei einer Rettungsgrabung fort. Es wurden 5 Schnitte ausgegraben, in denen eine Menge von Funden zum Vorschein kam: Keramik, durchgeglühter Schmuck, Werkzeuge, Knochen, ein Sporn, Perlen, eine Goldmünze, bronzene Armringe und Nadeln und Ähnliches. Zwischen den Schnitten 2 und 3 wurde eine Pfostengrube entdeckt, die „schräg“ war, und es wurde eine große Opfergrube entdeckt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Archäologe Jozef Moravčík schreibt über den Opferplatz:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Schon vor längerer Zeit fanden sich hier Scherben von Gefäßen, die beim Tiefpflügen herausgeackert wurden, aber erst in den 60er Jahren wurde dank dem langjährigen Mitarbeiter des Museums Š. Meliš eine archäologische Rettungsgrabung durchgeführt. Der Bereich mit den Funden war nicht groß (etwa 10 × 11 m), aber um desto mehr Denkmäler konnten hier gerettet werden. Unmittelbar im Ackerland kam eine große Menge von Gefäßfragmenten vor, aber auch kleine Gegenstände aus Bronze, Eisen und Glas, und es fand sich auch eine kleine Goldmünze (1/24 einer keltischen Münze des Typs Athena Alkis), die nur 0,13 g wiegt.\n\nBei der genauen Untersuchung der Fundstelle wurde festgestellt, dass hier im 2.–1. Jahrhundert v. Chr. ein Opferplatz des Volkes der Púchov-Kultur bestand, an dem Erzeugnisse, Tiere und auch Menschen den damaligen heidnischen Gottheiten geopfert wurden. Am Rand der Fundstelle wurde eine tiefe Grube von nierenförmiger Gestalt festgestellt, gefüllt mit schwarzer, fettiger Erde und mit kleinen Funden, in die das Blut der geopferten Tiere und offenbar auch der Menschenopfer abgeleitet wurde. Die verbrannten Skelettreste konnten bei der Analyse im Archäologischen Institut in Prag als Überreste von 3–5 erwachsenen männlichen Individuen im Alter von etwa 40–50 Jahren identifiziert werden. Diese Riten brachten die Kelten in das Gebiet der heutigen Slowakei; sie trugen zusammen mit dem einheimischen Volk der Lausitzer Kultur zur Formierung der Púchov-Kultur bei.\n\nÜber die Art der Opferung lässt sich heute nur noch theoretisch nachdenken, aber nach einigen Analogien handelte es sich offenbar um regelmäßige heidnische Riten, die in der Vergangenheit vielleicht mit der Sonnenwende oder mit dem Herbeirufen einer guten Ernte, gegebenenfalls mit Dankopfern für erfolgreiche Handels- oder Kriegszüge verbunden waren. Die Zusammensetzung der Opfergaben spricht offenbar auch über die Zusammensetzung der damaligen Gesellschaft, in der sich neben Herstellern (Keramik) und Viehhaltern (Tierknochen) auch Schmuck (Fibeln, Armringe, Glasperlen) und Bestandteile der Ausrüstung von Kriegern (ein Sporn, eine Gürtelschließe) sowie Händler (die Münze) finden, wobei die Menschenopfer offenbar den ganzen Stamm symbolisierten. Ein zweiter ähnlicher Opferplatz (heidnischer Tempel) wurde in der Slowakei noch auf der befestigten Höhensiedlung der Púchov-Kultur Havránok bei Liptovská Mara gefunden, wo in tiefen Schächten Skelette von Mädchen im Alter von 18–20 Jahren zum Vorschein kamen.",
+    "author": "Jozef Moravčík",
+    "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "(es ist jedoch zu ergänzen, dass ein weiterer auch in Trenčianske Teplice in der Lage Stará tehelňa, nicht weit von der Burganlage Čertova skala, gefunden wurde – Anm. Orgoň)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Die in Prosné gefundenen kleinen Gegenstände waren praktisch alle deformiert und zerbrochen, denn sie wurden während der Zeremonien absichtlich beschädigt und in die Opferfeuer geworfen. Ebenso ging viel Scherbenmaterial durch das Feuer, denn es war sekundär durchgeglüht. Der gesamte Bereich der Fundstelle erschien als dunkler Fleck in der hellen, tonigen Erde, der intensiv mit Holzkohle und Asche durchmischt war.\n\nDie Opfergrube wurde offenbar regelmäßig gereinigt, deshalb fanden sich hier nur Denkmäler aus der letzten Phase ihrer Nutzung. Unter der Keramik überwogen auf der Töpferscheibe gedrehte Erzeugnisse mit Ritz-, Glätt- und plastischer Verzierung, und es fanden sich auch Fragmente von bemalten Gefäßen, die in dem von der Púchov-Kultur eingenommenen Gebiet nur auf den befestigten Höhensiedlungen (Oppida) hergestellt wurden. Der Opferplatz diente einer weiteren Region im Umkreis von 20–30 km, und die Bewohner der Siedlungen aus diesem Gebiet kamen hierher über einen langen Zeitraum regelmäßig opfern. Der Opferplatz in Prosné ist eine außergewöhnliche Fundstelle der Púchov-Kultur im Rahmen der ganzen Slowakei, und vielleicht gelingt in Zukunft auch die Entdeckung anderer ähnlicher Fundstellen in weiteren Regionen der Slowakei.",
+    "author": "Jozef Moravčík",
+    "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Prosné – keltischer Opferplatz",
+    "caption": "",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Opfergrube."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Prosné – keltischer Opferplatz",
+    "caption": "",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In der westlichen Ecke der Fundstelle erfassten die Archäologen fettigen schwarzen Lehm, der sich deutlich vom Flyschuntergrund unterschied. Dieser Lehm stellte die Füllung einer größeren Opfergrube dar. Die Vertiefung von ovaler Form war 70 cm tief in den Untergrund eingesenkt. Die Ausmaße betrugen etwa 240 × 90 cm. Die Füllung der Grube bestand aus einzelnen 2–4 cm dicken Humusschichten und 2–10 cm dicken Schichten sterilen gelben Lehms. Die Schichten verliefen sichtbar schräg mit einem Gefälle nach Westen. Der dunkle, fettige Humus enthielt viele kalzinierte Knochen, Scherben, einen unverbrannten Tierknochen, Bronzebruchstücke, Fragmente von 2 Nadeln (Fibeln) und eine eiserne Gürtelschnalle. Der größere Teil der Fundstelle war stark umgeackert, so dass nur stellenweise eine einige Zentimeter dicke unversehrte Schicht erfasst werden konnte, die unmittelbar auf dem Untergrund lag. In der Dokumentation findet sich keine Erwähnung von Feuerstellen oder von Brandspuren. Proben von Holzkohle wurden bei den Ausgrabungen nicht genommen oder sind nicht erhalten geblieben."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Wie sah der Opferplatz aus?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Um eine Interpretation des Opferplatzes bemühte sich der bedeutende Keltologe Karol Pieta, der angibt, dass bei den Ausgrabungen in Prosné nur wenige Informationen darüber zu gewinnen waren, wie dieser Befund ursprünglich aussah, was zu einem bestimmten Teil dem jährlichen Umpflügen des Bodens über dem seicht angelegten Befund zuzuschreiben ist, ohne Zweifel trug dazu aber auch der Charakter des Kultplatzes selbst bei. Für eine Rekonstruktion und Interpretation stehen uns nur die festgestellte Grube mit geschichteter Füllung, weiter die gefundenen Opfergaben und auch die Pfostengrube zur Verfügung. Es ist zu ergänzen, dass auch nicht die ganze Fläche vollständig untersucht wurde. Aus dem durchgeführten Umfang der Ausgrabungen lässt sich schließen, dass der Befund keine archäologisch erfassbare Umgrenzung hatte, wie sie ein typisches Merkmal jedes heiligen Ortes ist und eine warnende Funktion hat. Bei den antiken Tempelbezirken (temenos) war es eine Mauer oder eine stufenförmige Erhöhung (Podium), keltische Heiligtümer waren von der profanen Umgebung durch einen Graben, eine Palisade, eine Mauer oder eine Kombination der genannten Hindernisse getrennt. In Liptovská Mara war der heilige Bezirk durch die Befestigung der Höhensiedlung abgegrenzt, in der sich außer den beschriebenen Kultbefunden intra muros keine anderen Spuren einer Besiedlung befanden. Auf der zugänglicheren östlichen Seite waren beim Tor steinerne Stelen aufgestellt, die den sakralen Charakter des Ortes andeuteten und auf die Unantastbarkeit des tabuisierten Areals hinwiesen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Vorstellung vom Aussehen des Opferplatzes",
+    "caption": "Vorstellung vom Aussehen des Opferplatzes",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei Naturheiligtümern, zu denen der Befund in Prosné ohne Zweifel gehört, müssen wir sichtbare Kennzeichnungen an Pfosten oder an Bäumen am Rand der Lichtung oder des Waldes voraussetzen. Mehrere antike Quellen berichten über keltische heilige Haine und über die in ihnen vollzogenen blutigen Opfer, oft Menschenopfer. Einige antike Autoren beschreiben einen solchen Hain mit Altären und grob gehauenen Figuren der Götter (Götzen). Die heiligen Haine der Druiden erwähnen auch Tacitus und weitere Historiker."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Pfostengrube"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Diese schon im Text erwähnte Grube war schräg eingetieft und teilweise auch mit Steinen umlegt. Über ihre Tiefe haben wir keine Angabe. Es ist deshalb fraglich, ob sie für eine oberirdische Konstruktion zum Verbrennen der Opfergaben diente, oder ob es die Spur einer hölzernen Stele – des Hauptsymbols des Opferplatzes – ist. Zu bedenken ist auch die Möglichkeit einer astronomischen Bedeutung. Zum Beispiel wies in Holzhausen die Achse des schräg eingesetzten Pfostens zur Mittagssonne zur Zeit der Sommersonnenwende."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Opfergaben"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Schmuck, der Gegenstand der Opferung war",
+    "caption": "Schmuck, der Gegenstand der Opferung war",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unter den Opfergaben in Prosné waren – wie schon oben erwähnt – Gefäße, Schmuck und Zubehör oder Bestandteile der Kleidung. Beleg für unblutige Nahrungsopfer sind die Tongefäße, die von den geopferten Früchten der Erde, von Speisen und Getränken übrig blieben. Deutlich dominieren auf der Töpferscheibe hergestellte Gefäße, die in den Verhältnissen der örtlichen Siedlungen keine gewöhnliche Erscheinung waren, und das hängt sicher mit einer bestimmten qualitativen Auswahl der Keramik für Kultzwecke zusammen. Was die Form der Gefäße der ursprünglichen Sammlung betrifft, die etwa 100 Gefäße enthielt, dominieren Schalen und Vasen. Die Schalen dienten hauptsächlich beim Essen und Trinken, aber ohne Zweifel waren sie auch für weitere Zwecke während des Opferzeremoniells geeignet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Menschenopfer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "alt": "Weitere geopferte Gegenstände",
+    "caption": "Weitere geopferte Gegenstände",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Wissenschaftler stellten fest, dass die gefundenen Überreste verbrannter Leichen mindestens fünf erwachsenen menschlichen Individuen gehörten. Von ihnen konnte bestimmt werden, dass eines, wahrscheinlich aber auch zwei, Männer waren. Die Analyse wies auf die eigenartige Tatsache hin, dass sich unter den gefundenen Knochenfragmenten überhaupt keine Teile der Gesichtsknochen, keine Wirbel, Fingerglieder und Gelenkköpfe der langen Knochen befanden, die wir typischerweise auf den Gräberfeldern verbrannter Menschen finden. Bis auf ein Bruchstück eines Rippenknochens besteht das gefundene Material aus Wadenbeinen und aus Knochen der Gliedmaßen. Es scheint auch, dass ähnlich wie die übrigen Opfergaben – Tiere, Keramik und andere Gegenstände – auch die Menschenopfer nur unvollständig auf den Holzstoß gelegt wurden; es wurde eine bestimmte Auswahl der Körperteile angewandt. Die Anwesenheit menschlicher Wadenbeine erinnert an die Existenz von Schädelbechern, die bei den Kelten nach den Schriftquellen belegt sind; zum Beispiel wird über den Schädel des römischen Konsuls Lucius Postumius, den die Boier besiegten und töteten, geschrieben, dass die Druiden ihn als Gefäß für das geopferte Getränk benutzten (Livius); es gibt auch weitere Erwähnungen über das Trinken aus Bechern, die aus den Schädeln von Feinden hergestellt waren. Dieser Brauch hing ohne Zweifel mit dem Kult der abgeschlagenen Köpfe zusammen und war nicht nur ein Beweis für Tapferkeit und für vollzogene Rache, sondern hatte ähnlich wie die Kopfjagd und der Kannibalismus auch eine magische Bedeutung in dem Sinne, dass die Eigenschaften des Getöteten durch seinen Schädel, den Sitz der Seelenkräfte, übernommen werden. Die genannten Funde bestätigen, dass in Prosné die Menschenopfer nicht vollständig verbrannt wurden, sondern dass nur Teile von ihnen nach vorherigem Töten und Vierteilen auf den Holzstoß gelangten. Karol Pieta gibt auch an, dass im Hinblick auf die fehlenden Überreste auch ritueller Kannibalismus nicht ausgeschlossen ist, den bei den Kelten Plinius und Pausanias erwähnen."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Übersetzung aus dem deutschen Original: Kvetka (vielen Dank)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

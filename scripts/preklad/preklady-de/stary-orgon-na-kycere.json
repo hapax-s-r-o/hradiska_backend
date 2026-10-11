@@ -1,0 +1,84 @@
+{
+ "slug": "stary-orgon-na-kycere",
+ "data": {
+  "title": "Der alte Orgoň auf der Kýčera – ein Gemälde zur Sage",
+  "slug": "der-alte-orgon-auf-der-kycera-gemaelde",
+  "excerpt": "Der alte Orgoň ist eine Gestalt, die diese Seite seit ihrer Entstehung begleitet. Ihren Ursprung hat sie in der alten Sage vom letzten heidnischen Ortsadligen, der sich mit seinen Anhängern tief in die schwer zugänglichen Berge im Herzen der Javorníky zurückzog und dort der Ausbreitung des neuen Glaubens widerstand. Nun ist ein Gemälde des alten Orgoň auf der Kýčera von Azraelangelo hinzugekommen – und die „Runenfelsen“ mit den eingemeißelten geheimnisvollen Zeichen darauf sind authentisch.",
+  "metaTitle": "Der alte Orgoň auf der Kýčera – Gemälde zur Sage",
+  "metaDescription": "Die Sage vom alten Orgoň, dem letzten heidnischen Ortsadligen, der im Herzen der Javorníky dem neuen Glauben widerstand – und ein Gemälde dazu.",
+  "keyFacts": [
+   {
+    "label": "Autor der Illustration",
+    "value": "Azraelangelo",
+    "icon": "star"
+   },
+   {
+    "label": "Ort",
+    "value": "Orgoňova Kýčera, Javorníky",
+    "icon": "mountain"
+   },
+   {
+    "label": "Motiv",
+    "value": "Die Sage vom letzten heidnischen Ortsadligen",
+    "icon": "scroll"
+   },
+   {
+    "label": "Detail",
+    "value": "Authentische „Runenfelsen“ mit eingemeißelten geheimnisvollen Zeichen",
+    "icon": "book"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "Gemälde eines bärtigen Mannes in Tunika und Mantel, der im Wald bei einem steinernen Idol auf einem Felsblock mit eingeritzten Zeichen sitzt"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der alte Orgoň ist eine Gestalt, die uns auf dieser Seite schon seit ihrer Entstehung begleitet. Ihren Ursprung hat sie in der alten "
+       },
+       {
+        "type": "link",
+        "url": "/blog/legenda-o-orgonovej-kycere",
+        "children": [
+         {
+          "type": "text",
+          "text": "Sage vom letzten heidnischen Ortsadligen"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", der sich mit seinen Anhängern tief in die schwer zugänglichen Berge im Herzen der Javorníky zurückzog und dort der Ausbreitung des neuen Glaubens widerstand. Umso mehr freute es mich, als ich von meiner Frau ein schönes Geschenk erhielt – ein Gemälde des alten Orgoň auf der Kýčera. Der Autor ist Azraelangelo, dem ich hiermit für die hervorragend geleistete Arbeit danke."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Umgebung und besonders die „Runenfelsen“ mit den eingemeißelten geheimnisvollen Zeichen sind authentisch – der Autor hat sie nach dem wirklich erhaltenen Aussehen gezeichnet, in dem sie auch heute zu beobachten sind."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

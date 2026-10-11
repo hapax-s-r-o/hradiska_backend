@@ -1,0 +1,64 @@
+{
+ "slug": "ladislav-nadasi-jege-svatopluk",
+ "data": {
+  "title": "Ladislav Nádaši-Jégé – Svätopluk, ein historischer Roman",
+  "slug": "nadasi-jege-roman-svatopluk",
+  "excerpt": "Auf der verlinkten Seite finden Sie den vollständigen Roman Svätopluk von Ladislav Nádaši-Jégé – meiner Meinung nach eine sehr interessante Lektüre.",
+  "metaTitle": "Ladislav Nádaši-Jégé: Svätopluk (historischer Roman)",
+  "metaDescription": "Der vollständige historische Roman Svätopluk von Ladislav Nádaši-Jégé über den großmährischen König – im Zlatý fond der Tageszeitung SME zu lesen.",
+  "keyFacts": [
+   {
+    "label": "Autor des Werkes",
+    "value": "Ladislav Nádaši-Jégé",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Der historische Roman Svätopluk über den großmährischen Fürsten",
+    "icon": "crown"
+   },
+   {
+    "label": "Quelle",
+    "value": "Zlatý fond der Tageszeitung SME",
+    "icon": "scroll"
+   }
+  ],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Auf "
+       },
+       {
+        "type": "link",
+        "url": "http://zlatyfond.sme.sk/dielo/562/Nadasi-Jege_Svatopluk/1",
+        "children": [
+         {
+          "type": "text",
+          "text": "dieser Seite"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " finden Sie den vollständigen Roman von Ladislav Nádaši-Jégé – Svätopluk – meiner Meinung nach eine sehr interessante Lektüre."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

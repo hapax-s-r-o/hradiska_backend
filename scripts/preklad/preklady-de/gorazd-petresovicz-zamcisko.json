@@ -1,0 +1,34 @@
+{
+ "slug": "gorazd-petresovicz-zamcisko",
+ "data": {
+  "title": "Gorazd Petresovicz: Zámčisko – ein Gedicht über den Burgwall bei Modra",
+  "slug": "petresovicz-gedicht-zamcisko",
+  "excerpt": "Gorazd Petresovicz hat unserer Seite dieses Gedicht über den Burgwall Zámčisko bei Modra überlassen. Wir danken ihm! Über der Stadt erhebt sich Zámčisko, ein schöner, schwebender Berg – und wen der Weg dort hinaufführt, den grüßen die Felsen der einstigen Mauern, die Mutter Erde unter der Decke des Bodens für uns hütet.",
+  "metaTitle": "Zámčisko – ein Gedicht über den Burgwall bei Modra",
+  "metaDescription": "Das Gedicht von Gorazd Petresovicz über den Burgwall Zámčisko bei Modra: die Felsen der Mauern, die Mutter Erde hütet, und das Geheimnis der Vorfahren.",
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Gorazd Petresovicz hat unserer Seite diese vortreffliche Poesie überlassen – ein Gedicht über den Burgwall Zámčisko (bei Modra). Wir danken ihm!"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.poem",
+    "text": "erhebt sich über der Stadt,\nein schöner Berg, der schwebend hängt,\nund in dem Berg, dem Berglein klein,\ngehst auch Du auf dem Weglein hin,\n\nda grüßen Dich die Felsen der Mauern,\njene Überreste des Zámčisko,\nMutter Erde hütet sie für uns,\nmit der Decke des Bodens wahrt sie das Geheimnis der Vorfahren,\n\ndas Geheimnis des Volkes im Ruhm des Wortes\nein Volk, das des Kampfes schon genug hat,\n\nunsere Vorfahren fielen hier vorzeiten im Kampf,\nhier, wo die Liebe zu den Vorfahren die Nachkommen durch Zusammenarbeit neu zur Kraft vereint\nohne Waffen und ohne Kampf\nwerden sie durch Arbeit die Schönheit erneuern",
+    "title": "Zámčisko",
+    "author": "Gorazd Petresovicz",
+    "source": null
+   }
+  ]
+ }
+}

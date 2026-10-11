@@ -1,0 +1,188 @@
+{
+ "slug": "nase-tabule-visolaje-slovansky-mohylnik",
+ "data": {
+  "slug": "informationstafeln-visolaje-huegelgraeberfeld",
+  "title": "Unsere Tafeln – Visolaje, ein slawisches Hügelgräberfeld",
+  "excerpt": "Am 28. 5. 2017 stellte unser Verein Hradiská gemeinsam mit der Gemeinde Visolaje Informationstafeln auf, mit denen wir einen bedeutenden Ort unserer slawischen Vorfahren bekannt machen wollen – ein Hügelgräberfeld aus großmährischer Zeit. Zur Enthüllung kamen die Slawen der Gruppe Slavibor, die neben dem Gräberfeld lagerten, sowie der Entdecker des Hügelgräberfeldes Štefan Meliš und Ladislav Janech mit einem Teil seiner archäologischen Sammlung.",
+  "metaTitle": "Informationstafeln Visolaje – slawisches Hügelgräberfeld",
+  "metaDescription": "2017 stellte der Verein Hradiská in Visolaje Tafeln am Hügelgräberfeld aus großmährischer Zeit auf; die Slawen der Gruppe Slavibor lagerten daneben.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Informationstafeln am slawischen Hügelgräberfeld Visolaje",
+    "icon": "star"
+   },
+   {
+    "label": "Datum",
+    "value": "28. 5. 2017",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2017",
+    "title": "Tafeln Visolaje",
+    "type": "event",
+    "description": "Hügelgräberfeld aus großmährischer Zeit; Teilnahme der Gruppe Slavibor."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5660,
+    "caption": "Die Hügelgräber sind auf der LiDAR-Karte wunderbar zu erkennen (Quelle der LiDAR-Produkte: ÚGKK SR)",
+    "alt": "Die Hügelgräber sind auf der LiDAR-Karte wunderbar zu erkennen (Quelle der LiDAR-Produkte: ÚGKK SR)"
+   },
+   {
+    "mediaId": 5663,
+    "caption": "beim Ausheben eines Schnitts ist fachliche Aufsicht nötig",
+    "alt": "beim Ausheben eines Schnitts ist fachliche Aufsicht nötig"
+   },
+   {
+    "mediaId": 5665,
+    "caption": "Bürgermeister Vincenc Hrenák und Herr Martinka, der uns sein eigenes Buch über die Hügelgräber in Visolaje zeigte, das er selbst geschrieben hat",
+    "alt": "Bürgermeister Vincenc Hrenák und Herr Martinka, der uns sein eigenes Buch über die Hügelgräber in Visolaje zeigte, das er selbst geschrieben hat"
+   },
+   {
+    "mediaId": 5666,
+    "caption": "Ladislav Janech mit einem Teil der Sammlung",
+    "alt": "Ladislav Janech mit einem Teil der Sammlung"
+   },
+   {
+    "mediaId": 5683,
+    "caption": "Štefan Meliš erzählte, wie er die Hügelgräber entdeckte",
+    "alt": "Štefan Meliš erzählte, wie er die Hügelgräber entdeckte"
+   },
+   {
+    "mediaId": 5685,
+    "caption": "Das Lager von Slavibor",
+    "alt": "Das Lager von Slavibor"
+   },
+   {
+    "mediaId": 5692,
+    "caption": "Die Jungs aus unserem Verein lassen sich die Gelegenheit zu einem Gespräch mit Štefan Meliš nicht entgehen",
+    "alt": "Die Jungs aus unserem Verein lassen sich die Gelegenheit zu einem Gespräch mit Štefan Meliš nicht entgehen"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Am 28. 5. 2017 hat unser Verein Hradiská in Zusammenarbeit mit der Gemeinde Visolaje Informationstafeln aufgestellt, mit denen wir einen bedeutenden Ort unserer slawischen Vorfahren bekannt machen wollen – "
+       },
+       {
+        "type": "link",
+        "url": "/hladat?q=visolaje+mohyln%C3%ADk",
+        "children": [
+         {
+          "type": "text",
+          "text": "ein Hügelgräberfeld aus großmährischer Zeit"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Tafel am Hügelgräberfeld haben wir bereits am Samstag aufgestellt. Am Abend kamen dann in die Nähe des Hügelgräberfeldes die Slawen von "
+       },
+       {
+        "type": "link",
+        "url": "http://dvk-sk.webnode.sk/o-nas/",
+        "children": [
+         {
+          "type": "text",
+          "text": "der Gruppe Slavibor"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", um dort zu lagern; sie hatten beschlossen, unsere Veranstaltung mit ihrer Teilnahme zu unterstützen und den Einwohnern der Gemeinde und der Umgebung das Leben unserer Vorfahren im 9. Jahrhundert vorzustellen, als über uns Persönlichkeiten wie Rastislav oder Svatopluk herrschten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Unsere Einladung haben auch der Entdecker des Hügelgräberfeldes und lebende Legende Štefan Meliš sowie Herr Ladislav Janech angenommen, der in Považská Teplá ein großartiges Museum der Geschichte betreibt. Zur Veranstaltung brachte er einen Teil seiner Exponate aus seiner archäologischen Sammlung mit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Die Hügelgräber sind auf der LiDAR-Karte wunderbar zu erkennen (Quelle der LiDAR-Produkte: ÚGKK SR)",
+    "alt": "Die Hügelgräber sind auf der LiDAR-Karte wunderbar zu erkennen (Quelle der LiDAR-Produkte: ÚGKK SR)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Der Bürgermeister der Gemeinde, Herr Vincenc Hrenák, organisierte für die Teilnehmer und auch für die Besucher ein angenehmes Beisammensein in der Jagdhütte, die nicht weit vom Hügelgräberfeld liegt. Für die Unterhaltung sorgte Livemusik, und überall duftete es nach schmackhaftem Gulasch. Nach einem kurzen einleitenden Wort gingen wir gemeinsam mit den Besuchern zum Hügelgräberfeld, wo wir zuerst die Tafel enthüllten und die Jungs von Slavibor anschließend Vorführungen des Kampfes der alten Slawen zeigten und die Tafel mit echtem altslawischem Met „tauften“. Dann erzählten wir Wissenswertes über die Hügelgräber und besahen uns das Lager der Slawen, die ebenfalls jedem Einzelheiten über das Leben unserer Vorfahren näherbrachten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Veranstaltung ist wirklich gelungen. An dieser Stelle möchte ich Herrn Bürgermeister Hrenák für sein Entgegenkommen bei der Erstellung der Tafeln, für ihre Finanzierung aus dem Haushalt der Gemeinde und für die hervorragende Organisation der ganzen Veranstaltung danken. Dank gebührt Slavibor, die in ihrer Freizeit kamen, um uns zu unterstützen, und dafür gesorgt haben, dass die Veranstaltung sehr attraktiv war. Schließlich gebührt der Dank auch Pumukli für das originelle Bild des Hügelgräberfeldes und unseren Jungs aus dem Verein für die aktive Mitarbeit bei der Erstellung der Tafeln und bei ihrer Aufstellung am Samstag. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "_UrxokGUOdk",
+    "url": "https://www.youtube.com/embed/_UrxokGUOdk",
+    "caption": ""
+   }
+  ]
+ }
+}

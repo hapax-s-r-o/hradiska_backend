@@ -1,0 +1,529 @@
+{
+ "slug": "zbrane-nitranov-v-casoch-velkej-moravy",
+ "data": {
+  "title": "Die Waffen der Nitraer in großmährischer Zeit",
+  "slug": "waffen-der-nitraer-in-grossmaehrischer-zeit",
+  "excerpt": "Eine vollständige Ausrüstung war außerordentlich teuer: Helm, Panzer, Schwert mit Scheide, Beinschienen, Schild mit Lanze, Sporen und ein Pferd mit Zaumzeug hatten in Großmähren den Wert von etwa 50 Kühen und blieben den herrschenden Schichten vorbehalten. Die meisten Reiter und Fußkämpfer kämpften daher nur mit den Grundwaffen. Der Beitrag stellt sie der Reihe nach vor – das karolingische Schwert, die Axt als häufigste Waffe der Slawen, Lanze, Messer sowie Bogen und Pfeil.",
+  "metaTitle": "Die Waffen der Nitraer in großmährischer Zeit",
+  "metaDescription": "Die Ausrüstung eines großmährischen Kriegers – Schwert, Helm, Panzer und Pferd im Wert von 50 Kühen: welche Waffen die Nitraer im 9. Jahrhundert trugen.",
+  "keyFacts": [
+   {
+    "label": "Autoren",
+    "value": "Gvozd (Text), Müsha (Redaktion) – livinghistory.sk",
+    "icon": "book"
+   },
+   {
+    "label": "Thema",
+    "value": "Typologie und Statistik der Waffen der großmährischen Nitraer",
+    "icon": "sword"
+   },
+   {
+    "label": "Häufigste Waffe",
+    "value": "Die Axt – 55 % der Gräber mit Militaria, am häufigsten der Typ „Bartaxt“",
+    "icon": "sword"
+   },
+   {
+    "label": "Wert der Ausrüstung",
+    "value": "Die vollständige Ausrüstung eines Elitekriegers hatte den Wert von etwa 50 Kühen",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "7. Jahrhundert",
+    "title": "Die ältesten Belege für Bögen",
+    "description": "Die Existenz von Bögen bei den Slawen im Gebiet der heutigen Slowakei ist durch Funde von Pfeilspitzen sowie durch knöcherne Auflagen von Reflexbögen belegt.",
+    "type": "event"
+   },
+   {
+    "year": "Mitte 8. – Mitte 11. Jh.",
+    "title": "Die Zeit der karolingischen Schwerter",
+    "description": "Die Schwerter Großmährens gehören zu den sogenannten karolingischen Schwertern – mit abgeflachtem Knauf und einer erleichternden „Blutrinne“ auf der Klinge.",
+    "type": "event"
+   },
+   {
+    "year": "ab dem Ende des 8. Jahrhunderts",
+    "title": "Der Import fränkischer Schwerter",
+    "description": "Trotz der Verbote des Frankenreiches gelangen hochwertige Schwerter aus rheinischen Werkstätten zu den Slawen, etwa mit der Marke des Meisters Ulfberth.",
+    "type": "event"
+   },
+   {
+    "year": "ab der 2. Hälfte des 9. Jh.",
+    "title": "Einheimische Schwertherstellung",
+    "description": "In Großmähren lässt sich an eine örtliche Herstellung von Schwertern denken – einfacher Typen wie auch hochwertiger Nachahmungen fränkischer Vorbilder.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3956,
+    "alt": "Nachbildung einer Ausrüstung im Gras: Helm, Schild, Schwerter in Scheiden, Äxte, Lanzen und Bogen"
+   },
+   {
+    "mediaId": 3957,
+    "caption": "Das Schwert des Adligen aus Turčianska Blatnica",
+    "alt": "Das Schwert des Adligen aus Turčianska Blatnica"
+   },
+   {
+    "mediaId": 3958,
+    "caption": "Der Hortfund – die luxuriöse Ausstattung des Adligen aus Turčianska Blatnica",
+    "alt": "Der Hortfund – die luxuriöse Ausstattung des Adligen aus Turčianska Blatnica"
+   },
+   {
+    "mediaId": 3960,
+    "caption": "Bartaxt aus Diviacka Nová Ves",
+    "alt": "Bartaxt aus Diviacka Nová Ves"
+   },
+   {
+    "mediaId": 3967,
+    "caption": "Fragmente eines großmährischen Bogens aus Mikulčice",
+    "alt": "Fragmente eines großmährischen Bogens aus Mikulčice"
+   },
+   {
+    "mediaId": 3964,
+    "caption": "Darstellung eines großmährischen Bogenschützen auf einem Scheibchen aus Mikulčice",
+    "alt": "Darstellung eines großmährischen Bogenschützen auf einem Scheibchen aus Mikulčice"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine vollständige Ausrüstung war eine sehr kostspielige Angelegenheit; in Großmähren ist mit ihr nur im Umfeld der herrschenden Schichten zu rechnen. Die Ausrüstung eines Elitekriegers, also Helm, Panzer, Schwert mit Scheide, Beinschienen, Schild mit Lanze, Sporen und ein Pferd mit Zaumzeug, konnte den Wert von etwa 50 Kühen haben. Deshalb kämpfte die Mehrheit der Reiter und Fußkämpfer nur mit den Grundwaffen. Nach der Art der Verwendung und nach der Form lassen sich die Waffen in Hiebwaffen (Schwert, Kampfmesser, Säbel), Wurfwaffen (Lanze, Speer), Schlagwaffen (Axt) und Fernwaffen (Bogen, Pfeil) unterteilen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bei der Rekonstruktion des Lebens eines Großmährers oder einer Gruppe von Menschen (Familie, Siedlung, Dorf, Handwerker-, Kaufmanns- oder Kriegergefolgschaft und andere) ist es gut, die zivile und die militärische Kleidung sowie die Kleidung im Rahmen des sozialen Status in Einklang bringen zu können. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Schwert"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schwerter der Zeit Großmährens rechnen wir zu den sogenannten karolingischen Schwertern (Mitte des 8. Jahrhunderts – Mitte des 11. Jahrhunderts). Es ist ein mittelalterliches Schwert mit abgeflachtem, voll entwickeltem Knauf und einer mittigen, erleichternden, sogenannten „Blutrinne“ auf der mehr als 70 cm langen Klinge. Die übliche Länge der Schwerter im Gebiet der heutigen Slowakei betrug in dieser Zeit etwa 90 cm, die Breite der Klinge an der Parierstange etwa 6 cm. Das Gesamtgewicht des Schwertes lag bei etwa einem Kilogramm. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Das Schwert des Adligen aus Turčianska Blatnica",
+    "alt": "Das Schwert des Adligen aus Turčianska Blatnica",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In den Gräbern mit Militaria stellen sie einen statistischen Anteil von 6,8 % dar. Genutzt wurden sie vor allem von der Reiterei, es sind jedoch auch Gräber mit Schwert ohne Reiterattribute dokumentiert. Interessant und außergewöhnlich ist zum Beispiel das in Závada gefundene Schwert. Es gehörte einem 30- bis 40-jährigen Mann. Es handelt sich um ein Schwert des Typs X mit erhaltenen Resten eines Riemens mit Beschlägen. Ebenso wie das Schwert aus Dolné Krškany wurde es offenbar über der Schulter getragen. Es war in eine hölzerne Scheide gelegt. Es ist ein langes (93 cm) und schweres (nach der Reinigung 1430 g) Schwert. Die Parierstange ist im Vergleich zu anderen Schwertern aus Großmähren lang (16 cm), besonders im Vergleich zu anderen Schwertern des Typs X, bei denen die Länge der Parierstange zwischen 10 und 14 cm liegt. Gerade den Typ X finden die Archäologen im Gebiet der heutigen Slowakei am häufigsten. Zu den vereinheitlichenden Merkmalen dieses Schwerttyps gehören ein halbkreisförmiger Knauf und eine längere gerade Parierstange mit quadratischem Querschnitt. Die hohe Häufigkeit ihres Vorkommens konnte durch die Einfachheit der Form und die geringen Anforderungen der Herstellung beeinflusst sein. Ein hochwertiges Schwert hatte einen hohen Preis und gehörte in die Hände professioneller Krieger. Im Gebiet der heutigen Slowakei wurden mehrere Exemplare großmährischer Schwerter gefunden, und die Fundumstände deuten fast immer darauf hin, dass der Bestattete einer höheren sozialen Schicht angehörte. Schwerter fanden sich ausschließlich in Männergräbern, meist mit überdurchschnittlicher Ausstattung. Frauen- und Kindergräber fehlen völlig. In den Gräbern mit Schwertern sind auch Sporen fast die Regel. Häufig kommen auch Äxte, Dolche und Messer vor. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Schwertfunde im Gebiet der heutigen Slowakei sprechen von der hohen künstlerischen und handwerklichen Fertigkeit der Schmiede, die diese edlen Waffen herstellten. Die Schmiede, die die Schwerter anfertigten, mussten erfahren sein, und die Herstellung erfolgte wahrscheinlich in spezialisierten Werkstätten. Für die Herstellung war natürlich vor allem genügend hochwertiges Metall erforderlich und nicht zuletzt – Geschick, Erfahrung und genügend Zeit. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Fachwelt vertritt die Auffassung, dass die Slawen die Schwerter in früheren Zeiten einführten, weil sie sie nicht kannten und sie daher nicht herstellten. Es ist wahrscheinlich, dass vor allem die Klingen eingeführt wurden; Knäufe und Parierstangen der Schwerter waren auch einheimisches Erzeugnis. Später, besonders zur Zeit Großmährens, erfolgte die Produktion der Klingen (und selbstverständlich der übrigen Teile des Schwertes) schon regelmäßig im einheimischen Umfeld."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Schwert war in erster Linie ein Symbol der Macht, denn ein Schwert konnte sich keineswegs jedermann leisten, und so besaßen diese Waffen nur die Reichsten. Die Herstellung eines Schwertes war nicht nur finanziell, sondern auch zeitlich aufwendig. Das lange zweischneidige Schwert (als fränkisch, karolingisch oder normannisch bezeichnet) entwickelte sich aus dem älteren Schwert mit der Bezeichnung „Spatha“. Vom 8. Jahrhundert an wurde das fränkische Schwert allmählich zur bedeutendsten Waffe im Gebiet der heutigen Slowakei. Seine Anzahl war nicht groß, was für alle Abschnitte des Frühmittelalters gilt. In größerem Umfang wurde es im Kampf nicht verwendet und diente in erster Linie bereits als das genannte Symbol der Macht. Im Gebiet der heutigen Slowakei gewinnen die Schwerter ab dem Ende des 8. Jahrhunderts an Bedeutung. Zu den Slawen gelangten damals (auch trotz der Verbote seitens des Frankenreiches) hochwertige Schwerter aus fränkischen Werkstätten im Rheinland. Diese Schwerter wurden oft in der Technik des Schweißdamasts hergestellt (was ihre Festigkeit und Widerstandsfähigkeit erhöhte), waren mit den Marken der Schwertschmiede versehen, die sie angefertigt hatten (der bedeutendste Schwertschmied jener Zeit war der rheinische Meister Ulfberth), und hatten einen verzierten Griff und Knauf. Ab der zweiten Hälfte des 9. Jahrhunderts lässt sich in Großmähren auch an eine örtliche Herstellung von Schwertern denken, und zwar sowohl einfacher Typen als auch hochwertiger Nachahmungen fränkischer Schwerter. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Der Hortfund – die luxuriöse Ausstattung des Adligen aus Turčianska Blatnica",
+    "alt": "Der Hortfund – die luxuriöse Ausstattung des Adligen aus Turčianska Blatnica",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Axt"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sie ist die häufigste Waffe der Slawen; in der Gesamtheit der Gräber mit Militaria im Gebiet der heutigen Slowakei stellt sie einen Anteil von 55 % dar. Die Funde lassen sich in drei grundlegende Typen unterteilen. Der häufigste Typ waren die „Bartäxte“ (74 %), deren übliche Länge zwischen 15 und 17 cm liegt. Weniger häufig waren die „schmalen Äxte“ (19,2 %). Ihre Länge schwankte zwischen 14 und 17 cm. Im gleichen Maße wie die Schwerter waren auch die „breiten Äxte“ (6,8 %) vertreten, ihre Länge liegt zwischen 13,5 und 16 cm. Diese Prozentangaben stimmen überraschend mit den Funden aus dem benachbarten Mähren überein, weshalb wir behaupten können, dass auch die hiesigen Bewohner dieselben Kriterien für das Beigeben von Äxten in die Gräber hatten. Aus Mikulčice sind auch seltene hölzerne Schäfte von 70–90 cm Länge erhalten; auf sie wurde die Axt ähnlich aufgesetzt wie heute eine Spitzhacke. Äxte auf längeren Schäften, die sogenannten „danax“, fehlen im Gebiet der heutigen Slowakei völlig. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Bartaxt aus Diviacka Nová Ves",
+    "alt": "Bartaxt aus Diviacka Nová Ves",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Mehrheit der Axtfunde in den Gräbern halten die Fachleute für Waffen, auch wenn ihre Verwendung bei Arbeit und Handwerk nicht ausgeschlossen ist. Eine rein militärische Verwendung gilt mit größerer Sicherheit für die Bartäxte und überhaupt für alle Äxte mit Hammernacken. Die von ihnen verursachten Verletzungen sind am Skelettmaterial belegt."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine Axt konnte im Haushalt wohl kaum fehlen, und für frühmittelalterliche Verhältnisse war sie für die unteren sozialen Schichten im Falle eines Kampfes die geeignetste Lösung. Verwendet wurde sie vor allem vom Fußvolk, es sind jedoch einige Fälle ihrer Verwendung durch die großmährische Reiterei belegt. Im Kampf kommt sie dem Schwert gleich; auf einem langen Schaft und dank der physikalischen Eigenschaften ihrer Konstruktion und Gewichtsverteilung besitzt sie eine enorme Durchschlagskraft. Trotz des relativ geringen Gewichts – 350–500 g – verursachte sie dank des hoch verlagerten Schwerpunktes und der verhältnismäßig schmalen Schneide tödliche Verletzungen. Im Vergleich zum Schwert erfordert eine Axt 50–75 % weniger Eisen und bei ihrer Herstellung weit weniger Arbeit. In den Gräbern mit Äxten wurden häufig Messer, manchmal Sporen gefunden. Andere Waffen sind sehr selten. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Lanze"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Lanzen sind überhaupt eine der ältesten Waffenarten in der Geschichte der Menschheit. In der Gesamtheit der Gräber mit Militaria im Gebiet der heutigen Slowakei stellt sie einen Anteil von 12,7 % dar. Sie war bei weniger vermögenden Kriegern verbreitet, aus demselben Grund wie die Axt, war aber auch in den Händen der Reiter eine mächtige Waffe. Ältere schriftliche Erwähnungen sprechen jedoch von einer viel größeren Verbreitung dieser Waffe bei den Slawen. In den Händen von Fußkämpfern ist sie eine ausgezeichnete Waffe gegen die Reiterei. Die klassische großmährische Lanze hat eine Blattform mit einer Spitzenlänge von 26–33 cm; selten, aber ebenfalls interessant ist der Typ der Lanze mit seitlichen Flügeln, deren Spitzenlänge 40 cm übersteigt. Im Kampf wurde die Lanze in der ersten Phase verwendet, wenn die Formationen voneinander entfernt waren. Für den Nahkampf sind sie wenig brauchbar. Wirksam im Gedränge sind sie nur dann, wenn sie in den hinteren Reihen aufgestellt sind. Die im Fußkampf verwendete Lanze erreichte eine Länge, die der Körperhöhe des Kriegers entsprach, oder eine größere; manche Spitzen finden sich in den Gräbern jedoch auch in Schulterhöhe. Die übliche Länge der Schäfte betrug bei Fußkriegern also 160–200 cm. Die Reiter verwendeten offenbar viel längere Schäfte. Diese Waffen konnten alternativ auch zur Jagd verwendet werden, die Angaben aus den Gräbern mit Lanzen bestätigen insgesamt jedoch eine enge Bindung des Bestatteten an das Kriegswesen. In den Gräbern waren Messer häufig vertreten, nicht zu vernachlässigen sind aber auch Gegenstände des täglichen Bedarfs. Vereinzelt fanden sich auch Sporen, Eimerchen und Äxte. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Das Messer"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Es war der Grundbestandteil der Ausstattung jedes Menschen, von Männern, Frauen, aber auch Kindern, ohne Unterschied des Alters oder der Zugehörigkeit zu einer sozialen Schicht oder einem Handwerk. Man muss es jedoch sowohl als Waffe als auch als Gegenstand des täglichen Bedarfs und als Werkzeug betrachten. Als Waffe gilt bei den Fachleuten ein Messer, das länger als 15,1 cm ist, wobei kurze Messer (bis 10 cm) und mittellange Messer (10,1–15 cm) als Gegenstände des täglichen Bedarfs angesehen werden. In den Gräbern überwiegen die mittellangen Messer. Innerhalb der Gräber, in denen auch andere Gegenstände des täglichen Bedarfs und Werkzeuge gefunden wurden, machen die Messer 86,3 % aus. In der Gesamtheit aller Gräber mit Grabinventar sind es 38,4 %. Getragen wurden sie in hölzernen, ledernen oder textilen Scheiden, häufig in Verbindung mit Metall. Die hölzernen Scheiden überwiegen jedoch deutlich. Die Verwendung textiler Materialien zu diesen Zwecken ist durch einkorrodierte Textilabdrücke im Metall belegt. In der Funktion von Waffen treten im Gebiet der heutigen Slowakei fast ausschließlich einschneidige Messer auf. Das Kampfmesser (das lange) macht 21,5 % aller Messer aus. Von seiner militärischen Verwendung spricht vielleicht auch die Tatsache, dass es anders getragen wurde, nämlich an der linken Körperseite hängend. Kleinere Messer haben keine vorherrschende Seite. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "type": "text",
+        "text": "Bogen und Pfeil"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Existenz von Bögen bei den Slawen im Gebiet der heutigen Slowakei ist schon ab dem 7. Jahrhundert durch Funde von Pfeilspitzen, aber auch durch knöcherne Auflagen von Reflexbögen belegt. Mit Pfeilspitzen waren auch Frauen- und Kindergräber sowie Gräber nicht erwachsener Individuen ausgestattet; in 20 % gelang es nicht, das Geschlecht zu bestimmen. In den Gräbern mit Militaria stellen sie einen statistischen Anteil von 55,8 % dar. Die Bogenschützengräber enthielten jedoch nur selten andere Waffen. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Bogenschützen bildeten überwiegend Verteidigungsverbände des Fußvolkes. Auch auf dem Schlachtfeld sorgten sie für die Beschussvorbereitung vor dem Vorrücken der Reiterei. Typisch ist der einfache, lange Bogen, hergestellt aus elastischem Eiben-, Eschen-, Hartriegel- oder Eichenholz. Sie waren 150–190 cm lang, mit Kerben am Ende zum Einsetzen der Bogensehne. Es ist möglich, dass die Bögen in der Mitte verstärkt waren, der einzige Bogenfund aus dem Gebiet Großmährens, aus Mikulčice, bestätigt dies jedoch nicht. Die Verbindung eines beträchtlich langen Bogens mit einer Pfeillänge von etwa 80 cm ermöglichte eine Schussweite von mehr als 200 m. Auf diese Entfernung lässt sich die tödliche Wirkung des Geschosses abschätzen, die Schussweite konnte jedoch viel größer sein. A. Ruttkay schätzt sie sogar auf 400 m. Die Dicke der hölzernen Schäfte lag etwas unter 1 cm, und die Spitzen wurden mit Hilfe von Tüllen auf sie aufgesetzt. Die Bogensehne konnte aus Sehnen oder aus gedrehten Hanf- oder Leinenfasern hergestellt werden. Beim Schießen wurde sie mit zwei Fingern gespannt, und für die Genauigkeit des Fluges sorgten drei Federn. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Fragmente eines großmährischen Bogens aus Mikulčice",
+    "alt": "Fragmente eines großmährischen Bogens aus Mikulčice",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Pfeile wurden in einem Köcher getragen, und die Funde deuten darauf hin, dass sie auch in Köchern in die Gräber gelegt wurden. Der Bogenschütze trug den Köcher auf dem Rücken, auf der rechten Seite entlang von Schulter und Ellenbogen bis zum Becken, oder auf der linken Körperseite entlang von Ellenbogen und Becken bis zum Knie. Erhaltene Köcher wurden jedoch in den slawischen Gräbern im Gebiet der heutigen Slowakei nicht gefunden. Die Kapazität des Köchers bestimmt die Schlagkraft des Kriegers. Die Pfeilspitzen in den Gräbern sprechen dafür, dass er 12 bis 24 Pfeile mit sich tragen konnte."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Darstellung eines großmährischen Bogenschützen auf einem Scheibchen aus Mikulčice",
+    "alt": "Darstellung eines großmährischen Bogenschützen auf einem Scheibchen aus Mikulčice",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der vorgroßmährischen Zeit liegen aus dem Gebiet der heutigen Slowakei auch Funde von Pfeilen mit Löchern unbekannter Funktion vor. Man denkt an eine Form psychologischer Wirkung pfeifender Pfeile, aber auch an eine Nutzung der Löcher zum Anbinden von Brandstoffen. Wahrscheinlicher ist jedoch, dass die Spitze durch die Löcher hindurch festgebunden und so befestigt wurde, angesichts ihres nicht geringen Wertes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Im Süden des Gebietes der heutigen Slowakei fanden sich auch Kompositbögen (Reflexbögen), wahrscheinlich Hinterlassenschaften des Awarenkhaganats – die archäologischen Funde deuten insgesamt jedoch darauf hin, dass der Einfluss der Awaren nördlich der Donau nur randlich war."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Die Waffen der Nitraer in großmährischer Zeit",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Quellen und Literatur",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

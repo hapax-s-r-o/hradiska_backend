@@ -1,0 +1,192 @@
+{
+ "slug": "frankovia-rokuju-s-moravanmi",
+ "data": {
+  "title": "Die Franken verhandeln mit den Mährern",
+  "slug": "franken-verhandeln-mit-den-maehrern",
+  "excerpt": "Die Diplomatie ist so alt wie die ersten Staaten: schon im dritten Jahrtausend v. Chr. suchten die ägyptischen Herrscher Kontakt zu den Nachbarländern. Auch Zerwürfnisse zwischen den Slawen im Gebiet der heutigen Slowakei und dem Frankenreich wurden auf diplomatischem Wege beigelegt – von den Gesandten König Dagoberts in der Chronik des Fredegar bis zu den Verhandlungen des 9. Jahrhunderts. Wie leicht eine solche Verhandlung aus dem Ruder lief, zeigen die Annales Fuldenses zum Jahr 884.",
+  "metaTitle": "Die Franken verhandeln mit den Mährern – Diplomatie",
+  "metaDescription": "Über die Diplomatie zwischen Franken und Mährern von Fredegar bis zu den Annales Fuldenses, mit dem zeitgenössischen Bericht über die Heimsuchung Pannoniens.",
+  "keyFacts": [
+   {
+    "label": "Thema",
+    "value": "Diplomatie zwischen Franken und Mährern; Zeichnung einer Verhandlung (T. Humaj)",
+    "icon": "star"
+   },
+   {
+    "label": "Quellen",
+    "value": "Chronik des Fredegar (Samo–Dagobert), Annales Fuldenses",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5862,
+    "alt": "Zeichnung einer Verhandlung: Gesandte vor dem Herrscher auf dem Thron mit einem Falken, die Gefolgschaft mit Lanzen und Schilden"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Die Diplomatie besteht mindestens seit der Zeit, in der in der frühen Antike die ersten Staaten entstanden, und hat ihre Wurzeln schon in den ersten Zivilisationen. Bereits in der Antike zeigten sich die ersten Anzeichen von Diplomatie; schon im dritten Jahrtausend v. Chr. versuchten die ägyptischen Herrscher, Kontakte zu den Nachbarländern zu knüpfen. Im zweiten Jahrtausend v. Chr. pflegte Ägypten bereits lebhafte Handels-, Kultur- und politische Beziehungen zur gesamten damals bekannten Welt — zum Staat der Hethiter in Vorderasien, zu den mesopotamischen Staaten (Mitanni, Babylon, Assyrien), zum kretischen Königreich und zu den Inseln der Ägäis, zu den syrischen und palästinischen Fürsten."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "Eine große Heimsuchung traf danach Pannonien. Wir wollen zeigen, wie alles begann. Als nämlich die beiden Brüder Wilhelm und Engilschalk im Auftrag König Ludwigs des Älteren die Grenzmark des Reiches der Bayern im Osten gegen die Mährer verwalteten, sollen sie sich in den Kämpfen zur Verteidigung des Vaterlandes nicht sehr angestrengt haben. Sie blieben weiterhin wenig tätig, und als sie schließlich auch die letzten Tage ihres Lebens vollendet hatten, erhielten nicht die Söhne dieser Brüder die Ämter, sondern der König setzte den Grafen Aribo als Verwalter ein. Die Söhne dieser Männer und ihre Verwandten deuteten diesen Umstand als Zeichen der Feindschaft. Sie erklärten, es müsse eines von zwei Dingen geschehen: entweder stirbt Graf Aribo, wenn er das ihren Vätern gehörende Amt nicht aufgibt, oder sie selbst sterben durch die Schärfe des Schwertes. Durch diese Nachricht erschreckt, knüpfte Aribo freundschaftliche Beziehungen zu Svatopluk, dem Herzog des Volkes der Mährer, an. Er zögerte nicht einmal, zur Bekräftigung der geschlossenen Verträge seinen eigenen Sohn als Geisel zu stellen. Inzwischen wandten sich die genannten Jünglinge mit der Bitte um Rat an einige bayerische Adlige. Dann versammelten sie ihre Verwandten und von allen Seiten Kriegsscharen, wodurch es ihnen gelang, ein starkes Heer zusammenzubringen. Mit dessen Hilfe vertrieben sie ohne jede Achtung den Grafen, den der König in das Amt eingesetzt hatte, und bemächtigten sich selbst dieses Gebietes (der Mark). Dies geschah also nach dem Tode König Ludwigs und seiner Söhne Karlmann und Ludwig. Ihr Nachfolger in der Herrschaft wurde dann der jüngste der Brüder (Karl III. der Dicke). Dieser gab die genannte Mark kurz darauf dem Aribo zurück, der sie schon früher innegehabt hatte. Pannonien erfuhr im Zusammenhang mit dieser Tatsache, wie wir schon erwähnt haben, eine Heimsuchung, und wie es dazu kam, wollen wir zur Erfrischung des Lesers mittels eines in die Prosa eingeschobenen Vierzeilers berichten:",
+    "author": null,
+    "source": "Annales Fuldenses"
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Aus der Geschichte der Slawen im Gebiet der heutigen Slowakei wissen wir, dass auch viele Zerwürfnisse zwischen ihnen und dem Frankenreich auf diplomatischem Wege gelöst wurden oder gelöst werden sollten. Schon die "
+       },
+       {
+        "type": "link",
+        "url": "/blog/wogastisburg-najvyznamnejsie-hradisko-samovej-rise",
+        "children": [
+         {
+          "type": "text",
+          "text": "Chronik des Fredegar"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " beschreibt die bekannte Szene, in der die Gesandten König Dagoberts den Streit mit dem Reich des Samo „schlichten“ gingen, der durch die angebliche Tötung fränkischer Kaufleute durch die Slawen entstanden war.   \n  Die Szene, die unser Mitarbeiter Tomáš Humaj für unsere Seite gezeichnet hat, bezieht sich auf eine spätere Zeit (9. Jahrhundert) und stellt eine diplomatische Verhandlung fränkischer Gesandter mit dem Fürsten (oder König?) von Großmähren dar, die zu ihm gekommen waren, um ihn um militärische Hilfe zu bitten.   \n  "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": ".",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Eine solche Situation (die den Franken dann allerdings etwas aus der Hand glitt) beschreiben uns die Annales Fuldenses.   \n  "
+       },
+       {
+        "type": "text",
+        "text": "Jahr 884. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "„Jedes Königreich – spricht Jesus – das in sich zwiespältig ist, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "wird unfest, und nichts Uneiniges hat Dauer. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Darum verfolgen dich, wunderschönes Land, Nachstellungen und Leiden, ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "darum sucht dich, einst glückliches Pannonien, die Trübsal heim.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "  Also in jenem Jahr, in dem die genannten Jünglinge erreichten, dass "
+       },
+       {
+        "type": "text",
+        "text": "Graf Aribo des ihm vom König übertragenen Amtes entsetzt wurde, vergaß ",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "Svatopluk, der Herzog der Mährer,",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " mit einem Kopf voller Ränke und List, nicht, wie viele Leiden er zusammen mit seinem Volk von den Vorfahren dieser Jünglinge in jenen Zeiten erdulden musste, als sich das Grenzgebiet (die Mark) der Bayern bis zu ihnen (den Mährern) ausgedehnt hatte. Da "
+       },
+       {
+        "type": "text",
+        "text": "er auch an die Freundschaft und den dem Aribo geleisteten Eid dachte, zog er mit dem Heer aus, um sich für alles zu rächen",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ", und das gelang ihm auch. Auf der nördlichen Seite der Donau nahm er Verinhar, den mittleren der drei Söhne Engilschalks, und den Grafen Vezzilo, der ihr Verwandter war, gefangen und ließ ihnen die rechte Hand und die Zunge abschneiden. Darüber hinaus aber – es ist ein Grauen, daran zu denken – beraubte man sie auch der Scham oder der Genitalien in solcher Weise, dass von ihnen nicht einmal eine Spur zurückblieb. Einige weitere ihrer Leute schickte man ohne die rechte oder die linke Hand zurück. Das Heer übergab auf Befehl des Herzogs alles den Flammen. Außerdem sandten sie auch über die Donau Spione, und wo immer sich irgendein Besitz der genannten Jünglinge befand, brannten sie ihn sogleich nieder. "
+       },
+       {
+        "type": "text",
+        "text": "Diese schändlichen Taten, verschuldet durch das unbedachte Handeln der Jünglinge, geschahen das ganze Jahr hindurch. Da die Jünglinge wegen ihres Vergehens an Aribo vom König nichts Gutes erhofften, flohen sie und traten in den Dienst Arnulfs, des Sohnes Karlmanns, der damals Pannonien verwaltete. Als Herzog Svatopluk dies erfuhr, schickte er Boten zu ihm und ließ ihm sagen: „Deine Leute spinnen Nachstellungen gegen mein Leben und verbünden sich gegen mein Königreich mit den Bulgaren“ (diese hatten nämlich im vorangegangenen Jahr sein Königreich verheert), „darum will ich, dass du durch einen Eid bestätigst, dass dies nicht wahr ist.“ Arnulf ließ ihm antworten, dass er nichts dergleichen tun werde. ",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Kurz darauf sammelte der Herzog sehr zahlreiche Kriegsscharen aus allen slawischen Landschaften und brach mit ihnen in Pannonien ein. Wütend und blutig mordete er wie ein Wolf und verheerte mit Feuer und Schwert dessen überwiegenden Teil. Alles stürzte er um und vernichtete es, darum lässt sich diese Heimsuchung mit vollem Recht mit einem Vers beschreiben:",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "„Dies ist des Vaterlandes Klage und zugleich sein trauriges Begräbnis.“",
+        "italic": true
+       },
+       {
+        "type": "text",
+        "text": "Als das Leiden wegen der genannten jugendlichen Unbedachtsamkeit zu Ende war, kehrte der Herzog nach Ablauf eines Jahres zusammen mit seinem Heer ohne Verluste nach Hause zurück.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

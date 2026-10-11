@@ -1,0 +1,43 @@
+{
+ "slug": "oprava-tabule-v-pruzine",
+ "data": {
+  "slug": "reparatur-informationstafel-pruzina-mesciska",
+  "title": "Reparatur der Informationstafel in Pružina (Mesciská)",
+  "excerpt": "Irgendwann im Verlauf des Herbstes hat jemand unsere Informationstafel am Burgwall Pružina – Mesciská beschädigt. Deshalb haben wir sie in dieser Woche mit Unterstützung der Gemeinde Pružina repariert. Die Reparatur kostete 50 Euro, die man für andere Dinge hätte aufwenden können. Hoffen wir, dass die Vandalen sie nun nicht mehr beachten.",
+  "metaTitle": "Reparatur der Informationstafel in Pružina – Mesciská",
+  "metaDescription": "Der Verein Hradiská hat mit Unterstützung der Gemeinde Pružina die beschädigte Informationstafel am Burgwall Mesciská repariert. Kosten: 50 Euro.",
+  "keyFacts": [
+   {
+    "label": "Aktivität",
+    "value": "Reparatur der beschädigten Informationstafel Pružina – Mesciská",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "—",
+    "title": "Reparatur der Tafel",
+    "type": "event",
+    "description": "Wir haben die Tafel mit Unterstützung der Gemeinde Pružina repariert (50 Euro)."
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Irgendwann im Verlauf des Herbstes hat jemand unsere Informationstafel am Burgwall Pružina – Mesciská beschädigt. Deshalb haben wir sie in dieser Woche mit Unterstützung der Gemeinde Pružina repariert. Die Reparatur kostete 50 Euro, die man für andere Dinge hätte aufwenden können. Hoffen wir, dass die Vandalen sie nun nicht mehr beachten werden."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
