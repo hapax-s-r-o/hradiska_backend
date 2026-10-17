@@ -778,6 +778,51 @@ async function hlavnyTest() {
   pu = await api('GET', `${V}/pouzitie-suboru/99999999`, { tok: R1 });
   over('použitie neexistujúceho súboru → 404', pu.status === 404);
 
+  /* 10b. Výmena obsahu súboru */
+  sekcia('Výmena obsahu súboru (POST /api/upload?id= so súborom)');
+  {
+    // a) chránený súbor starých verzií. Požiadavka nesie DVA súbory: keby ochrana zlyhala, Strapi
+    //    by ju odmietol sám (400, „Cannot replace a file with multiple ones“) skôr, než by skutočný
+    //    súbor na disku čo i len otvoril — test tak nemôže poškodiť ostrý obrázok.
+    const fd = new FormData();
+    fd.append('files', new Blob([png(300, 55)], { type: 'image/png' }), 'vzhlad-test-x1.png');
+    fd.append('files', new Blob([png(300, 56)], { type: 'image/png' }), 'vzhlad-test-x2.png');
+    const riadokSuboru = (id) => dbr.prepare('select url, hash, size, width, formats, updated_at from files where id = ?').get(id);
+    const predChr = riadokSuboru(D.chranenyNepouzity);
+    r = await api('POST', `/api/upload?id=${D.chranenyNepouzity}`, { tok: R1, telo: fd });
+    over('výmena chráneného súboru → 409 s vysvetlením po slovensky', r.status === 409 && kod(r) === 'subor-chraneny' && /nemožno nahradiť/.test(r.json?.error?.message || ''), `stav ${r.status} ${r.text.slice(0, 160)}`);
+    over('chránený súbor sa nezmenil (DB aj disk)', rovnake(riadokSuboru(D.chranenyNepouzity), predChr) && fs.existsSync(path.join(KOREN, 'public', predChr.url)));
+    // b) súbor použitý len vo vzhľade (číslom): výmena prejde a verejná odpoveď sa obnoví
+    const { r: u6, subor: T6 } = await nahraj(R1, 'vzhlad-test-t6.png', 66);
+    over('nahratie skúšobného súboru T6 → 201', u6.status === 201 && T6?.id);
+    if (T6?.id) {
+      nahrate.push(T6.id);
+      K = await koncept();
+      const P7 = vzhlad(D, { uprav: (v) => (v.kategorie[0].obrazok = { id: T6.id }) });
+      r = await api('PUT', `${V}/koncept`, { tok: R1, telo: { zaklad: K.verziaKonceptu, data: P7, zakladDb: K.db } });
+      if (r.status === 200) r = await api('POST', `${V}/zverejnit`, { tok: R1, telo: { zaklad: K.verziaKonceptu + 1, poznamka: 'test-kontraktu výmena súboru' } });
+      over('zverejnenie vzhľadu s T6', r.status === 200, `stav ${r.status}`);
+      const w1 = await verejny();
+      const e1 = w1.h.get('etag');
+      const diskPred = fs.statSync(path.join(KOREN, 'public', T6.url)).size;
+      over('verejný GET: T6 má šírku 300 px', w1.json?.subory?.[String(T6.id)]?.width === 300);
+      const fd6 = new FormData();
+      fd6.append('files', new Blob([png(400, 77)], { type: 'image/png' }), 'vzhlad-test-t6b.png');
+      r = await api('POST', `/api/upload?id=${T6.id}`, { tok: R1, telo: fd6 });
+      over('výmena súboru použitého len vo vzhľade (číslom) → 200', r.status === 200 && (Array.isArray(r.json) ? r.json[0] : r.json)?.id === T6.id, `stav ${r.status} ${r.text.slice(0, 160)}`);
+      const w2 = await api('GET', V, { hlavicky: { 'If-None-Match': e1 } });
+      const s6 = w2.json?.subory?.[String(T6.id)];
+      over('po výmene: starý If-None-Match → 200, nová šírka 400 px, adresa rovnaká', w2.status === 200 && s6?.width === 400 && s6?.url === T6.url && w2.h.get('etag') !== e1, `stav ${w2.status}, šírka ${s6?.width}`);
+      over('po výmene je na disku nový obsah pod tou istou adresou', fs.existsSync(path.join(KOREN, 'public', T6.url)) && fs.statSync(path.join(KOREN, 'public', T6.url)).size !== diskPred);
+      // c) úprava údajov o súbore bez súboru ostáva ako doteraz (a obnoví popis vo vzhľade)
+      const fdi = new FormData();
+      fdi.append('fileInfo', JSON.stringify({ alternativeText: 'skúšobný popis' }));
+      r = await api('POST', `/api/upload?id=${T6.id}`, { tok: R1, telo: fdi });
+      over('úprava údajov o súbore (bez súboru) → 200 ako doteraz', r.status === 200, `stav ${r.status}`);
+      over('verejný GET má nový popis súboru hneď', (await verejny()).json?.subory?.[String(T6.id)]?.alt === 'skúšobný popis');
+    }
+  }
+
   /* 11. Lifecycle kategórie */
   sekcia('Lifecycle kategórie (index, počty, vzhľad hneď)');
   const L = D.kategorie.find((k) => k.dokument === D.sKategoriou.kategoria);
@@ -913,6 +958,8 @@ async function uprac() {
   over('upratanie: história vzhľadu ako pred testom (DB)', rovnake(PO.historia, PRED.historia));
   over('upratanie: skúšobné súbory zmazané (počet súborov ako pred testom)', PO.subory.n === PRED.subory.n && dbr.prepare(`select count(*) n from files where id in (${nahrate.map(Number).join(',') || 0})`).get().n === 0);
   over('upratanie: priečinky knižnice médií ako pred testom', PO.priecinky === PRED.priecinky);
+  const naDisku = fs.readdirSync(path.join(KOREN, 'public', 'uploads')).filter((n) => n.includes('vzhlad_test'));
+  over('upratanie: na disku nie je žiadny skúšobný súbor (ani zmenšenina)', naDisku.length === 0, naDisku.slice(0, 5).join(', '));
   const w = await verejny();
   const v0 = PRED.vzhlad[0]?.verzia_zverejnena ?? 0;
   over('upratanie: verejný GET ako pred testom', w.status === 200 && w.json?.verzia === v0 && (PRED.vzhlad[0]?.zverejnene ? true : w.json?.data === null));

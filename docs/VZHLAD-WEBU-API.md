@@ -233,13 +233,21 @@ po slovensky a s `details` z `pouzitie-suboru`, ak je súbor
 
 Inak (aj neexistujúci súbor) pokračuje pôvodná akcia bez zmeny; nahrávanie, zoznam a úprava údajov o súbore sa nemenia.
 
+**Výmena obsahu súboru** (`POST /api/upload?id=<id>` so súborom). Strapi pri nej ponechá meno aj adresu súboru,
+ale obsah a zmenšeniny vyrobí nanovo (zmenšeniny, ktoré nový obrázok nemá, zmiznú). Preto:
+
+- súbor zo zoznamu chránených (staré verzie webu a appky) → **409** `subor-chraneny` s vysvetlením, súbor sa nezmení;
+- súbor použitý len vo vzhľade → výmena prejde (vzhľad ho odkazuje číslom) a zmaže sa pamäť verejnej odpovede
+  vzhľadu (nové rozmery a zmenšeniny, nový ETag);
+- úprava údajov o súbore (`?id=` bez súboru: meno, popis) ostáva bez zmeny.
+
+V `pouzitie-suboru` má každé miesto aj `podla: "id" | "cesta"` (či vzhľad odkazuje súbor číslom alebo menom v ceste).
+
 - **Zoznam chránených** generuje `node scripts/vzhlad/chranene-subory.mjs [cesta-k-FE]` zo všetkých ciest `/uploads/…`
   v FE `src/data/categories.ts`, `src/data/cinnost.ts`, `src/design-lab/LabAktuality.tsx`, `src/components/ArticleCard.tsx`
   (bez komentárov) plus ich varianty `thumbnail_`, `small_`, `medium_`, `large_`. Mená sa len pridávajú (staré verzie
   ich používajú ďalej). Porovnáva sa podľa mena súboru v `url` aj vo `formats`.
 - **Panel Strapi (`/admin`) maže cez iné API a ochranu obíde.** Fotky mazať len v administrácii webu.
-- Nechránená ostáva aj výmena obsahu súboru (`POST /api/upload?id=<id>` so súborom) — mení adresu súboru.
-  Administrácia webu ju nepoužíva (posiela len údaje o súbore), plán ju nerieši.
 
 ## Lifecycle kategórie a pamäť
 
@@ -270,10 +278,11 @@ node scripts/vzhlad/chranene-subory.mjs      # pregenerovať zoznam chránených
 redaktorských cestách, každé pravidlo kontroly (400 s cestou k poľu), súbeh (aj dve súbežné uloženia), zverejnenie
 (história, `order` 10/20/…, `name`, `domovska-galeria`, verejný GET, index), atomickosť (vo vývojovom režime), trojcestné
 zlúčenie (konflikt aj nekonfliktné vetvy), obnovenie, ochranu fotiek (použitá v koncepte / zverejnenom / histórii,
-chránená, nepoužitá; nahrávanie a mazanie ako doteraz), lifecycle kategórie, poistku histórie a zverejnenie prázdneho
+chránená, nepoužitá; nahrávanie a mazanie ako doteraz), výmenu obsahu súboru (chránený 409, použitý vo vzhľade prejde
+a vzhľad sa obnoví), lifecycle kategórie, poistku histórie a zverejnenie prázdneho
 vzhľadu. Výsledok počtom „prešlo N z N“, priebežne aj do `.tmp/vzhlad-api-vysledok.txt`.
 
 Tokeny si test vyrobí rovnako ako `users-permissions` `jwt.issue({ id })` (JWT_SECRET z env súboru) a nikam ich nevypisuje.
 Na konci vráti DB do stavu pred testom a overí to: kategórie (názov, slug, poradie aj časové značky), domovská galéria
-(aj riadky väzby), riadok vzhľadu a jeho história, skúšobné súbory zmazané. Priamo do DB zapisuje len pri tomto návrate
+(aj riadky väzby), riadok vzhľadu a jeho história, skúšobné súbory zmazané z DB aj z disku. Priamo do DB zapisuje len pri tomto návrate
 (a raz počas testu zmaže riadok histórie, aby overil poistku) — inak všetko ide cez API.

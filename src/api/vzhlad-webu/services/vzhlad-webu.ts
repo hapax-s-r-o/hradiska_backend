@@ -287,12 +287,15 @@ export default ({ strapi }: { strapi: Core.Strapi }) => {
     return true;
   }
 
-  /** Miesta vo vzhľade, kde je súbor použitý (podľa id alebo podľa mena v ceste /uploads/…). */
-  function miestaVoVzhlade(v: Vzhlad | null | undefined, id: number, mena: Set<string>): string[] {
+  /** Miesta vo vzhľade, kde je súbor použitý — podľa id, alebo podľa mena v ceste /uploads/… (originál či zmenšenina). */
+  function miestaVoVzhlade(v: Vzhlad | null | undefined, id: number, mena: Set<string>): { cesta: string; podla: 'id' | 'cesta' }[] {
     if (!v) return [];
-    return zbierajOdkazy(v)
-      .obrazky.filter((o) => o.id === id || (o.subor && o.subor.startsWith('/uploads/') && mena.has(meno(o.subor))))
-      .map((o) => o.cesta);
+    const out: { cesta: string; podla: 'id' | 'cesta' }[] = [];
+    for (const o of zbierajOdkazy(v).obrazky) {
+      if (o.id === id) out.push({ cesta: o.cesta, podla: 'id' });
+      else if (o.subor && o.subor.startsWith('/uploads/') && mena.has(meno(o.subor))) out.push({ cesta: o.cesta, podla: 'cesta' });
+    }
+    return out;
   }
 
   return {
@@ -540,16 +543,16 @@ export default ({ strapi }: { strapi: Core.Strapi }) => {
       const subor: any = await strapi.db.query(UID_SUBOR).findOne({ where: { id }, select: ['id', 'name', 'url', 'formats', 'mime'] });
       if (!subor) return null;
       const mena = new Set(menaSuboru(subor));
-      const miesta: { zdroj: 'koncept' | 'zverejnene' | 'historia'; verzia?: number; cesta: string }[] = [];
+      const miesta: { zdroj: 'koncept' | 'zverejnene' | 'historia'; verzia?: number; cesta: string; podla: 'id' | 'cesta' }[] = [];
       const r = await citajRiadok();
-      for (const c of miestaVoVzhlade(r?.koncept, id, mena)) miesta.push({ zdroj: 'koncept', cesta: c });
-      for (const c of miestaVoVzhlade(r?.zverejnene, id, mena)) miesta.push({ zdroj: 'zverejnene', cesta: c });
+      for (const m of miestaVoVzhlade(r?.koncept, id, mena)) miesta.push({ zdroj: 'koncept', ...m });
+      for (const m of miestaVoVzhlade(r?.zverejnene, id, mena)) miesta.push({ zdroj: 'zverejnene', ...m });
       const verzie: any[] = await strapi.db.query(UID_VERZIA).findMany({
         select: ['verzia', 'obsah'],
         orderBy: [{ verzia: 'desc' }, { id: 'desc' }],
         limit: CHRANENYCH_VERZII,
       });
-      for (const v of verzie) for (const c of miestaVoVzhlade(v.obsah, id, mena)) miesta.push({ zdroj: 'historia', verzia: v.verzia, cesta: c });
+      for (const v of verzie) for (const m of miestaVoVzhlade(v.obsah, id, mena)) miesta.push({ zdroj: 'historia', verzia: v.verzia, ...m });
       const chraneny = [...mena].some((m) => CHRANENE.has(m));
       return {
         id,
