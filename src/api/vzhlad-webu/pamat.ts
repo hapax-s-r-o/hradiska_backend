@@ -17,6 +17,8 @@ export interface ZaznamVzhladu {
   verzia: number;
   /** Hotové JSON telo odpovede (neprevádza sa pri každom dopyte znova). */
   telo: string;
+  /** `"v<verzia>-<odtlačok tela>"` — mení sa aj pri premenovaní článku či kategórie, nielen pri zverejnení. */
+  etag: string;
 }
 
 let zaznam: ZaznamVzhladu | null = null;

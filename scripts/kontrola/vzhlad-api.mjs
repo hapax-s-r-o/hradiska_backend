@@ -388,11 +388,11 @@ async function hlavnyTest() {
     const r = await verejny();
     over('GET /api/vzhlad-webu bez prihlásenia → 200', r.status === 200, `stav ${r.status}`);
     over('Cache-Control: public, max-age=30, stale-while-revalidate=300', r.h.get('cache-control') === 'public, max-age=30, stale-while-revalidate=300', r.h.get('cache-control'));
-    over(`ETag "v${verziaPred}"`, r.h.get('etag') === `"v${verziaPred}"`, r.h.get('etag'));
+    over(`ETag "v${verziaPred}-<odtlačok tela>"`, new RegExp(`^"v${verziaPred}-[0-9a-f]{12}"$`).test(r.h.get('etag') || ''), r.h.get('etag'));
     if (prazdnyNaZaciatku) {
       over('bez vzhľadu: { data:null, verzia, subory:{}, kategorie:{}, clanky:{} }', rovnake(r.json, { data: null, verzia: verziaPred, subory: {}, kategorie: {}, clanky: {} }), r.text.slice(0, 200));
     }
-    const r2 = await api('GET', V, { hlavicky: { 'If-None-Match': `"v${verziaPred}"` } });
+    const r2 = await api('GET', V, { hlavicky: { 'If-None-Match': r.h.get('etag') } });
     over('If-None-Match so zhodou → 304 bez tela', r2.status === 304 && !r2.text, `stav ${r2.status}`);
   }
 
@@ -592,7 +592,8 @@ async function hlavnyTest() {
   over('redaktor 200: GET /historia/:verzia vráti obsah zverejnenia', h1.status === 200 && rovnake(h1.json?.obsah, P1) && !!h1.json?.subory);
   const w = await verejny();
   over('verejný GET: data = zverejnený koncept, verzia', w.status === 200 && rovnake(w.json?.data, P1) && w.json?.verzia === v1);
-  over(`verejný GET: ETag "v${v1}"`, w.h.get('etag') === `"v${v1}"`);
+  const etag1 = w.h.get('etag') || '';
+  over(`verejný GET: ETag "v${v1}-<odtlačok tela>"`, new RegExp(`^"v${v1}-[0-9a-f]{12}"$`).test(etag1), etag1);
   const idObrazkov = [...new Set([...D.obrazky.slice(0, D.kategorie.length), ...fotky1])];
   over('verejný GET: rozriešené fotky {id,url,width,height,alt,formats}', idObrazkov.every((id) => {
     const s = w.json?.subory?.[String(id)];
@@ -601,12 +602,12 @@ async function hlavnyTest() {
   over('verejný GET: kategórie z DB s novým názvom a poradím', w.json?.kategorie?.[kX.dokument]?.nazov === `${kX.nazov} (test)` && w.json?.kategorie?.[poradie1[0].dokument]?.poradie === 10);
   over('verejný GET: články v sk/en/de so slugom, názvom a obrázkom', D.clanky.slice(0, 9).every((c) => ['sk', 'en', 'de'].every((j) => w.json?.clanky?.[c.dokument]?.[j]?.slug && typeof w.json.clanky[c.dokument][j].nazov === 'string')));
   over('verejný GET: obálky článkov sú v subory', Object.values(w.json?.clanky || {}).flatMap((c) => Object.values(c)).every((c) => !c.obrazok || w.json.subory[String(c.obrazok)]));
-  const n304 = await api('GET', V, { hlavicky: { 'If-None-Match': `"v${v1}"` } });
-  over('304 pri If-None-Match "vN"', n304.status === 304 && !n304.text);
-  const w304 = await api('GET', V, { hlavicky: { 'If-None-Match': `W/"v${v1}"` } });
-  over('304 aj pri slabej značke W/"vN"', w304.status === 304);
-  const n200 = await api('GET', V, { hlavicky: { 'If-None-Match': `"v${v1 + 99}"` } });
-  over('200 pri inom ETagu', n200.status === 200 && rovnake(n200.json?.data, P1));
+  const n304 = await api('GET', V, { hlavicky: { 'If-None-Match': etag1 } });
+  over('304 pri If-None-Match = ETag', n304.status === 304 && !n304.text);
+  const w304 = await api('GET', V, { hlavicky: { 'If-None-Match': `W/${etag1}` } });
+  over('304 aj pri slabej značke W/"…"', w304.status === 304);
+  const n200 = await api('GET', V, { hlavicky: { 'If-None-Match': `"v${v1}"` } });
+  over('200 pri inom ETagu (aj holé "vN" bez odtlačku)', n200.status === 200 && rovnake(n200.json?.data, P1));
   const idx = await api('GET', '/api/search-index?bezTextu=1');
   const vKatX = (idx.json?.items || []).filter((i) => i.categorySlug === kX.slug);
   over('search-index má nový názov kategórie hneď po zverejnení (lifecycle)', vKatX.length > 0 && vKatX.every((i) => i.categoryName === `${kX.nazov} (test)`), `${vKatX.length} článkov`);
@@ -783,9 +784,13 @@ async function hlavnyTest() {
   const nazovL = snimkaDb().kategorie.find((k) => k.d === L.dokument).name;
   await api('GET', '/api/search-index?bezTextu=1');
   await api('GET', '/api/pocty-kategorii');
-  await verejny();
+  const etagPredL = (await verejny()).h.get('etag');
   r = await api('PUT', `/api/blog-categories/${L.dokument}`, { tok: R1, telo: { data: { name: `${nazovL} (lc)` } } });
   over('premenovanie kategórie (REST) → 200', r.status === 200);
+  const poL = await api('GET', V, { hlavicky: { 'If-None-Match': etagPredL } });
+  over('po premenovaní kategórie: starý If-None-Match → 200 s novým názvom a novým ETagom (nie 304)', poL.status === 200 && poL.json?.kategorie?.[L.dokument]?.nazov === `${nazovL} (lc)` && !!poL.h.get('etag') && poL.h.get('etag') !== etagPredL && poL.json?.verzia === Number(/^"v(\d+)-/.exec(etagPredL || '')?.[1]), `stav ${poL.status}`);
+  const poL2 = await api('GET', V, { hlavicky: { 'If-None-Match': poL.h.get('etag') } });
+  over('nový ETag po premenovaní → 304', poL2.status === 304);
   const idxL = await api('GET', '/api/search-index?bezTextu=1');
   const clL = (idxL.json?.items || []).find((i) => i.slug === D.sKategoriou.slug);
   over('search-index má nový názov kategórie hneď', clL?.categoryName === `${nazovL} (lc)`, clL?.categoryName);

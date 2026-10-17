@@ -53,8 +53,7 @@ export default ({ strapi }: { strapi: any }) => {
   return {
     /** GET /api/vzhlad-webu — verejné. */
     async verejny(ctx: any) {
-      const { verzia, telo } = await sluzba().verejnaOdpoved();
-      const etag = `"v${verzia}"`;
+      const { telo, etag } = await sluzba().verejnaOdpoved();
       ctx.set('Cache-Control', 'public, max-age=30, stale-while-revalidate=300');
       ctx.set('ETag', etag);
       if (zhodaEtag(ctx.get('If-None-Match'), etag)) {

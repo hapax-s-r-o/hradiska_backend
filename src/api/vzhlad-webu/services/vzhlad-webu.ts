@@ -11,6 +11,7 @@
  * limitu (60 s), takže rýchle zverejnenie je zároveň dôkaz, že nič neuteklo mimo nej.
  */
 
+import crypto from 'crypto';
 import type { Core } from '@strapi/strapi';
 import { JAZYKY, LIMITY } from '../typy';
 import type { ChybaVzhladu, ClanokVJazyku, Jazyk, Rozriesene, Subor, Vzhlad, ZakladDb } from '../typy';
@@ -299,7 +300,7 @@ export default ({ strapi }: { strapi: Core.Strapi }) => {
     dbHodnoty,
 
     /** Verejná odpoveď (z pamäte, ak sa verzia v DB nezmenila). */
-    async verejnaOdpoved(): Promise<{ verzia: number; telo: string }> {
+    async verejnaOdpoved(): Promise<{ verzia: number; telo: string; etag: string }> {
       const gen = pamatVzhladu.generacia();
       const hlava: any = await strapi.db.query(UID).findOne({ select: ['id', 'verziaZverejnena'], orderBy: { id: 'asc' } });
       const verzia = hlava?.verziaZverejnena ?? 0;
@@ -308,7 +309,12 @@ export default ({ strapi }: { strapi: Core.Strapi }) => {
       const r = hlava ? await citajRiadok() : null;
       const data = r?.zverejnene ?? null;
       const roz = data ? await rozries([data]) : { subory: {}, kategorie: {}, clanky: {} };
-      const zaznam = { verzia, telo: JSON.stringify({ data, verzia, ...roz }) };
+      const telo = JSON.stringify({ data, verzia, ...roz });
+      /* ETag z čísla verzie aj z odtlačku tela: telo nesie aj aktuálne slugy a názvy článkov
+         a kategórií, takže premenovanie musí dať nový ETag, inak by klient s If-None-Match
+         dostal 304 a ostal pri starých. */
+      const odtlacok = crypto.createHash('sha1').update(telo).digest('hex').slice(0, 12);
+      const zaznam = { verzia, telo, etag: `"v${verzia}-${odtlacok}"` };
       pamatVzhladu.uloz(gen, zaznam);
       return zaznam;
     },

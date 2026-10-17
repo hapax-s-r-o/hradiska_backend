@@ -86,13 +86,13 @@ Všetky pod `/api`. Chyby majú tvar Strapi: `{ "data": null, "error": { "status
 - `clanky`: všetky články, na ktoré vzhľad odkazuje, v jazykoch, v ktorých sú **zverejnené** (chýbajúci jazyk = kľúč chýba).
 - Bez zverejneného vzhľadu: `{ "data": null, "verzia": <verziaZverejnena>, "subory": {}, "kategorie": {}, "clanky": {} }`
   (pred prvým zverejnením `verzia: 0`; po zverejnení prázdneho vzhľadu číslo tej verzie).
-- Hlavičky: `Cache-Control: public, max-age=30, stale-while-revalidate=300`, `ETag: "v<verzia>"`.
-  `If-None-Match` so zhodou (aj `W/"v7"`, zoznam, `*`) → **304** bez tela.
+- Hlavičky: `Cache-Control: public, max-age=30, stale-while-revalidate=300`,
+  `ETag: "v<verzia>-<prvých 12 znakov sha1 tela>"` (napr. `"v7-3f2a9c01be44"`).
+  `If-None-Match` so zhodou (aj slabá značka `W/"…"`, zoznam, `*`) → **304** bez tela.
+  Odtlačok tela je v ETagu preto, že telo nesie aj aktuálne slugy a názvy článkov a kategórií: ich premenovanie
+  dá nový ETag aj bez nového zverejnenia. Klient má posielať späť presne ETag, ktorý dostal (holé `"v7"` sa nezhoduje).
 - Odpoveď je v pamäti servera. Platí len pre verziu, ktorú má DB práve teraz (jeden malý dopyt pri každej požiadavke),
   a zmaže sa pri zverejnení a pri zmene článku, kategórie alebo súboru (lifecycles).
-- **Pozor:** ETag je podľa plánu len číslo verzie. Keď sa po zverejnení zmení názov či slug článku alebo kategórie,
-  telo odpovede sa zmení, ETag nie — klient, ktorý pošle `If-None-Match`, dostane 304 a ostane mu staré rozriešenie,
-  kým sa nezverejní ďalšia verzia (alebo nevyprší jeho cache bez `If-None-Match`). Ak to bude vadiť, ETag treba doplniť o odtlačok tela.
 
 ### `GET /api/vzhlad-webu/koncept`
 
@@ -263,7 +263,7 @@ node scripts/vzhlad/porovnaj-typy.mjs        # typy.ts BE = FE, inak exit 1
 node scripts/vzhlad/chranene-subory.mjs      # pregenerovať zoznam chránených súborov
 ```
 
-`vzhlad-api.mjs` pokrýva plán 10.1: verejný GET (prázdny, tvar, rozriešené fotky, ETag, 304), 401/403/200 na všetkých
+`vzhlad-api.mjs` pokrýva plán 10.1: verejný GET (prázdny, tvar, rozriešené fotky, ETag, 304, nový ETag po premenovaní kategórie), 401/403/200 na všetkých
 redaktorských cestách, každé pravidlo kontroly (400 s cestou k poľu), súbeh (aj dve súbežné uloženia), zverejnenie
 (história, `order` 10/20/…, `name`, `domovska-galeria`, verejný GET, index), atomickosť (vo vývojovom režime), trojcestné
 zlúčenie (konflikt aj nekonfliktné vetvy), obnovenie, ochranu fotiek (použitá v koncepte / zverejnenom / histórii,
