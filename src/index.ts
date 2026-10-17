@@ -4,6 +4,7 @@ import path from 'path';
 import os from 'os';
 import { zapisStavSmtp } from './api/postova-sprava/services/posta';
 import { sablona, ZNACKA, dopisTextovuVerziu } from './maily';
+import { pamatVzhladu } from './api/vzhlad-webu/pamat';
 
 // Predefined categories for Hradiska.sk
 const CATEGORIES = [
@@ -105,6 +106,16 @@ export default {
 
     // Šablóny e-mailov, ktoré posiela plugin, do šatu webu.
     await zapisSablonyPluginu(strapi);
+
+    // Vzhľad webu: verejná odpoveď v pamäti nesie adresy a popisy fotiek — po zmene
+    // alebo zmazaní súboru (aj výmene obrázka v knižnici médií) sa musí poskladať znova.
+    strapi.db.lifecycles.subscribe({
+      models: ['plugin::upload.file'],
+      afterUpdate: () => pamatVzhladu.zmaz(),
+      afterUpdateMany: () => pamatVzhladu.zmaz(),
+      afterDelete: () => pamatVzhladu.zmaz(),
+      afterDeleteMany: () => pamatVzhladu.zmaz(),
+    });
   },
 };
 
@@ -526,6 +537,16 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     'api::nahlasenie.nahlasenie.findOne',
     'api::nahlasenie.nahlasenie.update',
     'api::nahlasenie.nahlasenie.delete',
+    // Vzhľad webu (10/2026) — koncept, zverejnenie, história a použitie fotiek.
+    // Verejná je len GET /api/vzhlad-webu (auth:false, práva nepotrebuje); členská
+    // rola nedostane nič. Controller si staff overuje ešte raz sám.
+    'api::vzhlad-webu.vzhlad-webu.koncept',
+    'api::vzhlad-webu.vzhlad-webu.ulozKoncept',
+    'api::vzhlad-webu.vzhlad-webu.zverejnit',
+    'api::vzhlad-webu.vzhlad-webu.historia',
+    'api::vzhlad-webu.vzhlad-webu.verziaHistorie',
+    'api::vzhlad-webu.vzhlad-webu.obnovit',
+    'api::vzhlad-webu.vzhlad-webu.pouzitieSuboru',
   ];
 
   for (const action of actions) {
@@ -539,7 +560,7 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
       console.log(`  ✓ staff: ${action}`);
     }
   }
-  console.log('🛡️  Staff: používatelia, moderácia fotiek, kategórie a štítky');
+  console.log('🛡️  Staff: používatelia, moderácia fotiek, kategórie a štítky, vzhľad webu');
 }
 
 /**
