@@ -24,6 +24,9 @@ Existujúce schémy sa nemenili (len pridávanie, plán časť 3).
 
 Bez Strapi konceptov (`draftAndPublish: false`) a bez i18n — koncept, zverejnenie aj jazyky si typ rieši
 výslovne (plán 4.1). Ani jeden typ nemá REST cesty ani verejné práva; všetko ide cez endpointy nižšie.
+Oba typy sú **skryté v paneli Strapi** (`pluginOptions.content-manager.visible` a `content-type-builder.visible`
+= `false`): ručná úprava JSON v paneli by obišla kontrolu údajov, súbeh aj históriu. Návrat na staršiu verziu
+ide cez `POST /api/vzhlad-webu/obnovit/:verzia` a zverejnenie.
 
 **`api::vzhlad-webu.vzhlad-webu`** (single type, tabuľka `vzhlad_webu`)
 
