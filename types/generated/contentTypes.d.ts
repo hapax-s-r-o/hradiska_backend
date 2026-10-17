@@ -1272,6 +1272,81 @@ export interface ApiShareShare extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiVzhladWebuVerziaVzhladWebuVerzia
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'vzhlad_webu_verzie';
+  info: {
+    description: 'Ka\u017Ed\u00E9 zverejnenie vzh\u013Eadu webu (obsah = zverejnen\u00FD vzh\u013Ead v tej verzii). Uchov\u00E1va sa najviac 100 najnov\u0161\u00EDch. Zapisuje len POST /api/vzhlad-webu/zverejnit.';
+    displayName: 'Vzh\u013Ead webu \u2013 hist\u00F3ria';
+    pluralName: 'vzhlad-webu-verzie';
+    singularName: 'vzhlad-webu-verzia';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::vzhlad-webu-verzia.vzhlad-webu-verzia'
+    > &
+      Schema.Attribute.Private;
+    obsah: Schema.Attribute.JSON;
+    poznamka: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    verzia: Schema.Attribute.Integer & Schema.Attribute.Required;
+    zakladDb: Schema.Attribute.JSON;
+    zverejnene: Schema.Attribute.DateTime;
+    zverejnil: Schema.Attribute.String;
+  };
+}
+
+export interface ApiVzhladWebuVzhladWebu extends Struct.SingleTypeSchema {
+  collectionName: 'vzhlad_webu';
+  info: {
+    description: 'Rozpracovan\u00FD (koncept) a zverejnen\u00FD vzh\u013Ead webu ako JSON (tvar v src/api/vzhlad-webu/typy.ts). Meni\u0165 len cez /api/vzhlad-webu/* \u2014 tie kontroluj\u00FA \u00FAdaje, s\u00FAbeh a ved\u00FA hist\u00F3riu. Bez Strapi konceptov a bez i18n z\u00E1merne (pl\u00E1n, \u010Das\u0165 4.1).';
+    displayName: 'Vzh\u013Ead webu';
+    pluralName: 'vzhlady-webu';
+    singularName: 'vzhlad-webu';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    koncept: Schema.Attribute.JSON;
+    konceptUpravene: Schema.Attribute.DateTime;
+    konceptUpravil: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::vzhlad-webu.vzhlad-webu'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    verziaKonceptu: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    verziaZverejnena: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    zakladDb: Schema.Attribute.JSON;
+    zverejnene: Schema.Attribute.JSON;
+    zverejneneKedy: Schema.Attribute.DateTime;
+    zverejnilKto: Schema.Attribute.String;
+  };
+}
+
 export interface PluginContentReleasesRelease
   extends Struct.CollectionTypeSchema {
   collectionName: 'strapi_releases';
@@ -1821,6 +1896,8 @@ declare module '@strapi/strapi' {
       'api::push-subscription.push-subscription': ApiPushSubscriptionPushSubscription;
       'api::reaction.reaction': ApiReactionReaction;
       'api::share.share': ApiShareShare;
+      'api::vzhlad-webu-verzia.vzhlad-webu-verzia': ApiVzhladWebuVerziaVzhladWebuVerzia;
+      'api::vzhlad-webu.vzhlad-webu': ApiVzhladWebuVzhladWebu;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

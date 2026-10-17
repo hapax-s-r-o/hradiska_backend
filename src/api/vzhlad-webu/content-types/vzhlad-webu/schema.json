@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "vzhlad_webu",
+  "info": {
+    "singularName": "vzhlad-webu",
+    "pluralName": "vzhlady-webu",
+    "displayName": "Vzhľad webu",
+    "description": "Rozpracovaný (koncept) a zverejnený vzhľad webu ako JSON (tvar v src/api/vzhlad-webu/typy.ts). Meniť len cez /api/vzhlad-webu/* — tie kontrolujú údaje, súbeh a vedú históriu. Bez Strapi konceptov a bez i18n zámerne (plán, časť 4.1)."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "koncept": {
+      "type": "json"
+    },
+    "zakladDb": {
+      "type": "json"
+    },
+    "zverejnene": {
+      "type": "json"
+    },
+    "verziaKonceptu": {
+      "type": "integer",
+      "default": 0
+    },
+    "verziaZverejnena": {
+      "type": "integer",
+      "default": 0
+    },
+    "konceptUpravil": {
+      "type": "string"
+    },
+    "konceptUpravene": {
+      "type": "datetime"
+    },
+    "zverejnilKto": {
+      "type": "string"
+    },
+    "zverejneneKedy": {
+      "type": "datetime"
+    }
+  }
+}

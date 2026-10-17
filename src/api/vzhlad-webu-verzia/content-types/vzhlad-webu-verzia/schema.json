@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vzhlad_webu_verzie",
+  "info": {
+    "singularName": "vzhlad-webu-verzia",
+    "pluralName": "vzhlad-webu-verzie",
+    "displayName": "Vzhľad webu – história",
+    "description": "Každé zverejnenie vzhľadu webu (obsah = zverejnený vzhľad v tej verzii). Uchováva sa najviac 100 najnovších. Zapisuje len POST /api/vzhlad-webu/zverejnit."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "verzia": {
+      "type": "integer",
+      "required": true
+    },
+    "obsah": {
+      "type": "json"
+    },
+    "zakladDb": {
+      "type": "json"
+    },
+    "zverejnil": {
+      "type": "string"
+    },
+    "zverejnene": {
+      "type": "datetime"
+    },
+    "poznamka": {
+      "type": "string",
+      "maxLength": 200
+    }
+  }
+}
