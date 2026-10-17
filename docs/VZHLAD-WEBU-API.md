@@ -215,7 +215,7 @@ v ceste `{ cesta: "/uploads/…" }` (originál aj zmenšeniny z `formats`). Neex
 - Menu: keď `poradie` nie je prázdne, `hlavnyRiadok` aj `skryte` musia byť v ňom; kategória nesmie byť naraz v hlavnom
   riadku aj skrytá; (proti DB) `poradie` musí obsahovať **každú** kategóriu z DB.
 - Obrázok: `{ id }` (kladné celé číslo) alebo `{ cesta }` podľa `VZOR_CESTY_OBRAZKA`, `pozicia` len „50% 40%“ (0–100 %).
-- Odkazy: cesta webu podľa `VZOR_CESTY` a navyše nie `//…` (prehliadač by to bral ako iný web); inak len `https://…`
+- Odkazy: cesta webu podľa `VZOR_CESTY` (nepustí ani `//…`, prehliadač by to bral ako iný web); inak len `https://…`
   (platná adresa bez mena a hesla) alebo `mailto:…`; sieť `email` len `mailto:`, ostatné siete len `https://`.
 - Proti DB: každá kategória (documentId) existuje; každý článok existuje a je **zverejnený v slovenčine**; každé `id`
   súboru existuje a je obrázok (`mime image/*`); na serveri musí mať každý odkaz `dokument` (documentId), slug nestačí.

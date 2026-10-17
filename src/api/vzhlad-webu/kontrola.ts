@@ -23,10 +23,10 @@ import {
   VZOR_CESTY_OBRAZKA,
   KLUCE_CINNOSTI,
   TYPY_SEKCII,
+  DRUHY_SIETI,
 } from './typy';
 import type {
   ChybaVzhladu,
-  DruhSiete,
   OdkazClanku,
   OdkazKategorie,
   Vzhlad,
@@ -51,7 +51,6 @@ const ZAKAZANE_V_ADRESE = /[\s<>"'`\\]/;
 const VZOR_EMAILU = /^[^\s@<>"'`\\]+@[^\s@<>"'`\\]+\.[^\s@<>"'`\\]+$/;
 
 const ZORADENIA: readonly ZoradenieClankov[] = ['zverejnenie', 'povodny-datum', 'abecedne'];
-const DRUHY_SIETI: readonly DruhSiete[] = ['facebook', 'instagram', 'youtube', 'email'];
 const VYBERY = ['najnovsie', 'rucne'] as const;
 
 /** Najviac sekcií domovskej (typy sú 4, „Ďalší obsah“ sa môže opakovať). */
@@ -230,9 +229,9 @@ function obrazokAleboNull(ch: Chyby, cesta: string, x: unknown): void {
   obrazok(ch, cesta, x);
 }
 
-/** Cesta webu: `VZOR_CESTY` a navyše nie `//…` (to by prehliadač čítal ako adresu iného webu). */
+/** Cesta webu podľa `VZOR_CESTY` (ten nepustí ani `//…`, čo by prehliadač čítal ako adresu iného webu). */
 function cestaWebu(ch: Chyby, cesta: string, x: unknown): void {
-  if (typeof x !== 'string' || x.length > LIMITY.url || !VZOR_CESTY.test(x) || x.startsWith('//')) {
+  if (typeof x !== 'string' || x.length > LIMITY.url || !VZOR_CESTY.test(x)) {
     ch.pridaj(cesta, 'Cesta webu musí začínať jedným „/“ a obsahovať len malé písmená, číslice, „-“, „/“ (a parametre ?a=b).');
   }
 }
